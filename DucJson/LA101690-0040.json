@@ -1,0 +1,2452 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1932, 
+                    "end": 1939, 
+                    "score": 0.12379132956266403, 
+                    "spot": "dormant"
+                }
+            ], 
+            "wiki_id": 233579, 
+            "wiki_title": "Dormancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1356, 
+                    "end": 1368, 
+                    "score": 0.3348968029022217, 
+                    "spot": "microbiology"
+                }
+            ], 
+            "wiki_id": 21393077, 
+            "wiki_title": "Microbiology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1877, 
+                    "end": 1883, 
+                    "score": 0.21330498158931732, 
+                    "spot": "others"
+                }, 
+                {
+                    "begin": 2366, 
+                    "end": 2372, 
+                    "score": 0.11514663696289062, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 634060, 
+            "wiki_title": "Spirometry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 769, 
+                    "end": 774, 
+                    "score": 0.17046204209327698, 
+                    "spot": "trend"
+                }
+            ], 
+            "wiki_id": 477060, 
+            "wiki_title": "Linear trend estimation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1956, 
+                    "end": 1962, 
+                    "score": 0.12003926932811737, 
+                    "spot": "active"
+                }
+            ], 
+            "wiki_id": 32571, 
+            "wiki_title": "Volcano"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1598, 
+                    "end": 1601, 
+                    "score": 0.06782994419336319, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 202898, 
+            "wiki_title": "Atmosphere of Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1392, 
+                    "end": 1411, 
+                    "score": 0.29855412244796753, 
+                    "spot": "College of Medicine"
+                }, 
+                {
+                    "begin": 1403, 
+                    "end": 1411, 
+                    "score": 0.31408143043518066, 
+                    "spot": "Medicine"
+                }
+            ], 
+            "wiki_id": 465584, 
+            "wiki_title": "Medical school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2070, 
+                    "end": 2078, 
+                    "score": 0.18514418601989746, 
+                    "spot": "syndrome"
+                }
+            ], 
+            "wiki_id": 277102, 
+            "wiki_title": "Syndrome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 193, 
+                    "score": 0.5, 
+                    "spot": "World Health Organization"
+                }, 
+                {
+                    "begin": 861, 
+                    "end": 864, 
+                    "score": 0.06653936952352524, 
+                    "spot": "WHO"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1251, 
+                    "end": 1256, 
+                    "score": 0.0006902899476699531, 
+                    "spot": "awful"
+                }
+            ], 
+            "wiki_id": 5549623, 
+            "wiki_title": "Awful (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2188, 
+                    "end": 2196, 
+                    "score": 0.11251427233219147, 
+                    "spot": "contract"
+                }
+            ], 
+            "wiki_id": 19280537, 
+            "wiki_title": "Contract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3577, 
+                    "end": 3583, 
+                    "score": 0.05241096019744873, 
+                    "spot": "combat"
+                }
+            ], 
+            "wiki_id": 23210314, 
+            "wiki_title": "Combat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1842, 
+                    "end": 1850, 
+                    "score": 0.300973117351532, 
+                    "spot": "organism"
+                }, 
+                {
+                    "begin": 1912, 
+                    "end": 1920, 
+                    "score": 0.2711884379386902, 
+                    "spot": "organism"
+                }, 
+                {
+                    "begin": 2318, 
+                    "end": 2326, 
+                    "score": 0.2682704031467438, 
+                    "spot": "organism"
+                }
+            ], 
+            "wiki_id": 19653842, 
+            "wiki_title": "Organism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3258, 
+                    "end": 3260, 
+                    "score": 0.04504888877272606, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 735, 
+                    "end": 743, 
+                    "score": 0.046555425971746445, 
+                    "spot": "parallel"
+                }
+            ], 
+            "wiki_id": 174653, 
+            "wiki_title": "Parallel universe (fiction)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1128, 
+                    "end": 1146, 
+                    "score": 0.5618927478790283, 
+                    "spot": "sub-Saharan Africa"
+                }
+            ], 
+            "wiki_id": 27067, 
+            "wiki_title": "Sub-Saharan Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 408, 
+                    "end": 415, 
+                    "score": 0.0738697499036789, 
+                    "spot": "segment"
+                }
+            ], 
+            "wiki_id": 240342, 
+            "wiki_title": "Market segmentation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 823, 
+                    "end": 839, 
+                    "score": 0.4285714328289032, 
+                    "spot": "Hiroshi Nakajima"
+                }
+            ], 
+            "wiki_id": 762509, 
+            "wiki_title": "Hiroshi Nakajima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 33, 
+                    "end": 38, 
+                    "score": 0.07103617489337921, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1822, 
+                    "end": 1831, 
+                    "score": 0.13704879581928253, 
+                    "spot": "worldwide"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 841, 
+                    "end": 857, 
+                    "score": 0.07758678495883942, 
+                    "spot": "director general"
+                }
+            ], 
+            "wiki_id": 275390, 
+            "wiki_title": "Director-General of the BBC"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3379, 
+                    "end": 3385, 
+                    "score": 0.07152152061462402, 
+                    "spot": "is 9.5"
+                }
+            ], 
+            "wiki_id": 201952, 
+            "wiki_title": "IS-95"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 861, 
+                    "end": 870, 
+                    "score": 0.0007346458733081818, 
+                    "spot": "WHO, said"
+                }
+            ], 
+            "wiki_id": 4642199, 
+            "wiki_title": "Who Said"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1218, 
+                    "end": 1226, 
+                    "score": 0.0028409091755747795, 
+                    "spot": "stunning"
+                }
+            ], 
+            "wiki_id": 11391789, 
+            "wiki_title": "The Stunning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3568, 
+                    "end": 3573, 
+                    "score": 0.18464507162570953, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 3678, 
+                    "end": 3683, 
+                    "score": 0.10001714527606964, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 9311172, 
+            "wiki_title": "Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 210, 
+                    "end": 215, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 477, 
+                    "end": 482, 
+                    "score": 0.03582359850406647, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 710, 
+                    "end": 715, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 891, 
+                    "end": 896, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1185, 
+                    "end": 1190, 
+                    "score": 0.09802086651325226, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1468, 
+                    "end": 1473, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1644, 
+                    "end": 1649, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2118, 
+                    "end": 2123, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2462, 
+                    "end": 2467, 
+                    "score": 0.07237894833087921, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2823, 
+                    "end": 2828, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3160, 
+                    "end": 3165, 
+                    "score": 0.06597018241882324, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3551, 
+                    "end": 3556, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3658, 
+                    "end": 3663, 
+                    "score": 0.03726793825626373, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 193, 
+                    "score": 0.0035952322650700808, 
+                    "spot": "Organization"
+                }
+            ], 
+            "wiki_id": 105070, 
+            "wiki_title": "Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1087, 
+                    "end": 1091, 
+                    "score": 0.11184229701757431, 
+                    "spot": "rise"
+                }
+            ], 
+            "wiki_id": 1148813, 
+            "wiki_title": "Nazi seizure of power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 247, 
+                    "end": 260, 
+                    "score": 0.1450727880001068, 
+                    "spot": "comprehensive"
+                }
+            ], 
+            "wiki_id": 699350, 
+            "wiki_title": "Comprehensive school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1148, 
+                    "end": 1161, 
+                    "score": 0.4764699339866638, 
+                    "spot": "Latin America"
+                }
+            ], 
+            "wiki_id": 18524, 
+            "wiki_title": "Latin America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1327, 
+                    "end": 1338, 
+                    "score": 0.14705882966518402, 
+                    "spot": "Barry Bloom"
+                }
+            ], 
+            "wiki_id": 47424130, 
+            "wiki_title": "Barry Bloom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3058, 
+                    "end": 3062, 
+                    "score": 0.09848413616418839, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3105, 
+                    "end": 3109, 
+                    "score": 0.17038927972316742, 
+                    "spot": "drop"
+                }, 
+                {
+                    "begin": 3105, 
+                    "end": 3112, 
+                    "score": 0.16798868775367737, 
+                    "spot": "drop in"
+                }
+            ], 
+            "wiki_id": 4576642, 
+            "wiki_title": "Drop-In"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3178, 
+                    "end": 3183, 
+                    "score": 0.09247776120901108, 
+                    "spot": "Bloom"
+                }
+            ], 
+            "wiki_id": 47473, 
+            "wiki_title": "Algal bloom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2308, 
+                    "end": 2313, 
+                    "score": 0.07943606376647949, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 679680, 
+            "wiki_title": "Asymptomatic carrier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3761, 
+                    "end": 3768, 
+                    "score": 0.033001769334077835, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 1467948, 
+            "wiki_title": "Problem solving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3276, 
+                    "end": 3285, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3094, 
+                    "end": 3104, 
+                    "score": 0.041351962834596634, 
+                    "spot": "unexpected"
+                }
+            ], 
+            "wiki_id": 15911064, 
+            "wiki_title": "Unexpected (Michelle Williams album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2595, 
+                    "end": 2597, 
+                    "score": 0.0007055374444462359, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2390, 
+                    "end": 2399, 
+                    "score": 0.014294245280325413, 
+                    "spot": "happening"
+                }
+            ], 
+            "wiki_id": 9939796, 
+            "wiki_title": "The Happening (2008 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2885, 
+                    "end": 2894, 
+                    "score": 0.0006552364211529493, 
+                    "spot": "recognize"
+                }
+            ], 
+            "wiki_id": 236809, 
+            "wiki_title": "Recall (memory)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3774, 
+                    "end": 3779, 
+                    "score": 0.07985034584999084, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 180121, 
+            "wiki_title": "Pharmaceutical drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3495, 
+                    "end": 3501, 
+                    "score": 0.12154858559370041, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 39902584, 
+            "wiki_title": "The Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2521, 
+                    "end": 2526, 
+                    "score": 0.34596553444862366, 
+                    "spot": "wards"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2023, 
+                    "end": 2031, 
+                    "score": 0.188852459192276, 
+                    "spot": "impaired"
+                }
+            ], 
+            "wiki_id": 56285, 
+            "wiki_title": "Disability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3007, 
+                    "end": 3015, 
+                    "score": 0.05850156769156456, 
+                    "spot": "comeback"
+                }
+            ], 
+            "wiki_id": 167740, 
+            "wiki_title": "Insult"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2602, 
+                    "end": 2606, 
+                    "score": 0.001594612724147737, 
+                    "spot": "fact"
+                }
+            ], 
+            "wiki_id": 5024938, 
+            "wiki_title": "Federation Against Copyright Theft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2201, 
+                    "end": 2207, 
+                    "score": 0.19676938652992249, 
+                    "spot": "active"
+                }
+            ], 
+            "wiki_id": 317524, 
+            "wiki_title": "Action (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 144, 
+                    "end": 153, 
+                    "score": 0.06765889376401901, 
+                    "spot": "initiated"
+                }
+            ], 
+            "wiki_id": 181626, 
+            "wiki_title": "Initiation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 537, 
+                    "end": 541, 
+                    "score": 0.3694782853126526, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 683, 
+                    "end": 687, 
+                    "score": 0.29129087924957275, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 2033, 
+                    "end": 2037, 
+                    "score": 0.47302699089050293, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 2043, 
+                    "end": 2078, 
+                    "score": 0.7760000228881836, 
+                    "spot": "acquired immune deficiency syndrome"
+                }, 
+                {
+                    "begin": 2434, 
+                    "end": 2438, 
+                    "score": 0.2902660667896271, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 2615, 
+                    "end": 2619, 
+                    "score": 0.23251670598983765, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 3035, 
+                    "end": 3039, 
+                    "score": 0.2999102473258972, 
+                    "spot": "AIDS"
+                }, 
+                {
+                    "begin": 3477, 
+                    "end": 3481, 
+                    "score": 0.12326709926128387, 
+                    "spot": "AIDS"
+                }
+            ], 
+            "wiki_id": 5069516, 
+            "wiki_title": "HIV/AIDS"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 241, 
+                    "end": 246, 
+                    "score": 0.1829245388507843, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 2179192, 
+            "wiki_title": "First school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2093, 
+                    "end": 2097, 
+                    "score": 0.23769685626029968, 
+                    "spot": "body"
+                }
+            ], 
+            "wiki_id": 54176, 
+            "wiki_title": "Human body"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 221, 
+                    "end": 232, 
+                    "score": 0.0347222238779068, 
+                    "spot": "U.N. agency"
+                }, 
+                {
+                    "begin": 1729, 
+                    "end": 1740, 
+                    "score": 0.16546262800693512, 
+                    "spot": "U.N. agency"
+                }
+            ], 
+            "wiki_id": 216034, 
+            "wiki_title": "United Nations System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 261, 
+                    "end": 265, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 29147378, 
+            "wiki_title": "Look: The Series"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2285, 
+                    "end": 2288, 
+                    "score": 0.12908720970153809, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 251573, 
+            "wiki_title": "Can (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2773, 
+                    "end": 2782, 
+                    "score": 0.15037992596626282, 
+                    "spot": "depressed"
+                }
+            ], 
+            "wiki_id": 840273, 
+            "wiki_title": "Depression (mood)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2531, 
+                    "end": 2539, 
+                    "score": 0.27260807156562805, 
+                    "spot": "patients"
+                }
+            ], 
+            "wiki_id": 437724, 
+            "wiki_title": "Patient"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 124, 
+                    "end": 126, 
+                    "score": 0.06756216287612915, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1415, 
+                    "end": 1423, 
+                    "score": 0.15617117285728455, 
+                    "spot": "New York"
+                }, 
+                {
+                    "begin": 3429, 
+                    "end": 3442, 
+                    "score": 0.3496677279472351, 
+                    "spot": "New York City"
+                }
+            ], 
+            "wiki_id": 645042, 
+            "wiki_title": "New York City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 784, 
+                    "end": 798, 
+                    "score": 0.2684217393398285, 
+                    "spot": "public \nhealth"
+                }, 
+                {
+                    "begin": 2852, 
+                    "end": 2865, 
+                    "score": 0.07371879369020462, 
+                    "spot": "public health"
+                }
+            ], 
+            "wiki_id": 463734, 
+            "wiki_title": "Public health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1832, 
+                    "end": 1837, 
+                    "score": 0.1457529217004776, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 16464479, 
+            "wiki_title": "Genetic carrier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 503, 
+                    "end": 508, 
+                    "score": 0.06942222267389297, 
+                    "spot": "sharp"
+                }
+            ], 
+            "wiki_id": 1049279, 
+            "wiki_title": "Martin Sharp"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 657, 
+                    "end": 662, 
+                    "score": 0.382800817489624, 
+                    "spot": "virus"
+                }
+            ], 
+            "wiki_id": 19167679, 
+            "wiki_title": "Virus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2667, 
+                    "end": 2679, 
+                    "score": 0.0008319467306137085, 
+                    "spot": "those people"
+                }
+            ], 
+            "wiki_id": 48487468, 
+            "wiki_title": "Those People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 17, 
+                    "score": 0.5090134739875793, 
+                    "spot": "Tuberculosis"
+                }, 
+                {
+                    "begin": 276, 
+                    "end": 288, 
+                    "score": 0.4896997809410095, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 693, 
+                    "end": 705, 
+                    "score": 0.44374221563339233, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 1069, 
+                    "end": 1081, 
+                    "score": 0.47990965843200684, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 1289, 
+                    "end": 1301, 
+                    "score": 0.3819412589073181, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 1475, 
+                    "end": 1487, 
+                    "score": 0.4872845709323883, 
+                    "spot": "Tuberculosis"
+                }, 
+                {
+                    "begin": 1690, 
+                    "end": 1702, 
+                    "score": 0.44312167167663574, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2216, 
+                    "end": 2228, 
+                    "score": 0.3727518320083618, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2546, 
+                    "end": 2558, 
+                    "score": 0.532880961894989, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2653, 
+                    "end": 2665, 
+                    "score": 0.3486205041408539, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2712, 
+                    "end": 2724, 
+                    "score": 0.3767277002334595, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2805, 
+                    "end": 2817, 
+                    "score": 0.4593876302242279, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 2922, 
+                    "end": 2934, 
+                    "score": 0.39802685379981995, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 3137, 
+                    "end": 3149, 
+                    "score": 0.42962655425071716, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 3220, 
+                    "end": 3232, 
+                    "score": 0.3559882640838623, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 3345, 
+                    "end": 3357, 
+                    "score": 0.420818954706192, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 3584, 
+                    "end": 3596, 
+                    "score": 0.42554277181625366, 
+                    "spot": "tuberculosis"
+                }
+            ], 
+            "wiki_id": 30653, 
+            "wiki_title": "Tuberculosis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 423, 
+                    "end": 433, 
+                    "score": 0.17362985014915466, 
+                    "spot": "population"
+                }, 
+                {
+                    "begin": 3405, 
+                    "end": 3415, 
+                    "score": 0.015736784785985947, 
+                    "spot": "population"
+                }
+            ], 
+            "wiki_id": 19017269, 
+            "wiki_title": "World population"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1260, 
+                    "score": 0.00719649950042367, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 4660226, 
+            "wiki_title": "On the Lot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1623, 
+                    "end": 1628, 
+                    "score": 0.2654419541358948, 
+                    "spot": "cough"
+                }
+            ], 
+            "wiki_id": 196974, 
+            "wiki_title": "Cough"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 79, 
+                    "end": 83, 
+                    "score": 0.011773940175771713, 
+                    "spot": "toll"
+                }
+            ], 
+            "wiki_id": 55551, 
+            "wiki_title": "Tariff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 127, 
+                    "end": 135, 
+                    "score": 0.12044037133455276, 
+                    "spot": "controls"
+                }
+            ], 
+            "wiki_id": 1640288, 
+            "wiki_title": "Scientific control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3755, 
+                    "end": 3760, 
+                    "score": 0.010060809552669525, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 20759, 
+            "wiki_title": "Major scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3780, 
+                    "end": 3784, 
+                    "score": 0.03296854719519615, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 902, 
+                    "end": 908, 
+                    "score": 0.09649435430765152, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 489670, 
+            "wiki_title": "Law of agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1342, 
+                    "end": 1351, 
+                    "score": 0.1712762713432312, 
+                    "spot": "professor"
+                }
+            ], 
+            "wiki_id": 20646803, 
+            "wiki_title": "Professor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2634, 
+                    "end": 2636, 
+                    "score": 0.04499152675271034, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 195533, 
+            "wiki_title": "Religious education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2837, 
+                    "end": 2850, 
+                    "score": 0.18729454278945923, 
+                    "spot": "United States"
+                }, 
+                {
+                    "begin": 3240, 
+                    "end": 3254, 
+                    "score": 0.19562727212905884, 
+                    "spot": "United \nStates"
+                }, 
+                {
+                    "begin": 3365, 
+                    "end": 3378, 
+                    "score": 0.18729454278945923, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3788, 
+                    "end": 3793, 
+                    "score": 0.052173275500535965, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2107, 
+                    "end": 2119, 
+                    "score": 0.08771929889917374, 
+                    "spot": "system. \n</P"
+                }
+            ], 
+            "wiki_id": 39770, 
+            "wiki_title": "IBM System p"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1315, 
+                    "score": 0.02905569039285183, 
+                    "spot": "gone away"
+                }
+            ], 
+            "wiki_id": 2492729, 
+            "wiki_title": "Gone Away"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3739, 
+                    "end": 3749, 
+                    "score": 0.011979823000729084, 
+                    "spot": "compliance"
+                }
+            ], 
+            "wiki_id": 1464132, 
+            "wiki_title": "Regulatory compliance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1924, 
+                    "score": 0.046458590775728226, 
+                    "spot": "can"
+                }, 
+                {
+                    "begin": 2340, 
+                    "end": 2343, 
+                    "score": 0.12390504777431488, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 198153, 
+            "wiki_title": "Canning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1681, 
+                    "end": 1686, 
+                    "score": 0.11728865653276443, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 2208, 
+                    "end": 2212, 
+                    "score": 0.2138371467590332, 
+                    "spot": "case"
+                }, 
+                {
+                    "begin": 3386, 
+                    "end": 3391, 
+                    "score": 0.0010344827314838767, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2680, 
+                    "end": 2684, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 1879562, 
+            "wiki_title": "Will Truman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 343, 
+                    "end": 349, 
+                    "score": 0.12489461898803711, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 587, 
+                    "end": 593, 
+                    "score": 0.06456980109214783, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2163, 
+                    "end": 2170, 
+                    "score": 0.10353361815214157, 
+                    "spot": "damaged"
+                }
+            ], 
+            "wiki_id": 304588, 
+            "wiki_title": "Brain damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2561, 
+                    "end": 2566, 
+                    "score": 0.08824335038661957, 
+                    "spot": "Bloom"
+                }, 
+                {
+                    "begin": 3536, 
+                    "end": 3541, 
+                    "score": 0.1093200147151947, 
+                    "spot": "Bloom"
+                }
+            ], 
+            "wiki_id": 26255613, 
+            "wiki_title": "Harold Bloom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1616, 
+                    "end": 1622, 
+                    "score": 0.002633341820910573, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2333, 
+                    "end": 2339, 
+                    "score": 0.2182016223669052, 
+                    "spot": "person"
+                }
+            ], 
+            "wiki_id": 682482, 
+            "wiki_title": "Human"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3117, 
+                    "end": 3121, 
+                    "score": 0.06379871815443039, 
+                    "spot": "rate"
+                }
+            ], 
+            "wiki_id": 163115, 
+            "wiki_title": "Interest rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3125, 
+                    "end": 3132, 
+                    "score": 0.0775175467133522, 
+                    "spot": "decline"
+                }
+            ], 
+            "wiki_id": 1758541, 
+            "wiki_title": "Urban decay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1057, 
+                    "end": 1063, 
+                    "score": 0.206002339720726, 
+                    "spot": "deaths"
+                }, 
+                {
+                    "begin": 2608, 
+                    "end": 2611, 
+                    "score": 0.138318732380867, 
+                    "spot": "die"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 461, 
+                    "end": 471, 
+                    "score": 0.09711096435785294, 
+                    "spot": "productive"
+                }
+            ], 
+            "wiki_id": 424899, 
+            "wiki_title": "Productivity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1586, 
+                    "end": 1601, 
+                    "score": 0.002596053993329406, 
+                    "spot": "through the air"
+                }
+            ], 
+            "wiki_id": 47034925, 
+            "wiki_title": "Through the Air"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3332, 
+                    "end": 3341, 
+                    "score": 0.09961367398500443, 
+                    "spot": "incidence"
+                }
+            ], 
+            "wiki_id": 167008, 
+            "wiki_title": "Incidence (epidemiology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1431, 
+                    "end": 1441, 
+                    "score": 0.10357452183961868, 
+                    "spot": "consultant"
+                }
+            ], 
+            "wiki_id": 33038861, 
+            "wiki_title": "Marvel One-Shots"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 542, 
+                    "end": 550, 
+                    "score": 0.2299661636352539, 
+                    "spot": "epidemic"
+                }, 
+                {
+                    "begin": 744, 
+                    "end": 752, 
+                    "score": 0.2575375437736511, 
+                    "spot": "epidemic"
+                }, 
+                {
+                    "begin": 2439, 
+                    "end": 2447, 
+                    "score": 0.28710469603538513, 
+                    "spot": "epidemic"
+                }, 
+                {
+                    "begin": 3040, 
+                    "end": 3048, 
+                    "score": 0.27775853872299194, 
+                    "spot": "epidemic"
+                }
+            ], 
+            "wiki_id": 66981, 
+            "wiki_title": "Epidemic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3692, 
+                    "end": 3698, 
+                    "score": 0.001482748775742948, 
+                    "spot": "always"
+                }
+            ], 
+            "wiki_id": 3221150, 
+            "wiki_title": "Always (brand)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1323, 
+                    "end": 1325, 
+                    "score": 0.0036201344337314367, 
+                    "spot": "Dr"
+                }
+            ], 
+            "wiki_id": 1166045, 
+            "wiki_title": "District Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3150, 
+                    "end": 3155, 
+                    "score": 0.02210414968430996, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 8645, 
+            "wiki_title": "Declension"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1036, 
+                    "end": 1042, 
+                    "score": 0.1882784366607666, 
+                    "spot": "number"
+                }, 
+                {
+                    "begin": 3194, 
+                    "end": 3200, 
+                    "score": 0.1462692767381668, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 42296, 
+            "wiki_title": "Grammatical number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 96, 
+                    "end": 100, 
+                    "score": 0.0028604615945369005, 
+                    "spot": "rise"
+                }, 
+                {
+                    "begin": 509, 
+                    "end": 513, 
+                    "score": 0.053246282041072845, 
+                    "spot": "rise"
+                }
+            ], 
+            "wiki_id": 12087254, 
+            "wiki_title": "Boston Dynamics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3507, 
+                    "end": 3516, 
+                    "score": 0.07766242325305939, 
+                    "spot": "incidence"
+                }
+            ], 
+            "wiki_id": 3134763, 
+            "wiki_title": "Tax incidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 199, 
+                    "end": 205, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 54406, 
+            "wiki_title": "Monday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 51, 
+                    "end": 69, 
+                    "score": 0.3281547427177429, 
+                    "spot": "infectious disease"
+                }, 
+                {
+                    "begin": 615, 
+                    "end": 623, 
+                    "score": 0.18056145310401917, 
+                    "spot": "infected"
+                }, 
+                {
+                    "begin": 974, 
+                    "end": 982, 
+                    "score": 0.16460338234901428, 
+                    "spot": "infected"
+                }, 
+                {
+                    "begin": 1500, 
+                    "end": 1520, 
+                    "score": 0.43558889627456665, 
+                    "spot": "communicable disease"
+                }, 
+                {
+                    "begin": 1607, 
+                    "end": 1615, 
+                    "score": 0.16040688753128052, 
+                    "spot": "infected"
+                }, 
+                {
+                    "begin": 1766, 
+                    "end": 1776, 
+                    "score": 0.11433272063732147, 
+                    "spot": "infectious"
+                }, 
+                {
+                    "begin": 1863, 
+                    "end": 1873, 
+                    "score": 0.23384250700473785, 
+                    "spot": "infectious"
+                }, 
+                {
+                    "begin": 2349, 
+                    "end": 2355, 
+                    "score": 0.2005242258310318, 
+                    "spot": "infect"
+                }, 
+                {
+                    "begin": 3838, 
+                    "end": 3847, 
+                    "score": 0.18819546699523926, 
+                    "spot": "infection"
+                }
+            ], 
+            "wiki_id": 37220, 
+            "wiki_title": "Infection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 799, 
+                    "end": 808, 
+                    "score": 0.08211129158735275, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2626, 
+                    "end": 2628, 
+                    "score": 0.04577895253896713, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 1685851, 
+            "wiki_title": "If (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 958, 
+                    "end": 964, 
+                    "score": 0.19272184371948242, 
+                    "spot": "adults"
+                }
+            ], 
+            "wiki_id": 167334, 
+            "wiki_title": "Adult"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 877, 
+                    "end": 886, 
+                    "score": 0.03405711054801941, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1203, 
+                    "end": 1207, 
+                    "score": 0.06822800636291504, 
+                    "spot": "data"
+                }
+            ], 
+            "wiki_id": 18985040, 
+            "wiki_title": "Data"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2866, 
+                    "end": 2875, 
+                    "score": 0.07503268867731094, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2901, 
+                    "end": 2905, 
+                    "score": 0.022336818277835846, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 1208665, 
+            "wiki_title": "Five (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1046, 
+                    "end": 1051, 
+                    "score": 0.19179755449295044, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 3204, 
+                    "end": 3209, 
+                    "score": 0.2192741483449936, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 3303, 
+                    "end": 3308, 
+                    "score": 0.0010344827314838767, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 3482, 
+                    "end": 3487, 
+                    "score": 0.0010344827314838767, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 12898, 
+            "wiki_title": "Grammatical case"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2973, 
+                    "end": 2978, 
+                    "score": 0.11092954128980637, 
+                    "spot": "1950s"
+                }
+            ], 
+            "wiki_id": 34573, 
+            "wiki_title": "1950s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3080, 
+                    "end": 3089, 
+                    "score": 0.05368577688932419, 
+                    "spot": "startling"
+                }
+            ], 
+            "wiki_id": 38076305, 
+            "wiki_title": "Deimatic behaviour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2752, 
+                    "end": 2755, 
+                    "score": 0.13005077838897705, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 320, 
+                    "end": 325, 
+                    "score": 0.048794809728860855, 
+                    "spot": "kills"
+                }
+            ], 
+            "wiki_id": 32558, 
+            "wiki_title": "Volleyball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1008, 
+                    "score": 0.05187274143099785, 
+                    "spot": "year 2000"
+                }
+            ], 
+            "wiki_id": 25739013, 
+            "wiki_title": "Year 2000 problem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 676, 
+                    "end": 682, 
+                    "score": 0.20314055681228638, 
+                    "spot": "causes"
+                }
+            ], 
+            "wiki_id": 10055, 
+            "wiki_title": "Etiology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1264, 
+                    "end": 1270, 
+                    "score": 0.12428310513496399, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 2673, 
+                    "end": 2679, 
+                    "score": 0.025005469098687172, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 3623, 
+                    "end": 3629, 
+                    "score": 0.15553933382034302, 
+                    "spot": "person"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2588, 
+                    "end": 2594, 
+                    "score": 0.06189791113138199, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 35907803, 
+            "wiki_title": "The People (1891)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2688, 
+                    "end": 2710, 
+                    "score": 0.21264368295669556, 
+                    "spot": "spreading the \ndisease"
+                }
+            ], 
+            "wiki_id": 146675, 
+            "wiki_title": "Spreading the Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 819, 
+                    "end": 821, 
+                    "score": 0.0849544107913971, 
+                    "spot": "Dr"
+                }
+            ], 
+            "wiki_id": 188886, 
+            "wiki_title": "Doctorate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 608, 
+                    "end": 614, 
+                    "score": 0.03333333507180214, 
+                    "spot": "dually"
+                }
+            ], 
+            "wiki_id": 600618, 
+            "wiki_title": "Duality (order theory)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1230, 
+                    "end": 1238, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1633, 
+                    "end": 1639, 
+                    "score": 0.2309766262769699, 
+                    "spot": "sneeze"
+                }
+            ], 
+            "wiki_id": 232411, 
+            "wiki_title": "Sneeze"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2414, 
+                    "end": 2421, 
+                    "score": 0.12541833519935608, 
+                    "spot": "nations"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2513, 
+                    "end": 2520, 
+                    "score": 0.19194498658180237, 
+                    "spot": "medical"
+                }
+            ], 
+            "wiki_id": 261925, 
+            "wiki_title": "Health care"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1528, 
+                    "end": 1533, 
+                    "score": 0.34043562412261963, 
+                    "spot": "lungs"
+                }
+            ], 
+            "wiki_id": 36863, 
+            "wiki_title": "Lung"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1544, 
+                    "end": 1550, 
+                    "score": 0.28713300824165344, 
+                    "spot": "organs"
+                }
+            ], 
+            "wiki_id": 152776, 
+            "wiki_title": "Organ (anatomy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 295, 
+                    "end": 301, 
+                    "score": 0.08896826952695847, 
+                    "spot": "decade"
+                }
+            ], 
+            "wiki_id": 695530, 
+            "wiki_title": "Decade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2270, 
+                    "end": 2276, 
+                    "score": 0.0008044582791626453, 
+                    "spot": "active"
+                }
+            ], 
+            "wiki_id": 154804, 
+            "wiki_title": "Active voice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 269, 
+                    "end": 275, 
+                    "score": 0.09342831373214722, 
+                    "spot": "global"
+                }
+            ], 
+            "wiki_id": 46313, 
+            "wiki_title": "Globalization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 594, 
+                    "end": 603, 
+                    "score": 0.0005581416189670563, 
+                    "spot": "worldwide"
+                }
+            ], 
+            "wiki_id": 19706670, 
+            "wiki_title": "I Am... Sasha Fierce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2748, 
+                    "end": 2751, 
+                    "score": 0.08147615939378738, 
+                    "spot": "You"
+                }
+            ], 
+            "wiki_id": 464907, 
+            "wiki_title": "You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1449, 
+                    "end": 1463, 
+                    "score": 0.2841196656227112, 
+                    "spot": "United Nations"
+                }
+            ], 
+            "wiki_id": 31769, 
+            "wiki_title": "United Nations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3466, 
+                    "end": 3472, 
+                    "score": 0.0007761751185171306, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 3220275, 
+            "wiki_title": "Number (sports)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1574, 
+                    "end": 1585, 
+                    "score": 0.1360534429550171, 
+                    "spot": "transmitted"
+                }
+            ], 
+            "wiki_id": 729317, 
+            "wiki_title": "Transmission (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 634, 
+                    "end": 662, 
+                    "score": 0.3017817437648773, 
+                    "spot": "human immunodeficiency virus"
+                }, 
+                {
+                    "begin": 664, 
+                    "end": 667, 
+                    "score": 0.5095185041427612, 
+                    "spot": "HIV"
+                }, 
+                {
+                    "begin": 988, 
+                    "end": 991, 
+                    "score": 0.3525235652923584, 
+                    "spot": "HIV"
+                }
+            ], 
+            "wiki_id": 14170, 
+            "wiki_title": "HIV"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1376, 
+                    "end": 1411, 
+                    "score": 0.5, 
+                    "spot": "Albert Einstein College of Medicine"
+                }
+            ], 
+            "wiki_id": 319759, 
+            "wiki_title": "Albert Einstein College of Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 335, 
+                    "end": 342, 
+                    "score": 0.09578801691532135, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 579, 
+                    "end": 586, 
+                    "score": 0.10315172374248505, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 935, 
+                    "end": 942, 
+                    "score": 0.17939378321170807, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 1669, 
+                    "end": 1676, 
+                    "score": 0.05842724069952965, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3723, 
+                    "end": 3732, 
+                    "score": 0.03851698338985443, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3324, 
+                    "end": 3331, 
+                    "score": 0.13223868608474731, 
+                    "spot": "overall"
+                }
+            ], 
+            "wiki_id": 5090199, 
+            "wiki_title": "Length overall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 443, 
+                    "end": 455, 
+                    "score": 0.18081262707710266, 
+                    "spot": "economically"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3619, 
+                    "end": 3629, 
+                    "score": 0.20652425289154053, 
+                    "spot": "per person"
+                }
+            ], 
+            "wiki_id": 357788, 
+            "wiki_title": "Per capita"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2128, 
+                    "end": 2138, 
+                    "score": 0.04472201317548752, 
+                    "spot": "individual"
+                }
+            ], 
+            "wiki_id": 15181, 
+            "wiki_title": "Individualism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1801, 
+                    "end": 1808, 
+                    "score": 0.09845628589391708, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 260914, 
+            "wiki_title": "Orders of magnitude (numbers)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 965, 
+                    "end": 969, 
+                    "score": 0.13552846014499664, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1082, 
+                    "end": 1086, 
+                    "score": 0.1288394331932068, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 384, 
+                    "end": 388, 
+                    "score": 0.1357891708612442, 
+                    "spot": "ages"
+                }
+            ], 
+            "wiki_id": 16413778, 
+            "wiki_title": "Ageing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 312, 
+                    "end": 319, 
+                    "score": 0.057622432708740234, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 1964, 
+                    "end": 1971, 
+                    "score": 0.1680329442024231, 
+                    "spot": "disease"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1276, 
+                    "end": 1283, 
+                    "score": 0.12855388224124908, 
+                    "spot": "thought"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 714, 
+                    "end": 720, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"It"
+                }
+            ], 
+            "wiki_id": 16256886, 
+            "wiki_title": "P:IT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 484, 
+                    "end": 487, 
+                    "score": 0.10602187365293503, 
+                    "spot": "WHO"
+                }, 
+                {
+                    "begin": 2304, 
+                    "end": 2307, 
+                    "score": 0.08730372786521912, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2505, 
+                    "end": 2509, 
+                    "score": 0.15332601964473724, 
+                    "spot": "beds"
+                }
+            ], 
+            "wiki_id": 951407, 
+            "wiki_title": "Bed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3558, 
+                    "end": 3567, 
+                    "score": 0.09348846971988678, 
+                    "spot": "Effective"
+                }
+            ], 
+            "wiki_id": 896469, 
+            "wiki_title": "Efficacy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1166, 
+                    "end": 1180, 
+                    "score": 0.21833042800426483, 
+                    "spot": "Southeast Asia"
+                }
+            ], 
+            "wiki_id": 28741, 
+            "wiki_title": "Southeast Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1017, 
+                    "end": 1026, 
+                    "score": 0.0005301959463395178, 
+                    "spot": "predicted"
+                }
+            ], 
+            "wiki_id": 246066, 
+            "wiki_title": "Prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2735, 
+                    "end": 2746, 
+                    "score": 0.04271727055311203, 
+                    "spot": "communities"
+                }
+            ], 
+            "wiki_id": 5695, 
+            "wiki_title": "Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 537, 
+                    "end": 550, 
+                    "score": 0.26143214106559753, 
+                    "spot": "AIDS epidemic"
+                }, 
+                {
+                    "begin": 2434, 
+                    "end": 2447, 
+                    "score": 0.3264787495136261, 
+                    "spot": "AIDS epidemic"
+                }, 
+                {
+                    "begin": 3035, 
+                    "end": 3048, 
+                    "score": 0.26143214106559753, 
+                    "spot": "AIDS epidemic"
+                }
+            ], 
+            "wiki_id": 2340554, 
+            "wiki_title": "Epidemiology of HIV/AIDS"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3318, 
+                    "score": 0.135940819978714, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3597, 
+                    "end": 3601, 
+                    "score": 0.1183374747633934, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1998, 
+                    "end": 2011, 
+                    "score": 0.5290195941925049, 
+                    "spot": "immune system"
+                }, 
+                {
+                    "begin": 2100, 
+                    "end": 2113, 
+                    "score": 0.3684768080711365, 
+                    "spot": "immune system"
+                }, 
+                {
+                    "begin": 2171, 
+                    "end": 2184, 
+                    "score": 0.4001924991607666, 
+                    "spot": "immune system"
+                }, 
+                {
+                    "begin": 2784, 
+                    "end": 2797, 
+                    "score": 0.49552661180496216, 
+                    "spot": "immune system"
+                }
+            ], 
+            "wiki_id": 14958, 
+            "wiki_title": "Immune system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1564, 
+                    "end": 1573, 
+                    "score": 0.34473055601119995, 
+                    "spot": "bacterium"
+                }
+            ], 
+            "wiki_id": 9028799, 
+            "wiki_title": "Bacteria"
+        }
+    ]
+}

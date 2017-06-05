@@ -1,0 +1,4288 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 881, 
+                    "end": 884, 
+                    "score": 0.050018586218357086, 
+                    "spot": "key"
+                }
+            ], 
+            "wiki_id": 70640, 
+            "wiki_title": "Key (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 425, 
+                    "end": 435, 
+                    "score": 0.23041528463363647, 
+                    "spot": "minorities"
+                }
+            ], 
+            "wiki_id": 3058522, 
+            "wiki_title": "Race and ethnicity in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2624, 
+                    "end": 2640, 
+                    "score": 0.18615661561489105, 
+                    "spot": "State University"
+                }
+            ], 
+            "wiki_id": 1640986, 
+            "wiki_title": "Public university"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5405, 
+                    "end": 5410, 
+                    "score": 0.0026421595830470324, 
+                    "spot": "loads"
+                }
+            ], 
+            "wiki_id": 3462904, 
+            "wiki_title": "Electrical load"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1105, 
+                    "end": 1113, 
+                    "score": 0.05621277168393135, 
+                    "spot": "position"
+                }
+            ], 
+            "wiki_id": 256587, 
+            "wiki_title": "List of human positions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3769, 
+                    "end": 3775, 
+                    "score": 0.16395512223243713, 
+                    "spot": "stents"
+                }
+            ], 
+            "wiki_id": 414962, 
+            "wiki_title": "Stent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3041, 
+                    "end": 3045, 
+                    "score": 0.039025790989398956, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 306543, 
+            "wiki_title": "Structural analysis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4153, 
+                    "end": 4173, 
+                    "score": 0.36194029450416565, 
+                    "spot": "Boston City Hospital"
+                }
+            ], 
+            "wiki_id": 3993535, 
+            "wiki_title": "Boston City Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 836, 
+                    "end": 847, 
+                    "score": 0.09994195401668549, 
+                    "spot": "researchers"
+                }, 
+                {
+                    "begin": 1144, 
+                    "end": 1154, 
+                    "score": 0.1320977360010147, 
+                    "spot": "researcher"
+                }, 
+                {
+                    "begin": 1632, 
+                    "end": 1643, 
+                    "score": 0.1899426132440567, 
+                    "spot": "Researchers"
+                }, 
+                {
+                    "begin": 3025, 
+                    "end": 3033, 
+                    "score": 0.12960875034332275, 
+                    "spot": "Research"
+                }, 
+                {
+                    "begin": 3744, 
+                    "end": 3755, 
+                    "score": 0.13197468221187592, 
+                    "spot": "researchers"
+                }
+            ], 
+            "wiki_id": 25524, 
+            "wiki_title": "Research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 601, 
+                    "end": 608, 
+                    "score": 0.0983518660068512, 
+                    "spot": "victims"
+                }
+            ], 
+            "wiki_id": 36488815, 
+            "wiki_title": "2012 Aurora shooting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1936, 
+                    "end": 1942, 
+                    "score": 0.07492151856422424, 
+                    "spot": "reduce"
+                }
+            ], 
+            "wiki_id": 66313, 
+            "wiki_title": "Redox"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5348, 
+                    "end": 5352, 
+                    "score": 0.054420553147792816, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1379, 
+                    "end": 1385, 
+                    "score": 0.11051729321479797, 
+                    "spot": "common"
+                }
+            ], 
+            "wiki_id": 910535, 
+            "wiki_title": "Common land"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4203, 
+                    "end": 4217, 
+                    "score": 0.1268656700849533, 
+                    "spot": "swinging doors"
+                }
+            ], 
+            "wiki_id": 20200531, 
+            "wiki_title": "Swinging Doors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1746, 
+                    "end": 1755, 
+                    "score": 0.1273707151412964, 
+                    "spot": "attention"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 612, 
+                    "end": 617, 
+                    "score": 0.31768110394477844, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 5248, 
+                    "end": 5253, 
+                    "score": 0.27307748794555664, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 29810, 
+            "wiki_title": "Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1438, 
+                    "end": 1441, 
+                    "score": 0.12761953473091125, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 4270, 
+                    "end": 4273, 
+                    "score": 0.10163440555334091, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4397, 
+                    "end": 4402, 
+                    "score": 0.1528765708208084, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2237, 
+                    "end": 2245, 
+                    "score": 0.07329060137271881, 
+                    "spot": "knitting"
+                }
+            ], 
+            "wiki_id": 16622, 
+            "wiki_title": "Knitting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2803, 
+                    "end": 2815, 
+                    "score": 0.028409091755747795, 
+                    "spot": "heat shields"
+                }
+            ], 
+            "wiki_id": 45294, 
+            "wiki_title": "Atmospheric entry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4324, 
+                    "end": 4339, 
+                    "score": 0.05507662892341614, 
+                    "spot": "unconsciousness"
+                }
+            ], 
+            "wiki_id": 32149, 
+            "wiki_title": "Unconsciousness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 821, 
+                    "end": 827, 
+                    "score": 0.06478427350521088, 
+                    "spot": "sparks"
+                }
+            ], 
+            "wiki_id": 993683, 
+            "wiki_title": "Sparks (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2609, 
+                    "end": 2640, 
+                    "score": 0.5, 
+                    "spot": "North Carolina State University"
+                }
+            ], 
+            "wiki_id": 72544, 
+            "wiki_title": "North Carolina State University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2718, 
+                    "end": 2723, 
+                    "score": 0.1264100819826126, 
+                    "spot": "braid"
+                }
+            ], 
+            "wiki_id": 3240789, 
+            "wiki_title": "Trim (sewing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4635, 
+                    "end": 4644, 
+                    "score": 0.030286138877272606, 
+                    "spot": "right now"
+                }
+            ], 
+            "wiki_id": 19382933, 
+            "wiki_title": "Right Now (Na Na Na)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2049, 
+                    "end": 2052, 
+                    "score": 0.06496696174144745, 
+                    "spot": "you"
+                }, 
+                {
+                    "begin": 2146, 
+                    "end": 2149, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 8944898, 
+            "wiki_title": "The Mail on Sunday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2383, 
+                    "end": 2390, 
+                    "score": 0.004414186347275972, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 4814950, 
+            "wiki_title": "Believe (Cher song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3540, 
+                    "end": 3544, 
+                    "score": 0.1973796784877777, 
+                    "spot": "wear"
+                }
+            ], 
+            "wiki_id": 366023, 
+            "wiki_title": "Wear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4223, 
+                    "end": 4228, 
+                    "score": 0.006139818113297224, 
+                    "spot": "Peter"
+                }
+            ], 
+            "wiki_id": 44356, 
+            "wiki_title": "Peter the Great"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5672, 
+                    "end": 5701, 
+                    "score": 0.37288135290145874, 
+                    "spot": "American\nHospital Association"
+                }
+            ], 
+            "wiki_id": 21535235, 
+            "wiki_title": "American Hospital Association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5152, 
+                    "end": 5159, 
+                    "score": 0.3341814875602722, 
+                    "spot": "Atlanta"
+                }
+            ], 
+            "wiki_id": 3138, 
+            "wiki_title": "Atlanta"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1706, 
+                    "end": 1722, 
+                    "score": 0.11133222281932831, 
+                    "spot": "lack of exercise"
+                }
+            ], 
+            "wiki_id": 1676480, 
+            "wiki_title": "Sedentary lifestyle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 118, 
+                    "score": 0.3123369812965393, 
+                    "spot": "vein"
+                }
+            ], 
+            "wiki_id": 53227, 
+            "wiki_title": "Vein"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5466, 
+                    "end": 5479, 
+                    "score": 0.049528300762176514, 
+                    "spot": "family doctor"
+                }
+            ], 
+            "wiki_id": 1656748, 
+            "wiki_title": "Family medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3505, 
+                    "end": 3510, 
+                    "score": 0.288537859916687, 
+                    "spot": "steel"
+                }
+            ], 
+            "wiki_id": 27058, 
+            "wiki_title": "Steel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1059, 
+                    "end": 1061, 
+                    "score": 0.03178451955318451, 
+                    "spot": "Dr"
+                }, 
+                {
+                    "begin": 1269, 
+                    "end": 1271, 
+                    "score": 0.12047037482261658, 
+                    "spot": "Dr"
+                }, 
+                {
+                    "begin": 1807, 
+                    "end": 1814, 
+                    "score": 0.10841012001037598, 
+                    "spot": "doctors"
+                }, 
+                {
+                    "begin": 4371, 
+                    "end": 4381, 
+                    "score": 0.12821994721889496, 
+                    "spot": "physicians"
+                }, 
+                {
+                    "begin": 4416, 
+                    "end": 4423, 
+                    "score": 0.13321223855018616, 
+                    "spot": "doctors"
+                }
+            ], 
+            "wiki_id": 23315, 
+            "wiki_title": "Physician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4229, 
+                    "end": 4234, 
+                    "score": 0.04134029522538185, 
+                    "spot": "Moyer"
+                }
+            ], 
+            "wiki_id": 1790281, 
+            "wiki_title": "Thomas J. Moyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1386, 
+                    "end": 1390, 
+                    "score": 0.12995396554470062, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 1099348, 
+            "wiki_title": "Morphology (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2681, 
+                    "end": 2689, 
+                    "score": 0.15013787150382996, 
+                    "spot": "students"
+                }
+            ], 
+            "wiki_id": 155526, 
+            "wiki_title": "Student"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4840, 
+                    "end": 4844, 
+                    "score": 0.3271385431289673, 
+                    "spot": "AIDS"
+                }
+            ], 
+            "wiki_id": 5069516, 
+            "wiki_title": "HIV/AIDS"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4263, 
+                    "end": 4269, 
+                    "score": 0.10368651896715164, 
+                    "spot": "victim"
+                }
+            ], 
+            "wiki_id": 18055330, 
+            "wiki_title": "Victimisation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4448, 
+                    "end": 4457, 
+                    "score": 0.484941303730011, 
+                    "spot": "marijuana"
+                }
+            ], 
+            "wiki_id": 1481886, 
+            "wiki_title": "Cannabis (drug)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1682, 
+                    "end": 1687, 
+                    "score": 0.0009045096230693161, 
+                    "spot": "cheap"
+                }
+            ], 
+            "wiki_id": 13114137, 
+            "wiki_title": "Cheap (ward)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4807, 
+                    "end": 4812, 
+                    "score": 0.24199116230010986, 
+                    "spot": "Drugs"
+                }
+            ], 
+            "wiki_id": 9311172, 
+            "wiki_title": "Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4303, 
+                    "end": 4308, 
+                    "score": 0.01044386439025402, 
+                    "spot": "slips"
+                }
+            ], 
+            "wiki_id": 2061117, 
+            "wiki_title": "Slip (clothing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3147, 
+                    "end": 3151, 
+                    "score": 0.1659376323223114, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 1786600, 
+            "wiki_title": "Come (Prince album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3323, 
+                    "end": 3330, 
+                    "score": 0.24000215530395508, 
+                    "spot": "torsion"
+                }
+            ], 
+            "wiki_id": 3039253, 
+            "wiki_title": "Torsion (mechanics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1738, 
+                    "end": 1755, 
+                    "score": 0.10790368914604187, 
+                    "spot": "medical attention"
+                }
+            ], 
+            "wiki_id": 11296, 
+            "wiki_title": "First aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2016, 
+                    "end": 2022, 
+                    "score": 0.061062682420015335, 
+                    "spot": "mother"
+                }
+            ], 
+            "wiki_id": 83430, 
+            "wiki_title": "Mother"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1055, 
+                    "end": 1058, 
+                    "score": 0.05937909707427025, 
+                    "spot": "led"
+                }, 
+                {
+                    "begin": 1342, 
+                    "end": 1345, 
+                    "score": 0.08713454753160477, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1417, 
+                    "end": 1422, 
+                    "score": 0.28572365641593933, 
+                    "spot": "obese"
+                }
+            ], 
+            "wiki_id": 56435, 
+            "wiki_title": "Obesity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1235, 
+                    "end": 1249, 
+                    "score": 0.1052442193031311, 
+                    "spot": "Science Center"
+                }
+            ], 
+            "wiki_id": 4354949, 
+            "wiki_title": "Science center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1228, 
+                    "end": 1249, 
+                    "score": 0.01046025101095438, 
+                    "spot": "Health Science Center"
+                }
+            ], 
+            "wiki_id": 16146042, 
+            "wiki_title": "University of Florida Health Science Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 912, 
+                    "end": 917, 
+                    "score": 0.011567911133170128, 
+                    "spot": "ninth"
+                }
+            ], 
+            "wiki_id": 325378, 
+            "wiki_title": "United States Court of Appeals for the Ninth Circuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3350, 
+                    "end": 3352, 
+                    "score": 0.09175831079483032, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 527, 
+                    "end": 534, 
+                    "score": 0.057282812893390656, 
+                    "spot": "develop"
+                }
+            ], 
+            "wiki_id": 8449, 
+            "wiki_title": "Developmental biology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 70, 
+                    "end": 75, 
+                    "score": 0.05689267814159393, 
+                    "spot": "nurse"
+                }
+            ], 
+            "wiki_id": 18403271, 
+            "wiki_title": "Nursing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2155, 
+                    "end": 2159, 
+                    "score": 0.0019259870750829577, 
+                    "spot": "TEXT"
+                }
+            ], 
+            "wiki_id": 38518, 
+            "wiki_title": "Lyrics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 298, 
+                    "end": 304, 
+                    "score": 0.05118153989315033, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 986871, 
+            "wiki_title": "Drug test"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1785, 
+                    "end": 1798, 
+                    "score": 0.20000000298023224, 
+                    "spot": "cultural bias"
+                }
+            ], 
+            "wiki_id": 49333, 
+            "wiki_title": "Cultural bias"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4791, 
+                    "end": 4802, 
+                    "score": 0.16143400967121124, 
+                    "spot": "Association"
+                }
+            ], 
+            "wiki_id": 219580, 
+            "wiki_title": "Freedom of association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1350, 
+                    "end": 1360, 
+                    "score": 0.19441524147987366, 
+                    "spot": "grassroots"
+                }
+            ], 
+            "wiki_id": 451914, 
+            "wiki_title": "Grassroots"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 104, 
+                    "score": 0.1653309464454651, 
+                    "spot": "needle"
+                }
+            ], 
+            "wiki_id": 320351, 
+            "wiki_title": "Hypodermic needle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2533, 
+                    "end": 2537, 
+                    "score": 0.15285170078277588, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 27321982, 
+            "wiki_title": "Will Horton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5221, 
+                    "end": 5232, 
+                    "score": 0.1953171342611313, 
+                    "spot": "Minneapolis"
+                }
+            ], 
+            "wiki_id": 6097240, 
+            "wiki_title": "Minneapolis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2458, 
+                    "end": 2460, 
+                    "score": 0.03957061097025871, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 61103, 
+            "wiki_title": "German reunification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3884, 
+                    "end": 3890, 
+                    "score": 0.0027279811911284924, 
+                    "spot": "shapes"
+                }
+            ], 
+            "wiki_id": 18215380, 
+            "wiki_title": "The Shapes (British band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2038, 
+                    "end": 2044, 
+                    "score": 0.09505113959312439, 
+                    "spot": "pounds"
+                }
+            ], 
+            "wiki_id": 270673, 
+            "wiki_title": "Pound sterling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4431, 
+                    "end": 4438, 
+                    "score": 0.3214552402496338, 
+                    "spot": "Cocaine"
+                }
+            ], 
+            "wiki_id": 7701, 
+            "wiki_title": "Cocaine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2380, 
+                    "end": 2390, 
+                    "score": 0.0032573288772255182, 
+                    "spot": "We believe"
+                }
+            ], 
+            "wiki_id": 6163038, 
+            "wiki_title": "We Believe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3025, 
+                    "end": 3040, 
+                    "score": 0.13366416096687317, 
+                    "spot": "Research\nCenter"
+                }
+            ], 
+            "wiki_id": 2862757, 
+            "wiki_title": "Research institute"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5273, 
+                    "end": 5286, 
+                    "score": 0.30578452348709106, 
+                    "spot": "New York City"
+                }
+            ], 
+            "wiki_id": 645042, 
+            "wiki_title": "New York City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2113, 
+                    "end": 2119, 
+                    "score": 0.006413811352103949, 
+                    "spot": "Friday"
+                }
+            ], 
+            "wiki_id": 38252, 
+            "wiki_title": "Radiohead"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1361, 
+                    "end": 1366, 
+                    "score": 0.10218191146850586, 
+                    "spot": "study"
+                }, 
+                {
+                    "begin": 1864, 
+                    "end": 1873, 
+                    "score": 0.22210310399532318, 
+                    "spot": "Educating"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3034, 
+                    "end": 3040, 
+                    "score": 0.017667602747678757, 
+                    "spot": "Center"
+                }
+            ], 
+            "wiki_id": 583923, 
+            "wiki_title": "Center fielder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4748, 
+                    "end": 4757, 
+                    "score": 0.13374726474285126, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5337, 
+                    "end": 5342, 
+                    "score": 0.02881738357245922, 
+                    "spot": "comes"
+                }
+            ], 
+            "wiki_id": 888207, 
+            "wiki_title": "Etymology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 195, 
+                    "end": 204, 
+                    "score": 0.0011674420675262809, 
+                    "spot": "daughters"
+                }
+            ], 
+            "wiki_id": 1446532, 
+            "wiki_title": "Daughters (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3950, 
+                    "end": 3956, 
+                    "score": 0.14178627729415894, 
+                    "spot": "wiring"
+                }
+            ], 
+            "wiki_id": 1105937, 
+            "wiki_title": "Electrical wiring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4003, 
+                    "end": 4014, 
+                    "score": 0.017543859779834747, 
+                    "spot": "big problem"
+                }
+            ], 
+            "wiki_id": 232863, 
+            "wiki_title": "The Fairly OddParents"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2624, 
+                    "end": 2629, 
+                    "score": 0.1563463658094406, 
+                    "spot": "State"
+                }
+            ], 
+            "wiki_id": 471603, 
+            "wiki_title": "State school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3172, 
+                    "score": 0.0731724426150322, 
+                    "spot": "driving"
+                }
+            ], 
+            "wiki_id": 80750, 
+            "wiki_title": "Driving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3611, 
+                    "end": 3617, 
+                    "score": 0.600625216960907, 
+                    "spot": "Kevlar"
+                }
+            ], 
+            "wiki_id": 16759, 
+            "wiki_title": "Kevlar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3416, 
+                    "end": 3424, 
+                    "score": 0.20022261142730713, 
+                    "spot": "concrete"
+                }
+            ], 
+            "wiki_id": 5371, 
+            "wiki_title": "Concrete"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5716, 
+                    "end": 5731, 
+                    "score": 0.10172414034605026, 
+                    "spot": "ambulatory care"
+                }
+            ], 
+            "wiki_id": 325840, 
+            "wiki_title": "Ambulatory care"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2551, 
+                    "end": 2553, 
+                    "score": 0.17832154035568237, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 1583157, 
+            "wiki_title": "Go (game show)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 138, 
+                    "end": 151, 
+                    "score": 0.046296294778585434, 
+                    "spot": "drawing blood"
+                }
+            ], 
+            "wiki_id": 3168384, 
+            "wiki_title": "Drawing Blood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2962, 
+                    "end": 2969, 
+                    "score": 0.24045342206954956, 
+                    "spot": "degrees"
+                }
+            ], 
+            "wiki_id": 1195294, 
+            "wiki_title": "Degree (angle)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1299, 
+                    "end": 1307, 
+                    "score": 0.04796023294329643, 
+                    "spot": "10 years"
+                }
+            ], 
+            "wiki_id": 477069, 
+            "wiki_title": "Anniversary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2643, 
+                    "end": 2651, 
+                    "score": 0.14777255058288574, 
+                    "spot": "textiles"
+                }, 
+                {
+                    "begin": 3406, 
+                    "end": 3412, 
+                    "score": 0.12051098048686981, 
+                    "spot": "fabric"
+                }
+            ], 
+            "wiki_id": 51892, 
+            "wiki_title": "Textile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2391, 
+                    "end": 2393, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 5333723, 
+            "wiki_title": "If (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1841, 
+                    "end": 1850, 
+                    "score": 0.13575288653373718, 
+                    "spot": "acquiring"
+                }
+            ], 
+            "wiki_id": 20769, 
+            "wiki_title": "Mergers and acquisitions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2289, 
+                    "end": 2295, 
+                    "score": 0.2605496346950531, 
+                    "spot": "fibers"
+                }, 
+                {
+                    "begin": 2420, 
+                    "end": 2426, 
+                    "score": 0.1615162491798401, 
+                    "spot": "fibers"
+                }, 
+                {
+                    "begin": 2748, 
+                    "end": 2754, 
+                    "score": 0.27619102597236633, 
+                    "spot": "fibers"
+                }, 
+                {
+                    "begin": 3112, 
+                    "end": 3118, 
+                    "score": 0.13590508699417114, 
+                    "spot": "fibers"
+                }, 
+                {
+                    "begin": 3213, 
+                    "end": 3218, 
+                    "score": 0.22996732592582703, 
+                    "spot": "fiber"
+                }, 
+                {
+                    "begin": 3593, 
+                    "end": 3599, 
+                    "score": 0.1838112771511078, 
+                    "spot": "fibers"
+                }
+            ], 
+            "wiki_id": 140558, 
+            "wiki_title": "Fiber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5648, 
+                    "end": 5654, 
+                    "score": 0.13919110596179962, 
+                    "spot": "Howard"
+                }
+            ], 
+            "wiki_id": 2026115, 
+            "wiki_title": "Terrence Howard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2875, 
+                    "end": 2879, 
+                    "score": 0.1535424143075943, 
+                    "spot": "Mars"
+                }, 
+                {
+                    "begin": 3012, 
+                    "end": 3016, 
+                    "score": 0.4255750775337219, 
+                    "spot": "Mars"
+                }
+            ], 
+            "wiki_id": 14640471, 
+            "wiki_title": "Mars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 585, 
+                    "score": 0.027585972100496292, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 961, 
+                    "end": 968, 
+                    "score": 0.08215245604515076, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5085, 
+                    "end": 5092, 
+                    "score": 0.0006531366379931569, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5125, 
+                    "end": 5132, 
+                    "score": 0.027073297649621964, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5164, 
+                    "end": 5171, 
+                    "score": 0.033012572675943375, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5187, 
+                    "end": 5194, 
+                    "score": 0.07986985892057419, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5237, 
+                    "end": 5244, 
+                    "score": 0.027585972100496292, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3686, 
+                    "end": 3696, 
+                    "score": 0.07944270223379135, 
+                    "spot": "body parts"
+                }
+            ], 
+            "wiki_id": 54176, 
+            "wiki_title": "Human body"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3802, 
+                    "end": 3810, 
+                    "score": 0.13410165905952454, 
+                    "spot": "arteries"
+                }
+            ], 
+            "wiki_id": 36790, 
+            "wiki_title": "Artery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3920, 
+                    "end": 3926, 
+                    "score": 0.00141643057577312, 
+                    "spot": "panels"
+                }
+            ], 
+            "wiki_id": 2163452, 
+            "wiki_title": "Panel (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1159, 
+                    "end": 1167, 
+                    "score": 0.06824000179767609, 
+                    "spot": "persuade"
+                }
+            ], 
+            "wiki_id": 24897, 
+            "wiki_title": "Persuasion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4571, 
+                    "end": 4578, 
+                    "score": 0.23969969153404236, 
+                    "spot": "patient"
+                }, 
+                {
+                    "begin": 5397, 
+                    "end": 5404, 
+                    "score": 0.10530064254999161, 
+                    "spot": "patient"
+                }, 
+                {
+                    "begin": 5860, 
+                    "end": 5867, 
+                    "score": 0.01008460484445095, 
+                    "spot": "patient"
+                }
+            ], 
+            "wiki_id": 437724, 
+            "wiki_title": "Patient"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1833, 
+                    "end": 1837, 
+                    "score": 0.17161238193511963, 
+                    "spot": "risk"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3428, 
+                    "end": 3439, 
+                    "score": 0.23088134825229645, 
+                    "spot": "reinforcing"
+                }
+            ], 
+            "wiki_id": 234417, 
+            "wiki_title": "Rebar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2546, 
+                    "end": 2553, 
+                    "score": 0.2190767228603363, 
+                    "spot": "they go"
+                }
+            ], 
+            "wiki_id": 1928105, 
+            "wiki_title": "They Go On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 344, 
+                    "end": 350, 
+                    "score": 0.11001311987638474, 
+                    "spot": "Twelve"
+                }
+            ], 
+            "wiki_id": 1066040, 
+            "wiki_title": "Twelfth grade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 81, 
+                    "end": 86, 
+                    "score": 0.10891620814800262, 
+                    "spot": "Perez"
+                }
+            ], 
+            "wiki_id": 635705, 
+            "wiki_title": "Perez (son of Judah)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4692, 
+                    "end": 4699, 
+                    "score": 0.09791862964630127, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 2372989, 
+            "wiki_title": "In Country (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4343, 
+                    "end": 4346, 
+                    "score": 0.032744504511356354, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 383115, 
+            "wiki_title": "Beverage can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5763, 
+                    "end": 5774, 
+                    "score": 0.050996482372283936, 
+                    "spot": "bottom line"
+                }
+            ], 
+            "wiki_id": 1076393, 
+            "wiki_title": "Net income"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1993, 
+                    "end": 1996, 
+                    "score": 0.17403782904148102, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 2380097, 
+            "wiki_title": "With You (Jessica Simpson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4471, 
+                    "end": 4479, 
+                    "score": 0.044643111526966095, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 384864, 
+            "wiki_title": "Question (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3839, 
+                    "end": 3848, 
+                    "score": 0.0505780354142189, 
+                    "spot": "limitless"
+                }
+            ], 
+            "wiki_id": 27372372, 
+            "wiki_title": "Limitless (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3314, 
+                    "end": 3318, 
+                    "score": 0.0558127798140049, 
+                    "spot": "good"
+                }
+            ], 
+            "wiki_id": 339686, 
+            "wiki_title": "Good and evil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 886, 
+                    "end": 897, 
+                    "score": 0.20436032116413116, 
+                    "spot": "San Antonio"
+                }, 
+                {
+                    "begin": 1025, 
+                    "end": 1036, 
+                    "score": 0.20436032116413116, 
+                    "spot": "San Antonio"
+                }
+            ], 
+            "wiki_id": 53848, 
+            "wiki_title": "San Antonio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3157, 
+                    "end": 3164, 
+                    "score": 0.0008104792796075344, 
+                    "spot": "you are"
+                }
+            ], 
+            "wiki_id": 18609265, 
+            "wiki_title": "You Are (Lionel Richie song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2336, 
+                    "end": 2341, 
+                    "score": 0.08951403200626373, 
+                    "spot": "boxes"
+                }
+            ], 
+            "wiki_id": 413522, 
+            "wiki_title": "Box"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2652, 
+                    "end": 2658, 
+                    "score": 0.168783038854599, 
+                    "spot": "school"
+                }
+            ], 
+            "wiki_id": 28022, 
+            "wiki_title": "School"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5642, 
+                    "end": 5647, 
+                    "score": 0.18956178426742554, 
+                    "spot": "Diane"
+                }
+            ], 
+            "wiki_id": 306355, 
+            "wiki_title": "Diane Lane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5548, 
+                    "end": 5554, 
+                    "score": 0.08462730795145035, 
+                    "spot": "doctor"
+                }
+            ], 
+            "wiki_id": 428966, 
+            "wiki_title": "Doctor of Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2321, 
+                    "end": 2327, 
+                    "score": 0.22004859149456024, 
+                    "spot": "panels"
+                }
+            ], 
+            "wiki_id": 1302352, 
+            "wiki_title": "Panelling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1931, 
+                    "end": 1935, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 2252141, 
+            "wiki_title": "Help! (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 124, 
+                    "score": 0.20525062084197998, 
+                    "spot": "above"
+                }
+            ], 
+            "wiki_id": 168041, 
+            "wiki_title": "Anatomical terms of location"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2630, 
+                    "end": 2640, 
+                    "score": 0.23050349950790405, 
+                    "spot": "University"
+                }
+            ], 
+            "wiki_id": 19725260, 
+            "wiki_title": "University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 179, 
+                    "end": 183, 
+                    "score": 0.07312119007110596, 
+                    "spot": "test"
+                }
+            ], 
+            "wiki_id": 30284, 
+            "wiki_title": "Statistical hypothesis testing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 448, 
+                    "end": 464, 
+                    "score": 0.49665567278862, 
+                    "spot": "Native Americans"
+                }
+            ], 
+            "wiki_id": 21217, 
+            "wiki_title": "Native Americans in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1442, 
+                    "end": 1445, 
+                    "score": 0.02821049466729164, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 42069, 
+            "wiki_title": "Brian May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4440, 
+                    "end": 4446, 
+                    "score": 0.6251914501190186, 
+                    "spot": "heroin"
+                }
+            ], 
+            "wiki_id": 14034, 
+            "wiki_title": "Heroin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1689, 
+                    "end": 1704, 
+                    "score": 0.3136664927005768, 
+                    "spot": "processed foods"
+                }
+            ], 
+            "wiki_id": 382599, 
+            "wiki_title": "Convenience food"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1208, 
+                    "end": 1227, 
+                    "score": 0.5227327346801758, 
+                    "spot": "University of\nTexas"
+                }, 
+                {
+                    "begin": 1208, 
+                    "end": 1249, 
+                    "score": 0.49998369812965393, 
+                    "spot": "University of\nTexas Health Science Center"
+                }
+            ], 
+            "wiki_id": 242746, 
+            "wiki_title": "University of Texas System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1273, 
+                    "end": 1286, 
+                    "score": 0.29411765933036804, 
+                    "spot": "Michael Stern"
+                }
+            ], 
+            "wiki_id": 10973333, 
+            "wiki_title": "Michael Stern (conductor)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5046, 
+                    "end": 5051, 
+                    "score": 0.13476862013339996, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3521, 
+                    "end": 3525, 
+                    "score": 0.35015925765037537, 
+                    "spot": "rust"
+                }
+            ], 
+            "wiki_id": 26477, 
+            "wiki_title": "Rust"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 551, 
+                    "end": 569, 
+                    "score": 0.14567716419696808, 
+                    "spot": "general population"
+                }
+            ], 
+            "wiki_id": 13358658, 
+            "wiki_title": "Demographic analysis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3157, 
+                    "end": 3160, 
+                    "score": 0.1669604629278183, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 1788298, 
+            "wiki_title": "For You (Prince album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2068, 
+                    "end": 2071, 
+                    "score": 0.062323372811079025, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2301, 
+                    "end": 2304, 
+                    "score": 0.14085011184215546, 
+                    "spot": "can"
+                }, 
+                {
+                    "begin": 2399, 
+                    "end": 2402, 
+                    "score": 0.13496212661266327, 
+                    "spot": "can"
+                }, 
+                {
+                    "begin": 3872, 
+                    "end": 3875, 
+                    "score": 0.0007124306866899133, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 507190, 
+            "wiki_title": "Tin can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 19, 
+                    "end": 29, 
+                    "score": 0.13114753365516663, 
+                    "spot": "motor home"
+                }
+            ], 
+            "wiki_id": 976938, 
+            "wiki_title": "Motorhome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4144, 
+                    "end": 4149, 
+                    "score": 0.01315789483487606, 
+                    "spot": "lobby"
+                }
+            ], 
+            "wiki_id": 48934, 
+            "wiki_title": "Lobbying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3265, 
+                    "end": 3275, 
+                    "score": 0.23583905398845673, 
+                    "spot": "properties"
+                }
+            ], 
+            "wiki_id": 6318968, 
+            "wiki_title": "List of materials properties"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2281, 
+                    "end": 2288, 
+                    "score": 0.33657047152519226, 
+                    "spot": "ceramic"
+                }, 
+                {
+                    "begin": 2412, 
+                    "end": 2419, 
+                    "score": 0.32640817761421204, 
+                    "spot": "ceramic"
+                }, 
+                {
+                    "begin": 2740, 
+                    "end": 2747, 
+                    "score": 0.23305273056030273, 
+                    "spot": "ceramic"
+                }, 
+                {
+                    "begin": 3104, 
+                    "end": 3111, 
+                    "score": 0.3834671974182129, 
+                    "spot": "ceramic"
+                }, 
+                {
+                    "begin": 3205, 
+                    "end": 3212, 
+                    "score": 0.3264544904232025, 
+                    "spot": "ceramic"
+                }, 
+                {
+                    "begin": 3759, 
+                    "end": 3766, 
+                    "score": 0.2279864251613617, 
+                    "spot": "ceramic"
+                }
+            ], 
+            "wiki_id": 6458, 
+            "wiki_title": "Ceramic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2992, 
+                    "end": 2996, 
+                    "score": 0.1568911224603653, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 149861, 
+            "wiki_title": "Work (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2769, 
+                    "end": 2775, 
+                    "score": 0.17918865382671356, 
+                    "spot": "bonded"
+                }
+            ], 
+            "wiki_id": 2396, 
+            "wiki_title": "Adhesive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3491, 
+                    "end": 3499, 
+                    "score": 0.2574363350868225, 
+                    "spot": "stronger"
+                }
+            ], 
+            "wiki_id": 277641, 
+            "wiki_title": "Strength of materials"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3618, 
+                    "end": 3621, 
+                    "score": 0.04857175052165985, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 359, 
+                    "end": 368, 
+                    "score": 0.03562336787581444, 
+                    "spot": "Americans"
+                }, 
+                {
+                    "begin": 661, 
+                    "end": 670, 
+                    "score": 0.1703518182039261, 
+                    "spot": "Americans"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4283, 
+                    "end": 4289, 
+                    "score": 0.0005647058715112507, 
+                    "spot": "slight"
+                }
+            ], 
+            "wiki_id": 973614, 
+            "wiki_title": "Slighting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4176, 
+                    "end": 4190, 
+                    "score": 0.09286146610975266, 
+                    "spot": "emergency room"
+                }, 
+                {
+                    "begin": 4525, 
+                    "end": 4540, 
+                    "score": 0.03286384791135788, 
+                    "spot": "emergency rooms"
+                }, 
+                {
+                    "begin": 4620, 
+                    "end": 4634, 
+                    "score": 0.09286146610975266, 
+                    "spot": "emergency room"
+                }, 
+                {
+                    "begin": 4928, 
+                    "end": 4943, 
+                    "score": 0.16267737746238708, 
+                    "spot": "emergency\nrooms"
+                }, 
+                {
+                    "begin": 5055, 
+                    "end": 5070, 
+                    "score": 0.14174532890319824, 
+                    "spot": "emergency rooms"
+                }, 
+                {
+                    "begin": 5358, 
+                    "end": 5373, 
+                    "score": 0.07564844936132431, 
+                    "spot": "emergency rooms"
+                }, 
+                {
+                    "begin": 5606, 
+                    "end": 5626, 
+                    "score": 0.15614275634288788, 
+                    "spot": "emergency\ndepartment"
+                }
+            ], 
+            "wiki_id": 177163, 
+            "wiki_title": "Emergency department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3129, 
+                    "end": 3136, 
+                    "score": 0.05263157933950424, 
+                    "spot": "day may"
+                }
+            ], 
+            "wiki_id": 12479400, 
+            "wiki_title": "Frasier (season 8)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 178, 
+                    "score": 0.33010271191596985, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 387, 
+                    "end": 395, 
+                    "score": 0.34664344787597656, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 535, 
+                    "end": 543, 
+                    "score": 0.2895507514476776, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1004, 
+                    "end": 1012, 
+                    "score": 0.2371477484703064, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1135, 
+                    "end": 1143, 
+                    "score": 0.2757962942123413, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1329, 
+                    "end": 1337, 
+                    "score": 0.3070465922355652, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1516, 
+                    "end": 1524, 
+                    "score": 0.21780574321746826, 
+                    "spot": "diabetic"
+                }, 
+                {
+                    "begin": 1851, 
+                    "end": 1859, 
+                    "score": 0.28853780031204224, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1957, 
+                    "end": 1965, 
+                    "score": 0.24259501695632935, 
+                    "spot": "diabetes"
+                }
+            ], 
+            "wiki_id": 40017873, 
+            "wiki_title": "Diabetes mellitus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4119, 
+                    "end": 4124, 
+                    "score": 0.0011975424131378531, 
+                    "spot": "dozen"
+                }
+            ], 
+            "wiki_id": 208154, 
+            "wiki_title": "Dozen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4108, 
+                    "end": 4111, 
+                    "score": 0.008476893417537212, 
+                    "spot": "p.m"
+                }
+            ], 
+            "wiki_id": 65930, 
+            "wiki_title": "ANSI escape code"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1192, 
+                    "end": 1200, 
+                    "score": 0.0805237889289856, 
+                    "spot": "relocate"
+                }
+            ], 
+            "wiki_id": 20328149, 
+            "wiki_title": "Cleveland Browns relocation controversy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2080, 
+                    "end": 2084, 
+                    "score": 0.08788041025400162, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 28952356, 
+            "wiki_title": "Channel 5 (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4250, 
+                    "end": 4262, 
+                    "score": 0.023937469348311424, 
+                    "spot": "car accident"
+                }
+            ], 
+            "wiki_id": 26954, 
+            "wiki_title": "Stephen King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 671, 
+                    "end": 674, 
+                    "score": 0.2836979329586029, 
+                    "spot": "die"
+                }, 
+                {
+                    "begin": 716, 
+                    "end": 722, 
+                    "score": 0.17065224051475525, 
+                    "spot": "deaths"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 18, 
+                    "score": 0.0005153461243025959, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 48842, 
+            "wiki_title": "Smallmouth bass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2931, 
+                    "end": 2943, 
+                    "score": 0.2449546754360199, 
+                    "spot": "temperatures"
+                }
+            ], 
+            "wiki_id": 20647050, 
+            "wiki_title": "Temperature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2575, 
+                    "end": 2594, 
+                    "score": 0.2715359926223755, 
+                    "spot": "mechanical engineer"
+                }, 
+                {
+                    "begin": 2705, 
+                    "end": 2714, 
+                    "score": 0.057892296463251114, 
+                    "spot": "machinery"
+                }, 
+                {
+                    "begin": 4070, 
+                    "end": 4079, 
+                    "score": 0.23867443203926086, 
+                    "spot": "machinery"
+                }
+            ], 
+            "wiki_id": 19528, 
+            "wiki_title": "Mechanical engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2171, 
+                    "end": 2174, 
+                    "score": 0.021063189953565598, 
+                    "spot": "Aly"
+                }
+            ], 
+            "wiki_id": 46897835, 
+            "wiki_title": "Aly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2724, 
+                    "end": 2728, 
+                    "score": 0.06936223059892654, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 66203, 
+            "wiki_title": "Chinese dragon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1613, 
+                    "end": 1627, 
+                    "score": 0.2056698352098465, 
+                    "spot": "screening test"
+                }
+            ], 
+            "wiki_id": 3211372, 
+            "wiki_title": "Screening (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 10, 
+                    "score": 0.0015083524631336331, 
+                    "spot": "Inside"
+                }
+            ], 
+            "wiki_id": 38200217, 
+            "wiki_title": "Inside (1996 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5018, 
+                    "end": 5028, 
+                    "score": 0.09224890917539597, 
+                    "spot": "Drug\nAbuse"
+                }, 
+                {
+                    "begin": 5326, 
+                    "end": 5336, 
+                    "score": 0.09224890917539597, 
+                    "spot": "drug abuse"
+                }
+            ], 
+            "wiki_id": 102959, 
+            "wiki_title": "Substance abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2857, 
+                    "end": 2864, 
+                    "score": 0.08806146681308746, 
+                    "spot": "carries"
+                }
+            ], 
+            "wiki_id": 84486, 
+            "wiki_title": "Portage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1966, 
+                    "end": 1971, 
+                    "score": 0.048190321773290634, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 304471, 
+            "wiki_title": "Case study"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1911, 
+                    "end": 1918, 
+                    "score": 0.18591415882110596, 
+                    "spot": "healthy"
+                }
+            ], 
+            "wiki_id": 80381, 
+            "wiki_title": "Health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1048, 
+                    "end": 1054, 
+                    "score": 0.09168665111064911, 
+                    "spot": "makeup"
+                }
+            ], 
+            "wiki_id": 158015, 
+            "wiki_title": "Cosmetics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4737, 
+                    "end": 4740, 
+                    "score": 0.05948030948638916, 
+                    "spot": "Ken"
+                }
+            ], 
+            "wiki_id": 6808548, 
+            "wiki_title": "Ken Hoang"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1738, 
+                    "end": 1745, 
+                    "score": 0.16597414016723633, 
+                    "spot": "medical"
+                }
+            ], 
+            "wiki_id": 18957, 
+            "wiki_title": "Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 281, 
+                    "end": 284, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 706580, 
+            "wiki_title": "S.H.E"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1947, 
+                    "end": 1953, 
+                    "score": 0.0007761751185171306, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 42296, 
+            "wiki_title": "Grammatical number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4579, 
+                    "end": 4584, 
+                    "score": 0.14870931208133698, 
+                    "spot": "loads"
+                }
+            ], 
+            "wiki_id": 396550, 
+            "wiki_title": "Cargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5848, 
+                    "end": 5852, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 382667, 
+            "wiki_title": "Projective linear group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3545, 
+                    "end": 3549, 
+                    "score": 0.0005893221241421998, 
+                    "spot": "away"
+                }
+            ], 
+            "wiki_id": 648382, 
+            "wiki_title": "St James' Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4085, 
+                    "end": 4089, 
+                    "score": 0.1533740907907486, 
+                    "spot": "TEXT"
+                }
+            ], 
+            "wiki_id": 18963870, 
+            "wiki_title": "Literature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4041, 
+                    "end": 4043, 
+                    "score": 0.078922800719738, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 195533, 
+            "wiki_title": "Religious education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 848, 
+                    "end": 855, 
+                    "score": 0.10204686224460602, 
+                    "spot": "believe"
+                }, 
+                {
+                    "begin": 1644, 
+                    "end": 1651, 
+                    "score": 0.1665986180305481, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2091, 
+                    "end": 2097, 
+                    "score": 0.15912087261676788, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 54406, 
+            "wiki_title": "Monday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3068, 
+                    "end": 3074, 
+                    "score": 0.0029798652976751328, 
+                    "spot": "future"
+                }
+            ], 
+            "wiki_id": 2856719, 
+            "wiki_title": "Friday the 13th (franchise)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3185, 
+                    "end": 3195, 
+                    "score": 0.3764570355415344, 
+                    "spot": "car\nengine"
+                }, 
+                {
+                    "begin": 3189, 
+                    "end": 3195, 
+                    "score": 0.3750048875808716, 
+                    "spot": "engine"
+                }
+            ], 
+            "wiki_id": 41228673, 
+            "wiki_title": "Internal combustion engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5704, 
+                    "end": 5712, 
+                    "score": 0.0061822193674743176, 
+                    "spot": "division"
+                }
+            ], 
+            "wiki_id": 7207645, 
+            "wiki_title": "Division (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5302, 
+                    "end": 5306, 
+                    "score": 0.0364878810942173, 
+                    "spot": "stem"
+                }
+            ], 
+            "wiki_id": 3865921, 
+            "wiki_title": "Stipe (mycology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4996, 
+                    "end": 5028, 
+                    "score": 0.49666666984558105, 
+                    "spot": "National Institute on Drug\nAbuse"
+                }
+            ], 
+            "wiki_id": 1487987, 
+            "wiki_title": "National Institute on Drug Abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4060, 
+                    "end": 4069, 
+                    "score": 0.17957182228565216, 
+                    "spot": "automated"
+                }
+            ], 
+            "wiki_id": 173354, 
+            "wiki_title": "Automation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1556, 
+                    "score": 0.09502552449703217, 
+                    "spot": "closer"
+                }
+            ], 
+            "wiki_id": 1079639, 
+            "wiki_title": "Closer (Nine Inch Nails song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1254, 
+                    "end": 1268, 
+                    "score": 0.35601556301116943, 
+                    "spot": "Epidemiologist"
+                }
+            ], 
+            "wiki_id": 66997, 
+            "wiki_title": "Epidemiology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1990, 
+                    "end": 1992, 
+                    "score": 0.10812745988368988, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 1685851, 
+            "wiki_title": "If (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 31, 
+                    "end": 37, 
+                    "score": 0.004731226246803999, 
+                    "spot": "Joanne"
+                }
+            ], 
+            "wiki_id": 3273230, 
+            "wiki_title": "Joanne Accom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1423, 
+                    "end": 1429, 
+                    "score": 0.12325505167245865, 
+                    "spot": "adults"
+                }
+            ], 
+            "wiki_id": 167334, 
+            "wiki_title": "Adult"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1896, 
+                    "end": 1904, 
+                    "score": 0.2436331808567047, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 796, 
+                    "end": 802, 
+                    "score": 0.0029529293533414602, 
+                    "spot": "No one"
+                }
+            ], 
+            "wiki_id": 12960591, 
+            "wiki_title": "No One (Alicia Keys song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 159, 
+                    "end": 163, 
+                    "score": 0.21663443744182587, 
+                    "spot": "tube"
+                }
+            ], 
+            "wiki_id": 291838, 
+            "wiki_title": "Catheter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2923, 
+                    "end": 2926, 
+                    "score": 0.08921150863170624, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 4682876, 
+            "wiki_title": "Professional degrees of public health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4710, 
+                    "end": 4717, 
+                    "score": 0.14943203330039978, 
+                    "spot": "variety"
+                }
+            ], 
+            "wiki_id": 22101487, 
+            "wiki_title": "Variety (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4510, 
+                    "end": 4521, 
+                    "score": 0.0014052344486117363, 
+                    "spot": "commonplace"
+                }
+            ], 
+            "wiki_id": 3603384, 
+            "wiki_title": "Commonplace (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3440, 
+                    "end": 3448, 
+                    "score": 0.23177282512187958, 
+                    "spot": "material"
+                }
+            ], 
+            "wiki_id": 9722260, 
+            "wiki_title": "Chemical substance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 508, 
+                    "end": 513, 
+                    "score": 0.061896078288555145, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2494, 
+                    "end": 2503, 
+                    "score": 0.0006486836937256157, 
+                    "spot": "literally"
+                }
+            ], 
+            "wiki_id": 2100861, 
+            "wiki_title": "Biblical literalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4104, 
+                    "end": 4107, 
+                    "score": 0.06979695707559586, 
+                    "spot": "s 8"
+                }
+            ], 
+            "wiki_id": 23935180, 
+            "wiki_title": "S8 (Rhine-Ruhr S-Bahn)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5736, 
+                    "end": 5752, 
+                    "score": 0.09182464331388474, 
+                    "spot": "health\npromotion"
+                }
+            ], 
+            "wiki_id": 3158172, 
+            "wiki_title": "Health promotion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1235, 
+                    "end": 1242, 
+                    "score": 0.11121812462806702, 
+                    "spot": "Science"
+                }
+            ], 
+            "wiki_id": 26700, 
+            "wiki_title": "Science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1673, 
+                    "end": 1678, 
+                    "score": 0.1346011906862259, 
+                    "spot": "diets"
+                }, 
+                {
+                    "begin": 1919, 
+                    "end": 1924, 
+                    "score": 0.16878513991832733, 
+                    "spot": "diets"
+                }
+            ], 
+            "wiki_id": 639924, 
+            "wiki_title": "Diet (nutrition)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3779, 
+                    "end": 3790, 
+                    "score": 0.004605263005942106, 
+                    "spot": "collapsible"
+                }
+            ], 
+            "wiki_id": 20814602, 
+            "wiki_title": "Collapse (topology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2099, 
+                    "end": 2108, 
+                    "score": 0.1706201583147049, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 54634, 
+            "wiki_title": "Wednesday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5382, 
+                    "end": 5386, 
+                    "score": 0.10123533755540848, 
+                    "spot": "face"
+                }
+            ], 
+            "wiki_id": 53234, 
+            "wiki_title": "Face"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 939, 
+                    "end": 949, 
+                    "score": 0.08260836452245712, 
+                    "spot": "population"
+                }
+            ], 
+            "wiki_id": 27585, 
+            "wiki_title": "Statistical population"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 477, 
+                    "end": 486, 
+                    "score": 0.2527908980846405, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 856, 
+                    "end": 865, 
+                    "score": 0.11950091272592545, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 969, 
+                    "end": 977, 
+                    "score": 0.5474832057952881, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 1039, 
+                    "end": 1047, 
+                    "score": 0.49596166610717773, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 1320, 
+                    "end": 1328, 
+                    "score": 0.5231328010559082, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 1662, 
+                    "end": 1671, 
+                    "score": 0.1553405374288559, 
+                    "spot": "Hispanics"
+                }
+            ], 
+            "wiki_id": 56120, 
+            "wiki_title": "Hispanic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2076, 
+                    "end": 2079, 
+                    "score": 0.025746652856469154, 
+                    "spot": "jog"
+                }
+            ], 
+            "wiki_id": 16985305, 
+            "wiki_title": "Jog (raga)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3339, 
+                    "end": 3343, 
+                    "score": 0.1384526491165161, 
+                    "spot": "cars"
+                }
+            ], 
+            "wiki_id": 920613, 
+            "wiki_title": "Cars (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2781, 
+                    "end": 2786, 
+                    "score": 0.2808127701282501, 
+                    "spot": "epoxy"
+                }
+            ], 
+            "wiki_id": 211724, 
+            "wiki_title": "Epoxy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5656, 
+                    "end": 5664, 
+                    "score": 0.00834680162370205, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 52234, 
+            "wiki_title": "Chief executive officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4765, 
+                    "end": 4781, 
+                    "score": 0.14183944463729858, 
+                    "spot": "Greater New York"
+                }
+            ], 
+            "wiki_id": 309890, 
+            "wiki_title": "New York metropolitan area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1572, 
+                    "end": 1576, 
+                    "score": 0.2194194346666336, 
+                    "spot": "gene"
+                }
+            ], 
+            "wiki_id": 4250553, 
+            "wiki_title": "Gene"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3876, 
+                    "end": 3883, 
+                    "score": 0.04679553955793381, 
+                    "spot": "produce"
+                }
+            ], 
+            "wiki_id": 53207, 
+            "wiki_title": "Record producer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3937, 
+                    "end": 3945, 
+                    "score": 0.002643982181325555, 
+                    "spot": "openings"
+                }
+            ], 
+            "wiki_id": 68402, 
+            "wiki_title": "Chess opening"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3556, 
+                    "end": 3560, 
+                    "score": 0.09403705596923828, 
+                    "spot": "road"
+                }
+            ], 
+            "wiki_id": 25897, 
+            "wiki_title": "Road"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4496, 
+                    "end": 4509, 
+                    "score": 0.0012405188754200935, 
+                    "spot": "more and more"
+                }
+            ], 
+            "wiki_id": 15671322, 
+            "wiki_title": "More and More (Captain Hollywood Project song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1538, 
+                    "end": 1545, 
+                    "score": 0.2049180269241333, 
+                    "spot": "brining"
+                }
+            ], 
+            "wiki_id": 52865, 
+            "wiki_title": "Brining"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3466, 
+                    "end": 3470, 
+                    "score": 0.23041702806949615, 
+                    "spot": "rods"
+                }
+            ], 
+            "wiki_id": 859283, 
+            "wiki_title": "Cylinder (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3398, 
+                    "end": 3405, 
+                    "score": 0.14414460957050323, 
+                    "spot": "braided"
+                }
+            ], 
+            "wiki_id": 52401, 
+            "wiki_title": "Hairstyle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5837, 
+                    "end": 5841, 
+                    "score": 0.004037896171212196, 
+                    "spot": "real"
+                }
+            ], 
+            "wiki_id": 1202257, 
+            "wiki_title": "Real (L'Arc-en-Ciel album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1453, 
+                    "end": 1459, 
+                    "score": 0.17337079346179962, 
+                    "spot": "family"
+                }, 
+                {
+                    "begin": 1498, 
+                    "end": 1504, 
+                    "score": 0.24098482728004456, 
+                    "spot": "family"
+                }, 
+                {
+                    "begin": 1498, 
+                    "end": 1512, 
+                    "score": 0.34176668524742126, 
+                    "spot": "family studies"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 129, 
+                    "end": 136, 
+                    "score": 0.22242328524589539, 
+                    "spot": "forearm"
+                }
+            ], 
+            "wiki_id": 237647, 
+            "wiki_title": "Forearm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5175, 
+                    "end": 5182, 
+                    "score": 0.2696300745010376, 
+                    "spot": "Detroit"
+                }
+            ], 
+            "wiki_id": 8579, 
+            "wiki_title": "Detroit Tigers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5100, 
+                    "end": 5120, 
+                    "score": 0.21907785534858704, 
+                    "spot": "District of Columbia"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3323, 
+                    "end": 3335, 
+                    "score": 0.19342924654483795, 
+                    "spot": "torsion bars"
+                }
+            ], 
+            "wiki_id": 391266, 
+            "wiki_title": "Torsion bar suspension"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4773, 
+                    "end": 4790, 
+                    "score": 0.3723057508468628, 
+                    "spot": "New York\nHospital"
+                }
+            ], 
+            "wiki_id": 1035840, 
+            "wiki_title": "New York Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2329, 
+                    "end": 2334, 
+                    "score": 0.2327430099248886, 
+                    "spot": "beams"
+                }
+            ], 
+            "wiki_id": 630099, 
+            "wiki_title": "Beam (structure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5434, 
+                    "end": 5441, 
+                    "score": 0.06874636560678482, 
+                    "spot": "reduced"
+                }
+            ], 
+            "wiki_id": 49198, 
+            "wiki_title": "Reductionism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4603, 
+                    "end": 4612, 
+                    "score": 0.09440730512142181, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 588290, 
+            "wiki_title": "The Emergency (Ireland)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1119, 
+                    "end": 1134, 
+                    "score": 0.4307349920272827, 
+                    "spot": "Yale University"
+                }
+            ], 
+            "wiki_id": 34273, 
+            "wiki_title": "Yale University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4882, 
+                    "end": 4886, 
+                    "score": 0.16849958896636963, 
+                    "spot": "play"
+                }
+            ], 
+            "wiki_id": 18006808, 
+            "wiki_title": "Play (activity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4670, 
+                    "end": 4676, 
+                    "score": 0.18732039630413055, 
+                    "spot": "Boston"
+                }, 
+                {
+                    "begin": 5141, 
+                    "end": 5147, 
+                    "score": 0.2725309431552887, 
+                    "spot": "Boston"
+                }
+            ], 
+            "wiki_id": 24437894, 
+            "wiki_title": "Boston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 330, 
+                    "end": 339, 
+                    "score": 0.258184552192688, 
+                    "spot": "Hispanics"
+                }
+            ], 
+            "wiki_id": 1007667, 
+            "wiki_title": "Hispanic and Latino Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3978, 
+                    "end": 3985, 
+                    "score": 0.025660376995801926, 
+                    "spot": "braided"
+                }
+            ], 
+            "wiki_id": 162621, 
+            "wiki_title": "Braided river"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 780, 
+                    "end": 791, 
+                    "score": 0.0012904200702905655, 
+                    "spot": "Association"
+                }
+            ], 
+            "wiki_id": 569313, 
+            "wiki_title": "Association (statistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2845, 
+                    "end": 2851, 
+                    "score": 0.23354093730449677, 
+                    "spot": "vessel"
+                }
+            ], 
+            "wiki_id": 3996, 
+            "wiki_title": "Boat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2445, 
+                    "end": 2454, 
+                    "score": 0.1156306192278862, 
+                    "spot": "machinery"
+                }
+            ], 
+            "wiki_id": 32059083, 
+            "wiki_title": "Machine (mechanical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 379, 
+                    "end": 383, 
+                    "score": 0.06997882574796677, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 7481381, 
+            "wiki_title": "Dosage form"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 926, 
+                    "end": 930, 
+                    "score": 0.005648055579513311, 
+                    "spot": "city"
+                }
+            ], 
+            "wiki_id": 5391, 
+            "wiki_title": "City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5807, 
+                    "end": 5815, 
+                    "score": 0.005097517743706703, 
+                    "spot": "squeezed"
+                }
+            ], 
+            "wiki_id": 706278, 
+            "wiki_title": "Squeezed coherent state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3911, 
+                    "end": 3916, 
+                    "score": 0.010370370000600815, 
+                    "spot": "cubes"
+                }
+            ], 
+            "wiki_id": 6285, 
+            "wiki_title": "Cube"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3057, 
+                    "end": 3061, 
+                    "score": 0.0017396145267412066, 
+                    "spot": "sees"
+                }
+            ], 
+            "wiki_id": 199657, 
+            "wiki_title": "Episcopal see"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4657, 
+                    "end": 4665, 
+                    "score": 0.08544794470071793, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 714699, 
+            "wiki_title": "New York (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5198, 
+                    "end": 5205, 
+                    "score": 0.23932038247585297, 
+                    "spot": "Chicago"
+                }
+            ], 
+            "wiki_id": 6886, 
+            "wiki_title": "Chicago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 762, 
+                    "end": 791, 
+                    "score": 0.45785441994667053, 
+                    "spot": "American\nDiabetes Association"
+                }
+            ], 
+            "wiki_id": 2168708, 
+            "wiki_title": "American Diabetes Association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4219, 
+                    "end": 4221, 
+                    "score": 0.0036201344337314367, 
+                    "spot": "Dr"
+                }
+            ], 
+            "wiki_id": 569138, 
+            "wiki_title": "Doctor of Divinity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2085, 
+                    "end": 2090, 
+                    "score": 0.08996186405420303, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 1613122, 
+            "wiki_title": "Stuart Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3904, 
+                    "end": 3910, 
+                    "score": 0.008451472036540508, 
+                    "spot": "hollow"
+                }
+            ], 
+            "wiki_id": 32416, 
+            "wiki_title": "Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2865, 
+                    "end": 2871, 
+                    "score": 0.07909765839576721, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1453, 
+                    "end": 1467, 
+                    "score": 0.25690120458602905, 
+                    "spot": "family history"
+                }
+            ], 
+            "wiki_id": 1446779, 
+            "wiki_title": "Family history (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2455, 
+                    "end": 2457, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 4038, 
+                    "end": 4040, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 3635710, 
+            "wiki_title": "Polycephaly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2368, 
+                    "end": 2373, 
+                    "score": 0.003522005630657077, 
+                    "spot": "shape"
+                }
+            ], 
+            "wiki_id": 159161, 
+            "wiki_title": "Iowa (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2195, 
+                    "end": 2205, 
+                    "score": 0.042553190141916275, 
+                    "spot": "astronauts"
+                }
+            ], 
+            "wiki_id": 664, 
+            "wiki_title": "Astronaut"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5627, 
+                    "end": 5633, 
+                    "score": 0.02368931844830513, 
+                    "spot": "system"
+                }
+            ], 
+            "wiki_id": 819505, 
+            "wiki_title": "Farm team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2793, 
+                    "end": 2797, 
+                    "score": 0.15821535885334015, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1582, 
+                    "end": 1590, 
+                    "score": 0.07188477367162704, 
+                    "spot": "triggers"
+                }
+            ], 
+            "wiki_id": 14817978, 
+            "wiki_title": "Trauma trigger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 313, 
+                    "end": 319, 
+                    "score": 0.0019709672778844833, 
+                    "spot": "deadly"
+                }
+            ], 
+            "wiki_id": 2419883, 
+            "wiki_title": "Deadly Awards"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2261, 
+                    "end": 2274, 
+                    "score": 0.20880034565925598, 
+                    "spot": "space station"
+                }, 
+                {
+                    "begin": 2513, 
+                    "end": 2527, 
+                    "score": 0.03271983563899994, 
+                    "spot": "space stations"
+                }
+            ], 
+            "wiki_id": 50896, 
+            "wiki_title": "Space station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2053, 
+                    "end": 2057, 
+                    "score": 0.0033116925042122602, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 211183, 
+            "wiki_title": "Tell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5591, 
+                    "end": 5598, 
+                    "score": 0.004217431880533695, 
+                    "spot": "backlog"
+                }
+            ], 
+            "wiki_id": 7485463, 
+            "wiki_title": "Backlog (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5525, 
+                    "end": 5528, 
+                    "score": 0.11874539405107498, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 251573, 
+            "wiki_title": "Can (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3460, 
+                    "end": 3465, 
+                    "score": 0.2830604612827301, 
+                    "spot": "metal"
+                }
+            ], 
+            "wiki_id": 19042, 
+            "wiki_title": "Metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3283, 
+                    "end": 3292, 
+                    "score": 0.23608210682868958, 
+                    "spot": "materials"
+                }
+            ], 
+            "wiki_id": 19622, 
+            "wiki_title": "Materials science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1222, 
+                    "end": 1227, 
+                    "score": 0.4759676456451416, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 32031, 
+            "wiki_title": "University of Texas at Austin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 320, 
+                    "end": 326, 
+                    "score": 0.058980606496334076, 
+                    "spot": "killer"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 80, 
+                    "score": 0.10170989483594894, 
+                    "spot": "Mary"
+                }
+            ], 
+            "wiki_id": 73513, 
+            "wiki_title": "Mary (mother of Jesus)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5311, 
+                    "end": 5322, 
+                    "score": 0.06591639667749405, 
+                    "spot": "rising tide"
+                }
+            ], 
+            "wiki_id": 2842020, 
+            "wiki_title": "The Rising Tide (Sunny Day Real Estate album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3142, 
+                    "end": 3146, 
+                    "score": 0.0005596246337518096, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 15105978, 
+            "wiki_title": "Water well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 466, 
+                    "end": 472, 
+                    "score": 0.4114473760128021, 
+                    "spot": "blacks"
+                }
+            ], 
+            "wiki_id": 4745, 
+            "wiki_title": "Black people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 358, 
+                    "score": 0.0020095491781830788, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3012, 
+                    "end": 3024, 
+                    "score": 0.23555371165275574, 
+                    "spot": "Mars Mission"
+                }
+            ], 
+            "wiki_id": 426143, 
+            "wiki_title": "Exploration of Mars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 903, 
+                    "end": 909, 
+                    "score": 0.018664946779608727, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3961, 
+                    "end": 3969, 
+                    "score": 0.1410069614648819, 
+                    "spot": "conduits"
+                }
+            ], 
+            "wiki_id": 43657450, 
+            "wiki_title": "Electrical conduit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1657, 
+                    "end": 1661, 
+                    "score": 0.20066365599632263, 
+                    "spot": "poor"
+                }, 
+                {
+                    "begin": 1772, 
+                    "end": 1779, 
+                    "score": 0.17765824496746063, 
+                    "spot": "poverty"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2222, 
+                    "end": 2234, 
+                    "score": 0.17307692766189575, 
+                    "spot": "trip to Mars"
+                }
+            ], 
+            "wiki_id": 2571878, 
+            "wiki_title": "A Trip to Mars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1546, 
+                    "end": 1549, 
+                    "score": 0.07776593416929245, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1069, 
+                    "end": 1077, 
+                    "score": 0.5, 
+                    "spot": "DeFronzo"
+                }, 
+                {
+                    "begin": 1973, 
+                    "end": 1981, 
+                    "score": 0.5, 
+                    "spot": "DeFronzo"
+                }
+            ], 
+            "wiki_id": 8121876, 
+            "wiki_title": "Donald DeFronzo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5514, 
+                    "end": 5520, 
+                    "score": 0.1152309998869896, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 995, 
+                    "end": 999, 
+                    "score": 0.08452243357896805, 
+                    "spot": "base"
+                }
+            ], 
+            "wiki_id": 843566, 
+            "wiki_title": "Military base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4393, 
+                    "end": 4396, 
+                    "score": 0.030040856450796127, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 38764608, 
+            "wiki_title": "You (Robin Stjernberg song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4846, 
+                    "end": 4854, 
+                    "score": 0.23810535669326782, 
+                    "spot": "violence"
+                }
+            ], 
+            "wiki_id": 46112, 
+            "wiki_title": "Violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3635, 
+                    "end": 3652, 
+                    "score": 0.0765957459807396, 
+                    "spot": "bulletproof vests"
+                }
+            ], 
+            "wiki_id": 149058, 
+            "wiki_title": "Bulletproof vest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4132, 
+                    "end": 4136, 
+                    "score": 0.004400096833705902, 
+                    "spot": "wait"
+                }
+            ], 
+            "wiki_id": 40697224, 
+            "wiki_title": "The Wait (2013 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 60, 
+                    "end": 66, 
+                    "score": 0.041483037173748016, 
+                    "spot": "sleeve"
+                }
+            ], 
+            "wiki_id": 1865451, 
+            "wiki_title": "Sleeve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5842, 
+                    "end": 5847, 
+                    "score": 0.011243806220591068, 
+                    "spot": "loser"
+                }
+            ], 
+            "wiki_id": 23658801, 
+            "wiki_title": "Pejorative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2891, 
+                    "end": 2895, 
+                    "score": 0.054123565554618835, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 551, 
+                    "end": 558, 
+                    "score": 0.04694049805402756, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 2965165, 
+            "wiki_title": "General (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2065, 
+                    "end": 2067, 
+                    "score": 0.004958091303706169, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 585172, 
+            "wiki_title": "Go (1999 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1475, 
+                    "end": 1482, 
+                    "score": 0.18371760845184326, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 1595, 
+                    "end": 1602, 
+                    "score": 0.2429344654083252, 
+                    "spot": "disease"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4027, 
+                    "end": 4037, 
+                    "score": 0.0035862589720636606, 
+                    "spot": "that's why"
+                }
+            ], 
+            "wiki_id": 19855461, 
+            "wiki_title": "That's Why"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5783, 
+                    "end": 5797, 
+                    "score": 0.03181818127632141, 
+                    "spot": "emergency care"
+                }
+            ], 
+            "wiki_id": 52974, 
+            "wiki_title": "Emergency medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 622, 
+                    "end": 638, 
+                    "score": 0.22173216938972473, 
+                    "spot": "Mexican-American"
+                }
+            ], 
+            "wiki_id": 220841, 
+            "wiki_title": "Mexican Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3728, 
+                    "end": 3743, 
+                    "score": 0.4314572215080261, 
+                    "spot": "Duke University"
+                }
+            ], 
+            "wiki_id": 53273, 
+            "wiki_title": "Duke University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2023, 
+                    "end": 2026, 
+                    "score": 0.097399041056633, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3868, 
+                    "end": 3871, 
+                    "score": 0.052693139761686325, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5521, 
+                    "end": 5524, 
+                    "score": 0.2126673310995102, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4824, 
+                    "end": 4836, 
+                    "score": 0.33573997020721436, 
+                    "spot": "side effects"
+                }
+            ], 
+            "wiki_id": 1474961, 
+            "wiki_title": "Adverse effect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2798, 
+                    "end": 2802, 
+                    "score": 0.18663689494132996, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 18358161, 
+            "wiki_title": "Substantial form"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2137, 
+                    "end": 2142, 
+                    "score": 0.009895778261125088, 
+                    "spot": "laugh"
+                }
+            ], 
+            "wiki_id": 234801, 
+            "wiki_title": "Laughter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2053, 
+                    "end": 2061, 
+                    "score": 0.0019990005530416965, 
+                    "spot": "tell her"
+                }
+            ], 
+            "wiki_id": 9688200, 
+            "wiki_title": "Tell Her (Lonestar song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3821, 
+                    "end": 3834, 
+                    "score": 0.0012347472365945578, 
+                    "spot": "possibilities"
+                }
+            ], 
+            "wiki_id": 4122226, 
+            "wiki_title": "Possibilities"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5585, 
+                    "end": 5590, 
+                    "score": 0.07944339513778687, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 201920, 
+            "wiki_title": "Major"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3064, 
+                    "end": 3067, 
+                    "score": 0.0008870810270309448, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 142510, 
+            "wiki_title": "The Notorious B.I.G."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1063, 
+                    "end": 1068, 
+                    "score": 0.02311006933450699, 
+                    "spot": "Ralph"
+                }
+            ], 
+            "wiki_id": 171521, 
+            "wiki_title": "Ralph Fiennes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4125, 
+                    "end": 4131, 
+                    "score": 0.002633341820910573, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 689457, 
+            "wiki_title": "The Sunday People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2729, 
+                    "end": 2736, 
+                    "score": 0.07967517524957657, 
+                    "spot": "strands"
+                }
+            ], 
+            "wiki_id": 4906, 
+            "wiki_title": "Beta sheet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4407, 
+                    "end": 4412, 
+                    "score": 0.1767403781414032, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 25949, 
+            "wiki_title": "Recreational drug use"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1081, 
+                    "end": 1088, 
+                    "score": 0.023392392322421074, 
+                    "spot": "abandon"
+                }
+            ], 
+            "wiki_id": 168885, 
+            "wiki_title": "Child abandonment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3377, 
+                    "end": 3381, 
+                    "score": 0.07439285516738892, 
+                    "spot": "idea"
+                }
+            ], 
+            "wiki_id": 161999, 
+            "wiki_title": "Idea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 872, 
+                    "end": 876, 
+                    "score": 0.053269825875759125, 
+                    "spot": "hold"
+                }
+            ], 
+            "wiki_id": 6770068, 
+            "wiki_title": "Senate hold"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5540, 
+                    "end": 5547, 
+                    "score": 0.027701960876584053, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 251540, 
+            "wiki_title": "Private sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4424, 
+                    "end": 4427, 
+                    "score": 0.004987014457583427, 
+                    "spot": "ask"
+                }
+            ], 
+            "wiki_id": 386694, 
+            "wiki_title": "\u0141ask"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 87, 
+                    "end": 95, 
+                    "score": 0.05816996842622757, 
+                    "spot": "inserted"
+                }
+            ], 
+            "wiki_id": 583438, 
+            "wiki_title": "Transformation (genetics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4018, 
+                    "end": 4022, 
+                    "score": 0.0016789959045127034, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4859, 
+                    "end": 4880, 
+                    "score": 0.3252093195915222, 
+                    "spot": "psychiatric\ndisorders"
+                }
+            ], 
+            "wiki_id": 19356, 
+            "wiki_title": "Mental disorder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1487, 
+                    "end": 1492, 
+                    "score": 0.06707116961479187, 
+                    "spot": "Stern"
+                }
+            ], 
+            "wiki_id": 17333662, 
+            "wiki_title": "Stern"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1184, 
+                    "end": 1188, 
+                    "score": 0.061146460473537445, 
+                    "spot": "team"
+                }
+            ], 
+            "wiki_id": 30028, 
+            "wiki_title": "The A-Team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3079, 
+                    "end": 3098, 
+                    "score": 0.07059448212385178, 
+                    "spot": "composite materials"
+                }
+            ], 
+            "wiki_id": 157616, 
+            "wiki_title": "Composite material"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2308, 
+                    "end": 2315, 
+                    "score": 0.025660376995801926, 
+                    "spot": "braided"
+                }
+            ], 
+            "wiki_id": 230643, 
+            "wiki_title": "Braid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3791, 
+                    "end": 3797, 
+                    "score": 0.18717357516288757, 
+                    "spot": "braces"
+                }
+            ], 
+            "wiki_id": 26734587, 
+            "wiki_title": "Orthotics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2121, 
+                    "end": 2124, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 7785570, 
+            "wiki_title": "She"
+        }
+    ]
+}

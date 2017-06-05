@@ -1,0 +1,1576 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1469, 
+                    "end": 1477, 
+                    "score": 0.17614459991455078, 
+                    "spot": "autonomy"
+                }
+            ], 
+            "wiki_id": 191145, 
+            "wiki_title": "Autonomy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1290, 
+                    "end": 1295, 
+                    "score": 0.13790535926818848, 
+                    "spot": "goals"
+                }
+            ], 
+            "wiki_id": 14850094, 
+            "wiki_title": "Goal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 252, 
+                    "end": 262, 
+                    "score": 0.2832164466381073, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 27289, 
+            "wiki_title": "Serbia and Montenegro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1829, 
+                    "end": 1833, 
+                    "score": 0.021626226603984833, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 22926, 
+            "wiki_title": "Poetry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 611, 
+                    "end": 615, 
+                    "score": 0.019871415570378304, 
+                    "spot": "body"
+                }
+            ], 
+            "wiki_id": 53887, 
+            "wiki_title": "Text corpus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1614, 
+                    "end": 1621, 
+                    "score": 0.06570952385663986, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 428681, 
+            "wiki_title": "Forward (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1120, 
+                    "end": 1129, 
+                    "score": 0.23534183204174042, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 1485, 
+                    "end": 1494, 
+                    "score": 0.08771754056215286, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 1553, 
+                    "end": 1561, 
+                    "score": 0.16461898386478424, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 25536, 
+            "wiki_title": "Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1040, 
+                    "end": 1047, 
+                    "score": 0.10920336842536926, 
+                    "spot": "accused"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 407, 
+                    "end": 413, 
+                    "score": 0.05124826729297638, 
+                    "spot": "set up"
+                }
+            ], 
+            "wiki_id": 1570532, 
+            "wiki_title": "The Set-Up (1949 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1111, 
+                    "end": 1119, 
+                    "score": 0.17352256178855896, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 743, 
+                    "end": 759, 
+                    "score": 0.23887160420417786, 
+                    "spot": "new\nconstitution"
+                }
+            ], 
+            "wiki_id": 31644, 
+            "wiki_title": "United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1787, 
+                    "end": 1795, 
+                    "score": 0.14942453801631927, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 14560, 
+            "wiki_title": "Republic of Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 8, 
+                    "end": 28, 
+                    "score": 0.3035461902618408, 
+                    "spot": "republic of Slovenia"
+                }, 
+                {
+                    "begin": 20, 
+                    "end": 28, 
+                    "score": 0.642927885055542, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 188, 
+                    "end": 196, 
+                    "score": 0.5303213596343994, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 386, 
+                    "end": 394, 
+                    "score": 0.5569183826446533, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 568, 
+                    "end": 577, 
+                    "score": 0.1515948474407196, 
+                    "spot": "Slovenian"
+                }, 
+                {
+                    "begin": 624, 
+                    "end": 633, 
+                    "score": 0.13595670461654663, 
+                    "spot": "Slovenian"
+                }, 
+                {
+                    "begin": 655, 
+                    "end": 663, 
+                    "score": 0.5762004256248474, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 813, 
+                    "end": 821, 
+                    "score": 0.5655338168144226, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 919, 
+                    "end": 927, 
+                    "score": 0.5266581773757935, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1011, 
+                    "end": 1019, 
+                    "score": 0.48694324493408203, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1723, 
+                    "end": 1731, 
+                    "score": 0.16979598999023438, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 1766, 
+                    "end": 1774, 
+                    "score": 0.5621252655982971, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1843, 
+                    "end": 1851, 
+                    "score": 0.6281967759132385, 
+                    "spot": "Slovenia"
+                }
+            ], 
+            "wiki_id": 27338, 
+            "wiki_title": "Slovenia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1946, 
+                    "end": 1955, 
+                    "score": 0.0020065931603312492, 
+                    "spot": "readiness"
+                }
+            ], 
+            "wiki_id": 18325566, 
+            "wiki_title": "Combat readiness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 594, 
+                    "end": 597, 
+                    "score": 0.0009671834413893521, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 37121379, 
+            "wiki_title": "Bibliography of early American naval history"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 634, 
+                    "end": 638, 
+                    "score": 0.08468712121248245, 
+                    "spot": "move"
+                }
+            ], 
+            "wiki_id": 21865574, 
+            "wiki_title": "Z\u00fcrichsee-Schifffahrtsgesellschaft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1413, 
+                    "end": 1424, 
+                    "score": 0.0009206260438077152, 
+                    "spot": "introducing"
+                }
+            ], 
+            "wiki_id": 394815, 
+            "wiki_title": "Introduced species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 733, 
+                    "score": 0.16695021092891693, 
+                    "spot": "presidency"
+                }
+            ], 
+            "wiki_id": 229473, 
+            "wiki_title": "President of Argentina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1282, 
+                    "end": 1289, 
+                    "score": 0.16589319705963135, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 11542, 
+            "wiki_title": "Federalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 372, 
+                    "end": 381, 
+                    "score": 0.08061335980892181, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 854, 
+                    "end": 863, 
+                    "score": 0.1067383661866188, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 1390, 
+                    "end": 1409, 
+                    "score": 0.09583333134651184, 
+                    "spot": "Yugoslav federation"
+                }, 
+                {
+                    "begin": 1626, 
+                    "end": 1645, 
+                    "score": 0.28974711894989014, 
+                    "spot": "Yugoslav federation"
+                }, 
+                {
+                    "begin": 1968, 
+                    "end": 1987, 
+                    "score": 0.09583333134651184, 
+                    "spot": "Yugoslav federation"
+                }, 
+                {
+                    "begin": 1995, 
+                    "end": 2004, 
+                    "score": 0.2595655024051666, 
+                    "spot": "republics"
+                }
+            ], 
+            "wiki_id": 297809, 
+            "wiki_title": "Socialist Federal Republic of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2030, 
+                    "end": 2036, 
+                    "score": 0.3333333432674408, 
+                    "spot": "looser"
+                }
+            ], 
+            "wiki_id": 21673448, 
+            "wiki_title": "Gualterio Looser"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 467, 
+                    "end": 476, 
+                    "score": 0.07698366045951843, 
+                    "spot": "authority"
+                }, 
+                {
+                    "begin": 1310, 
+                    "end": 1321, 
+                    "score": 0.16950196027755737, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1732, 
+                    "end": 1740, 
+                    "score": 0.12759797275066376, 
+                    "spot": "surveyed"
+                }
+            ], 
+            "wiki_id": 272134, 
+            "wiki_title": "Survey methodology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1821, 
+                    "end": 1828, 
+                    "score": 0.06417182832956314, 
+                    "spot": "present"
+                }
+            ], 
+            "wiki_id": 1591777, 
+            "wiki_title": "Abstention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1456, 
+                    "end": 1464, 
+                    "score": 0.07875924557447433, 
+                    "spot": "limiting"
+                }
+            ], 
+            "wiki_id": 26551602, 
+            "wiki_title": "Limit (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 143, 
+                    "end": 148, 
+                    "score": 0.16292977333068848, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 2054, 
+                    "end": 2060, 
+                    "score": 0.18599927425384521, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1933, 
+                    "end": 1943, 
+                    "score": 0.1116323173046112, 
+                    "spot": "proclaimed"
+                }
+            ], 
+            "wiki_id": 1523842, 
+            "wiki_title": "Proclamation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 358, 
+                    "score": 0.009155643172562122, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21927, 
+            "wiki_title": "National Party of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2146, 
+                    "end": 2152, 
+                    "score": 0.17041343450546265, 
+                    "spot": "speech"
+                }
+            ], 
+            "wiki_id": 21401843, 
+            "wiki_title": "Freedom of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2061, 
+                    "end": 2072, 
+                    "score": 0.07413943856954575, 
+                    "spot": "cooperating"
+                }
+            ], 
+            "wiki_id": 511556, 
+            "wiki_title": "Cooperation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1512, 
+                    "end": 1519, 
+                    "score": 0.0909576416015625, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 1708, 
+                    "end": 1715, 
+                    "score": 0.01686619594693184, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 677, 
+                    "end": 688, 
+                    "score": 0.5, 
+                    "spot": "Milan\nKucan"
+                }
+            ], 
+            "wiki_id": 429893, 
+            "wiki_title": "Milan Ku\u010dan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 598, 
+                    "end": 603, 
+                    "score": 0.047268494963645935, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 52786, 
+            "wiki_title": "Local government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1364, 
+                    "end": 1376, 
+                    "score": 0.15935814380645752, 
+                    "spot": "economically"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 834, 
+                    "end": 837, 
+                    "score": 0.17939572036266327, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 321, 
+                    "end": 328, 
+                    "score": 0.26397278904914856, 
+                    "spot": "liberal"
+                }
+            ], 
+            "wiki_id": 5266241, 
+            "wiki_title": "Modern liberalism in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 271, 
+                    "end": 281, 
+                    "score": 0.17182449996471405, 
+                    "spot": "population"
+                }
+            ], 
+            "wiki_id": 19017269, 
+            "wiki_title": "World population"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 38, 
+                    "end": 48, 
+                    "score": 0.0007855459698475897, 
+                    "spot": "begin work"
+                }
+            ], 
+            "wiki_id": 233953, 
+            "wiki_title": "Database transaction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1271, 
+                    "end": 1278, 
+                    "score": 0.010755027644336224, 
+                    "spot": "expense"
+                }
+            ], 
+            "wiki_id": 265319, 
+            "wiki_title": "Expense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1155, 
+                    "end": 1162, 
+                    "score": 0.21517314016819, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 124, 
+                    "end": 137, 
+                    "score": 0.2044435441493988, 
+                    "spot": "confederation"
+                }, 
+                {
+                    "begin": 2037, 
+                    "end": 2050, 
+                    "score": 0.22891366481781006, 
+                    "spot": "confederation"
+                }, 
+                {
+                    "begin": 2298, 
+                    "end": 2311, 
+                    "score": 0.2095315158367157, 
+                    "spot": "confederation"
+                }
+            ], 
+            "wiki_id": 227091, 
+            "wiki_title": "Confederation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2121, 
+                    "end": 2139, 
+                    "score": 0.7234771251678467, 
+                    "spot": "Slobodan Milosevic"
+                }
+            ], 
+            "wiki_id": 25862556, 
+            "wiki_title": "Slobodan Milo\u0161evi\u0107"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 177, 
+                    "end": 183, 
+                    "score": 0.016470294445753098, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 701, 
+                    "end": 707, 
+                    "score": 0.045696921646595, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 2094, 
+                    "end": 2100, 
+                    "score": 0.013218320906162262, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2013, 
+                    "end": 2022, 
+                    "score": 0.014582411386072636, 
+                    "spot": "provinces"
+                }
+            ], 
+            "wiki_id": 1192359, 
+            "wiki_title": "Provinces of Greece"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 214, 
+                    "end": 225, 
+                    "score": 0.0580131858587265, 
+                    "spot": "inhabitants"
+                }
+            ], 
+            "wiki_id": 277226, 
+            "wiki_title": "Demonym"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 156, 
+                    "end": 167, 
+                    "score": 0.04682939872145653, 
+                    "spot": "news agency"
+                }
+            ], 
+            "wiki_id": 47917, 
+            "wiki_title": "News agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 992, 
+                    "end": 1006, 
+                    "score": 0.08376280218362808, 
+                    "spot": "almost certain"
+                }
+            ], 
+            "wiki_id": 351908, 
+            "wiki_title": "Almost surely"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2268, 
+                    "score": 0.009148027747869492, 
+                    "spot": "transformation"
+                }
+            ], 
+            "wiki_id": 6947162, 
+            "wiki_title": "Spiritual transformation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 954, 
+                    "end": 959, 
+                    "score": 0.043478261679410934, 
+                    "spot": "Kucan"
+                }
+            ], 
+            "wiki_id": 4190509, 
+            "wiki_title": "Daniel Kucan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 44, 
+                    "end": 48, 
+                    "score": 0.10597250610589981, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 333, 
+                    "end": 343, 
+                    "score": 0.045828692615032196, 
+                    "spot": "prosperous"
+                }
+            ], 
+            "wiki_id": 12332599, 
+            "wiki_title": "Prosperity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 149, 
+                    "end": 155, 
+                    "score": 0.6570461988449097, 
+                    "spot": "Tanjug"
+                }, 
+                {
+                    "begin": 521, 
+                    "end": 527, 
+                    "score": 0.5265347957611084, 
+                    "spot": "Tanjug"
+                }, 
+                {
+                    "begin": 868, 
+                    "end": 874, 
+                    "score": 0.590730607509613, 
+                    "spot": "Tanjug"
+                }
+            ], 
+            "wiki_id": 4151905, 
+            "wiki_title": "Tanjug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 54, 
+                    "end": 66, 
+                    "score": 0.3428972661495209, 
+                    "spot": "constitution"
+                }, 
+                {
+                    "begin": 747, 
+                    "end": 759, 
+                    "score": 0.3790057301521301, 
+                    "spot": "constitution"
+                }, 
+                {
+                    "begin": 774, 
+                    "end": 786, 
+                    "score": 0.3578171730041504, 
+                    "spot": "constitution"
+                }, 
+                {
+                    "begin": 2193, 
+                    "end": 2205, 
+                    "score": 0.3077762722969055, 
+                    "spot": "constitution"
+                }
+            ], 
+            "wiki_id": 5253, 
+            "wiki_title": "Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 365, 
+                    "end": 371, 
+                    "score": 0.055885739624500275, 
+                    "spot": "member"
+                }
+            ], 
+            "wiki_id": 258909, 
+            "wiki_title": "Member of the European Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 888, 
+                    "end": 896, 
+                    "score": 0.012705517001450062, 
+                    "spot": "proposal"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1603, 
+                    "end": 1605, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 200960, 
+            "wiki_title": "Ch\u00e2teau d'If"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 101, 
+                    "score": 0.25858786702156067, 
+                    "spot": "sovereignty"
+                }, 
+                {
+                    "begin": 419, 
+                    "end": 434, 
+                    "score": 0.394504576921463, 
+                    "spot": "sovereign state"
+                }
+            ], 
+            "wiki_id": 28791, 
+            "wiki_title": "Sovereignty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 459, 
+                    "end": 466, 
+                    "score": 0.0022441651672124863, 
+                    "spot": "factual"
+                }
+            ], 
+            "wiki_id": 29411170, 
+            "wiki_title": "Factual"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1741, 
+                    "end": 1750, 
+                    "score": 0.0413634330034256, 
+                    "spot": "expressed"
+                }
+            ], 
+            "wiki_id": 159266, 
+            "wiki_title": "Gene expression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1544, 
+                    "end": 1552, 
+                    "score": 0.12255439162254333, 
+                    "spot": "northern"
+                }
+            ], 
+            "wiki_id": 2227697, 
+            "wiki_title": "Northern Region (Ghana)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1562, 
+                    "end": 1569, 
+                    "score": 0.09821813553571701, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1091, 
+                    "end": 1097, 
+                    "score": 0.5439819097518921, 
+                    "spot": "s more"
+                }
+            ], 
+            "wiki_id": 321159, 
+            "wiki_title": "S'more"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1300, 
+                    "end": 1309, 
+                    "score": 0.11913356184959412, 
+                    "spot": "Slovenian"
+                }
+            ], 
+            "wiki_id": 246311, 
+            "wiki_title": "Slovenes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 534, 
+                    "end": 541, 
+                    "score": 0.0008276432636193931, 
+                    "spot": "quoting"
+                }
+            ], 
+            "wiki_id": 25199, 
+            "wiki_title": "Quotation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 511, 
+                    "end": 517, 
+                    "score": 0.12641027569770813, 
+                    "spot": "rights"
+                }
+            ], 
+            "wiki_id": 13831, 
+            "wiki_title": "Human rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 549, 
+                    "end": 560, 
+                    "score": 0.035348277539014816, 
+                    "spot": "declaration"
+                }
+            ], 
+            "wiki_id": 261939, 
+            "wiki_title": "Declaration of war"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 407, 
+                    "end": 410, 
+                    "score": 0.005326500162482262, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1856, 
+                    "end": 1863, 
+                    "score": 0.6601768732070923, 
+                    "spot": "Croatia"
+                }
+            ], 
+            "wiki_id": 5573, 
+            "wiki_title": "Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2189, 
+                    "end": 2205, 
+                    "score": 0.4139663577079773, 
+                    "spot": "new constitution"
+                }
+            ], 
+            "wiki_id": 7871910, 
+            "wiki_title": "Constitution of Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 794, 
+                    "end": 809, 
+                    "score": 0.3251335918903351, 
+                    "spot": "sovereign state"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1576, 
+                    "end": 1582, 
+                    "score": 0.15447045862674713, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 17207794, 
+            "wiki_title": "Djibouti"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 38, 
+                    "end": 43, 
+                    "score": 0.013084174133837223, 
+                    "spot": "begin"
+                }
+            ], 
+            "wiki_id": 20767, 
+            "wiki_title": "Menachem Begin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1690, 
+                    "end": 1695, 
+                    "score": 0.001167770242318511, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 978, 
+                    "score": 0.09077993035316467, 
+                    "spot": "approval"
+                }, 
+                {
+                    "begin": 1660, 
+                    "end": 1679, 
+                    "score": 0.5467625856399536, 
+                    "spot": "public opinion poll"
+                }, 
+                {
+                    "begin": 1667, 
+                    "end": 1679, 
+                    "score": 0.6620082855224609, 
+                    "spot": "opinion poll"
+                }
+            ], 
+            "wiki_id": 277315, 
+            "wiki_title": "Opinion poll"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1377, 
+                    "end": 1385, 
+                    "score": 0.07108215987682343, 
+                    "spot": "dominate"
+                }
+            ], 
+            "wiki_id": 19991414, 
+            "wiki_title": "Dominance (ecology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1527, 
+                    "end": 1536, 
+                    "score": 0.1394282430410385, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1441, 
+                    "end": 1448, 
+                    "score": 0.11322832852602005, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 7039, 
+            "wiki_title": "Control theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2212, 
+                    "score": 0.6755968928337097, 
+                    "spot": "Serbia"
+                }
+            ], 
+            "wiki_id": 2582228, 
+            "wiki_title": "Kingdom of Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 226, 
+                    "end": 233, 
+                    "score": 0.004436423536390066, 
+                    "spot": "account"
+                }
+            ], 
+            "wiki_id": 2593, 
+            "wiki_title": "Accounting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 265, 
+                    "end": 270, 
+                    "score": 0.12968118488788605, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2243, 
+                    "end": 2249, 
+                    "score": 0.044148944318294525, 
+                    "spot": "offset"
+                }
+            ], 
+            "wiki_id": 33555, 
+            "wiki_title": "Wheel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 930, 
+                    "end": 940, 
+                    "score": 0.13981059193611145, 
+                    "spot": "parliament"
+                }
+            ], 
+            "wiki_id": 24406, 
+            "wiki_title": "Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 445, 
+                    "end": 455, 
+                    "score": 0.10890734195709229, 
+                    "spot": "attributes"
+                }
+            ], 
+            "wiki_id": 328763, 
+            "wiki_title": "Emblem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 845, 
+                    "end": 852, 
+                    "score": 0.14204470813274384, 
+                    "spot": "federal"
+                }, 
+                {
+                    "begin": 1433, 
+                    "end": 1440, 
+                    "score": 0.012391474097967148, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1685, 
+                    "end": 1689, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 708, 
+                    "end": 715, 
+                    "score": 0.12385924905538559, 
+                    "spot": "session"
+                }
+            ], 
+            "wiki_id": 4927404, 
+            "wiki_title": "Legislative session"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 651, 
+                    "score": 0.030360715463757515, 
+                    "spot": "endorsed"
+                }
+            ], 
+            "wiki_id": 15750500, 
+            "wiki_title": "Republican and conservative support for Barack Obama in 2008"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 206, 
+                    "end": 213, 
+                    "score": 0.11508871614933014, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 288, 
+                    "end": 295, 
+                    "score": 0.13510242104530334, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 411, 
+                    "end": 413, 
+                    "score": 0.08704875409603119, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 666, 
+                    "end": 675, 
+                    "score": 0.24816201627254486, 
+                    "spot": "president"
+                }, 
+                {
+                    "begin": 2111, 
+                    "end": 2120, 
+                    "score": 0.19594509899616241, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24899, 
+            "wiki_title": "President of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1071, 
+                    "end": 1076, 
+                    "score": 0.1625550091266632, 
+                    "spot": "media"
+                }
+            ], 
+            "wiki_id": 304113, 
+            "wiki_title": "News media"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1959, 
+                    "end": 1963, 
+                    "score": 0.001419507316313684, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 855329, 
+            "wiki_title": "Turn (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 604, 
+                    "end": 610, 
+                    "score": 0.05376199632883072, 
+                    "spot": "ruling"
+                }
+            ], 
+            "wiki_id": 153237, 
+            "wiki_title": "Court order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 76, 
+                    "score": 0.18735508620738983, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 760, 
+                    "end": 764, 
+                    "score": 0.2307308316230774, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1757, 
+                    "end": 1761, 
+                    "score": 0.004722503945231438, 
+                    "spot": "wish"
+                }
+            ], 
+            "wiki_id": 804203, 
+            "wiki_title": "Wish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1098, 
+                    "end": 1110, 
+                    "score": 0.278769850730896, 
+                    "spot": "conservative"
+                }
+            ], 
+            "wiki_id": 6675, 
+            "wiki_title": "Conservatism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 690, 
+                    "end": 693, 
+                    "score": 0.06699537485837936, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 240, 
+                    "end": 248, 
+                    "score": 0.01193670742213726, 
+                    "spot": "fraction"
+                }
+            ], 
+            "wiki_id": 1898891, 
+            "wiki_title": "Parliamentary group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2160, 
+                    "end": 2178, 
+                    "score": 0.3172210454940796, 
+                    "spot": "Serbian parliament"
+                }
+            ], 
+            "wiki_id": 619753, 
+            "wiki_title": "National Assembly (Serbia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 588, 
+                    "score": 0.07832936197519302, 
+                    "spot": "presidency"
+                }
+            ], 
+            "wiki_id": 15556289, 
+            "wiki_title": "Presidium of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1206, 
+                    "end": 1216, 
+                    "score": 0.13624051213264465, 
+                    "spot": "separatist"
+                }
+            ], 
+            "wiki_id": 286527, 
+            "wiki_title": "Separatism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1173, 
+                    "end": 1191, 
+                    "score": 0.5948368310928345, 
+                    "spot": "republic of Serbia"
+                }, 
+                {
+                    "begin": 1185, 
+                    "end": 1191, 
+                    "score": 0.7614181041717529, 
+                    "spot": "Serbia"
+                }, 
+                {
+                    "begin": 1328, 
+                    "end": 1334, 
+                    "score": 0.49035677313804626, 
+                    "spot": "Serbia"
+                }, 
+                {
+                    "begin": 2102, 
+                    "end": 2108, 
+                    "score": 0.5112141370773315, 
+                    "spot": "Serbia"
+                }
+            ], 
+            "wiki_id": 29265, 
+            "wiki_title": "Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1322, 
+                    "end": 1327, 
+                    "score": 0.13494016230106354, 
+                    "spot": "claim"
+                }
+            ], 
+            "wiki_id": 81094, 
+            "wiki_title": "Proposition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 115, 
+                    "end": 123, 
+                    "score": 0.23427733778953552, 
+                    "spot": "Yugoslav"
+                }, 
+                {
+                    "begin": 1080, 
+                    "end": 1090, 
+                    "score": 0.30948546528816223, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 1803, 
+                    "end": 1813, 
+                    "score": 0.40879514813423157, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 1873, 
+                    "end": 1881, 
+                    "score": 0.3177400827407837, 
+                    "spot": "Yugoslav"
+                }, 
+                {
+                    "begin": 2280, 
+                    "end": 2290, 
+                    "score": 0.43812891840934753, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 34244, 
+            "wiki_title": "Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1902, 
+                    "end": 1916, 
+                    "score": 0.02140309102833271, 
+                    "spot": "free elections"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1051, 
+                    "end": 1062, 
+                    "score": 0.14925138652324677, 
+                    "spot": "politicians"
+                }, 
+                {
+                    "begin": 1348, 
+                    "end": 1359, 
+                    "score": 0.16928118467330933, 
+                    "spot": "politically"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 309, 
+                    "end": 328, 
+                    "score": 0.27043086290359497, 
+                    "spot": "politically liberal"
+                }
+            ], 
+            "wiki_id": 19280734, 
+            "wiki_title": "Liberalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1592, 
+                    "end": 1602, 
+                    "score": 0.10333436727523804, 
+                    "spot": "better off"
+                }
+            ], 
+            "wiki_id": 45479, 
+            "wiki_title": "Utility"
+        }
+    ]
+}

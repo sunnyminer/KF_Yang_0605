@@ -1,0 +1,5272 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 147, 
+                    "score": 0.16550154983997345, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 681, 
+                    "end": 688, 
+                    "score": 0.0058610388077795506, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 1320, 
+                    "end": 1328, 
+                    "score": 0.19415543973445892, 
+                    "spot": "officers"
+                }, 
+                {
+                    "begin": 4684, 
+                    "end": 4691, 
+                    "score": 0.045774754136800766, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 5085, 
+                    "end": 5092, 
+                    "score": 0.03582724556326866, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 6178, 
+                    "end": 6185, 
+                    "score": 0.16522300243377686, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 6374, 
+                    "end": 6381, 
+                    "score": 0.10132989287376404, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 6879, 
+                    "end": 6887, 
+                    "score": 0.08089441806077957, 
+                    "spot": "officers"
+                }, 
+                {
+                    "begin": 7134, 
+                    "end": 7141, 
+                    "score": 0.04505705460906029, 
+                    "spot": "officer"
+                }
+            ], 
+            "wiki_id": 310240, 
+            "wiki_title": "Police officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2388, 
+                    "end": 2406, 
+                    "score": 0.28778502345085144, 
+                    "spot": "U.S. Supreme Court"
+                }
+            ], 
+            "wiki_id": 31737, 
+            "wiki_title": "Supreme Court of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3692, 
+                    "end": 3711, 
+                    "score": 0.06195840612053871, 
+                    "spot": "U.S. District Judge"
+                }
+            ], 
+            "wiki_id": 70235, 
+            "wiki_title": "United States district court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4038, 
+                    "end": 4046, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Woessner"
+                }, 
+                {
+                    "begin": 6693, 
+                    "end": 6701, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Woessner"
+                }
+            ], 
+            "wiki_id": 4180956, 
+            "wiki_title": "Warren Woessner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1819, 
+                    "end": 1822, 
+                    "score": 0.030347680673003197, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 8944898, 
+            "wiki_title": "The Mail on Sunday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3569, 
+                    "end": 3581, 
+                    "score": 0.11109042167663574, 
+                    "spot": "civil rights"
+                }
+            ], 
+            "wiki_id": 37071, 
+            "wiki_title": "Civil and political rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 25, 
+                    "end": 29, 
+                    "score": 0.12433590739965439, 
+                    "spot": "flow"
+                }
+            ], 
+            "wiki_id": 10972664, 
+            "wiki_title": "Young Money Entertainment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1631, 
+                    "end": 1635, 
+                    "score": 0.05115407705307007, 
+                    "spot": "case"
+                }, 
+                {
+                    "begin": 3663, 
+                    "end": 3667, 
+                    "score": 0.1240769624710083, 
+                    "spot": "case"
+                }, 
+                {
+                    "begin": 5922, 
+                    "end": 5926, 
+                    "score": 0.10607428848743439, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 1704112, 
+            "wiki_title": "Legal case"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3712, 
+                    "end": 3719, 
+                    "score": 0.0826939195394516, 
+                    "spot": "Mariana"
+                }
+            ], 
+            "wiki_id": 109283, 
+            "wiki_title": "Marianna, Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2495, 
+                    "end": 2504, 
+                    "score": 0.015625, 
+                    "spot": "like drug"
+                }
+            ], 
+            "wiki_id": 44146839, 
+            "wiki_title": "Like a Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1045, 
+                    "end": 1057, 
+                    "score": 0.031238367781043053, 
+                    "spot": "Hall of Fame"
+                }
+            ], 
+            "wiki_id": 288374, 
+            "wiki_title": "Hall of fame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3234, 
+                    "end": 3247, 
+                    "score": 0.10527456551790237, 
+                    "spot": "investigative"
+                }
+            ], 
+            "wiki_id": 309754, 
+            "wiki_title": "Investigative journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5410, 
+                    "end": 5416, 
+                    "score": 0.2591721713542938, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 37376942, 
+            "wiki_title": "Morgan Jones (The Walking Dead)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 897, 
+                    "end": 905, 
+                    "score": 0.0009680258226580918, 
+                    "spot": "arrested"
+                }, 
+                {
+                    "begin": 2953, 
+                    "end": 2960, 
+                    "score": 0.18037275969982147, 
+                    "spot": "arrests"
+                }, 
+                {
+                    "begin": 3064, 
+                    "end": 3071, 
+                    "score": 0.001335755456238985, 
+                    "spot": "arrests"
+                }
+            ], 
+            "wiki_id": 170638, 
+            "wiki_title": "Arrest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3542, 
+                    "end": 3549, 
+                    "score": 0.1290443241596222, 
+                    "spot": "damages"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 815, 
+                    "end": 846, 
+                    "score": 0.5, 
+                    "spot": "Drug Enforcement Administration"
+                }, 
+                {
+                    "begin": 3130, 
+                    "end": 3133, 
+                    "score": 0.2662983238697052, 
+                    "spot": "DEA"
+                }, 
+                {
+                    "begin": 4050, 
+                    "end": 4053, 
+                    "score": 0.20423166453838348, 
+                    "spot": "DEA"
+                }
+            ], 
+            "wiki_id": 146720, 
+            "wiki_title": "Drug Enforcement Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3382, 
+                    "end": 3385, 
+                    "score": 0.017336979508399963, 
+                    "spot": "nor"
+                }
+            ], 
+            "wiki_id": 21241, 
+            "wiki_title": "Norway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4605, 
+                    "end": 4609, 
+                    "score": 0.006920980755239725, 
+                    "spot": "spun"
+                }
+            ], 
+            "wiki_id": 1842500, 
+            "wiki_title": "Spun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4719, 
+                    "end": 4731, 
+                    "score": 0.6518987417221069, 
+                    "spot": "attache case"
+                }
+            ], 
+            "wiki_id": 1527344, 
+            "wiki_title": "Briefcase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3645, 
+                    "end": 3653, 
+                    "score": 0.0007015237933956087, 
+                    "spot": "rejected"
+                }
+            ], 
+            "wiki_id": 1177776, 
+            "wiki_title": "Rejected"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1247, 
+                    "end": 1255, 
+                    "score": 0.07919195294380188, 
+                    "spot": "targeted"
+                }
+            ], 
+            "wiki_id": 24834, 
+            "wiki_title": "Protein targeting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4135, 
+                    "end": 4143, 
+                    "score": 0.0013708873884752393, 
+                    "spot": "anything"
+                }
+            ], 
+            "wiki_id": 1645524, 
+            "wiki_title": "Anything (The Damned album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3876, 
+                    "end": 3879, 
+                    "score": 0.01773049682378769, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2751, 
+                    "end": 2780, 
+                    "score": 0.5, 
+                    "spot": "Los Angeles Police Department"
+                }
+            ], 
+            "wiki_id": 218985, 
+            "wiki_title": "Los Angeles Police Department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7473, 
+                    "end": 7479, 
+                    "score": 0.10126470029354095, 
+                    "spot": "denies"
+                }
+            ], 
+            "wiki_id": 80757, 
+            "wiki_title": "Teleology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3212, 
+                    "end": 3214, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 256349, 
+            "wiki_title": "We"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6137, 
+                    "end": 6141, 
+                    "score": 0.0022692889906466007, 
+                    "spot": "Atty"
+                }
+            ], 
+            "wiki_id": 14718938, 
+            "wiki_title": "Alex Atty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6910, 
+                    "end": 6920, 
+                    "score": 0.17986926436424255, 
+                    "spot": "possession"
+                }
+            ], 
+            "wiki_id": 1578427, 
+            "wiki_title": "Drug possession"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5771, 
+                    "end": 5773, 
+                    "score": 0.02076883241534233, 
+                    "spot": "me"
+                }
+            ], 
+            "wiki_id": 19977, 
+            "wiki_title": "Maine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5852, 
+                    "end": 5863, 
+                    "score": 0.036048367619514465, 
+                    "spot": "allegations"
+                }
+            ], 
+            "wiki_id": 2434267, 
+            "wiki_title": "Allegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7584, 
+                    "end": 7592, 
+                    "score": 0.13610638678073883, 
+                    "spot": "incident"
+                }
+            ], 
+            "wiki_id": 167008, 
+            "wiki_title": "Incidence (epidemiology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6095, 
+                    "end": 6109, 
+                    "score": 0.019141079857945442, 
+                    "spot": "out of control"
+                }
+            ], 
+            "wiki_id": 19523893, 
+            "wiki_title": "Out of Control (Girls Aloud album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 731, 
+                    "end": 736, 
+                    "score": 0.1390932947397232, 
+                    "spot": "crowd"
+                }
+            ], 
+            "wiki_id": 21442974, 
+            "wiki_title": "John Morrison and The Miz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 820, 
+                    "end": 846, 
+                    "score": 0.003778337500989437, 
+                    "spot": "Enforcement Administration"
+                }
+            ], 
+            "wiki_id": 5404009, 
+            "wiki_title": "Enforcement Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2788, 
+                    "end": 2801, 
+                    "score": 0.42213115096092224, 
+                    "spot": "William Booth"
+                }
+            ], 
+            "wiki_id": 201082, 
+            "wiki_title": "William Booth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5366, 
+                    "end": 5368, 
+                    "score": 0.2039220929145813, 
+                    "spot": "if"
+                }, 
+                {
+                    "begin": 5725, 
+                    "end": 5727, 
+                    "score": 0.0865628570318222, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 5333723, 
+            "wiki_title": "If (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2436, 
+                    "end": 2439, 
+                    "score": 0.3066955804824829, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 351873, 
+            "wiki_title": "Theresa May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5455, 
+                    "end": 5464, 
+                    "score": 0.16714449226856232, 
+                    "spot": "complaint"
+                }
+            ], 
+            "wiki_id": 7357, 
+            "wiki_title": "Complaint"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5357, 
+                    "end": 5361, 
+                    "score": 0.09633947908878326, 
+                    "spot": "free"
+                }
+            ], 
+            "wiki_id": 269523, 
+            "wiki_title": "Free (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3736, 
+                    "end": 3741, 
+                    "score": 0.0053415801376104355, 
+                    "spot": "aside"
+                }
+            ], 
+            "wiki_id": 156541, 
+            "wiki_title": "A-side and B-side"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1131, 
+                    "end": 1139, 
+                    "score": 0.16566148400306702, 
+                    "spot": "baseball"
+                }, 
+                {
+                    "begin": 4881, 
+                    "end": 4887, 
+                    "score": 0.009690305218100548, 
+                    "spot": "player"
+                }, 
+                {
+                    "begin": 5980, 
+                    "end": 5988, 
+                    "score": 0.1320667266845703, 
+                    "spot": "baseball"
+                }
+            ], 
+            "wiki_id": 3850, 
+            "wiki_title": "Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1988, 
+                    "score": 0.0353371687233448, 
+                    "spot": "developed"
+                }
+            ], 
+            "wiki_id": 254769, 
+            "wiki_title": "Research and development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1085, 
+                    "end": 1091, 
+                    "score": 0.09813763201236725, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 4848, 
+                    "end": 4854, 
+                    "score": 0.09813763201236725, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 214331, 
+            "wiki_title": "Morgan \u2013 A Suitable Case for Treatment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5669, 
+                    "end": 5676, 
+                    "score": 0.19512483477592468, 
+                    "spot": "Oakland"
+                }
+            ], 
+            "wiki_id": 50548, 
+            "wiki_title": "Oakland, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4272, 
+                    "end": 4279, 
+                    "score": 0.0889061689376831, 
+                    "spot": "I never"
+                }
+            ], 
+            "wiki_id": 31693888, 
+            "wiki_title": "Irresistible (Jessica Simpson album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3248, 
+                    "end": 3258, 
+                    "score": 0.13961656391620636, 
+                    "spot": "techniques"
+                }
+            ], 
+            "wiki_id": 65761, 
+            "wiki_title": "List of narrative techniques"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2661, 
+                    "end": 2663, 
+                    "score": 0.08327236771583557, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 231184, 
+            "wiki_title": "WE tv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3723, 
+                    "end": 3731, 
+                    "score": 0.07407407462596893, 
+                    "spot": "Pfaelzer"
+                }
+            ], 
+            "wiki_id": 21829052, 
+            "wiki_title": "Mariana Pfaelzer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2571, 
+                    "end": 2577, 
+                    "score": 0.17784465849399567, 
+                    "spot": "person"
+                }, 
+                {
+                    "begin": 3280, 
+                    "end": 3286, 
+                    "score": 0.15695127844810486, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3479, 
+                    "end": 3483, 
+                    "score": 0.04344576597213745, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1163, 
+                    "end": 1169, 
+                    "score": 0.09878198802471161, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 905217, 
+            "wiki_title": "Humphrey Searle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 960, 
+                    "end": 975, 
+                    "score": 0.8511810898780823, 
+                    "spot": "Cincinnati Reds"
+                }
+            ], 
+            "wiki_id": 6671, 
+            "wiki_title": "Cincinnati Reds"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3732, 
+                    "end": 3741, 
+                    "score": 0.0023142024874687195, 
+                    "spot": "set aside"
+                }
+            ], 
+            "wiki_id": 2372712, 
+            "wiki_title": "Set-aside"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1673, 
+                    "end": 1679, 
+                    "score": 0.18531443178653717, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 1916, 
+                    "end": 1931, 
+                    "score": 0.09226693958044052, 
+                    "spot": "police \nofficer"
+                }, 
+                {
+                    "begin": 2763, 
+                    "end": 2769, 
+                    "score": 0.5194150805473328, 
+                    "spot": "Police"
+                }, 
+                {
+                    "begin": 2763, 
+                    "end": 2780, 
+                    "score": 0.36151185631752014, 
+                    "spot": "Police Department"
+                }, 
+                {
+                    "begin": 3999, 
+                    "end": 4005, 
+                    "score": 0.22318774461746216, 
+                    "spot": "Police"
+                }, 
+                {
+                    "begin": 3999, 
+                    "end": 4016, 
+                    "score": 0.31802353262901306, 
+                    "spot": "Police Department"
+                }, 
+                {
+                    "begin": 6194, 
+                    "end": 6200, 
+                    "score": 0.3204154074192047, 
+                    "spot": "Police"
+                }, 
+                {
+                    "begin": 6194, 
+                    "end": 6212, 
+                    "score": 0.40825024247169495, 
+                    "spot": "Police \nDepartment"
+                }
+            ], 
+            "wiki_id": 23627, 
+            "wiki_title": "Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4960, 
+                    "end": 4969, 
+                    "score": 0.006142034661024809, 
+                    "spot": "stay away"
+                }
+            ], 
+            "wiki_id": 2010602, 
+            "wiki_title": "Stay-away"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2322, 
+                    "end": 2328, 
+                    "score": 0.05585859343409538, 
+                    "spot": "cities"
+                }
+            ], 
+            "wiki_id": 131855, 
+            "wiki_title": "Polis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3307, 
+                    "end": 3312, 
+                    "score": 0.14454714953899384, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 33632441, 
+            "wiki_title": "Psychoactive drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7673, 
+                    "end": 7676, 
+                    "score": 0.08483883738517761, 
+                    "spot": "C14"
+                }
+            ], 
+            "wiki_id": 146250, 
+            "wiki_title": "Carbon-14"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5949, 
+                    "end": 5952, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5283, 
+                    "end": 5291, 
+                    "score": 0.13556121289730072, 
+                    "spot": "officers"
+                }, 
+                {
+                    "begin": 6572, 
+                    "end": 6579, 
+                    "score": 0.026540175080299377, 
+                    "spot": "officer"
+                }
+            ], 
+            "wiki_id": 36301328, 
+            "wiki_title": "Officer (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3851, 
+                    "end": 3857, 
+                    "score": 0.1444716900587082, 
+                    "spot": "police"
+                }
+            ], 
+            "wiki_id": 13613956, 
+            "wiki_title": "Sri Lanka Police Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1764, 
+                    "end": 1770, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"It"
+                }
+            ], 
+            "wiki_id": 16256886, 
+            "wiki_title": "P:IT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1174, 
+                    "end": 1182, 
+                    "score": 0.46341848373413086, 
+                    "spot": "the city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4642, 
+                    "end": 4650, 
+                    "score": 0.0006056431448087096, 
+                    "spot": "identify"
+                }
+            ], 
+            "wiki_id": 44408522, 
+            "wiki_title": "Identify (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7436, 
+                    "end": 7441, 
+                    "score": 0.12930071353912354, 
+                    "spot": "swing"
+                }
+            ], 
+            "wiki_id": 628085, 
+            "wiki_title": "Swing (seat)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1966, 
+                    "end": 1971, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5931, 
+                    "end": 5936, 
+                    "score": 0.03066837228834629, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6386, 
+                    "end": 6391, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6859, 
+                    "end": 6864, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 295, 
+                    "score": 0.17809109389781952, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 1270, 
+                    "end": 1275, 
+                    "score": 0.10540986806154251, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 5619, 
+                    "end": 5631, 
+                    "score": 0.03497164323925972, 
+                    "spot": "black person"
+                }, 
+                {
+                    "begin": 5804, 
+                    "end": 5816, 
+                    "score": 0.29856011271476746, 
+                    "spot": "black person"
+                }, 
+                {
+                    "begin": 7072, 
+                    "end": 7077, 
+                    "score": 0.07065187394618988, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 7162, 
+                    "end": 7167, 
+                    "score": 0.17042110860347748, 
+                    "spot": "black"
+                }
+            ], 
+            "wiki_id": 4745, 
+            "wiki_title": "Black people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1357, 
+                    "end": 1361, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 22565899, 
+            "wiki_title": "Look (modeling agency)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1725, 
+                    "end": 1729, 
+                    "score": 0.0082422299310565, 
+                    "spot": "flow"
+                }
+            ], 
+            "wiki_id": 11034, 
+            "wiki_title": "Fluid dynamics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7275, 
+                    "end": 7282, 
+                    "score": 0.015383110381662846, 
+                    "spot": "spotted"
+                }
+            ], 
+            "wiki_id": 176945, 
+            "wiki_title": "Film score"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6267, 
+                    "end": 6273, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 105060, 
+            "wiki_title": "Henry Morgan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2216, 
+                    "end": 2223, 
+                    "score": 0.08467221260070801, 
+                    "spot": "tickets"
+                }
+            ], 
+            "wiki_id": 9958345, 
+            "wiki_title": "Ticket (admission)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6648, 
+                    "end": 6658, 
+                    "score": 0.23725029826164246, 
+                    "spot": "deposition"
+                }
+            ], 
+            "wiki_id": 51697, 
+            "wiki_title": "Deposition (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 475, 
+                    "score": 0.10380662977695465, 
+                    "spot": "minutes"
+                }, 
+                {
+                    "begin": 4981, 
+                    "end": 4988, 
+                    "score": 0.15539750456809998, 
+                    "spot": "Minutes"
+                }
+            ], 
+            "wiki_id": 2431, 
+            "wiki_title": "Minute and second of arc"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 114, 
+                    "score": 0.10073821246623993, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 577, 
+                    "end": 583, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 783, 
+                    "end": 789, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 3981, 
+                    "end": 3987, 
+                    "score": 0.11703860759735107, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 4197, 
+                    "end": 4203, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 4564, 
+                    "end": 4570, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 4935, 
+                    "end": 4941, 
+                    "score": 0.16802889108657837, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 5333, 
+                    "end": 5339, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 5829, 
+                    "end": 5835, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 6034, 
+                    "end": 6040, 
+                    "score": 0.1613875925540924, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 6219, 
+                    "end": 6225, 
+                    "score": 0.11736757308244705, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 6627, 
+                    "end": 6633, 
+                    "score": 0.11833831667900085, 
+                    "spot": "Searle"
+                }, 
+                {
+                    "begin": 7291, 
+                    "end": 7297, 
+                    "score": 0.12705624103546143, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 147079, 
+            "wiki_title": "John Searle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3166, 
+                    "end": 3172, 
+                    "score": 0.05270799249410629, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 7582579, 
+            "wiki_title": "Agency (country subdivision)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3706, 
+                    "end": 3711, 
+                    "score": 0.161716490983963, 
+                    "spot": "Judge"
+                }, 
+                {
+                    "begin": 3949, 
+                    "end": 3954, 
+                    "score": 0.12888550758361816, 
+                    "spot": "judge"
+                }
+            ], 
+            "wiki_id": 44719, 
+            "wiki_title": "Judge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5049, 
+                    "end": 5053, 
+                    "score": 0.07335472106933594, 
+                    "spot": "fell"
+                }
+            ], 
+            "wiki_id": 18498968, 
+            "wiki_title": "Falling (accident)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 446, 
+                    "end": 449, 
+                    "score": 0.09586867690086365, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 619, 
+                    "end": 622, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 462387, 
+            "wiki_title": "Adam Warlock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 947, 
+                    "score": 0.8442802429199219, 
+                    "spot": "Joe Morgan"
+                }, 
+                {
+                    "begin": 1442, 
+                    "end": 1452, 
+                    "score": 0.6390814781188965, 
+                    "spot": "Joe Morgan"
+                }, 
+                {
+                    "begin": 5572, 
+                    "end": 5582, 
+                    "score": 0.5, 
+                    "spot": "Joe Morgan"
+                }
+            ], 
+            "wiki_id": 505811, 
+            "wiki_title": "Joe Morgan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4807, 
+                    "end": 4816, 
+                    "score": 0.02150045707821846, 
+                    "spot": "bystander"
+                }
+            ], 
+            "wiki_id": 12059754, 
+            "wiki_title": "Bystander (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2715, 
+                    "end": 2722, 
+                    "score": 0.04887489601969719, 
+                    "spot": "profile"
+                }, 
+                {
+                    "begin": 3320, 
+                    "end": 3327, 
+                    "score": 0.050606947392225266, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 46530, 
+            "wiki_title": "Human Rights Watch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3484, 
+                    "end": 3488, 
+                    "score": 0.11121241003274918, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2440, 
+                    "end": 2458, 
+                    "score": 0.09090909361839294, 
+                    "spot": "stop and \nquestion"
+                }
+            ], 
+            "wiki_id": 26565483, 
+            "wiki_title": "Powers of the police in England and Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2740, 
+                    "end": 2750, 
+                    "score": 0.005333333276212215, 
+                    "spot": "you,\" said"
+                }
+            ], 
+            "wiki_id": 40790931, 
+            "wiki_title": "You Said (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6452, 
+                    "end": 6454, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 612840, 
+            "wiki_title": "If...."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 358, 
+                    "end": 368, 
+                    "score": 0.12000969797372818, 
+                    "spot": "telephones"
+                }
+            ], 
+            "wiki_id": 30003, 
+            "wiki_title": "Telephone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3271, 
+                    "end": 3279, 
+                    "score": 0.09226272255182266, 
+                    "spot": "identify"
+                }, 
+                {
+                    "begin": 6278, 
+                    "end": 6286, 
+                    "score": 0.1187320351600647, 
+                    "spot": "identify"
+                }
+            ], 
+            "wiki_id": 880112, 
+            "wiki_title": "Identity (social science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1034, 
+                    "end": 1057, 
+                    "score": 0.13793103396892548, 
+                    "spot": "baseball's Hall of Fame"
+                }
+            ], 
+            "wiki_id": 4078, 
+            "wiki_title": "National Baseball Hall of Fame and Museum"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1973, 
+                    "end": 1978, 
+                    "score": 0.03546878695487976, 
+                    "spot": "First"
+                }
+            ], 
+            "wiki_id": 25395149, 
+            "wiki_title": "First-person shooter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3632, 
+                    "end": 3644, 
+                    "score": 0.019784172996878624, 
+                    "spot": "federal jury"
+                }
+            ], 
+            "wiki_id": 28086821, 
+            "wiki_title": "Federal jury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 670, 
+                    "end": 675, 
+                    "score": 0.014371760189533234, 
+                    "spot": "mouth"
+                }
+            ], 
+            "wiki_id": 166931, 
+            "wiki_title": "River delta"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6511, 
+                    "end": 6516, 
+                    "score": 0.0019739822018891573, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 8061107, 
+            "wiki_title": "Think! (short story)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5009, 
+                    "end": 5015, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 31301633, 
+            "wiki_title": "Frank Searle (businessman)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5378, 
+                    "end": 5384, 
+                    "score": 0.002121398691087961, 
+                    "spot": "forget"
+                }
+            ], 
+            "wiki_id": 45518251, 
+            "wiki_title": "Forget (The Walking Dead)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4338, 
+                    "end": 4345, 
+                    "score": 0.0031582918018102646, 
+                    "spot": "comment"
+                }
+            ], 
+            "wiki_id": 8592308, 
+            "wiki_title": "Comment (computer programming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7390, 
+                    "end": 7396, 
+                    "score": 0.05465128272771835, 
+                    "spot": "noises"
+                }
+            ], 
+            "wiki_id": 41415, 
+            "wiki_title": "Noise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7333, 
+                    "end": 7339, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 424358, 
+            "wiki_title": "Morgan Motor Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5777, 
+                    "end": 5786, 
+                    "score": 0.0035194174852222204, 
+                    "spot": "my father"
+                }
+            ], 
+            "wiki_id": 13643537, 
+            "wiki_title": "My Father"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 445, 
+                    "score": 0.18016210198402405, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 384864, 
+            "wiki_title": "Question (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2634, 
+                    "end": 2642, 
+                    "score": 0.16748936474323273, 
+                    "spot": "Profiles"
+                }, 
+                {
+                    "begin": 3191, 
+                    "end": 3199, 
+                    "score": 0.08538531512022018, 
+                    "spot": "profiles"
+                }
+            ], 
+            "wiki_id": 237036, 
+            "wiki_title": "H.264/MPEG-4 AVC"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7666, 
+                    "end": 7671, 
+                    "score": 0.002252687234431505, 
+                    "spot": "STORY"
+                }
+            ], 
+            "wiki_id": 255991, 
+            "wiki_title": "Narrative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4741, 
+                    "end": 4745, 
+                    "score": 0.06926087290048599, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5699, 
+                    "end": 5701, 
+                    "score": 0.15808285772800446, 
+                    "spot": "Jr"
+                }
+            ], 
+            "wiki_id": 168285, 
+            "wiki_title": "Hank Williams Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 300, 
+                    "end": 304, 
+                    "score": 0.011079253628849983, 
+                    "spot": "walk"
+                }
+            ], 
+            "wiki_id": 33509, 
+            "wiki_title": "Walking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4901, 
+                    "end": 4910, 
+                    "score": 0.002046559238806367, 
+                    "spot": "intervene"
+                }
+            ], 
+            "wiki_id": 5161334, 
+            "wiki_title": "Intervention (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 848, 
+                    "end": 855, 
+                    "score": 0.0006747274310328066, 
+                    "spot": "realize"
+                }
+            ], 
+            "wiki_id": 15672931, 
+            "wiki_title": "Realize (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3489, 
+                    "end": 3494, 
+                    "score": 0.10333220660686493, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 349504, 
+            "wiki_title": "Environment variable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1115, 
+                    "end": 1126, 
+                    "score": 0.10141724348068237, 
+                    "spot": "businessman"
+                }
+            ], 
+            "wiki_id": 147292, 
+            "wiki_title": "Businessperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2482, 
+                    "end": 2486, 
+                    "score": 0.06323213875293732, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 2485186, 
+            "wiki_title": "The Look"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7402, 
+                    "end": 7405, 
+                    "score": 0.06166107952594757, 
+                    "spot": "hit"
+                }
+            ], 
+            "wiki_id": 1795886, 
+            "wiki_title": "Record chart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6974, 
+                    "end": 6981, 
+                    "score": 0.05226127430796623, 
+                    "spot": "holding"
+                }
+            ], 
+            "wiki_id": 146080, 
+            "wiki_title": "Holding company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2505, 
+                    "end": 2513, 
+                    "score": 0.06581555306911469, 
+                    "spot": "couriers"
+                }
+            ], 
+            "wiki_id": 551824, 
+            "wiki_title": "Courier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2131, 
+                    "end": 2140, 
+                    "score": 0.008560091257095337, 
+                    "spot": "transport"
+                }
+            ], 
+            "wiki_id": 2375692, 
+            "wiki_title": "Cargo aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2193, 
+                    "end": 2202, 
+                    "score": 0.0742308497428894, 
+                    "spot": "movements"
+                }
+            ], 
+            "wiki_id": 234984, 
+            "wiki_title": "Social movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 100, 
+                    "end": 107, 
+                    "score": 0.103232741355896, 
+                    "spot": "Clayton"
+                }
+            ], 
+            "wiki_id": 1749093, 
+            "wiki_title": "Tarzan (1999 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7418, 
+                    "end": 7423, 
+                    "score": 0.056203026324510574, 
+                    "spot": "chest"
+                }
+            ], 
+            "wiki_id": 262601, 
+            "wiki_title": "Thorax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5035, 
+                    "end": 5039, 
+                    "score": 0.08220283687114716, 
+                    "spot": "neck"
+                }
+            ], 
+            "wiki_id": 53235, 
+            "wiki_title": "Neck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4306, 
+                    "end": 4312, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 4996, 
+                    "end": 5002, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 5320, 
+                    "end": 5326, 
+                    "score": 0.07570640742778778, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 7466, 
+                    "end": 7472, 
+                    "score": 0.06387421488761902, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 181579, 
+            "wiki_title": "J. P. Morgan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 721, 
+                    "end": 730, 
+                    "score": 0.14479951560497284, 
+                    "spot": "gathering"
+                }
+            ], 
+            "wiki_id": 1606231, 
+            "wiki_title": "Raven's Nest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 747, 
+                    "end": 756, 
+                    "score": 0.010593220591545105, 
+                    "spot": "passersby"
+                }
+            ], 
+            "wiki_id": 156559, 
+            "wiki_title": "The Passersby"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3454, 
+                    "end": 3456, 
+                    "score": 0.03599187731742859, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 25039021, 
+            "wiki_title": "Go (programming language)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5148, 
+                    "end": 5151, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 4384459, 
+            "wiki_title": "Imperial Majesty (style)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5206, 
+                    "end": 5224, 
+                    "score": 0.5211864709854126, 
+                    "spot": "children's nursery"
+                }, 
+                {
+                    "begin": 5217, 
+                    "end": 5224, 
+                    "score": 0.3381538391113281, 
+                    "spot": "nursery"
+                }
+            ], 
+            "wiki_id": 420020, 
+            "wiki_title": "Preschool"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4571, 
+                    "end": 4579, 
+                    "score": 0.003093478735536337, 
+                    "spot": "suddenly"
+                }, 
+                {
+                    "begin": 6307, 
+                    "end": 6315, 
+                    "score": 0.003093478735536337, 
+                    "spot": "suddenly"
+                }
+            ], 
+            "wiki_id": 777032, 
+            "wiki_title": "Suddenly (1954 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5677, 
+                    "end": 5685, 
+                    "score": 0.07127650827169418, 
+                    "spot": "attorney"
+                }
+            ], 
+            "wiki_id": 21900706, 
+            "wiki_title": "Attorney at law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4760, 
+                    "end": 4766, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 18991957, 
+            "wiki_title": "Ryan Searle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2523, 
+                    "end": 2528, 
+                    "score": 0.07883624732494354, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 4354, 
+                    "end": 4359, 
+                    "score": 0.08504515141248703, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 6642, 
+                    "end": 6647, 
+                    "score": 0.23718111217021942, 
+                    "spot": "court"
+                }
+            ], 
+            "wiki_id": 75358, 
+            "wiki_title": "Court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4017, 
+                    "end": 4024, 
+                    "score": 0.16735368967056274, 
+                    "spot": "veteran"
+                }
+            ], 
+            "wiki_id": 327806, 
+            "wiki_title": "Veteran"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1238, 
+                    "end": 1246, 
+                    "score": 0.08216243982315063, 
+                    "spot": "unfairly"
+                }
+            ], 
+            "wiki_id": 12866711, 
+            "wiki_title": "Injustice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4144, 
+                    "end": 4149, 
+                    "score": 0.06185229867696762, 
+                    "spot": "wrong"
+                }
+            ], 
+            "wiki_id": 276167, 
+            "wiki_title": "Wrongdoing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 565, 
+                    "end": 570, 
+                    "score": 0.0031325933523476124, 
+                    "spot": "floor"
+                }, 
+                {
+                    "begin": 5062, 
+                    "end": 5067, 
+                    "score": 0.0031325933523476124, 
+                    "spot": "floor"
+                }
+            ], 
+            "wiki_id": 32416, 
+            "wiki_title": "Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2267, 
+                    "end": 2273, 
+                    "score": 0.10383805632591248, 
+                    "spot": "flight"
+                }
+            ], 
+            "wiki_id": 159472, 
+            "wiki_title": "Flight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2535, 
+                    "end": 2540, 
+                    "score": 0.07526638358831406, 
+                    "spot": "brief"
+                }
+            ], 
+            "wiki_id": 5544594, 
+            "wiki_title": "Papal brief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4767, 
+                    "end": 4774, 
+                    "score": 0.10531993955373764, 
+                    "spot": "refused"
+                }
+            ], 
+            "wiki_id": 599741, 
+            "wiki_title": "Refused"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 630, 
+                    "end": 634, 
+                    "score": 0.14464277029037476, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 11492, 
+            "wiki_title": "Foot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2552, 
+                    "end": 2556, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 1178382, 
+            "wiki_title": "English modal verbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7021, 
+                    "end": 7028, 
+                    "score": 0.0005123011069372296, 
+                    "spot": "looking"
+                }, 
+                {
+                    "begin": 7148, 
+                    "end": 7155, 
+                    "score": 0.05576617643237114, 
+                    "spot": "looking"
+                }
+            ], 
+            "wiki_id": 21280496, 
+            "wiki_title": "Visual perception"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 350, 
+                    "end": 354, 
+                    "score": 0.06604409962892532, 
+                    "spot": "bank"
+                }
+            ], 
+            "wiki_id": 19360669, 
+            "wiki_title": "Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 73, 
+                    "end": 89, 
+                    "score": 0.25792843103408813, 
+                    "spot": "Airport, \npolice"
+                }
+            ], 
+            "wiki_id": 13118538, 
+            "wiki_title": "Airport police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6414, 
+                    "end": 6424, 
+                    "score": 0.010204081423580647, 
+                    "spot": "Mr. Morgan"
+                }
+            ], 
+            "wiki_id": 1165569, 
+            "wiki_title": "Satiate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3761, 
+                    "end": 3767, 
+                    "score": 0.09477733075618744, 
+                    "spot": "ruling"
+                }
+            ], 
+            "wiki_id": 153237, 
+            "wiki_title": "Court order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 707, 
+                    "end": 711, 
+                    "score": 0.09046714007854462, 
+                    "spot": "away"
+                }
+            ], 
+            "wiki_id": 573894, 
+            "wiki_title": "Over the Hills and Far Away (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2282, 
+                    "end": 2289, 
+                    "score": 0.11511851847171783, 
+                    "spot": "luggage"
+                }
+            ], 
+            "wiki_id": 979665, 
+            "wiki_title": "Baggage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2541, 
+                    "end": 2551, 
+                    "score": 0.0032626427710056305, 
+                    "spot": "detentions"
+                }
+            ], 
+            "wiki_id": 455350, 
+            "wiki_title": "School discipline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5738, 
+                    "end": 5741, 
+                    "score": 0.023508790880441666, 
+                    "spot": "Joe"
+                }
+            ], 
+            "wiki_id": 18120823, 
+            "wiki_title": "Joe Jonas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4227, 
+                    "end": 4231, 
+                    "score": 0.011642364785075188, 
+                    "spot": "luck"
+                }
+            ], 
+            "wiki_id": 192727, 
+            "wiki_title": "Luck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1021, 
+                    "end": 1026, 
+                    "score": 0.17688146233558655, 
+                    "spot": "Major"
+                }
+            ], 
+            "wiki_id": 1506950, 
+            "wiki_title": "Men's major golf championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 123, 
+                    "end": 129, 
+                    "score": 0.06961662322282791, 
+                    "spot": "fellow"
+                }
+            ], 
+            "wiki_id": 381889, 
+            "wiki_title": "Fellow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6723, 
+                    "end": 6730, 
+                    "score": 0.08317869901657104, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 10890716, 
+            "wiki_title": "Member state of the European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3376, 
+                    "end": 3381, 
+                    "score": 0.0404379777610302, 
+                    "spot": "Booth"
+                }
+            ], 
+            "wiki_id": 18877911, 
+            "wiki_title": "Mitch Booth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1499, 
+                    "end": 1504, 
+                    "score": 0.09006256610155106, 
+                    "spot": "black"
+                }
+            ], 
+            "wiki_id": 1422506, 
+            "wiki_title": "Black (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4660, 
+                    "end": 4666, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 5069, 
+                    "end": 5075, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 238317, 
+            "wiki_title": "Daniel Morgan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1660, 
+                    "end": 1669, 
+                    "score": 0.1026747077703476, 
+                    "spot": "criticism"
+                }
+            ], 
+            "wiki_id": 23273, 
+            "wiki_title": "Patent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 20, 
+                    "score": 0.011537352576851845, 
+                    "spot": "scanned"
+                }
+            ], 
+            "wiki_id": 317625, 
+            "wiki_title": "Image scanner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6587, 
+                    "end": 6597, 
+                    "score": 0.02300819754600525, 
+                    "spot": "recognized"
+                }
+            ], 
+            "wiki_id": 524626, 
+            "wiki_title": "Diplomatic recognition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4360, 
+                    "end": 4369, 
+                    "score": 0.15104642510414124, 
+                    "spot": "documents"
+                }
+            ], 
+            "wiki_id": 161228, 
+            "wiki_title": "Document"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2905, 
+                    "end": 2911, 
+                    "score": 0.0770280584692955, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 307834, 
+            "wiki_title": "Public"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2092, 
+                    "end": 2095, 
+                    "score": 0.0680496022105217, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 4061, 
+                    "end": 4064, 
+                    "score": 0.09909629076719284, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 4249, 
+                    "end": 4252, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 6159, 
+                    "end": 6162, 
+                    "score": 0.07093774527311325, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5965, 
+                    "end": 5968, 
+                    "score": 0.019980482757091522, 
+                    "spot": "guy"
+                }
+            ], 
+            "wiki_id": 177383, 
+            "wiki_title": "Disturbed (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5245, 
+                    "end": 5257, 
+                    "score": 0.007193268276751041, 
+                    "spot": "interrogated"
+                }
+            ], 
+            "wiki_id": 220414, 
+            "wiki_title": "Interrogation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7536, 
+                    "end": 7554, 
+                    "score": 0.30262917280197144, 
+                    "spot": "emotional distress"
+                }
+            ], 
+            "wiki_id": 146072, 
+            "wiki_title": "Stress (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3460, 
+                    "end": 3465, 
+                    "score": 0.009173903614282608, 
+                    "spot": "trial"
+                }
+            ], 
+            "wiki_id": 19596649, 
+            "wiki_title": "Adolf Eichmann"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 299, 
+                    "score": 0.15180519223213196, 
+                    "spot": "black man"
+                }, 
+                {
+                    "begin": 1472, 
+                    "end": 1477, 
+                    "score": 0.1477889120578766, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 5717, 
+                    "end": 5722, 
+                    "score": 0.07198399305343628, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 7162, 
+                    "end": 7171, 
+                    "score": 0.10728845000267029, 
+                    "spot": "black man"
+                }
+            ], 
+            "wiki_id": 2154, 
+            "wiki_title": "African Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7608, 
+                    "end": 7615, 
+                    "score": 0.001091905520297587, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 18465305, 
+            "wiki_title": "Concern (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 556, 
+                    "end": 564, 
+                    "score": 0.09726354479789734, 
+                    "spot": "terminal"
+                }
+            ], 
+            "wiki_id": 7689061, 
+            "wiki_title": "Terminal and nonterminal symbols"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5116, 
+                    "end": 5120, 
+                    "score": 0.2520909309387207, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 3524381, 
+            "wiki_title": "Human back"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4527, 
+                    "end": 4537, 
+                    "score": 0.0016977929044514894, 
+                    "spot": "innocently"
+                }
+            ], 
+            "wiki_id": 555881, 
+            "wiki_title": "Innocence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7636, 
+                    "end": 7646, 
+                    "score": 0.002165317302569747, 
+                    "spot": "reputation"
+                }
+            ], 
+            "wiki_id": 233009, 
+            "wiki_title": "Reputation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2393, 
+                    "end": 2406, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }
+            ], 
+            "wiki_id": 2830384, 
+            "wiki_title": "Supreme Court of Sri Lanka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 281, 
+                    "end": 289, 
+                    "score": 0.03278946131467819, 
+                    "spot": "muscular"
+                }
+            ], 
+            "wiki_id": 19723734, 
+            "wiki_title": "Muscle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5271, 
+                    "end": 5278, 
+                    "score": 0.03990517556667328, 
+                    "spot": "minutes"
+                }
+            ], 
+            "wiki_id": 901046, 
+            "wiki_title": "Minutes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6475, 
+                    "end": 6479, 
+                    "score": 0.07279981672763824, 
+                    "spot": "none"
+                }
+            ], 
+            "wiki_id": 323777, 
+            "wiki_title": "Irreligion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4082, 
+                    "end": 4089, 
+                    "score": 0.12674476206302643, 
+                    "spot": "dropped"
+                }
+            ], 
+            "wiki_id": 1073770, 
+            "wiki_title": "Nolle prosequi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 33, 
+                    "end": 43, 
+                    "score": 0.19822493195533752, 
+                    "spot": "passengers"
+                }, 
+                {
+                    "begin": 2467, 
+                    "end": 2477, 
+                    "score": 0.12885916233062744, 
+                    "spot": "passengers"
+                }, 
+                {
+                    "begin": 6960, 
+                    "end": 6969, 
+                    "score": 0.058736130595207214, 
+                    "spot": "passenger"
+                }
+            ], 
+            "wiki_id": 4582654, 
+            "wiki_title": "Passenger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7431, 
+                    "end": 7435, 
+                    "score": 0.05332684516906738, 
+                    "spot": "wild"
+                }
+            ], 
+            "wiki_id": 17169979, 
+            "wiki_title": "Wild fisheries"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4548, 
+                    "end": 4558, 
+                    "score": 0.006739941891282797, 
+                    "spot": "phone call"
+                }
+            ], 
+            "wiki_id": 406703, 
+            "wiki_title": "Telephone call"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 923, 
+                    "score": 0.03125, 
+                    "spot": "March day"
+                }
+            ], 
+            "wiki_id": 564838, 
+            "wiki_title": "M\u0103r\u021bi\u0219or"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6439, 
+                    "end": 6444, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 5813, 
+            "wiki_title": "C. S. Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3472, 
+                    "end": 3483, 
+                    "score": 0.07098201662302017, 
+                    "spot": "second time"
+                }
+            ], 
+            "wiki_id": 661042, 
+            "wiki_title": "Same-sex marriage in Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6849, 
+                    "end": 6854, 
+                    "score": 0.05496163293719292, 
+                    "spot": "alias"
+                }
+            ], 
+            "wiki_id": 297249, 
+            "wiki_title": "Alias (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2373, 
+                    "end": 2382, 
+                    "score": 0.004724409431219101, 
+                    "spot": "Last year"
+                }, 
+                {
+                    "begin": 2927, 
+                    "end": 2936, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4158, 
+                    "end": 4163, 
+                    "score": 0.009513742290437222, 
+                    "spot": "P>\n\"I"
+                }
+            ], 
+            "wiki_id": 432612, 
+            "wiki_title": "Seattle Post-Intelligencer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1493, 
+                    "end": 1498, 
+                    "score": 0.06406217813491821, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 263257, 
+            "wiki_title": "First language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7037, 
+                    "end": 7046, 
+                    "score": 0.002861874643713236, 
+                    "spot": "companion"
+                }
+            ], 
+            "wiki_id": 153398, 
+            "wiki_title": "Order of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2041, 
+                    "end": 2062, 
+                    "score": 0.007731958758085966, 
+                    "spot": "patterns of \nbehavior"
+                }
+            ], 
+            "wiki_id": 855067, 
+            "wiki_title": "Behavioral pattern"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 387, 
+                    "end": 398, 
+                    "score": 0.2665519118309021, 
+                    "spot": "Los Angeles"
+                }, 
+                {
+                    "begin": 1178, 
+                    "end": 1197, 
+                    "score": 0.5673663020133972, 
+                    "spot": "city of Los Angeles"
+                }, 
+                {
+                    "begin": 1186, 
+                    "end": 1197, 
+                    "score": 0.4664050340652466, 
+                    "spot": "Los Angeles"
+                }
+            ], 
+            "wiki_id": 18110, 
+            "wiki_title": "Los Angeles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1819, 
+                    "end": 1826, 
+                    "score": 0.0008104792796075344, 
+                    "spot": "you are"
+                }
+            ], 
+            "wiki_id": 18609265, 
+            "wiki_title": "You Are (Lionel Richie song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4242, 
+                    "end": 4248, 
+                    "score": 0.0038182511925697327, 
+                    "spot": "I know"
+                }
+            ], 
+            "wiki_id": 23424532, 
+            "wiki_title": "I Know (You Don't Love Me No More)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5189, 
+                    "end": 5194, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 144089, 
+            "wiki_title": "Eminent domain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7120, 
+                    "end": 7127, 
+                    "score": 0.004140443634241819, 
+                    "spot": "like me"
+                }
+            ], 
+            "wiki_id": 17099666, 
+            "wiki_title": "Like Me"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1537, 
+                    "end": 1551, 
+                    "score": 0.30645161867141724, 
+                    "spot": "William Barnes"
+                }
+            ], 
+            "wiki_id": 33117, 
+            "wiki_title": "William Barnes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3800, 
+                    "end": 3806, 
+                    "score": 0.10387127846479416, 
+                    "spot": "jurors"
+                }
+            ], 
+            "wiki_id": 44720, 
+            "wiki_title": "Jury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6636, 
+                    "end": 6641, 
+                    "score": 0.16553308069705963, 
+                    "spot": "sworn"
+                }
+            ], 
+            "wiki_id": 273418, 
+            "wiki_title": "Oath"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 83, 
+                    "end": 99, 
+                    "score": 0.3518754541873932, 
+                    "spot": "police detective"
+                }, 
+                {
+                    "begin": 90, 
+                    "end": 99, 
+                    "score": 0.24698194861412048, 
+                    "spot": "detective"
+                }, 
+                {
+                    "begin": 399, 
+                    "end": 416, 
+                    "score": 0.3957178294658661, 
+                    "spot": "police \ndetective"
+                }, 
+                {
+                    "begin": 407, 
+                    "end": 416, 
+                    "score": 0.2762101888656616, 
+                    "spot": "detective"
+                }
+            ], 
+            "wiki_id": 118576, 
+            "wiki_title": "Detective"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 541, 
+                    "end": 548, 
+                    "score": 0.002067064866423607, 
+                    "spot": "toppled"
+                }
+            ], 
+            "wiki_id": 21134787, 
+            "wiki_title": "1963 Syrian coup d'\u00e9tat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4267, 
+                    "end": 4271, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 440312, 
+            "wiki_title": "Hope (Klaatu album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7383, 
+                    "end": 7389, 
+                    "score": 0.07172292470932007, 
+                    "spot": "animal"
+                }
+            ], 
+            "wiki_id": 983398, 
+            "wiki_title": "Road Warrior Animal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3107, 
+                    "end": 3121, 
+                    "score": 0.1817597597837448, 
+                    "spot": "public affairs"
+                }
+            ], 
+            "wiki_id": 8045252, 
+            "wiki_title": "Public affairs (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7058, 
+                    "end": 7067, 
+                    "score": 0.04074728116393089, 
+                    "spot": "passenger"
+                }
+            ], 
+            "wiki_id": 25715, 
+            "wiki_title": "Rail transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3828, 
+                    "end": 3847, 
+                    "score": 0.01587301678955555, 
+                    "spot": "illegally \ndetained"
+                }
+            ], 
+            "wiki_id": 686148, 
+            "wiki_title": "Forced disappearance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1564, 
+                    "end": 1573, 
+                    "score": 0.015075059607625008, 
+                    "spot": "attorneys"
+                }, 
+                {
+                    "begin": 1898, 
+                    "end": 1904, 
+                    "score": 0.2827332615852356, 
+                    "spot": "lawyer"
+                }, 
+                {
+                    "begin": 5528, 
+                    "end": 5537, 
+                    "score": 0.10496646165847778, 
+                    "spot": "attorneys"
+                }
+            ], 
+            "wiki_id": 17541, 
+            "wiki_title": "Lawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1870, 
+                    "end": 1878, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Trichter"
+                }
+            ], 
+            "wiki_id": 47330340, 
+            "wiki_title": "Judd Trichter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5310, 
+                    "end": 5318, 
+                    "score": 0.04274512827396393, 
+                    "spot": "identity"
+                }
+            ], 
+            "wiki_id": 364578, 
+            "wiki_title": "Identity document"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5232, 
+                    "end": 5240, 
+                    "score": 0.0992979109287262, 
+                    "spot": "terminal"
+                }
+            ], 
+            "wiki_id": 423849, 
+            "wiki_title": "Airport terminal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5939, 
+                    "end": 5952, 
+                    "score": 0.020942408591508865, 
+                    "spot": "All I can say"
+                }
+            ], 
+            "wiki_id": 8104127, 
+            "wiki_title": "All I Can Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1716, 
+                    "end": 1720, 
+                    "score": 0.08162975311279297, 
+                    "spot": "stem"
+                }
+            ], 
+            "wiki_id": 18952693, 
+            "wiki_title": "Plant stem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3773, 
+                    "end": 3776, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 706580, 
+            "wiki_title": "S.H.E"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7597, 
+                    "end": 7606, 
+                    "score": 0.09016076475381851, 
+                    "spot": "expressed"
+                }
+            ], 
+            "wiki_id": 159266, 
+            "wiki_title": "Gene expression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7516, 
+                    "end": 7521, 
+                    "score": 0.16661934554576874, 
+                    "spot": "acute"
+                }
+            ], 
+            "wiki_id": 24373, 
+            "wiki_title": "Pain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6991, 
+                    "end": 7003, 
+                    "score": 0.2590090036392212, 
+                    "spot": "plane ticket"
+                }, 
+                {
+                    "begin": 6997, 
+                    "end": 7003, 
+                    "score": 0.2591889500617981, 
+                    "spot": "ticket"
+                }
+            ], 
+            "wiki_id": 10532510, 
+            "wiki_title": "Airline ticket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4746, 
+                    "end": 4750, 
+                    "score": 0.06595539301633835, 
+                    "spot": "away"
+                }
+            ], 
+            "wiki_id": 4268075, 
+            "wiki_title": "Oakwell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1553, 
+                    "end": 1556, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 578426, 
+            "wiki_title": "National Express East Anglia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4162, 
+                    "end": 4168, 
+                    "score": 0.024932004511356354, 
+                    "spot": "I wish"
+                }, 
+                {
+                    "begin": 4211, 
+                    "end": 4217, 
+                    "score": 0.024932004511356354, 
+                    "spot": "I wish"
+                }, 
+                {
+                    "begin": 6048, 
+                    "end": 6054, 
+                    "score": 0.024932004511356354, 
+                    "spot": "I wish"
+                }
+            ], 
+            "wiki_id": 1712329, 
+            "wiki_title": "I Wish (Stevie Wonder song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5104, 
+                    "end": 5108, 
+                    "score": 0.17264017462730408, 
+                    "spot": "knee"
+                }
+            ], 
+            "wiki_id": 188506, 
+            "wiki_title": "Knee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 148, 
+                    "end": 156, 
+                    "score": 0.07937812060117722, 
+                    "spot": "searched"
+                }
+            ], 
+            "wiki_id": 572687, 
+            "wiki_title": "Search and seizure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1865, 
+                    "end": 1869, 
+                    "score": 0.06546793133020401, 
+                    "spot": "Gary"
+                }
+            ], 
+            "wiki_id": 12650, 
+            "wiki_title": "Gary, Indiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5200, 
+                    "end": 5205, 
+                    "score": 0.0867348164319992, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 38982826, 
+            "wiki_title": "Christopher Small"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 990, 
+                    "score": 0.30260181427001953, 
+                    "spot": "second baseman"
+                }
+            ], 
+            "wiki_id": 576847, 
+            "wiki_title": "Second baseman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5389, 
+                    "end": 5395, 
+                    "score": 0.005100354086607695, 
+                    "spot": "matter"
+                }
+            ], 
+            "wiki_id": 6982432, 
+            "wiki_title": "Matter (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7622, 
+                    "end": 7628, 
+                    "score": 0.11575796455144882, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 854294, 
+            "wiki_title": "DNA repair"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1141, 
+                    "end": 1152, 
+                    "score": 0.08003997802734375, 
+                    "spot": "broadcaster"
+                }
+            ], 
+            "wiki_id": 113604, 
+            "wiki_title": "Broadcasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3746, 
+                    "end": 3753, 
+                    "score": 0.110274538397789, 
+                    "spot": "verdict"
+                }
+            ], 
+            "wiki_id": 420724, 
+            "wiki_title": "Verdict"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6783, 
+                    "end": 6792, 
+                    "score": 0.00814285408705473, 
+                    "spot": "passenger"
+                }
+            ], 
+            "wiki_id": 370666, 
+            "wiki_title": "Passenger ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1009, 
+                    "end": 1015, 
+                    "score": 0.15086552500724792, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2185, 
+                    "end": 2192, 
+                    "score": 0.003658844390884042, 
+                    "spot": "erratic"
+                }
+            ], 
+            "wiki_id": 871712, 
+            "wiki_title": "Glacial erratic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7245, 
+                    "end": 7252, 
+                    "score": 0.07145725190639496, 
+                    "spot": "courier"
+                }
+            ], 
+            "wiki_id": 698189, 
+            "wiki_title": "The Courier-Mail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6984, 
+                    "end": 6996, 
+                    "score": 0.0243055559694767, 
+                    "spot": "second plane"
+                }
+            ], 
+            "wiki_id": 25666132, 
+            "wiki_title": "The Second Plane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3654, 
+                    "end": 3660, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 3812, 
+                    "end": 3818, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 93046, 
+            "wiki_title": "Morgan County, Ohio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4411, 
+                    "end": 4418, 
+                    "score": 0.0028099920600652695, 
+                    "spot": "waiting"
+                }
+            ], 
+            "wiki_id": 15321438, 
+            "wiki_title": "Waiting (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3137, 
+                    "end": 3147, 
+                    "score": 0.14154617488384247, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6526, 
+                    "end": 6533, 
+                    "score": 0.0007751937955617905, 
+                    "spot": "bruised"
+                }
+            ], 
+            "wiki_id": 641156, 
+            "wiki_title": "Bruise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3224, 
+                    "end": 3230, 
+                    "score": 0.0007761751185171306, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 21690, 
+            "wiki_title": "Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2781, 
+                    "end": 2785, 
+                    "score": 0.012882447801530361, 
+                    "spot": "Cmdr"
+                }
+            ], 
+            "wiki_id": 226168, 
+            "wiki_title": "Commander"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6336, 
+                    "end": 6343, 
+                    "score": 0.0025380710139870644, 
+                    "spot": "spewing"
+                }
+            ], 
+            "wiki_id": 238112, 
+            "wiki_title": "Volcanology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4388, 
+                    "end": 4393, 
+                    "score": 0.12605798244476318, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5296, 
+                    "end": 5305, 
+                    "score": 0.1245182454586029, 
+                    "spot": "confirmed"
+                }
+            ], 
+            "wiki_id": 2610287, 
+            "wiki_title": "Advice and consent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2262, 
+                    "end": 2266, 
+                    "score": 0.0014563171425834298, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 65951, 
+            "wiki_title": "Fielding (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 502, 
+                    "end": 508, 
+                    "score": 0.100894495844841, 
+                    "spot": "turned"
+                }
+            ], 
+            "wiki_id": 244219, 
+            "wiki_title": "Shapeshifting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6132, 
+                    "end": 6136, 
+                    "score": 0.005648055579513311, 
+                    "spot": "City"
+                }
+            ], 
+            "wiki_id": 19469354, 
+            "wiki_title": "The City (2008 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2860, 
+                    "end": 2866, 
+                    "score": 0.2746276557445526, 
+                    "spot": "racism"
+                }
+            ], 
+            "wiki_id": 25613, 
+            "wiki_title": "Racism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 514, 
+                    "end": 522, 
+                    "score": 0.18257887661457062, 
+                    "spot": "violence"
+                }
+            ], 
+            "wiki_id": 3634424, 
+            "wiki_title": "Violence against women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5731, 
+                    "end": 5735, 
+                    "score": 0.14000000059604645, 
+                    "spot": "wasn"
+                }
+            ], 
+            "wiki_id": 18468646, 
+            "wiki_title": "WASN"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7102, 
+                    "end": 7111, 
+                    "score": 0.0435345359146595, 
+                    "spot": "companion"
+                }
+            ], 
+            "wiki_id": 220426, 
+            "wiki_title": "Domestic partnership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2735, 
+                    "end": 2739, 
+                    "score": 0.07421649992465973, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 211183, 
+            "wiki_title": "Tell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5686, 
+                    "end": 5698, 
+                    "score": 0.1551724076271057, 
+                    "spot": "Edwin Wilson"
+                }
+            ], 
+            "wiki_id": 47136144, 
+            "wiki_title": "Edwin Wilson (academic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1107, 
+                    "end": 1114, 
+                    "score": 0.22914990782737732, 
+                    "spot": "Oakland"
+                }
+            ], 
+            "wiki_id": 22312, 
+            "wiki_title": "Oakland Raiders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5498, 
+                    "end": 5507, 
+                    "score": 0.04124465212225914, 
+                    "spot": "incidents"
+                }
+            ], 
+            "wiki_id": 10972528, 
+            "wiki_title": "Incident (Scientology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 47, 
+                    "end": 80, 
+                    "score": 0.5, 
+                    "spot": "Los Angeles International Airport"
+                }, 
+                {
+                    "begin": 2974, 
+                    "end": 3007, 
+                    "score": 0.5, 
+                    "spot": "Los Angeles International Airport"
+                }, 
+                {
+                    "begin": 4422, 
+                    "end": 4455, 
+                    "score": 0.5, 
+                    "spot": "Los Angeles International Airport"
+                }, 
+                {
+                    "begin": 5642, 
+                    "end": 5661, 
+                    "score": 0.2543831169605255, 
+                    "spot": "Los Angeles airport"
+                }
+            ], 
+            "wiki_id": 18131, 
+            "wiki_title": "Los Angeles International Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3607, 
+                    "end": 3611, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "Last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5135, 
+                    "end": 5139, 
+                    "score": 0.16494838893413544, 
+                    "spot": "arms"
+                }
+            ], 
+            "wiki_id": 13564973, 
+            "wiki_title": "Cephalopod limb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1027, 
+                    "end": 1033, 
+                    "score": 0.16735321283340454, 
+                    "spot": "League"
+                }
+            ], 
+            "wiki_id": 685328, 
+            "wiki_title": "Sports league"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 703, 
+                    "end": 706, 
+                    "score": 0.0903959572315216, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 4284, 
+                    "end": 4287, 
+                    "score": 0.08829926699399948, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 4610, 
+                    "end": 4613, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 4782, 
+                    "end": 4785, 
+                    "score": 0.10453090071678162, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 5024, 
+                    "end": 5027, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 5362, 
+                    "end": 5365, 
+                    "score": 0.17877839505672455, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 6598, 
+                    "end": 6601, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 7325, 
+                    "end": 7328, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 7406, 
+                    "end": 7409, 
+                    "score": 0.053283605724573135, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4592, 
+                    "end": 4600, 
+                    "score": 0.011393588967621326, 
+                    "spot": "shoulder"
+                }
+            ], 
+            "wiki_id": 75127, 
+            "wiki_title": "Monoplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4701, 
+                    "end": 4707, 
+                    "score": 0.2100726217031479, 
+                    "spot": "wallet"
+                }
+            ], 
+            "wiki_id": 653173, 
+            "wiki_title": "Wallet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1747, 
+                    "end": 1755, 
+                    "score": 0.024332547560334206, 
+                    "spot": "airports"
+                }, 
+                {
+                    "begin": 3000, 
+                    "end": 3007, 
+                    "score": 0.21388280391693115, 
+                    "spot": "Airport"
+                }, 
+                {
+                    "begin": 4448, 
+                    "end": 4455, 
+                    "score": 0.313138484954834, 
+                    "spot": "Airport"
+                }, 
+                {
+                    "begin": 6737, 
+                    "end": 6744, 
+                    "score": 0.08956518769264221, 
+                    "spot": "airport"
+                }
+            ], 
+            "wiki_id": 37575, 
+            "wiki_title": "Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1201, 
+                    "end": 1214, 
+                    "score": 0.24679261445999146, 
+                    "spot": "federal court"
+                }
+            ], 
+            "wiki_id": 1636627, 
+            "wiki_title": "Federal judiciary of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 386, 
+                    "score": 0.13850806653499603, 
+                    "spot": "plainclothes"
+                }
+            ], 
+            "wiki_id": 620412, 
+            "wiki_title": "Undercover operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1882, 
+                    "end": 1889, 
+                    "score": 0.18526893854141235, 
+                    "spot": "Houston"
+                }
+            ], 
+            "wiki_id": 13774, 
+            "wiki_title": "Houston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1802, 
+                    "score": 0.07386557757854462, 
+                    "spot": "dress"
+                }
+            ], 
+            "wiki_id": 5700, 
+            "wiki_title": "Cross-dressing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 173, 
+                    "end": 182, 
+                    "score": 0.002861874643713236, 
+                    "spot": "companion"
+                }
+            ], 
+            "wiki_id": 455476, 
+            "wiki_title": "Sahabah"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1407, 
+                    "score": 0.18468758463859558, 
+                    "spot": "mind"
+                }
+            ], 
+            "wiki_id": 19378, 
+            "wiki_title": "Mind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4463, 
+                    "end": 4480, 
+                    "score": 0.23943915963172913, 
+                    "spot": "connecting flight"
+                }
+            ], 
+            "wiki_id": 6043321, 
+            "wiki_title": "Direct flight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7214, 
+                    "end": 7229, 
+                    "score": 0.01623649150133133, 
+                    "spot": "characteristics"
+                }
+            ], 
+            "wiki_id": 30718, 
+            "wiki_title": "Tide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 274, 
+                    "end": 279, 
+                    "score": 0.0749613419175148, 
+                    "spot": "short"
+                }
+            ], 
+            "wiki_id": 498104, 
+            "wiki_title": "Short film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 330, 
+                    "score": 0.04671143740415573, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 1012146, 
+            "wiki_title": "Game mechanics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2932, 
+                    "end": 2941, 
+                    "score": 0.1666666716337204, 
+                    "spot": "year, 254"
+                }, 
+                {
+                    "begin": 3017, 
+                    "end": 3024, 
+                    "score": 0.015748031437397003, 
+                    "spot": "Aug. \n3"
+                }
+            ], 
+            "wiki_id": 1259, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6122, 
+                    "end": 6131, 
+                    "score": 0.000605118228122592, 
+                    "spot": "Assistant"
+                }
+            ], 
+            "wiki_id": 271601, 
+            "wiki_title": "Mangaka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7522, 
+                    "end": 7530, 
+                    "score": 0.1798543483018875, 
+                    "spot": "physical"
+                }
+            ], 
+            "wiki_id": 526609, 
+            "wiki_title": "Physical abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3331, 
+                    "end": 3338, 
+                    "score": 0.0034129691775888205, 
+                    "spot": "not one"
+                }
+            ], 
+            "wiki_id": 172936, 
+            "wiki_title": "Smash (The Offspring album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3415, 
+                    "end": 3421, 
+                    "score": 0.07307616621255875, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 3511, 
+                    "end": 3517, 
+                    "score": 0.09860146045684814, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 6418, 
+                    "end": 6424, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 91705, 
+            "wiki_title": "Morgan County, Tennessee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1422, 
+                    "end": 1428, 
+                    "score": 0.18570780754089355, 
+                    "spot": "reason"
+                }
+            ], 
+            "wiki_id": 42446, 
+            "wiki_title": "Reason"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 257, 
+                    "end": 263, 
+                    "score": 0.0936175137758255, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 19080409, 
+            "wiki_title": "Francis Searle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1624, 
+                    "end": 1630, 
+                    "score": 0.10646788775920868, 
+                    "spot": "Morgan"
+                }, 
+                {
+                    "begin": 4219, 
+                    "end": 4225, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 352603, 
+            "wiki_title": "Morgan le Fay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 223, 
+                    "end": 233, 
+                    "score": 0.05141228809952736, 
+                    "spot": "handcuffed"
+                }, 
+                {
+                    "begin": 584, 
+                    "end": 594, 
+                    "score": 0.10540168732404709, 
+                    "spot": "handcuffed"
+                }, 
+                {
+                    "begin": 5156, 
+                    "end": 5166, 
+                    "score": 0.013878180645406246, 
+                    "spot": "handcuffed"
+                }
+            ], 
+            "wiki_id": 168072, 
+            "wiki_title": "Handcuffs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1848, 
+                    "score": 0.09167373925447464, 
+                    "spot": "drug"
+                }, 
+                {
+                    "begin": 2500, 
+                    "end": 2504, 
+                    "score": 0.12164991348981857, 
+                    "spot": "drug"
+                }
+            ], 
+            "wiki_id": 9311172, 
+            "wiki_title": "Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1849, 
+                    "end": 1857, 
+                    "score": 0.07110854238271713, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 189037, 
+            "wiki_title": "Physical exercise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 245, 
+                    "end": 250, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 454, 
+                    "end": 459, 
+                    "score": 0.10920584201812744, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 761, 
+                    "end": 766, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1062, 
+                    "end": 1067, 
+                    "score": 0.050723347812891006, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1371, 
+                    "end": 1376, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1613, 
+                    "end": 1618, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1760, 
+                    "end": 1765, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2366, 
+                    "end": 2371, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2626, 
+                    "end": 2631, 
+                    "score": 0.06085314601659775, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3076, 
+                    "end": 3081, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3204, 
+                    "end": 3209, 
+                    "score": 0.11299017071723938, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3361, 
+                    "end": 3366, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3600, 
+                    "end": 3605, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3862, 
+                    "end": 3867, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3969, 
+                    "end": 3974, 
+                    "score": 0.01681600511074066, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4154, 
+                    "end": 4159, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4299, 
+                    "end": 4304, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4626, 
+                    "end": 4631, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4974, 
+                    "end": 4979, 
+                    "score": 0.16079670190811157, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5175, 
+                    "end": 5180, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5547, 
+                    "end": 5552, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5822, 
+                    "end": 5827, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6115, 
+                    "end": 6120, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6607, 
+                    "end": 6612, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 7258, 
+                    "end": 7263, 
+                    "score": 0.020461980253458023, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 7446, 
+                    "end": 7451, 
+                    "score": 0.15529392659664154, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 7651, 
+                    "end": 7656, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6772, 
+                    "end": 6780, 
+                    "score": 0.09981998801231384, 
+                    "spot": "arrested"
+                }
+            ], 
+            "wiki_id": 146746, 
+            "wiki_title": "Arrest warrant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3621, 
+                    "end": 3631, 
+                    "score": 0.010989011265337467, 
+                    "spot": "six-person"
+                }
+            ], 
+            "wiki_id": 6776545, 
+            "wiki_title": "Professional wrestling tag team match types"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 497, 
+                    "score": 0.03362467885017395, 
+                    "spot": "words"
+                }
+            ], 
+            "wiki_id": 38518, 
+            "wiki_title": "Lyrics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2494, 
+                    "score": 0.05566411837935448, 
+                    "spot": "act"
+                }
+            ], 
+            "wiki_id": 1944, 
+            "wiki_title": "Australian Capital Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 130, 
+                    "end": 139, 
+                    "score": 0.23560196161270142, 
+                    "spot": "narcotics"
+                }, 
+                {
+                    "begin": 2141, 
+                    "end": 2150, 
+                    "score": 0.12936998903751373, 
+                    "spot": "narcotics"
+                }, 
+                {
+                    "begin": 2352, 
+                    "end": 2361, 
+                    "score": 0.11544487625360489, 
+                    "spot": "narcotics"
+                }, 
+                {
+                    "begin": 2943, 
+                    "end": 2952, 
+                    "score": 0.19508960843086243, 
+                    "spot": "narcotics"
+                }
+            ], 
+            "wiki_id": 38079, 
+            "wiki_title": "Narcotic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6143, 
+                    "end": 6148, 
+                    "score": 0.0670791044831276, 
+                    "spot": "Honey"
+                }
+            ], 
+            "wiki_id": 14361, 
+            "wiki_title": "Honey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3400, 
+                    "end": 3407, 
+                    "score": 0.017874132841825485, 
+                    "spot": "comment"
+                }
+            ], 
+            "wiki_id": 29004, 
+            "wiki_title": "SQL"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2314, 
+                    "end": 2321, 
+                    "score": 0.0023076923098415136, 
+                    "spot": "distant"
+                }
+            ], 
+            "wiki_id": 5736275, 
+            "wiki_title": "William Lucas Distant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3472, 
+                    "end": 3478, 
+                    "score": 0.07140512764453888, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 428320, 
+            "wiki_title": "United States Court of Appeals for the Second Circuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1705, 
+                    "end": 1712, 
+                    "score": 0.0016050267731770873, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 22318557, 
+            "wiki_title": "Geometric design of roads"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 599, 
+                    "end": 606, 
+                    "score": 0.10126838833093643, 
+                    "spot": "suspect"
+                }
+            ], 
+            "wiki_id": 344966, 
+            "wiki_title": "Suspect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6534, 
+                    "end": 6537, 
+                    "score": 0.028751499950885773, 
+                    "spot": "ego"
+                }
+            ], 
+            "wiki_id": 59173, 
+            "wiki_title": "Id, ego and super-ego"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6922, 
+                    "end": 6928, 
+                    "score": 0.04315558075904846, 
+                    "spot": "Searle"
+                }
+            ], 
+            "wiki_id": 1501390, 
+            "wiki_title": "G.D. Searle, LLC"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5798, 
+                    "end": 5809, 
+                    "score": 0.14008691906929016, 
+                    "spot": "other black"
+                }
+            ], 
+            "wiki_id": 12362477, 
+            "wiki_title": "Classification of ethnicity in the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2249, 
+                    "score": 0.08439557254314423, 
+                    "spot": "alias"
+                }
+            ], 
+            "wiki_id": 40594, 
+            "wiki_title": "Pseudonym"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 832, 
+                    "end": 846, 
+                    "score": 0.005259706638753414, 
+                    "spot": "Administration"
+                }
+            ], 
+            "wiki_id": 8824684, 
+            "wiki_title": "Administration (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7559, 
+                    "end": 7572, 
+                    "score": 0.1602659523487091, 
+                    "spot": "embarrassment"
+                }
+            ], 
+            "wiki_id": 234771, 
+            "wiki_title": "Embarrassment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3300, 
+                    "end": 3306, 
+                    "score": 0.08018968999385834, 
+                    "spot": "moving"
+                }
+            ], 
+            "wiki_id": 1132756, 
+            "wiki_title": "Animal locomotion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1296, 
+                    "end": 1303, 
+                    "score": 0.1256057173013687, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 2560533, 
+            "wiki_title": "Offender profiling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1387, 
+                    "end": 1395, 
+                    "score": 0.05715837702155113, 
+                    "spot": "no doubt"
+                }
+            ], 
+            "wiki_id": 167802, 
+            "wiki_title": "No Doubt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1157, 
+                    "end": 1162, 
+                    "score": 0.07511232048273087, 
+                    "spot": "suing"
+                }, 
+                {
+                    "begin": 1956, 
+                    "end": 1961, 
+                    "score": 0.047303978353738785, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 3422, 
+                    "end": 3429, 
+                    "score": 0.09383586049079895, 
+                    "spot": "lawsuit"
+                }, 
+                {
+                    "begin": 4099, 
+                    "end": 4106, 
+                    "score": 0.15722423791885376, 
+                    "spot": "lawsuit"
+                }, 
+                {
+                    "begin": 5420, 
+                    "end": 5427, 
+                    "score": 0.03482968360185623, 
+                    "spot": "lawsuit"
+                }, 
+                {
+                    "begin": 7460, 
+                    "end": 7464, 
+                    "score": 0.03556733950972557, 
+                    "spot": "suit"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1280, 
+                    "end": 1283, 
+                    "score": 0.090657539665699, 
+                    "spot": "fit"
+                }
+            ], 
+            "wiki_id": 27154, 
+            "wiki_title": "Epileptic seizure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6344, 
+                    "end": 6355, 
+                    "score": 0.11241723597049713, 
+                    "spot": "profanities"
+                }, 
+                {
+                    "begin": 7359, 
+                    "end": 7370, 
+                    "score": 0.16567488014698029, 
+                    "spot": "profanities"
+                }
+            ], 
+            "wiki_id": 24209, 
+            "wiki_title": "Profanity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2847, 
+                    "end": 2856, 
+                    "score": 0.2135954350233078, 
+                    "spot": "prejudice"
+                }
+            ], 
+            "wiki_id": 77182, 
+            "wiki_title": "Prejudice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2168, 
+                    "end": 2176, 
+                    "score": 0.15406927466392517, 
+                    "spot": "behavior"
+                }, 
+                {
+                    "begin": 2580, 
+                    "end": 2588, 
+                    "score": 0.24334003031253815, 
+                    "spot": "behavior"
+                }
+            ], 
+            "wiki_id": 4805, 
+            "wiki_title": "Behavior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2824, 
+                    "end": 2833, 
+                    "score": 0.0983067974448204, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4484, 
+                    "end": 4490, 
+                    "score": 0.1867506206035614, 
+                    "spot": "Tucson"
+                }
+            ], 
+            "wiki_id": 57180, 
+            "wiki_title": "Tucson, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 59, 
+                    "end": 80, 
+                    "score": 0.41728296875953674, 
+                    "spot": "International Airport"
+                }, 
+                {
+                    "begin": 2986, 
+                    "end": 3007, 
+                    "score": 0.17496825754642487, 
+                    "spot": "International Airport"
+                }, 
+                {
+                    "begin": 4434, 
+                    "end": 4455, 
+                    "score": 0.33409038186073303, 
+                    "spot": "International Airport"
+                }
+            ], 
+            "wiki_id": 1519705, 
+            "wiki_title": "International airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 200, 
+                    "end": 212, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug courier"
+                }, 
+                {
+                    "begin": 875, 
+                    "end": 887, 
+                    "score": 0.3143678605556488, 
+                    "spot": "drug courier"
+                }, 
+                {
+                    "begin": 1337, 
+                    "end": 1349, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug courier"
+                }, 
+                {
+                    "begin": 1691, 
+                    "end": 1704, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug \ncourier"
+                }, 
+                {
+                    "begin": 2007, 
+                    "end": 2019, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug courier"
+                }, 
+                {
+                    "begin": 3178, 
+                    "end": 3190, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug courier"
+                }, 
+                {
+                    "begin": 6808, 
+                    "end": 6820, 
+                    "score": 0.0882352963089943, 
+                    "spot": "drug courier"
+                }
+            ], 
+            "wiki_id": 2267488, 
+            "wiki_title": "Mule (smuggling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1310, 
+                    "end": 1319, 
+                    "score": 0.23774930834770203, 
+                    "spot": "narcotics"
+                }, 
+                {
+                    "begin": 1733, 
+                    "end": 1738, 
+                    "score": 0.035276491194963455, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 6745, 
+                    "end": 6754, 
+                    "score": 0.13205847144126892, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 6897, 
+                    "end": 6902, 
+                    "score": 0.21074709296226501, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 7235, 
+                    "end": 7244, 
+                    "score": 0.1369045376777649, 
+                    "spot": "narcotics"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1598, 
+                    "end": 1608, 
+                    "score": 0.01751592382788658, 
+                    "spot": "ballplayer"
+                }
+            ], 
+            "wiki_id": 175283, 
+            "wiki_title": "Mesoamerican ballgame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3587, 
+                    "end": 3595, 
+                    "score": 0.0010353752877563238, 
+                    "spot": "violated"
+                }
+            ], 
+            "wiki_id": 13139276, 
+            "wiki_title": "Violated"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6711, 
+                    "end": 6719, 
+                    "score": 0.06689328700304031, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 37470540, 
+            "wiki_title": "Together (Hungary)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5179, 
+                    "end": 5184, 
+                    "score": 0.5, 
+                    "spot": "P>\nHe"
+                }
+            ], 
+            "wiki_id": 45328917, 
+            "wiki_title": "P:HE"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7316, 
+                    "end": 7321, 
+                    "score": 0.08604945987462997, 
+                    "spot": "speak"
+                }
+            ], 
+            "wiki_id": 2917649, 
+            "wiki_title": "Speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6017, 
+                    "end": 6021, 
+                    "score": 0.006803249474614859, 
+                    "spot": "good"
+                }
+            ], 
+            "wiki_id": 339686, 
+            "wiki_title": "Good and evil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 648, 
+                    "end": 652, 
+                    "score": 0.2148362547159195, 
+                    "spot": "hand"
+                }
+            ], 
+            "wiki_id": 19166474, 
+            "wiki_title": "Hand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6397, 
+                    "end": 6405, 
+                    "score": 0.010145166888833046, 
+                    "spot": "argument"
+                }
+            ], 
+            "wiki_id": 14699765, 
+            "wiki_title": "Argument (complex analysis)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3098, 
+                    "end": 3103, 
+                    "score": 0.0031716744415462017, 
+                    "spot": "chief"
+                }
+            ], 
+            "wiki_id": 253693, 
+            "wiki_title": "Get Smart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4030, 
+                    "end": 4037, 
+                    "score": 0.08078473806381226, 
+                    "spot": "William"
+                }
+            ], 
+            "wiki_id": 72201, 
+            "wiki_title": "Prince William, Duke of Cambridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6152, 
+                    "end": 6157, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 9656517, 
+            "wiki_title": "Vaden Todd Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5877, 
+                    "end": 5882, 
+                    "score": 0.08595950156450272, 
+                    "spot": "Times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3498, 
+                    "end": 3509, 
+                    "score": 0.25417646765708923, 
+                    "spot": "Los Angeles"
+                }
+            ], 
+            "wiki_id": 79734, 
+            "wiki_title": "Los Angeles County, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7283, 
+                    "end": 7289, 
+                    "score": 0.034909117966890335, 
+                    "spot": "Morgan"
+                }
+            ], 
+            "wiki_id": 95549, 
+            "wiki_title": "Morgan County, Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6664, 
+                    "end": 6672, 
+                    "score": 0.06819108128547668, 
+                    "spot": "incident"
+                }
+            ], 
+            "wiki_id": 3568755, 
+            "wiki_title": "Incident management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4503, 
+                    "end": 4507, 
+                    "score": 0.21236838400363922, 
+                    "spot": "golf"
+                }
+            ], 
+            "wiki_id": 19568112, 
+            "wiki_title": "Golf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3083, 
+                    "end": 3088, 
+                    "score": 0.006388582289218903, 
+                    "spot": "Frank"
+                }
+            ], 
+            "wiki_id": 2462183, 
+            "wiki_title": "Franks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1641, 
+                    "end": 1649, 
+                    "score": 0.050617609173059464, 
+                    "spot": "reflects"
+                }
+            ], 
+            "wiki_id": 521267, 
+            "wiki_title": "Reflection (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2251, 
+                    "end": 2259, 
+                    "score": 0.10085135698318481, 
+                    "spot": "boarding"
+                }
+            ], 
+            "wiki_id": 10086165, 
+            "wiki_title": "Boarding (transport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3901, 
+                    "end": 3911, 
+                    "score": 0.0953754410147667, 
+                    "spot": "conclusion"
+                }
+            ], 
+            "wiki_id": 7241366, 
+            "wiki_title": "Conclusion (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1890, 
+                    "end": 1904, 
+                    "score": 0.20648157596588135, 
+                    "spot": "defense lawyer"
+                }
+            ], 
+            "wiki_id": 14141359, 
+            "wiki_title": "Criminal defense lawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4859, 
+                    "end": 4869, 
+                    "score": 0.009249499067664146, 
+                    "spot": "recognized"
+                }
+            ], 
+            "wiki_id": 6182823, 
+            "wiki_title": "Texas Education Agency accountability ratings system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7349, 
+                    "end": 7358, 
+                    "score": 0.1331249177455902, 
+                    "spot": "screaming"
+                }
+            ], 
+            "wiki_id": 9343278, 
+            "wiki_title": "Screaming (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2418, 
+                    "end": 2435, 
+                    "score": 0.14615386724472046, 
+                    "spot": "government agents"
+                }
+            ], 
+            "wiki_id": 10501, 
+            "wiki_title": "Espionage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3335, 
+                    "end": 3346, 
+                    "score": 0.0009484966285526752, 
+                    "spot": "one of them"
+                }
+            ], 
+            "wiki_id": 4366668, 
+            "wiki_title": "One of Them"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2020, 
+                    "end": 2027, 
+                    "score": 0.0016050267731770873, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 15547467, 
+            "wiki_title": "The Profile (short story)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1996, 
+                    "end": 2001, 
+                    "score": 0.0005676925648003817, 
+                    "spot": "1970s"
+                }
+            ], 
+            "wiki_id": 5452949, 
+            "wiki_title": "1970s in Western fashion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1789, 
+                    "end": 1793, 
+                    "score": 0.07922712713479996, 
+                    "spot": "race"
+                }, 
+                {
+                    "begin": 2602, 
+                    "end": 2606, 
+                    "score": 0.08776452392339706, 
+                    "spot": "race"
+                }
+            ], 
+            "wiki_id": 25614, 
+            "wiki_title": "Race (human categorization)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 798, 
+                    "end": 805, 
+                    "score": 0.09727554768323898, 
+                    "spot": "partner"
+                }
+            ], 
+            "wiki_id": 232643, 
+            "wiki_title": "Significant other"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3934, 
+                    "end": 3941, 
+                    "score": 0.10750292986631393, 
+                    "spot": "illegal"
+                }
+            ], 
+            "wiki_id": 18949668, 
+            "wiki_title": "Law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 536, 
+                    "end": 539, 
+                    "score": 0.13032583892345428, 
+                    "spot": "men"
+                }, 
+                {
+                    "begin": 664, 
+                    "end": 667, 
+                    "score": 0.13372424244880676, 
+                    "spot": "man"
+                }, 
+                {
+                    "begin": 4917, 
+                    "end": 4920, 
+                    "score": 0.0648007020354271, 
+                    "spot": "men"
+                }, 
+                {
+                    "begin": 4953, 
+                    "end": 4956, 
+                    "score": 0.23231814801692963, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 15822899, 
+            "wiki_title": "Man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6081, 
+                    "end": 6085, 
+                    "score": 0.001504387822933495, 
+                    "spot": "sort"
+                }
+            ], 
+            "wiki_id": 4098234, 
+            "wiki_title": "Sort (Unix)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6361, 
+                    "end": 6369, 
+                    "score": 0.1249905601143837, 
+                    "spot": "slapping"
+                }
+            ], 
+            "wiki_id": 1033826, 
+            "wiki_title": "Professional wrestling attacks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2229, 
+                    "end": 2233, 
+                    "score": 0.11979012191295624, 
+                    "spot": "cash"
+                }
+            ], 
+            "wiki_id": 55336, 
+            "wiki_title": "Cash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1329, 
+                    "end": 1334, 
+                    "score": 0.06014018878340721, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1100, 
+                    "end": 1103, 
+                    "score": 0.1112089529633522, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2100, 
+                    "end": 2118, 
+                    "score": 0.5298398733139038, 
+                    "spot": "commercial airline"
+                }, 
+                {
+                    "begin": 2111, 
+                    "end": 2118, 
+                    "score": 0.5908416509628296, 
+                    "spot": "airline"
+                }, 
+                {
+                    "begin": 2459, 
+                    "end": 2466, 
+                    "score": 0.2276010811328888, 
+                    "spot": "airline"
+                }
+            ], 
+            "wiki_id": 1942, 
+            "wiki_title": "Airline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 213, 
+                    "end": 216, 
+                    "score": 0.1027209535241127, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 991, 
+                    "end": 994, 
+                    "score": 0.06699537485837936, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1093, 
+                    "end": 1096, 
+                    "score": 0.12392701208591461, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1505, 
+                    "end": 1508, 
+                    "score": 0.14703170955181122, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1932, 
+                    "end": 1935, 
+                    "score": 0.05766328424215317, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 2478, 
+                    "end": 2481, 
+                    "score": 0.09732123464345932, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 4820, 
+                    "end": 4823, 
+                    "score": 0.1610928326845169, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5633, 
+                    "end": 5636, 
+                    "score": 0.0657574012875557, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5704, 
+                    "end": 5707, 
+                    "score": 0.15032783150672913, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 7172, 
+                    "end": 7175, 
+                    "score": 0.11380062252283096, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1521, 
+                    "end": 1525, 
+                    "score": 0.11625514179468155, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 12679171, 
+            "wiki_title": "Come On (Chuck Berry song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6755, 
+                    "end": 6765, 
+                    "score": 0.17183469235897064, 
+                    "spot": "task force"
+                }
+            ], 
+            "wiki_id": 205394, 
+            "wiki_title": "Task force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2705, 
+                    "end": 2714, 
+                    "score": 0.001614937442354858, 
+                    "spot": "what \nthe"
+                }
+            ], 
+            "wiki_id": 4788532, 
+            "wiki_title": "What The--?!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6323, 
+                    "end": 6334, 
+                    "score": 0.02873222716152668, 
+                    "spot": "belligerent"
+                }
+            ], 
+            "wiki_id": 496527, 
+            "wiki_title": "Belligerent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3925, 
+                    "end": 3929, 
+                    "score": 0.09663062542676926, 
+                    "spot": "stop"
+                }
+            ], 
+            "wiki_id": 33740535, 
+            "wiki_title": "Stop (Stockhausen)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7168, 
+                    "end": 7175, 
+                    "score": 0.07090888917446136, 
+                    "spot": "man who"
+                }
+            ], 
+            "wiki_id": 1272729, 
+            "wiki_title": "The Man Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4836, 
+                    "end": 4843, 
+                    "score": 0.0901956632733345, 
+                    "spot": "testify"
+                }
+            ], 
+            "wiki_id": 6983529, 
+            "wiki_title": "Testify (The Isley Brothers song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6022, 
+                    "end": 6031, 
+                    "score": 0.019295616075396538, 
+                    "spot": "announcer"
+                }
+            ], 
+            "wiki_id": 1662121, 
+            "wiki_title": "Sports commentator"
+        }
+    ]
+}

@@ -1,0 +1,4612 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 5323, 
+                    "end": 5327, 
+                    "score": 0.12613798677921295, 
+                    "spot": "safe"
+                }
+            ], 
+            "wiki_id": 697411, 
+            "wiki_title": "Safe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3827, 
+                    "end": 3831, 
+                    "score": 0.1795951873064041, 
+                    "spot": "lead"
+                }
+            ], 
+            "wiki_id": 17747, 
+            "wiki_title": "Lead"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1925, 
+                    "end": 1931, 
+                    "score": 0.13659100234508514, 
+                    "spot": "midday"
+                }
+            ], 
+            "wiki_id": 209005, 
+            "wiki_title": "Noon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1210, 
+                    "end": 1216, 
+                    "score": 0.02780742570757866, 
+                    "spot": "scores"
+                }, 
+                {
+                    "begin": 2724, 
+                    "end": 2730, 
+                    "score": 0.0020422351080924273, 
+                    "spot": "scores"
+                }
+            ], 
+            "wiki_id": 95261, 
+            "wiki_title": "Sheet music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4747, 
+                    "end": 4751, 
+                    "score": 0.3207460045814514, 
+                    "spot": "moon"
+                }, 
+                {
+                    "begin": 4926, 
+                    "end": 4930, 
+                    "score": 0.15902218222618103, 
+                    "spot": "moon"
+                }
+            ], 
+            "wiki_id": 19331, 
+            "wiki_title": "Moon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3878, 
+                    "end": 3892, 
+                    "score": 0.5, 
+                    "spot": "Cabo San\nLucas"
+                }
+            ], 
+            "wiki_id": 470655, 
+            "wiki_title": "Cabo San Lucas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 673, 
+                    "end": 683, 
+                    "score": 0.0022361360024660826, 
+                    "spot": "propensity"
+                }
+            ], 
+            "wiki_id": 11351089, 
+            "wiki_title": "Propensity probability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5069, 
+                    "end": 5073, 
+                    "score": 0.15249589085578918, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 233082, 
+            "wiki_title": "Burn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 963, 
+                    "end": 968, 
+                    "score": 0.14384157955646515, 
+                    "spot": "watch"
+                }, 
+                {
+                    "begin": 4916, 
+                    "end": 4921, 
+                    "score": 0.06858496367931366, 
+                    "spot": "watch"
+                }
+            ], 
+            "wiki_id": 60883, 
+            "wiki_title": "Watch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3735, 
+                    "end": 3746, 
+                    "score": 0.2095043659210205, 
+                    "spot": "never, ever"
+                }
+            ], 
+            "wiki_id": 2045043, 
+            "wiki_title": "Never Ever (All Saints song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5368, 
+                    "end": 5373, 
+                    "score": 0.0834585651755333, 
+                    "spot": "glass"
+                }
+            ], 
+            "wiki_id": 12581, 
+            "wiki_title": "Glass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 359, 
+                    "score": 0.07178650796413422, 
+                    "spot": "tourists"
+                }, 
+                {
+                    "begin": 1109, 
+                    "end": 1117, 
+                    "score": 0.002493499545380473, 
+                    "spot": "visitors"
+                }, 
+                {
+                    "begin": 1517, 
+                    "end": 1525, 
+                    "score": 0.06521079689264297, 
+                    "spot": "tourists"
+                }, 
+                {
+                    "begin": 3110, 
+                    "end": 3117, 
+                    "score": 0.10894867777824402, 
+                    "spot": "tourism"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3200, 
+                    "end": 3206, 
+                    "score": 0.07842779904603958, 
+                    "spot": "crowds"
+                }
+            ], 
+            "wiki_id": 34111734, 
+            "wiki_title": "Crowds (adolescence)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1494, 
+                    "end": 1501, 
+                    "score": 0.12496309727430344, 
+                    "spot": "tipping"
+                }
+            ], 
+            "wiki_id": 157901, 
+            "wiki_title": "Gratuity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4190, 
+                    "end": 4199, 
+                    "score": 0.006648005452007055, 
+                    "spot": "reminders"
+                }
+            ], 
+            "wiki_id": 37420509, 
+            "wiki_title": "Reminders (application)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5207, 
+                    "end": 5214, 
+                    "score": 0.08984552323818207, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 6741815, 
+            "wiki_title": "Fujitsu Ten"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3815, 
+                    "end": 3823, 
+                    "score": 0.19098474085330963, 
+                    "spot": "planning"
+                }
+            ], 
+            "wiki_id": 603913, 
+            "wiki_title": "Land-use planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5294, 
+                    "end": 5305, 
+                    "score": 0.31647735834121704, 
+                    "spot": "white paper"
+                }
+            ], 
+            "wiki_id": 291336, 
+            "wiki_title": "White paper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2557, 
+                    "end": 2563, 
+                    "score": 0.387770414352417, 
+                    "spot": "copper"
+                }
+            ], 
+            "wiki_id": 125293, 
+            "wiki_title": "Copper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2972, 
+                    "end": 2974, 
+                    "score": 0.11271078884601593, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 3403, 
+                    "end": 3405, 
+                    "score": 0.01706283539533615, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2399, 
+                    "end": 2409, 
+                    "score": 0.07065790891647339, 
+                    "spot": "vibrations"
+                }
+            ], 
+            "wiki_id": 22522, 
+            "wiki_title": "Oscillation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 501, 
+                    "end": 505, 
+                    "score": 0.004347857553511858, 
+                    "spot": "view"
+                }
+            ], 
+            "wiki_id": 21632109, 
+            "wiki_title": "View (Buddhism)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2941, 
+                    "end": 2952, 
+                    "score": 0.10357329994440079, 
+                    "spot": "competition"
+                }
+            ], 
+            "wiki_id": 181592, 
+            "wiki_title": "Competition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5093, 
+                    "end": 5102, 
+                    "score": 0.0671115294098854, 
+                    "spot": "permanent"
+                }
+            ], 
+            "wiki_id": 3212406, 
+            "wiki_title": "Permanent teeth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1399, 
+                    "end": 1402, 
+                    "score": 0.07277654111385345, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 2233309, 
+            "wiki_title": "One (U2 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3603, 
+                    "end": 3607, 
+                    "score": 0.22407615184783936, 
+                    "spot": "fret"
+                }
+            ], 
+            "wiki_id": 996230, 
+            "wiki_title": "Meander (art)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 25, 
+                    "end": 34, 
+                    "score": 0.14348849654197693, 
+                    "spot": "followers"
+                }
+            ], 
+            "wiki_id": 3533048, 
+            "wiki_title": "Muhajirun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1696, 
+                    "end": 1700, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }, 
+                {
+                    "begin": 4806, 
+                    "end": 4810, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2087, 
+                    "end": 2094, 
+                    "score": 0.052324552088975906, 
+                    "spot": "forward"
+                }
+            ], 
+            "wiki_id": 1853052, 
+            "wiki_title": "Basketball positions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 169, 
+                    "end": 173, 
+                    "score": 0.0475354827940464, 
+                    "spot": "play"
+                }
+            ], 
+            "wiki_id": 20913771, 
+            "wiki_title": "Theatre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3865, 
+                    "end": 3874, 
+                    "score": 0.23184294998645782, 
+                    "spot": "San Diego"
+                }
+            ], 
+            "wiki_id": 28504, 
+            "wiki_title": "San Diego"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2417, 
+                    "end": 2424, 
+                    "score": 0.14046451449394226, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 216958, 
+            "wiki_title": "Eclipse (software)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5627, 
+                    "end": 5634, 
+                    "score": 0.004530130419880152, 
+                    "spot": "TUESDAY"
+                }
+            ], 
+            "wiki_id": 1050340, 
+            "wiki_title": "Election Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5679, 
+                    "end": 5686, 
+                    "score": 0.008575467392802238, 
+                    "spot": "details"
+                }
+            ], 
+            "wiki_id": 924170, 
+            "wiki_title": "Elections in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2522, 
+                    "score": 0.0016556291375309229, 
+                    "spot": "carry in"
+                }
+            ], 
+            "wiki_id": 5071884, 
+            "wiki_title": "Potluck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3071, 
+                    "end": 3075, 
+                    "score": 0.14755699038505554, 
+                    "spot": "fuel"
+                }
+            ], 
+            "wiki_id": 23639, 
+            "wiki_title": "Gasoline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3188, 
+                    "end": 3192, 
+                    "score": 0.06678826361894608, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 8398, 
+            "wiki_title": "Dimension"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5557, 
+                    "end": 5563, 
+                    "score": 0.13862310349941254, 
+                    "spot": "stores"
+                }
+            ], 
+            "wiki_id": 22779492, 
+            "wiki_title": "Storage of wine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3268, 
+                    "end": 3276, 
+                    "score": 0.21762490272521973, 
+                    "spot": "one road"
+                }
+            ], 
+            "wiki_id": 746606, 
+            "wiki_title": "Amazing Stories (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4578, 
+                    "end": 4584, 
+                    "score": 0.1797991693019867, 
+                    "spot": "Grotto"
+                }
+            ], 
+            "wiki_id": 486077, 
+            "wiki_title": "Grotto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4638, 
+                    "end": 4644, 
+                    "score": 0.042901311069726944, 
+                    "spot": "stones"
+                }
+            ], 
+            "wiki_id": 199661, 
+            "wiki_title": "Rock (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4904, 
+                    "end": 4907, 
+                    "score": 0.0969180017709732, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 178664, 
+            "wiki_title": "Hybrid Theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1897, 
+                    "end": 1915, 
+                    "score": 0.26923078298568726, 
+                    "spot": "Astronomy\nmagazine"
+                }
+            ], 
+            "wiki_id": 2624555, 
+            "wiki_title": "Astronomy (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1502, 
+                    "end": 1512, 
+                    "score": 0.026429342105984688, 
+                    "spot": "over under"
+                }
+            ], 
+            "wiki_id": 7975, 
+            "wiki_title": "Double-barreled shotgun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1702, 
+                    "end": 1704, 
+                    "score": 0.23417247831821442, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 2020488, 
+            "wiki_title": "Up! (1976 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5788, 
+                    "end": 5798, 
+                    "score": 0.0009578169556334615, 
+                    "spot": "directions"
+                }
+            ], 
+            "wiki_id": 31335239, 
+            "wiki_title": "Directions (Miles Davis album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 414, 
+                    "end": 422, 
+                    "score": 0.006820765323936939, 
+                    "spot": "boasting"
+                }
+            ], 
+            "wiki_id": 13309070, 
+            "wiki_title": "Boasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3090, 
+                    "end": 3095, 
+                    "score": 0.0476190485060215, 
+                    "spot": "Lerdo"
+                }
+            ], 
+            "wiki_id": 224117, 
+            "wiki_title": "Lerdo, Durango"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2395, 
+                    "end": 2398, 
+                    "score": 0.0030921814031898975, 
+                    "spot": "bad"
+                }
+            ], 
+            "wiki_id": 1782176, 
+            "wiki_title": "Bad (Michael Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3555, 
+                    "end": 3566, 
+                    "score": 0.029818378388881683, 
+                    "spot": "coincidence"
+                }
+            ], 
+            "wiki_id": 1237887, 
+            "wiki_title": "Concurrency (road)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3020, 
+                    "end": 3045, 
+                    "score": 0.03448275849223137, 
+                    "spot": "on the spur of the moment"
+                }
+            ], 
+            "wiki_id": 28910805, 
+            "wiki_title": "On the Spur of the Moment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 81, 
+                    "end": 88, 
+                    "score": 0.44173070788383484, 
+                    "spot": "New Age"
+                }, 
+                {
+                    "begin": 81, 
+                    "end": 97, 
+                    "score": 0.5625, 
+                    "spot": "New Age musician"
+                }
+            ], 
+            "wiki_id": 599220, 
+            "wiki_title": "New-age music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3795, 
+                    "end": 3806, 
+                    "score": 0.3636363744735718, 
+                    "spot": "Ken Stewart"
+                }
+            ], 
+            "wiki_id": 22142831, 
+            "wiki_title": "Ken Stewart (politician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 382, 
+                    "end": 397, 
+                    "score": 0.3837532103061676, 
+                    "spot": "Baja California"
+                }, 
+                {
+                    "begin": 664, 
+                    "end": 668, 
+                    "score": 0.02080511674284935, 
+                    "spot": "Baja"
+                }
+            ], 
+            "wiki_id": 199793, 
+            "wiki_title": "Baja California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 688, 
+                    "end": 696, 
+                    "score": 0.1378103494644165, 
+                    "spot": "mystical"
+                }, 
+                {
+                    "begin": 4262, 
+                    "end": 4268, 
+                    "score": 0.16102461516857147, 
+                    "spot": "mystic"
+                }
+            ], 
+            "wiki_id": 29174999, 
+            "wiki_title": "Mysticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3335, 
+                    "end": 3340, 
+                    "score": 0.002720576012507081, 
+                    "spot": "lanes"
+                }
+            ], 
+            "wiki_id": 695977, 
+            "wiki_title": "Lane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 977, 
+                    "end": 979, 
+                    "score": 0.033355630934238434, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 64971, 
+            "wiki_title": "Go (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 145, 
+                    "end": 165, 
+                    "score": 0.03125, 
+                    "spot": "sound-and-light show"
+                }
+            ], 
+            "wiki_id": 2155215, 
+            "wiki_title": "Son et lumi\u00e8re (show)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 697, 
+                    "end": 706, 
+                    "score": 0.12398403882980347, 
+                    "spot": "phenomena"
+                }
+            ], 
+            "wiki_id": 8753, 
+            "wiki_title": "Dharma"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1289, 
+                    "end": 1294, 
+                    "score": 0.08411159366369247, 
+                    "spot": "hours"
+                }
+            ], 
+            "wiki_id": 3326435, 
+            "wiki_title": "The Hours (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1824, 
+                    "end": 1837, 
+                    "score": 0.14795008301734924, 
+                    "spot": "total eclipse"
+                }
+            ], 
+            "wiki_id": 803786, 
+            "wiki_title": "Total Eclipse (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3346, 
+                    "end": 3350, 
+                    "score": 0.11159327626228333, 
+                    "spot": "shop"
+                }
+            ], 
+            "wiki_id": 183515, 
+            "wiki_title": "Retail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 193, 
+                    "end": 201, 
+                    "score": 0.2455870509147644, 
+                    "spot": "pyramids"
+                }
+            ], 
+            "wiki_id": 23704, 
+            "wiki_title": "Pyramid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3499, 
+                    "end": 3504, 
+                    "score": 0.08685645461082458, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 1297630, 
+            "wiki_title": "Hierarchy of roads"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3406, 
+                    "end": 3408, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 5156727, 
+            "wiki_title": "Re (kana)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4350, 
+                    "end": 4359, 
+                    "score": 0.7662132978439331, 
+                    "spot": "Mauna Kea"
+                }
+            ], 
+            "wiki_id": 267366, 
+            "wiki_title": "Mauna Kea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 35, 
+                    "end": 43, 
+                    "score": 0.1420707106590271, 
+                    "spot": "meditate"
+                }
+            ], 
+            "wiki_id": 20062, 
+            "wiki_title": "Meditation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 768, 
+                    "end": 775, 
+                    "score": 0.20214086771011353, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 1216853, 
+            "wiki_title": "Eclipse Comics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2956, 
+                    "end": 2965, 
+                    "score": 0.06687398999929428, 
+                    "spot": "campsites"
+                }
+            ], 
+            "wiki_id": 228012, 
+            "wiki_title": "Camping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4229, 
+                    "end": 4232, 
+                    "score": 0.14698459208011627, 
+                    "spot": "sun"
+                }
+            ], 
+            "wiki_id": 26980, 
+            "wiki_title": "Sun Microsystems"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2492, 
+                    "end": 2510, 
+                    "score": 0.22418135404586792, 
+                    "spot": "low blood pressure"
+                }
+            ], 
+            "wiki_id": 500475, 
+            "wiki_title": "Hypotension"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3381, 
+                    "end": 3386, 
+                    "score": 0.10144161432981491, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2300, 
+                    "score": 0.06357033550739288, 
+                    "spot": "vendors"
+                }
+            ], 
+            "wiki_id": 20810, 
+            "wiki_title": "Merchant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3342, 
+                    "end": 3345, 
+                    "score": 0.05218467488884926, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 25219450, 
+            "wiki_title": "The ONE"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5285, 
+                    "end": 5290, 
+                    "score": 0.205901637673378, 
+                    "spot": "sheet"
+                }
+            ], 
+            "wiki_id": 16861908, 
+            "wiki_title": "Paper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 755, 
+                    "end": 763, 
+                    "score": 0.08509454876184464, 
+                    "spot": "hot\nspot"
+                }
+            ], 
+            "wiki_id": 1060576, 
+            "wiki_title": "Hotspot (Wi-Fi)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1978, 
+                    "end": 1984, 
+                    "score": 0.11074459552764893, 
+                    "spot": "shadow"
+                }
+            ], 
+            "wiki_id": 217296, 
+            "wiki_title": "Shadow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5720, 
+                    "end": 5726, 
+                    "score": 0.06971433758735657, 
+                    "spot": "nature"
+                }
+            ], 
+            "wiki_id": 43427, 
+            "wiki_title": "Nature (journal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4530, 
+                    "end": 4534, 
+                    "score": 0.02353084273636341, 
+                    "spot": "star"
+                }
+            ], 
+            "wiki_id": 5796, 
+            "wiki_title": "Celebrity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3219, 
+                    "end": 3224, 
+                    "score": 0.06898342072963715, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 98991, 
+            "wiki_title": "Dogma (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3520, 
+                    "end": 3525, 
+                    "score": 0.22549672424793243, 
+                    "spot": "disco"
+                }
+            ], 
+            "wiki_id": 19321330, 
+            "wiki_title": "Nightclub"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 205, 
+                    "end": 216, 
+                    "score": 0.6738689541816711, 
+                    "spot": "Teotihuacan"
+                }
+            ], 
+            "wiki_id": 81553, 
+            "wiki_title": "Teotihuacan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1311, 
+                    "end": 1318, 
+                    "score": 0.21368791162967682, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 5704, 
+                    "end": 5711, 
+                    "score": 0.08984552323818207, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 21678052, 
+            "wiki_title": "The Twilight Saga: Eclipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 830, 
+                    "score": 0.25, 
+                    "spot": "big island of Hawaii"
+                }, 
+                {
+                    "begin": 814, 
+                    "end": 830, 
+                    "score": 0.4536290168762207, 
+                    "spot": "island of Hawaii"
+                }, 
+                {
+                    "begin": 824, 
+                    "end": 830, 
+                    "score": 0.41809898614883423, 
+                    "spot": "Hawaii"
+                }
+            ], 
+            "wiki_id": 70962, 
+            "wiki_title": "Hawaii (island)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2916, 
+                    "end": 2918, 
+                    "score": 0.047542743384838104, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4791, 
+                    "end": 4796, 
+                    "score": 0.12864501774311066, 
+                    "spot": "power"
+                }
+            ], 
+            "wiki_id": 24236, 
+            "wiki_title": "Power (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 305, 
+                    "end": 311, 
+                    "score": 0.2375795990228653, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 794, 
+                    "end": 800, 
+                    "score": 0.32637739181518555, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1543, 
+                    "end": 1549, 
+                    "score": 0.2144744098186493, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 2066, 
+                    "end": 2074, 
+                    "score": 0.05113636329770088, 
+                    "spot": "Mexicans"
+                }, 
+                {
+                    "begin": 2650, 
+                    "end": 2656, 
+                    "score": 0.2616507411003113, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 3121, 
+                    "end": 3127, 
+                    "score": 0.2623279094696045, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 3924, 
+                    "end": 3930, 
+                    "score": 0.4101424217224121, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5768, 
+                    "end": 5773, 
+                    "score": 0.03746075928211212, 
+                    "spot": "watch"
+                }
+            ], 
+            "wiki_id": 18383702, 
+            "wiki_title": "W (UK TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1683, 
+                    "end": 1687, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2245, 
+                    "end": 2252, 
+                    "score": 0.1251378357410431, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 181293, 
+            "wiki_title": "Capital (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4908, 
+                    "end": 4912, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 3343584, 
+            "wiki_title": "Want"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3933, 
+                    "end": 3943, 
+                    "score": 0.06226559355854988, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 37570, 
+            "wiki_title": "Head of government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1274, 
+                    "end": 1281, 
+                    "score": 0.05603152513504028, 
+                    "spot": "islands"
+                }
+            ], 
+            "wiki_id": 11961886, 
+            "wiki_title": "Islands (Mike Oldfield song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2823, 
+                    "end": 2837, 
+                    "score": 0.3586956560611725, 
+                    "spot": "Baja Peninsula"
+                }, 
+                {
+                    "begin": 3914, 
+                    "end": 3930, 
+                    "score": 0.3395194411277771, 
+                    "spot": "Baja.;    Mexico"
+                }
+            ], 
+            "wiki_id": 62706, 
+            "wiki_title": "Baja California Peninsula"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1760, 
+                    "end": 1767, 
+                    "score": 0.12985672056674957, 
+                    "spot": "maximum"
+                }
+            ], 
+            "wiki_id": 298420, 
+            "wiki_title": "Maxima and minima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4144, 
+                    "end": 4150, 
+                    "score": 0.16906645894050598, 
+                    "spot": "lenses"
+                }
+            ], 
+            "wiki_id": 18320, 
+            "wiki_title": "Lens (optics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1231, 
+                    "end": 1236, 
+                    "score": 0.1451382040977478, 
+                    "spot": "ferry"
+                }
+            ], 
+            "wiki_id": 50771, 
+            "wiki_title": "Ferry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5508, 
+                    "end": 5513, 
+                    "score": 0.3163713812828064, 
+                    "spot": "Mylar"
+                }
+            ], 
+            "wiki_id": 172928, 
+            "wiki_title": "BoPET"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1324, 
+                    "end": 1334, 
+                    "score": 0.2856486439704895, 
+                    "spot": "Car rental"
+                }
+            ], 
+            "wiki_id": 5539662, 
+            "wiki_title": "Car rental"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 65, 
+                    "end": 72, 
+                    "score": 0.14959006011486053, 
+                    "spot": "journey"
+                }
+            ], 
+            "wiki_id": 188949, 
+            "wiki_title": "Quest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4322, 
+                    "end": 4335, 
+                    "score": 0.1463821530342102, 
+                    "spot": "observatories"
+                }
+            ], 
+            "wiki_id": 58968, 
+            "wiki_title": "Observatory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5734, 
+                    "end": 5742, 
+                    "score": 0.0028409091755747795, 
+                    "spot": "stunning"
+                }
+            ], 
+            "wiki_id": 11391789, 
+            "wiki_title": "The Stunning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3208, 
+                    "end": 3214, 
+                    "score": 0.16293445229530334, 
+                    "spot": "locals"
+                }
+            ], 
+            "wiki_id": 18993927, 
+            "wiki_title": "Popular culture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2226, 
+                    "end": 2232, 
+                    "score": 0.32078301906585693, 
+                    "spot": "Aztecs"
+                }
+            ], 
+            "wiki_id": 53198, 
+            "wiki_title": "Aztec"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2747, 
+                    "end": 2755, 
+                    "score": 0.009671525098383427, 
+                    "spot": "tourists"
+                }
+            ], 
+            "wiki_id": 209189, 
+            "wiki_title": "The Tourists"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 660, 
+                    "score": 0.018105866387486458, 
+                    "spot": "proximity"
+                }
+            ], 
+            "wiki_id": 225127, 
+            "wiki_title": "Proximity fuze"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5542, 
+                    "end": 5550, 
+                    "score": 0.35093021392822266, 
+                    "spot": "aluminum"
+                }
+            ], 
+            "wiki_id": 904, 
+            "wiki_title": "Aluminium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3163, 
+                    "end": 3172, 
+                    "score": 0.19608786702156067, 
+                    "spot": "isolation"
+                }
+            ], 
+            "wiki_id": 962509, 
+            "wiki_title": "Solitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2924, 
+                    "end": 2935, 
+                    "score": 0.1986003965139389, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 268, 
+                    "end": 275, 
+                    "score": 0.0012760527897626162, 
+                    "spot": "crowded"
+                }
+            ], 
+            "wiki_id": 46652881, 
+            "wiki_title": "Crowded (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4547, 
+                    "end": 4552, 
+                    "score": 0.009570647031068802, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5585, 
+                    "end": 5592, 
+                    "score": 0.11654628068208694, 
+                    "spot": "glasses"
+                }
+            ], 
+            "wiki_id": 74844, 
+            "wiki_title": "Glasses"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3409, 
+                    "end": 3417, 
+                    "score": 0.000938526529353112, 
+                    "spot": "worrying"
+                }
+            ], 
+            "wiki_id": 4080078, 
+            "wiki_title": "Worry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1614, 
+                    "end": 1618, 
+                    "score": 0.0028510112315416336, 
+                    "spot": "easy"
+                }
+            ], 
+            "wiki_id": 91288, 
+            "wiki_title": "Grade (climbing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3567, 
+                    "end": 3575, 
+                    "score": 0.021932091563940048, 
+                    "spot": "10 years"
+                }
+            ], 
+            "wiki_id": 477069, 
+            "wiki_title": "Anniversary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3027, 
+                    "end": 3045, 
+                    "score": 0.07552870362997055, 
+                    "spot": "spur of the moment"
+                }
+            ], 
+            "wiki_id": 28280998, 
+            "wiki_title": "Spur of the Moment (play)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3277, 
+                    "end": 3291, 
+                    "score": 0.25830256938934326, 
+                    "spot": "on this island"
+                }, 
+                {
+                    "begin": 3280, 
+                    "end": 3291, 
+                    "score": 0.2588951289653778, 
+                    "spot": "this island"
+                }
+            ], 
+            "wiki_id": 8781303, 
+            "wiki_title": "On This Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 218, 
+                    "end": 223, 
+                    "score": 0.13331089913845062, 
+                    "spot": "north"
+                }
+            ], 
+            "wiki_id": 17616, 
+            "wiki_title": "Latitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4097, 
+                    "end": 4107, 
+                    "score": 0.07557982951402664, 
+                    "spot": "production"
+                }
+            ], 
+            "wiki_id": 13228814, 
+            "wiki_title": "Production (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5084, 
+                    "end": 5090, 
+                    "score": 0.44871997833251953, 
+                    "spot": "retina"
+                }
+            ], 
+            "wiki_id": 48334, 
+            "wiki_title": "Retina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2866, 
+                    "end": 2874, 
+                    "score": 0.0327417366206646, 
+                    "spot": "reserved"
+                }
+            ], 
+            "wiki_id": 3319789, 
+            "wiki_title": "Reserved and excepted matters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5813, 
+                    "end": 5822, 
+                    "score": 0.18631546199321747, 
+                    "spot": "projector"
+                }
+            ], 
+            "wiki_id": 731779, 
+            "wiki_title": "Movie projector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1635, 
+                    "end": 1648, 
+                    "score": 0.17896181344985962, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4681, 
+                    "end": 4687, 
+                    "score": 0.1400424838066101, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 231, 
+                    "end": 238, 
+                    "score": 0.040330227464437485, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 41188263, 
+            "wiki_title": "Madrid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4797, 
+                    "end": 4805, 
+                    "score": 0.156441330909729, 
+                    "spot": "vortexes"
+                }
+            ], 
+            "wiki_id": 154665, 
+            "wiki_title": "Vortex"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4502, 
+                    "end": 4506, 
+                    "score": 0.20429065823554993, 
+                    "spot": "moon"
+                }
+            ], 
+            "wiki_id": 53306, 
+            "wiki_title": "Natural satellite"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 423, 
+                    "end": 434, 
+                    "score": 0.0260869562625885, 
+                    "spot": "clear skies"
+                }
+            ], 
+            "wiki_id": 37678127, 
+            "wiki_title": "Clear Skies (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2262, 
+                    "end": 2268, 
+                    "score": 0.14512425661087036, 
+                    "spot": "market"
+                }
+            ], 
+            "wiki_id": 9801859, 
+            "wiki_title": "Market (place)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2194, 
+                    "end": 2197, 
+                    "score": 0.0030921814031898975, 
+                    "spot": "bad"
+                }
+            ], 
+            "wiki_id": 586840, 
+            "wiki_title": "Bad (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5652, 
+                    "end": 5660, 
+                    "score": 0.17732103168964386, 
+                    "spot": "MEDICINE"
+                }
+            ], 
+            "wiki_id": 18957, 
+            "wiki_title": "Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4711, 
+                    "end": 4717, 
+                    "score": 0.017166411504149437, 
+                    "spot": "energy"
+                }
+            ], 
+            "wiki_id": 5186688, 
+            "wiki_title": "Energy (esotericism)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2286, 
+                    "end": 2291, 
+                    "score": 0.07105356454849243, 
+                    "spot": "magic"
+                }
+            ], 
+            "wiki_id": 25152964, 
+            "wiki_title": "Magic (illusion)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1350, 
+                    "end": 1357, 
+                    "score": 0.0755949392914772, 
+                    "spot": "shipped"
+                }
+            ], 
+            "wiki_id": 28362, 
+            "wiki_title": "Freight transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4976, 
+                    "end": 4994, 
+                    "score": 0.3429751992225647, 
+                    "spot": "Staring at the sun"
+                }
+            ], 
+            "wiki_id": 9940041, 
+            "wiki_title": "Staring at the Sun (Level 42 album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1118, 
+                    "end": 1122, 
+                    "score": 0.017391636967658997, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2343, 
+                    "end": 2353, 
+                    "score": 0.0648496225476265, 
+                    "spot": "red ribbon"
+                }
+            ], 
+            "wiki_id": 1517020, 
+            "wiki_title": "Red ribbon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1419, 
+                    "end": 1427, 
+                    "score": 0.08536315709352493, 
+                    "spot": "mainland"
+                }
+            ], 
+            "wiki_id": 55079, 
+            "wiki_title": "Mainland China"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5338, 
+                    "end": 5343, 
+                    "score": 0.00671140942722559, 
+                    "spot": "check"
+                }
+            ], 
+            "wiki_id": 55955, 
+            "wiki_title": "Version control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1178, 
+                    "end": 1184, 
+                    "score": 0.2023620307445526, 
+                    "spot": "Kailua"
+                }
+            ], 
+            "wiki_id": 110474, 
+            "wiki_title": "Kailua, Hawaii County, Hawaii"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2198, 
+                    "end": 2203, 
+                    "score": 0.09137283265590668, 
+                    "spot": "omens"
+                }
+            ], 
+            "wiki_id": 186746, 
+            "wiki_title": "Omen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2327, 
+                    "end": 2332, 
+                    "score": 0.1607578992843628, 
+                    "spot": "bulbs"
+                }
+            ], 
+            "wiki_id": 51258, 
+            "wiki_title": "Onion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4399, 
+                    "end": 4403, 
+                    "score": 0.23662735521793365, 
+                    "spot": "peak"
+                }
+            ], 
+            "wiki_id": 751489, 
+            "wiki_title": "Summit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3907, 
+                    "end": 3910, 
+                    "score": 0.09251982718706131, 
+                    "spot": "tip"
+                }
+            ], 
+            "wiki_id": 55999, 
+            "wiki_title": "Tongue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5187, 
+                    "end": 5193, 
+                    "score": 0.0020544426515698433, 
+                    "spot": "safest"
+                }
+            ], 
+            "wiki_id": 1058128, 
+            "wiki_title": "Safe seat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5530, 
+                    "end": 5536, 
+                    "score": 0.33102595806121826, 
+                    "spot": "coated"
+                }
+            ], 
+            "wiki_id": 1897245, 
+            "wiki_title": "Coating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 606, 
+                    "end": 612, 
+                    "score": 0.019937952980399132, 
+                    "spot": "droves"
+                }
+            ], 
+            "wiki_id": 1218551, 
+            "wiki_title": "Drovers' road"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3131, 
+                    "end": 3139, 
+                    "score": 0.1391250491142273, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3834, 
+                    "end": 3841, 
+                    "score": 0.11821776628494263, 
+                    "spot": "caravan"
+                }
+            ], 
+            "wiki_id": 15375164, 
+            "wiki_title": "Caravan (travellers)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3444, 
+                    "end": 3451, 
+                    "score": 0.15846043825149536, 
+                    "spot": "alcohol"
+                }
+            ], 
+            "wiki_id": 1014, 
+            "wiki_title": "Alcohol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3250, 
+                    "end": 3253, 
+                    "score": 0.17484574019908905, 
+                    "spot": "God"
+                }
+            ], 
+            "wiki_id": 5042765, 
+            "wiki_title": "God"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4207, 
+                    "end": 4212, 
+                    "score": 0.004317237064242363, 
+                    "spot": "stare"
+                }
+            ], 
+            "wiki_id": 7136808, 
+            "wiki_title": "Star\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3423, 
+                    "end": 3425, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 3635710, 
+            "wiki_title": "Polycephaly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2802, 
+                    "end": 2810, 
+                    "score": 0.13264217972755432, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 62520, 
+            "wiki_title": "Southern California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4300, 
+                    "end": 4303, 
+                    "score": 0.07792901992797852, 
+                    "spot": "far"
+                }
+            ], 
+            "wiki_id": 887806, 
+            "wiki_title": "Far Manager"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2333, 
+                    "end": 2337, 
+                    "score": 0.0005235931021161377, 
+                    "spot": "tied"
+                }
+            ], 
+            "wiki_id": 30718, 
+            "wiki_title": "Tide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1555, 
+                    "end": 1559, 
+                    "score": 0.007040885742753744, 
+                    "spot": "host"
+                }
+            ], 
+            "wiki_id": 6127004, 
+            "wiki_title": "The Host (The X-Files)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4933, 
+                    "end": 4941, 
+                    "score": 0.19734515249729156, 
+                    "spot": "progress"
+                }
+            ], 
+            "wiki_id": 178206, 
+            "wiki_title": "Progress (spacecraft)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3456, 
+                    "end": 3460, 
+                    "score": 0.13528777658939362, 
+                    "spot": "food"
+                }
+            ], 
+            "wiki_id": 10646, 
+            "wiki_title": "Food"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5693, 
+                    "end": 5701, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 7634921, 
+            "wiki_title": "Thursday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1373, 
+                    "end": 1378, 
+                    "score": 0.07833968102931976, 
+                    "spot": "extra"
+                }
+            ], 
+            "wiki_id": 2382357, 
+            "wiki_title": "Extra (TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3764, 
+                    "end": 3771, 
+                    "score": 0.09585880488157272, 
+                    "spot": "episode"
+                }
+            ], 
+            "wiki_id": 464273, 
+            "wiki_title": "Episode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 360, 
+                    "end": 364, 
+                    "score": 0.035734884440898895, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1550, 
+                    "end": 1554, 
+                    "score": 0.005486214533448219, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1778, 
+                    "end": 1784, 
+                    "score": 0.2837742865085602, 
+                    "spot": "Hawaii"
+                }, 
+                {
+                    "begin": 2642, 
+                    "end": 2648, 
+                    "score": 0.3432852029800415, 
+                    "spot": "Hawaii"
+                }, 
+                {
+                    "begin": 3154, 
+                    "end": 3160, 
+                    "score": 0.4452739655971527, 
+                    "spot": "Hawaii"
+                }, 
+                {
+                    "begin": 4341, 
+                    "end": 4347, 
+                    "score": 0.30279189348220825, 
+                    "spot": "Hawaii"
+                }
+            ], 
+            "wiki_id": 13270, 
+            "wiki_title": "Hawaii"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2468, 
+                    "end": 2475, 
+                    "score": 0.09993668645620346, 
+                    "spot": "magnets"
+                }, 
+                {
+                    "begin": 5149, 
+                    "end": 5158, 
+                    "score": 0.10519126802682877, 
+                    "spot": "permanent"
+                }
+            ], 
+            "wiki_id": 51079, 
+            "wiki_title": "Magnet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1572, 
+                    "end": 1577, 
+                    "score": 0.07303829491138458, 
+                    "spot": "share"
+                }
+            ], 
+            "wiki_id": 539055, 
+            "wiki_title": "Share taxi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3320, 
+                    "end": 3327, 
+                    "score": 0.04260023683309555, 
+                    "spot": "narrows"
+                }
+            ], 
+            "wiki_id": 427116, 
+            "wiki_title": "The Narrows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2529, 
+                    "end": 2536, 
+                    "score": 0.002514932304620743, 
+                    "spot": "pockets"
+                }
+            ], 
+            "wiki_id": 1271962, 
+            "wiki_title": "Billiard table"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 988, 
+                    "end": 1000, 
+                    "score": 0.003636363660916686, 
+                    "spot": "four\nminutes"
+                }
+            ], 
+            "wiki_id": 18578336, 
+            "wiki_title": "Four Minutes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2905, 
+                    "end": 2908, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 29446866, 
+            "wiki_title": "In Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3887, 
+                    "end": 3892, 
+                    "score": 0.031621843576431274, 
+                    "spot": "Lucas"
+                }
+            ], 
+            "wiki_id": 93056, 
+            "wiki_title": "Lucas County, Ohio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5215, 
+                    "end": 5225, 
+                    "score": 0.0007245064480230212, 
+                    "spot": "indirectly"
+                }
+            ], 
+            "wiki_id": 652583, 
+            "wiki_title": "Indirect election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2034, 
+                    "end": 2039, 
+                    "score": 0.5511331558227539, 
+                    "spot": "Earth"
+                }, 
+                {
+                    "begin": 2034, 
+                    "end": 2041, 
+                    "score": 0.5102893710136414, 
+                    "spot": "Earth's"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2601, 
+                    "end": 2607, 
+                    "score": 0.015657620504498482, 
+                    "spot": "charms"
+                }
+            ], 
+            "wiki_id": 48489, 
+            "wiki_title": "Magic (paranormal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4426, 
+                    "end": 4437, 
+                    "score": 0.0900815799832344, 
+                    "spot": "researchers"
+                }
+            ], 
+            "wiki_id": 25524, 
+            "wiki_title": "Research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3426, 
+                    "end": 3429, 
+                    "score": 0.019385984167456627, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 298884, 
+            "wiki_title": "South Korean won"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1972, 
+                    "end": 1977, 
+                    "score": 0.17262576520442963, 
+                    "spot": "lunar"
+                }
+            ], 
+            "wiki_id": 18298, 
+            "wiki_title": "Lunar eclipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4277, 
+                    "end": 4287, 
+                    "score": 0.23558059334754944, 
+                    "spot": "scientific"
+                }
+            ], 
+            "wiki_id": 26833, 
+            "wiki_title": "Scientific method"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5713, 
+                    "end": 5716, 
+                    "score": 0.03901711478829384, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 23385833, 
+            "wiki_title": "Neoplatonism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3692, 
+                    "end": 3702, 
+                    "score": 0.17360065877437592, 
+                    "spot": "wonderland"
+                }
+            ], 
+            "wiki_id": 52853, 
+            "wiki_title": "Alice's Adventures in Wonderland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2756, 
+                    "end": 2759, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3097, 
+                    "end": 3100, 
+                    "score": 0.06238408014178276, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3808, 
+                    "end": 3811, 
+                    "score": 0.09544485062360764, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3613, 
+                    "end": 3627, 
+                    "score": 0.08080996572971344, 
+                    "spot": "infrastructure"
+                }
+            ], 
+            "wiki_id": 174521, 
+            "wiki_title": "Infrastructure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5761, 
+                    "end": 5767, 
+                    "score": 0.0007501875516027212, 
+                    "spot": "How to"
+                }
+            ], 
+            "wiki_id": 175502, 
+            "wiki_title": "How-to"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2438, 
+                    "end": 2443, 
+                    "score": 0.052772156894207, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 261177, 
+            "wiki_title": "Craft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 535, 
+                    "end": 542, 
+                    "score": 0.15093061327934265, 
+                    "spot": "Eclipse"
+                }
+            ], 
+            "wiki_id": 570605, 
+            "wiki_title": "Mitsubishi Eclipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4752, 
+                    "end": 4758, 
+                    "score": 0.08662530034780502, 
+                    "spot": "passes"
+                }
+            ], 
+            "wiki_id": 48491335, 
+            "wiki_title": "Pass (spaceflight)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 589, 
+                    "score": 0.27261731028556824, 
+                    "spot": "Netherlands"
+                }
+            ], 
+            "wiki_id": 21148, 
+            "wiki_title": "Netherlands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4570, 
+                    "end": 4577, 
+                    "score": 0.09174855053424835, 
+                    "spot": "Crystal"
+                }, 
+                {
+                    "begin": 4659, 
+                    "end": 4667, 
+                    "score": 0.17002344131469727, 
+                    "spot": "crystals"
+                }
+            ], 
+            "wiki_id": 6015, 
+            "wiki_title": "Crystal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5266, 
+                    "end": 5273, 
+                    "score": 0.27468541264533997, 
+                    "spot": "pinhole"
+                }, 
+                {
+                    "begin": 5805, 
+                    "end": 5812, 
+                    "score": 0.21204745769500732, 
+                    "spot": "pinhole"
+                }
+            ], 
+            "wiki_id": 81609, 
+            "wiki_title": "Pinhole camera"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5478, 
+                    "end": 5483, 
+                    "score": 0.09988325089216232, 
+                    "spot": "check"
+                }
+            ], 
+            "wiki_id": 13847913, 
+            "wiki_title": "Check (pattern)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 11, 
+                    "end": 16, 
+                    "score": 0.3563905358314514, 
+                    "spot": "Angel"
+                }
+            ], 
+            "wiki_id": 19404136, 
+            "wiki_title": "Angel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4901, 
+                    "end": 4912, 
+                    "score": 0.09570549428462982, 
+                    "spot": "If you want"
+                }
+            ], 
+            "wiki_id": 925458, 
+            "wiki_title": "Some Great Reward"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2320, 
+                    "end": 2326, 
+                    "score": 0.38244909048080444, 
+                    "spot": "garlic"
+                }
+            ], 
+            "wiki_id": 50469, 
+            "wiki_title": "Garlic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3009, 
+                    "end": 3014, 
+                    "score": 0.006339968182146549, 
+                    "spot": "drive"
+                }
+            ], 
+            "wiki_id": 80750, 
+            "wiki_title": "Driving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 289, 
+                    "end": 293, 
+                    "score": 0.1176404133439064, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1791, 
+                    "end": 1795, 
+                    "score": 0.12153220921754837, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3004, 
+                    "end": 3008, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 877, 
+                    "end": 883, 
+                    "score": 0.002439673524349928, 
+                    "spot": "anyway"
+                }
+            ], 
+            "wiki_id": 6710556, 
+            "wiki_title": "Anyway (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1484, 
+                    "end": 1490, 
+                    "score": 0.07502207905054092, 
+                    "spot": "danger"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 562, 
+                    "end": 570, 
+                    "score": 0.15931537747383118, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 645042, 
+            "wiki_title": "New York City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3062, 
+                    "end": 3067, 
+                    "score": 0.18045836687088013, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 33306, 
+            "wiki_title": "Water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1708, 
+                    "end": 1721, 
+                    "score": 0.5, 
+                    "spot": "seven minutes"
+                }
+            ], 
+            "wiki_id": 11141345, 
+            "wiki_title": "The Seven Minutes (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 314, 
+                    "end": 327, 
+                    "score": 0.25594425201416016, 
+                    "spot": "Pacific Coast"
+                }
+            ], 
+            "wiki_id": 174579, 
+            "wiki_title": "West Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2991, 
+                    "end": 3003, 
+                    "score": 0.15240012109279633, 
+                    "spot": "Californians"
+                }
+            ], 
+            "wiki_id": 19813809, 
+            "wiki_title": "The Californians (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3015, 
+                    "end": 3019, 
+                    "score": 0.002051425399258733, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 177240, 
+            "wiki_title": "Downland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 506, 
+                    "end": 518, 
+                    "score": 0.0625, 
+                    "spot": "nature's own"
+                }
+            ], 
+            "wiki_id": 10325876, 
+            "wiki_title": "Flowers Foods"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5050, 
+                    "end": 5057, 
+                    "score": 0.09902263432741165, 
+                    "spot": "feeling"
+                }
+            ], 
+            "wiki_id": 10406, 
+            "wiki_title": "Emotion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4868, 
+                    "end": 4871, 
+                    "score": 0.010517369955778122, 
+                    "spot": "DON"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4163, 
+                    "end": 4167, 
+                    "score": 0.07259232550859451, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19746798, 
+            "wiki_title": "Here (company)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 185, 
+                    "score": 0.07197578251361847, 
+                    "spot": "foot"
+                }
+            ], 
+            "wiki_id": 15068, 
+            "wiki_title": "Infantry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3387, 
+                    "end": 3395, 
+                    "score": 0.14428603649139404, 
+                    "spot": "insanity"
+                }
+            ], 
+            "wiki_id": 15358, 
+            "wiki_title": "Insanity defense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1126, 
+                    "end": 1134, 
+                    "score": 0.002722322940826416, 
+                    "spot": "funneled"
+                }
+            ], 
+            "wiki_id": 1126490, 
+            "wiki_title": "Yard of ale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4602, 
+                    "end": 4609, 
+                    "score": 0.11637350916862488, 
+                    "spot": "Gilliam"
+                }
+            ], 
+            "wiki_id": 30410, 
+            "wiki_title": "Terry Gilliam"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4672, 
+                    "end": 4680, 
+                    "score": 0.08518964052200317, 
+                    "spot": "advising"
+                }
+            ], 
+            "wiki_id": 424796, 
+            "wiki_title": "Advice (constitutional)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3975, 
+                    "end": 3983, 
+                    "score": 0.06361416727304459, 
+                    "spot": "planning"
+                }
+            ], 
+            "wiki_id": 46212943, 
+            "wiki_title": "Urban planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5328, 
+                    "end": 5335, 
+                    "score": 0.08318497240543365, 
+                    "spot": "methods"
+                }
+            ], 
+            "wiki_id": 5966, 
+            "wiki_title": "Compost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 115, 
+                    "score": 0.3984370827674866, 
+                    "spot": "Jean-Michel Jarre"
+                }
+            ], 
+            "wiki_id": 45222, 
+            "wiki_title": "Jean Michel Jarre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 785, 
+                    "end": 788, 
+                    "score": 0.05188819766044617, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 31813786, 
+            "wiki_title": "2014 FIFA Club World Cup"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5374, 
+                    "end": 5381, 
+                    "score": 0.0636574998497963, 
+                    "spot": "labeled"
+                }
+            ], 
+            "wiki_id": 1606714, 
+            "wiki_title": "Wine label"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 618, 
+                    "end": 630, 
+                    "score": 0.15267536044120789, 
+                    "spot": "Californians"
+                }, 
+                {
+                    "begin": 3643, 
+                    "end": 3655, 
+                    "score": 0.08917302638292313, 
+                    "spot": "Californians"
+                }
+            ], 
+            "wiki_id": 5407, 
+            "wiki_title": "California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2149, 
+                    "end": 2162, 
+                    "score": 0.24038369953632355, 
+                    "spot": "pre-Colombian"
+                }
+            ], 
+            "wiki_id": 90001, 
+            "wiki_title": "Pre-Columbian era"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4411, 
+                    "end": 4418, 
+                    "score": 0.20997995138168335, 
+                    "spot": "Pacific"
+                }
+            ], 
+            "wiki_id": 520449, 
+            "wiki_title": "Pacific Plate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1868, 
+                    "end": 1872, 
+                    "score": 0.0451308898627758, 
+                    "spot": "Dyer"
+                }
+            ], 
+            "wiki_id": 1364406, 
+            "wiki_title": "Kieron Dyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1877, 
+                    "end": 1893, 
+                    "score": 0.3396313786506653, 
+                    "spot": "associate editor"
+                }, 
+                {
+                    "begin": 1887, 
+                    "end": 1893, 
+                    "score": 0.3418410122394562, 
+                    "spot": "editor"
+                }
+            ], 
+            "wiki_id": 167897, 
+            "wiki_title": "Editing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4478, 
+                    "end": 4494, 
+                    "score": 0.5325756669044495, 
+                    "spot": "outer atmosphere"
+                }
+            ], 
+            "wiki_id": 535458, 
+            "wiki_title": "Stellar atmosphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4759, 
+                    "end": 4771, 
+                    "score": 0.04117647185921669, 
+                    "spot": "over the sun"
+                }
+            ], 
+            "wiki_id": 21965340, 
+            "wiki_title": "Over the Sun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5647, 
+                    "end": 5650, 
+                    "score": 0.11315031349658966, 
+                    "spot": "amp"
+                }
+            ], 
+            "wiki_id": 772, 
+            "wiki_title": "Ampere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1072, 
+                    "end": 1077, 
+                    "score": 0.0008956210222095251, 
+                    "spot": "seats"
+                }
+            ], 
+            "wiki_id": 11501481, 
+            "wiki_title": "Seat (territorial-administrative unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5159, 
+                    "end": 5170, 
+                    "score": 0.21235886216163635, 
+                    "spot": "vision loss"
+                }
+            ], 
+            "wiki_id": 2158298, 
+            "wiki_title": "Visual impairment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5411, 
+                    "end": 5417, 
+                    "score": 0.13165165483951569, 
+                    "spot": "supply"
+                }
+            ], 
+            "wiki_id": 77547, 
+            "wiki_title": "Logistics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1046, 
+                    "end": 1050, 
+                    "score": 0.0013947944389656186, 
+                    "spot": "show"
+                }
+            ], 
+            "wiki_id": 236918, 
+            "wiki_title": "Concert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5743, 
+                    "end": 5749, 
+                    "score": 0.06046822667121887, 
+                    "spot": "events"
+                }
+            ], 
+            "wiki_id": 24651576, 
+            "wiki_title": "Event (relativity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3178, 
+                    "end": 3183, 
+                    "score": 0.00621182331815362, 
+                    "spot": "limit"
+                }
+            ], 
+            "wiki_id": 2937356, 
+            "wiki_title": "To the Limit (1995 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2519, 
+                    "score": 0.0035589057952165604, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 2451025, 
+            "wiki_title": "Hand luggage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 897, 
+                    "end": 905, 
+                    "score": 0.09824375063180923, 
+                    "spot": "sunshine"
+                }
+            ], 
+            "wiki_id": 27979, 
+            "wiki_title": "Sunlight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3673, 
+                    "end": 3678, 
+                    "score": 0.04747035726904869, 
+                    "spot": "revel"
+                }
+            ], 
+            "wiki_id": 31577, 
+            "wiki_title": "Tallinn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 906, 
+                    "end": 910, 
+                    "score": 0.11026223003864288, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1678, 
+                    "end": 1682, 
+                    "score": 0.05092734843492508, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3055, 
+                    "end": 3067, 
+                    "score": 0.07191828638315201, 
+                    "spot": "taking water"
+                }
+            ], 
+            "wiki_id": 3619680, 
+            "wiki_title": "Ballast tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2710, 
+                    "end": 2714, 
+                    "score": 0.03174899145960808, 
+                    "spot": "cope"
+                }
+            ], 
+            "wiki_id": 497736, 
+            "wiki_title": "Cope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 74, 
+                    "end": 80, 
+                    "score": 0.13840164244174957, 
+                    "spot": "French"
+                }
+            ], 
+            "wiki_id": 10597, 
+            "wiki_title": "French language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3505, 
+                    "end": 3515, 
+                    "score": 0.22267358005046844, 
+                    "spot": "restaurant"
+                }
+            ], 
+            "wiki_id": 26437, 
+            "wiki_title": "Restaurant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 892, 
+                    "score": 0.001105442177504301, 
+                    "spot": "enjoy"
+                }
+            ], 
+            "wiki_id": 1093467, 
+            "wiki_title": "Enjoy! (Descendents album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4846, 
+                    "end": 4854, 
+                    "score": 0.04871952161192894, 
+                    "spot": "awakened"
+                }
+            ], 
+            "wiki_id": 92912, 
+            "wiki_title": "Bodhi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 276, 
+                    "end": 288, 
+                    "score": 0.11212927103042603, 
+                    "spot": "cruise ships"
+                }
+            ], 
+            "wiki_id": 314855, 
+            "wiki_title": "Cruise ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4553, 
+                    "end": 4561, 
+                    "score": 0.0926026925444603, 
+                    "spot": "downhill"
+                }
+            ], 
+            "wiki_id": 1619872, 
+            "wiki_title": "Downhill (1927 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 849, 
+                    "end": 857, 
+                    "score": 0.07882823050022125, 
+                    "spot": "tourists"
+                }
+            ], 
+            "wiki_id": 329927, 
+            "wiki_title": "Redd Kross"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1161, 
+                    "end": 1174, 
+                    "score": 0.29434746503829956, 
+                    "spot": "small airport"
+                }, 
+                {
+                    "begin": 1167, 
+                    "end": 1174, 
+                    "score": 0.35325318574905396, 
+                    "spot": "airport"
+                }
+            ], 
+            "wiki_id": 37575, 
+            "wiki_title": "Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 252, 
+                    "end": 257, 
+                    "score": 0.053052324801683426, 
+                    "spot": "E-day"
+                }
+            ], 
+            "wiki_id": 482498, 
+            "wiki_title": "Eday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3684, 
+                    "end": 3691, 
+                    "score": 0.18909168243408203, 
+                    "spot": "New Age"
+                }
+            ], 
+            "wiki_id": 21742, 
+            "wiki_title": "New Age"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1471, 
+                    "end": 1480, 
+                    "score": 0.5, 
+                    "spot": "island is"
+                }
+            ], 
+            "wiki_id": 21461946, 
+            "wiki_title": "Statistics Iceland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 868, 
+                    "end": 876, 
+                    "score": 0.0023427042178809643, 
+                    "spot": "be there"
+                }, 
+                {
+                    "begin": 1029, 
+                    "end": 1037, 
+                    "score": 0.0023427042178809643, 
+                    "spot": "be there"
+                }
+            ], 
+            "wiki_id": 12750021, 
+            "wiki_title": "Be There (Unkle song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4507, 
+                    "end": 4513, 
+                    "score": 0.00465810252353549, 
+                    "spot": "covers"
+                }
+            ], 
+            "wiki_id": 487366, 
+            "wiki_title": "Cover (philately)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3967, 
+                    "end": 3974, 
+                    "score": 0.11595101654529572, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 8497022, 
+            "wiki_title": "Eclipse (Meyer novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 445, 
+                    "end": 451, 
+                    "score": 0.0005566157633438706, 
+                    "spot": "billed"
+                }
+            ], 
+            "wiki_id": 18799232, 
+            "wiki_title": "Biled"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5514, 
+                    "end": 5521, 
+                    "score": 0.25968557596206665, 
+                    "spot": "plastic"
+                }
+            ], 
+            "wiki_id": 26145195, 
+            "wiki_title": "Plastic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3901, 
+                    "end": 3906, 
+                    "score": 0.05182008817791939, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 21566765, 
+            "wiki_title": "South Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 750, 
+                    "end": 754, 
+                    "score": 0.1191883385181427, 
+                    "spot": "chic"
+                }
+            ], 
+            "wiki_id": 9925814, 
+            "wiki_title": "Chic (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1335, 
+                    "end": 1344, 
+                    "score": 0.1170206069946289, 
+                    "spot": "companies"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1997, 
+                    "end": 1999, 
+                    "score": 0.13350385427474976, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5197, 
+                    "end": 5202, 
+                    "score": 0.006678693927824497, 
+                    "spot": "watch"
+                }
+            ], 
+            "wiki_id": 805802, 
+            "wiki_title": "Breakpoint"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2564, 
+                    "end": 2569, 
+                    "score": 0.15919069945812225, 
+                    "spot": "coins"
+                }
+            ], 
+            "wiki_id": 7558, 
+            "wiki_title": "Coin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3296, 
+                    "end": 3308, 
+                    "score": 0.04268292710185051, 
+                    "spot": "circle route"
+                }
+            ], 
+            "wiki_id": 37468274, 
+            "wiki_title": "Circle route"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3285, 
+                    "end": 3291, 
+                    "score": 0.012031249701976776, 
+                    "spot": "island"
+                }, 
+                {
+                    "begin": 3468, 
+                    "end": 3474, 
+                    "score": 0.042638152837753296, 
+                    "spot": "island"
+                }
+            ], 
+            "wiki_id": 14587, 
+            "wiki_title": "Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4249, 
+                    "end": 4256, 
+                    "score": 0.12487050890922546, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 4730, 
+                    "end": 4737, 
+                    "score": 0.20759108662605286, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 5004, 
+                    "end": 5019, 
+                    "score": 0.5201793909072876, 
+                    "spot": "partial eclipse"
+                }, 
+                {
+                    "begin": 5012, 
+                    "end": 5019, 
+                    "score": 0.33984553813934326, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 5577, 
+                    "end": 5584, 
+                    "score": 0.15760669112205505, 
+                    "spot": "eclipse"
+                }
+            ], 
+            "wiki_id": 9770, 
+            "wiki_title": "Eclipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4652, 
+                    "end": 4658, 
+                    "score": 0.21808919310569763, 
+                    "spot": "corona"
+                }
+            ], 
+            "wiki_id": 7839, 
+            "wiki_title": "Corona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3628, 
+                    "end": 3636, 
+                    "score": 0.07321234047412872, 
+                    "spot": "capacity"
+                }
+            ], 
+            "wiki_id": 231204, 
+            "wiki_title": "Channel capacity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1768, 
+                    "end": 1774, 
+                    "score": 0.0981220155954361, 
+                    "spot": "length"
+                }
+            ], 
+            "wiki_id": 18542, 
+            "wiki_title": "Length"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5498, 
+                    "end": 5504, 
+                    "score": 0.002996552735567093, 
+                    "spot": "layers"
+                }
+            ], 
+            "wiki_id": 50047, 
+            "wiki_title": "Rainforest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4152, 
+                    "end": 4162, 
+                    "score": 0.078340545296669, 
+                    "spot": "Newspapers"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4363, 
+                    "end": 4378, 
+                    "score": 0.5753424763679504, 
+                    "spot": "dormant volcano"
+                }, 
+                {
+                    "begin": 4371, 
+                    "end": 4378, 
+                    "score": 0.5151327848434448, 
+                    "spot": "volcano"
+                }
+            ], 
+            "wiki_id": 32571, 
+            "wiki_title": "Volcano"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5418, 
+                    "end": 5424, 
+                    "score": 0.11201884597539902, 
+                    "spot": "stores"
+                }
+            ], 
+            "wiki_id": 953403, 
+            "wiki_title": "Combat stores ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1096, 
+                    "end": 1102, 
+                    "score": 0.012031249701976776, 
+                    "spot": "island"
+                }
+            ], 
+            "wiki_id": 6842085, 
+            "wiki_title": "Mythology of Lost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3591, 
+                    "end": 3602, 
+                    "score": 0.03856293112039566, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 3219525, 
+            "wiki_title": "Public-benefit corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 543, 
+                    "end": 547, 
+                    "score": 0.04304065555334091, 
+                    "spot": "fans"
+                }
+            ], 
+            "wiki_id": 152643, 
+            "wiki_title": "Hand fan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1614, 
+                    "end": 1625, 
+                    "score": 0.01097994763404131, 
+                    "spot": "easy access"
+                }
+            ], 
+            "wiki_id": 302109, 
+            "wiki_title": "Accessibility"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 294, 
+                    "end": 300, 
+                    "score": 0.14125806093215942, 
+                    "spot": "linger"
+                }
+            ], 
+            "wiki_id": 535229, 
+            "wiki_title": "Linger (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1581, 
+                    "end": 1590, 
+                    "score": 0.003680228954181075, 
+                    "spot": "travelers"
+                }
+            ], 
+            "wiki_id": 1908145, 
+            "wiki_title": "The Travelers Companies"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5229, 
+                    "end": 5239, 
+                    "score": 0.034373193979263306, 
+                    "spot": "projecting"
+                }
+            ], 
+            "wiki_id": 519182, 
+            "wiki_title": "Projection (linear algebra)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 452, 
+                    "end": 464, 
+                    "score": 0.0016816143179312348, 
+                    "spot": "as\nthe world"
+                }
+            ], 
+            "wiki_id": 6711721, 
+            "wiki_title": "As the World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3486, 
+                    "end": 3493, 
+                    "score": 0.06924077868461609, 
+                    "spot": "manager"
+                }
+            ], 
+            "wiki_id": 19881, 
+            "wiki_title": "Management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 973, 
+                    "end": 976, 
+                    "score": 0.14393648505210876, 
+                    "spot": "sun"
+                }, 
+                {
+                    "begin": 4420, 
+                    "end": 4425, 
+                    "score": 0.09076006710529327, 
+                    "spot": "solar"
+                }, 
+                {
+                    "begin": 4472, 
+                    "end": 4475, 
+                    "score": 0.3583914339542389, 
+                    "spot": "sun"
+                }, 
+                {
+                    "begin": 4768, 
+                    "end": 4771, 
+                    "score": 0.18690381944179535, 
+                    "spot": "sun"
+                }, 
+                {
+                    "begin": 4953, 
+                    "end": 4956, 
+                    "score": 0.2789017856121063, 
+                    "spot": "sun"
+                }, 
+                {
+                    "begin": 5125, 
+                    "end": 5128, 
+                    "score": 0.2282521277666092, 
+                    "spot": "sun"
+                }, 
+                {
+                    "begin": 5244, 
+                    "end": 5247, 
+                    "score": 0.09931489825248718, 
+                    "spot": "sun"
+                }
+            ], 
+            "wiki_id": 26751, 
+            "wiki_title": "Sun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5638, 
+                    "end": 5645, 
+                    "score": 0.16214850544929504, 
+                    "spot": "SCIENCE"
+                }
+            ], 
+            "wiki_id": 193513, 
+            "wiki_title": "Science (journal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 97, 
+                    "score": 0.17101673781871796, 
+                    "spot": "musician"
+                }
+            ], 
+            "wiki_id": 38284, 
+            "wiki_title": "Musician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2681, 
+                    "end": 2693, 
+                    "score": 0.0036307054106146097, 
+                    "spot": "otherworldly"
+                }
+            ], 
+            "wiki_id": 28935983, 
+            "wiki_title": "Otherworld"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 346, 
+                    "end": 349, 
+                    "score": 0.10976428538560867, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4901, 
+                    "end": 4903, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3101, 
+                    "end": 3109, 
+                    "score": 0.0005422667018137872, 
+                    "spot": "promotes"
+                }
+            ], 
+            "wiki_id": 1752376, 
+            "wiki_title": "Promotion (chess)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2255, 
+                    "end": 2261, 
+                    "score": 0.35084810853004456, 
+                    "spot": "Sonora"
+                }
+            ], 
+            "wiki_id": 83750, 
+            "wiki_title": "Sonora"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5312, 
+                    "end": 5315, 
+                    "score": 0.12807683646678925, 
+                    "spot": "box"
+                }, 
+                {
+                    "begin": 5666, 
+                    "end": 5669, 
+                    "score": 0.04747921600937843, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 413522, 
+            "wiki_title": "Box"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5345, 
+                    "end": 5351, 
+                    "score": 0.0016069564735516906, 
+                    "spot": "Pieces"
+                }
+            ], 
+            "wiki_id": 47618, 
+            "wiki_title": "Chess piece"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2617, 
+                    "end": 2630, 
+                    "score": 0.11259178817272186, 
+                    "spot": "belly buttons"
+                }
+            ], 
+            "wiki_id": 231386, 
+            "wiki_title": "Navel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 519, 
+                    "end": 529, 
+                    "score": 0.02432432398200035, 
+                    "spot": "light show"
+                }
+            ], 
+            "wiki_id": 298771, 
+            "wiki_title": "Laser lighting display"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2975, 
+                    "end": 2977, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 195533, 
+            "wiki_title": "Religious education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4874, 
+                    "end": 4878, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "LOOK"
+                }, 
+                {
+                    "begin": 4964, 
+                    "end": 4968, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 5557749, 
+            "wiki_title": "LOOK Magazine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4692, 
+                    "end": 4698, 
+                    "score": 0.019768426194787025, 
+                    "spot": "expose"
+                }
+            ], 
+            "wiki_id": 166868, 
+            "wiki_title": "Exposure (photography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3351, 
+                    "end": 3356, 
+                    "score": 0.11288947612047195, 
+                    "spot": "owner"
+                }
+            ], 
+            "wiki_id": 23626, 
+            "wiki_title": "Property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2936, 
+                    "end": 2940, 
+                    "score": 0.16170743107795715, 
+                    "spot": "fear"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5103, 
+                    "end": 5108, 
+                    "score": 0.08273131400346756, 
+                    "spot": "image"
+                }, 
+                {
+                    "begin": 5250, 
+                    "end": 5255, 
+                    "score": 0.2312842309474945, 
+                    "spot": "image"
+                }
+            ], 
+            "wiki_id": 71925, 
+            "wiki_title": "Image"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2374, 
+                    "end": 2384, 
+                    "score": 0.11247652024030685, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 21282020, 
+            "wiki_title": "Hearing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5440, 
+                    "end": 5447, 
+                    "score": 0.27229925990104675, 
+                    "spot": "goggles"
+                }
+            ], 
+            "wiki_id": 651116, 
+            "wiki_title": "Goggles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1022, 
+                    "score": 0.0867086723446846, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1250, 
+                    "end": 1256, 
+                    "score": 0.1130155622959137, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 3719, 
+                    "end": 3725, 
+                    "score": 0.14890757203102112, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4019, 
+                    "end": 4029, 
+                    "score": 0.07789213955402374, 
+                    "spot": "Commission"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1940, 
+                    "end": 1944, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3173, 
+                    "end": 3177, 
+                    "score": 0.1166069358587265, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4288, 
+                    "end": 4292, 
+                    "score": 0.17341668903827667, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4438, 
+                    "end": 4442, 
+                    "score": 0.10477989912033081, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 79432, 
+            "wiki_title": "Will (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2574, 
+                    "end": 2582, 
+                    "score": 0.30991774797439575, 
+                    "spot": "pregnant"
+                }, 
+                {
+                    "begin": 2574, 
+                    "end": 2588, 
+                    "score": 0.3303653299808502, 
+                    "spot": "pregnant women"
+                }
+            ], 
+            "wiki_id": 1771587, 
+            "wiki_title": "Pregnancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 553, 
+                    "end": 558, 
+                    "score": 0.3420599400997162, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 15573, 
+            "wiki_title": "Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1985, 
+                    "end": 1993, 
+                    "score": 0.14675867557525635, 
+                    "spot": "speeding"
+                }
+            ], 
+            "wiki_id": 27104735, 
+            "wiki_title": "Speed limit enforcement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 365, 
+                    "end": 376, 
+                    "score": 0.011873350478708744, 
+                    "spot": "drive south"
+                }
+            ], 
+            "wiki_id": 28812274, 
+            "wiki_title": "Drive South"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3776, 
+                    "end": 3785, 
+                    "score": 0.6921114325523376, 
+                    "spot": "Star Trek"
+                }
+            ], 
+            "wiki_id": 17157886, 
+            "wiki_title": "Star Trek"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3757, 
+                    "end": 3763, 
+                    "score": 0.11094024777412415, 
+                    "spot": "single"
+                }
+            ], 
+            "wiki_id": 156540, 
+            "wiki_title": "Single (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2366, 
+                    "end": 2370, 
+                    "score": 0.06777247041463852, 
+                    "spot": "hawk"
+                }
+            ], 
+            "wiki_id": 704830, 
+            "wiki_title": "War hawk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2844, 
+                    "end": 2850, 
+                    "score": 0.3029637932777405, 
+                    "spot": "hotels"
+                }, 
+                {
+                    "begin": 2860, 
+                    "end": 2865, 
+                    "score": 0.19840477406978607, 
+                    "spot": "rooms"
+                }
+            ], 
+            "wiki_id": 14276, 
+            "wiki_title": "Hotel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2163, 
+                    "end": 2168, 
+                    "score": 0.07291685789823532, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 776, 
+                    "end": 784, 
+                    "score": 0.1133251041173935, 
+                    "spot": "watchers"
+                }
+            ], 
+            "wiki_id": 2137340, 
+            "wiki_title": "Watcher (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2314, 
+                    "end": 2316, 
+                    "score": 0.03274645656347275, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5403, 
+                    "end": 5410, 
+                    "score": 0.2524436116218567, 
+                    "spot": "welding"
+                }, 
+                {
+                    "begin": 5431, 
+                    "end": 5438, 
+                    "score": 0.23355045914649963, 
+                    "spot": "welders"
+                }
+            ], 
+            "wiki_id": 44883, 
+            "wiki_title": "Welding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4454, 
+                    "end": 4464, 
+                    "score": 0.2105267345905304, 
+                    "spot": "telescopes"
+                }
+            ], 
+            "wiki_id": 7070301, 
+            "wiki_title": "Telescope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1379, 
+                    "end": 1383, 
+                    "score": 0.16081134974956512, 
+                    "spot": "cars"
+                }
+            ], 
+            "wiki_id": 170472, 
+            "wiki_title": "The Cars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2009, 
+                    "end": 2023, 
+                    "score": 0.1433413326740265, 
+                    "spot": "miles per hour"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1670, 
+                    "end": 1677, 
+                    "score": 0.1635073572397232, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 1932, 
+                    "end": 1939, 
+                    "score": 0.16597479581832886, 
+                    "spot": "eclipse"
+                }, 
+                {
+                    "begin": 2170, 
+                    "end": 2178, 
+                    "score": 0.1042364090681076, 
+                    "spot": "eclipses"
+                }, 
+                {
+                    "begin": 3537, 
+                    "end": 3544, 
+                    "score": 0.10270946472883224, 
+                    "spot": "Eclipse"
+                }
+            ], 
+            "wiki_id": 5024887, 
+            "wiki_title": "Solar eclipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4588, 
+                    "end": 4594, 
+                    "score": 0.3125, 
+                    "spot": "Honomu"
+                }
+            ], 
+            "wiki_id": 110472, 
+            "wiki_title": "Honomu, Hawaii"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4596, 
+                    "end": 4601, 
+                    "score": 0.08253197371959686, 
+                    "spot": "Wendy"
+                }
+            ], 
+            "wiki_id": 1943370, 
+            "wiki_title": "Wendy and Richard Pini"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 980, 
+                    "end": 983, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 165794, 
+            "wiki_title": "In &amp; Out (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4621, 
+                    "end": 4628, 
+                    "score": 0.005592841189354658, 
+                    "spot": "pouches"
+                }
+            ], 
+            "wiki_id": 2859751, 
+            "wiki_title": "Pouch (marsupial)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3848, 
+                    "end": 3859, 
+                    "score": 0.03434554114937782, 
+                    "spot": "enthusiasts"
+                }
+            ], 
+            "wiki_id": 737838, 
+            "wiki_title": "Railfan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2909, 
+                    "end": 2915, 
+                    "score": 0.007616608403623104, 
+                    "spot": "booked"
+                }
+            ], 
+            "wiki_id": 5278652, 
+            "wiki_title": "Penalty card"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5609, 
+                    "end": 5617, 
+                    "score": 0.06648842990398407, 
+                    "spot": "material"
+                }
+            ], 
+            "wiki_id": 19622, 
+            "wiki_title": "Materials science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2102, 
+                    "end": 2107, 
+                    "score": 0.050731536000967026, 
+                    "spot": "event"
+                }
+            ], 
+            "wiki_id": 2770842, 
+            "wiki_title": "Event (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4125, 
+                    "end": 4132, 
+                    "score": 0.12294331192970276, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1409, 
+                    "score": 0.017352184280753136, 
+                    "spot": "caller"
+                }
+            ], 
+            "wiki_id": 890709, 
+            "wiki_title": "Caller (dancing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1867, 
+                    "score": 0.052173446863889694, 
+                    "spot": "Alan"
+                }
+            ], 
+            "wiki_id": 173225, 
+            "wiki_title": "Alan Lomax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5465, 
+                    "end": 5475, 
+                    "score": 0.23032239079475403, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 55530, 
+            "wiki_title": "Personal protective equipment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2496, 
+                    "end": 2510, 
+                    "score": 0.13945578038692474, 
+                    "spot": "blood pressure"
+                }
+            ], 
+            "wiki_id": 56558, 
+            "wiki_title": "Blood pressure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4839, 
+                    "end": 4841, 
+                    "score": 0.043064992874860764, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 231623, 
+            "wiki_title": "Uttar Pradesh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4896, 
+                    "end": 4899, 
+                    "score": 0.006416204385459423, 
+                    "spot": "box"
+                }, 
+                {
+                    "begin": 5177, 
+                    "end": 5180, 
+                    "score": 0.04820861294865608, 
+                    "spot": "box"
+                }, 
+                {
+                    "begin": 5756, 
+                    "end": 5759, 
+                    "score": 0.006416204385459423, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 4243, 
+            "wiki_title": "Boxing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4443, 
+                    "end": 4447, 
+                    "score": 0.06680245697498322, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 855329, 
+            "wiki_title": "Turn (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2694, 
+                    "end": 2706, 
+                    "score": 0.0076383864507079124, 
+                    "spot": "intervention"
+                }
+            ], 
+            "wiki_id": 3085276, 
+            "wiki_title": "Intervention (Buffy the Vampire Slayer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4958, 
+                    "end": 4961, 
+                    "score": 0.07116101682186127, 
+                    "spot": "Don"
+                }
+            ], 
+            "wiki_id": 1395163, 
+            "wiki_title": "D\u00f4n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4133, 
+                    "end": 4143, 
+                    "score": 0.11971689760684967, 
+                    "spot": "protective"
+                }
+            ], 
+            "wiki_id": 247083, 
+            "wiki_title": "Mask"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1081, 
+                    "end": 1088, 
+                    "score": 0.05855923891067505, 
+                    "spot": "flights"
+                }, 
+                {
+                    "begin": 1190, 
+                    "end": 1198, 
+                    "score": 0.21566693484783173, 
+                    "spot": "Airlines"
+                }, 
+                {
+                    "begin": 1220, 
+                    "end": 1227, 
+                    "score": 0.09838570654392242, 
+                    "spot": "flights"
+                }
+            ], 
+            "wiki_id": 1942, 
+            "wiki_title": "Airline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 858, 
+                    "end": 861, 
+                    "score": 0.14871680736541748, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3726, 
+                    "end": 3729, 
+                    "score": 0.1691373884677887, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1442, 
+                    "end": 1458, 
+                    "score": 0.004065040498971939, 
+                    "spot": "visitors' bureau"
+                }
+            ], 
+            "wiki_id": 13326215, 
+            "wiki_title": "Destination marketing organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2306, 
+                    "end": 2313, 
+                    "score": 0.08071578294038773, 
+                    "spot": "stocked"
+                }
+            ], 
+            "wiki_id": 14350773, 
+            "wiki_title": "Fish stocking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4038, 
+                    "end": 4045, 
+                    "score": 0.08984552323818207, 
+                    "spot": "Eclipse"
+                }
+            ], 
+            "wiki_id": 2657812, 
+            "wiki_title": "Eclipse (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1945, 
+                    "end": 1952, 
+                    "score": 0.0009594180737622082, 
+                    "spot": "consist"
+                }
+            ], 
+            "wiki_id": 3590710, 
+            "wiki_title": "Glossary of North American railway terms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2118, 
+                    "end": 2125, 
+                    "score": 0.0007203014101833105, 
+                    "spot": "quietly"
+                }
+            ], 
+            "wiki_id": 39545496, 
+            "wiki_title": "Quietly (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3225, 
+                    "end": 3235, 
+                    "score": 0.09333796054124832, 
+                    "spot": "predicting"
+                }
+            ], 
+            "wiki_id": 246066, 
+            "wiki_title": "Prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1527, 
+                    "end": 1533, 
+                    "score": 0.041541244834661484, 
+                    "spot": "weight"
+                }
+            ], 
+            "wiki_id": 2212621, 
+            "wiki_title": "Fishing sinker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4518, 
+                    "end": 4522, 
+                    "score": 0.0012103456538170576, 
+                    "spot": "rest"
+                }
+            ], 
+            "wiki_id": 27834, 
+            "wiki_title": "Sleep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5116, 
+                    "end": 5124, 
+                    "score": 0.09648807346820831, 
+                    "spot": "crescent"
+                }
+            ], 
+            "wiki_id": 156629, 
+            "wiki_title": "Crescent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5060, 
+                    "end": 5065, 
+                    "score": 0.10587896406650543, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 47353, 
+            "wiki_title": "Object (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4857, 
+                    "end": 4865, 
+                    "score": 0.00160633132327348, 
+                    "spot": "she said"
+                }
+            ], 
+            "wiki_id": 26449392, 
+            "wiki_title": "She Said"
+        }
+    ]
+}

@@ -1,0 +1,1462 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1318, 
+                    "end": 1325, 
+                    "score": 0.35255885124206543, 
+                    "spot": "Germany"
+                }, 
+                {
+                    "begin": 1657, 
+                    "end": 1662, 
+                    "score": 0.02708377130329609, 
+                    "spot": "enemy"
+                }
+            ], 
+            "wiki_id": 21212, 
+            "wiki_title": "Nazi Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 237, 
+                    "end": 260, 
+                    "score": 0.4108910858631134, 
+                    "spot": "Operation Desert Shield"
+                }, 
+                {
+                    "begin": 247, 
+                    "end": 260, 
+                    "score": 0.08412424474954605, 
+                    "spot": "Desert Shield"
+                }, 
+                {
+                    "begin": 1040, 
+                    "end": 1063, 
+                    "score": 0.4108910858631134, 
+                    "spot": "Operation Desert Shield"
+                }
+            ], 
+            "wiki_id": 182000, 
+            "wiki_title": "Gulf War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 408, 
+                    "end": 412, 
+                    "score": 0.002051425399258733, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 157598, 
+            "wiki_title": "Down (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 658, 
+                    "end": 664, 
+                    "score": 0.011043848469853401, 
+                    "spot": "flyers"
+                }
+            ], 
+            "wiki_id": 45008603, 
+            "wiki_title": "Flyer (pamphlet)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1762, 
+                    "end": 1767, 
+                    "score": 0.23806723952293396, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 66691, 
+            "wiki_title": "Pilot (aeronautics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 482, 
+                    "end": 490, 
+                    "score": 0.11544990539550781, 
+                    "spot": "military"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1598, 
+                    "end": 1605, 
+                    "score": 0.18350158631801605, 
+                    "spot": "engines"
+                }
+            ], 
+            "wiki_id": 15944, 
+            "wiki_title": "Jet engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 59, 
+                    "end": 71, 
+                    "score": 0.46718892455101013, 
+                    "spot": "Saudi Arabia"
+                }, 
+                {
+                    "begin": 225, 
+                    "end": 232, 
+                    "score": 0.18944281339645386, 
+                    "spot": "kingdom"
+                }, 
+                {
+                    "begin": 1224, 
+                    "end": 1236, 
+                    "score": 0.6007490754127502, 
+                    "spot": "Saudi Arabia"
+                }
+            ], 
+            "wiki_id": 349303, 
+            "wiki_title": "Saudi Arabia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 330, 
+                    "end": 338, 
+                    "score": 0.08012105524539948, 
+                    "spot": "northern"
+                }
+            ], 
+            "wiki_id": 159865, 
+            "wiki_title": "Northern Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 26, 
+                    "score": 0.5303730368614197, 
+                    "spot": "F-111"
+                }, 
+                {
+                    "begin": 511, 
+                    "end": 516, 
+                    "score": 0.3277495801448822, 
+                    "spot": "F-111"
+                }, 
+                {
+                    "begin": 1423, 
+                    "end": 1428, 
+                    "score": 0.35094982385635376, 
+                    "spot": "F-111"
+                }
+            ], 
+            "wiki_id": 202894, 
+            "wiki_title": "General Dynamics F-111 Aardvark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1701, 
+                    "end": 1703, 
+                    "score": 0.13838765025138855, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1728, 
+                    "end": 1736, 
+                    "score": 0.30547910928726196, 
+                    "spot": "missiles"
+                }
+            ], 
+            "wiki_id": 19594, 
+            "wiki_title": "Missile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1247, 
+                    "end": 1256, 
+                    "score": 0.031584691256284714, 
+                    "spot": "Air Force"
+                }
+            ], 
+            "wiki_id": 403355, 
+            "wiki_title": "Indian Air Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 574, 
+                    "end": 582, 
+                    "score": 0.17558921873569489, 
+                    "spot": "training"
+                }
+            ], 
+            "wiki_id": 156423, 
+            "wiki_title": "Training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 27, 
+                    "end": 41, 
+                    "score": 0.30764949321746826, 
+                    "spot": "fighter-bomber"
+                }
+            ], 
+            "wiki_id": 379330, 
+            "wiki_title": "Fighter-bomber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 423, 
+                    "end": 430, 
+                    "score": 0.003709222190082073, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 29095681, 
+            "wiki_title": "The Killing (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1266, 
+                    "score": 0.12884365022182465, 
+                    "spot": "personnel"
+                }
+            ], 
+            "wiki_id": 6826152, 
+            "wiki_title": "Military personnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 945, 
+                    "end": 950, 
+                    "score": 0.23239387571811676, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 1749535, 
+            "wiki_title": "Crash (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 922, 
+                    "score": 0.11169775575399399, 
+                    "spot": "takeover"
+                }
+            ], 
+            "wiki_id": 43970194, 
+            "wiki_title": "Houthi takeover in Yemen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1489, 
+                    "end": 1496, 
+                    "score": 0.0005312300054356456, 
+                    "spot": "version"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 42, 
+                    "end": 49, 
+                    "score": 0.15511177480220795, 
+                    "spot": "crashed"
+                }, 
+                {
+                    "begin": 517, 
+                    "end": 524, 
+                    "score": 0.09094235301017761, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 621890, 
+            "wiki_title": "British Aerospace 125"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 731, 
+                    "score": 0.20700068771839142, 
+                    "spot": "aircraft"
+                }
+            ], 
+            "wiki_id": 46770, 
+            "wiki_title": "Fixed-wing aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 176, 
+                    "end": 181, 
+                    "score": 0.09522884339094162, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 298, 
+                    "end": 303, 
+                    "score": 0.12262964993715286, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 164536, 
+            "wiki_title": "Aviation accidents and incidents"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1000, 
+                    "end": 1006, 
+                    "score": 0.12081862986087799, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 1214, 
+                    "end": 1220, 
+                    "score": 0.07120288908481598, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 7746616, 
+            "wiki_title": "Death of Osama bin Laden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1536, 
+                    "end": 1541, 
+                    "score": 0.18536245822906494, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 46400142, 
+            "wiki_title": "First class (aviation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 453, 
+                    "end": 461, 
+                    "score": 0.1343824714422226, 
+                    "spot": "Lt. Cmdr"
+                }
+            ], 
+            "wiki_id": 201929, 
+            "wiki_title": "Lieutenant commander"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1284, 
+                    "end": 1289, 
+                    "score": 0.09567476063966751, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 19740545, 
+            "wiki_title": "Traffic collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 98, 
+                    "score": 0.2342720627784729, 
+                    "spot": "crew\nmembers"
+                }
+            ], 
+            "wiki_id": 1001906, 
+            "wiki_title": "Aircrew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1685, 
+                    "end": 1690, 
+                    "score": 0.1276344209909439, 
+                    "spot": "plane"
+                }
+            ], 
+            "wiki_id": 1396249, 
+            "wiki_title": "Airplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 394, 
+                    "end": 397, 
+                    "score": 0.11200901865959167, 
+                    "spot": "jet"
+                }, 
+                {
+                    "begin": 1299, 
+                    "end": 1302, 
+                    "score": 0.22156110405921936, 
+                    "spot": "jet"
+                }, 
+                {
+                    "begin": 1527, 
+                    "end": 1530, 
+                    "score": 0.22015714645385742, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 164656, 
+            "wiki_title": "Jet aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1556, 
+                    "end": 1563, 
+                    "score": 0.3857123851776123, 
+                    "spot": "Vietnam"
+                }
+            ], 
+            "wiki_id": 32611, 
+            "wiki_title": "Vietnam War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1204, 
+                    "score": 0.000590000650845468, 
+                    "spot": "addition"
+                }
+            ], 
+            "wiki_id": 61338, 
+            "wiki_title": "Addition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 534, 
+                    "end": 542, 
+                    "score": 0.12288302928209305, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 410666, 
+            "wiki_title": "Southern Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 90, 
+                    "score": 0.21560031175613403, 
+                    "spot": "crew"
+                }, 
+                {
+                    "begin": 436, 
+                    "end": 440, 
+                    "score": 0.16715523600578308, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 6801, 
+            "wiki_title": "Crew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 471, 
+                    "score": 0.0423935204744339, 
+                    "spot": "van"
+                }
+            ], 
+            "wiki_id": 32443, 
+            "wiki_title": "Vanuatu"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 311, 
+                    "end": 322, 
+                    "score": 0.19231104850769043, 
+                    "spot": "helicopters"
+                }
+            ], 
+            "wiki_id": 8286923, 
+            "wiki_title": "Helicopter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 763, 
+                    "end": 770, 
+                    "score": 0.3362575173377991, 
+                    "spot": "Fighter"
+                }
+            ], 
+            "wiki_id": 10929, 
+            "wiki_title": "Fighter aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 942, 
+                    "score": 0.07717437297105789, 
+                    "spot": "Today"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 543, 
+                    "end": 560, 
+                    "score": 0.3550620675086975, 
+                    "spot": "Arabian peninsula"
+                }, 
+                {
+                    "begin": 1384, 
+                    "end": 1399, 
+                    "score": 0.6265968680381775, 
+                    "spot": "Saudi peninsula"
+                }
+            ], 
+            "wiki_id": 47858, 
+            "wiki_title": "Arabian Peninsula"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 339, 
+                    "end": 350, 
+                    "score": 0.48239123821258545, 
+                    "spot": "Arabian Sea"
+                }
+            ], 
+            "wiki_id": 22738, 
+            "wiki_title": "Operation Enduring Freedom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 375, 
+                    "end": 378, 
+                    "score": 0.29183435440063477, 
+                    "spot": "F-4"
+                }
+            ], 
+            "wiki_id": 11759, 
+            "wiki_title": "McDonnell Douglas F-4 Phantom II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 855, 
+                    "score": 0.13435900211334229, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 463, 
+                    "end": 466, 
+                    "score": 0.1476253867149353, 
+                    "spot": "J.D"
+                }
+            ], 
+            "wiki_id": 153041, 
+            "wiki_title": "Juris Doctor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 55, 
+                    "score": 0.03336428850889206, 
+                    "spot": "today"
+                }
+            ], 
+            "wiki_id": 162647, 
+            "wiki_title": "Today (BBC Radio 4)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1295, 
+                    "end": 1298, 
+                    "score": 0.12050299346446991, 
+                    "spot": "C-5"
+                }
+            ], 
+            "wiki_id": 160434, 
+            "wiki_title": "Lockheed C-5 Galaxy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 491, 
+                    "end": 500, 
+                    "score": 0.03182445093989372, 
+                    "spot": "spokesman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 583, 
+                    "end": 590, 
+                    "score": 0.14310114085674286, 
+                    "spot": "mission"
+                }
+            ], 
+            "wiki_id": 666301, 
+            "wiki_title": "Military operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 379, 
+                    "end": 393, 
+                    "score": 0.23158226907253265, 
+                    "spot": "reconnaissance"
+                }
+            ], 
+            "wiki_id": 146911, 
+            "wiki_title": "Reconnaissance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 20, 
+                    "score": 0.24914303421974182, 
+                    "spot": "U.S. Air Force"
+                }, 
+                {
+                    "begin": 11, 
+                    "end": 20, 
+                    "score": 0.3704847991466522, 
+                    "spot": "Air Force"
+                }, 
+                {
+                    "begin": 365, 
+                    "end": 374, 
+                    "score": 0.36487069725990295, 
+                    "spot": "Air Force"
+                }
+            ], 
+            "wiki_id": 32090, 
+            "wiki_title": "United States Air Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1429, 
+                    "end": 1436, 
+                    "score": 0.11414260417222977, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 490866, 
+            "wiki_title": "Controlled flight into terrain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 703, 
+                    "end": 714, 
+                    "score": 0.14348925650119781, 
+                    "spot": "next of kin"
+                }
+            ], 
+            "wiki_id": 1658109, 
+            "wiki_title": "Next of kin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 354, 
+                    "end": 360, 
+                    "score": 0.060767438262701035, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 1143, 
+                    "end": 1149, 
+                    "score": 0.11492495238780975, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 604, 
+                    "end": 612, 
+                    "score": 0.10212694853544235, 
+                    "spot": "incident"
+                }
+            ], 
+            "wiki_id": 325806, 
+            "wiki_title": "Graph (discrete mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1014, 
+                    "end": 1026, 
+                    "score": 0.5406529307365417, 
+                    "spot": "Persian Gulf"
+                }, 
+                {
+                    "begin": 1022, 
+                    "end": 1033, 
+                    "score": 0.5308988690376282, 
+                    "spot": "Gulf region"
+                }
+            ], 
+            "wiki_id": 24761, 
+            "wiki_title": "Persian Gulf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 100, 
+                    "end": 113, 
+                    "score": 0.04912755265831947, 
+                    "spot": "U.S. military"
+                }, 
+                {
+                    "begin": 852, 
+                    "end": 863, 
+                    "score": 0.172079399228096, 
+                    "spot": "U.S. forces"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1718, 
+                    "end": 1723, 
+                    "score": 0.21119049191474915, 
+                    "spot": "bombs"
+                }
+            ], 
+            "wiki_id": 47628, 
+            "wiki_title": "Bomb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 155, 
+                    "end": 163, 
+                    "score": 0.12804031372070312, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1440, 
+                    "end": 1444, 
+                    "score": 0.09822356700897217, 
+                    "spot": "dawn"
+                }
+            ], 
+            "wiki_id": 191061, 
+            "wiki_title": "Dawn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1159, 
+                    "score": 0.014092575758695602, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 430398, 
+            "wiki_title": "Still"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 842, 
+                    "end": 848, 
+                    "score": 0.4365680515766144, 
+                    "spot": "Turkey"
+                }
+            ], 
+            "wiki_id": 11125639, 
+            "wiki_title": "Turkey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1272, 
+                    "end": 1278, 
+                    "score": 0.17511647939682007, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 926, 
+                    "end": 932, 
+                    "score": 0.4107026755809784, 
+                    "spot": "Kuwait"
+                }
+            ], 
+            "wiki_id": 7515890, 
+            "wiki_title": "Kuwait"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 749, 
+                    "end": 775, 
+                    "score": 0.5, 
+                    "spot": "48th Tactical Fighter Wing"
+                }
+            ], 
+            "wiki_id": 1039612, 
+            "wiki_title": "48th Fighter Wing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 148, 
+                    "end": 154, 
+                    "score": 0.12822812795639038, 
+                    "spot": "fourth"
+                }
+            ], 
+            "wiki_id": 781729, 
+            "wiki_title": "Independence Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1134, 
+                    "end": 1142, 
+                    "score": 0.12222988903522491, 
+                    "spot": "vanished"
+                }
+            ], 
+            "wiki_id": 5266628, 
+            "wiki_title": "Vanished"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1542, 
+                    "end": 1545, 
+                    "score": 0.0021652341820299625, 
+                    "spot": "saw"
+                }
+            ], 
+            "wiki_id": 40487, 
+            "wiki_title": "Squad automatic weapon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1774, 
+                    "end": 1797, 
+                    "score": 0.2380952388048172, 
+                    "spot": "weapons systems officer"
+                }
+            ], 
+            "wiki_id": 4072511, 
+            "wiki_title": "Weapon systems officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1691, 
+                    "end": 1694, 
+                    "score": 0.0601026676595211, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 198153, 
+            "wiki_title": "Canning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 164, 
+                    "end": 172, 
+                    "score": 0.10667620599269867, 
+                    "spot": "aircraft"
+                }, 
+                {
+                    "begin": 1332, 
+                    "end": 1340, 
+                    "score": 0.1950569599866867, 
+                    "spot": "aircraft"
+                }, 
+                {
+                    "begin": 1453, 
+                    "end": 1461, 
+                    "score": 0.09345407783985138, 
+                    "spot": "aircraft"
+                }
+            ], 
+            "wiki_id": 849, 
+            "wiki_title": "Aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 271, 
+                    "end": 278, 
+                    "score": 0.22313544154167175, 
+                    "spot": "Marines"
+                }, 
+                {
+                    "begin": 1084, 
+                    "end": 1091, 
+                    "score": 0.2595694959163666, 
+                    "spot": "Marines"
+                }
+            ], 
+            "wiki_id": 17349325, 
+            "wiki_title": "United States Marine Corps"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 771, 
+                    "end": 775, 
+                    "score": 0.3470427691936493, 
+                    "spot": "Wing"
+                }, 
+                {
+                    "begin": 825, 
+                    "end": 829, 
+                    "score": 0.10953452438116074, 
+                    "spot": "wing"
+                }
+            ], 
+            "wiki_id": 601374, 
+            "wiki_title": "Wing (military aviation unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1303, 
+                    "end": 1314, 
+                    "score": 0.3319956958293915, 
+                    "spot": "cargo plane"
+                }
+            ], 
+            "wiki_id": 2375692, 
+            "wiki_title": "Cargo aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 900, 
+                    "end": 904, 
+                    "score": 0.45007410645484924, 
+                    "spot": "Iraq"
+                }
+            ], 
+            "wiki_id": 7515928, 
+            "wiki_title": "Iraq"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 421, 
+                    "score": 0.0008917576051317155, 
+                    "spot": "that day"
+                }
+            ], 
+            "wiki_id": 24963497, 
+            "wiki_title": "That Day (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1516, 
+                    "end": 1526, 
+                    "score": 0.39599764347076416, 
+                    "spot": "swing-wing"
+                }
+            ], 
+            "wiki_id": 349470, 
+            "wiki_title": "Variable-sweep wing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 990, 
+                    "end": 999, 
+                    "score": 0.08381190150976181, 
+                    "spot": "Americans"
+                }
+            ], 
+            "wiki_id": 32087, 
+            "wiki_title": "United States Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 864, 
+                    "end": 870, 
+                    "score": 0.007734967861324549, 
+                    "spot": "massed"
+                }
+            ], 
+            "wiki_id": 19048, 
+            "wiki_title": "Mass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1674, 
+                    "end": 1679, 
+                    "score": 0.12117039412260056, 
+                    "spot": "night"
+                }
+            ], 
+            "wiki_id": 206119, 
+            "wiki_title": "Night"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1181, 
+                    "end": 1188, 
+                    "score": 0.04029352217912674, 
+                    "spot": "missing"
+                }
+            ], 
+            "wiki_id": 22040090, 
+            "wiki_title": "Missing (UK TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1710, 
+                    "end": 1714, 
+                    "score": 0.12023202329874039, 
+                    "spot": "tons"
+                }
+            ], 
+            "wiki_id": 533150, 
+            "wiki_title": "Short ton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 185, 
+                    "end": 195, 
+                    "score": 0.001303199678659439, 
+                    "spot": "three days"
+                }
+            ], 
+            "wiki_id": 41050266, 
+            "wiki_title": "Three Days (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1611, 
+                    "end": 1627, 
+                    "score": 0.17418022453784943, 
+                    "spot": "state-of-the-art"
+                }
+            ], 
+            "wiki_id": 80905, 
+            "wiki_title": "State of the art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 436, 
+                    "end": 448, 
+                    "score": 0.26437368988990784, 
+                    "spot": "crew members"
+                }
+            ], 
+            "wiki_id": 1600248, 
+            "wiki_title": "Crewman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 878, 
+                    "end": 884, 
+                    "score": 0.16326746344566345, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 17207794, 
+            "wiki_title": "Djibouti"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 208, 
+                    "end": 216, 
+                    "score": 0.10060080885887146, 
+                    "spot": "deployed"
+                }
+            ], 
+            "wiki_id": 3758871, 
+            "wiki_title": "Military deployment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1663, 
+                    "end": 1670, 
+                    "score": 0.0013306844048202038, 
+                    "spot": "targets"
+                }
+            ], 
+            "wiki_id": 427989, 
+            "wiki_title": "Targets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 687, 
+                    "end": 699, 
+                    "score": 0.003900709329172969, 
+                    "spot": "notification"
+                }
+            ], 
+            "wiki_id": 36347134, 
+            "wiki_title": "Notification (Holy See)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1695, 
+                    "end": 1700, 
+                    "score": 0.04797157645225525, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 84486, 
+            "wiki_title": "Portage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1367, 
+                    "end": 1376, 
+                    "score": 0.12117601931095123, 
+                    "spot": "equipment"
+                }, 
+                {
+                    "begin": 1628, 
+                    "end": 1637, 
+                    "score": 0.17247572541236877, 
+                    "spot": "equipment"
+                }
+            ], 
+            "wiki_id": 51462, 
+            "wiki_title": "Machine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 472, 
+                    "end": 478, 
+                    "score": 0.12163424491882324, 
+                    "spot": "Sickle"
+                }
+            ], 
+            "wiki_id": 220847, 
+            "wiki_title": "Hammer and sickle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 980, 
+                    "end": 986, 
+                    "score": 0.0007761751185171306, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 3220275, 
+            "wiki_title": "Number (sports)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 73, 
+                    "end": 80, 
+                    "score": 0.10266805440187454, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1404, 
+                    "end": 1413, 
+                    "score": 0.08165568858385086, 
+                    "spot": "Officials"
+                }
+            ], 
+            "wiki_id": 9167402, 
+            "wiki_title": "Roman magistrate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 971, 
+                    "end": 975, 
+                    "score": 0.19921807944774628, 
+                    "spot": "nine"
+                }
+            ], 
+            "wiki_id": 16002873, 
+            "wiki_title": "Nine (2009 live-action film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1671, 
+                    "end": 1679, 
+                    "score": 0.06468669325113297, 
+                    "spot": "at night"
+                }
+            ], 
+            "wiki_id": 63011, 
+            "wiki_title": "Nocturnality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1107, 
+                    "end": 1116, 
+                    "score": 0.6690759658813477, 
+                    "spot": "UH-1 Huey"
+                }, 
+                {
+                    "begin": 1112, 
+                    "end": 1128, 
+                    "score": 0.5266666412353516, 
+                    "spot": "Huey helicopters"
+                }
+            ], 
+            "wiki_id": 38008, 
+            "wiki_title": "Bell UH-1 Iroquois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 283, 
+                    "end": 290, 
+                    "score": 0.15966399013996124, 
+                    "spot": "missing"
+                }
+            ], 
+            "wiki_id": 601205, 
+            "wiki_title": "Missing in action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 800, 
+                    "end": 808, 
+                    "score": 0.08861635625362396, 
+                    "spot": "Air Base"
+                }
+            ], 
+            "wiki_id": 344102, 
+            "wiki_title": "Aerodrome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 636, 
+                    "score": 0.1631765365600586, 
+                    "spot": "investigation"
+                }
+            ], 
+            "wiki_id": 37297, 
+            "wiki_title": "Criminal procedure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1747, 
+                    "end": 1751, 
+                    "score": 0.28018718957901, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 29970, 
+            "wiki_title": "Tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 645, 
+                    "end": 650, 
+                    "score": 0.05558004975318909, 
+                    "spot": "names"
+                }
+            ], 
+            "wiki_id": 164226, 
+            "wiki_title": "Name"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1171, 
+                    "end": 1177, 
+                    "score": 0.053463201969861984, 
+                    "spot": "listed"
+                }
+            ], 
+            "wiki_id": 202009, 
+            "wiki_title": "Listed building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 785, 
+                    "end": 799, 
+                    "score": 1.0, 
+                    "spot": "RAF Lakenheath"
+                }, 
+                {
+                    "begin": 789, 
+                    "end": 808, 
+                    "score": 0.5, 
+                    "spot": "Lakenheath Air Base"
+                }
+            ], 
+            "wiki_id": 856907, 
+            "wiki_title": "RAF Lakenheath"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 418, 
+                    "end": 421, 
+                    "score": 0.05403817445039749, 
+                    "spot": "day"
+                }
+            ], 
+            "wiki_id": 951256, 
+            "wiki_title": "Day school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1345, 
+                    "end": 1353, 
+                    "score": 0.07023902237415314, 
+                    "spot": "ferrying"
+                }
+            ], 
+            "wiki_id": 3175598, 
+            "wiki_title": "Ferry flying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 812, 
+                    "end": 819, 
+                    "score": 0.1523643136024475, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 31717, 
+            "wiki_title": "United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 265, 
+                    "end": 270, 
+                    "score": 0.07279001176357269, 
+                    "spot": "Eight"
+                }, 
+                {
+                    "begin": 1078, 
+                    "end": 1083, 
+                    "score": 0.14473171532154083, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 31660, 
+            "wiki_title": "Eighth Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 907, 
+                    "end": 913, 
+                    "score": 0.01886792480945587, 
+                    "spot": "Aug. 2"
+                }
+            ], 
+            "wiki_id": 1154, 
+            "wiki_title": null
+        }
+    ]
+}

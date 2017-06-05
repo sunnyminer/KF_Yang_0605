@@ -1,0 +1,5032 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 312, 
+                    "end": 315, 
+                    "score": 0.06366437673568726, 
+                    "spot": "can"
+                }, 
+                {
+                    "begin": 687, 
+                    "end": 695, 
+                    "score": 0.15927258133888245, 
+                    "spot": "Canadian"
+                }, 
+                {
+                    "begin": 766, 
+                    "end": 774, 
+                    "score": 0.16658452153205872, 
+                    "spot": "Canadian"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1293, 
+                    "end": 1301, 
+                    "score": 0.11890344321727753, 
+                    "spot": "stranger"
+                }
+            ], 
+            "wiki_id": 566127, 
+            "wiki_title": "The Stranger (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6856, 
+                    "end": 6861, 
+                    "score": 0.03936707600951195, 
+                    "spot": "leave"
+                }
+            ], 
+            "wiki_id": 18973622, 
+            "wiki_title": "Leaf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1392, 
+                    "end": 1399, 
+                    "score": 0.12227855622768402, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 2660, 
+                    "end": 2667, 
+                    "score": 0.18237626552581787, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 4594, 
+                    "end": 4601, 
+                    "score": 0.04478489235043526, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 4950, 
+                    "end": 4957, 
+                    "score": 0.14843542873859406, 
+                    "spot": "Johnson"
+                }
+            ], 
+            "wiki_id": 48594, 
+            "wiki_title": "Samuel Johnson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 636, 
+                    "end": 642, 
+                    "score": 0.2135661393404007, 
+                    "spot": "banned"
+                }
+            ], 
+            "wiki_id": 386818, 
+            "wiki_title": "Smoking ban"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5010, 
+                    "end": 5019, 
+                    "score": 0.0015752408653497696, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 17706134, 
+            "wiki_title": "Something (Lasgo song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4204, 
+                    "end": 4208, 
+                    "score": 0.08338747918605804, 
+                    "spot": "Club"
+                }
+            ], 
+            "wiki_id": 2924002, 
+            "wiki_title": "Electronic dance music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6369, 
+                    "end": 6376, 
+                    "score": 0.047667182981967926, 
+                    "spot": "parents"
+                }
+            ], 
+            "wiki_id": 83441, 
+            "wiki_title": "Parent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5944, 
+                    "end": 5947, 
+                    "score": 0.09870274364948273, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 13826091, 
+            "wiki_title": "Don Draper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 517, 
+                    "end": 520, 
+                    "score": 0.062349334359169006, 
+                    "spot": "Now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2518, 
+                    "score": 0.3340258002281189, 
+                    "spot": "Rome"
+                }
+            ], 
+            "wiki_id": 25507, 
+            "wiki_title": "Roman Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1952, 
+                    "end": 1963, 
+                    "score": 0.11237488687038422, 
+                    "spot": "do it again"
+                }
+            ], 
+            "wiki_id": 32844749, 
+            "wiki_title": "Fortune (Chris Brown album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4859, 
+                    "end": 4863, 
+                    "score": 0.07788481563329697, 
+                    "spot": "feel"
+                }, 
+                {
+                    "begin": 4988, 
+                    "end": 4992, 
+                    "score": 0.041214000433683395, 
+                    "spot": "feel"
+                }, 
+                {
+                    "begin": 6747, 
+                    "end": 6751, 
+                    "score": 0.057885996997356415, 
+                    "spot": "feel"
+                }
+            ], 
+            "wiki_id": 163390, 
+            "wiki_title": "Feeling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1312, 
+                    "score": 0.059046559035778046, 
+                    "spot": "spoken"
+                }
+            ], 
+            "wiki_id": 343430, 
+            "wiki_title": "Spoken word"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4155, 
+                    "end": 4162, 
+                    "score": 0.21547533571720123, 
+                    "spot": "Ashford"
+                }
+            ], 
+            "wiki_id": 350215, 
+            "wiki_title": "Ashford, Kent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3349, 
+                    "end": 3355, 
+                    "score": 0.30287599563598633, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 564779, 
+            "wiki_title": "Cell growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2207, 
+                    "end": 2211, 
+                    "score": 0.05830461531877518, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2023, 
+                    "end": 2029, 
+                    "score": 0.003227435052394867, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 526101, 
+            "wiki_title": "Major (academic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3872, 
+                    "end": 3879, 
+                    "score": 0.12018410116434097, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 1467948, 
+            "wiki_title": "Problem solving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5219, 
+                    "end": 5223, 
+                    "score": 0.09108325093984604, 
+                    "spot": "kids"
+                }
+            ], 
+            "wiki_id": 615418, 
+            "wiki_title": "Kids (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5196, 
+                    "end": 5206, 
+                    "score": 0.03212768957018852, 
+                    "spot": "coming out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2585, 
+                    "end": 2604, 
+                    "score": 0.056507423520088196, 
+                    "spot": "World Championships"
+                }
+            ], 
+            "wiki_id": 224637, 
+            "wiki_title": "Ice Hockey World Championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 113, 
+                    "score": 0.03845923766493797, 
+                    "spot": "final"
+                }
+            ], 
+            "wiki_id": 5626094, 
+            "wiki_title": "2006 FIFA World Cup Final"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4937, 
+                    "end": 4944, 
+                    "score": 0.08749982714653015, 
+                    "spot": "feeling"
+                }
+            ], 
+            "wiki_id": 1985228, 
+            "wiki_title": "Vedan\u0101"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5020, 
+                    "end": 5024, 
+                    "score": 0.08039023727178574, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 295079, 
+            "wiki_title": "Running back"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2173, 
+                    "end": 2183, 
+                    "score": 0.1929166316986084, 
+                    "spot": "gold medal"
+                }
+            ], 
+            "wiki_id": 526488, 
+            "wiki_title": "Gold medal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2795, 
+                    "end": 2804, 
+                    "score": 0.1111111119389534, 
+                    "spot": "1987 race"
+                }
+            ], 
+            "wiki_id": 5222472, 
+            "wiki_title": "1987 Indianapolis 500"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4286, 
+                    "end": 4291, 
+                    "score": 0.002651817863807082, 
+                    "spot": "table"
+                }
+            ], 
+            "wiki_id": 15985523, 
+            "wiki_title": "Table Mountain (New York)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2852, 
+                    "end": 2857, 
+                    "score": 0.16533753275871277, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 51036, 
+            "wiki_title": "Prohibition of drugs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4985, 
+                    "end": 4987, 
+                    "score": 0.0851832926273346, 
+                    "spot": "me"
+                }
+            ], 
+            "wiki_id": 19839, 
+            "wiki_title": "Methyl group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1424, 
+                    "end": 1428, 
+                    "score": 0.0007073803571984172, 
+                    "spot": "of 9"
+                }, 
+                {
+                    "begin": 2247, 
+                    "end": 2251, 
+                    "score": 0.04923424497246742, 
+                    "spot": "of 9"
+                }, 
+                {
+                    "begin": 4540, 
+                    "end": 4544, 
+                    "score": 0.0007073803571984172, 
+                    "spot": "of 9"
+                }
+            ], 
+            "wiki_id": 7272484, 
+            "wiki_title": "Four-star rank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4408, 
+                    "end": 4414, 
+                    "score": 0.1379750370979309, 
+                    "spot": "always"
+                }
+            ], 
+            "wiki_id": 7944265, 
+            "wiki_title": "Always (Bon Jovi song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6773, 
+                    "end": 6779, 
+                    "score": 0.001677952939644456, 
+                    "spot": "myself"
+                }
+            ], 
+            "wiki_id": 178664, 
+            "wiki_title": "Hybrid Theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 107, 
+                    "score": 0.05002797767519951, 
+                    "spot": "100-meter"
+                }, 
+                {
+                    "begin": 1455, 
+                    "end": 1464, 
+                    "score": 0.18036185204982758, 
+                    "spot": "100-meter"
+                }
+            ], 
+            "wiki_id": 1231316, 
+            "wiki_title": "100 metres"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4224, 
+                    "end": 4240, 
+                    "score": 0.2857142984867096, 
+                    "spot": "way in the world"
+                }
+            ], 
+            "wiki_id": 24628899, 
+            "wiki_title": "A Way in the World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2301, 
+                    "end": 2321, 
+                    "score": 0.26264482736587524, 
+                    "spot": "World \nChampionships"
+                }
+            ], 
+            "wiki_id": 794905, 
+            "wiki_title": "1991 World Championships in Athletics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3706, 
+                    "end": 3714, 
+                    "score": 0.19669771194458008, 
+                    "spot": "Canadian"
+                }
+            ], 
+            "wiki_id": 19851291, 
+            "wiki_title": "Canadians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 709, 
+                    "end": 717, 
+                    "score": 0.22107361257076263, 
+                    "spot": "drug use"
+                }, 
+                {
+                    "begin": 3763, 
+                    "end": 3772, 
+                    "score": 0.08980152755975723, 
+                    "spot": "drug-free"
+                }
+            ], 
+            "wiki_id": 860860, 
+            "wiki_title": "Doping in sport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 946, 
+                    "score": 0.6756069660186768, 
+                    "spot": "furazabol"
+                }, 
+                {
+                    "begin": 3179, 
+                    "end": 3188, 
+                    "score": 0.8277963399887085, 
+                    "spot": "furazabol"
+                }
+            ], 
+            "wiki_id": 6170515, 
+            "wiki_title": "Furazabol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4763, 
+                    "end": 4773, 
+                    "score": 0.043478261679410934, 
+                    "spot": "best I can"
+                }
+            ], 
+            "wiki_id": 16442957, 
+            "wiki_title": "Best I Can (Queensr\u00ffche song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5132, 
+                    "end": 5142, 
+                    "score": 0.09023423492908478, 
+                    "spot": "role model"
+                }
+            ], 
+            "wiki_id": 178653, 
+            "wiki_title": "Role model"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3283, 
+                    "end": 3291, 
+                    "score": 0.14059290289878845, 
+                    "spot": "cadavers"
+                }
+            ], 
+            "wiki_id": 12974846, 
+            "wiki_title": "Cadaver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1547, 
+                    "end": 1555, 
+                    "score": 0.13986988365650177, 
+                    "spot": "innuendo"
+                }
+            ], 
+            "wiki_id": 600805, 
+            "wiki_title": "Innuendo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3553, 
+                    "end": 3563, 
+                    "score": 0.08997003734111786, 
+                    "spot": "That's why"
+                }
+            ], 
+            "wiki_id": 19855461, 
+            "wiki_title": "That's Why"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 178, 
+                    "end": 184, 
+                    "score": 0.005017771385610104, 
+                    "spot": "blocks"
+                }
+            ], 
+            "wiki_id": 32558, 
+            "wiki_title": "Volleyball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4789, 
+                    "end": 4792, 
+                    "score": 0.004987014457583427, 
+                    "spot": "ask"
+                }
+            ], 
+            "wiki_id": 386694, 
+            "wiki_title": "\u0141ask"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6568, 
+                    "end": 6574, 
+                    "score": 0.07417422533035278, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3019, 
+                    "end": 3026, 
+                    "score": 0.08075543493032455, 
+                    "spot": "painted"
+                }
+            ], 
+            "wiki_id": 18622193, 
+            "wiki_title": "Painting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4506, 
+                    "end": 4514, 
+                    "score": 0.09688546508550644, 
+                    "spot": "Olympics"
+                }
+            ], 
+            "wiki_id": 19098431, 
+            "wiki_title": "Ancient Olympic Games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4528, 
+                    "end": 4531, 
+                    "score": 0.022608451545238495, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1126, 
+                    "end": 1131, 
+                    "score": 0.12645235657691956, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 910674, 
+            "wiki_title": "Lewis University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3321, 
+                    "end": 3325, 
+                    "score": 0.18424908816814423, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 7481381, 
+            "wiki_title": "Dosage form"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1807, 
+                    "end": 1810, 
+                    "score": 0.3293488025665283, 
+                    "spot": "lie"
+                }, 
+                {
+                    "begin": 1818, 
+                    "end": 1827, 
+                    "score": 0.21990102529525757, 
+                    "spot": "fabricate"
+                }, 
+                {
+                    "begin": 5487, 
+                    "end": 5492, 
+                    "score": 0.2366357147693634, 
+                    "spot": "lying"
+                }
+            ], 
+            "wiki_id": 229723, 
+            "wiki_title": "Lie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3049, 
+                    "end": 3052, 
+                    "score": 0.0026988310273736715, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 2648440, 
+            "wiki_title": "Why the lucky stiff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1224, 
+                    "end": 1231, 
+                    "score": 0.12156405299901962, 
+                    "spot": "samples"
+                }
+            ], 
+            "wiki_id": 201605, 
+            "wiki_title": "Sampling (signal processing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5703, 
+                    "end": 5708, 
+                    "score": 0.025999441742897034, 
+                    "spot": "cheat"
+                }
+            ], 
+            "wiki_id": 10743612, 
+            "wiki_title": "List of Homestar Runner characters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5740, 
+                    "end": 5743, 
+                    "score": 0.10770547389984131, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 298883, 
+            "wiki_title": "North Korean won"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5925, 
+                    "end": 5936, 
+                    "score": 0.0005225752247497439, 
+                    "spot": "That's what"
+                }
+            ], 
+            "wiki_id": 7053288, 
+            "wiki_title": "That's What"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2459, 
+                    "end": 2469, 
+                    "score": 0.0431305430829525, 
+                    "spot": "Federation"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4824, 
+                    "end": 4827, 
+                    "score": 0.0011050833854824305, 
+                    "spot": "I'm"
+                }, 
+                {
+                    "begin": 4998, 
+                    "end": 5001, 
+                    "score": 0.0011050833854824305, 
+                    "spot": "I'm"
+                }, 
+                {
+                    "begin": 5055, 
+                    "end": 5058, 
+                    "score": 0.0011050833854824305, 
+                    "spot": "I'm"
+                }
+            ], 
+            "wiki_id": 26896036, 
+            "wiki_title": "I'm In"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5356, 
+                    "end": 5360, 
+                    "score": 0.0019397636642679572, 
+                    "spot": "sure"
+                }
+            ], 
+            "wiki_id": 9892133, 
+            "wiki_title": "Sure (Take That song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6615, 
+                    "end": 6619, 
+                    "score": 0.08811132609844208, 
+                    "spot": "life"
+                }
+            ], 
+            "wiki_id": 187479, 
+            "wiki_title": "Life (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3445, 
+                    "end": 3448, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }, 
+                {
+                    "begin": 5280, 
+                    "end": 5283, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5377, 
+                    "end": 5384, 
+                    "score": 0.0007118607172742486, 
+                    "spot": "take it"
+                }
+            ], 
+            "wiki_id": 2115460, 
+            "wiki_title": "Take It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3605, 
+                    "end": 3620, 
+                    "score": 0.41905397176742554, 
+                    "spot": "track and field"
+                }, 
+                {
+                    "begin": 5031, 
+                    "end": 5046, 
+                    "score": 0.4612608850002289, 
+                    "spot": "track and field"
+                }, 
+                {
+                    "begin": 5847, 
+                    "end": 5862, 
+                    "score": 0.3573084771633148, 
+                    "spot": "track and field"
+                }, 
+                {
+                    "begin": 6023, 
+                    "end": 6028, 
+                    "score": 0.10584529489278793, 
+                    "spot": "track"
+                }, 
+                {
+                    "begin": 6106, 
+                    "end": 6121, 
+                    "score": 0.22172579169273376, 
+                    "spot": "track and field"
+                }, 
+                {
+                    "begin": 6819, 
+                    "end": 6834, 
+                    "score": 0.23525068163871765, 
+                    "spot": "track and field"
+                }
+            ], 
+            "wiki_id": 194904, 
+            "wiki_title": "Track and field"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2426, 
+                    "end": 2469, 
+                    "score": 0.32203391194343567, 
+                    "spot": "International Amateur Athletics \nFederation"
+                }, 
+                {
+                    "begin": 2697, 
+                    "end": 2701, 
+                    "score": 0.1445305347442627, 
+                    "spot": "IAAF"
+                }
+            ], 
+            "wiki_id": 86444, 
+            "wiki_title": "International Association of Athletics Federations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6836, 
+                    "end": 6840, 
+                    "score": 0.03921803459525108, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 15105978, 
+            "wiki_title": "Water well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 401, 
+                    "end": 406, 
+                    "score": 0.09585042297840118, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5722, 
+                    "end": 5727, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6006, 
+                    "end": 6011, 
+                    "score": 0.011213552206754684, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 75827, 
+            "wiki_title": "Thing (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4217, 
+                    "end": 4223, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"No"
+                }
+            ], 
+            "wiki_id": 12273649, 
+            "wiki_title": "P:NO"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3311, 
+                    "end": 3320, 
+                    "score": 0.19811716675758362, 
+                    "spot": "synthetic"
+                }
+            ], 
+            "wiki_id": 85029, 
+            "wiki_title": "Chemical synthesis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3035, 
+                    "end": 3042, 
+                    "score": 0.06860093027353287, 
+                    "spot": "picture"
+                }
+            ], 
+            "wiki_id": 21555729, 
+            "wiki_title": "Film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4755, 
+                    "end": 4767, 
+                    "score": 0.3539251983165741, 
+                    "spot": "I'm the best"
+                }
+            ], 
+            "wiki_id": 28253219, 
+            "wiki_title": "Pink Friday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6667, 
+                    "end": 6673, 
+                    "score": 0.0007796851568855345, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 634060, 
+            "wiki_title": "Spirometry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4275, 
+                    "end": 4283, 
+                    "score": 0.004318618215620518, 
+                    "spot": "pounding"
+                }
+            ], 
+            "wiki_id": 11496971, 
+            "wiki_title": "Pounding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 154, 
+                    "end": 160, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"He"
+                }, 
+                {
+                    "begin": 3425, 
+                    "end": 3431, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"He"
+                }
+            ], 
+            "wiki_id": 45328917, 
+            "wiki_title": "P:HE"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5322, 
+                    "end": 5324, 
+                    "score": 0.0353756882250309, 
+                    "spot": "me"
+                }
+            ], 
+            "wiki_id": 19323, 
+            "wiki_title": "Middle East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5831, 
+                    "end": 5835, 
+                    "score": 0.1648777276277542, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 18084, 
+            "wiki_title": "Long jump"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3159, 
+                    "end": 3164, 
+                    "score": 0.09936365485191345, 
+                    "spot": "taken"
+                }, 
+                {
+                    "begin": 3241, 
+                    "end": 3246, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2367, 
+                    "end": 2374, 
+                    "score": 0.15648983418941498, 
+                    "spot": "seconds"
+                }, 
+                {
+                    "begin": 4492, 
+                    "end": 4498, 
+                    "score": 0.15622669458389282, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 2431, 
+            "wiki_title": "Minute and second of arc"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1405, 
+                    "end": 1408, 
+                    "score": 0.03137297183275223, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 416779, 
+            "wiki_title": "Scenic design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6436, 
+                    "end": 6446, 
+                    "score": 0.2523393929004669, 
+                    "spot": "philosophy"
+                }
+            ], 
+            "wiki_id": 13692155, 
+            "wiki_title": "Philosophy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2477, 
+                    "end": 2485, 
+                    "score": 0.005181347019970417, 
+                    "spot": "disallow"
+                }
+            ], 
+            "wiki_id": 39382497, 
+            "wiki_title": "Disallow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2236, 
+                    "end": 2241, 
+                    "score": 0.030095968395471573, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1280, 
+                    "end": 1283, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 462387, 
+            "wiki_title": "Adam Warlock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1132, 
+                    "end": 1135, 
+                    "score": 0.10716209560632706, 
+                    "spot": "sat"
+                }
+            ], 
+            "wiki_id": 144716, 
+            "wiki_title": "SAT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3210, 
+                    "end": 3230, 
+                    "score": 0.38825756311416626, 
+                    "spot": "human growth hormone"
+                }, 
+                {
+                    "begin": 3216, 
+                    "end": 3230, 
+                    "score": 0.3967038691043854, 
+                    "spot": "growth hormone"
+                }
+            ], 
+            "wiki_id": 173072, 
+            "wiki_title": "Growth hormone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 775, 
+                    "end": 781, 
+                    "score": 0.10924816131591797, 
+                    "spot": "sprint"
+                }, 
+                {
+                    "begin": 4065, 
+                    "end": 4073, 
+                    "score": 0.3213954567909241, 
+                    "spot": "sprinter"
+                }, 
+                {
+                    "begin": 5817, 
+                    "end": 5826, 
+                    "score": 0.20162007212638855, 
+                    "spot": "sprinters"
+                }
+            ], 
+            "wiki_id": 89276, 
+            "wiki_title": "Sprint (running)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2325, 
+                    "end": 2329, 
+                    "score": 0.27758902311325073, 
+                    "spot": "Rome"
+                }
+            ], 
+            "wiki_id": 25458, 
+            "wiki_title": "Rome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2832, 
+                    "end": 2838, 
+                    "score": 0.0007826825603842735, 
+                    "spot": "proven"
+                }
+            ], 
+            "wiki_id": 2053440, 
+            "wiki_title": "Oil reserves"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3594, 
+                    "end": 3599, 
+                    "score": 0.09710947424173355, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 960833, 
+            "wiki_title": "Jamal Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 583, 
+                    "end": 592, 
+                    "score": 0.275100439786911, 
+                    "spot": "drug test"
+                }, 
+                {
+                    "begin": 2775, 
+                    "end": 2784, 
+                    "score": 0.10756757110357285, 
+                    "spot": "drug test"
+                }
+            ], 
+            "wiki_id": 986871, 
+            "wiki_title": "Drug test"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4185, 
+                    "end": 4208, 
+                    "score": 0.5, 
+                    "spot": "Santa Monica Track Club"
+                }
+            ], 
+            "wiki_id": 27062452, 
+            "wiki_title": "Santa Monica Track Club"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3817, 
+                    "end": 3822, 
+                    "score": 0.0985170379281044, 
+                    "spot": "clean"
+                }, 
+                {
+                    "begin": 4394, 
+                    "end": 4399, 
+                    "score": 0.003248517867177725, 
+                    "spot": "clean"
+                }
+            ], 
+            "wiki_id": 4835266, 
+            "wiki_title": "Clean technology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2242, 
+                    "end": 2246, 
+                    "score": 0.08263072371482849, 
+                    "spot": "mark"
+                }
+            ], 
+            "wiki_id": 96637, 
+            "wiki_title": "Confidence trick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5163, 
+                    "end": 5166, 
+                    "score": 0.08224979788064957, 
+                    "spot": "Ben"
+                }
+            ], 
+            "wiki_id": 4955606, 
+            "wiki_title": "Ben Linus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 721, 
+                    "end": 726, 
+                    "score": 0.17261861264705658, 
+                    "spot": "sport"
+                }, 
+                {
+                    "begin": 2448, 
+                    "end": 2457, 
+                    "score": 0.1315961480140686, 
+                    "spot": "Athletics"
+                }, 
+                {
+                    "begin": 2937, 
+                    "end": 2942, 
+                    "score": 0.09790565818548203, 
+                    "spot": "sport"
+                }, 
+                {
+                    "begin": 3848, 
+                    "end": 3856, 
+                    "score": 0.04547109454870224, 
+                    "spot": "athletes"
+                }, 
+                {
+                    "begin": 5899, 
+                    "end": 5904, 
+                    "score": 0.10559477657079697, 
+                    "spot": "sport"
+                }, 
+                {
+                    "begin": 6044, 
+                    "end": 6049, 
+                    "score": 0.11567456275224686, 
+                    "spot": "sport"
+                }
+            ], 
+            "wiki_id": 25778403, 
+            "wiki_title": "Sport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4134, 
+                    "end": 4143, 
+                    "score": 0.07213690876960754, 
+                    "spot": "last week"
+                }
+            ], 
+            "wiki_id": 41923028, 
+            "wiki_title": "Last Week Tonight with John Oliver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2033, 
+                    "end": 2039, 
+                    "score": 0.09074410796165466, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 317524, 
+            "wiki_title": "Action (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 418, 
+                    "end": 422, 
+                    "score": 0.05627530813217163, 
+                    "spot": "Look"
+                }, 
+                {
+                    "begin": 5299, 
+                    "end": 5303, 
+                    "score": 0.07094597816467285, 
+                    "spot": "Look"
+                }
+            ], 
+            "wiki_id": 5557770, 
+            "wiki_title": "Look (American magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2130, 
+                    "end": 2137, 
+                    "score": 0.0031582918018102646, 
+                    "spot": "comment"
+                }
+            ], 
+            "wiki_id": 8592308, 
+            "wiki_title": "Comment (computer programming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 239, 
+                    "score": 0.07569446414709091, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 3613092, 
+            "wiki_title": "NBC Sunday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3669, 
+                    "end": 3678, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 29247913, 
+            "wiki_title": "In the Beginning (The Byrds album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4722, 
+                    "end": 4726, 
+                    "score": 0.07383550703525543, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 29450657, 
+            "wiki_title": "S&amp;M (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6731, 
+                    "end": 6736, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 1845196, 
+            "wiki_title": "Samuel Lewis (publisher)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5157, 
+                    "end": 5162, 
+                    "score": 0.06215652450919151, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 27748226, 
+            "wiki_title": "Jeopardy!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2343, 
+                    "end": 2351, 
+                    "score": 0.0012518493458628654, 
+                    "spot": "finished"
+                }
+            ], 
+            "wiki_id": 36450148, 
+            "wiki_title": "Finished (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 929, 
+                    "end": 936, 
+                    "score": 0.35744941234588623, 
+                    "spot": "steroid"
+                }, 
+                {
+                    "begin": 5622, 
+                    "end": 5630, 
+                    "score": 0.114603690803051, 
+                    "spot": "steroids"
+                }
+            ], 
+            "wiki_id": 141922, 
+            "wiki_title": "Steroid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3540, 
+                    "end": 3544, 
+                    "score": 0.14395713806152344, 
+                    "spot": "beat"
+                }
+            ], 
+            "wiki_id": 387230, 
+            "wiki_title": "Beat (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4794, 
+                    "end": 4806, 
+                    "score": 0.5, 
+                    "spot": "for anything"
+                }
+            ], 
+            "wiki_id": 31221547, 
+            "wiki_title": "A for Anything"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 297, 
+                    "end": 304, 
+                    "score": 0.12278575450181961, 
+                    "spot": "sponsor"
+                }
+            ], 
+            "wiki_id": 545607, 
+            "wiki_title": "Sponsor (commercial)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1828, 
+                    "end": 1835, 
+                    "score": 0.10218359529972076, 
+                    "spot": "stories"
+                }
+            ], 
+            "wiki_id": 255991, 
+            "wiki_title": "Narrative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 337, 
+                    "end": 339, 
+                    "score": 0.0007055374444462359, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6241, 
+                    "end": 6254, 
+                    "score": 0.013296796940267086, 
+                    "spot": "single person"
+                }
+            ], 
+            "wiki_id": 1169017, 
+            "wiki_title": "Single person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6148, 
+                    "end": 6153, 
+                    "score": 0.10929863899946213, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5950, 
+                    "end": 5957, 
+                    "score": 0.0006747274310328066, 
+                    "spot": "realize"
+                }
+            ], 
+            "wiki_id": 15672931, 
+            "wiki_title": "Realize (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1932, 
+                    "end": 1939, 
+                    "score": 0.15839020907878876, 
+                    "spot": "promise"
+                }
+            ], 
+            "wiki_id": 638369, 
+            "wiki_title": "Promise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3277, 
+                    "end": 3282, 
+                    "score": 0.16343188285827637, 
+                    "spot": "human"
+                }
+            ], 
+            "wiki_id": 682482, 
+            "wiki_title": "Human"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 145, 
+                    "score": 0.29568198323249817, 
+                    "spot": "Seoul Olympics"
+                }
+            ], 
+            "wiki_id": 82757, 
+            "wiki_title": "1988 Summer Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4745, 
+                    "end": 4749, 
+                    "score": 0.17248597741127014, 
+                    "spot": "fact"
+                }
+            ], 
+            "wiki_id": 20588095, 
+            "wiki_title": "Fact (UK magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4522, 
+                    "end": 4525, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 2020378, 
+            "wiki_title": "Tennis scoring system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 869, 
+                    "end": 876, 
+                    "score": 0.17905835807323456, 
+                    "spot": "Francis"
+                }
+            ], 
+            "wiki_id": 636350, 
+            "wiki_title": "Francis Darwin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6477, 
+                    "end": 6495, 
+                    "score": 0.2944577932357788, 
+                    "spot": "Martin Luther King"
+                }
+            ], 
+            "wiki_id": 20076, 
+            "wiki_title": "Martin Luther King, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3359, 
+                    "end": 3372, 
+                    "score": 0.24635158479213715, 
+                    "spot": "muscle tissue"
+                }
+            ], 
+            "wiki_id": 19723734, 
+            "wiki_title": "Muscle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2496, 
+                    "end": 2508, 
+                    "score": 0.07280638068914413, 
+                    "spot": "world record"
+                }
+            ], 
+            "wiki_id": 3443107, 
+            "wiki_title": "List of world records in athletics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2945, 
+                    "end": 2950, 
+                    "score": 0.07086975872516632, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 3825, 
+                    "end": 3830, 
+                    "score": 0.13353443145751953, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 4145, 
+                    "end": 4150, 
+                    "score": 0.13089768588542938, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 55964, 
+            "wiki_title": "Lennox Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6501, 
+                    "end": 6505, 
+                    "score": 0.13425657153129578, 
+                    "spot": "once"
+                }
+            ], 
+            "wiki_id": 8167162, 
+            "wiki_title": "Once (Pearl Jam song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3628, 
+                    "end": 3636, 
+                    "score": 0.00444205105304718, 
+                    "spot": "infested"
+                }
+            ], 
+            "wiki_id": 406672, 
+            "wiki_title": "Animal Planet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1749, 
+                    "end": 1754, 
+                    "score": 0.0013730735518038273, 
+                    "spot": "wrong"
+                }
+            ], 
+            "wiki_id": 20809766, 
+            "wiki_title": "Wrong (Depeche Mode song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2222, 
+                    "end": 2229, 
+                    "score": 0.0010542168747633696, 
+                    "spot": "revoked"
+                }
+            ], 
+            "wiki_id": 296365, 
+            "wiki_title": "Revocation list"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6752, 
+                    "end": 6762, 
+                    "score": 0.017307693138718605, 
+                    "spot": "if I can't"
+                }
+            ], 
+            "wiki_id": 1956787, 
+            "wiki_title": "If I Can't"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1848, 
+                    "end": 1855, 
+                    "score": 0.13782401382923126, 
+                    "spot": "Charlie"
+                }
+            ], 
+            "wiki_id": 5142, 
+            "wiki_title": "Charlie Chaplin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1411, 
+                    "end": 1423, 
+                    "score": 0.07280638068914413, 
+                    "spot": "world record"
+                }
+            ], 
+            "wiki_id": 4380391, 
+            "wiki_title": "World record"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6679, 
+                    "end": 6688, 
+                    "score": 0.03905325382947922, 
+                    "spot": "big thing"
+                }
+            ], 
+            "wiki_id": 1048168, 
+            "wiki_title": "Big Thing (Duran Duran album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6191, 
+                    "end": 6198, 
+                    "score": 0.004414186347275972, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 4814950, 
+            "wiki_title": "Believe (Cher song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 15, 
+                    "score": 0.8997350931167603, 
+                    "spot": "Carl Lewis"
+                }, 
+                {
+                    "begin": 1561, 
+                    "end": 1571, 
+                    "score": 0.5, 
+                    "spot": "Carl Lewis"
+                }
+            ], 
+            "wiki_id": 67127, 
+            "wiki_title": "Carl Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 405, 
+                    "end": 410, 
+                    "score": 0.06297404319047928, 
+                    "spot": "P>\n\"I"
+                }, 
+                {
+                    "begin": 4713, 
+                    "end": 4718, 
+                    "score": 0.009513742290437222, 
+                    "spot": "P>\n\"I"
+                }, 
+                {
+                    "begin": 5151, 
+                    "end": 5156, 
+                    "score": 0.06969628483057022, 
+                    "spot": "P>\n\"I"
+                }
+            ], 
+            "wiki_id": 432612, 
+            "wiki_title": "Seattle Post-Intelligencer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3399, 
+                    "end": 3403, 
+                    "score": 0.03638499975204468, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 3869329, 
+            "wiki_title": "Help! (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3861, 
+                    "end": 3863, 
+                    "score": 0.17771130800247192, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 14335899, 
+            "wiki_title": "Doctor of Osteopathic Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5978, 
+                    "end": 5986, 
+                    "score": 0.003239740850403905, 
+                    "spot": "leave it"
+                }
+            ], 
+            "wiki_id": 9276541, 
+            "wiki_title": "Leave It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1362, 
+                    "end": 1367, 
+                    "score": 0.06115823984146118, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 13017, 
+            "wiki_title": "Gilbert N. Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3256, 
+                    "end": 3265, 
+                    "score": 0.3324873149394989, 
+                    "spot": "pituitary"
+                }, 
+                {
+                    "begin": 3256, 
+                    "end": 3273, 
+                    "score": 0.4331970810890198, 
+                    "spot": "pituitary \nglands"
+                }
+            ], 
+            "wiki_id": 57925, 
+            "wiki_title": "Pituitary gland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6343, 
+                    "end": 6353, 
+                    "score": 0.014794888906180859, 
+                    "spot": "conviction"
+                }
+            ], 
+            "wiki_id": 3478639, 
+            "wiki_title": "Conviction (2006 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3929, 
+                    "end": 3933, 
+                    "score": 0.0014563171425834298, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 5090199, 
+            "wiki_title": "Length overall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6354, 
+                    "end": 6359, 
+                    "score": 0.10818812996149063, 
+                    "spot": "comes"
+                }
+            ], 
+            "wiki_id": 888207, 
+            "wiki_title": "Etymology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 696, 
+                    "end": 703, 
+                    "score": 0.00674307020381093, 
+                    "spot": "inquiry"
+                }, 
+                {
+                    "begin": 3715, 
+                    "end": 3722, 
+                    "score": 0.029736684635281563, 
+                    "spot": "inquiry"
+                }
+            ], 
+            "wiki_id": 3657365, 
+            "wiki_title": "Inquiry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1913, 
+                    "end": 1918, 
+                    "score": 0.22598637640476227, 
+                    "spot": "wrong"
+                }
+            ], 
+            "wiki_id": 276167, 
+            "wiki_title": "Wrongdoing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6410, 
+                    "end": 6417, 
+                    "score": 0.07439518719911575, 
+                    "spot": "beliefs"
+                }
+            ], 
+            "wiki_id": 52547, 
+            "wiki_title": "Jehovah's Witnesses"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 231, 
+                    "score": 0.054381683468818665, 
+                    "spot": "interview"
+                }
+            ], 
+            "wiki_id": 236975, 
+            "wiki_title": "Interview"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5605, 
+                    "end": 5616, 
+                    "score": 0.0903831347823143, 
+                    "spot": "Some people"
+                }
+            ], 
+            "wiki_id": 32220114, 
+            "wiki_title": "Some People (LeAnn Rimes song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3962, 
+                    "end": 3969, 
+                    "score": 0.0013071733992546797, 
+                    "spot": "refused"
+                }
+            ], 
+            "wiki_id": 599741, 
+            "wiki_title": "Refused"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1372, 
+                    "end": 1380, 
+                    "score": 0.027392487972974777, 
+                    "spot": "finished"
+                }, 
+                {
+                    "begin": 4482, 
+                    "end": 4491, 
+                    "score": 0.0007748620118945837, 
+                    "spot": "finishing"
+                }
+            ], 
+            "wiki_id": 7556696, 
+            "wiki_title": "Examen artium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3530, 
+                    "end": 3536, 
+                    "score": 0.18305703997612, 
+                    "spot": "wanted"
+                }
+            ], 
+            "wiki_id": 27876656, 
+            "wiki_title": "The Wanted"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6864, 
+                    "end": 6870, 
+                    "score": 0.21451053023338318, 
+                    "spot": "legacy"
+                }, 
+                {
+                    "begin": 6877, 
+                    "end": 6881, 
+                    "score": 0.20875313878059387, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1739, 
+                    "end": 1748, 
+                    "score": 0.0014701798791065812, 
+                    "spot": "committed"
+                }
+            ], 
+            "wiki_id": 15416, 
+            "wiki_title": "Involuntary commitment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1586, 
+                    "end": 1597, 
+                    "score": 0.5, 
+                    "spot": "Ben Johnson"
+                }
+            ], 
+            "wiki_id": 438651, 
+            "wiki_title": "Ben Johnson (actor)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6582, 
+                    "end": 6591, 
+                    "score": 0.035235267132520676, 
+                    "spot": "sacrifice"
+                }
+            ], 
+            "wiki_id": 6487461, 
+            "wiki_title": "Sacrifice (Elton John song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5070, 
+                    "end": 5077, 
+                    "score": 0.05069201439619064, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 9355587, 
+            "wiki_title": "Example (musician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5565, 
+                    "end": 5572, 
+                    "score": 0.3465336561203003, 
+                    "spot": "cocaine"
+                }
+            ], 
+            "wiki_id": 7701, 
+            "wiki_title": "Cocaine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4768, 
+                    "end": 4776, 
+                    "score": 0.01302605215460062, 
+                    "spot": "I can be"
+                }
+            ], 
+            "wiki_id": 17058932, 
+            "wiki_title": "I Can Be (Taio Cruz song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 259, 
+                    "end": 267, 
+                    "score": 0.24485869705677032, 
+                    "spot": "Marathon"
+                }
+            ], 
+            "wiki_id": 49132, 
+            "wiki_title": "Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5587, 
+                    "end": 5591, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 3343584, 
+            "wiki_title": "Want"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4431, 
+                    "end": 4436, 
+                    "score": 0.11433087289333344, 
+                    "spot": "clean"
+                }
+            ], 
+            "wiki_id": 162707, 
+            "wiki_title": "Singing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6183, 
+                    "end": 6198, 
+                    "score": 0.15839694440364838, 
+                    "spot": "I still believe"
+                }
+            ], 
+            "wiki_id": 2967328, 
+            "wiki_title": "I Still Believe (Brenda K. Starr song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5542, 
+                    "end": 5548, 
+                    "score": 0.10228823125362396, 
+                    "spot": "denial"
+                }
+            ], 
+            "wiki_id": 1631852, 
+            "wiki_title": "Denial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5286, 
+                    "end": 5297, 
+                    "score": 0.028070176020264626, 
+                    "spot": "Don't do it"
+                }
+            ], 
+            "wiki_id": 12127027, 
+            "wiki_title": "Don't Do It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4879, 
+                    "end": 4884, 
+                    "score": 0.19753965735435486, 
+                    "spot": "merit"
+                }
+            ], 
+            "wiki_id": 20971, 
+            "wiki_title": "Meritocracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2554, 
+                    "end": 2562, 
+                    "score": 0.1661723554134369, 
+                    "spot": "sprinter"
+                }
+            ], 
+            "wiki_id": 1047044, 
+            "wiki_title": "Mercedes-Benz Sprinter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5550, 
+                    "end": 5558, 
+                    "score": 0.047441888600587845, 
+                    "spot": "Somebody"
+                }
+            ], 
+            "wiki_id": 5550207, 
+            "wiki_title": "Long Road Out of Eden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1722, 
+                    "end": 1725, 
+                    "score": 0.13431483507156372, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3857, 
+                    "end": 3860, 
+                    "score": 0.07694815844297409, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 4074, 
+                    "end": 4077, 
+                    "score": 0.12091168016195297, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5736, 
+                    "end": 5739, 
+                    "score": 0.04949825257062912, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3337, 
+                    "end": 3343, 
+                    "score": 0.2580114006996155, 
+                    "spot": "induce"
+                }
+            ], 
+            "wiki_id": 553121, 
+            "wiki_title": "Regulation of gene expression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2296, 
+                    "end": 2321, 
+                    "score": 0.25513195991516113, 
+                    "spot": "1987 World \nChampionships"
+                }
+            ], 
+            "wiki_id": 801247, 
+            "wiki_title": "1987 World Championships in Athletics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2337, 
+                    "end": 2342, 
+                    "score": 0.09190317988395691, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 2099255, 
+            "wiki_title": "Lewis (lifting appliance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 192, 
+                    "end": 197, 
+                    "score": 0.03663289174437523, 
+                    "spot": "caged"
+                }
+            ], 
+            "wiki_id": 187086, 
+            "wiki_title": "Caged"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4369, 
+                    "end": 4374, 
+                    "score": 0.06336510926485062, 
+                    "spot": "image"
+                }
+            ], 
+            "wiki_id": 233009, 
+            "wiki_title": "Reputation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1773, 
+                    "end": 1780, 
+                    "score": 0.007381822913885117, 
+                    "spot": "way out"
+                }
+            ], 
+            "wiki_id": 15334729, 
+            "wiki_title": "Way Out (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2743, 
+                    "end": 2748, 
+                    "score": 0.06043723225593567, 
+                    "spot": "stand"
+                }
+            ], 
+            "wiki_id": 1172862, 
+            "wiki_title": "Stand!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2879, 
+                    "end": 2890, 
+                    "score": 0.0007357750437222421, 
+                    "spot": "withdrawing"
+                }
+            ], 
+            "wiki_id": 1531454, 
+            "wiki_title": "Withdrawal (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1679, 
+                    "end": 1684, 
+                    "score": 0.025651173666119576, 
+                    "spot": "sound"
+                }
+            ], 
+            "wiki_id": 70318, 
+            "wiki_title": "Sound film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 205, 
+                    "end": 210, 
+                    "score": 0.09456416964530945, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 2640, 
+                    "end": 2645, 
+                    "score": 0.12306100130081177, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 4263, 
+                    "end": 4268, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 6419, 
+                    "end": 6424, 
+                    "score": 0.1327875852584839, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 5813, 
+            "wiki_title": "C. S. Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5690, 
+                    "end": 5692, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 19230848, 
+            "wiki_title": "Ra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2738, 
+                    "end": 2742, 
+                    "score": 0.04214402288198471, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4355, 
+                    "end": 4359, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6638, 
+                    "end": 6643, 
+                    "score": 0.0005153461243025959, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 6254870, 
+            "wiki_title": "Michael Small"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 782, 
+                    "end": 787, 
+                    "score": 0.07434418797492981, 
+                    "spot": "coach"
+                }
+            ], 
+            "wiki_id": 626967, 
+            "wiki_title": "Coach (sport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6397, 
+                    "end": 6405, 
+                    "score": 0.0018884369637817144, 
+                    "spot": "stand by"
+                }
+            ], 
+            "wiki_id": 31166273, 
+            "wiki_title": "Stand By (Senit song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1600, 
+                    "end": 1605, 
+                    "score": 0.05253077670931816, 
+                    "spot": "drink"
+                }
+            ], 
+            "wiki_id": 2965, 
+            "wiki_title": "Alcoholism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1465, 
+                    "end": 1476, 
+                    "score": 0.036185890436172485, 
+                    "spot": "gold \nmedal"
+                }
+            ], 
+            "wiki_id": 354367, 
+            "wiki_title": "Olympic medal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5059, 
+                    "end": 5066, 
+                    "score": 0.07722783088684082, 
+                    "spot": "setting"
+                }
+            ], 
+            "wiki_id": 9995, 
+            "wiki_title": "EastEnders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2527, 
+                    "end": 2534, 
+                    "score": 0.059990569949150085, 
+                    "spot": "Francis"
+                }
+            ], 
+            "wiki_id": 1687680, 
+            "wiki_title": "Pope Francis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4384, 
+                    "end": 4390, 
+                    "score": 0.010136188939213753, 
+                    "spot": "Evelyn"
+                }
+            ], 
+            "wiki_id": 63376, 
+            "wiki_title": "Evelyn Waugh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3302, 
+                    "end": 3307, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 144089, 
+            "wiki_title": "Eminent domain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 612, 
+                    "end": 627, 
+                    "score": 0.10930120199918747, 
+                    "spot": "positive result"
+                }, 
+                {
+                    "begin": 1510, 
+                    "end": 1516, 
+                    "score": 0.10143747925758362, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 30284, 
+            "wiki_title": "Statistical hypothesis testing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4404, 
+                    "end": 4407, 
+                    "score": 0.09168016910552979, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 2827351, 
+            "wiki_title": "She (Charles Aznavour song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4338, 
+                    "end": 4341, 
+                    "score": 0.010517369955778122, 
+                    "spot": "don"
+                }, 
+                {
+                    "begin": 5371, 
+                    "end": 5374, 
+                    "score": 0.13005077838897705, 
+                    "spot": "Don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 727, 
+                    "end": 733, 
+                    "score": 0.10937351733446121, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 2138, 
+                    "end": 2144, 
+                    "score": 0.09089917689561844, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1662, 
+                    "end": 1670, 
+                    "score": 0.05515412241220474, 
+                    "spot": "attorney"
+                }
+            ], 
+            "wiki_id": 17541, 
+            "wiki_title": "Lawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1336, 
+                    "end": 1340, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 3755059, 
+            "wiki_title": "Area (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2263, 
+                    "end": 2269, 
+                    "score": 0.0005399643559940159, 
+                    "spot": "stands"
+                }
+            ], 
+            "wiki_id": 148881, 
+            "wiki_title": "JoJo's Bizarre Adventure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4683, 
+                    "end": 4688, 
+                    "score": 0.049470290541648865, 
+                    "spot": "happy"
+                }
+            ], 
+            "wiki_id": 169409, 
+            "wiki_title": "Happiness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4304, 
+                    "end": 4310, 
+                    "score": 0.14613887667655945, 
+                    "spot": "victim"
+                }
+            ], 
+            "wiki_id": 34312203, 
+            "wiki_title": "The Victim (1916 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1860, 
+                    "end": 1863, 
+                    "score": 0.12980930507183075, 
+                    "spot": "Ben"
+                }
+            ], 
+            "wiki_id": 159599, 
+            "wiki_title": "Ben Affleck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6123, 
+                    "end": 6130, 
+                    "score": 0.004815409425646067, 
+                    "spot": "it's me"
+                }
+            ], 
+            "wiki_id": 23943730, 
+            "wiki_title": "It's Me (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2731, 
+                    "end": 2737, 
+                    "score": 0.018102377653121948, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 10958, 
+            "wiki_title": "Fossil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4246, 
+                    "end": 4249, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 706580, 
+            "wiki_title": "S.H.E"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5175, 
+                    "end": 5188, 
+                    "score": 0.0017058377852663398, 
+                    "spot": "irresponsible"
+                }
+            ], 
+            "wiki_id": 16305475, 
+            "wiki_title": "Stargate Atlantis (season 3)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5679, 
+                    "end": 5689, 
+                    "score": 0.013888888992369175, 
+                    "spot": "thing. You"
+                }
+            ], 
+            "wiki_id": 1259403, 
+            "wiki_title": "Greatest Hurts: The Best of Jann Arden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4360, 
+                    "end": 4364, 
+                    "score": 0.15630300343036652, 
+                    "spot": "hurt"
+                }
+            ], 
+            "wiki_id": 24373, 
+            "wiki_title": "Pain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1968, 
+                    "end": 1975, 
+                    "score": 0.004881778731942177, 
+                    "spot": "move on"
+                }
+            ], 
+            "wiki_id": 14299351, 
+            "wiki_title": "Move On (1917 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5393, 
+                    "end": 5412, 
+                    "score": 0.10526315867900848, 
+                    "spot": "you know what it is"
+                }
+            ], 
+            "wiki_id": 11343621, 
+            "wiki_title": "You Know What It Is"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 198, 
+                    "end": 202, 
+                    "score": 0.11561170220375061, 
+                    "spot": "lion"
+                }
+            ], 
+            "wiki_id": 5090899, 
+            "wiki_title": "Lion (heraldry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 331, 
+                    "end": 336, 
+                    "score": 0.04506680741906166, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 218926, 
+            "wiki_title": "IAAF World Championships in Athletics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6658, 
+                    "end": 6663, 
+                    "score": 0.011213552206754684, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 30809, 
+            "wiki_title": "The Thing (1982 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 737, 
+                    "end": 744, 
+                    "score": 0.3356042504310608, 
+                    "spot": "Toronto"
+                }
+            ], 
+            "wiki_id": 64646, 
+            "wiki_title": "Toronto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1261, 
+                    "end": 1274, 
+                    "score": 0.15525764226913452, 
+                    "spot": "two witnesses"
+                }
+            ], 
+            "wiki_id": 8815768, 
+            "wiki_title": "Two witnesses"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3295, 
+                    "end": 3298, 
+                    "score": 0.07474707067012787, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 507190, 
+            "wiki_title": "Tin can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 901, 
+                    "end": 905, 
+                    "score": 0.15509873628616333, 
+                    "spot": "fact"
+                }, 
+                {
+                    "begin": 1885, 
+                    "end": 1889, 
+                    "score": 0.22497649490833282, 
+                    "spot": "fact"
+                }
+            ], 
+            "wiki_id": 58617, 
+            "wiki_title": "Fact"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 573, 
+                    "end": 580, 
+                    "score": 0.18292193114757538, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 804, 
+                    "end": 811, 
+                    "score": 0.10088292509317398, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 1061, 
+                    "end": 1068, 
+                    "score": 0.07572336494922638, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 2757, 
+                    "end": 2764, 
+                    "score": 0.2045365273952484, 
+                    "spot": "Johnson"
+                }
+            ], 
+            "wiki_id": 54533, 
+            "wiki_title": "Lyndon B. Johnson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3454, 
+                    "end": 3462, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2282, 
+                    "end": 2288, 
+                    "score": 0.0029344074428081512, 
+                    "spot": "record"
+                }, 
+                {
+                    "begin": 4533, 
+                    "end": 4539, 
+                    "score": 0.0029344074428081512, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 492295, 
+            "wiki_title": "Record (computer science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2616, 
+                    "end": 2618, 
+                    "score": 0.09447090327739716, 
+                    "spot": "If"
+                }, 
+                {
+                    "begin": 2817, 
+                    "end": 2819, 
+                    "score": 0.09447090327739716, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 83139, 
+            "wiki_title": "Intermediate frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6215, 
+                    "end": 6225, 
+                    "score": 0.15196171402931213, 
+                    "spot": "all I want"
+                }
+            ], 
+            "wiki_id": 7854464, 
+            "wiki_title": "Wet Wet Wet: The Greatest Hits"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3881, 
+                    "end": 3886, 
+                    "score": 0.0017458100337535143, 
+                    "spot": "I can"
+                }
+            ], 
+            "wiki_id": 30684108, 
+            "wiki_title": "I Can (Blue song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4294, 
+                    "end": 4297, 
+                    "score": 0.14305153489112854, 
+                    "spot": "She"
+                }
+            ], 
+            "wiki_id": 34312501, 
+            "wiki_title": "She (1917 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2923, 
+                    "end": 2928, 
+                    "score": 0.029967816546559334, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 198970, 
+            "wiki_title": "Thing (assembly)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5361, 
+                    "end": 5364, 
+                    "score": 0.08147615939378738, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 464907, 
+            "wiki_title": "You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3887, 
+                    "end": 3891, 
+                    "score": 0.0033116925042122602, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 211183, 
+            "wiki_title": "Tell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3494, 
+                    "end": 3499, 
+                    "score": 0.10467588156461716, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 3896166, 
+            "wiki_title": "Lewis (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 521, 
+                    "end": 526, 
+                    "score": 0.07264558970928192, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 2099, 
+                    "end": 2104, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 2386, 
+                    "end": 2391, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 3946, 
+                    "end": 3951, 
+                    "score": 0.11899504065513611, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 4020, 
+                    "end": 4025, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 4579, 
+                    "end": 4584, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 5090, 
+                    "end": 5095, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 240872, 
+            "wiki_title": "Lewis gun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2409, 
+                    "end": 2418, 
+                    "score": 0.0007770162774249911, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 9167402, 
+            "wiki_title": "Roman magistrate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 660, 
+                    "end": 670, 
+                    "score": 0.5273019075393677, 
+                    "spot": "stanozolol"
+                }, 
+                {
+                    "begin": 1006, 
+                    "end": 1016, 
+                    "score": 0.5492717623710632, 
+                    "spot": "stanozolol"
+                }, 
+                {
+                    "begin": 3191, 
+                    "end": 3201, 
+                    "score": 0.8919609189033508, 
+                    "spot": "stanozolol"
+                }
+            ], 
+            "wiki_id": 775005, 
+            "wiki_title": "Stanozolol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1875, 
+                    "end": 1877, 
+                    "score": 0.03349335119128227, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6389, 
+                    "end": 6392, 
+                    "score": 0.13131357729434967, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1533, 
+                    "end": 1543, 
+                    "score": 0.07649105042219162, 
+                    "spot": "allocation"
+                }
+            ], 
+            "wiki_id": 187192, 
+            "wiki_title": "Frequency allocation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2015, 
+                    "end": 2022, 
+                    "score": 0.0005836205091327429, 
+                    "spot": "present"
+                }
+            ], 
+            "wiki_id": 449612, 
+            "wiki_title": "Present tense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5137, 
+                    "end": 5148, 
+                    "score": 0.015625, 
+                    "spot": "model. \n</P"
+                }
+            ], 
+            "wiki_id": 3713853, 
+            "wiki_title": "Mega Man ZX"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5836, 
+                    "end": 5843, 
+                    "score": 0.16675399243831635, 
+                    "spot": "jumpers"
+                }
+            ], 
+            "wiki_id": 36871, 
+            "wiki_title": "Show jumping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1095, 
+                    "end": 1098, 
+                    "score": 0.08569726347923279, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 2623154, 
+            "wiki_title": "Man (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5644, 
+                    "end": 5648, 
+                    "score": 0.059538837522268295, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 9741824, 
+            "wiki_title": "Want To"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6204, 
+                    "end": 6218, 
+                    "score": 0.010204081423580647, 
+                    "spot": "through it all"
+                }
+            ], 
+            "wiki_id": 48315833, 
+            "wiki_title": "Through It All"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4139, 
+                    "end": 4143, 
+                    "score": 0.07242964953184128, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4730, 
+                    "end": 4735, 
+                    "score": 0.011666666716337204, 
+                    "spot": "grips"
+                }
+            ], 
+            "wiki_id": 407241, 
+            "wiki_title": "Grip (job)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6331, 
+                    "end": 6342, 
+                    "score": 0.0014492754125967622, 
+                    "spot": "deep-rooted"
+                }
+            ], 
+            "wiki_id": 56333, 
+            "wiki_title": "Root"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1041, 
+                    "end": 1048, 
+                    "score": 0.009003099985420704, 
+                    "spot": "Francis"
+                }
+            ], 
+            "wiki_id": 34262992, 
+            "wiki_title": "Francis (1793)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 975, 
+                    "score": 0.0770329013466835, 
+                    "spot": "Games"
+                }, 
+                {
+                    "begin": 4662, 
+                    "end": 4670, 
+                    "score": 0.179205983877182, 
+                    "spot": "Olympian"
+                }
+            ], 
+            "wiki_id": 22576, 
+            "wiki_title": "Olympic Games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4627, 
+                    "end": 4635, 
+                    "score": 0.0007121695671230555, 
+                    "spot": "two days"
+                }
+            ], 
+            "wiki_id": 6629327, 
+            "wiki_title": "Two-A-Days"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4255, 
+                    "end": 4260, 
+                    "score": 0.016564149409532547, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 5237, 
+                    "end": 5242, 
+                    "score": 0.1608065962791443, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 5530, 
+                    "end": 5538, 
+                    "score": 0.20174020528793335, 
+                    "spot": "drug use"
+                }, 
+                {
+                    "begin": 5595, 
+                    "end": 5603, 
+                    "score": 0.16504791378974915, 
+                    "spot": "get high"
+                }
+            ], 
+            "wiki_id": 25949, 
+            "wiki_title": "Recreational drug use"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 118, 
+                    "score": 0.05163060873746872, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 47148916, 
+            "wiki_title": "Last (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4107, 
+                    "end": 4111, 
+                    "score": 0.003874646732583642, 
+                    "spot": "user"
+                }
+            ], 
+            "wiki_id": 23716, 
+            "wiki_title": "Programmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2274, 
+                    "end": 2277, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 5136446, 
+            "wiki_title": "Set (Thompson Twins album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4035, 
+                    "end": 4049, 
+                    "score": 0.5, 
+                    "spot": "Evelyn Ashford"
+                }
+            ], 
+            "wiki_id": 72535, 
+            "wiki_title": "Evelyn Ashford"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4647, 
+                    "end": 4651, 
+                    "score": 0.09649073332548141, 
+                    "spot": "race"
+                }
+            ], 
+            "wiki_id": 3058522, 
+            "wiki_title": "Race and ethnicity in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 912, 
+                    "end": 919, 
+                    "score": 0.08471357822418213, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 2163, 
+                    "end": 2170, 
+                    "score": 0.15573902428150177, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 2486, 
+                    "end": 2493, 
+                    "score": 0.07047893106937408, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 3054, 
+                    "end": 3061, 
+                    "score": 0.12996238470077515, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 3147, 
+                    "end": 3154, 
+                    "score": 0.10375041514635086, 
+                    "spot": "Johnson"
+                }, 
+                {
+                    "begin": 5107, 
+                    "end": 5114, 
+                    "score": 0.094634510576725, 
+                    "spot": "Johnson"
+                }
+            ], 
+            "wiki_id": 36753, 
+            "wiki_title": "Magic Johnson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 947, 
+                    "end": 958, 
+                    "score": 0.0014950750628486276, 
+                    "spot": "three weeks"
+                }
+            ], 
+            "wiki_id": 829451, 
+            "wiki_title": "The Three Weeks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3905, 
+                    "end": 3921, 
+                    "score": 0.14457830786705017, 
+                    "spot": "I've been around"
+                }
+            ], 
+            "wiki_id": 47101453, 
+            "wiki_title": "I've Been Around (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5267, 
+                    "end": 5275, 
+                    "score": 0.23628203570842743, 
+                    "spot": "stand up"
+                }
+            ], 
+            "wiki_id": 103067, 
+            "wiki_title": "Stand-up comedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3650, 
+                    "end": 3655, 
+                    "score": 0.05912766605615616, 
+                    "spot": "users"
+                }
+            ], 
+            "wiki_id": 14539, 
+            "wiki_title": "Internet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6803, 
+                    "end": 6815, 
+                    "score": 0.0013417521258816123, 
+                    "spot": "other people"
+                }
+            ], 
+            "wiki_id": 35911569, 
+            "wiki_title": "The Other People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 823, 
+                    "end": 828, 
+                    "score": 0.1565992385149002, 
+                    "spot": "drunk"
+                }
+            ], 
+            "wiki_id": 8011, 
+            "wiki_title": "Alcohol intoxication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 561, 
+                    "end": 569, 
+                    "score": 0.14548982679843903, 
+                    "spot": "sabotage"
+                }
+            ], 
+            "wiki_id": 29462, 
+            "wiki_title": "Sabotage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 52, 
+                    "end": 79, 
+                    "score": 0.39387401938438416, 
+                    "spot": "performance-enhancing drugs"
+                }, 
+                {
+                    "begin": 3073, 
+                    "end": 3100, 
+                    "score": 0.18597063422203064, 
+                    "spot": "performance-enhancing drugs"
+                }
+            ], 
+            "wiki_id": 7214191, 
+            "wiki_title": "Performance-enhancing drugs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1082, 
+                    "end": 1094, 
+                    "score": 0.0012958669103682041, 
+                    "spot": "unidentified"
+                }
+            ], 
+            "wiki_id": 5989816, 
+            "wiki_title": "Unidentified"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1184, 
+                    "score": 0.125825896859169, 
+                    "spot": "athletes"
+                }, 
+                {
+                    "begin": 3383, 
+                    "end": 3391, 
+                    "score": 0.06256365031003952, 
+                    "spot": "athletes"
+                }, 
+                {
+                    "begin": 3750, 
+                    "end": 3758, 
+                    "score": 0.11189492046833038, 
+                    "spot": "athletes"
+                }, 
+                {
+                    "begin": 3804, 
+                    "end": 3812, 
+                    "score": 0.13738948106765747, 
+                    "spot": "athletes"
+                }
+            ], 
+            "wiki_id": 154164, 
+            "wiki_title": "Athlete"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2568, 
+                    "end": 2573, 
+                    "score": 0.016564149409532547, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 3170, 
+                    "end": 3175, 
+                    "score": 0.25038108229637146, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 3331, 
+                    "end": 3336, 
+                    "score": 0.24082013964653015, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 3576, 
+                    "end": 3581, 
+                    "score": 0.06342990696430206, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 4966, 
+                    "end": 4971, 
+                    "score": 0.13193100690841675, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 5459, 
+                    "end": 5467, 
+                    "score": 0.1774519979953766, 
+                    "spot": "drug use"
+                }
+            ], 
+            "wiki_id": 9311172, 
+            "wiki_title": "Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 150, 
+                    "end": 155, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 510, 
+                    "end": 515, 
+                    "score": 0.0674709677696228, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 675, 
+                    "end": 680, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1021, 
+                    "end": 1026, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1236, 
+                    "end": 1241, 
+                    "score": 0.10321857035160065, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1521, 
+                    "end": 1526, 
+                    "score": 0.1457565724849701, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1840, 
+                    "end": 1845, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2092, 
+                    "end": 2097, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2149, 
+                    "end": 2154, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2379, 
+                    "end": 2384, 
+                    "score": 0.10920584201812744, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2609, 
+                    "end": 2614, 
+                    "score": 0.14610892534255981, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2809, 
+                    "end": 2814, 
+                    "score": 0.14610892534255981, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2967, 
+                    "end": 2972, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3105, 
+                    "end": 3110, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3421, 
+                    "end": 3426, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3587, 
+                    "end": 3592, 
+                    "score": 0.052889857441186905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3777, 
+                    "end": 3782, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3939, 
+                    "end": 3944, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4009, 
+                    "end": 4014, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4213, 
+                    "end": 4218, 
+                    "score": 0.04628828540444374, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4472, 
+                    "end": 4477, 
+                    "score": 0.03582359850406647, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4560, 
+                    "end": 4565, 
+                    "score": 0.08331313729286194, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4709, 
+                    "end": 4714, 
+                    "score": 0.04930248111486435, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5083, 
+                    "end": 5088, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5147, 
+                    "end": 5152, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5418, 
+                    "end": 5423, 
+                    "score": 0.052889857441186905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 5917, 
+                    "end": 5922, 
+                    "score": 0.07295495271682739, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6309, 
+                    "end": 6314, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 6555, 
+                    "end": 6560, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6229, 
+                    "end": 6233, 
+                    "score": 0.06253033131361008, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 2252141, 
+            "wiki_title": "Help! (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1243, 
+                    "end": 1250, 
+                    "score": 0.12074223160743713, 
+                    "spot": "Francis"
+                }, 
+                {
+                    "begin": 3000, 
+                    "end": 3007, 
+                    "score": 0.11266181617975235, 
+                    "spot": "Francis"
+                }
+            ], 
+            "wiki_id": 11638, 
+            "wiki_title": "Francis of Assisi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 123, 
+                    "score": 0.0925590768456459, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 13263345, 
+            "wiki_title": "Pin (amateur wrestling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 857, 
+                    "end": 867, 
+                    "score": 0.44766849279403687, 
+                    "spot": "urinalysis"
+                }
+            ], 
+            "wiki_id": 568003, 
+            "wiki_title": "Urinalysis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5167, 
+                    "end": 5173, 
+                    "score": 0.007017544005066156, 
+                    "spot": "is 110"
+                }
+            ], 
+            "wiki_id": 16158112, 
+            "wiki_title": "\u00c1rb\u00e6r"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3029, 
+                    "end": 3034, 
+                    "score": 0.06600046902894974, 
+                    "spot": "false"
+                }
+            ], 
+            "wiki_id": 1575931, 
+            "wiki_title": "False flag"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1610, 
+                    "end": 1616, 
+                    "score": 0.0906444638967514, 
+                    "spot": "sample"
+                }
+            ], 
+            "wiki_id": 18935758, 
+            "wiki_title": "Sampling (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4620, 
+                    "end": 4626, 
+                    "score": 0.0014999957056716084, 
+                    "spot": "winner"
+                }
+            ], 
+            "wiki_id": 326350, 
+            "wiki_title": "Republican National Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 426, 
+                    "end": 429, 
+                    "score": 0.11798779666423798, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 2029109, 
+            "wiki_title": "Boss (crime)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2668, 
+                    "end": 2680, 
+                    "score": 0.0016816143179312348, 
+                    "spot": "as the world"
+                }
+            ], 
+            "wiki_id": 6711721, 
+            "wiki_title": "As the World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2896, 
+                    "end": 2902, 
+                    "score": 0.051598262041807175, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 4063663, 
+            "wiki_title": "Rede Record"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 843, 
+                    "end": 847, 
+                    "score": 0.16262292861938477, 
+                    "spot": "beer"
+                }, 
+                {
+                    "begin": 1145, 
+                    "end": 1149, 
+                    "score": 0.15075509250164032, 
+                    "spot": "beer"
+                }
+            ], 
+            "wiki_id": 3363, 
+            "wiki_title": "Beer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 893, 
+                    "score": 0.24452701210975647, 
+                    "spot": "theory"
+                }
+            ], 
+            "wiki_id": 198507, 
+            "wiki_title": "Scientific theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1763, 
+                    "end": 1780, 
+                    "score": 0.04054053872823715, 
+                    "spot": "no \nother way out"
+                }
+            ], 
+            "wiki_id": 39230859, 
+            "wiki_title": "No Other Way Out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 247, 
+                    "end": 267, 
+                    "score": 0.5, 
+                    "spot": "Los Angeles Marathon"
+                }
+            ], 
+            "wiki_id": 1574891, 
+            "wiki_title": "Los Angeles Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6722, 
+                    "end": 6728, 
+                    "score": 0.0009062228491529822, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 18393, 
+            "wiki_title": "Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 136, 
+                    "score": 0.512446403503418, 
+                    "spot": "Seoul"
+                }, 
+                {
+                    "begin": 2188, 
+                    "end": 2193, 
+                    "score": 0.3603449761867523, 
+                    "spot": "Seoul"
+                }
+            ], 
+            "wiki_id": 19159283, 
+            "wiki_title": "Seoul"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1695, 
+                    "end": 1704, 
+                    "score": 0.019417475908994675, 
+                    "spot": "last acts"
+                }
+            ], 
+            "wiki_id": 16691815, 
+            "wiki_title": "Last Acts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6540, 
+                    "end": 6550, 
+                    "score": 0.0284190084785223, 
+                    "spot": "sacrifices"
+                }, 
+                {
+                    "begin": 6763, 
+                    "end": 6772, 
+                    "score": 0.035235267132520676, 
+                    "spot": "sacrifice"
+                }
+            ], 
+            "wiki_id": 80329, 
+            "wiki_title": "Sacrifice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2574, 
+                    "end": 2590, 
+                    "score": 0.0026631157379597425, 
+                    "spot": "before the World"
+                }
+            ], 
+            "wiki_id": 42201130, 
+            "wiki_title": "Before the World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2054, 
+                    "end": 2066, 
+                    "score": 0.08304566890001297, 
+                    "spot": "embarrassing"
+                }
+            ], 
+            "wiki_id": 234771, 
+            "wiki_title": "Embarrassment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6068, 
+                    "end": 6070, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 746, 
+                    "end": 762, 
+                    "score": 0.1875, 
+                    "spot": "Charlie \nFrancis"
+                }
+            ], 
+            "wiki_id": 1423501, 
+            "wiki_title": "Charlie Francis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6397, 
+                    "end": 6402, 
+                    "score": 0.16346095502376556, 
+                    "spot": "stand"
+                }
+            ], 
+            "wiki_id": 3355029, 
+            "wiki_title": "Stand (R.E.M. song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3392, 
+                    "end": 3397, 
+                    "score": 0.07397043704986572, 
+                    "spot": "claim"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 40, 
+                    "score": 0.8398358225822449, 
+                    "spot": "Ben Johnson"
+                }
+            ], 
+            "wiki_id": 438638, 
+            "wiki_title": "Ben Johnson (sprinter)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2702, 
+                    "end": 2711, 
+                    "score": 0.015944987535476685, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 553, 
+                    "end": 560, 
+                    "score": 0.04620584100484848, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 2434267, 
+            "wiki_title": "Allegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 493, 
+                    "end": 502, 
+                    "score": 0.07322219014167786, 
+                    "spot": "something"
+                }, 
+                {
+                    "begin": 6596, 
+                    "end": 6605, 
+                    "score": 0.08675529062747955, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1319, 
+                    "end": 1324, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 1655, 
+                    "end": 1660, 
+                    "score": 0.05137917399406433, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 2974, 
+                    "end": 2979, 
+                    "score": 0.18368007242679596, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 4516, 
+                    "end": 4521, 
+                    "score": 0.11927011609077454, 
+                    "spot": "Lewis"
+                }, 
+                {
+                    "begin": 6316, 
+                    "end": 6321, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 394272, 
+            "wiki_title": "David Lewis (philosopher)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 830, 
+                    "end": 842, 
+                    "score": 0.14529025554656982, 
+                    "spot": "contaminated"
+                }
+            ], 
+            "wiki_id": 24872, 
+            "wiki_title": "Pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4842, 
+                    "end": 4847, 
+                    "score": 0.03652340546250343, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 2298740, 
+            "wiki_title": "Conservatism in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5907, 
+                    "end": 5912, 
+                    "score": 0.1109885573387146, 
+                    "spot": "image"
+                }
+            ], 
+            "wiki_id": 71925, 
+            "wiki_title": "Image"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1218, 
+                    "end": 1223, 
+                    "score": 0.19205325841903687, 
+                    "spot": "urine"
+                }
+            ], 
+            "wiki_id": 3938382, 
+            "wiki_title": "Urine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3545, 
+                    "end": 3551, 
+                    "score": 0.2021418809890747, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 4438, 
+                    "end": 4444, 
+                    "score": 0.15296489000320435, 
+                    "spot": "People"
+                }, 
+                {
+                    "begin": 5610, 
+                    "end": 5616, 
+                    "score": 0.13710486888885498, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 5937, 
+                    "end": 5943, 
+                    "score": 0.061423588544130325, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 6809, 
+                    "end": 6815, 
+                    "score": 0.007141638547182083, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1348, 
+                    "end": 1360, 
+                    "score": 0.044225480407476425, 
+                    "spot": "waiting room"
+                }
+            ], 
+            "wiki_id": 22702086, 
+            "wiki_title": "The Waiting Room (2007 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6128, 
+                    "end": 6133, 
+                    "score": 0.001287922146730125, 
+                    "spot": "me. I"
+                }
+            ], 
+            "wiki_id": 17309109, 
+            "wiki_title": "Me and I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4657, 
+                    "end": 4670, 
+                    "score": 0.2455110251903534, 
+                    "spot": "U.S. Olympian"
+                }
+            ], 
+            "wiki_id": 2112059, 
+            "wiki_title": "United States at the Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1708, 
+                    "end": 1721, 
+                    "score": 0.03246753290295601, 
+                    "spot": "desperate men"
+                }
+            ], 
+            "wiki_id": 15231416, 
+            "wiki_title": "Desperate Men Theatre Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6241, 
+                    "end": 6247, 
+                    "score": 0.10988745838403702, 
+                    "spot": "single"
+                }
+            ], 
+            "wiki_id": 156540, 
+            "wiki_title": "Single (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4221, 
+                    "end": 4227, 
+                    "score": 0.0020627062767744064, 
+                    "spot": "No way"
+                }
+            ], 
+            "wiki_id": 41289201, 
+            "wiki_title": "No Way (Rottyful Sky song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5227, 
+                    "end": 5231, 
+                    "score": 0.004019180778414011, 
+                    "spot": "stay"
+                }
+            ], 
+            "wiki_id": 37535316, 
+            "wiki_title": "Stay (Rihanna song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3682, 
+                    "end": 3689, 
+                    "score": 0.04815055429935455, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 369, 
+                    "end": 375, 
+                    "score": 0.09176746755838394, 
+                    "spot": "rounds"
+                }
+            ], 
+            "wiki_id": 337004, 
+            "wiki_title": "Shell (projectile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1050, 
+                    "end": 1059, 
+                    "score": 0.01207364909350872, 
+                    "spot": "testimony"
+                }, 
+                {
+                    "begin": 4124, 
+                    "end": 4133, 
+                    "score": 0.01207364909350872, 
+                    "spot": "testimony"
+                }
+            ], 
+            "wiki_id": 40114214, 
+            "wiki_title": "Witnesses and testimonies of the Armenian Genocide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 659, 
+                    "score": 0.9105247259140015, 
+                    "spot": "anabolic steroid"
+                }, 
+                {
+                    "begin": 3642, 
+                    "end": 3649, 
+                    "score": 0.22959743440151215, 
+                    "spot": "steroid"
+                }, 
+                {
+                    "begin": 4099, 
+                    "end": 4106, 
+                    "score": 0.3431091904640198, 
+                    "spot": "steroid"
+                }
+            ], 
+            "wiki_id": 19218324, 
+            "wiki_title": "Anabolic steroid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4913, 
+                    "end": 4917, 
+                    "score": 0.25711947679519653, 
+                    "spot": "pain"
+                }
+            ], 
+            "wiki_id": 206583, 
+            "wiki_title": "Suffering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6696, 
+                    "end": 6701, 
+                    "score": 0.001244428800418973, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 33134, 
+            "wiki_title": "World music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5729, 
+                    "end": 5734, 
+                    "score": 0.03133341670036316, 
+                    "spot": "Lewis"
+                }
+            ], 
+            "wiki_id": 9656517, 
+            "wiki_title": "Vaden Todd Lewis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5890, 
+                    "end": 5894, 
+                    "score": 0.03878753259778023, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2397, 
+                    "end": 2403, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }, 
+                {
+                    "begin": 2956, 
+                    "end": 2962, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 26671, 
+            "wiki_title": "Sabbath in Christianity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2231, 
+                    "end": 2241, 
+                    "score": 0.0006860279245302081, 
+                    "spot": "his \nworld"
+                }
+            ], 
+            "wiki_id": 2685664, 
+            "wiki_title": "Sonic the Hedgehog (2006 video game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6166, 
+                    "end": 6177, 
+                    "score": 0.06921461969614029, 
+                    "spot": "appearances"
+                }
+            ], 
+            "wiki_id": 60931, 
+            "wiki_title": "Phenomenon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5749, 
+                    "end": 5753, 
+                    "score": 0.1845838576555252, 
+                    "spot": "gold"
+                }
+            ], 
+            "wiki_id": 12240, 
+            "wiki_title": "Gold"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5652, 
+                    "end": 5655, 
+                    "score": 0.04484165832400322, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 300747, 
+            "wiki_title": "Run (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3693, 
+                    "end": 3698, 
+                    "score": 0.04273952916264534, 
+                    "spot": "light"
+                }
+            ], 
+            "wiki_id": 712337, 
+            "wiki_title": "Lightweight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1637, 
+                    "end": 1642, 
+                    "score": 0.05952461436390877, 
+                    "spot": "David"
+                }
+            ], 
+            "wiki_id": 36684, 
+            "wiki_title": "David (Michelangelo)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 165, 
+                    "end": 168, 
+                    "score": 0.10274560749530792, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 165794, 
+            "wiki_title": "In &amp; Out (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5799, 
+                    "end": 5802, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 19969891, 
+            "wiki_title": "One (Australian TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5987, 
+                    "end": 5996, 
+                    "score": 0.07002938538789749, 
+                    "spot": "all alone"
+                }
+            ], 
+            "wiki_id": 3142933, 
+            "wiki_title": "All Alone (Irving Berlin song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 358, 
+                    "score": 0.07197416573762894, 
+                    "spot": "running"
+                }
+            ], 
+            "wiki_id": 276837, 
+            "wiki_title": "Point of sail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4134, 
+                    "end": 4138, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 11493337, 
+            "wiki_title": "The Last (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6016, 
+                    "end": 6022, 
+                    "score": 0.0007554296753369272, 
+                    "spot": "I want"
+                }, 
+                {
+                    "begin": 6219, 
+                    "end": 6228, 
+                    "score": 0.0008013808401301503, 
+                    "spot": "I want to"
+                }
+            ], 
+            "wiki_id": 23376009, 
+            "wiki_title": "I Want To (Do Everything for You)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5656, 
+                    "end": 5662, 
+                    "score": 0.0017376195173710585, 
+                    "spot": "faster"
+                }
+            ], 
+            "wiki_id": 26178276, 
+            "wiki_title": "Faster (2010 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3519, 
+                    "end": 3523, 
+                    "score": 0.09003190696239471, 
+                    "spot": "true"
+                }
+            ], 
+            "wiki_id": 2820377, 
+            "wiki_title": "True (Spandau Ballet song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4115, 
+                    "end": 4122, 
+                    "score": 0.07698273658752441, 
+                    "spot": "Francis"
+                }
+            ], 
+            "wiki_id": 2834960, 
+            "wiki_title": "Francis A. Nixon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6477, 
+                    "end": 6490, 
+                    "score": 0.39944830536842346, 
+                    "spot": "Martin Luther"
+                }
+            ], 
+            "wiki_id": 7567080, 
+            "wiki_title": "Martin Luther"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1095, 
+                    "end": 1102, 
+                    "score": 0.07090888917446136, 
+                    "spot": "man who"
+                }
+            ], 
+            "wiki_id": 1272729, 
+            "wiki_title": "The Man Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1113, 
+                    "end": 1125, 
+                    "score": 0.0018315018387511373, 
+                    "spot": "talking with"
+                }
+            ], 
+            "wiki_id": 6516912, 
+            "wiki_title": "Talking With..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6788, 
+                    "end": 6798, 
+                    "score": 0.005080693401396275, 
+                    "spot": "betterment"
+                }
+            ], 
+            "wiki_id": 2951101, 
+            "wiki_title": "Betterment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6703, 
+                    "end": 6709, 
+                    "score": 0.024147726595401764, 
+                    "spot": "what's"
+                }
+            ], 
+            "wiki_id": 6729234, 
+            "wiki_title": "What's On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2867, 
+                    "end": 2872, 
+                    "score": 0.07332196831703186, 
+                    "spot": "think"
+                }, 
+                {
+                    "begin": 4344, 
+                    "end": 4349, 
+                    "score": 0.0019739822018891573, 
+                    "spot": "think"
+                }, 
+                {
+                    "begin": 5471, 
+                    "end": 5476, 
+                    "score": 0.21840374171733856, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1099, 
+                    "end": 1102, 
+                    "score": 0.15368802845478058, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1401, 
+                    "end": 1404, 
+                    "score": 0.07910400629043579, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3892, 
+                    "end": 3895, 
+                    "score": 0.2517205476760864, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3892, 
+                    "end": 3897, 
+                    "score": 0.16802649199962616, 
+                    "spot": "who's"
+                }, 
+                {
+                    "begin": 4445, 
+                    "end": 4448, 
+                    "score": 0.14166733622550964, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 6378, 
+                    "end": 6381, 
+                    "score": 0.08692331612110138, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 6497, 
+                    "end": 6500, 
+                    "score": 0.2684270441532135, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 789, 
+                    "end": 798, 
+                    "score": 0.08207295089960098, 
+                    "spot": "testified"
+                }, 
+                {
+                    "begin": 2540, 
+                    "end": 2549, 
+                    "score": 0.001681337133049965, 
+                    "spot": "testified"
+                }, 
+                {
+                    "begin": 3009, 
+                    "end": 3018, 
+                    "score": 0.02312522381544113, 
+                    "spot": "testimony"
+                }, 
+                {
+                    "begin": 3125, 
+                    "end": 3134, 
+                    "score": 0.09314418584108353, 
+                    "spot": "testimony"
+                }
+            ], 
+            "wiki_id": 75696, 
+            "wiki_title": "Testimony"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5768, 
+                    "end": 5785, 
+                    "score": 0.23020371794700623, 
+                    "spot": "1984 Summer Games"
+                }
+            ], 
+            "wiki_id": 82762, 
+            "wiki_title": "1984 Summer Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1381, 
+                    "end": 1387, 
+                    "score": 0.05188218876719475, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 32927, 
+            "wiki_title": "World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 424, 
+                    "end": 436, 
+                    "score": 0.006731707137078047, 
+                    "spot": "I don't know"
+                }
+            ], 
+            "wiki_id": 177851, 
+            "wiki_title": "Blizzard of Ozz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1736, 
+                    "end": 1738, 
+                    "score": 0.03465865179896355, 
+                    "spot": "ve"
+                }, 
+                {
+                    "begin": 4719, 
+                    "end": 4721, 
+                    "score": 0.01462466735392809, 
+                    "spot": "ve"
+                }
+            ], 
+            "wiki_id": 215257, 
+            "wiki_title": "Victory in Europe Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1432, 
+                    "end": 1439, 
+                    "score": 0.06290849298238754, 
+                    "spot": "seconds"
+                }, 
+                {
+                    "begin": 2255, 
+                    "end": 2262, 
+                    "score": 0.0017172294901683927, 
+                    "spot": "seconds"
+                }, 
+                {
+                    "begin": 4548, 
+                    "end": 4555, 
+                    "score": 0.07900626957416534, 
+                    "spot": "seconds"
+                }
+            ], 
+            "wiki_id": 26873, 
+            "wiki_title": "Second"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5518, 
+                    "end": 5523, 
+                    "score": 0.3030010461807251, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 47353, 
+            "wiki_title": "Object (philosophy)"
+        }
+    ]
+}

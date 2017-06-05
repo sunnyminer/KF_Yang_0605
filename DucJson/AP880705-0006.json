@@ -1,0 +1,3364 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 4178, 
+                    "end": 4185, 
+                    "score": 0.11020155996084213, 
+                    "spot": "Mumford"
+                }
+            ], 
+            "wiki_id": 314336, 
+            "wiki_title": "Lewis Mumford"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2245, 
+                    "end": 2252, 
+                    "score": 0.20198042690753937, 
+                    "spot": "ignited"
+                }
+            ], 
+            "wiki_id": 5638, 
+            "wiki_title": "Combustion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4070, 
+                    "end": 4081, 
+                    "score": 0.09562254697084427, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 32, 
+                    "end": 36, 
+                    "score": 0.463276207447052, 
+                    "spot": "Utah"
+                }, 
+                {
+                    "begin": 2191, 
+                    "end": 2195, 
+                    "score": 0.329812228679657, 
+                    "spot": "Utah"
+                }
+            ], 
+            "wiki_id": 31716, 
+            "wiki_title": "Utah"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2421, 
+                    "end": 2427, 
+                    "score": 0.02239709533751011, 
+                    "spot": "midday"
+                }
+            ], 
+            "wiki_id": 209005, 
+            "wiki_title": "Noon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 215, 
+                    "end": 222, 
+                    "score": 0.40717822313308716, 
+                    "spot": "Wyoming"
+                }, 
+                {
+                    "begin": 254, 
+                    "end": 261, 
+                    "score": 0.4208016097545624, 
+                    "spot": "Wyoming"
+                }, 
+                {
+                    "begin": 3191, 
+                    "end": 3198, 
+                    "score": 0.3957473635673523, 
+                    "spot": "Wyoming"
+                }
+            ], 
+            "wiki_id": 33611, 
+            "wiki_title": "Wyoming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2914, 
+                    "end": 2920, 
+                    "score": 0.2569443881511688, 
+                    "spot": "forest"
+                }
+            ], 
+            "wiki_id": 16012762, 
+            "wiki_title": "Forestry in Ethiopia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3875, 
+                    "end": 3879, 
+                    "score": 0.09140776097774506, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 1084904, 
+            "wiki_title": "Down feather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3892, 
+                    "end": 3904, 
+                    "score": 0.14580713212490082, 
+                    "spot": "temperatures"
+                }, 
+                {
+                    "begin": 4711, 
+                    "end": 4723, 
+                    "score": 0.16475705802440643, 
+                    "spot": "temperatures"
+                }
+            ], 
+            "wiki_id": 20647050, 
+            "wiki_title": "Temperature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 200, 
+                    "end": 205, 
+                    "score": 0.12066369503736496, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 3412697, 
+            "wiki_title": "Major (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2752, 
+                    "end": 2763, 
+                    "score": 0.015315315686166286, 
+                    "spot": "on the fire"
+                }
+            ], 
+            "wiki_id": 14349341, 
+            "wiki_title": "On the Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3836, 
+                    "end": 3846, 
+                    "score": 0.04711248725652695, 
+                    "spot": "precaution"
+                }
+            ], 
+            "wiki_id": 50354, 
+            "wiki_title": "Precautionary principle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2099, 
+                    "end": 2109, 
+                    "score": 0.2517921030521393, 
+                    "spot": "good\nshape"
+                }, 
+                {
+                    "begin": 2104, 
+                    "end": 2109, 
+                    "score": 0.17018868029117584, 
+                    "spot": "shape"
+                }
+            ], 
+            "wiki_id": 9863036, 
+            "wiki_title": "Shape (Go)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2764, 
+                    "end": 2781, 
+                    "score": 0.10312499850988388, 
+                    "spot": "Tuesday afternoon"
+                }, 
+                {
+                    "begin": 4821, 
+                    "end": 4838, 
+                    "score": 0.10312499850988388, 
+                    "spot": "Tuesday afternoon"
+                }
+            ], 
+            "wiki_id": 16049076, 
+            "wiki_title": "Tuesday Afternoon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2629, 
+                    "end": 2636, 
+                    "score": 0.07334604859352112, 
+                    "spot": "outside"
+                }, 
+                {
+                    "begin": 3051, 
+                    "end": 3058, 
+                    "score": 0.07334604859352112, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 15602770, 
+            "wiki_title": "Outside (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2594, 
+                    "end": 2598, 
+                    "score": 0.07215577363967896, 
+                    "spot": "rain"
+                }, 
+                {
+                    "begin": 3365, 
+                    "end": 3369, 
+                    "score": 0.01926732249557972, 
+                    "spot": "Rain"
+                }
+            ], 
+            "wiki_id": 19009110, 
+            "wiki_title": "Rain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1086, 
+                    "end": 1108, 
+                    "score": 0.5, 
+                    "spot": "Yosemite National Park"
+                }
+            ], 
+            "wiki_id": 48664, 
+            "wiki_title": "Yosemite National Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2511, 
+                    "end": 2540, 
+                    "score": 0.7798693180084229, 
+                    "spot": "Absaroka-Beartooth Wilderness"
+                }
+            ], 
+            "wiki_id": 2263757, 
+            "wiki_title": "Absaroka-Beartooth Wilderness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 540, 
+                    "end": 552, 
+                    "score": 0.07425742596387863, 
+                    "spot": "exhaust pipe"
+                }, 
+                {
+                    "begin": 4098, 
+                    "end": 4110, 
+                    "score": 0.3143104016780853, 
+                    "spot": "exhaust pipe"
+                }
+            ], 
+            "wiki_id": 1688648, 
+            "wiki_title": "Exhaust system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 64, 
+                    "score": 0.0011110804043710232, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 2803724, 
+            "wiki_title": "Book design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1218, 
+                    "end": 1222, 
+                    "score": 0.10478100180625916, 
+                    "spot": "Mary"
+                }
+            ], 
+            "wiki_id": 20709, 
+            "wiki_title": "Mary II of England"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 372, 
+                    "end": 378, 
+                    "score": 0.15772971510887146, 
+                    "spot": "cabins"
+                }
+            ], 
+            "wiki_id": 908397, 
+            "wiki_title": "Cottage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4684, 
+                    "end": 4690, 
+                    "score": 0.14356058835983276, 
+                    "spot": "Rising"
+                }
+            ], 
+            "wiki_id": 190919, 
+            "wiki_title": "Sunrise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2230, 
+                    "end": 2234, 
+                    "score": 0.04487967863678932, 
+                    "spot": "Zion"
+                }
+            ], 
+            "wiki_id": 743901, 
+            "wiki_title": "Mount Zion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 832, 
+                    "end": 858, 
+                    "score": 0.1898486465215683, 
+                    "spot": "Environmental Conservation"
+                }
+            ], 
+            "wiki_id": 45441, 
+            "wiki_title": "Conservation movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 507, 
+                    "end": 515, 
+                    "score": 0.22736084461212158, 
+                    "spot": "Michigan"
+                }
+            ], 
+            "wiki_id": 31740, 
+            "wiki_title": "University of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2197, 
+                    "end": 2202, 
+                    "score": 0.11314209550619125, 
+                    "spot": "Chief"
+                }
+            ], 
+            "wiki_id": 764281, 
+            "wiki_title": "Chief of police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 95, 
+                    "end": 102, 
+                    "score": 0.02915181592106819, 
+                    "spot": "Tuesday"
+                }, 
+                {
+                    "begin": 4534, 
+                    "end": 4541, 
+                    "score": 0.02915181592106819, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 5326571, 
+            "wiki_title": "ECW (WWE)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 785, 
+                    "end": 793, 
+                    "score": 0.0017061309190467, 
+                    "spot": "regional"
+                }
+            ], 
+            "wiki_id": 66774, 
+            "wiki_title": "Regional planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1460, 
+                    "end": 1472, 
+                    "score": 0.13719572126865387, 
+                    "spot": "firefighters"
+                }, 
+                {
+                    "begin": 3200, 
+                    "end": 3212, 
+                    "score": 0.07354675233364105, 
+                    "spot": "firefighters"
+                }, 
+                {
+                    "begin": 4276, 
+                    "end": 4288, 
+                    "score": 0.16539141535758972, 
+                    "spot": "Firefighters"
+                }, 
+                {
+                    "begin": 4471, 
+                    "end": 4483, 
+                    "score": 0.14863905310630798, 
+                    "spot": "firefighters"
+                }
+            ], 
+            "wiki_id": 146303, 
+            "wiki_title": "Firefighter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4428, 
+                    "end": 4431, 
+                    "score": 0.007542590145021677, 
+                    "spot": "Bob"
+                }
+            ], 
+            "wiki_id": 10311131, 
+            "wiki_title": "BOB (psychedelic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3226, 
+                    "end": 3235, 
+                    "score": 0.0007854035939089954, 
+                    "spot": "reinforce"
+                }
+            ], 
+            "wiki_id": 211960, 
+            "wiki_title": "Reinforcement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2256, 
+                    "end": 2265, 
+                    "score": 0.11431363224983215, 
+                    "spot": "lightning"
+                }
+            ], 
+            "wiki_id": 61344, 
+            "wiki_title": "Lightning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4386, 
+                    "end": 4417, 
+                    "score": 0.1400490403175354, 
+                    "spot": "Department of\nNatural Resources"
+                }
+            ], 
+            "wiki_id": 19850002, 
+            "wiki_title": "Washington State Department of Natural Resources"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3351, 
+                    "end": 3360, 
+                    "score": 0.0012649353593587875, 
+                    "spot": "two weeks"
+                }
+            ], 
+            "wiki_id": 21115040, 
+            "wiki_title": "Two Weeks (All That Remains song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2355, 
+                    "end": 2361, 
+                    "score": 0.15337993204593658, 
+                    "spot": "flames"
+                }
+            ], 
+            "wiki_id": 23615827, 
+            "wiki_title": "Calgary Flames"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4645, 
+                    "end": 4652, 
+                    "score": 0.20782087743282318, 
+                    "spot": "Clayton"
+                }
+            ], 
+            "wiki_id": 127995, 
+            "wiki_title": "Clayton, North Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3093, 
+                    "end": 3103, 
+                    "score": 0.08709677308797836, 
+                    "spot": "after rain"
+                }
+            ], 
+            "wiki_id": 28938360, 
+            "wiki_title": "After the Rain (ballet)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2890, 
+                    "end": 2898, 
+                    "score": 0.0074133677408099174, 
+                    "spot": "District"
+                }
+            ], 
+            "wiki_id": 339716, 
+            "wiki_title": "School district"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3282, 
+                    "end": 3294, 
+                    "score": 0.23624514043331146, 
+                    "spot": "strong winds"
+                }, 
+                {
+                    "begin": 3289, 
+                    "end": 3294, 
+                    "score": 0.3558044135570526, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 365, 
+                    "end": 371, 
+                    "score": 0.18358026444911957, 
+                    "spot": "summer"
+                }
+            ], 
+            "wiki_id": 29392, 
+            "wiki_title": "Summer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2695, 
+                    "end": 2702, 
+                    "score": 0.08231112360954285, 
+                    "spot": "Barnier"
+                }
+            ], 
+            "wiki_id": 595565, 
+            "wiki_title": "Michel Barnier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3540, 
+                    "end": 3549, 
+                    "score": 0.08941052854061127, 
+                    "spot": "northwest"
+                }
+            ], 
+            "wiki_id": 5661710, 
+            "wiki_title": "Northwest District, Portland, Oregon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2880, 
+                    "end": 2889, 
+                    "score": 0.18333333730697632, 
+                    "spot": "Beartooth"
+                }
+            ], 
+            "wiki_id": 41203006, 
+            "wiki_title": "Beartooth (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4555, 
+                    "end": 4562, 
+                    "score": 0.16662676632404327, 
+                    "spot": "terrain"
+                }
+            ], 
+            "wiki_id": 586839, 
+            "wiki_title": "Terrain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1354, 
+                    "end": 1365, 
+                    "score": 0.1735926866531372, 
+                    "spot": "Authorities"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1575, 
+                    "end": 1579, 
+                    "score": 0.09300193935632706, 
+                    "spot": "drop"
+                }
+            ], 
+            "wiki_id": 41068, 
+            "wiki_title": "Drop (liquid)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2297, 
+                    "score": 0.19070947170257568, 
+                    "spot": "burn"
+                }, 
+                {
+                    "begin": 2293, 
+                    "end": 2300, 
+                    "score": 0.18950320780277252, 
+                    "spot": "burn in"
+                }
+            ], 
+            "wiki_id": 1306745, 
+            "wiki_title": "Burn-in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 404, 
+                    "end": 408, 
+                    "score": 0.09774130582809448, 
+                    "spot": "mile"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 794, 
+                    "end": 800, 
+                    "score": 0.17373132705688477, 
+                    "spot": "ranger"
+                }, 
+                {
+                    "begin": 2899, 
+                    "end": 2905, 
+                    "score": 0.1539330780506134, 
+                    "spot": "ranger"
+                }
+            ], 
+            "wiki_id": 499846, 
+            "wiki_title": "Park ranger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4577, 
+                    "end": 4603, 
+                    "score": 0.5, 
+                    "spot": "Los Padres National Forest"
+                }
+            ], 
+            "wiki_id": 2394343, 
+            "wiki_title": "Los Padres National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1113, 
+                    "end": 1121, 
+                    "score": 0.0016370367957279086, 
+                    "spot": "declared"
+                }
+            ], 
+            "wiki_id": 1062267, 
+            "wiki_title": "Declaration and forfeiture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 24, 
+                    "end": 28, 
+                    "score": 0.19329115748405457, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 163, 
+                    "end": 174, 
+                    "score": 0.35182929039001465, 
+                    "spot": "forest fire"
+                }, 
+                {
+                    "begin": 206, 
+                    "end": 211, 
+                    "score": 0.1831972301006317, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 262, 
+                    "end": 266, 
+                    "score": 0.1959405392408371, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 430, 
+                    "end": 434, 
+                    "score": 0.1589738428592682, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 585, 
+                    "end": 596, 
+                    "score": 0.17510445415973663, 
+                    "spot": "brush fires"
+                }, 
+                {
+                    "begin": 1659, 
+                    "end": 1664, 
+                    "score": 0.3453693091869354, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1665, 
+                    "end": 1671, 
+                    "score": 0.22481383383274078, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 1745, 
+                    "end": 1750, 
+                    "score": 0.15413764119148254, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1970, 
+                    "end": 1984, 
+                    "score": 0.2238328456878662, 
+                    "spot": "wildland fires"
+                }, 
+                {
+                    "begin": 2014, 
+                    "end": 2020, 
+                    "score": 0.13738618791103363, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 2492, 
+                    "end": 2496, 
+                    "score": 0.3458497226238251, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 2497, 
+                    "end": 2503, 
+                    "score": 0.3009922504425049, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 3318, 
+                    "end": 3322, 
+                    "score": 0.2892377972602844, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 3598, 
+                    "end": 3603, 
+                    "score": 0.06129777431488037, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 3855, 
+                    "end": 3859, 
+                    "score": 0.1563599854707718, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 4233, 
+                    "end": 4237, 
+                    "score": 0.14717088639736176, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 4367, 
+                    "end": 4374, 
+                    "score": 0.0881662517786026, 
+                    "spot": "burning"
+                }, 
+                {
+                    "begin": 4494, 
+                    "end": 4502, 
+                    "score": 0.644954264163971, 
+                    "spot": "wildfire"
+                }, 
+                {
+                    "begin": 4508, 
+                    "end": 4514, 
+                    "score": 0.32748115062713623, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 4617, 
+                    "end": 4621, 
+                    "score": 0.1008770614862442, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2553, 
+                    "end": 2566, 
+                    "score": 0.2121449112892151, 
+                    "spot": "south-central"
+                }
+            ], 
+            "wiki_id": 6625209, 
+            "wiki_title": "South-Central Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4251, 
+                    "end": 4264, 
+                    "score": 0.001708711264654994, 
+                    "spot": "under control"
+                }
+            ], 
+            "wiki_id": 40743998, 
+            "wiki_title": "Under Control (Calvin Harris and Alesso song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3635, 
+                    "end": 3639, 
+                    "score": 0.004446305800229311, 
+                    "spot": "park"
+                }
+            ], 
+            "wiki_id": 185604, 
+            "wiki_title": "Stadium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2309, 
+                    "end": 2313, 
+                    "score": 0.07541574537754059, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 4569, 
+                    "end": 4573, 
+                    "score": 0.12341547757387161, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1809, 
+                    "score": 0.28600001335144043, 
+                    "spot": "Richard Green"
+                }
+            ], 
+            "wiki_id": 5219237, 
+            "wiki_title": "Richard Green (golfer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2322, 
+                    "end": 2328, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 4315483, 
+            "wiki_title": "Sunday Night Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1378, 
+                    "end": 1385, 
+                    "score": 0.0015738899819552898, 
+                    "spot": "recover"
+                }
+            ], 
+            "wiki_id": 11471082, 
+            "wiki_title": "Recover (Great White album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4528, 
+                    "end": 4533, 
+                    "score": 0.10784834623336792, 
+                    "spot": "brush"
+                }
+            ], 
+            "wiki_id": 2208839, 
+            "wiki_title": "Shrubland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3153, 
+                    "end": 3177, 
+                    "score": 0.7771854400634766, 
+                    "spot": "Shoshone National Forest"
+                }
+            ], 
+            "wiki_id": 2368408, 
+            "wiki_title": "Shoshone National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1052, 
+                    "score": 0.08854328095912933, 
+                    "spot": "blaze"
+                }
+            ], 
+            "wiki_id": 1789927, 
+            "wiki_title": "Trail blazing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 133, 
+                    "end": 146, 
+                    "score": 0.09838709980249405, 
+                    "spot": "hold the line"
+                }
+            ], 
+            "wiki_id": 9216378, 
+            "wiki_title": "Hold the Line"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 318, 
+                    "score": 0.09725655615329742, 
+                    "spot": "National Forest"
+                }, 
+                {
+                    "begin": 488, 
+                    "end": 503, 
+                    "score": 0.09725655615329742, 
+                    "spot": "National Forest"
+                }, 
+                {
+                    "begin": 4588, 
+                    "end": 4603, 
+                    "score": 0.16990680992603302, 
+                    "spot": "National Forest"
+                }
+            ], 
+            "wiki_id": 42653, 
+            "wiki_title": "United States National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3905, 
+                    "end": 3912, 
+                    "score": 0.035546161234378815, 
+                    "spot": "dropped"
+                }
+            ], 
+            "wiki_id": 11778948, 
+            "wiki_title": "Atomic bombings of Hiroshima and Nagasaki"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2652, 
+                    "end": 2660, 
+                    "score": 0.12632669508457184, 
+                    "spot": "boundary"
+                }, 
+                {
+                    "begin": 3074, 
+                    "end": 3082, 
+                    "score": 0.06800708174705505, 
+                    "spot": "boundary"
+                }
+            ], 
+            "wiki_id": 96348, 
+            "wiki_title": "Boundary County, Idaho"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 418, 
+                    "end": 423, 
+                    "score": 0.18306970596313477, 
+                    "spot": "blaze"
+                }, 
+                {
+                    "begin": 1840, 
+                    "end": 1845, 
+                    "score": 0.1384887397289276, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 2235, 
+                    "end": 2240, 
+                    "score": 0.2684415280818939, 
+                    "spot": "blaze"
+                }, 
+                {
+                    "begin": 2371, 
+                    "end": 2375, 
+                    "score": 0.008289387449622154, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 2667, 
+                    "end": 2671, 
+                    "score": 0.17276811599731445, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 2790, 
+                    "end": 2794, 
+                    "score": 0.2582893967628479, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 2804, 
+                    "end": 2811, 
+                    "score": 0.25474363565444946, 
+                    "spot": "burning"
+                }, 
+                {
+                    "begin": 2972, 
+                    "end": 2977, 
+                    "score": 0.17952118813991547, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 3118, 
+                    "end": 3124, 
+                    "score": 0.1602625697851181, 
+                    "spot": "flames"
+                }, 
+                {
+                    "begin": 3258, 
+                    "end": 3263, 
+                    "score": 0.05298507586121559, 
+                    "spot": "blaze"
+                }, 
+                {
+                    "begin": 3332, 
+                    "end": 3339, 
+                    "score": 0.2030041217803955, 
+                    "spot": "burning"
+                }, 
+                {
+                    "begin": 3519, 
+                    "end": 3523, 
+                    "score": 0.24614305794239044, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 3971, 
+                    "end": 3976, 
+                    "score": 0.19190509617328644, 
+                    "spot": "blaze"
+                }, 
+                {
+                    "begin": 4162, 
+                    "end": 4166, 
+                    "score": 0.1088675782084465, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 4314, 
+                    "end": 4319, 
+                    "score": 0.17295235395431519, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 4742, 
+                    "end": 4746, 
+                    "score": 0.14088386297225952, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 11145, 
+            "wiki_title": "Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4060, 
+                    "end": 4068, 
+                    "score": 0.20023983716964722, 
+                    "spot": "Michigan"
+                }
+            ], 
+            "wiki_id": 18859, 
+            "wiki_title": "Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3533, 
+                    "end": 3537, 
+                    "score": 0.17323151230812073, 
+                    "spot": "park"
+                }
+            ], 
+            "wiki_id": 166459, 
+            "wiki_title": "Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3691, 
+                    "end": 3702, 
+                    "score": 0.10233765840530396, 
+                    "spot": "three fires"
+                }
+            ], 
+            "wiki_id": 586109, 
+            "wiki_title": "Council of Three Fires"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4691, 
+                    "end": 4699, 
+                    "score": 0.13392412662506104, 
+                    "spot": "humidity"
+                }
+            ], 
+            "wiki_id": 223970, 
+            "wiki_title": "Relative humidity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3104, 
+                    "end": 3113, 
+                    "score": 0.020527860149741173, 
+                    "spot": "beat down"
+                }
+            ], 
+            "wiki_id": 40715471, 
+            "wiki_title": "Beat Down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4094, 
+                    "end": 4097, 
+                    "score": 0.09078069031238556, 
+                    "spot": "hot"
+                }
+            ], 
+            "wiki_id": 19593167, 
+            "wiki_title": "Heat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 178, 
+                    "end": 185, 
+                    "score": 0.35824254155158997, 
+                    "spot": "Montana"
+                }, 
+                {
+                    "begin": 2484, 
+                    "end": 2491, 
+                    "score": 0.2941967248916626, 
+                    "spot": "Montana"
+                }
+            ], 
+            "wiki_id": 19978, 
+            "wiki_title": "Montana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 557, 
+                    "end": 565, 
+                    "score": 0.0025398668367415667, 
+                    "spot": "Hundreds"
+                }
+            ], 
+            "wiki_id": 1291391, 
+            "wiki_title": "History of Shropshire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3141, 
+                    "end": 3145, 
+                    "score": 0.2811906337738037, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 676811, 
+            "wiki_title": "Conflagration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2746, 
+                    "end": 2751, 
+                    "score": 0.13417117297649384, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 312266, 
+            "wiki_title": "Water pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2042, 
+                    "end": 2044, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1209, 
+                    "score": 0.5, 
+                    "spot": "bottle rocket"
+                }
+            ], 
+            "wiki_id": 524139, 
+            "wiki_title": "Bottle Rocket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 917, 
+                    "end": 935, 
+                    "score": 0.030415430665016174, 
+                    "spot": "all over the place"
+                }
+            ], 
+            "wiki_id": 2464151, 
+            "wiki_title": "All Over the Place (The Bangles album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1512, 
+                    "end": 1515, 
+                    "score": 0.06586871296167374, 
+                    "spot": "cut"
+                }
+            ], 
+            "wiki_id": 1874543, 
+            "wiki_title": "Cut and fill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1231, 
+                    "end": 1242, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }, 
+                {
+                    "begin": 1786, 
+                    "end": 1795, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 1901, 
+                    "end": 1910, 
+                    "score": 0.0372513122856617, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 3477, 
+                    "end": 3488, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }, 
+                {
+                    "begin": 3934, 
+                    "end": 3943, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 4187, 
+                    "end": 4198, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }, 
+                {
+                    "begin": 4418, 
+                    "end": 4427, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 532, 
+                    "end": 547, 
+                    "score": 0.42090585827827454, 
+                    "spot": "vehicle exhaust"
+                }
+            ], 
+            "wiki_id": 840147, 
+            "wiki_title": "Exhaust gas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 980, 
+                    "score": 0.08263888955116272, 
+                    "spot": "fire alarm"
+                }
+            ], 
+            "wiki_id": 4455993, 
+            "wiki_title": "Fire alarm system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 627, 
+                    "end": 634, 
+                    "score": 0.08182279020547867, 
+                    "spot": "weekend"
+                }
+            ], 
+            "wiki_id": 22482823, 
+            "wiki_title": "The Weekend (Steve Wariner song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2737, 
+                    "end": 2745, 
+                    "score": 0.11061598360538483, 
+                    "spot": "dropping"
+                }
+            ], 
+            "wiki_id": 24536042, 
+            "wiki_title": "Feces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3451, 
+                    "end": 3460, 
+                    "score": 0.23822276294231415, 
+                    "spot": "northwest"
+                }
+            ], 
+            "wiki_id": 1919472, 
+            "wiki_title": "Northwestern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2672, 
+                    "end": 2691, 
+                    "score": 0.1217181459069252, 
+                    "spot": "information Officer"
+                }
+            ], 
+            "wiki_id": 5183633, 
+            "wiki_title": "Central Intelligence Agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1497, 
+                    "end": 1502, 
+                    "score": 0.2386893630027771, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 1549583, 
+            "wiki_title": "Local government in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3515, 
+                    "end": 3518, 
+                    "score": 0.12851636111736298, 
+                    "spot": "fan"
+                }
+            ], 
+            "wiki_id": 12877572, 
+            "wiki_title": "Mechanical fan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1140, 
+                    "end": 1147, 
+                    "score": 0.09654802083969116, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 2493699, 
+            "wiki_title": "Working Classical"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3181, 
+                    "end": 3190, 
+                    "score": 0.17697735130786896, 
+                    "spot": "northwest"
+                }
+            ], 
+            "wiki_id": 78147, 
+            "wiki_title": "Pacific Northwest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2530, 
+                    "end": 2545, 
+                    "score": 0.5236892700195312, 
+                    "spot": "Wilderness\nArea"
+                }
+            ], 
+            "wiki_id": 56518, 
+            "wiki_title": "Wilderness area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2214, 
+                    "end": 2220, 
+                    "score": 0.025663740932941437, 
+                    "spot": "Andrew"
+                }
+            ], 
+            "wiki_id": 54764, 
+            "wiki_title": "Andrew Lloyd Webber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3370, 
+                    "end": 3382, 
+                    "score": 0.01504230685532093, 
+                    "spot": "Monday night"
+                }, 
+                {
+                    "begin": 4265, 
+                    "end": 4271, 
+                    "score": 0.10917016118764877, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 120, 
+                    "end": 132, 
+                    "score": 0.02002503164112568, 
+                    "spot": "firefighters"
+                }
+            ], 
+            "wiki_id": 855608, 
+            "wiki_title": "Firefighting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1371, 
+                    "end": 1374, 
+                    "score": 0.07357914745807648, 
+                    "spot": "try"
+                }
+            ], 
+            "wiki_id": 3276812, 
+            "wiki_title": "Trial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2866, 
+                    "end": 2870, 
+                    "score": 0.03567551076412201, 
+                    "spot": "Phil"
+                }
+            ], 
+            "wiki_id": 1045004, 
+            "wiki_title": "Rodolfo Amando Philippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2410, 
+                    "end": 2417, 
+                    "score": 0.004530130419880152, 
+                    "spot": "Tuesday"
+                }, 
+                {
+                    "begin": 4358, 
+                    "end": 4365, 
+                    "score": 0.004530130419880152, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 54635, 
+            "wiki_title": "Tuesday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1691, 
+                    "end": 1701, 
+                    "score": 0.0011117926333099604, 
+                    "spot": "first four"
+                }
+            ], 
+            "wiki_id": 507399, 
+            "wiki_title": "NCAA Men's Division I Basketball Championship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1779, 
+                    "end": 1784, 
+                    "score": 0.03494951128959656, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 569, 
+                    "end": 574, 
+                    "score": 0.11405807733535767, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 1452243, 
+            "wiki_title": "John Kunkel Small"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 289, 
+                    "end": 318, 
+                    "score": 0.5, 
+                    "spot": "Bridger-Teton National Forest"
+                }, 
+                {
+                    "begin": 3809, 
+                    "end": 3822, 
+                    "score": 0.05308561772108078, 
+                    "spot": "Bridger-Teton"
+                }
+            ], 
+            "wiki_id": 2231105, 
+            "wiki_title": "Bridger-Teton National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2154, 
+                    "end": 2160, 
+                    "score": 0.12303689867258072, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2210, 
+                    "end": 2213, 
+                    "score": 0.028390884399414062, 
+                    "spot": "Bob"
+                }
+            ], 
+            "wiki_id": 60534, 
+            "wiki_title": "Shilling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4146, 
+                    "end": 4161, 
+                    "score": 0.3198198080062866, 
+                    "spot": "Upper Peninsula"
+                }, 
+                {
+                    "begin": 4342, 
+                    "end": 4357, 
+                    "score": 0.3198198080062866, 
+                    "spot": "Upper Peninsula"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1562, 
+                    "end": 1571, 
+                    "score": 0.20279593765735626, 
+                    "spot": "airplanes"
+                }
+            ], 
+            "wiki_id": 1396249, 
+            "wiki_title": "Airplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3871, 
+                    "end": 3874, 
+                    "score": 0.1593165546655655, 
+                    "spot": "die"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1058, 
+                    "end": 1063, 
+                    "score": 0.0013493620790541172, 
+                    "spot": "swept"
+                }
+            ], 
+            "wiki_id": 246851, 
+            "wiki_title": "Swept wing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4704, 
+                    "end": 4710, 
+                    "score": 0.0773206278681755, 
+                    "spot": "cooler"
+                }
+            ], 
+            "wiki_id": 798370, 
+            "wiki_title": "Computer cooling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 440, 
+                    "end": 448, 
+                    "score": 0.019556714221835136, 
+                    "spot": "scorched"
+                }
+            ], 
+            "wiki_id": 17349370, 
+            "wiki_title": "Scorched (2008 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1135, 
+                    "end": 1139, 
+                    "score": 0.16073158383369446, 
+                    "spot": "dawn"
+                }
+            ], 
+            "wiki_id": 758638, 
+            "wiki_title": "Tony Orlando and Dawn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 65, 
+                    "end": 79, 
+                    "score": 0.019141079857945442, 
+                    "spot": "out\nof control"
+                }
+            ], 
+            "wiki_id": 19523893, 
+            "wiki_title": "Out of Control (Girls Aloud album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 253, 
+                    "score": 0.06073705106973648, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 428323, 
+            "wiki_title": "United States Court of Appeals for the Third Circuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2145, 
+                    "end": 2150, 
+                    "score": 0.12203714996576309, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 49516748, 
+            "wiki_title": "Taken (2016 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1276, 
+                    "end": 1284, 
+                    "score": 0.0832507461309433, 
+                    "spot": "Forestry"
+                }, 
+                {
+                    "begin": 1638, 
+                    "end": 1646, 
+                    "score": 0.40736252069473267, 
+                    "spot": "Forestry"
+                }, 
+                {
+                    "begin": 1941, 
+                    "end": 1949, 
+                    "score": 0.39331120252609253, 
+                    "spot": "Forestry"
+                }
+            ], 
+            "wiki_id": 53912, 
+            "wiki_title": "Forestry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2692, 
+                    "end": 2694, 
+                    "score": 0.04625394195318222, 
+                    "spot": "Jo"
+                }
+            ], 
+            "wiki_id": 422365, 
+            "wiki_title": "J\u014d"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 911, 
+                    "end": 916, 
+                    "score": 0.048502493649721146, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 20827796, 
+            "wiki_title": "Bushfires in Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 44, 
+                    "end": 57, 
+                    "score": 0.038780827075242996, 
+                    "spot": "National Park"
+                }
+            ], 
+            "wiki_id": 21818, 
+            "wiki_title": "National park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 312, 
+                    "end": 318, 
+                    "score": 0.1862735152244568, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 497, 
+                    "end": 503, 
+                    "score": 0.10000428557395935, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 2858, 
+                    "end": 2864, 
+                    "score": 0.11415145546197891, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 3171, 
+                    "end": 3177, 
+                    "score": 0.18609294295310974, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 3823, 
+                    "end": 3829, 
+                    "score": 0.160893052816391, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 3927, 
+                    "end": 3933, 
+                    "score": 0.09205290675163269, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 4221, 
+                    "end": 4227, 
+                    "score": 0.3293337821960449, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 4597, 
+                    "end": 4603, 
+                    "score": 0.12422103434801102, 
+                    "spot": "Forest"
+                }
+            ], 
+            "wiki_id": 11090, 
+            "wiki_title": "Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 620, 
+                    "end": 626, 
+                    "score": 0.1713605523109436, 
+                    "spot": "July 4"
+                }, 
+                {
+                    "begin": 704, 
+                    "end": 718, 
+                    "score": 0.3373200297355652, 
+                    "spot": "Fourth of July"
+                }, 
+                {
+                    "begin": 1992, 
+                    "end": 2006, 
+                    "score": 0.3205830752849579, 
+                    "spot": "Fourth of July"
+                }
+            ], 
+            "wiki_id": 781729, 
+            "wiki_title": "Independence Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 719, 
+                    "end": 726, 
+                    "score": 0.18777629733085632, 
+                    "spot": "holiday"
+                }, 
+                {
+                    "begin": 4022, 
+                    "end": 4029, 
+                    "score": 0.2191263735294342, 
+                    "spot": "holiday"
+                }
+            ], 
+            "wiki_id": 13279, 
+            "wiki_title": "Holiday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2706, 
+                    "end": 2714, 
+                    "score": 0.16951805353164673, 
+                    "spot": "Billings"
+                }
+            ], 
+            "wiki_id": 1376380, 
+            "wiki_title": "Billings Logan International Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2842, 
+                    "end": 2864, 
+                    "score": 0.5, 
+                    "spot": "Custer\nNational Forest"
+                }
+            ], 
+            "wiki_id": 2303790, 
+            "wiki_title": "Custer National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 753, 
+                    "end": 760, 
+                    "score": 0.07385087013244629, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 42604958, 
+            "wiki_title": "Problem (Ariana Grande song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 898, 
+                    "end": 906, 
+                    "score": 0.07557392865419388, 
+                    "spot": "touching"
+                }
+            ], 
+            "wiki_id": 667206, 
+            "wiki_title": "Touchscreen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2122, 
+                    "end": 2128, 
+                    "score": 0.0018066561315208673, 
+                    "spot": "citing"
+                }
+            ], 
+            "wiki_id": 3107984, 
+            "wiki_title": "Author citation (botany)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4325, 
+                    "end": 4330, 
+                    "score": 0.05911428481340408, 
+                    "spot": "broke"
+                }
+            ], 
+            "wiki_id": 839943, 
+            "wiki_title": "Bone fracture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4729, 
+                    "end": 4737, 
+                    "score": 0.006062500178813934, 
+                    "spot": "checking"
+                }
+            ], 
+            "wiki_id": 567986, 
+            "wiki_title": "Checking (ice hockey)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 660, 
+                    "score": 0.222169429063797, 
+                    "spot": "fireworks"
+                }, 
+                {
+                    "begin": 883, 
+                    "end": 892, 
+                    "score": 0.23096227645874023, 
+                    "spot": "Fireworks"
+                }, 
+                {
+                    "begin": 1865, 
+                    "end": 1874, 
+                    "score": 0.20941269397735596, 
+                    "spot": "fireworks"
+                }, 
+                {
+                    "begin": 2174, 
+                    "end": 2183, 
+                    "score": 0.15850961208343506, 
+                    "spot": "fireworks"
+                }, 
+                {
+                    "begin": 4003, 
+                    "end": 4012, 
+                    "score": 0.2824416160583496, 
+                    "spot": "fireworks"
+                }
+            ], 
+            "wiki_id": 59493, 
+            "wiki_title": "Fireworks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1548, 
+                    "end": 1552, 
+                    "score": 0.17825807631015778, 
+                    "spot": "hand"
+                }
+            ], 
+            "wiki_id": 19166474, 
+            "wiki_title": "Hand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1516, 
+                    "end": 1522, 
+                    "score": 0.13682256639003754, 
+                    "spot": "trails"
+                }, 
+                {
+                    "begin": 3007, 
+                    "end": 3013, 
+                    "score": 0.1727377325296402, 
+                    "spot": "trails"
+                }
+            ], 
+            "wiki_id": 66728, 
+            "wiki_title": "Trail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3944, 
+                    "end": 3948, 
+                    "score": 0.006285429932177067, 
+                    "spot": "Fred"
+                }
+            ], 
+            "wiki_id": 64962, 
+            "wiki_title": "Fred Astaire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1026, 
+                    "score": 0.2005065679550171, 
+                    "spot": "California"
+                }, 
+                {
+                    "begin": 4449, 
+                    "end": 4459, 
+                    "score": 0.17036020755767822, 
+                    "spot": "California"
+                }
+            ], 
+            "wiki_id": 5407, 
+            "wiki_title": "California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 947, 
+                    "score": 0.029588112607598305, 
+                    "spot": "Last night"
+                }
+            ], 
+            "wiki_id": 2053414, 
+            "wiki_title": "Last Night (1998 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3410, 
+                    "end": 3435, 
+                    "score": 0.5, 
+                    "spot": "Yellowstone\nNational Park"
+                }
+            ], 
+            "wiki_id": 34340, 
+            "wiki_title": "Yellowstone National Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2340, 
+                    "end": 2343, 
+                    "score": 0.10658340901136398, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 4682876, 
+            "wiki_title": "Professional degrees of public health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1596, 
+                    "end": 1605, 
+                    "score": 0.23293288052082062, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1156, 
+                    "score": 0.07128999382257462, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 165128, 
+            "wiki_title": "Royal we"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4549, 
+                    "end": 4554, 
+                    "score": 0.10230887681245804, 
+                    "spot": "steep"
+                }
+            ], 
+            "wiki_id": 29368, 
+            "wiki_title": "Slope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1095, 
+                    "end": 1108, 
+                    "score": 0.038780827075242996, 
+                    "spot": "National Park"
+                }
+            ], 
+            "wiki_id": 18541620, 
+            "wiki_title": "National parks and nature reserves of Israel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4257, 
+                    "end": 4264, 
+                    "score": 0.07254985719919205, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 253693, 
+            "wiki_title": "Get Smart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3611, 
+                    "end": 3627, 
+                    "score": 0.008050847798585892, 
+                    "spot": "southern section"
+                }
+            ], 
+            "wiki_id": 6622432, 
+            "wiki_title": "CIF Southern Section"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4331, 
+                    "end": 4334, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 22310, 
+            "wiki_title": "Outing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 866, 
+                    "end": 879, 
+                    "score": 0.2370203137397766, 
+                    "spot": "Hudson Valley"
+                }
+            ], 
+            "wiki_id": 447182, 
+            "wiki_title": "Hudson Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1162, 
+                    "end": 1170, 
+                    "score": 0.11114297807216644, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 2001231, 
+            "wiki_title": "Evidence (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3766, 
+                    "end": 3772, 
+                    "score": 0.02595401741564274, 
+                    "spot": "flames"
+                }
+            ], 
+            "wiki_id": 737240, 
+            "wiki_title": "In Flames"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1580, 
+                    "end": 1594, 
+                    "score": 0.19536423683166504, 
+                    "spot": "fire retardant"
+                }
+            ], 
+            "wiki_id": 2833427, 
+            "wiki_title": "Fire retardant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2329, 
+                    "end": 2333, 
+                    "score": 0.015235010534524918, 
+                    "spot": "wind"
+                }
+            ], 
+            "wiki_id": 277289, 
+            "wiki_title": "Wind power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1344, 
+                    "end": 1352, 
+                    "score": 0.00160633132327348, 
+                    "spot": "she said"
+                }, 
+                {
+                    "begin": 3774, 
+                    "end": 3782, 
+                    "score": 0.00160633132327348, 
+                    "spot": "she said"
+                }
+            ], 
+            "wiki_id": 26449392, 
+            "wiki_title": "She Said"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1327, 
+                    "end": 1333, 
+                    "score": 0.008508233353495598, 
+                    "spot": "combat"
+                }
+            ], 
+            "wiki_id": 5898393, 
+            "wiki_title": "Combat (juggling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4400, 
+                    "end": 4417, 
+                    "score": 0.1850879043340683, 
+                    "spot": "Natural Resources"
+                }
+            ], 
+            "wiki_id": 21675, 
+            "wiki_title": "Natural resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3916, 
+                    "end": 3925, 
+                    "score": 0.10735377669334412, 
+                    "spot": "nighttime"
+                }
+            ], 
+            "wiki_id": 206119, 
+            "wiki_title": "Night"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1537, 
+                    "end": 1544, 
+                    "score": 0.16370181739330292, 
+                    "spot": "terrain"
+                }
+            ], 
+            "wiki_id": 79239, 
+            "wiki_title": "Topography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2981, 
+                    "end": 2985, 
+                    "score": 0.22227580845355988, 
+                    "spot": "burn"
+                }, 
+                {
+                    "begin": 3653, 
+                    "end": 3657, 
+                    "score": 0.09195514023303986, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 18842308, 
+            "wiki_title": "Stream"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2641, 
+                    "end": 2651, 
+                    "score": 0.16355560719966888, 
+                    "spot": "wilderness"
+                }, 
+                {
+                    "begin": 2961, 
+                    "end": 2971, 
+                    "score": 0.2882588505744934, 
+                    "spot": "wilderness"
+                }, 
+                {
+                    "begin": 3063, 
+                    "end": 3073, 
+                    "score": 0.16355560719966888, 
+                    "spot": "wilderness"
+                }
+            ], 
+            "wiki_id": 396275, 
+            "wiki_title": "Wilderness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3756, 
+                    "end": 3761, 
+                    "score": 0.012048192322254181, 
+                    "spot": "douse"
+                }
+            ], 
+            "wiki_id": 38179651, 
+            "wiki_title": "Joe Douse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2383, 
+                    "end": 2398, 
+                    "score": 0.003722084453329444, 
+                    "spot": "doubled in size"
+                }
+            ], 
+            "wiki_id": 30871687, 
+            "wiki_title": "1967 NHL expansion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1292, 
+                    "end": 1298, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 440467, 
+            "wiki_title": "WWE Raw"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4604, 
+                    "end": 4613, 
+                    "score": 0.008379888720810413, 
+                    "spot": "untouched"
+                }
+            ], 
+            "wiki_id": 14219782, 
+            "wiki_title": "Untouched (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4242, 
+                    "end": 4250, 
+                    "score": 0.007630323525518179, 
+                    "spot": "declared"
+                }
+            ], 
+            "wiki_id": 15796209, 
+            "wiki_title": "2008 Kosovo declaration of independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2942, 
+                    "end": 2948, 
+                    "score": 0.22153417766094208, 
+                    "spot": "policy"
+                }
+            ], 
+            "wiki_id": 3407706, 
+            "wiki_title": "Environmental policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 238, 
+                    "score": 0.06327962875366211, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 586610, 
+            "wiki_title": "Downburst"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 334, 
+                    "end": 344, 
+                    "score": 0.16085615754127502, 
+                    "spot": "evacuation"
+                }, 
+                {
+                    "begin": 3791, 
+                    "end": 3801, 
+                    "score": 0.010369178839027882, 
+                    "spot": "evacuation"
+                }
+            ], 
+            "wiki_id": 1536572, 
+            "wiki_title": "Emergency evacuation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1251, 
+                    "end": 1284, 
+                    "score": 0.1666666716337204, 
+                    "spot": "California Department of\nForestry"
+                }
+            ], 
+            "wiki_id": 4835411, 
+            "wiki_title": "California Department of Forestry and Fire Protection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2303, 
+                    "end": 2308, 
+                    "score": 0.05159807577729225, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 43537463, 
+            "wiki_title": "Size"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1406, 
+                    "score": 0.06141975522041321, 
+                    "spot": "Pat"
+                }
+            ], 
+            "wiki_id": 400686, 
+            "wiki_title": "Pat Nixon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 775, 
+                    "end": 783, 
+                    "score": 0.3255814015865326, 
+                    "spot": "Ray Wood"
+                }
+            ], 
+            "wiki_id": 1887118, 
+            "wiki_title": "Ray Wood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3461, 
+                    "end": 3467, 
+                    "score": 0.0025483632925897837, 
+                    "spot": "corner"
+                }, 
+                {
+                    "begin": 3550, 
+                    "end": 3556, 
+                    "score": 0.07077605277299881, 
+                    "spot": "corner"
+                }
+            ], 
+            "wiki_id": 1196, 
+            "wiki_title": "Angle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 769, 
+                    "end": 773, 
+                    "score": 0.011297119781374931, 
+                    "spot": "Capt"
+                }
+            ], 
+            "wiki_id": 6461120, 
+            "wiki_title": "Captain (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 350, 
+                    "end": 360, 
+                    "score": 0.24801552295684814, 
+                    "spot": "campground"
+                }
+            ], 
+            "wiki_id": 228012, 
+            "wiki_title": "Camping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1825, 
+                    "end": 1832, 
+                    "score": 0.09134771674871445, 
+                    "spot": "weekend"
+                }, 
+                {
+                    "begin": 2083, 
+                    "end": 2090, 
+                    "score": 0.004210360813885927, 
+                    "spot": "weekend"
+                }, 
+                {
+                    "begin": 2586, 
+                    "end": 2593, 
+                    "score": 0.12748754024505615, 
+                    "spot": "Weekend"
+                }, 
+                {
+                    "begin": 4030, 
+                    "end": 4037, 
+                    "score": 0.16335168480873108, 
+                    "spot": "weekend"
+                }
+            ], 
+            "wiki_id": 2016347, 
+            "wiki_title": "Workweek and weekend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 112, 
+                    "score": 0.12897340953350067, 
+                    "spot": "rain"
+                }
+            ], 
+            "wiki_id": 24521245, 
+            "wiki_title": "Rain (Mika song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1833, 
+                    "end": 1839, 
+                    "score": 0.14235404133796692, 
+                    "spot": "timber"
+                }
+            ], 
+            "wiki_id": 699422, 
+            "wiki_title": "Timber framing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 686, 
+                    "end": 693, 
+                    "score": 0.10276159644126892, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 5247, 
+            "wiki_title": "Country music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1366, 
+                    "end": 1370, 
+                    "score": 0.15943102538585663, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2067, 
+                    "end": 2078, 
+                    "score": 0.0006708407890982926, 
+                    "spot": "get through"
+                }
+            ], 
+            "wiki_id": 19250912, 
+            "wiki_title": "Get Through"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 391, 
+                    "end": 395, 
+                    "score": 0.13506142795085907, 
+                    "spot": "Lake"
+                }
+            ], 
+            "wiki_id": 18842431, 
+            "wiki_title": "Lake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 520, 
+                    "end": 526, 
+                    "score": 0.06411172449588776, 
+                    "spot": "linked"
+                }
+            ], 
+            "wiki_id": 970755, 
+            "wiki_title": "LinkedIn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2579, 
+                    "end": 2584, 
+                    "score": 0.20569491386413574, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 3443, 
+                    "end": 3448, 
+                    "score": 0.004809388425201178, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 15775275, 
+            "wiki_title": "State governments of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2447, 
+                    "end": 2462, 
+                    "score": 0.01751250959932804, 
+                    "spot": "property damage"
+                }
+            ], 
+            "wiki_id": 46698, 
+            "wiki_title": "Property damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2871, 
+                    "end": 2878, 
+                    "score": 0.5, 
+                    "spot": "Jaquith"
+                }
+            ], 
+            "wiki_id": 16089024, 
+            "wiki_title": "Clarence Jaquith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 94, 
+                    "score": 0.04231290891766548, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 276, 
+                    "end": 281, 
+                    "score": 0.15048955380916595, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 455, 
+                    "end": 460, 
+                    "score": 0.061073604971170425, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 1075, 
+                    "end": 1080, 
+                    "score": 0.09026716649532318, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 1678, 
+                    "end": 1683, 
+                    "score": 0.12653064727783203, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 1759, 
+                    "end": 1764, 
+                    "score": 0.09507235139608383, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 2030, 
+                    "end": 2035, 
+                    "score": 0.06099545955657959, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 3575, 
+                    "end": 3580, 
+                    "score": 0.0953458771109581, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 3672, 
+                    "end": 3677, 
+                    "score": 0.11478284746408463, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 4379, 
+                    "end": 4384, 
+                    "score": 0.0887276753783226, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 4519, 
+                    "end": 4524, 
+                    "score": 0.13818785548210144, 
+                    "spot": "acres"
+                }
+            ], 
+            "wiki_id": 1797, 
+            "wiki_title": "Acre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2344, 
+                    "end": 2350, 
+                    "score": 0.15904587507247925, 
+                    "spot": "spread"
+                }, 
+                {
+                    "begin": 4749, 
+                    "end": 4755, 
+                    "score": 0.09215744584798813, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 729317, 
+            "wiki_title": "Transmission (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1503, 
+                    "end": 1511, 
+                    "score": 0.20194515585899353, 
+                    "spot": "agencies"
+                }
+            ], 
+            "wiki_id": 194806, 
+            "wiki_title": "Independent agencies of the United States government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4173, 
+                    "end": 4177, 
+                    "score": 0.05791911482810974, 
+                    "spot": "Mary"
+                }
+            ], 
+            "wiki_id": 73513, 
+            "wiki_title": "Mary (mother of Jesus)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1478, 
+                    "end": 1485, 
+                    "score": 0.3209768235683441, 
+                    "spot": "federal"
+                }, 
+                {
+                    "begin": 1478, 
+                    "end": 1492, 
+                    "score": 0.37732449173927307, 
+                    "spot": "federal, state"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3089, 
+                    "end": 3098, 
+                    "score": 0.004215851426124573, 
+                    "spot": "day after"
+                }
+            ], 
+            "wiki_id": 31607, 
+            "wiki_title": "The Day After"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 39, 
+                    "end": 57, 
+                    "score": 0.5, 
+                    "spot": "Zion National Park"
+                }
+            ], 
+            "wiki_id": 18952631, 
+            "wiki_title": "Zion National Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2203, 
+                    "end": 2209, 
+                    "score": 0.11549907922744751, 
+                    "spot": "Ranger"
+                }
+            ], 
+            "wiki_id": 385000, 
+            "wiki_title": "Texas Ranger Division"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3282, 
+                    "end": 3288, 
+                    "score": 0.1277761310338974, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 237207, 
+            "wiki_title": "Ultimate tensile strength"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 239, 
+                    "end": 245, 
+                    "score": 0.02948557399213314, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 145698, 
+            "wiki_title": "Seafloor spreading"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1530, 
+                    "end": 1536, 
+                    "score": 0.06565716117620468, 
+                    "spot": "rugged"
+                }
+            ], 
+            "wiki_id": 4635549, 
+            "wiki_title": "Rugged computer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3017, 
+                    "end": 3027, 
+                    "score": 0.10562454164028168, 
+                    "spot": "structures"
+                }
+            ], 
+            "wiki_id": 93545, 
+            "wiki_title": "Structure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1338, 
+                    "end": 1342, 
+                    "score": 0.19148032367229462, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 22664950, 
+            "wiki_title": "Fire (Kasabian song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4122, 
+                    "end": 4131, 
+                    "score": 0.01111744623631239, 
+                    "spot": "particles"
+                }
+            ], 
+            "wiki_id": 30876688, 
+            "wiki_title": "Particulates"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2140, 
+                    "end": 2144, 
+                    "score": 0.046827223151922226, 
+                    "spot": "care"
+                }
+            ], 
+            "wiki_id": 387721, 
+            "wiki_title": "Foster care"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2684, 
+                    "end": 2691, 
+                    "score": 0.13665051758289337, 
+                    "spot": "Officer"
+                }
+            ], 
+            "wiki_id": 36301328, 
+            "wiki_title": "Officer (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1731, 
+                    "end": 1738, 
+                    "score": 0.05540657043457031, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1883, 
+                    "end": 1897, 
+                    "score": 0.5, 
+                    "spot": "Dwight Barnett"
+                }
+            ], 
+            "wiki_id": 21020937, 
+            "wiki_title": "Dwight Barnett"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1615, 
+                    "end": 1623, 
+                    "score": 0.3939782381057739, 
+                    "spot": "Kentucky"
+                }
+            ], 
+            "wiki_id": 16846, 
+            "wiki_title": "Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1227, 
+                    "score": 0.10435090959072113, 
+                    "spot": "Hale"
+                }
+            ], 
+            "wiki_id": 319866, 
+            "wiki_title": "Wendover"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 988, 
+                    "end": 992, 
+                    "score": 0.04997783899307251, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 12054839, 
+            "wiki_title": "Area (LDS Church)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1391, 
+                    "end": 1396, 
+                    "score": 0.03529678285121918, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 1190375, 
+            "wiki_title": "Money (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3472, 
+                    "end": 3476, 
+                    "score": 0.004446305800229311, 
+                    "spot": "Park"
+                }
+            ], 
+            "wiki_id": 2602533, 
+            "wiki_title": "Urban park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3241, 
+                    "end": 3246, 
+                    "score": 0.1441991925239563, 
+                    "spot": "lines"
+                }
+            ], 
+            "wiki_id": 455350, 
+            "wiki_title": "School discipline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2606, 
+                    "end": 2610, 
+                    "score": 0.004822245333343744, 
+                    "spot": "keep"
+                }
+            ], 
+            "wiki_id": 957422, 
+            "wiki_title": "Keep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4432, 
+                    "end": 4436, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Heyd"
+                }
+            ], 
+            "wiki_id": 22411090, 
+            "wiki_title": "Charles Bernhard Heyd"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3395, 
+                    "end": 3406, 
+                    "score": 0.02068965509533882, 
+                    "spot": "three fires"
+                }
+            ], 
+            "wiki_id": 31976311, 
+            "wiki_title": "Three poisons"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 809, 
+                    "end": 858, 
+                    "score": 0.14705882966518402, 
+                    "spot": "New York\nDepartment of Environmental Conservation"
+                }, 
+                {
+                    "begin": 818, 
+                    "end": 858, 
+                    "score": 0.07870370149612427, 
+                    "spot": "Department of Environmental Conservation"
+                }
+            ], 
+            "wiki_id": 6585153, 
+            "wiki_title": "New York State Department of Environmental Conservation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 575, 
+                    "end": 580, 
+                    "score": 0.2137255072593689, 
+                    "spot": "grass"
+                }
+            ], 
+            "wiki_id": 56217, 
+            "wiki_title": "Poaceae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2266, 
+                    "end": 2273, 
+                    "score": 0.0006223831442184746, 
+                    "spot": "June 19"
+                }, 
+                {
+                    "begin": 2827, 
+                    "end": 2834, 
+                    "score": 0.0006223831442184746, 
+                    "spot": "June 19"
+                }
+            ], 
+            "wiki_id": 2053910, 
+            "wiki_title": "June 19 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2722, 
+                    "end": 2732, 
+                    "score": 0.2165440022945404, 
+                    "spot": "helicopter"
+                }
+            ], 
+            "wiki_id": 8286923, 
+            "wiki_title": "Helicopter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3714, 
+                    "end": 3725, 
+                    "score": 0.03913324698805809, 
+                    "spot": "backcountry"
+                }
+            ], 
+            "wiki_id": 4132489, 
+            "wiki_title": "Backcountry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3271, 
+                    "end": 3278, 
+                    "score": 0.0011701701441779733, 
+                    "spot": "absence"
+                }
+            ], 
+            "wiki_id": 4064429, 
+            "wiki_title": "The Absence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3044, 
+                    "end": 3050, 
+                    "score": 0.0011110804043710232, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 152509, 
+            "wiki_title": "Metastasis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3489, 
+                    "end": 3503, 
+                    "score": 0.5, 
+                    "spot": "Amy Vanderbilt"
+                }
+            ], 
+            "wiki_id": 751396, 
+            "wiki_title": "Amy Vanderbilt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 479, 
+                    "end": 503, 
+                    "score": 0.5, 
+                    "spot": "Hiawatha\nNational Forest"
+                }, 
+                {
+                    "begin": 4203, 
+                    "end": 4227, 
+                    "score": 0.5, 
+                    "spot": "Hiawatha National Forest"
+                }
+            ], 
+            "wiki_id": 282624, 
+            "wiki_title": "Hiawatha National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1919, 
+                    "end": 1928, 
+                    "score": 0.25009411573410034, 
+                    "spot": "Tennessee"
+                }
+            ], 
+            "wiki_id": 30395, 
+            "wiki_title": "Tennessee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4640, 
+                    "end": 4644, 
+                    "score": 0.11734724044799805, 
+                    "spot": "Earl"
+                }
+            ], 
+            "wiki_id": 127799, 
+            "wiki_title": "Earl, North Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2055, 
+                    "end": 2063, 
+                    "score": 0.22808705270290375, 
+                    "spot": "relieved"
+                }
+            ], 
+            "wiki_id": 855322, 
+            "wiki_title": "Dismissal (employment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1422, 
+                    "end": 1441, 
+                    "score": 0.37060385942459106, 
+                    "spot": "U.S. Forest Service"
+                }, 
+                {
+                    "begin": 1427, 
+                    "end": 1441, 
+                    "score": 0.23100122809410095, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 1626, 
+                    "end": 1646, 
+                    "score": 0.3322680592536926, 
+                    "spot": "Division of Forestry"
+                }, 
+                {
+                    "begin": 1929, 
+                    "end": 1949, 
+                    "score": 0.3322680592536926, 
+                    "spot": "Division of\nForestry"
+                }, 
+                {
+                    "begin": 2927, 
+                    "end": 2941, 
+                    "score": 0.2990485429763794, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 4660, 
+                    "end": 4679, 
+                    "score": 0.5149549245834351, 
+                    "spot": "U.S. Forest Service"
+                }
+            ], 
+            "wiki_id": 42652, 
+            "wiki_title": "United States Forest Service"
+        }
+    ]
+}

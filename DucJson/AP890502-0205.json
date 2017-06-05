@@ -1,0 +1,4174 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1879, 
+                    "end": 1890, 
+                    "score": 0.006269592326134443, 
+                    "spot": "this summer"
+                }
+            ], 
+            "wiki_id": 6808839, 
+            "wiki_title": "This Summer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3667, 
+                    "end": 3675, 
+                    "score": 0.22972795367240906, 
+                    "spot": "drifting"
+                }
+            ], 
+            "wiki_id": 6056, 
+            "wiki_title": "Continental drift"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4995, 
+                    "end": 5005, 
+                    "score": 0.42917147278785706, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5437, 
+                    "end": 5440, 
+                    "score": 0.05454971641302109, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 8944898, 
+            "wiki_title": "The Mail on Sunday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1049, 
+                    "end": 1058, 
+                    "score": 0.20420920848846436, 
+                    "spot": "Anchorage"
+                }
+            ], 
+            "wiki_id": 7004698, 
+            "wiki_title": "Anchorage, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5077, 
+                    "end": 5087, 
+                    "score": 0.31944477558135986, 
+                    "spot": "gas prices"
+                }
+            ], 
+            "wiki_id": 5137675, 
+            "wiki_title": "Price of oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1004, 
+                    "score": 0.012128232978284359, 
+                    "spot": "Carol"
+                }
+            ], 
+            "wiki_id": 220418, 
+            "wiki_title": "Carol I of Romania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5007, 
+                    "end": 5013, 
+                    "score": 0.5629720687866211, 
+                    "spot": "Oregon"
+                }
+            ], 
+            "wiki_id": 26811621, 
+            "wiki_title": "Oregon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 35, 
+                    "end": 39, 
+                    "score": 0.02753496542572975, 
+                    "spot": "Yost"
+                }
+            ], 
+            "wiki_id": 727822, 
+            "wiki_title": "Charles Woodruff Yost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4244, 
+                    "end": 4251, 
+                    "score": 0.09337206929922104, 
+                    "spot": "officer"
+                }
+            ], 
+            "wiki_id": 310240, 
+            "wiki_title": "Police officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2026, 
+                    "end": 2040, 
+                    "score": 0.25, 
+                    "spot": "Samuel Skinner"
+                }, 
+                {
+                    "begin": 2281, 
+                    "end": 2288, 
+                    "score": 0.09585511684417725, 
+                    "spot": "Skinner"
+                }
+            ], 
+            "wiki_id": 475882, 
+            "wiki_title": "Samuel K. Skinner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4594, 
+                    "end": 4601, 
+                    "score": 0.5, 
+                    "spot": "When we"
+                }
+            ], 
+            "wiki_id": 34866762, 
+            "wiki_title": "When We On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4908, 
+                    "end": 4912, 
+                    "score": 0.1478760689496994, 
+                    "spot": "rose"
+                }
+            ], 
+            "wiki_id": 334276, 
+            "wiki_title": "Rose Bowl Game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3247, 
+                    "end": 3249, 
+                    "score": 0.13302119076251984, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 19230848, 
+            "wiki_title": "Ra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3898, 
+                    "end": 3903, 
+                    "score": 0.060821980237960815, 
+                    "spot": "sound"
+                }
+            ], 
+            "wiki_id": 55268, 
+            "wiki_title": "\u00d8resund"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1538, 
+                    "end": 1542, 
+                    "score": 0.02753496542572975, 
+                    "spot": "Yost"
+                }, 
+                {
+                    "begin": 1584, 
+                    "end": 1588, 
+                    "score": 0.02753496542572975, 
+                    "spot": "Yost"
+                }, 
+                {
+                    "begin": 1894, 
+                    "end": 1898, 
+                    "score": 0.02753496542572975, 
+                    "spot": "Yost"
+                }
+            ], 
+            "wiki_id": 727800, 
+            "wiki_title": "Fielding H. Yost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 26, 
+                    "score": 0.04358626902103424, 
+                    "spot": "Commandant"
+                }
+            ], 
+            "wiki_id": 2343264, 
+            "wiki_title": "Ranks in the French Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 838, 
+                    "end": 847, 
+                    "score": 0.15652453899383545, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 2737868, 
+            "wiki_title": "Pre-Madonna"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2357, 
+                    "end": 2363, 
+                    "score": 0.16800066828727722, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1533, 
+                    "end": 1537, 
+                    "score": 0.003507028566673398, 
+                    "spot": "gain"
+                }
+            ], 
+            "wiki_id": 41968, 
+            "wiki_title": "Gain (electronics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 27, 
+                    "end": 31, 
+                    "score": 0.0061612483114004135, 
+                    "spot": "Paul"
+                }
+            ], 
+            "wiki_id": 13736167, 
+            "wiki_title": "Paul McCartney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3250, 
+                    "end": 3253, 
+                    "score": 0.1236712634563446, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 23385833, 
+            "wiki_title": "Neoplatonism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2680, 
+                    "end": 2687, 
+                    "score": 0.039144035428762436, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 7485, 
+            "wiki_title": "Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4648, 
+                    "end": 4651, 
+                    "score": 0.0008345537935383618, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 300785, 
+            "wiki_title": "Win\u2013loss record (pitching)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2255, 
+                    "end": 2265, 
+                    "score": 0.006972111761569977, 
+                    "spot": "Press Club"
+                }
+            ], 
+            "wiki_id": 11315974, 
+            "wiki_title": "Press club"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3564, 
+                    "end": 3579, 
+                    "score": 0.5, 
+                    "spot": "fly.''\n   State"
+                }
+            ], 
+            "wiki_id": 1420792, 
+            "wiki_title": "Bicoastal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3306, 
+                    "end": 3326, 
+                    "score": 0.25, 
+                    "spot": "Katmai National Park"
+                }
+            ], 
+            "wiki_id": 364290, 
+            "wiki_title": "Katmai National Park and Preserve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5420, 
+                    "end": 5427, 
+                    "score": 0.019472941756248474, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 814, 
+                    "end": 817, 
+                    "score": 0.18400456011295319, 
+                    "spot": "gas"
+                }, 
+                {
+                    "begin": 4885, 
+                    "end": 4888, 
+                    "score": 0.2713477611541748, 
+                    "spot": "gas"
+                }
+            ], 
+            "wiki_id": 18993869, 
+            "wiki_title": "Gas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1644, 
+                    "end": 1648, 
+                    "score": 0.05916771665215492, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 4937455, 
+            "wiki_title": "Bye (sports)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4614, 
+                    "end": 4619, 
+                    "score": 0.0055876667611300945, 
+                    "spot": "light"
+                }
+            ], 
+            "wiki_id": 19396070, 
+            "wiki_title": "Light On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 26, 
+                    "score": 0.10256410390138626, 
+                    "spot": "Coast Guard Commandant"
+                }
+            ], 
+            "wiki_id": 1090311, 
+            "wiki_title": "Commandant of the Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4620, 
+                    "end": 4626, 
+                    "score": 0.02044609747827053, 
+                    "spot": "oiling"
+                }
+            ], 
+            "wiki_id": 9992341, 
+            "wiki_title": "Oiling (leather processing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4557, 
+                    "end": 4561, 
+                    "score": 0.21276222169399261, 
+                    "spot": "wind"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5580, 
+                    "end": 5586, 
+                    "score": 0.06629414111375809, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 39902584, 
+            "wiki_title": "The Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3258, 
+                    "end": 3262, 
+                    "score": 0.33466988801956177, 
+                    "spot": "blob"
+                }
+            ], 
+            "wiki_id": 2521806, 
+            "wiki_title": "The Blob (1988 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1721, 
+                    "end": 1724, 
+                    "score": 0.00719649950042367, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 87584, 
+            "wiki_title": "Lot (department)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5024, 
+                    "end": 5030, 
+                    "score": 0.06816291809082031, 
+                    "spot": "echoed"
+                }
+            ], 
+            "wiki_id": 238901, 
+            "wiki_title": "Echo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1936, 
+                    "end": 1945, 
+                    "score": 0.015968771651387215, 
+                    "spot": "sparkling"
+                }, 
+                {
+                    "begin": 1985, 
+                    "end": 1994, 
+                    "score": 0.043675005435943604, 
+                    "spot": "sparkling"
+                }
+            ], 
+            "wiki_id": 143177, 
+            "wiki_title": "Sparkling wine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 994, 
+                    "end": 997, 
+                    "score": 0.09781910479068756, 
+                    "spot": "Sen"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 974, 
+                    "end": 987, 
+                    "score": 0.3119158148765564, 
+                    "spot": "Massachusetts"
+                }, 
+                {
+                    "begin": 1235, 
+                    "end": 1244, 
+                    "score": 0.10260424762964249, 
+                    "spot": "Bay State"
+                }
+            ], 
+            "wiki_id": 1645518, 
+            "wiki_title": "Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4933, 
+                    "end": 4938, 
+                    "score": 0.06230891868472099, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 4764461, 
+            "wiki_title": "World War I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4683, 
+                    "end": 4691, 
+                    "score": 0.04248809814453125, 
+                    "spot": "wildlife"
+                }
+            ], 
+            "wiki_id": 144219, 
+            "wiki_title": "Wildlife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 711, 
+                    "end": 719, 
+                    "score": 0.08538512885570526, 
+                    "spot": "accident"
+                }
+            ], 
+            "wiki_id": 24462937, 
+            "wiki_title": "Accident"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3396, 
+                    "end": 3403, 
+                    "score": 0.17563359439373016, 
+                    "spot": "washing"
+                }
+            ], 
+            "wiki_id": 253830, 
+            "wiki_title": "Washing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 596, 
+                    "end": 603, 
+                    "score": 0.09749544411897659, 
+                    "spot": "message"
+                }
+            ], 
+            "wiki_id": 3135187, 
+            "wiki_title": "The Message (1976 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2959, 
+                    "end": 2967, 
+                    "score": 0.0034656585194170475, 
+                    "spot": "spilling"
+                }
+            ], 
+            "wiki_id": 485122, 
+            "wiki_title": "Register allocation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 96, 
+                    "score": 0.21350163221359253, 
+                    "spot": "Alaskan"
+                }, 
+                {
+                    "begin": 753, 
+                    "end": 759, 
+                    "score": 0.4575122892856598, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 1134, 
+                    "end": 1141, 
+                    "score": 0.09456366300582886, 
+                    "spot": "Alaskan"
+                }, 
+                {
+                    "begin": 2076, 
+                    "end": 2082, 
+                    "score": 0.31807583570480347, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 2493, 
+                    "end": 2499, 
+                    "score": 0.49713465571403503, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 2817, 
+                    "end": 2823, 
+                    "score": 0.43644678592681885, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 4163, 
+                    "end": 4169, 
+                    "score": 0.3583003580570221, 
+                    "spot": "Alaska"
+                }
+            ], 
+            "wiki_id": 624, 
+            "wiki_title": "Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1018, 
+                    "end": 1025, 
+                    "score": 0.17847076058387756, 
+                    "spot": "boycott"
+                }
+            ], 
+            "wiki_id": 1958265, 
+            "wiki_title": "1980 Summer Olympics boycott"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3189, 
+                    "end": 3199, 
+                    "score": 0.12828947603702545, 
+                    "spot": "dead birds"
+                }
+            ], 
+            "wiki_id": 73423, 
+            "wiki_title": "Dead Birds (1963 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5228, 
+                    "end": 5247, 
+                    "score": 0.01815311796963215, 
+                    "spot": "executive\nassistant"
+                }
+            ], 
+            "wiki_id": 214196, 
+            "wiki_title": "Secretary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5319, 
+                    "end": 5326, 
+                    "score": 0.30613571405410767, 
+                    "spot": "Houston"
+                }
+            ], 
+            "wiki_id": 13774, 
+            "wiki_title": "Houston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3170, 
+                    "end": 3175, 
+                    "score": 0.08474576473236084, 
+                    "spot": "saw 2"
+                }
+            ], 
+            "wiki_id": 1640736, 
+            "wiki_title": "Saw II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5117, 
+                    "end": 5124, 
+                    "score": 0.15025384724140167, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 5182, 
+                    "end": 5189, 
+                    "score": 0.11713140457868576, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4316, 
+                    "end": 4323, 
+                    "score": 0.03138803318142891, 
+                    "spot": "feeling"
+                }
+            ], 
+            "wiki_id": 163390, 
+            "wiki_title": "Feeling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 869, 
+                    "end": 876, 
+                    "score": 0.14423973858356476, 
+                    "spot": "actions"
+                }
+            ], 
+            "wiki_id": 785595, 
+            "wiki_title": "Human rights in Russia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5407, 
+                    "end": 5412, 
+                    "score": 0.02105083130300045, 
+                    "spot": "hikes"
+                }
+            ], 
+            "wiki_id": 147313, 
+            "wiki_title": "Hiking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5077, 
+                    "end": 5080, 
+                    "score": 0.32320740818977356, 
+                    "spot": "gas"
+                }
+            ], 
+            "wiki_id": 22131, 
+            "wiki_title": "Natural gas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2127, 
+                    "end": 2134, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 3624, 
+                    "end": 3631, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }
+            ], 
+            "wiki_id": 992207, 
+            "wiki_title": "Cleanup hitter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 81, 
+                    "score": 0.3942338228225708, 
+                    "spot": "clean"
+                }
+            ], 
+            "wiki_id": 4835266, 
+            "wiki_title": "Clean technology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3642, 
+                    "end": 3651, 
+                    "score": 0.05546547472476959, 
+                    "spot": "southwest"
+                }
+            ], 
+            "wiki_id": 179571, 
+            "wiki_title": "Southwestern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4454, 
+                    "end": 4459, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 26527441, 
+            "wiki_title": "John W. Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 593, 
+                    "score": 0.14361795783042908, 
+                    "spot": "giant"
+                }
+            ], 
+            "wiki_id": 92582, 
+            "wiki_title": "Giant (1956 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 561, 
+                    "end": 568, 
+                    "score": 0.12346766889095306, 
+                    "spot": "boycott"
+                }, 
+                {
+                    "begin": 1174, 
+                    "end": 1181, 
+                    "score": 0.22582633793354034, 
+                    "spot": "boycott"
+                }, 
+                {
+                    "begin": 1333, 
+                    "end": 1340, 
+                    "score": 0.2904602289199829, 
+                    "spot": "boycott"
+                }, 
+                {
+                    "begin": 2620, 
+                    "end": 2627, 
+                    "score": 0.2573607265949249, 
+                    "spot": "boycott"
+                }
+            ], 
+            "wiki_id": 18591996, 
+            "wiki_title": "Boycott"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5378, 
+                    "end": 5385, 
+                    "score": 0.11683088541030884, 
+                    "spot": "naivete"
+                }
+            ], 
+            "wiki_id": 2252058, 
+            "wiki_title": "Naivety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1545, 
+                    "end": 1553, 
+                    "score": 0.11540394276380539, 
+                    "spot": "approval"
+                }
+            ], 
+            "wiki_id": 1857, 
+            "wiki_title": "Approval voting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 744, 
+                    "end": 749, 
+                    "score": 0.1387922763824463, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 2940, 
+                    "end": 2945, 
+                    "score": 0.039103783667087555, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 3816, 
+                    "end": 3821, 
+                    "score": 0.08303837478160858, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1343, 
+                    "end": 1349, 
+                    "score": 0.09078418463468552, 
+                    "spot": "impact"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2169, 
+                    "end": 2178, 
+                    "score": 0.13918989896774292, 
+                    "spot": "operation"
+                }
+            ], 
+            "wiki_id": 7746616, 
+            "wiki_title": "Death of Osama bin Laden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4507, 
+                    "end": 4510, 
+                    "score": 0.06927113234996796, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 33603524, 
+            "wiki_title": "Greek legislative election, May 2012"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 169, 
+                    "end": 174, 
+                    "score": 0.07306493073701859, 
+                    "spot": "anger"
+                }
+            ], 
+            "wiki_id": 68672, 
+            "wiki_title": "Anger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1117, 
+                    "end": 1122, 
+                    "score": 0.17544716596603394, 
+                    "spot": "front"
+                }
+            ], 
+            "wiki_id": 802166, 
+            "wiki_title": "Front organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2642, 
+                    "end": 2651, 
+                    "score": 0.11345984041690826, 
+                    "spot": "President"
+                }, 
+                {
+                    "begin": 5334, 
+                    "end": 5343, 
+                    "score": 0.18271514773368835, 
+                    "spot": "President"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1209, 
+                    "end": 1227, 
+                    "score": 0.107630155980587, 
+                    "spot": "executive director"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 180, 
+                    "end": 187, 
+                    "score": 0.10450216382741928, 
+                    "spot": "one-day"
+                }
+            ], 
+            "wiki_id": 381447, 
+            "wiki_title": "One Day International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1411, 
+                    "end": 1414, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 23162, 
+            "wiki_title": "Out (poker)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4170, 
+                    "end": 4187, 
+                    "score": 0.3445708751678467, 
+                    "spot": "environmental law"
+                }
+            ], 
+            "wiki_id": 1994756, 
+            "wiki_title": "United States environmental law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4224, 
+                    "end": 4229, 
+                    "score": 0.08582795411348343, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2457, 
+                    "end": 2460, 
+                    "score": 0.28381749987602234, 
+                    "spot": "add"
+                }
+            ], 
+            "wiki_id": 61338, 
+            "wiki_title": "Addition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 190, 
+                    "end": 197, 
+                    "score": 0.17032882571220398, 
+                    "spot": "Boycott"
+                }
+            ], 
+            "wiki_id": 413130, 
+            "wiki_title": "Geoffrey Boycott"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3938, 
+                    "end": 3946, 
+                    "score": 0.33905190229415894, 
+                    "spot": "Portland"
+                }, 
+                {
+                    "begin": 3938, 
+                    "end": 3951, 
+                    "score": 0.3170890808105469, 
+                    "spot": "Portland, Ore"
+                }
+            ], 
+            "wiki_id": 23503, 
+            "wiki_title": "Portland, Oregon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4535, 
+                    "end": 4543, 
+                    "score": 0.07392749935388565, 
+                    "spot": "cleansed"
+                }
+            ], 
+            "wiki_id": 61098, 
+            "wiki_title": "Ethnic cleansing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2702, 
+                    "end": 2718, 
+                    "score": 0.028485756367444992, 
+                    "spot": "heaven\nand Earth"
+                }
+            ], 
+            "wiki_id": 2124881, 
+            "wiki_title": "Heaven and Earth (1990 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2182, 
+                    "end": 2188, 
+                    "score": 0.26215416193008423, 
+                    "spot": "double"
+                }
+            ], 
+            "wiki_id": 300740, 
+            "wiki_title": "Double (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 889, 
+                    "end": 892, 
+                    "score": 0.3488234877586365, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 889, 
+                    "end": 900, 
+                    "score": 0.25834447145462036, 
+                    "spot": "oil\ncompany"
+                }, 
+                {
+                    "begin": 1497, 
+                    "end": 1500, 
+                    "score": 0.40640753507614136, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 1497, 
+                    "end": 1508, 
+                    "score": 0.3733110725879669, 
+                    "spot": "oil company"
+                }, 
+                {
+                    "begin": 4855, 
+                    "end": 4867, 
+                    "score": 0.06120570749044418, 
+                    "spot": "oil industry"
+                }
+            ], 
+            "wiki_id": 994887, 
+            "wiki_title": "Petroleum industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 219, 
+                    "end": 223, 
+                    "score": 0.02753496542572975, 
+                    "spot": "Yost"
+                }
+            ], 
+            "wiki_id": 29319948, 
+            "wiki_title": "Dave Yost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2232, 
+                    "end": 2238, 
+                    "score": 0.10098101198673248, 
+                    "spot": "speech"
+                }
+            ], 
+            "wiki_id": 21401843, 
+            "wiki_title": "Freedom of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 814, 
+                    "end": 824, 
+                    "score": 0.10134565085172653, 
+                    "spot": "gas prices"
+                }, 
+                {
+                    "begin": 4885, 
+                    "end": 4895, 
+                    "score": 0.2769489288330078, 
+                    "spot": "gas\nprices"
+                }
+            ], 
+            "wiki_id": 8032596, 
+            "wiki_title": "Gasoline and diesel usage and pricing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3520, 
+                    "end": 3523, 
+                    "score": 0.10460759699344635, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 545933, 
+            "wiki_title": "The One (2001 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 537, 
+                    "score": 0.002121398691087961, 
+                    "spot": "forget"
+                }
+            ], 
+            "wiki_id": 45518251, 
+            "wiki_title": "Forget (The Walking Dead)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2916, 
+                    "end": 2922, 
+                    "score": 0.14892597496509552, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 2506366, 
+            "wiki_title": "Tanker (ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3209, 
+                    "end": 3212, 
+                    "score": 0.09992308169603348, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 11649034, 
+            "wiki_title": "Canadian Hot 100"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4008, 
+                    "end": 4016, 
+                    "score": 0.08523113280534744, 
+                    "spot": "handling"
+                }
+            ], 
+            "wiki_id": 779651, 
+            "wiki_title": "Automobile handling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3635, 
+                    "end": 3641, 
+                    "score": 0.0012086089700460434, 
+                    "spot": "moving"
+                }
+            ], 
+            "wiki_id": 20580, 
+            "wiki_title": "Motion (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3205, 
+                    "end": 3208, 
+                    "score": 0.10099787265062332, 
+                    "spot": "You"
+                }
+            ], 
+            "wiki_id": 2380097, 
+            "wiki_title": "With You (Jessica Simpson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3152, 
+                    "end": 3160, 
+                    "score": 0.04946305230259895, 
+                    "spot": "Bay area"
+                }
+            ], 
+            "wiki_id": 19283806, 
+            "wiki_title": "San Francisco Bay Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2502, 
+                    "end": 2509, 
+                    "score": 0.2189834713935852, 
+                    "spot": "economy"
+                }
+            ], 
+            "wiki_id": 32022, 
+            "wiki_title": "Economy of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 404, 
+                    "score": 0.004255449399352074, 
+                    "spot": "wanted"
+                }
+            ], 
+            "wiki_id": 1823345, 
+            "wiki_title": "Wanted poster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4834, 
+                    "end": 4847, 
+                    "score": 0.3863636255264282, 
+                    "spot": "price gouging"
+                }
+            ], 
+            "wiki_id": 879011, 
+            "wiki_title": "Price gouging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1415, 
+                    "end": 1419, 
+                    "score": 0.000543441332411021, 
+                    "spot": "of\n7"
+                }
+            ], 
+            "wiki_id": 7956145, 
+            "wiki_title": "Two-star rank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4566, 
+                    "end": 4571, 
+                    "score": 0.17970144748687744, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 33306, 
+            "wiki_title": "Water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 43, 
+                    "end": 50, 
+                    "score": 0.004530130419880152, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 1050340, 
+            "wiki_title": "Election Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 725, 
+                    "end": 731, 
+                    "score": 0.005572755355387926, 
+                    "spot": "fouled"
+                }
+            ], 
+            "wiki_id": 1100642, 
+            "wiki_title": "Personal foul (basketball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3278, 
+                    "end": 3281, 
+                    "score": 0.1316906213760376, 
+                    "spot": "Ray"
+                }
+            ], 
+            "wiki_id": 2125550, 
+            "wiki_title": "Ray (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4899, 
+                    "end": 4907, 
+                    "score": 0.3036971986293793, 
+                    "spot": "Nebraska"
+                }
+            ], 
+            "wiki_id": 323058, 
+            "wiki_title": "University of Nebraska\u2013Lincoln"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 241, 
+                    "end": 249, 
+                    "score": 0.14655211567878723, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 193178, 
+            "wiki_title": "Official language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 463, 
+                    "end": 480, 
+                    "score": 0.4185183346271515, 
+                    "spot": "consumer activist"
+                }
+            ], 
+            "wiki_id": 18999641, 
+            "wiki_title": "Consumer activism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3611, 
+                    "end": 3616, 
+                    "score": 0.004787937738001347, 
+                    "spot": "focus"
+                }
+            ], 
+            "wiki_id": 7683822, 
+            "wiki_title": "Fellowship of Catholic University Students"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 229, 
+                    "end": 232, 
+                    "score": 0.0009671834413893521, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 912344, 
+            "wiki_title": "Hot Fuss"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3471, 
+                    "end": 3473, 
+                    "score": 0.02287939563393593, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 3513, 
+                    "end": 3515, 
+                    "score": 0.11385276168584824, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 4332, 
+                    "end": 4334, 
+                    "score": 0.05697529762983322, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 544, 
+                    "end": 549, 
+                    "score": 0.004960541147738695, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 3065, 
+                    "end": 3070, 
+                    "score": 0.09937872737646103, 
+                    "spot": "spill"
+                }
+            ], 
+            "wiki_id": 31486263, 
+            "wiki_title": "Spill (audio)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5106, 
+                    "end": 5113, 
+                    "score": 0.1582384705543518, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1528, 
+                    "end": 1532, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }, 
+                {
+                    "begin": 1791, 
+                    "end": 1795, 
+                    "score": 0.1677808165550232, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5507, 
+                    "end": 5510, 
+                    "score": 0.09308712184429169, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 1355349, 
+            "wiki_title": "Stock Exchange of Thailand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1165, 
+                    "end": 1173, 
+                    "score": 0.1286192089319229, 
+                    "spot": "consumer"
+                }
+            ], 
+            "wiki_id": 170522, 
+            "wiki_title": "Consumerism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2702, 
+                    "end": 2708, 
+                    "score": 0.18798266351222992, 
+                    "spot": "heaven"
+                }
+            ], 
+            "wiki_id": 13811, 
+            "wiki_title": "Heaven"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 762, 
+                    "end": 767, 
+                    "score": 0.15701709687709808, 
+                    "spot": "coast"
+                }, 
+                {
+                    "begin": 3986, 
+                    "end": 3996, 
+                    "score": 0.30404242873191833, 
+                    "spot": "West Coast"
+                }
+            ], 
+            "wiki_id": 174579, 
+            "wiki_title": "West Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4916, 
+                    "end": 4923, 
+                    "score": 0.01635635830461979, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 1712680, 
+            "wiki_title": "Percent sign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2733, 
+                    "end": 2738, 
+                    "score": 0.001456906902603805, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 51490, 
+            "wiki_title": "Rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1189, 
+                    "end": 1195, 
+                    "score": 0.04631618410348892, 
+                    "spot": "Edward"
+                }
+            ], 
+            "wiki_id": 184136, 
+            "wiki_title": "Ted Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1070, 
+                    "end": 1078, 
+                    "score": 0.08636856079101562, 
+                    "spot": "chanting"
+                }
+            ], 
+            "wiki_id": 454961, 
+            "wiki_title": "Chant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1245, 
+                    "end": 1253, 
+                    "score": 0.1906011998653412, 
+                    "spot": "Gasoline"
+                }
+            ], 
+            "wiki_id": 23639, 
+            "wiki_title": "Gasoline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2261, 
+                    "end": 2268, 
+                    "score": 0.5, 
+                    "spot": "Club in"
+                }
+            ], 
+            "wiki_id": 3541705, 
+            "wiki_title": "Wild. Club'in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2246, 
+                    "end": 2265, 
+                    "score": 0.33820998668670654, 
+                    "spot": "National Press Club"
+                }
+            ], 
+            "wiki_id": 755265, 
+            "wiki_title": "National Press Club (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4771, 
+                    "end": 4784, 
+                    "score": 0.3508225977420807, 
+                    "spot": "U.S. Attorney"
+                }
+            ], 
+            "wiki_id": 443584, 
+            "wiki_title": "United States Attorney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2209, 
+                    "score": 0.024995112791657448, 
+                    "spot": "end"
+                }
+            ], 
+            "wiki_id": 492476, 
+            "wiki_title": "Wide receiver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5157, 
+                    "end": 5160, 
+                    "score": 0.06756739318370819, 
+                    "spot": "saw"
+                }
+            ], 
+            "wiki_id": 352327, 
+            "wiki_title": "Sawmill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5161, 
+                    "end": 5167, 
+                    "score": 0.030935239046812057, 
+                    "spot": "surges"
+                }
+            ], 
+            "wiki_id": 319613, 
+            "wiki_title": "Voltage spike"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2192, 
+                    "end": 2198, 
+                    "score": 0.20707304775714874, 
+                    "spot": "triple"
+                }
+            ], 
+            "wiki_id": 300742, 
+            "wiki_title": "Triple (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3282, 
+                    "end": 3286, 
+                    "score": 0.26045477390289307, 
+                    "spot": "Bane"
+                }, 
+                {
+                    "begin": 3458, 
+                    "end": 3462, 
+                    "score": 0.16142503917217255, 
+                    "spot": "Bane"
+                }
+            ], 
+            "wiki_id": 676409, 
+            "wiki_title": "Bane (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5147, 
+                    "end": 5156, 
+                    "score": 0.06892503052949905, 
+                    "spot": "Northwest"
+                }
+            ], 
+            "wiki_id": 78147, 
+            "wiki_title": "Pacific Northwest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2157, 
+                    "end": 2161, 
+                    "score": 0.0005400482332333922, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 8398, 
+            "wiki_title": "Dimension"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3266, 
+                    "end": 3269, 
+                    "score": 0.02698003314435482, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 192331, 
+            "wiki_title": "Vegetable oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3344, 
+                    "end": 3353, 
+                    "score": 0.10826356709003448, 
+                    "spot": "southwest"
+                }, 
+                {
+                    "begin": 3822, 
+                    "end": 3831, 
+                    "score": 0.10899397730827332, 
+                    "spot": "southwest"
+                }
+            ], 
+            "wiki_id": 63032, 
+            "wiki_title": "Southwest Airlines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 66, 
+                    "end": 72, 
+                    "score": 0.20588235557079315, 
+                    "spot": "s plan"
+                }, 
+                {
+                    "begin": 298, 
+                    "end": 304, 
+                    "score": 0.20588235557079315, 
+                    "spot": "s plan"
+                }, 
+                {
+                    "begin": 4427, 
+                    "end": 4433, 
+                    "score": 0.20588235557079315, 
+                    "spot": "s plan"
+                }
+            ], 
+            "wiki_id": 2676936, 
+            "wiki_title": "S-Plan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2904, 
+                    "end": 2910, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4079, 
+                    "end": 4083, 
+                    "score": 0.07392118871212006, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 18842308, 
+            "wiki_title": "Stream"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 451, 
+                    "end": 461, 
+                    "score": 0.18184129893779755, 
+                    "spot": "Washington"
+                }, 
+                {
+                    "begin": 2269, 
+                    "end": 2279, 
+                    "score": 0.1379016488790512, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2923, 
+                    "end": 2929, 
+                    "score": 0.10152114182710648, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 5016402, 
+            "wiki_title": "Landfall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1035, 
+                    "end": 1041, 
+                    "score": 0.2360386848449707, 
+                    "spot": "Boston"
+                }
+            ], 
+            "wiki_id": 24437894, 
+            "wiki_title": "Boston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4703, 
+                    "end": 4707, 
+                    "score": 0.162893608212471, 
+                    "spot": "Sens"
+                }
+            ], 
+            "wiki_id": 22705, 
+            "wiki_title": "Ottawa Senators"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3929, 
+                    "end": 3934, 
+                    "score": 0.017456650733947754, 
+                    "spot": "month"
+                }, 
+                {
+                    "begin": 5205, 
+                    "end": 5210, 
+                    "score": 0.07380539178848267, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3506, 
+                    "end": 3511, 
+                    "score": 0.1311446875333786, 
+                    "spot": "birds"
+                }
+            ], 
+            "wiki_id": 304428, 
+            "wiki_title": "The Birds (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1095, 
+                    "end": 1105, 
+                    "score": 0.20658054947853088, 
+                    "spot": "protesters"
+                }
+            ], 
+            "wiki_id": 266137, 
+            "wiki_title": "Protest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2001, 
+                    "end": 2015, 
+                    "score": 0.126408189535141, 
+                    "spot": "Transportation"
+                }
+            ], 
+            "wiki_id": 18580879, 
+            "wiki_title": "Transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5344, 
+                    "end": 5351, 
+                    "score": 0.1542835384607315, 
+                    "spot": "Stevens"
+                }
+            ], 
+            "wiki_id": 188359, 
+            "wiki_title": "John Paul Stevens"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4201, 
+                    "end": 4210, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Lamoreaux"
+                }, 
+                {
+                    "begin": 4402, 
+                    "end": 4411, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Lamoreaux"
+                }, 
+                {
+                    "begin": 4576, 
+                    "end": 4585, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Lamoreaux"
+                }
+            ], 
+            "wiki_id": 34057991, 
+            "wiki_title": "Naomi Lamoreaux"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4698, 
+                    "end": 4701, 
+                    "score": 0.09310081601142883, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4776, 
+                    "end": 4792, 
+                    "score": 0.38215482234954834, 
+                    "spot": "Attorney General"
+                }
+            ], 
+            "wiki_id": 54376, 
+            "wiki_title": "Attorney general"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2779, 
+                    "end": 2787, 
+                    "score": 0.08533322811126709, 
+                    "spot": "strategy"
+                }
+            ], 
+            "wiki_id": 239450, 
+            "wiki_title": "Strategic management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 662, 
+                    "score": 0.0034129691775888205, 
+                    "spot": "be prepared"
+                }
+            ], 
+            "wiki_id": 5986594, 
+            "wiki_title": "Be Prepared (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4096, 
+                    "end": 4102, 
+                    "score": 0.17985489964485168, 
+                    "spot": "sludge"
+                }
+            ], 
+            "wiki_id": 44275839, 
+            "wiki_title": "Sludge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5035, 
+                    "end": 5039, 
+                    "score": 0.09585756808519363, 
+                    "spot": "call"
+                }
+            ], 
+            "wiki_id": 369978, 
+            "wiki_title": "Bird vocalization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1372, 
+                    "end": 1385, 
+                    "score": 0.06481481343507767, 
+                    "spot": "Sarah Johnson"
+                }
+            ], 
+            "wiki_id": 1270481, 
+            "wiki_title": "Sarah Johnson (poet)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1603, 
+                    "end": 1618, 
+                    "score": 0.0784602239727974, 
+                    "spot": "make a decision"
+                }
+            ], 
+            "wiki_id": 265752, 
+            "wiki_title": "Decision-making"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 929, 
+                    "end": 954, 
+                    "score": 0.1458333283662796, 
+                    "spot": "responsibility to protect"
+                }
+            ], 
+            "wiki_id": 3332819, 
+            "wiki_title": "Responsibility to protect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2855, 
+                    "end": 2863, 
+                    "score": 0.0007282913429662585, 
+                    "spot": "March 24"
+                }
+            ], 
+            "wiki_id": 1636671, 
+            "wiki_title": "March 24 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2722, 
+                    "end": 2725, 
+                    "score": 0.05159429460763931, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 59236, 
+            "wiki_title": "Set (deity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2628, 
+                    "end": 2634, 
+                    "score": 0.12485647201538086, 
+                    "spot": "unjust"
+                }
+            ], 
+            "wiki_id": 16369, 
+            "wiki_title": "Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3417, 
+                    "end": 3419, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4519, 
+                    "end": 4528, 
+                    "score": 0.008379888720810413, 
+                    "spot": "untouched"
+                }
+            ], 
+            "wiki_id": 14219782, 
+            "wiki_title": "Untouched (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 587, 
+                    "score": 0.06226251274347305, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2437, 
+                    "end": 2449, 
+                    "score": 0.06120570749044418, 
+                    "spot": "oil\nindustry"
+                }, 
+                {
+                    "begin": 3000, 
+                    "end": 3009, 
+                    "score": 0.3951514959335327, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 3676, 
+                    "end": 3679, 
+                    "score": 0.21083925664424896, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 5485, 
+                    "end": 5494, 
+                    "score": 0.33770471811294556, 
+                    "spot": "petroleum"
+                }, 
+                {
+                    "begin": 5485, 
+                    "end": 5503, 
+                    "score": 0.3689545691013336, 
+                    "spot": "petroleum\nproducts"
+                }
+            ], 
+            "wiki_id": 23195, 
+            "wiki_title": "Petroleum"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1264, 
+                    "end": 1275, 
+                    "score": 0.08457443863153458, 
+                    "spot": "Association"
+                }
+            ], 
+            "wiki_id": 536700, 
+            "wiki_title": "Trade association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3924, 
+                    "end": 3928, 
+                    "score": 0.001524612889625132, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1626, 
+                    "end": 1634, 
+                    "score": 0.0019847871735692024, 
+                    "spot": "proposal"
+                }, 
+                {
+                    "begin": 4046, 
+                    "end": 4054, 
+                    "score": 0.09614153951406479, 
+                    "spot": "proposal"
+                }, 
+                {
+                    "begin": 4196, 
+                    "end": 4200, 
+                    "score": 0.015495323576033115, 
+                    "spot": "Bill"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2061, 
+                    "end": 2072, 
+                    "score": 0.018518518656492233, 
+                    "spot": "second trip"
+                }
+            ], 
+            "wiki_id": 28009597, 
+            "wiki_title": "The Second Trip"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3690, 
+                    "end": 3706, 
+                    "score": 0.6374093294143677, 
+                    "spot": "Alaska\nPeninsula"
+                }
+            ], 
+            "wiki_id": 983272, 
+            "wiki_title": "Alaska Peninsula"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4602, 
+                    "end": 4606, 
+                    "score": 0.008129550144076347, 
+                    "spot": "talk"
+                }
+            ], 
+            "wiki_id": 30077, 
+            "wiki_title": "Talk radio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2217, 
+                    "end": 2222, 
+                    "score": 0.0008726121159270406, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 201400, 
+            "wiki_title": "Hindu calendar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2855, 
+                    "end": 2860, 
+                    "score": 0.07355915755033493, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 550223, 
+            "wiki_title": "Marching"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 153, 
+                    "end": 162, 
+                    "score": 0.08030024915933609, 
+                    "spot": "expressed"
+                }
+            ], 
+            "wiki_id": 159266, 
+            "wiki_title": "Gene expression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5369, 
+                    "end": 5377, 
+                    "score": 0.0035483872052282095, 
+                    "spot": "shocking"
+                }
+            ], 
+            "wiki_id": 24943212, 
+            "wiki_title": "Shocking (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4463, 
+                    "end": 4472, 
+                    "score": 0.16181161999702454, 
+                    "spot": "coastline"
+                }
+            ], 
+            "wiki_id": 21783667, 
+            "wiki_title": "Coastline of Brazil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3288, 
+                    "end": 3302, 
+                    "score": 0.031035475432872772, 
+                    "spot": "superintendent"
+                }
+            ], 
+            "wiki_id": 23161657, 
+            "wiki_title": "Chief physician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3080, 
+                    "end": 3088, 
+                    "score": 0.1949024796485901, 
+                    "spot": "observer"
+                }
+            ], 
+            "wiki_id": 191086, 
+            "wiki_title": "The Observer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 831, 
+                    "end": 837, 
+                    "score": 0.0010089363204315305, 
+                    "spot": "We are"
+                }, 
+                {
+                    "begin": 1855, 
+                    "end": 1861, 
+                    "score": 0.0010089363204315305, 
+                    "spot": "We are"
+                }
+            ], 
+            "wiki_id": 4444245, 
+            "wiki_title": "We Are (Ana Johnsson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 732, 
+                    "end": 740, 
+                    "score": 0.07083980739116669, 
+                    "spot": "hundreds"
+                }
+            ], 
+            "wiki_id": 357346, 
+            "wiki_title": "Hundred (county division)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 481, 
+                    "end": 492, 
+                    "score": 0.6928867697715759, 
+                    "spot": "Ralph Nader"
+                }
+            ], 
+            "wiki_id": 25671, 
+            "wiki_title": "Ralph Nader"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4544, 
+                    "end": 4553, 
+                    "score": 0.12763692438602448, 
+                    "spot": "naturally"
+                }
+            ], 
+            "wiki_id": 21830, 
+            "wiki_title": "Nature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 97, 
+                    "end": 106, 
+                    "score": 0.3204987347126007, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 671, 
+                    "end": 676, 
+                    "score": 0.08461049199104309, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 1483, 
+                    "end": 1488, 
+                    "score": 0.2638154923915863, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 2300, 
+                    "end": 2305, 
+                    "score": 0.17311310768127441, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 2847, 
+                    "end": 2854, 
+                    "score": 0.08431383222341537, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 4259, 
+                    "end": 4264, 
+                    "score": 0.15187714993953705, 
+                    "spot": "spill"
+                }
+            ], 
+            "wiki_id": 158705, 
+            "wiki_title": "Oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2099, 
+                    "end": 2106, 
+                    "score": 0.0023219611030071974, 
+                    "spot": "overall"
+                }
+            ], 
+            "wiki_id": 554255, 
+            "wiki_title": "Overall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3106, 
+                    "end": 3116, 
+                    "score": 0.4395343065261841, 
+                    "spot": "dead birds"
+                }
+            ], 
+            "wiki_id": 2894585, 
+            "wiki_title": "Dead Birds (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2826, 
+                    "end": 2835, 
+                    "score": 0.21186693012714386, 
+                    "spot": "coastline"
+                }, 
+                {
+                    "begin": 3778, 
+                    "end": 3783, 
+                    "score": 0.10776696354150772, 
+                    "spot": "coast"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3474, 
+                    "end": 3477, 
+                    "score": 0.0021652341820299625, 
+                    "spot": "saw"
+                }
+            ], 
+            "wiki_id": 19995, 
+            "wiki_title": "Musical saw"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2951, 
+                    "end": 2957, 
+                    "score": 0.11054907739162445, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 3357, 
+                    "end": 3363, 
+                    "score": 0.178910493850708, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 3835, 
+                    "end": 3841, 
+                    "score": 0.2651333808898926, 
+                    "spot": "Valdez"
+                }
+            ], 
+            "wiki_id": 105697, 
+            "wiki_title": "Valdez, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1815, 
+                    "end": 1822, 
+                    "score": 0.061899349093437195, 
+                    "spot": "figures"
+                }
+            ], 
+            "wiki_id": 174074, 
+            "wiki_title": "Action figure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2878, 
+                    "end": 2890, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }, 
+                {
+                    "begin": 5054, 
+                    "end": 5075, 
+                    "score": 0.5, 
+                    "spot": "Exxon Valdez accident"
+                }
+            ], 
+            "wiki_id": 10243, 
+            "wiki_title": "Exxon Valdez oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1767, 
+                    "end": 1772, 
+                    "score": 0.09360542893409729, 
+                    "spot": "light"
+                }
+            ], 
+            "wiki_id": 11408744, 
+            "wiki_title": "Tabor Light"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2652, 
+                    "end": 2659, 
+                    "score": 0.06290726363658905, 
+                    "spot": "William"
+                }
+            ], 
+            "wiki_id": 72201, 
+            "wiki_title": "Prince William, Duke of Cambridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4293, 
+                    "end": 4300, 
+                    "score": 0.0006547073717229068, 
+                    "spot": "relaxed"
+                }
+            ], 
+            "wiki_id": 2128879, 
+            "wiki_title": "Relaxer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 434, 
+                    "end": 443, 
+                    "score": 0.11681824922561646, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 3592, 
+                    "end": 3601, 
+                    "score": 0.0693846121430397, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4793, 
+                    "end": 4808, 
+                    "score": 0.5, 
+                    "spot": "Dick Thornburgh"
+                }
+            ], 
+            "wiki_id": 596299, 
+            "wiki_title": "Dick Thornburgh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 292, 
+                    "end": 297, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 498, 
+                    "end": 503, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1354, 
+                    "end": 1359, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2577, 
+                    "end": 2582, 
+                    "score": 0.26417672634124756, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 5328, 
+                    "end": 5333, 
+                    "score": 0.30882465839385986, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 10239, 
+            "wiki_title": "Exxon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4709, 
+                    "end": 4719, 
+                    "score": 0.3375000059604645, 
+                    "spot": "James Exon"
+                }, 
+                {
+                    "begin": 4715, 
+                    "end": 4719, 
+                    "score": 0.7590861916542053, 
+                    "spot": "Exon"
+                }
+            ], 
+            "wiki_id": 780720, 
+            "wiki_title": "J. James Exon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1738, 
+                    "end": 1752, 
+                    "score": 0.007009345572441816, 
+                    "spot": "substantiation"
+                }
+            ], 
+            "wiki_id": 100374, 
+            "wiki_title": "Balance sheet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4135, 
+                    "end": 4138, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 6342247, 
+            "wiki_title": "Carlos May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1808, 
+                    "end": 1811, 
+                    "score": 0.08640231937170029, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 350589, 
+            "wiki_title": "Lot (biblical person)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2594, 
+                    "end": 2603, 
+                    "score": 0.11443064361810684, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 263, 
+                    "end": 285, 
+                    "score": 0.11445783078670502, 
+                    "spot": "environmental\ndisaster"
+                }, 
+                {
+                    "begin": 2329, 
+                    "end": 2351, 
+                    "score": 0.11445783078670502, 
+                    "spot": "environmental disaster"
+                }
+            ], 
+            "wiki_id": 569415, 
+            "wiki_title": "Environmental disaster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4514, 
+                    "end": 4518, 
+                    "score": 0.07001067698001862, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2001, 
+                    "end": 2025, 
+                    "score": 0.08467451483011246, 
+                    "spot": "Transportation Secretary"
+                }
+            ], 
+            "wiki_id": 4967403, 
+            "wiki_title": "Department of Transportation and Communications (Philippines)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2660, 
+                    "end": 2670, 
+                    "score": 0.04651162773370743, 
+                    "spot": "D. Stevens"
+                }
+            ], 
+            "wiki_id": 17712722, 
+            "wiki_title": "D Stevens"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2937, 
+                    "end": 2945, 
+                    "score": 0.0019480519695207477, 
+                    "spot": "25 miles"
+                }
+            ], 
+            "wiki_id": 23811985, 
+            "wiki_title": "Twenty-Five Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1398, 
+                    "end": 1410, 
+                    "score": 0.03965936601161957, 
+                    "spot": "credit cards"
+                }
+            ], 
+            "wiki_id": 17182301, 
+            "wiki_title": "Credit card"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3735, 
+                    "end": 3739, 
+                    "score": 0.07518021762371063, 
+                    "spot": "east"
+                }
+            ], 
+            "wiki_id": 260987, 
+            "wiki_title": "East Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1254, 
+                    "end": 1263, 
+                    "score": 0.11102573573589325, 
+                    "spot": "Retailers"
+                }
+            ], 
+            "wiki_id": 183515, 
+            "wiki_title": "Retail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 117, 
+                    "score": 0.19455187022686005, 
+                    "spot": "Consumers"
+                }
+            ], 
+            "wiki_id": 7818, 
+            "wiki_title": "Consumer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2713, 
+                    "end": 2718, 
+                    "score": 0.17509222030639648, 
+                    "spot": "Earth"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5217, 
+                    "end": 5222, 
+                    "score": 0.02227979339659214, 
+                    "spot": "Marla"
+                }
+            ], 
+            "wiki_id": 3440391, 
+            "wiki_title": "Marla, South Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3533, 
+                    "end": 3539, 
+                    "score": 0.07726946473121643, 
+                    "spot": "coated"
+                }
+            ], 
+            "wiki_id": 1897245, 
+            "wiki_title": "Coating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4724, 
+                    "end": 4734, 
+                    "score": 0.9333622455596924, 
+                    "spot": "Bob Kerrey"
+                }
+            ], 
+            "wiki_id": 395674, 
+            "wiki_title": "Bob Kerrey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3743, 
+                    "end": 3756, 
+                    "score": 0.5809630751609802, 
+                    "spot": "Kodiak Island"
+                }
+            ], 
+            "wiki_id": 615988, 
+            "wiki_title": "Kodiak Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4499, 
+                    "end": 4504, 
+                    "score": 0.1043647900223732, 
+                    "spot": "oiled"
+                }
+            ], 
+            "wiki_id": 657, 
+            "wiki_title": "Asphalt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4087, 
+                    "end": 4091, 
+                    "score": 0.1665213406085968, 
+                    "spot": "bury"
+                }
+            ], 
+            "wiki_id": 300812, 
+            "wiki_title": "Bury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 316, 
+                    "end": 323, 
+                    "score": 0.021649878472089767, 
+                    "spot": "drafted"
+                }
+            ], 
+            "wiki_id": 1029446, 
+            "wiki_title": "Conscription in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1659, 
+                    "end": 1663, 
+                    "score": 0.08865199983119965, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 597862, 
+            "wiki_title": "Israeli disengagement from Gaza"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 84, 
+                    "score": 0.25766125321388245, 
+                    "spot": "clean up"
+                }, 
+                {
+                    "begin": 1511, 
+                    "end": 1518, 
+                    "score": 0.09025373309850693, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 2406, 
+                    "end": 2413, 
+                    "score": 0.19401602447032928, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 4120, 
+                    "end": 4127, 
+                    "score": 0.09910577535629272, 
+                    "spot": "cleanup"
+                }
+            ], 
+            "wiki_id": 406260, 
+            "wiki_title": "Environmental remediation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1204, 
+                    "end": 1206, 
+                    "score": 0.1337188333272934, 
+                    "spot": "Jr"
+                }
+            ], 
+            "wiki_id": 3288139, 
+            "wiki_title": "Henry Richardson Labouisse, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 365, 
+                    "end": 370, 
+                    "score": 0.0665118470788002, 
+                    "spot": "short"
+                }
+            ], 
+            "wiki_id": 113519, 
+            "wiki_title": "Short (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1026, 
+                    "end": 1031, 
+                    "score": 0.14080806076526642, 
+                    "spot": "rally"
+                }, 
+                {
+                    "begin": 4942, 
+                    "end": 4947, 
+                    "score": 0.030230646952986717, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1005, 
+                    "end": 1010, 
+                    "score": 0.06542056053876877, 
+                    "spot": "Amick"
+                }
+            ], 
+            "wiki_id": 1252147, 
+            "wiki_title": "Red Amick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4230, 
+                    "end": 4243, 
+                    "score": 0.08949439227581024, 
+                    "spot": "environmental"
+                }
+            ], 
+            "wiki_id": 3407706, 
+            "wiki_title": "Environmental policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 864, 
+                    "score": 0.026737967506051064, 
+                    "spot": "war of words"
+                }
+            ], 
+            "wiki_id": 5929409, 
+            "wiki_title": "War of Words (Fight album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1912, 
+                    "end": 1919, 
+                    "score": 0.014574551954865456, 
+                    "spot": "beaches"
+                }
+            ], 
+            "wiki_id": 354644, 
+            "wiki_title": "The Beaches"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4341, 
+                    "end": 4347, 
+                    "score": 0.06629949808120728, 
+                    "spot": "expect"
+                }
+            ], 
+            "wiki_id": 9653, 
+            "wiki_title": "Expected value"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3338, 
+                    "end": 3343, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 4422136, 
+            "wiki_title": "Miles, Queensland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3089, 
+                    "end": 3092, 
+                    "score": 0.10591351985931396, 
+                    "spot": "saw"
+                }, 
+                {
+                    "begin": 3516, 
+                    "end": 3519, 
+                    "score": 0.1321205347776413, 
+                    "spot": "saw"
+                }
+            ], 
+            "wiki_id": 1025150, 
+            "wiki_title": "Saw (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2808, 
+                    "end": 2813, 
+                    "score": 0.08529616892337799, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 21289, 
+            "wiki_title": "Nautical mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 575, 
+                    "end": 579, 
+                    "score": 0.0005959101836197078, 
+                    "spot": "send"
+                }
+            ], 
+            "wiki_id": 658482, 
+            "wiki_title": "Send, Surrey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1438, 
+                    "end": 1444, 
+                    "score": 0.014237288385629654, 
+                    "spot": "cut up"
+                }
+            ], 
+            "wiki_id": 1068262, 
+            "wiki_title": "Scrap"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3254, 
+                    "end": 3257, 
+                    "score": 0.1158372312784195, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 38444154, 
+            "wiki_title": "Big (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 206, 
+                    "end": 214, 
+                    "score": 0.0766533613204956, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 26561880, 
+            "wiki_title": "Advocacy group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1519, 
+                    "end": 1527, 
+                    "score": 0.06730979681015015, 
+                    "spot": "strategy"
+                }
+            ], 
+            "wiki_id": 29607, 
+            "wiki_title": "Strategy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 135, 
+                    "end": 152, 
+                    "score": 0.1719101369380951, 
+                    "spot": "environmentalists"
+                }, 
+                {
+                    "begin": 947, 
+                    "end": 970, 
+                    "score": 0.1989973932504654, 
+                    "spot": "protect the\nenvironment"
+                }, 
+                {
+                    "begin": 959, 
+                    "end": 970, 
+                    "score": 0.2956083416938782, 
+                    "spot": "environment"
+                }
+            ], 
+            "wiki_id": 1866009, 
+            "wiki_title": "Environmentalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4824, 
+                    "end": 4833, 
+                    "score": 0.001611298997886479, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 24698646, 
+            "wiki_title": "Potential"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5549, 
+                    "end": 5560, 
+                    "score": 0.07841378450393677, 
+                    "spot": "independent"
+                }
+            ], 
+            "wiki_id": 27593, 
+            "wiki_title": "Independence (probability theory)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2694, 
+                    "end": 2701, 
+                    "score": 0.08938518166542053, 
+                    "spot": "turning"
+                }
+            ], 
+            "wiki_id": 244219, 
+            "wiki_title": "Shapeshifting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4968, 
+                    "end": 4991, 
+                    "score": 0.0791366919875145, 
+                    "spot": "State attorneys general"
+                }
+            ], 
+            "wiki_id": 6065438, 
+            "wiki_title": "State attorney general"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4147, 
+                    "end": 4157, 
+                    "score": 0.04135982692241669, 
+                    "spot": "exemptions"
+                }
+            ], 
+            "wiki_id": 960403, 
+            "wiki_title": "Tax exemption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1203, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Surette"
+                }
+            ], 
+            "wiki_id": 17613106, 
+            "wiki_title": "Rob Surette"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5474, 
+                    "end": 5480, 
+                    "score": 0.128252774477005, 
+                    "spot": "market"
+                }, 
+                {
+                    "begin": 5527, 
+                    "end": 5534, 
+                    "score": 0.08640127629041672, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 3736784, 
+            "wiki_title": "Market (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1952, 
+                    "end": 1959, 
+                    "score": 0.08932938426733017, 
+                    "spot": "beaches"
+                }
+            ], 
+            "wiki_id": 40630, 
+            "wiki_title": "Beach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3222, 
+                    "end": 3226, 
+                    "score": 0.06274548172950745, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 211183, 
+            "wiki_title": "Tell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5018, 
+                    "end": 5023, 
+                    "score": 0.4859548807144165, 
+                    "spot": "Idaho"
+                }
+            ], 
+            "wiki_id": 14607, 
+            "wiki_title": "Idaho"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 51, 
+                    "end": 59, 
+                    "score": 0.077496238052845, 
+                    "spot": "attacked"
+                }
+            ], 
+            "wiki_id": 2185939, 
+            "wiki_title": "7 July 2005 London bombings"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1279, 
+                    "end": 1294, 
+                    "score": 0.5, 
+                    "spot": "Billerica, Mass"
+                }
+            ], 
+            "wiki_id": 116833, 
+            "wiki_title": "Billerica, Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3389, 
+                    "end": 3395, 
+                    "score": 0.24782799184322357, 
+                    "spot": "debris"
+                }
+            ], 
+            "wiki_id": 1827851, 
+            "wiki_title": "Marine debris"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2843, 
+                    "end": 2846, 
+                    "score": 0.13253779709339142, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 3385, 
+                    "end": 3388, 
+                    "score": 0.1920306235551834, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 3543, 
+                    "end": 3546, 
+                    "score": 0.1329948455095291, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 3758, 
+                    "end": 3761, 
+                    "score": 0.1000400260090828, 
+                    "spot": "Oil"
+                }
+            ], 
+            "wiki_id": 4207510, 
+            "wiki_title": "Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 240, 
+                    "score": 0.09060123562812805, 
+                    "spot": "federal"
+                }, 
+                {
+                    "begin": 3584, 
+                    "end": 3591, 
+                    "score": 0.08099907636642456, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5171, 
+                    "end": 5175, 
+                    "score": 0.08994793891906738, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 554992, 
+            "wiki_title": "Secondary school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3451, 
+                    "end": 3454, 
+                    "score": 0.0030921814031898975, 
+                    "spot": "bad"
+                }
+            ], 
+            "wiki_id": 42270307, 
+            "wiki_title": "Bad (David Guetta and Showtek song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1420, 
+                    "end": 1427, 
+                    "score": 0.07327575236558914, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 2466, 
+                    "end": 2473, 
+                    "score": 0.20873889327049255, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 2981, 
+                    "end": 2988, 
+                    "score": 0.06661072373390198, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4380, 
+                    "end": 4398, 
+                    "score": 0.14474885165691376, 
+                    "spot": "environmental laws"
+                }
+            ], 
+            "wiki_id": 10091, 
+            "wiki_title": "Environmental law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2932, 
+                    "end": 2936, 
+                    "score": 0.18230456113815308, 
+                    "spot": "reef"
+                }
+            ], 
+            "wiki_id": 87410, 
+            "wiki_title": "Coral reef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1690, 
+                    "end": 1703, 
+                    "score": 0.03333333507180214, 
+                    "spot": "news briefing"
+                }, 
+                {
+                    "begin": 5300, 
+                    "end": 5315, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 924, 
+                    "score": 0.0006818384863436222, 
+                    "spot": "understand"
+                }
+            ], 
+            "wiki_id": 216180, 
+            "wiki_title": "Understanding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5391, 
+                    "end": 5396, 
+                    "score": 0.10661210119724274, 
+                    "spot": "blame"
+                }
+            ], 
+            "wiki_id": 319888, 
+            "wiki_title": "Blame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4750, 
+                    "end": 4759, 
+                    "score": 0.2633998692035675, 
+                    "spot": "Democrats"
+                }
+            ], 
+            "wiki_id": 5043544, 
+            "wiki_title": "Democratic Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3127, 
+                    "end": 3138, 
+                    "score": 0.019685039296746254, 
+                    "spot": "tidal basin"
+                }
+            ], 
+            "wiki_id": 5290976, 
+            "wiki_title": "Tidal Basin railway station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5251, 
+                    "end": 5274, 
+                    "score": 0.4838709533214569, 
+                    "spot": "Oregon Attorney General"
+                }
+            ], 
+            "wiki_id": 8358832, 
+            "wiki_title": "Oregon Attorney General"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2086, 
+                    "end": 2095, 
+                    "score": 0.03668525442481041, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 1822923, 
+            "wiki_title": "Wednesday Night Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4275, 
+                    "end": 4279, 
+                    "score": 0.08169203996658325, 
+                    "spot": "laws"
+                }
+            ], 
+            "wiki_id": 18949668, 
+            "wiki_title": "Law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4308, 
+                    "end": 4315, 
+                    "score": 0.045549698173999786, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3803, 
+                    "end": 3810, 
+                    "score": 0.28125, 
+                    "spot": "Chignik"
+                }
+            ], 
+            "wiki_id": 105513, 
+            "wiki_title": "Chignik, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5561, 
+                    "end": 5568, 
+                    "score": 0.08048106729984283, 
+                    "spot": "dealers"
+                }
+            ], 
+            "wiki_id": 20810, 
+            "wiki_title": "Merchant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 615, 
+                    "end": 621, 
+                    "score": 0.008891956880688667, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 2172378, 
+            "wiki_title": "Independent politician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3478, 
+                    "end": 3484, 
+                    "score": 0.10191965103149414, 
+                    "spot": "eagles"
+                }, 
+                {
+                    "begin": 3524, 
+                    "end": 3529, 
+                    "score": 0.10897664725780487, 
+                    "spot": "eagle"
+                }
+            ], 
+            "wiki_id": 37602, 
+            "wiki_title": "Eagle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3050, 
+                    "end": 3055, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 16897, 
+            "wiki_title": "Knight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1158, 
+                    "end": 1162, 
+                    "score": 0.012899607419967651, 
+                    "spot": "urge"
+                }
+            ], 
+            "wiki_id": 30863509, 
+            "wiki_title": "The Urge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3015, 
+                    "end": 3035, 
+                    "score": 0.5, 
+                    "spot": "Prince William Sound"
+                }
+            ], 
+            "wiki_id": 197927, 
+            "wiki_title": "Prince William Sound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3766, 
+                    "end": 3773, 
+                    "score": 0.003496503457427025, 
+                    "spot": "tainted"
+                }
+            ], 
+            "wiki_id": 6115260, 
+            "wiki_title": "Tainted (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1142, 
+                    "end": 1154, 
+                    "score": 0.07151737064123154, 
+                    "spot": "headquarters"
+                }
+            ], 
+            "wiki_id": 745008, 
+            "wiki_title": "Headquarters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3427, 
+                    "end": 3433, 
+                    "score": 0.0007381559698842466, 
+                    "spot": "shores"
+                }
+            ], 
+            "wiki_id": 11217503, 
+            "wiki_title": "Shores"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 622, 
+                    "end": 629, 
+                    "score": 0.05072321742773056, 
+                    "spot": "blasted"
+                }
+            ], 
+            "wiki_id": 10192, 
+            "wiki_title": "Explosive material"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4741, 
+                    "end": 4749, 
+                    "score": 0.437637597322464, 
+                    "spot": "Nebraska"
+                }
+            ], 
+            "wiki_id": 21647, 
+            "wiki_title": "Nebraska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5457, 
+                    "end": 5466, 
+                    "score": 0.11353015899658203, 
+                    "spot": "reporters"
+                }
+            ], 
+            "wiki_id": 50100, 
+            "wiki_title": "Journalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2042, 
+                    "end": 2045, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 130, 
+                    "score": 0.12977945804595947, 
+                    "spot": "politicians"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2462, 
+                    "end": 2473, 
+                    "score": 0.33750176429748535, 
+                    "spot": "100 million"
+                }
+            ], 
+            "wiki_id": 2847945, 
+            "wiki_title": "100000000 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 428, 
+                    "end": 433, 
+                    "score": 0.1764838844537735, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 988, 
+                    "end": 993, 
+                    "score": 0.1752263903617859, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 303, 
+            "wiki_title": "Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1855, 
+                    "end": 1857, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 3167, 
+                    "end": 3169, 
+                    "score": 0.05993282422423363, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 231184, 
+            "wiki_title": "WE tv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3719, 
+                    "end": 3734, 
+                    "score": 0.8284615278244019, 
+                    "spot": "Shelikof Strait"
+                }
+            ], 
+            "wiki_id": 915942, 
+            "wiki_title": "Shelikof Strait"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5223, 
+                    "end": 5226, 
+                    "score": 0.03333333507180214, 
+                    "spot": "Rae"
+                }
+            ], 
+            "wiki_id": 33869061, 
+            "wiki_title": "Summer Rae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4216, 
+                    "end": 4223, 
+                    "score": 0.08819937705993652, 
+                    "spot": "ranking"
+                }
+            ], 
+            "wiki_id": 938065, 
+            "wiki_title": "Ranking member"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4640, 
+                    "end": 4644, 
+                    "score": 0.007695021573454142, 
+                    "spot": "mean"
+                }
+            ], 
+            "wiki_id": 19192, 
+            "wiki_title": "Mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2871, 
+                    "end": 2877, 
+                    "score": 0.2486332356929779, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 3850, 
+                    "end": 3856, 
+                    "score": 0.21360960602760315, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 15923603, 
+            "wiki_title": "Oil tanker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1976, 
+                    "end": 1979, 
+                    "score": 0.07027485966682434, 
+                    "spot": "far"
+                }, 
+                {
+                    "begin": 3796, 
+                    "end": 3799, 
+                    "score": 0.04607808589935303, 
+                    "spot": "far"
+                }
+            ], 
+            "wiki_id": 11672, 
+            "wiki_title": "Far East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1836, 
+                    "end": 1841, 
+                    "score": 0.011394882574677467, 
+                    "spot": "haven"
+                }
+            ], 
+            "wiki_id": 73213, 
+            "wiki_title": "Sanctuary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 250, 
+                    "end": 258, 
+                    "score": 0.10941825807094574, 
+                    "spot": "tracking"
+                }
+            ], 
+            "wiki_id": 9657023, 
+            "wiki_title": "Tracking (education)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 831, 
+                    "end": 833, 
+                    "score": 0.23432347178459167, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 27947883, 
+            "wiki_title": "W.E."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3971, 
+                    "end": 3978, 
+                    "score": 0.2010810822248459, 
+                    "spot": "drydock"
+                }
+            ], 
+            "wiki_id": 213739, 
+            "wiki_title": "Dry dock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1360, 
+                    "end": 1371, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5397, 
+                    "end": 5406, 
+                    "score": 0.5, 
+                    "spot": "the price"
+                }
+            ], 
+            "wiki_id": 3528209, 
+            "wiki_title": "The Price (Angel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3127, 
+                    "end": 3132, 
+                    "score": 0.036713287234306335, 
+                    "spot": "tidal"
+                }
+            ], 
+            "wiki_id": 30718, 
+            "wiki_title": "Tide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2989, 
+                    "end": 2996, 
+                    "score": 0.14183534681797028, 
+                    "spot": "gallons"
+                }
+            ], 
+            "wiki_id": 12882, 
+            "wiki_title": "Gallon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2556, 
+                    "end": 2572, 
+                    "score": 0.1366475224494934, 
+                    "spot": "fishing\nindustry"
+                }
+            ], 
+            "wiki_id": 36581, 
+            "wiki_title": "Fishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3146, 
+                    "end": 3155, 
+                    "score": 0.375, 
+                    "spot": "Hallo Bay"
+                }
+            ], 
+            "wiki_id": 43170219, 
+            "wiki_title": "Hallo Bay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5275, 
+                    "end": 5290, 
+                    "score": 0.5, 
+                    "spot": "Dave Frohnmayer"
+                }
+            ], 
+            "wiki_id": 402320, 
+            "wiki_title": "David B. Frohnmayer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 60, 
+                    "end": 65, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 198, 
+                    "end": 203, 
+                    "score": 0.24317345023155212, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 418, 
+                    "end": 423, 
+                    "score": 0.2099343091249466, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 630, 
+                    "end": 635, 
+                    "score": 0.30170536041259766, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1126, 
+                    "end": 1131, 
+                    "score": 0.33056753873825073, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2636, 
+                    "end": 2641, 
+                    "score": 0.2787461280822754, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2745, 
+                    "end": 2750, 
+                    "score": 0.23590847849845886, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 4056, 
+                    "end": 4061, 
+                    "score": 0.26001477241516113, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 4421, 
+                    "end": 4426, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 18848197, 
+            "wiki_title": "ExxonMobil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4030, 
+                    "end": 4034, 
+                    "score": 0.17175684869289398, 
+                    "spot": "ship"
+                }
+            ], 
+            "wiki_id": 27008, 
+            "wiki_title": "Ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1728, 
+                    "end": 1734, 
+                    "score": 0.008435776457190514, 
+                    "spot": "backup"
+                }
+            ], 
+            "wiki_id": 162707, 
+            "wiki_title": "Singing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3954, 
+                    "end": 3958, 
+                    "score": 0.11515648663043976, 
+                    "spot": "home"
+                }
+            ], 
+            "wiki_id": 35908354, 
+            "wiki_title": "Home (Phillip Phillips song)"
+        }
+    ]
+}

@@ -1,0 +1,1864 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 129, 
+                    "end": 140, 
+                    "score": 0.016304347664117813, 
+                    "spot": "fire season"
+                }, 
+                {
+                    "begin": 940, 
+                    "end": 951, 
+                    "score": 0.016304347664117813, 
+                    "spot": "fire season"
+                }, 
+                {
+                    "begin": 1115, 
+                    "end": 1126, 
+                    "score": 0.016304347664117813, 
+                    "spot": "fire\nseason"
+                }
+            ], 
+            "wiki_id": 36303946, 
+            "wiki_title": "Fire Season"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1492, 
+                    "end": 1496, 
+                    "score": 0.09360852092504501, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 5990434, 
+            "wiki_title": "Look-in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2125, 
+                    "end": 2129, 
+                    "score": 0.1558067351579666, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 5638, 
+            "wiki_title": "Combustion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 331, 
+                    "end": 353, 
+                    "score": 0.13245482742786407, 
+                    "spot": "environmental benefits"
+                }
+            ], 
+            "wiki_id": 1021673, 
+            "wiki_title": "Environmentally friendly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 427, 
+                    "score": 0.0013895246665924788, 
+                    "spot": "Experts"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 515, 
+                    "end": 534, 
+                    "score": 0.11538461595773697, 
+                    "spot": "recycling nutrients"
+                }
+            ], 
+            "wiki_id": 32086658, 
+            "wiki_title": "Nutrient cycle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1467, 
+                    "end": 1473, 
+                    "score": 0.0691700205206871, 
+                    "spot": "review"
+                }
+            ], 
+            "wiki_id": 1499722, 
+            "wiki_title": "Instant replay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1084, 
+                    "end": 1098, 
+                    "score": 0.4375, 
+                    "spot": "last September"
+                }
+            ], 
+            "wiki_id": 9388823, 
+            "wiki_title": "The Last September"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 171, 
+                    "end": 182, 
+                    "score": 0.12242637574672699, 
+                    "spot": "co-chairman"
+                }, 
+                {
+                    "begin": 1000, 
+                    "end": 1011, 
+                    "score": 0.0351002998650074, 
+                    "spot": "co-chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1396, 
+                    "end": 1404, 
+                    "score": 0.015748031437397003, 
+                    "spot": "breathed"
+                }
+            ], 
+            "wiki_id": 175579, 
+            "wiki_title": "Berkeley Breathed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 232, 
+                    "end": 237, 
+                    "score": 0.11750764399766922, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 677, 
+                    "end": 682, 
+                    "score": 0.040147729218006134, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 1026, 
+                    "end": 1031, 
+                    "score": 0.10749787837266922, 
+                    "spot": "panel"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2204, 
+                    "end": 2213, 
+                    "score": 0.008771929889917374, 
+                    "spot": "that fire"
+                }
+            ], 
+            "wiki_id": 31808804, 
+            "wiki_title": "Post Mortem (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 640, 
+                    "end": 644, 
+                    "score": 0.11638616025447845, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 233082, 
+            "wiki_title": "Burn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1430, 
+                    "end": 1437, 
+                    "score": 0.08071281015872955, 
+                    "spot": "failure"
+                }
+            ], 
+            "wiki_id": 19005769, 
+            "wiki_title": "Failure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2366, 
+                    "score": 0.06975941359996796, 
+                    "spot": "agencies"
+                }
+            ], 
+            "wiki_id": 47917, 
+            "wiki_title": "News agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1366, 
+                    "end": 1373, 
+                    "score": 0.26598984003067017, 
+                    "spot": "tourism"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 443, 
+                    "score": 0.024193547666072845, 
+                    "spot": "renews"
+                }
+            ], 
+            "wiki_id": 5861444, 
+            "wiki_title": "Renews-Cappahayden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 502, 
+                    "end": 510, 
+                    "score": 0.22485579550266266, 
+                    "spot": "wildlife"
+                }
+            ], 
+            "wiki_id": 144219, 
+            "wiki_title": "Wildlife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2169, 
+                    "end": 2177, 
+                    "score": 0.07084136456251144, 
+                    "spot": "agencies"
+                }
+            ], 
+            "wiki_id": 489674, 
+            "wiki_title": "Government agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1696, 
+                    "end": 1701, 
+                    "score": 0.005339113995432854, 
+                    "spot": "tries"
+                }
+            ], 
+            "wiki_id": 523137, 
+            "wiki_title": "Try"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1789, 
+                    "end": 1803, 
+                    "score": 0.010657194070518017, 
+                    "spot": "public comment"
+                }
+            ], 
+            "wiki_id": 29524395, 
+            "wiki_title": "Public comment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 861, 
+                    "end": 866, 
+                    "score": 0.020853307098150253, 
+                    "spot": "guess"
+                }
+            ], 
+            "wiki_id": 1632036, 
+            "wiki_title": "Guess (clothing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1847, 
+                    "end": 1854, 
+                    "score": 0.0021227288525551558, 
+                    "spot": "adopted"
+                }
+            ], 
+            "wiki_id": 2769409, 
+            "wiki_title": "Coming into force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 650, 
+                    "score": 0.08573482185602188, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1227644, 
+            "wiki_title": "Henry May (VC)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2859, 
+                    "end": 2864, 
+                    "score": 0.10964704304933548, 
+                    "spot": "daily"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 113, 
+                    "score": 0.05325477942824364, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 430699, 
+            "wiki_title": "START I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2851, 
+                    "end": 2858, 
+                    "score": 0.10712829977273941, 
+                    "spot": "writing"
+                }
+            ], 
+            "wiki_id": 32977, 
+            "wiki_title": "Writing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1416, 
+                    "end": 1422, 
+                    "score": 0.00390595942735672, 
+                    "spot": "ruined"
+                }
+            ], 
+            "wiki_id": 800948, 
+            "wiki_title": "Ruins"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2977, 
+                    "end": 2999, 
+                    "score": 0.09119125455617905, 
+                    "spot": "government authorities"
+                }
+            ], 
+            "wiki_id": 3219525, 
+            "wiki_title": "Public-benefit corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 484, 
+                    "end": 488, 
+                    "score": 0.18384067714214325, 
+                    "spot": "grow"
+                }
+            ], 
+            "wiki_id": 564779, 
+            "wiki_title": "Cell growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1019, 
+                    "end": 1025, 
+                    "score": 0.07113490253686905, 
+                    "spot": "review"
+                }
+            ], 
+            "wiki_id": 11065202, 
+            "wiki_title": "Film criticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 809, 
+                    "end": 813, 
+                    "score": 0.04953523725271225, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1186, 
+                    "end": 1191, 
+                    "score": 0.2190876007080078, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 187359, 
+            "wiki_title": "Campfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 18, 
+                    "end": 22, 
+                    "score": 0.0786128044128418, 
+                    "spot": "halt"
+                }
+            ], 
+            "wiki_id": 4073596, 
+            "wiki_title": "Request stop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2082, 
+                    "end": 2085, 
+                    "score": 0.04836484044790268, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 289, 
+                    "end": 300, 
+                    "score": 0.20669952034950256, 
+                    "spot": "agriculture"
+                }
+            ], 
+            "wiki_id": 627, 
+            "wiki_title": "Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 464, 
+                    "end": 471, 
+                    "score": 0.11427953839302063, 
+                    "spot": "species"
+                }
+            ], 
+            "wiki_id": 21780446, 
+            "wiki_title": "Species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 59, 
+                    "end": 70, 
+                    "score": 0.27278977632522583, 
+                    "spot": "forest fire"
+                }, 
+                {
+                    "begin": 432, 
+                    "end": 436, 
+                    "score": 0.1008770614862442, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 625, 
+                    "end": 636, 
+                    "score": 0.38521620631217957, 
+                    "spot": "forest fire"
+                }, 
+                {
+                    "begin": 2091, 
+                    "end": 2104, 
+                    "score": 0.07911252975463867, 
+                    "spot": "natural fires"
+                }, 
+                {
+                    "begin": 2490, 
+                    "end": 2503, 
+                    "score": 0.22546911239624023, 
+                    "spot": "natural fires"
+                }, 
+                {
+                    "begin": 2926, 
+                    "end": 2938, 
+                    "score": 0.2818964719772339, 
+                    "spot": "natural fire"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2959, 
+                    "end": 2969, 
+                    "score": 0.06877549737691879, 
+                    "spot": "boundaries"
+                }
+            ], 
+            "wiki_id": 711720, 
+            "wiki_title": "Boundary (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 835, 
+                    "end": 845, 
+                    "score": 0.10037000477313995, 
+                    "spot": "management"
+                }, 
+                {
+                    "begin": 1971, 
+                    "end": 1981, 
+                    "score": 0.11117083579301834, 
+                    "spot": "management"
+                }, 
+                {
+                    "begin": 2214, 
+                    "end": 2224, 
+                    "score": 0.09422170370817184, 
+                    "spot": "management"
+                }, 
+                {
+                    "begin": 2434, 
+                    "end": 2448, 
+                    "score": 0.07861147820949554, 
+                    "spot": "administrative"
+                }, 
+                {
+                    "begin": 2533, 
+                    "end": 2543, 
+                    "score": 0.18442653119564056, 
+                    "spot": "management"
+                }
+            ], 
+            "wiki_id": 19881, 
+            "wiki_title": "Management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2712, 
+                    "end": 2716, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2199, 
+                    "end": 2203, 
+                    "score": 0.07138947397470474, 
+                    "spot": "sure"
+                }
+            ], 
+            "wiki_id": 11288661, 
+            "wiki_title": "Sure (company)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1317, 
+                    "end": 1321, 
+                    "score": 0.17140844464302063, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 189002, 
+            "wiki_title": "Fire department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 366, 
+                    "end": 371, 
+                    "score": 0.005682694725692272, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 855322, 
+            "wiki_title": "Dismissal (employment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1247, 
+                    "end": 1254, 
+                    "score": 0.08934568613767624, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1279, 
+                    "end": 1295, 
+                    "score": 0.09987669438123703, 
+                    "spot": "national forests"
+                }, 
+                {
+                    "begin": 1653, 
+                    "end": 1669, 
+                    "score": 0.09987669438123703, 
+                    "spot": "national forests"
+                }
+            ], 
+            "wiki_id": 42653, 
+            "wiki_title": "United States National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 600, 
+                    "score": 0.25681331753730774, 
+                    "spot": "economic"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2977, 
+                    "end": 2987, 
+                    "score": 0.11124220490455627, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 213, 
+                    "end": 223, 
+                    "score": 0.1591178923845291, 
+                    "spot": "moratorium"
+                }, 
+                {
+                    "begin": 879, 
+                    "end": 889, 
+                    "score": 0.06541129946708679, 
+                    "spot": "moratorium"
+                }
+            ], 
+            "wiki_id": 20394267, 
+            "wiki_title": "Moratorium (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1114, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "worst"
+                }
+            ], 
+            "wiki_id": 43031240, 
+            "wiki_title": "The Worst (Jhen\u00e9 Aiko song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1224, 
+                    "end": 1228, 
+                    "score": 0.13041676580905914, 
+                    "spot": "park"
+                }, 
+                {
+                    "begin": 1360, 
+                    "end": 1364, 
+                    "score": 0.18936491012573242, 
+                    "spot": "park"
+                }
+            ], 
+            "wiki_id": 166459, 
+            "wiki_title": "Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1543, 
+                    "end": 1559, 
+                    "score": 0.3625359535217285, 
+                    "spot": "wilderness areas"
+                }
+            ], 
+            "wiki_id": 3300207, 
+            "wiki_title": "National Wilderness Preservation System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1761, 
+                    "end": 1767, 
+                    "score": 0.1826389878988266, 
+                    "spot": "report"
+                }, 
+                {
+                    "begin": 2578, 
+                    "end": 2584, 
+                    "score": 0.1186940148472786, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 4692150, 
+            "wiki_title": "Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2398, 
+                    "end": 2400, 
+                    "score": 0.05074794590473175, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 27357385, 
+            "wiki_title": "Do-support"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1713, 
+                    "end": 1723, 
+                    "score": 0.10962191969156265, 
+                    "spot": "commercial"
+                }
+            ], 
+            "wiki_id": 39208, 
+            "wiki_title": "Commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2650, 
+                    "end": 2654, 
+                    "score": 0.23317638039588928, 
+                    "spot": "fuel"
+                }
+            ], 
+            "wiki_id": 21188370, 
+            "wiki_title": "Fuel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1387, 
+                    "end": 1390, 
+                    "score": 0.11558005958795547, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 10934212, 
+            "wiki_title": "Air pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1441, 
+                    "end": 1448, 
+                    "score": 0.08056563884019852, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 1640288, 
+            "wiki_title": "Scientific control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2826, 
+                    "end": 2834, 
+                    "score": 0.07096335291862488, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 705, 
+                    "end": 709, 
+                    "score": 0.006464462727308273, 
+                    "spot": "halt"
+                }
+            ], 
+            "wiki_id": 26161590, 
+            "wiki_title": "Train station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 966, 
+                    "end": 972, 
+                    "score": 0.10626985877752304, 
+                    "spot": "middle"
+                }
+            ], 
+            "wiki_id": 251534, 
+            "wiki_title": "Middle class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2819, 
+                    "end": 2825, 
+                    "score": 0.07434917986392975, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 716672, 
+            "wiki_title": "Agency (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 571, 
+                    "end": 576, 
+                    "score": 0.21174627542495728, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 474, 
+                    "end": 480, 
+                    "score": 0.05813179910182953, 
+                    "spot": "chance"
+                }
+            ], 
+            "wiki_id": 22934, 
+            "wiki_title": "Probability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2840, 
+                    "end": 2847, 
+                    "score": 0.005277777556329966, 
+                    "spot": "certify"
+                }
+            ], 
+            "wiki_id": 3692331, 
+            "wiki_title": "Certification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2404, 
+                    "end": 2409, 
+                    "score": 0.005682694725692272, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 156998, 
+            "wiki_title": "Action potential"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2738, 
+                    "end": 2747, 
+                    "score": 0.07590443640947342, 
+                    "spot": "resources"
+                }
+            ], 
+            "wiki_id": 46053, 
+            "wiki_title": "Human resources"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2310, 
+                    "end": 2319, 
+                    "score": 0.00818826537579298, 
+                    "spot": "everybody"
+                }
+            ], 
+            "wiki_id": 2288523, 
+            "wiki_title": "Everybody (Madonna song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1724, 
+                    "end": 1733, 
+                    "score": 0.10395225137472153, 
+                    "spot": "timbering"
+                }
+            ], 
+            "wiki_id": 59399, 
+            "wiki_title": "Lumber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 188, 
+                    "end": 193, 
+                    "score": 0.12523625791072845, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 1064, 
+                    "end": 1069, 
+                    "score": 0.0036414358764886856, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 1753, 
+                    "end": 1758, 
+                    "score": 0.16339322924613953, 
+                    "spot": "panel"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1239, 
+                    "score": 0.15636995434761047, 
+                    "spot": "boundaries"
+                }, 
+                {
+                    "begin": 2449, 
+                    "end": 2459, 
+                    "score": 0.036369532346725464, 
+                    "spot": "boundaries"
+                }
+            ], 
+            "wiki_id": 247613, 
+            "wiki_title": "Border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2777, 
+                    "end": 2791, 
+                    "score": 0.04607396572828293, 
+                    "spot": "recommendation"
+                }
+            ], 
+            "wiki_id": 33149, 
+            "wiki_title": "World Wide Web Consortium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 305, 
+                    "end": 313, 
+                    "score": 0.15023382008075714, 
+                    "spot": "interior"
+                }
+            ], 
+            "wiki_id": 573174, 
+            "wiki_title": "Interior design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 141, 
+                    "end": 145, 
+                    "score": 0.15107476711273193, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 375, 
+                    "end": 389, 
+                    "score": 0.27082839608192444, 
+                    "spot": "national parks"
+                }, 
+                {
+                    "begin": 1162, 
+                    "end": 1175, 
+                    "score": 0.22367821633815765, 
+                    "spot": "National Park"
+                }, 
+                {
+                    "begin": 1524, 
+                    "end": 1538, 
+                    "score": 0.0872538685798645, 
+                    "spot": "national parks"
+                }, 
+                {
+                    "begin": 1887, 
+                    "end": 1901, 
+                    "score": 0.12378212809562683, 
+                    "spot": "national parks"
+                }
+            ], 
+            "wiki_id": 21818, 
+            "wiki_title": "National park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1955, 
+                    "end": 1965, 
+                    "score": 0.1467016190290451, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 444, 
+                    "end": 451, 
+                    "score": 0.09190277010202408, 
+                    "spot": "forests"
+                }, 
+                {
+                    "begin": 752, 
+                    "end": 758, 
+                    "score": 0.21567946672439575, 
+                    "spot": "Forest"
+                }
+            ], 
+            "wiki_id": 11090, 
+            "wiki_title": "Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2724, 
+                    "end": 2737, 
+                    "score": 0.13018670678138733, 
+                    "spot": "fire-fighting"
+                }
+            ], 
+            "wiki_id": 855608, 
+            "wiki_title": "Firefighting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1780, 
+                    "end": 1784, 
+                    "score": 0.06504539400339127, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 277663, 
+            "wiki_title": "Open-source software"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 915, 
+                    "end": 924, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 2689680, 
+            "wiki_title": "Lavender Castle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1150, 
+                    "end": 1175, 
+                    "score": 0.5, 
+                    "spot": "Yellowstone National Park"
+                }, 
+                {
+                    "begin": 1570, 
+                    "end": 1581, 
+                    "score": 0.26918917894363403, 
+                    "spot": "Yellowstone"
+                }
+            ], 
+            "wiki_id": 34340, 
+            "wiki_title": "Yellowstone National Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2153, 
+                    "end": 2160, 
+                    "score": 0.0009642581571824849, 
+                    "spot": "put out"
+                }
+            ], 
+            "wiki_id": 315813, 
+            "wiki_title": "Putout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2331, 
+                    "end": 2337, 
+                    "score": 0.08566869050264359, 
+                    "spot": "common"
+                }
+            ], 
+            "wiki_id": 5254, 
+            "wiki_title": "Common law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2561, 
+                    "end": 2570, 
+                    "score": 0.1845560371875763, 
+                    "spot": "standards"
+                }
+            ], 
+            "wiki_id": 27065, 
+            "wiki_title": "Standardization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 979, 
+                    "score": 0.07907532900571823, 
+                    "spot": "May"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2970, 
+                    "end": 2973, 
+                    "score": 0.07397686690092087, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2338, 
+                    "end": 2348, 
+                    "score": 0.09074898809194565, 
+                    "spot": "vocabulary"
+                }
+            ], 
+            "wiki_id": 8569916, 
+            "wiki_title": "English language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 817, 
+                    "end": 823, 
+                    "score": 0.08523358404636383, 
+                    "spot": "refine"
+                }
+            ], 
+            "wiki_id": 188788, 
+            "wiki_title": "Refining"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2242, 
+                    "end": 2254, 
+                    "score": 0.075513556599617, 
+                    "spot": "departmental"
+                }
+            ], 
+            "wiki_id": 408044, 
+            "wiki_title": "Academic department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2879, 
+                    "end": 2888, 
+                    "score": 0.17733004689216614, 
+                    "spot": "resources"
+                }
+            ], 
+            "wiki_id": 21675, 
+            "wiki_title": "Natural resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 274, 
+                    "end": 285, 
+                    "score": 0.09284006804227829, 
+                    "spot": "secretaries"
+                }
+            ], 
+            "wiki_id": 214196, 
+            "wiki_title": "Secretary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 414, 
+                    "end": 418, 
+                    "score": 0.08819849789142609, 
+                    "spot": "burn"
+                }, 
+                {
+                    "begin": 1944, 
+                    "end": 1948, 
+                    "score": 0.19281968474388123, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 18842308, 
+            "wiki_title": "Stream"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1906, 
+                    "end": 1922, 
+                    "score": 0.2436278909444809, 
+                    "spot": "wilderness areas"
+                }
+            ], 
+            "wiki_id": 396275, 
+            "wiki_title": "Wilderness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2717, 
+                    "end": 2720, 
+                    "score": 0.09897023439407349, 
+                    "spot": "tie"
+                }
+            ], 
+            "wiki_id": 529780, 
+            "wiki_title": "Railroad tie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 30, 
+                    "end": 40, 
+                    "score": 0.0812394767999649, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 151962, 
+            "wiki_title": "Government of Hong Kong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2422, 
+                    "end": 2426, 
+                    "score": 0.1273365020751953, 
+                    "spot": "move"
+                }
+            ], 
+            "wiki_id": 329862, 
+            "wiki_title": "The Move"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 587, 
+                    "score": 0.22644223272800446, 
+                    "spot": "social"
+                }
+            ], 
+            "wiki_id": 37235, 
+            "wiki_title": "Society"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 733, 
+                    "end": 739, 
+                    "score": 0.15432272851467133, 
+                    "spot": "policy"
+                }
+            ], 
+            "wiki_id": 3407706, 
+            "wiki_title": "Environmental policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 394, 
+                    "end": 410, 
+                    "score": 0.1259058117866516, 
+                    "spot": "wilderness areas"
+                }
+            ], 
+            "wiki_id": 32047492, 
+            "wiki_title": "Strict nature reserve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1300, 
+                    "end": 1309, 
+                    "score": 0.09759353846311569, 
+                    "spot": "Residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2401, 
+                    "end": 2403, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 2520164, 
+            "wiki_title": "If (Bread song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1734, 
+                    "end": 1744, 
+                    "score": 0.13947945833206177, 
+                    "spot": "operations"
+                }
+            ], 
+            "wiki_id": 24702, 
+            "wiki_title": "Peace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1192, 
+                    "end": 1198, 
+                    "score": 0.13597863912582397, 
+                    "spot": "seared"
+                }
+            ], 
+            "wiki_id": 275178, 
+            "wiki_title": "Searing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2620, 
+                    "end": 2627, 
+                    "score": 0.13369442522525787, 
+                    "spot": "effects"
+                }
+            ], 
+            "wiki_id": 2119174, 
+            "wiki_title": "Effects of global warming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 331, 
+                    "end": 344, 
+                    "score": 0.2224159687757492, 
+                    "spot": "environmental"
+                }
+            ], 
+            "wiki_id": 1866009, 
+            "wiki_title": "Environmentalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 991, 
+                    "end": 998, 
+                    "score": 0.033923305571079254, 
+                    "spot": "Philpot"
+                }
+            ], 
+            "wiki_id": 39795827, 
+            "wiki_title": "John Philpot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 428, 
+                    "end": 431, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1212, 
+                    "score": 0.11273122578859329, 
+                    "spot": "acres"
+                }
+            ], 
+            "wiki_id": 1797, 
+            "wiki_title": "Acre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 71, 
+                    "end": 77, 
+                    "score": 0.0029245957266539335, 
+                    "spot": "policy"
+                }, 
+                {
+                    "begin": 2255, 
+                    "end": 2263, 
+                    "score": 0.16754783689975739, 
+                    "spot": "policies"
+                }, 
+                {
+                    "begin": 2295, 
+                    "end": 2303, 
+                    "score": 0.17215661704540253, 
+                    "spot": "policies"
+                }
+            ], 
+            "wiki_id": 375091, 
+            "wiki_title": "Policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1808, 
+                    "end": 1815, 
+                    "score": 0.008426966145634651, 
+                    "spot": "60\ndays"
+                }
+            ], 
+            "wiki_id": 49796473, 
+            "wiki_title": "60 Days In"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2465, 
+                    "end": 2471, 
+                    "score": 0.06592272222042084, 
+                    "spot": "report"
+                }, 
+                {
+                    "begin": 2753, 
+                    "end": 2759, 
+                    "score": 0.09011726081371307, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 18993857, 
+            "wiki_title": "Explosion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 695, 
+                    "end": 704, 
+                    "score": 0.03711774945259094, 
+                    "spot": "temporary"
+                }
+            ], 
+            "wiki_id": 150237, 
+            "wiki_title": "Military rank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1040, 
+                    "end": 1055, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news\nconference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2280, 
+                    "end": 2290, 
+                    "score": 0.21321077644824982, 
+                    "spot": "understand"
+                }
+            ], 
+            "wiki_id": 216180, 
+            "wiki_title": "Understanding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 775, 
+                    "end": 796, 
+                    "score": 0.4201388955116272, 
+                    "spot": "National Park Service"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 796, 
+                    "score": 0.0011102886637672782, 
+                    "spot": "Park Service"
+                }
+            ], 
+            "wiki_id": 161535, 
+            "wiki_title": "National Park Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 899, 
+                    "end": 907, 
+                    "score": 0.0012518493458628654, 
+                    "spot": "finished"
+                }
+            ], 
+            "wiki_id": 7556696, 
+            "wiki_title": "Examen artium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2641, 
+                    "end": 2648, 
+                    "score": 0.33858466148376465, 
+                    "spot": "drought"
+                }
+            ], 
+            "wiki_id": 37335, 
+            "wiki_title": "Drought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 266, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 7634921, 
+            "wiki_title": "Thursday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 608, 
+                    "score": 0.08751534670591354, 
+                    "spot": "economic\neffects"
+                }
+            ], 
+            "wiki_id": 11477230, 
+            "wiki_title": "Minimum wage in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1768, 
+                    "end": 1772, 
+                    "score": 0.09518606960773468, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2939, 
+                    "end": 2943, 
+                    "score": 0.11747957020998001, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1474, 
+                    "end": 1478, 
+                    "score": 0.16078327596187592, 
+                    "spot": "team"
+                }
+            ], 
+            "wiki_id": 30028, 
+            "wiki_title": "The A-Team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 983, 
+                    "end": 990, 
+                    "score": 0.05653505027294159, 
+                    "spot": "Charles"
+                }
+            ], 
+            "wiki_id": 125248, 
+            "wiki_title": "Charles, Prince of Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1869, 
+                    "score": 0.0011830201838165522, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 455350, 
+            "wiki_title": "School discipline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2231, 
+                    "end": 2238, 
+                    "score": 0.08797090500593185, 
+                    "spot": "conform"
+                }
+            ], 
+            "wiki_id": 20757984, 
+            "wiki_title": "Conformity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1644, 
+                    "end": 1652, 
+                    "score": 0.01236046850681305, 
+                    "spot": "ordinary"
+                }
+            ], 
+            "wiki_id": 32742753, 
+            "wiki_title": "Ordinary differential equation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1827, 
+                    "end": 1842, 
+                    "score": 0.0007422633352689445, 
+                    "spot": "recommendations"
+                }
+            ], 
+            "wiki_id": 596646, 
+            "wiki_title": "Recommender system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2655, 
+                    "end": 2671, 
+                    "score": 0.23773665726184845, 
+                    "spot": "moisture content"
+                }
+            ], 
+            "wiki_id": 1864331, 
+            "wiki_title": "Water content"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 146, 
+                    "end": 152, 
+                    "score": 0.07624007016420364, 
+                    "spot": "spring"
+                }
+            ], 
+            "wiki_id": 316532, 
+            "wiki_title": "Spring (season)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2270, 
+                    "end": 2279, 
+                    "score": 0.204339861869812, 
+                    "spot": "employees"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 45, 
+                    "end": 56, 
+                    "score": 0.18987341225147247, 
+                    "spot": "let it\nburn"
+                }, 
+                {
+                    "begin": 719, 
+                    "end": 730, 
+                    "score": 0.18987341225147247, 
+                    "spot": "let it burn"
+                }
+            ], 
+            "wiki_id": 11970091, 
+            "wiki_title": "Let It Burn (Nebula EP)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 830, 
+                    "end": 834, 
+                    "score": 0.05814272165298462, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 1453, 
+                    "end": 1458, 
+                    "score": 0.08321920782327652, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1878, 
+                    "end": 1883, 
+                    "score": 0.03797607496380806, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1966, 
+                    "end": 1970, 
+                    "score": 0.1209685429930687, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 2706, 
+                    "end": 2711, 
+                    "score": 0.09723420441150665, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 11145, 
+            "wiki_title": "Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 242, 
+                    "end": 257, 
+                    "score": 0.05908546596765518, 
+                    "spot": "recommendations"
+                }
+            ], 
+            "wiki_id": 165300, 
+            "wiki_title": "Directive (European Union)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 121, 
+                    "end": 128, 
+                    "score": 0.0884440615773201, 
+                    "spot": "Western"
+                }, 
+                {
+                    "begin": 932, 
+                    "end": 939, 
+                    "score": 0.01108082477003336, 
+                    "spot": "Western"
+                }
+            ], 
+            "wiki_id": 252507, 
+            "wiki_title": "American frontier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1500, 
+                    "end": 1508, 
+                    "score": 0.02211044542491436, 
+                    "spot": "policies"
+                }, 
+                {
+                    "begin": 1612, 
+                    "end": 1620, 
+                    "score": 0.034752361476421356, 
+                    "spot": "policies"
+                }
+            ], 
+            "wiki_id": 153324, 
+            "wiki_title": "Public policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 752, 
+                    "end": 766, 
+                    "score": 0.2349216192960739, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 1681, 
+                    "end": 1695, 
+                    "score": 0.0350588895380497, 
+                    "spot": "Forest Service"
+                }
+            ], 
+            "wiki_id": 42652, 
+            "wiki_title": "United States Forest Service"
+        }
+    ]
+}

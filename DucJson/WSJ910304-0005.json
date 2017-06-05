@@ -1,0 +1,2332 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 827, 
+                    "end": 836, 
+                    "score": 0.15126550197601318, 
+                    "spot": "Yesterday"
+                }
+            ], 
+            "wiki_id": 143184, 
+            "wiki_title": "Yesterday (Beatles song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1691, 
+                    "end": 1722, 
+                    "score": 0.5, 
+                    "spot": "Federal Aviation Administration"
+                }, 
+                {
+                    "begin": 1903, 
+                    "end": 1906, 
+                    "score": 0.2400239109992981, 
+                    "spot": "FAA"
+                }, 
+                {
+                    "begin": 2697, 
+                    "end": 2700, 
+                    "score": 0.26624736189842224, 
+                    "spot": "FAA"
+                }
+            ], 
+            "wiki_id": 11186, 
+            "wiki_title": "Federal Aviation Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3306, 
+                    "end": 3314, 
+                    "score": 0.0061822193674743176, 
+                    "spot": "division"
+                }
+            ], 
+            "wiki_id": 36869, 
+            "wiki_title": "Cell division"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 151, 
+                    "end": 155, 
+                    "score": 0.12513387203216553, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 358, 
+                    "end": 374, 
+                    "score": 0.37724214792251587, 
+                    "spot": "Persian Gulf war"
+                }, 
+                {
+                    "begin": 366, 
+                    "end": 374, 
+                    "score": 0.4186535179615021, 
+                    "spot": "Gulf war"
+                }
+            ], 
+            "wiki_id": 182000, 
+            "wiki_title": "Gulf War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 14, 
+                    "score": 0.19541727006435394, 
+                    "spot": "Local news"
+                }
+            ], 
+            "wiki_id": 1681795, 
+            "wiki_title": "Local news"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 925, 
+                    "end": 930, 
+                    "score": 0.3519049286842346, 
+                    "spot": "DC-10"
+                }
+            ], 
+            "wiki_id": 150296, 
+            "wiki_title": "McDonnell Douglas DC-10"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2656, 
+                    "end": 2659, 
+                    "score": 0.04137205332517624, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 15944, 
+            "wiki_title": "Jet engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 839, 
+                    "end": 844, 
+                    "score": 0.08422856777906418, 
+                    "spot": "marks"
+                }
+            ], 
+            "wiki_id": 526729, 
+            "wiki_title": "Johnny Marks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 646, 
+                    "score": 0.1658802032470703, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 23385833, 
+            "wiki_title": "Neoplatonism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 79, 
+                    "end": 87, 
+                    "score": 0.1291532963514328, 
+                    "spot": "nosedive"
+                }
+            ], 
+            "wiki_id": 716158, 
+            "wiki_title": "Descent (aeronautics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2976, 
+                    "end": 2979, 
+                    "score": 0.09648998826742172, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1723, 
+                    "end": 1731, 
+                    "score": 0.16477876901626587, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 400892, 
+            "wiki_title": "Referee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3286, 
+                    "end": 3305, 
+                    "score": 0.3662894070148468, 
+                    "spot": "Pratt &amp; Whitney"
+                }
+            ], 
+            "wiki_id": 51519, 
+            "wiki_title": "Pratt &amp; Whitney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 991, 
+                    "end": 997, 
+                    "score": 0.09696429967880249, 
+                    "spot": "flight"
+                }
+            ], 
+            "wiki_id": 33668481, 
+            "wiki_title": "Flight (2012 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1235, 
+                    "end": 1251, 
+                    "score": 0.2017545998096466, 
+                    "spot": "Colorado Springs"
+                }, 
+                {
+                    "begin": 1380, 
+                    "end": 1396, 
+                    "score": 0.18249660730361938, 
+                    "spot": "Colorado\nSprings"
+                }
+            ], 
+            "wiki_id": 6250, 
+            "wiki_title": "Colorado Springs, Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2617, 
+                    "end": 2623, 
+                    "score": 0.24884335696697235, 
+                    "spot": "Dallas"
+                }
+            ], 
+            "wiki_id": 53838, 
+            "wiki_title": "Dallas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2248, 
+                    "end": 2253, 
+                    "score": 0.1359281688928604, 
+                    "spot": "smash"
+                }
+            ], 
+            "wiki_id": 172936, 
+            "wiki_title": "Smash (The Offspring album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 653, 
+                    "score": 0.12317372858524323, 
+                    "spot": "reason"
+                }
+            ], 
+            "wiki_id": 42446, 
+            "wiki_title": "Reason"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 603, 
+                    "end": 609, 
+                    "score": 0.09630424529314041, 
+                    "spot": "travel"
+                }, 
+                {
+                    "begin": 884, 
+                    "end": 888, 
+                    "score": 0.06368247419595718, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1079, 
+                    "end": 1083, 
+                    "score": 0.05268121883273125, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 5360793, 
+            "wiki_title": "Open carry in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 164, 
+                    "end": 179, 
+                    "score": 0.052356019616127014, 
+                    "spot": "travel industry"
+                }, 
+                {
+                    "begin": 546, 
+                    "end": 552, 
+                    "score": 0.12543849647045135, 
+                    "spot": "travel"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2917, 
+                    "end": 2931, 
+                    "score": 0.3290398120880127, 
+                    "spot": "El Paso County"
+                }
+            ], 
+            "wiki_id": 96997, 
+            "wiki_title": "El Paso County, Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1263, 
+                    "end": 1268, 
+                    "score": 0.001040340051986277, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 4764461, 
+            "wiki_title": "World War I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 255, 
+                    "end": 261, 
+                    "score": 0.18453006446361542, 
+                    "spot": "travel"
+                }
+            ], 
+            "wiki_id": 3001976, 
+            "wiki_title": "Travel insurance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2225, 
+                    "end": 2239, 
+                    "score": 0.03789893537759781, 
+                    "spot": "wind direction"
+                }
+            ], 
+            "wiki_id": 7221435, 
+            "wiki_title": "Wind direction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 429, 
+                    "score": 0.14123962819576263, 
+                    "spot": "schedules"
+                }
+            ], 
+            "wiki_id": 211960, 
+            "wiki_title": "Reinforcement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3018, 
+                    "end": 3029, 
+                    "score": 0.2396397739648819, 
+                    "spot": "head injury"
+                }
+            ], 
+            "wiki_id": 37641, 
+            "wiki_title": "Head injury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2545, 
+                    "end": 2551, 
+                    "score": 0.0471036471426487, 
+                    "spot": "higher"
+                }
+            ], 
+            "wiki_id": 14423, 
+            "wiki_title": "Higher education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 582, 
+                    "end": 593, 
+                    "score": 0.02690863609313965, 
+                    "spot": "discounting"
+                }
+            ], 
+            "wiki_id": 55335, 
+            "wiki_title": "Discounting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1975, 
+                    "end": 1985, 
+                    "score": 0.5, 
+                    "spot": "wind shear"
+                }, 
+                {
+                    "begin": 2065, 
+                    "end": 2075, 
+                    "score": 0.5, 
+                    "spot": "wind\nshear"
+                }, 
+                {
+                    "begin": 2184, 
+                    "end": 2194, 
+                    "score": 0.7811309099197388, 
+                    "spot": "Wind shear"
+                }, 
+                {
+                    "begin": 2308, 
+                    "end": 2318, 
+                    "score": 0.6526878476142883, 
+                    "spot": "wind shear"
+                }, 
+                {
+                    "begin": 2585, 
+                    "end": 2595, 
+                    "score": 0.7669312357902527, 
+                    "spot": "wind shear"
+                }, 
+                {
+                    "begin": 2750, 
+                    "end": 2760, 
+                    "score": 0.5, 
+                    "spot": "wind shear"
+                }
+            ], 
+            "wiki_id": 223992, 
+            "wiki_title": "Wind shear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3071, 
+                    "end": 3076, 
+                    "score": 0.32227516174316406, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 1749535, 
+            "wiki_title": "Crash (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1880, 
+                    "end": 1889, 
+                    "score": 0.0030782760586589575, 
+                    "spot": "speculate"
+                }
+            ], 
+            "wiki_id": 63088, 
+            "wiki_title": "Speculation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1596, 
+                    "end": 1601, 
+                    "score": 0.11822520196437836, 
+                    "spot": "river"
+                }
+            ], 
+            "wiki_id": 18842395, 
+            "wiki_title": "River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1774, 
+                    "end": 1779, 
+                    "score": 0.21077318489551544, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 736, 
+                    "end": 746, 
+                    "score": 0.2856611907482147, 
+                    "spot": "passengers"
+                }
+            ], 
+            "wiki_id": 4582654, 
+            "wiki_title": "Passenger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1870, 
+                    "score": 0.0770971029996872, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 4594672, 
+            "wiki_title": "Computational problem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2465, 
+                    "end": 2473, 
+                    "score": 0.2721636891365051, 
+                    "spot": "jetliner"
+                }
+            ], 
+            "wiki_id": 254128, 
+            "wiki_title": "Jet airliner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1279, 
+                    "end": 1286, 
+                    "score": 0.005522528663277626, 
+                    "spot": "warning"
+                }
+            ], 
+            "wiki_id": 275591, 
+            "wiki_title": "Tornado warning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 942, 
+                    "end": 958, 
+                    "score": 0.4360294044017792, 
+                    "spot": "Sioux City, Iowa"
+                }
+            ], 
+            "wiki_id": 150425, 
+            "wiki_title": "Sioux City, Iowa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1657, 
+                    "end": 1666, 
+                    "score": 0.003419972723349929, 
+                    "spot": "splashing"
+                }
+            ], 
+            "wiki_id": 1260390, 
+            "wiki_title": "Splash (fluid mechanics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2640, 
+                    "end": 2655, 
+                    "score": 0.5, 
+                    "spot": "Delta Air Lines"
+                }
+            ], 
+            "wiki_id": 77549, 
+            "wiki_title": "Delta Air Lines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1006, 
+                    "score": 0.09262018650770187, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 29095681, 
+            "wiki_title": "The Killing (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 855, 
+                    "end": 860, 
+                    "score": 0.10162126272916794, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 931, 
+                    "end": 938, 
+                    "score": 0.26429426670074463, 
+                    "spot": "crashed"
+                }, 
+                {
+                    "begin": 1419, 
+                    "end": 1424, 
+                    "score": 0.08205755054950714, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 2454, 
+                    "end": 2459, 
+                    "score": 0.22024506330490112, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 2596, 
+                    "end": 2604, 
+                    "score": 0.2753738462924957, 
+                    "spot": "accident"
+                }
+            ], 
+            "wiki_id": 164536, 
+            "wiki_title": "Aviation accidents and incidents"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 229, 
+                    "score": 0.06827273964881897, 
+                    "spot": "measure"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 324, 
+                    "end": 329, 
+                    "score": 0.08706983923912048, 
+                    "spot": "fears"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2027, 
+                    "end": 2029, 
+                    "score": 0.04016157239675522, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 658808, 
+            "wiki_title": "Material conditional"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3365, 
+                    "end": 3377, 
+                    "score": 0.0005658309091813862, 
+                    "spot": "this article"
+                }
+            ], 
+            "wiki_id": 20348643, 
+            "wiki_title": "Academic studies of the political groups of the European Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 32, 
+                    "end": 41, 
+                    "score": 0.0911942720413208, 
+                    "spot": "witnesses"
+                }
+            ], 
+            "wiki_id": 50956, 
+            "wiki_title": "Witness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3332, 
+                    "end": 3338, 
+                    "score": 0.18730689585208893, 
+                    "spot": "Pulley"
+                }
+            ], 
+            "wiki_id": 2978407, 
+            "wiki_title": "Andrew Pulley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 776, 
+                    "end": 780, 
+                    "score": 0.39638105034828186, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 1001906, 
+            "wiki_title": "Aircrew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1286, 
+                    "score": 0.5, 
+                    "spot": "high\nwind warning"
+                }
+            ], 
+            "wiki_id": 1546984, 
+            "wiki_title": "Gale warning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 873, 
+                    "end": 876, 
+                    "score": 0.2492619752883911, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 164656, 
+            "wiki_title": "Jet aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1295, 
+                    "end": 1299, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 2003, 
+                    "end": 2007, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 2083, 
+                    "end": 2087, 
+                    "score": 0.04255872964859009, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 597, 
+                    "end": 602, 
+                    "score": 0.023203236982226372, 
+                    "spot": "spark"
+                }
+            ], 
+            "wiki_id": 42164234, 
+            "wiki_title": "Apache Spark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 311, 
+                    "score": 0.0061087398789823055, 
+                    "spot": "starting"
+                }
+            ], 
+            "wiki_id": 21504235, 
+            "wiki_title": "Actor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3173, 
+                    "end": 3181, 
+                    "score": 0.14131326973438263, 
+                    "spot": "acquired"
+                }
+            ], 
+            "wiki_id": 20769, 
+            "wiki_title": "Mergers and acquisitions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2092, 
+                    "end": 2096, 
+                    "score": 0.041156984865665436, 
+                    "spot": "true"
+                }
+            ], 
+            "wiki_id": 161711, 
+            "wiki_title": "Truth value"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 718, 
+                    "end": 722, 
+                    "score": 0.13339808583259583, 
+                    "spot": "hold"
+                }
+            ], 
+            "wiki_id": 2949417, 
+            "wiki_title": "Hold (ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3123, 
+                    "end": 3126, 
+                    "score": 0.10914211720228195, 
+                    "spot": "May"
+                }
+            ], 
+            "wiki_id": 574391, 
+            "wiki_title": "Elaine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 333, 
+                    "end": 342, 
+                    "score": 0.2698206603527069, 
+                    "spot": "terrorism"
+                }
+            ], 
+            "wiki_id": 30636, 
+            "wiki_title": "Terrorism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2247, 
+                    "score": 0.0866406038403511, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 11649034, 
+            "wiki_title": "Canadian Hot 100"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 849, 
+                    "end": 854, 
+                    "score": 0.045278336852788925, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 227177, 
+            "wiki_title": "French Third Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2421, 
+                    "end": 2426, 
+                    "score": 0.20472416281700134, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 28426193, 
+            "wiki_title": "Port and starboard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 987, 
+                    "score": 0.09499025344848633, 
+                    "spot": "broke apart"
+                }
+            ], 
+            "wiki_id": 177541, 
+            "wiki_title": "Space Shuttle Columbia disaster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 954, 
+                    "end": 958, 
+                    "score": 0.23692244291305542, 
+                    "spot": "Iowa"
+                }
+            ], 
+            "wiki_id": 26810748, 
+            "wiki_title": "Iowa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2327, 
+                    "end": 2336, 
+                    "score": 0.07460707426071167, 
+                    "spot": "dangerous"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1639, 
+                    "end": 1646, 
+                    "score": 0.11580491811037064, 
+                    "spot": "hitting"
+                }
+            ], 
+            "wiki_id": 40898, 
+            "wiki_title": "Collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1633, 
+                    "end": 1638, 
+                    "score": 0.14005133509635925, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 33306, 
+            "wiki_title": "Water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2580, 
+                    "end": 2583, 
+                    "score": 0.19860228896141052, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 141, 
+                    "end": 150, 
+                    "score": 0.06763406097888947, 
+                    "spot": "sensitive"
+                }
+            ], 
+            "wiki_id": 455088, 
+            "wiki_title": "Sensitivity (human)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3051, 
+                    "end": 3054, 
+                    "score": 0.1384865641593933, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 2029407, 
+            "wiki_title": "Jet (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1357, 
+                    "end": 1367, 
+                    "score": 0.115878164768219, 
+                    "spot": "technician"
+                }
+            ], 
+            "wiki_id": 1135942, 
+            "wiki_title": "Technician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2484, 
+                    "end": 2489, 
+                    "score": 0.1483883112668991, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 532602, 
+            "wiki_title": "Miles Aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1051, 
+                    "score": 0.17110878229141235, 
+                    "spot": "door"
+                }
+            ], 
+            "wiki_id": 10123929, 
+            "wiki_title": "Vehicle door"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 805, 
+                    "end": 822, 
+                    "score": 0.02902155928313732, 
+                    "spot": "flight attendants"
+                }
+            ], 
+            "wiki_id": 173394, 
+            "wiki_title": "Flight attendant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 657, 
+                    "score": 0.0017755682347342372, 
+                    "spot": "reason why"
+                }
+            ], 
+            "wiki_id": 28271831, 
+            "wiki_title": "The Reason Why"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3326, 
+                    "end": 3331, 
+                    "score": 0.010162601247429848, 
+                    "spot": "Brett"
+                }
+            ], 
+            "wiki_id": 22461359, 
+            "wiki_title": "Lloyd Milton Brett"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1438, 
+                    "end": 1448, 
+                    "score": 0.3009902834892273, 
+                    "spot": "wind speed"
+                }
+            ], 
+            "wiki_id": 165198, 
+            "wiki_title": "Wind speed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1907, 
+                    "end": 1915, 
+                    "score": 0.1422203630208969, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2878, 
+                    "end": 2885, 
+                    "score": 0.1276324838399887, 
+                    "spot": "damaged"
+                }
+            ], 
+            "wiki_id": 304588, 
+            "wiki_title": "Brain damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1184, 
+                    "end": 1193, 
+                    "score": 0.04203345254063606, 
+                    "spot": "yesterday"
+                }
+            ], 
+            "wiki_id": 1433069, 
+            "wiki_title": "Yesterday (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 197, 
+                    "end": 203, 
+                    "score": 0.09520699828863144, 
+                    "spot": "always"
+                }
+            ], 
+            "wiki_id": 3824661, 
+            "wiki_title": "High availability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1368, 
+                    "end": 1376, 
+                    "score": 0.13450868427753448, 
+                    "spot": "observer"
+                }
+            ], 
+            "wiki_id": 191086, 
+            "wiki_title": "The Observer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2011, 
+                    "end": 2024, 
+                    "score": 0.06482537090778351, 
+                    "spot": "investigation"
+                }
+            ], 
+            "wiki_id": 118576, 
+            "wiki_title": "Detective"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1967, 
+                    "end": 1972, 
+                    "score": 0.08446371555328369, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 2203607, 
+            "wiki_title": "Just cause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1328, 
+                    "end": 1338, 
+                    "score": 0.5329016447067261, 
+                    "spot": "James\nHall"
+                }
+            ], 
+            "wiki_id": 22672857, 
+            "wiki_title": "James Hall (explorer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 291, 
+                    "end": 297, 
+                    "score": 0.0683978945016861, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1011, 
+                    "end": 1017, 
+                    "score": 0.05912996083498001, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1647, 
+                    "end": 1652, 
+                    "score": 0.15236195921897888, 
+                    "spot": "rocks"
+                }
+            ], 
+            "wiki_id": 199661, 
+            "wiki_title": "Rock (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2275, 
+                    "end": 2281, 
+                    "score": 0.05235892906785011, 
+                    "spot": "ground"
+                }, 
+                {
+                    "begin": 2866, 
+                    "end": 2872, 
+                    "score": 0.1891797035932541, 
+                    "spot": "ground"
+                }
+            ], 
+            "wiki_id": 37738, 
+            "wiki_title": "Soil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2208, 
+                    "end": 2215, 
+                    "score": 0.0019814891275018454, 
+                    "spot": "violent"
+                }
+            ], 
+            "wiki_id": 165206, 
+            "wiki_title": "Fujita scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 419, 
+                    "score": 0.037203311920166016, 
+                    "spot": "flight"
+                }, 
+                {
+                    "begin": 681, 
+                    "end": 687, 
+                    "score": 0.08829149603843689, 
+                    "spot": "flight"
+                }
+            ], 
+            "wiki_id": 3080620, 
+            "wiki_title": "Flight International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2216, 
+                    "end": 2221, 
+                    "score": 0.003995352890342474, 
+                    "spot": "shift"
+                }
+            ], 
+            "wiki_id": 787288, 
+            "wiki_title": "Shiv (weapon)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1491, 
+                    "end": 1499, 
+                    "score": 0.5, 
+                    "spot": "Mr. Hall"
+                }
+            ], 
+            "wiki_id": 24065650, 
+            "wiki_title": "Matthew Hall (writer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 111, 
+                    "end": 116, 
+                    "score": 0.07670068740844727, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 244, 
+                    "end": 251, 
+                    "score": 0.26312851905822754, 
+                    "spot": "crashes"
+                }, 
+                {
+                    "begin": 268, 
+                    "end": 276, 
+                    "score": 0.150743767619133, 
+                    "spot": "accident"
+                }, 
+                {
+                    "begin": 1196, 
+                    "end": 1201, 
+                    "score": 0.08114954829216003, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 2893, 
+                    "end": 2898, 
+                    "score": 0.11737892776727676, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 19740545, 
+            "wiki_title": "Traffic collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 61, 
+                    "end": 66, 
+                    "score": 0.20873291790485382, 
+                    "spot": "plane"
+                }, 
+                {
+                    "begin": 3186, 
+                    "end": 3191, 
+                    "score": 0.12832391262054443, 
+                    "spot": "plane"
+                }
+            ], 
+            "wiki_id": 1396249, 
+            "wiki_title": "Airplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 445, 
+                    "end": 454, 
+                    "score": 0.3060699701309204, 
+                    "spot": "employees"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 379, 
+                    "end": 387, 
+                    "score": 0.19965113699436188, 
+                    "spot": "Airlines"
+                }
+            ], 
+            "wiki_id": 1942, 
+            "wiki_title": "Airline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1671, 
+                    "end": 1678, 
+                    "score": 0.08418051153421402, 
+                    "spot": "foaming"
+                }
+            ], 
+            "wiki_id": 268420, 
+            "wiki_title": "Foam"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1602, 
+                    "end": 1609, 
+                    "score": 0.15050168335437775, 
+                    "spot": "current"
+                }
+            ], 
+            "wiki_id": 376476, 
+            "wiki_title": "Ocean current"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2925, 
+                    "end": 2940, 
+                    "score": 0.5185185074806213, 
+                    "spot": "County Sheriffs"
+                }, 
+                {
+                    "begin": 2932, 
+                    "end": 2940, 
+                    "score": 0.5233315229415894, 
+                    "spot": "Sheriffs"
+                }, 
+                {
+                    "begin": 2932, 
+                    "end": 2951, 
+                    "score": 0.5185185074806213, 
+                    "spot": "Sheriffs\nDepartment"
+                }
+            ], 
+            "wiki_id": 89516, 
+            "wiki_title": "Sheriff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1401, 
+                    "end": 1408, 
+                    "score": 0.17456504702568054, 
+                    "spot": "Moments"
+                }
+            ], 
+            "wiki_id": 368684, 
+            "wiki_title": "Moment (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2410, 
+                    "end": 2417, 
+                    "score": 0.1833825558423996, 
+                    "spot": "landing"
+                }
+            ], 
+            "wiki_id": 230159, 
+            "wiki_title": "Landing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2660, 
+                    "end": 2679, 
+                    "score": 0.026595745235681534, 
+                    "spot": "crashed on approach"
+                }
+            ], 
+            "wiki_id": 34932725, 
+            "wiki_title": "1958 Channel Airways de Havilland DH.104 Dove crash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3235, 
+                    "end": 3241, 
+                    "score": 0.22613003849983215, 
+                    "spot": "engine"
+                }
+            ], 
+            "wiki_id": 41228673, 
+            "wiki_title": "Internal combustion engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 988, 
+                    "end": 997, 
+                    "score": 0.06567943096160889, 
+                    "spot": "in flight"
+                }
+            ], 
+            "wiki_id": 237949, 
+            "wiki_title": "Aerial refueling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2821, 
+                    "end": 2827, 
+                    "score": 0.22365416586399078, 
+                    "spot": "hazard"
+                }
+            ], 
+            "wiki_id": 24462957, 
+            "wiki_title": "Hazard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2345, 
+                    "end": 2353, 
+                    "score": 0.22774840891361237, 
+                    "spot": "aircraft"
+                }
+            ], 
+            "wiki_id": 849, 
+            "wiki_title": "Aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1114, 
+                    "end": 1118, 
+                    "score": 0.10926982760429382, 
+                    "spot": "hole"
+                }
+            ], 
+            "wiki_id": 24922016, 
+            "wiki_title": "The Hole (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2200, 
+                    "end": 2206, 
+                    "score": 0.0006595744634978473, 
+                    "spot": "sudden"
+                }
+            ], 
+            "wiki_id": 40349545, 
+            "wiki_title": "Sudden (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 629, 
+                    "end": 632, 
+                    "score": 0.13002575933933258, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3342, 
+                    "end": 3349, 
+                    "score": 0.18170413374900818, 
+                    "spot": "Chicago"
+                }
+            ], 
+            "wiki_id": 6886, 
+            "wiki_title": "Chicago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1342, 
+                    "end": 1356, 
+                    "score": 0.09416377544403076, 
+                    "spot": "meteorological"
+                }
+            ], 
+            "wiki_id": 19904, 
+            "wiki_title": "Meteorology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 470, 
+                    "end": 478, 
+                    "score": 0.1829054206609726, 
+                    "spot": "downturn"
+                }
+            ], 
+            "wiki_id": 25382, 
+            "wiki_title": "Recession"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2445, 
+                    "end": 2451, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 26671, 
+            "wiki_title": "Sabbath in Christianity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3370, 
+                    "end": 3377, 
+                    "score": 0.030442574992775917, 
+                    "spot": "article"
+                }
+            ], 
+            "wiki_id": 44639943, 
+            "wiki_title": "A Rape on Campus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1171, 
+                    "end": 1176, 
+                    "score": 0.044169895350933075, 
+                    "spot": "hours"
+                }
+            ], 
+            "wiki_id": 3326435, 
+            "wiki_title": "The Hours (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2139, 
+                    "end": 2150, 
+                    "score": 0.12605902552604675, 
+                    "spot": "instability"
+                }
+            ], 
+            "wiki_id": 548173, 
+            "wiki_title": "Instability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 714, 
+                    "end": 717, 
+                    "score": 0.06247999891638756, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 9331428, 
+            "wiki_title": "Canadian Albums Chart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2791, 
+                    "end": 2800, 
+                    "score": 0.10527630895376205, 
+                    "spot": "resources"
+                }
+            ], 
+            "wiki_id": 21675, 
+            "wiki_title": "Natural resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 627, 
+                    "score": 0.23037174344062805, 
+                    "spot": "fact"
+                }
+            ], 
+            "wiki_id": 58617, 
+            "wiki_title": "Fact"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 553, 
+                    "end": 559, 
+                    "score": 0.06428747624158859, 
+                    "spot": "sector"
+                }
+            ], 
+            "wiki_id": 12255159, 
+            "wiki_title": "Economic sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1035, 
+                    "score": 0.03239268809556961, 
+                    "spot": "February 1989"
+                }
+            ], 
+            "wiki_id": 6049990, 
+            "wiki_title": "Sri Lankan parliamentary election, 1989"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2158, 
+                    "end": 2168, 
+                    "score": 0.20377765595912933, 
+                    "spot": "atmosphere"
+                }
+            ], 
+            "wiki_id": 202899, 
+            "wiki_title": "Atmosphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1073, 
+                    "end": 1078, 
+                    "score": 0.043039754033088684, 
+                    "spot": "burst"
+                }
+            ], 
+            "wiki_id": 1372949, 
+            "wiki_title": "Air burst"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1848, 
+                    "score": 0.0005715259467251599, 
+                    "spot": "kind"
+                }
+            ], 
+            "wiki_id": 643272, 
+            "wiki_title": "Baraminology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1559, 
+                    "end": 1565, 
+                    "score": 0.20000000298023224, 
+                    "spot": "choppy"
+                }
+            ], 
+            "wiki_id": 4282595, 
+            "wiki_title": "Baeden Choppy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2709, 
+                    "end": 2717, 
+                    "score": 0.029381699860095978, 
+                    "spot": "industry"
+                }
+            ], 
+            "wiki_id": 107639, 
+            "wiki_title": "Industry, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1126, 
+                    "end": 1134, 
+                    "score": 0.17992621660232544, 
+                    "spot": "fuselage"
+                }
+            ], 
+            "wiki_id": 160891, 
+            "wiki_title": "Fuselage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 406, 
+                    "score": 0.014693877659738064, 
+                    "spot": "slashing"
+                }
+            ], 
+            "wiki_id": 8576762, 
+            "wiki_title": "Slashing (ice hockey)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2971, 
+                    "end": 2975, 
+                    "score": 0.0028444123454391956, 
+                    "spot": "girl"
+                }
+            ], 
+            "wiki_id": 1543525, 
+            "wiki_title": "Girl (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1456, 
+                    "end": 1470, 
+                    "score": 0.521762490272522, 
+                    "spot": "miles per hour"
+                }, 
+                {
+                    "begin": 1486, 
+                    "end": 1489, 
+                    "score": 0.009346182458102703, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2257, 
+                    "end": 2265, 
+                    "score": 0.046266522258520126, 
+                    "spot": "airplane"
+                }
+            ], 
+            "wiki_id": 46505, 
+            "wiki_title": "Airplane!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 666, 
+                    "score": 0.08600912243127823, 
+                    "spot": "load"
+                }, 
+                {
+                    "begin": 1041, 
+                    "end": 1046, 
+                    "score": 0.158098965883255, 
+                    "spot": "cargo"
+                }
+            ], 
+            "wiki_id": 396550, 
+            "wiki_title": "Cargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1872, 
+                    "end": 1877, 
+                    "score": 0.0017458100337535143, 
+                    "spot": "I can"
+                }
+            ], 
+            "wiki_id": 30684108, 
+            "wiki_title": "I Can (Blue song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2574, 
+                    "end": 2579, 
+                    "score": 0.09707756340503693, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 1506950, 
+            "wiki_title": "Men's major golf championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3258, 
+                    "end": 3282, 
+                    "score": 0.436002641916275, 
+                    "spot": "United Technologies\nCorp"
+                }
+            ], 
+            "wiki_id": 648947, 
+            "wiki_title": "United Technologies"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 523, 
+                    "end": 532, 
+                    "score": 0.14864249527454376, 
+                    "spot": "workweeks"
+                }
+            ], 
+            "wiki_id": 2016347, 
+            "wiki_title": "Workweek and weekend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2378, 
+                    "end": 2386, 
+                    "score": 0.1833098828792572, 
+                    "spot": "altitude"
+                }, 
+                {
+                    "begin": 2552, 
+                    "end": 2560, 
+                    "score": 0.08619288355112076, 
+                    "spot": "altitude"
+                }
+            ], 
+            "wiki_id": 59211, 
+            "wiki_title": "Altitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1062, 
+                    "end": 1072, 
+                    "score": 0.4492700695991516, 
+                    "spot": "Boeing 747"
+                }
+            ], 
+            "wiki_id": 4614, 
+            "wiki_title": "Boeing 747"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1852, 
+                    "end": 1862, 
+                    "score": 0.08090150356292725, 
+                    "spot": "mechanical"
+                }
+            ], 
+            "wiki_id": 51462, 
+            "wiki_title": "Machine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 117, 
+                    "end": 122, 
+                    "score": 0.08922800421714783, 
+                    "spot": "comes"
+                }, 
+                {
+                    "begin": 277, 
+                    "end": 282, 
+                    "score": 0.09217679500579834, 
+                    "spot": "comes"
+                }
+            ], 
+            "wiki_id": 888207, 
+            "wiki_title": "Etymology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2433, 
+                    "end": 2440, 
+                    "score": 0.2430768609046936, 
+                    "spot": "takeoff"
+                }
+            ], 
+            "wiki_id": 165096, 
+            "wiki_title": "Takeoff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3298, 
+                    "end": 3305, 
+                    "score": 0.20954114198684692, 
+                    "spot": "Whitney"
+                }
+            ], 
+            "wiki_id": 9732, 
+            "wiki_title": "Eli Whitney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2357, 
+                    "end": 2363, 
+                    "score": 0.21261261403560638, 
+                    "spot": "flying"
+                }
+            ], 
+            "wiki_id": 159472, 
+            "wiki_title": "Flight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1141, 
+                    "end": 1151, 
+                    "score": 0.10078220814466476, 
+                    "spot": "passengers"
+                }
+            ], 
+            "wiki_id": 19285924, 
+            "wiki_title": "RMS Titanic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 576, 
+                    "end": 581, 
+                    "score": 0.013545848429203033, 
+                    "spot": "sharp"
+                }
+            ], 
+            "wiki_id": 23772312, 
+            "wiki_title": "Sharp Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1136, 
+                    "end": 1140, 
+                    "score": 0.17357540130615234, 
+                    "spot": "Nine"
+                }, 
+                {
+                    "begin": 3087, 
+                    "end": 3091, 
+                    "score": 0.1397155076265335, 
+                    "spot": "nine"
+                }
+            ], 
+            "wiki_id": 16002873, 
+            "wiki_title": "Nine (2009 live-action film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 788, 
+                    "end": 794, 
+                    "score": 0.3728976547718048, 
+                    "spot": "pilots"
+                }, 
+                {
+                    "begin": 2732, 
+                    "end": 2737, 
+                    "score": 0.160861536860466, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 66691, 
+            "wiki_title": "Pilot (aeronautics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 506, 
+                    "end": 510, 
+                    "score": 0.002693375339731574, 
+                    "spot": "gone"
+                }
+            ], 
+            "wiki_id": 1942160, 
+            "wiki_title": "Gone (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2835, 
+                    "end": 2844, 
+                    "score": 0.23180948197841644, 
+                    "spot": "buildings"
+                }
+            ], 
+            "wiki_id": 45995, 
+            "wiki_title": "Building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1586, 
+                    "end": 1595, 
+                    "score": 0.05811317265033722, 
+                    "spot": "turbulent"
+                }
+            ], 
+            "wiki_id": 154664, 
+            "wiki_title": "Turbulence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3242, 
+                    "end": 3254, 
+                    "score": 0.17634710669517517, 
+                    "spot": "manufactured"
+                }
+            ], 
+            "wiki_id": 39388, 
+            "wiki_title": "Manufacturing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2848, 
+                    "end": 2858, 
+                    "score": 0.17909811437129974, 
+                    "spot": "structures"
+                }
+            ], 
+            "wiki_id": 93545, 
+            "wiki_title": "Structure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1628, 
+                    "end": 1638, 
+                    "score": 0.0042630936950445175, 
+                    "spot": "like water"
+                }
+            ], 
+            "wiki_id": 33764280, 
+            "wiki_title": "Like Water (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1097, 
+                    "end": 1104, 
+                    "score": 0.019303202629089355, 
+                    "spot": "tearing"
+                }
+            ], 
+            "wiki_id": 5811552, 
+            "wiki_title": "Anterior cruciate ligament injury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1523, 
+                    "end": 1532, 
+                    "score": 0.000512941915076226, 
+                    "spot": "like that"
+                }
+            ], 
+            "wiki_id": 7274350, 
+            "wiki_title": "534 (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1430, 
+                    "end": 1437, 
+                    "score": 0.14282889664173126, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2374, 
+                    "end": 2377, 
+                    "score": 0.2079087644815445, 
+                    "spot": "low"
+                }
+            ], 
+            "wiki_id": 75127, 
+            "wiki_title": "Monoplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1095, 
+                    "score": 0.31738489866256714, 
+                    "spot": "Hawaii"
+                }
+            ], 
+            "wiki_id": 13270, 
+            "wiki_title": "Hawaii"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1216, 
+                    "end": 1231, 
+                    "score": 0.1643150895833969, 
+                    "spot": "Weather Service"
+                }
+            ], 
+            "wiki_id": 2864756, 
+            "wiki_title": "NBC Weather Plus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2499, 
+                    "end": 2506, 
+                    "score": 0.08757442235946655, 
+                    "spot": "airport"
+                }
+            ], 
+            "wiki_id": 37575, 
+            "wiki_title": "Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 703, 
+                    "end": 706, 
+                    "score": 0.13402339816093445, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 474981, 
+            "wiki_title": "Jet (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 10, 
+                    "end": 24, 
+                    "score": 0.3110755383968353, 
+                    "spot": "news reporters"
+                }, 
+                {
+                    "begin": 15, 
+                    "end": 24, 
+                    "score": 0.24184992909431458, 
+                    "spot": "reporters"
+                }
+            ], 
+            "wiki_id": 50100, 
+            "wiki_title": "Journalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3098, 
+                    "end": 3101, 
+                    "score": 0.0006086933426558971, 
+                    "spot": "old"
+                }
+            ], 
+            "wiki_id": 22667, 
+            "wiki_title": "Old English"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1812, 
+                    "end": 1818, 
+                    "score": 0.08551895618438721, 
+                    "spot": "impact"
+                }
+            ], 
+            "wiki_id": 63794, 
+            "wiki_title": "Impact event"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1997, 
+                    "end": 2002, 
+                    "score": 0.02743539959192276, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 201920, 
+            "wiki_title": "Major"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 434, 
+                    "end": 444, 
+                    "score": 0.33710700273513794, 
+                    "spot": "laying off"
+                }
+            ], 
+            "wiki_id": 507285, 
+            "wiki_title": "Layoff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 654, 
+                    "end": 657, 
+                    "score": 0.0026988310273736715, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 19385152, 
+            "wiki_title": "Why (Jadakiss song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1231, 
+                    "score": 0.48643648624420166, 
+                    "spot": "National\nWeather Service"
+                }
+            ], 
+            "wiki_id": 286989, 
+            "wiki_title": "National Weather Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2573, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3286, 
+                    "end": 3291, 
+                    "score": 0.38201820850372314, 
+                    "spot": "Pratt"
+                }
+            ], 
+            "wiki_id": 1838447, 
+            "wiki_title": "Francis A. Pratt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3147, 
+                    "end": 3164, 
+                    "score": 0.5, 
+                    "spot": "Frontier Airlines"
+                }
+            ], 
+            "wiki_id": 163354, 
+            "wiki_title": "Frontier Airlines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 485, 
+                    "end": 500, 
+                    "score": 0.048553720116615295, 
+                    "spot": "travel\nagencies"
+                }
+            ], 
+            "wiki_id": 597759, 
+            "wiki_title": "Travel agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 97, 
+                    "end": 102, 
+                    "score": 0.16179439425468445, 
+                    "spot": "earth"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 315, 
+                    "end": 323, 
+                    "score": 0.0007739937864243984, 
+                    "spot": "get over"
+                }
+            ], 
+            "wiki_id": 31898818, 
+            "wiki_title": "Get Over"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 969, 
+                    "end": 975, 
+                    "score": 0.08023672550916672, 
+                    "spot": "engine"
+                }
+            ], 
+            "wiki_id": 158681, 
+            "wiki_title": "Aircraft engine"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+Input_file_list=Duc_PosList.txt
+Gold_standard_file_list=Duc_GoldList.txt
+Input_file_directory=DucPos/
+Gold_standard_file_directory=DucGold/
+Output_file_directory=DucOut/
+Keyphrases_per_file=10
+Window_size=10
+Json_file_directory=DucJson/
+JsonRel_file_directory=DucRel/

@@ -1,0 +1,4120 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 41, 
+                    "end": 44, 
+                    "score": 0.19996391236782074, 
+                    "spot": "key"
+                }
+            ], 
+            "wiki_id": 70640, 
+            "wiki_title": "Key (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4079, 
+                    "end": 4085, 
+                    "score": 0.003227435052394867, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 2835096, 
+            "wiki_title": "Course (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5184, 
+                    "end": 5190, 
+                    "score": 0.05077589303255081, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 1640986, 
+            "wiki_title": "Public university"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2964, 
+                    "end": 2971, 
+                    "score": 0.17619353532791138, 
+                    "spot": "hunting"
+                }, 
+                {
+                    "begin": 3930, 
+                    "end": 3937, 
+                    "score": 0.16715368628501892, 
+                    "spot": "hunting"
+                }, 
+                {
+                    "begin": 4183, 
+                    "end": 4190, 
+                    "score": 0.16095419228076935, 
+                    "spot": "hunting"
+                }
+            ], 
+            "wiki_id": 38791, 
+            "wiki_title": "Hunting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 160, 
+                    "end": 167, 
+                    "score": 0.023506224155426025, 
+                    "spot": "authors"
+                }
+            ], 
+            "wiki_id": 914, 
+            "wiki_title": "Author"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 985, 
+                    "end": 992, 
+                    "score": 0.13681812584400177, 
+                    "spot": "command"
+                }
+            ], 
+            "wiki_id": 4311268, 
+            "wiki_title": "Command (military formation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1065, 
+                    "end": 1071, 
+                    "score": 0.03773670271039009, 
+                    "spot": "scores"
+                }
+            ], 
+            "wiki_id": 176945, 
+            "wiki_title": "Film score"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6436, 
+                    "end": 6443, 
+                    "score": 0.10636160522699356, 
+                    "spot": "scholar"
+                }
+            ], 
+            "wiki_id": 165511, 
+            "wiki_title": "Ulama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1224, 
+                    "end": 1227, 
+                    "score": 0.1119622141122818, 
+                    "spot": "met"
+                }
+            ], 
+            "wiki_id": 37535, 
+            "wiki_title": "Metropolitan Museum of Art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2944, 
+                    "end": 2959, 
+                    "score": 0.23517540097236633, 
+                    "spot": "self-protection"
+                }, 
+                {
+                    "begin": 3913, 
+                    "end": 3925, 
+                    "score": 0.26263636350631714, 
+                    "spot": "self-defense"
+                }
+            ], 
+            "wiki_id": 215864, 
+            "wiki_title": "Self-defense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 406, 
+                    "end": 414, 
+                    "score": 0.0007516181794926524, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 37470540, 
+            "wiki_title": "Together (Hungary)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 701, 
+                    "end": 708, 
+                    "score": 0.18580400943756104, 
+                    "spot": "natural"
+                }
+            ], 
+            "wiki_id": 22063, 
+            "wiki_title": "Natural law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1757, 
+                    "end": 1768, 
+                    "score": 0.16780655086040497, 
+                    "spot": "religiously"
+                }, 
+                {
+                    "begin": 1981, 
+                    "end": 1990, 
+                    "score": 0.37001416087150574, 
+                    "spot": "religious"
+                }, 
+                {
+                    "begin": 1981, 
+                    "end": 1998, 
+                    "score": 0.2609866261482239, 
+                    "spot": "religious reasons"
+                }, 
+                {
+                    "begin": 2383, 
+                    "end": 2394, 
+                    "score": 0.16780655086040497, 
+                    "spot": "religiously"
+                }
+            ], 
+            "wiki_id": 25414, 
+            "wiki_title": "Religion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6167, 
+                    "end": 6176, 
+                    "score": 0.1265944242477417, 
+                    "spot": "Americans"
+                }
+            ], 
+            "wiki_id": 32087, 
+            "wiki_title": "United States Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3268, 
+                    "end": 3275, 
+                    "score": 0.0663391500711441, 
+                    "spot": "deleted"
+                }
+            ], 
+            "wiki_id": 73648, 
+            "wiki_title": "Elision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6117, 
+                    "end": 6120, 
+                    "score": 0.18579718470573425, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 33565271, 
+            "wiki_title": "2003 in Afghanistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6231, 
+                    "end": 6235, 
+                    "score": 0.08333147317171097, 
+                    "spot": "show"
+                }
+            ], 
+            "wiki_id": 2658830, 
+            "wiki_title": "Radio program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3857, 
+                    "end": 3864, 
+                    "score": 0.06906691193580627, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 147767, 
+            "wiki_title": "Private property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5710, 
+                    "end": 5724, 
+                    "score": 0.2900562882423401, 
+                    "spot": "National Guard"
+                }, 
+                {
+                    "begin": 5776, 
+                    "end": 5790, 
+                    "score": 0.09869231283664703, 
+                    "spot": "National\nGuard"
+                }
+            ], 
+            "wiki_id": 37988, 
+            "wiki_title": "National Guard of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5646, 
+                    "end": 5651, 
+                    "score": 0.06928107887506485, 
+                    "spot": "plain"
+                }
+            ], 
+            "wiki_id": 1921649, 
+            "wiki_title": "The Plain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4365, 
+                    "end": 4377, 
+                    "score": 0.0006526063079945743, 
+                    "spot": "nevertheless"
+                }
+            ], 
+            "wiki_id": 3509761, 
+            "wiki_title": "Nevertheless I'm in Love with You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4352, 
+                    "end": 4364, 
+                    "score": 0.08396264910697937, 
+                    "spot": "Constitution"
+                }
+            ], 
+            "wiki_id": 365102, 
+            "wiki_title": "Constitution of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6477, 
+                    "end": 6506, 
+                    "score": 0.39305949211120605, 
+                    "spot": "American Enterprise Institute"
+                }
+            ], 
+            "wiki_id": 98692, 
+            "wiki_title": "American Enterprise Institute"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 195, 
+                    "end": 219, 
+                    "score": 0.21499274671077728, 
+                    "spot": "constitutional amendment"
+                }, 
+                {
+                    "begin": 3975, 
+                    "end": 3984, 
+                    "score": 0.08090030401945114, 
+                    "spot": "amendment"
+                }, 
+                {
+                    "begin": 4494, 
+                    "end": 4506, 
+                    "score": 0.23788170516490936, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 6447, 
+                    "end": 6461, 
+                    "score": 0.12418204545974731, 
+                    "spot": "constitutional"
+                }
+            ], 
+            "wiki_id": 31644, 
+            "wiki_title": "United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4915, 
+                    "end": 4924, 
+                    "score": 0.004807247780263424, 
+                    "spot": "after all"
+                }, 
+                {
+                    "begin": 6351, 
+                    "end": 6360, 
+                    "score": 0.06800446659326553, 
+                    "spot": "after\nall"
+                }
+            ], 
+            "wiki_id": 5670521, 
+            "wiki_title": "After All (Cher and Peter Cetera song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5525, 
+                    "end": 5530, 
+                    "score": 0.05131141468882561, 
+                    "spot": "enact"
+                }
+            ], 
+            "wiki_id": 208645, 
+            "wiki_title": "Promulgation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4266, 
+                    "end": 4274, 
+                    "score": 0.0006487590726464987, 
+                    "spot": "relevant"
+                }
+            ], 
+            "wiki_id": 2533111, 
+            "wiki_title": "Relevant (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 247, 
+                    "score": 0.12915664911270142, 
+                    "spot": "prohibition"
+                }
+            ], 
+            "wiki_id": 24856, 
+            "wiki_title": "Prohibition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1244, 
+                    "end": 1251, 
+                    "score": 0.23130227625370026, 
+                    "spot": "elected"
+                }
+            ], 
+            "wiki_id": 40567, 
+            "wiki_title": "United States presidential election, 1968"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1805, 
+                    "end": 1814, 
+                    "score": 0.0007153076003305614, 
+                    "spot": "compelled"
+                }, 
+                {
+                    "begin": 2415, 
+                    "end": 2424, 
+                    "score": 0.0007153076003305614, 
+                    "spot": "compelled"
+                }
+            ], 
+            "wiki_id": 41920533, 
+            "wiki_title": "Compelled"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5108, 
+                    "end": 5113, 
+                    "score": 0.21516801416873932, 
+                    "spot": "rifle"
+                }
+            ], 
+            "wiki_id": 25456, 
+            "wiki_title": "Rifle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5895, 
+                    "end": 5898, 
+                    "score": 0.13011066615581512, 
+                    "spot": "gun"
+                }
+            ], 
+            "wiki_id": 1158984, 
+            "wiki_title": "Gun (cellular automaton)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4606, 
+                    "end": 4611, 
+                    "score": 0.10672733932733536, 
+                    "spot": "level"
+                }
+            ], 
+            "wiki_id": 10254514, 
+            "wiki_title": "A-level"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1818, 
+                    "end": 1824, 
+                    "score": 0.006272982805967331, 
+                    "spot": "render"
+                }
+            ], 
+            "wiki_id": 697519, 
+            "wiki_title": "Stucco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 175, 
+                    "end": 191, 
+                    "score": 0.5400483012199402, 
+                    "spot": "Second\nAmendment"
+                }, 
+                {
+                    "begin": 3383, 
+                    "end": 3401, 
+                    "score": 0.034574467688798904, 
+                    "spot": "keep and bear\narms"
+                }, 
+                {
+                    "begin": 3865, 
+                    "end": 3893, 
+                    "score": 0.5394399166107178, 
+                    "spot": "right \"to keep and bear arms"
+                }, 
+                {
+                    "begin": 4712, 
+                    "end": 4728, 
+                    "score": 0.263824999332428, 
+                    "spot": "Second Amendment"
+                }
+            ], 
+            "wiki_id": 31655, 
+            "wiki_title": "Second Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5693, 
+                    "end": 5697, 
+                    "score": 0.005101976916193962, 
+                    "spot": "sign"
+                }
+            ], 
+            "wiki_id": 1532677, 
+            "wiki_title": "Happy Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5342, 
+                    "end": 5349, 
+                    "score": 0.001091905520297587, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 18465305, 
+            "wiki_title": "Concern (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5980, 
+                    "end": 5983, 
+                    "score": 0.06095180660486221, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 416779, 
+            "wiki_title": "Scenic design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6000, 
+                    "end": 6009, 
+                    "score": 0.0022136345505714417, 
+                    "spot": "ownership"
+                }
+            ], 
+            "wiki_id": 213897, 
+            "wiki_title": "Ownership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3794, 
+                    "end": 3802, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }, 
+                {
+                    "begin": 4299, 
+                    "end": 4307, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1910, 
+                    "end": 1926, 
+                    "score": 0.020506536588072777, 
+                    "spot": "military service"
+                }
+            ], 
+            "wiki_id": 27781946, 
+            "wiki_title": "Conscription in South Korea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3669, 
+                    "end": 3677, 
+                    "score": 0.19450078904628754, 
+                    "spot": "minimize"
+                }
+            ], 
+            "wiki_id": 298420, 
+            "wiki_title": "Maxima and minima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5432, 
+                    "end": 5443, 
+                    "score": 0.22455516457557678, 
+                    "spot": "gun control"
+                }, 
+                {
+                    "begin": 6251, 
+                    "end": 6262, 
+                    "score": 0.22455516457557678, 
+                    "spot": "gun control"
+                }
+            ], 
+            "wiki_id": 44276, 
+            "wiki_title": "Gun control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 304, 
+                    "end": 331, 
+                    "score": 0.4761904776096344, 
+                    "spot": "state ratifying conventions"
+                }
+            ], 
+            "wiki_id": 2217343, 
+            "wiki_title": "State ratifying conventions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3457, 
+                    "end": 3461, 
+                    "score": 0.13999350368976593, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3480, 
+                    "end": 3499, 
+                    "score": 0.1416526436805725, 
+                    "spot": "legislative process"
+                }
+            ], 
+            "wiki_id": 70935, 
+            "wiki_title": "Parliamentary procedure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4004, 
+                    "end": 4012, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 10858841, 
+            "wiki_title": "Video game content rating system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 860, 
+                    "end": 867, 
+                    "score": 0.09773243218660355, 
+                    "spot": "purpose"
+                }
+            ], 
+            "wiki_id": 870352, 
+            "wiki_title": "Sentence (linguistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 485, 
+                    "end": 493, 
+                    "score": 0.012091642245650291, 
+                    "spot": "reliance"
+                }
+            ], 
+            "wiki_id": 35096993, 
+            "wiki_title": "Reliance, Polk County, Tennessee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3815, 
+                    "end": 3824, 
+                    "score": 0.0446428582072258, 
+                    "spot": "be called"
+                }
+            ], 
+            "wiki_id": 7244858, 
+            "wiki_title": "To Be Called For"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4243, 
+                    "end": 4247, 
+                    "score": 0.04661208391189575, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 30070789, 
+            "wiki_title": "Tell, Wisconsin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4887, 
+                    "end": 4891, 
+                    "score": 0.08918596804141998, 
+                    "spot": "male"
+                }
+            ], 
+            "wiki_id": 57040, 
+            "wiki_title": "Mal\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 881, 
+                    "end": 890, 
+                    "score": 0.5, 
+                    "spot": "the power"
+                }
+            ], 
+            "wiki_id": 8028602, 
+            "wiki_title": "The Power (Snap! song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6410, 
+                    "end": 6412, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1649, 
+                    "end": 1658, 
+                    "score": 0.005501618143171072, 
+                    "spot": "infringed"
+                }, 
+                {
+                    "begin": 2023, 
+                    "end": 2032, 
+                    "score": 0.005501618143171072, 
+                    "spot": "infringed"
+                }, 
+                {
+                    "begin": 2358, 
+                    "end": 2367, 
+                    "score": 0.15340176224708557, 
+                    "spot": "infringed"
+                }, 
+                {
+                    "begin": 3416, 
+                    "end": 3425, 
+                    "score": 0.17758555710315704, 
+                    "spot": "infringed"
+                }
+            ], 
+            "wiki_id": 18948365, 
+            "wiki_title": "Copyright infringement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3678, 
+                    "end": 3680, 
+                    "score": 0.12155504524707794, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 658808, 
+            "wiki_title": "Material conditional"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2770, 
+                    "end": 2781, 
+                    "score": 0.0006069434457458556, 
+                    "spot": "new version"
+                }
+            ], 
+            "wiki_id": 4717463, 
+            "wiki_title": "The Unknown Soldier (1985 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1842, 
+                    "end": 1851, 
+                    "score": 0.003379805712029338, 
+                    "spot": "in person"
+                }
+            ], 
+            "wiki_id": 24870649, 
+            "wiki_title": "In Person (Cannonball Adderley album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5149, 
+                    "end": 5151, 
+                    "score": 0.08927731215953827, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 5795, 
+                    "end": 5797, 
+                    "score": 0.05215270444750786, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 344, 
+                    "end": 351, 
+                    "score": 0.027186129242181778, 
+                    "spot": "version"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4646, 
+                    "end": 4653, 
+                    "score": 0.1905735582113266, 
+                    "spot": "subject"
+                }, 
+                {
+                    "begin": 4892, 
+                    "end": 4899, 
+                    "score": 0.11727067828178406, 
+                    "spot": "citizen"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 45, 
+                    "end": 50, 
+                    "score": 0.11759740114212036, 
+                    "spot": "words"
+                }
+            ], 
+            "wiki_id": 38518, 
+            "wiki_title": "Lyrics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2995, 
+                    "end": 3002, 
+                    "score": 0.10482075065374374, 
+                    "spot": "purpose"
+                }
+            ], 
+            "wiki_id": 44525775, 
+            "wiki_title": "Intention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1578, 
+                    "end": 1584, 
+                    "score": 0.010328715667128563, 
+                    "spot": "clause"
+                }
+            ], 
+            "wiki_id": 83006, 
+            "wiki_title": "Clause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 320, 
+                    "end": 331, 
+                    "score": 0.1470431685447693, 
+                    "spot": "conventions"
+                }
+            ], 
+            "wiki_id": 519056, 
+            "wiki_title": "Political convention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5745, 
+                    "end": 5748, 
+                    "score": 0.1286766082048416, 
+                    "spot": "gun"
+                }, 
+                {
+                    "begin": 6013, 
+                    "end": 6017, 
+                    "score": 0.044877417385578156, 
+                    "spot": "guns"
+                }
+            ], 
+            "wiki_id": 2508, 
+            "wiki_title": "Artillery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 825, 
+                    "end": 830, 
+                    "score": 0.18336130678653717, 
+                    "spot": "ought"
+                }
+            ], 
+            "wiki_id": 369040, 
+            "wiki_title": "Is\u2013ought problem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4476, 
+                    "end": 4486, 
+                    "score": 0.15137653052806854, 
+                    "spot": "enumerated"
+                }
+            ], 
+            "wiki_id": 212115, 
+            "wiki_title": "Enumeration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5667, 
+                    "end": 5678, 
+                    "score": 0.09570549428462982, 
+                    "spot": "if you want"
+                }
+            ], 
+            "wiki_id": 925458, 
+            "wiki_title": "Some Great Reward"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2482, 
+                    "end": 2487, 
+                    "score": 0.14345021545886993, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 25395149, 
+            "wiki_title": "First-person shooter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 964, 
+                    "end": 978, 
+                    "score": 0.24046292901039124, 
+                    "spot": "state\nmilitias"
+                }
+            ], 
+            "wiki_id": 395136, 
+            "wiki_title": "State defense force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 91, 
+                    "end": 120, 
+                    "score": 0.20143884420394897, 
+                    "spot": "Congress of the United States"
+                }, 
+                {
+                    "begin": 142, 
+                    "end": 150, 
+                    "score": 0.22897441685199738, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 902, 
+                    "end": 910, 
+                    "score": 0.16707055270671844, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 1215, 
+                    "end": 1223, 
+                    "score": 0.2278582602739334, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 2127, 
+                    "end": 2150, 
+                    "score": 0.16286754608154297, 
+                    "spot": "congressional\ncommittee"
+                }, 
+                {
+                    "begin": 5484, 
+                    "end": 5492, 
+                    "score": 0.08234675228595734, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4582, 
+                    "end": 4590, 
+                    "score": 0.08539453893899918, 
+                    "spot": "explicit"
+                }
+            ], 
+            "wiki_id": 5710507, 
+            "wiki_title": "Pornography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 714, 
+                    "end": 718, 
+                    "score": 0.048094574362039566, 
+                    "spot": "safe"
+                }
+            ], 
+            "wiki_id": 252712, 
+            "wiki_title": "Safety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 220, 
+                    "end": 227, 
+                    "score": 0.002412129659205675, 
+                    "spot": "calling"
+                }
+            ], 
+            "wiki_id": 1566484, 
+            "wiki_title": "Vocation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6427, 
+                    "end": 6435, 
+                    "score": 0.07572721689939499, 
+                    "spot": "resident"
+                }
+            ], 
+            "wiki_id": 491489, 
+            "wiki_title": "Resident (title)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 680, 
+                    "end": 684, 
+                    "score": 0.1593443602323532, 
+                    "spot": "arms"
+                }
+            ], 
+            "wiki_id": 55284, 
+            "wiki_title": "Coat of arms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2656, 
+                    "end": 2667, 
+                    "score": 0.001930203870870173, 
+                    "spot": "explanation"
+                }
+            ], 
+            "wiki_id": 888207, 
+            "wiki_title": "Etymology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3480, 
+                    "end": 3491, 
+                    "score": 0.12133938819169998, 
+                    "spot": "legislative"
+                }
+            ], 
+            "wiki_id": 44421, 
+            "wiki_title": "Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3177, 
+                    "end": 3184, 
+                    "score": 0.06666667014360428, 
+                    "spot": "briefer"
+                }
+            ], 
+            "wiki_id": 18634157, 
+            "wiki_title": "Dick Briefer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4212, 
+                    "end": 4223, 
+                    "score": 0.257617324590683, 
+                    "spot": "food supply"
+                }
+            ], 
+            "wiki_id": 216361, 
+            "wiki_title": "Food security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2570, 
+                    "end": 2574, 
+                    "score": 0.11591511219739914, 
+                    "spot": "bear"
+                }
+            ], 
+            "wiki_id": 149408, 
+            "wiki_title": "Bear (gay culture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1146, 
+                    "end": 1152, 
+                    "score": 0.07198737561702728, 
+                    "spot": "solemn"
+                }
+            ], 
+            "wiki_id": 15114, 
+            "wiki_title": "Indictable offence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1111, 
+                    "end": 1117, 
+                    "score": 0.2600979804992676, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 1397, 
+                    "end": 1403, 
+                    "score": 0.19571341574192047, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4736, 
+                    "end": 4738, 
+                    "score": 0.07359987497329712, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 230200, 
+            "wiki_title": "Circuit (administrative division)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 12, 
+                    "score": 0.001408450654707849, 
+                    "spot": "The best"
+                }, 
+                {
+                    "begin": 1706, 
+                    "end": 1714, 
+                    "score": 0.001408450654707849, 
+                    "spot": "the best"
+                }, 
+                {
+                    "begin": 2264, 
+                    "end": 2272, 
+                    "score": 0.08420195430517197, 
+                    "spot": "the best"
+                }
+            ], 
+            "wiki_id": 5519593, 
+            "wiki_title": "The Best (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 802, 
+                    "end": 809, 
+                    "score": 0.28018468618392944, 
+                    "spot": "liberty"
+                }
+            ], 
+            "wiki_id": 936385, 
+            "wiki_title": "Liberty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4454, 
+                    "end": 4461, 
+                    "score": 0.18919192254543304, 
+                    "spot": "numbers"
+                }
+            ], 
+            "wiki_id": 21690, 
+            "wiki_title": "Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 448, 
+                    "end": 459, 
+                    "score": 0.20633910596370697, 
+                    "spot": "affirmation"
+                }
+            ], 
+            "wiki_id": 38235255, 
+            "wiki_title": "Affirmative and negative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2459, 
+                    "end": 2466, 
+                    "score": 0.06994765251874924, 
+                    "spot": "changes"
+                }
+            ], 
+            "wiki_id": 183431, 
+            "wiki_title": "Chord progression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4237, 
+                    "end": 4242, 
+                    "score": 0.12187449634075165, 
+                    "spot": "facts"
+                }
+            ], 
+            "wiki_id": 275935, 
+            "wiki_title": "Flexible AC transmission system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1045, 
+                    "end": 1053, 
+                    "score": 0.15654024481773376, 
+                    "spot": "adopting"
+                }
+            ], 
+            "wiki_id": 38534, 
+            "wiki_title": "Adoption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1783, 
+                    "end": 1790, 
+                    "score": 0.06799141317605972, 
+                    "spot": "bearing"
+                }, 
+                {
+                    "begin": 1875, 
+                    "end": 1882, 
+                    "score": 0.06799141317605972, 
+                    "spot": "bearing"
+                }, 
+                {
+                    "begin": 5202, 
+                    "end": 5209, 
+                    "score": 0.06799141317605972, 
+                    "spot": "bearing"
+                }
+            ], 
+            "wiki_id": 198101, 
+            "wiki_title": "Ball bearing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5840, 
+                    "end": 5857, 
+                    "score": 0.34089168906211853, 
+                    "spot": "Selective Service"
+                }
+            ], 
+            "wiki_id": 466454, 
+            "wiki_title": "Selective Service System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4046, 
+                    "end": 4051, 
+                    "score": 0.04446946457028389, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 327672, 
+            "wiki_title": "Natural and legal rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5144, 
+                    "end": 5148, 
+                    "score": 0.08051615208387375, 
+                    "spot": "Here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5191, 
+                    "end": 5198, 
+                    "score": 0.0008153313538059592, 
+                    "spot": "aspects"
+                }
+            ], 
+            "wiki_id": 275874, 
+            "wiki_title": "Railway signal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4540, 
+                    "end": 4543, 
+                    "score": 0.021230781450867653, 
+                    "spot": "nor"
+                }
+            ], 
+            "wiki_id": 21241, 
+            "wiki_title": "Norway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5939, 
+                    "end": 5944, 
+                    "score": 0.07635007798671722, 
+                    "spot": "bills"
+                }
+            ], 
+            "wiki_id": 4315, 
+            "wiki_title": "Buffalo Bills"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5444, 
+                    "end": 5449, 
+                    "score": 0.0837130919098854, 
+                    "spot": "today"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5129, 
+                    "end": 5139, 
+                    "score": 0.2632823884487152, 
+                    "spot": "ammunition"
+                }
+            ], 
+            "wiki_id": 18940621, 
+            "wiki_title": "Ammunition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1515, 
+                    "score": 0.15273141860961914, 
+                    "spot": "dropped"
+                }
+            ], 
+            "wiki_id": 11778948, 
+            "wiki_title": "Atomic bombings of Hiroshima and Nagasaki"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 789, 
+                    "end": 798, 
+                    "score": 0.11334437876939774, 
+                    "spot": "dangerous"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5611, 
+                    "end": 5614, 
+                    "score": 0.1290454864501953, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6363, 
+                    "end": 6371, 
+                    "score": 0.1454664021730423, 
+                    "spot": "composed"
+                }
+            ], 
+            "wiki_id": 94154, 
+            "wiki_title": "Songwriter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2869, 
+                    "end": 2878, 
+                    "score": 0.0011737548047676682, 
+                    "spot": "provision"
+                }, 
+                {
+                    "begin": 3065, 
+                    "end": 3074, 
+                    "score": 0.0011737548047676682, 
+                    "spot": "provision"
+                }
+            ], 
+            "wiki_id": 8879931, 
+            "wiki_title": "Provision (accounting)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 516, 
+                    "end": 526, 
+                    "score": 0.08894215524196625, 
+                    "spot": "opposition"
+                }
+            ], 
+            "wiki_id": 3379016, 
+            "wiki_title": "Opposition (politics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6278, 
+                    "end": 6287, 
+                    "score": 0.0012820513220503926, 
+                    "spot": "ourselves"
+                }
+            ], 
+            "wiki_id": 12519869, 
+            "wiki_title": "Ourselves (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5327, 
+                    "end": 5341, 
+                    "score": 0.009322353638708591, 
+                    "spot": "constitutional"
+                }
+            ], 
+            "wiki_id": 23987465, 
+            "wiki_title": "Constitution of the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 668, 
+                    "score": 0.022577423602342606, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2757, 
+                    "end": 2764, 
+                    "score": 0.08285530656576157, 
+                    "spot": "debated"
+                }
+            ], 
+            "wiki_id": 16234532, 
+            "wiki_title": "Debate (parliamentary procedure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6177, 
+                    "end": 6180, 
+                    "score": 0.09607703983783722, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4629, 
+                    "end": 4645, 
+                    "score": 0.17202399671077728, 
+                    "spot": "constitutionally"
+                }
+            ], 
+            "wiki_id": 304824, 
+            "wiki_title": "Constitution of Pakistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4282, 
+                    "end": 4290, 
+                    "score": 0.003053921740502119, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 384864, 
+            "wiki_title": "Question (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3939, 
+                    "end": 3942, 
+                    "score": 0.01773049682378769, 
+                    "spot": "Isn"
+                }, 
+                {
+                    "begin": 6145, 
+                    "end": 6148, 
+                    "score": 0.20183056592941284, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5097, 
+                    "end": 5107, 
+                    "score": 0.08999601751565933, 
+                    "spot": "prescribed"
+                }
+            ], 
+            "wiki_id": 26917, 
+            "wiki_title": "Statute of limitations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1183, 
+                    "end": 1189, 
+                    "score": 0.001891451422125101, 
+                    "spot": "follow"
+                }
+            ], 
+            "wiki_id": 1061842, 
+            "wiki_title": "Follow-on"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 444, 
+                    "score": 0.18233390152454376, 
+                    "spot": "article"
+                }
+            ], 
+            "wiki_id": 48203, 
+            "wiki_title": "Article (grammar)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1889, 
+                    "end": 1893, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }, 
+                {
+                    "begin": 2011, 
+                    "end": 2015, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2273, 
+                    "end": 2281, 
+                    "score": 0.006565421354025602, 
+                    "spot": "security"
+                }, 
+                {
+                    "begin": 3330, 
+                    "end": 3338, 
+                    "score": 0.11338914185762405, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 240468, 
+            "wiki_title": "National security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2005, 
+                    "end": 2010, 
+                    "score": 0.18477584421634674, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 51490, 
+            "wiki_title": "Rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 719, 
+                    "end": 726, 
+                    "score": 0.059000805020332336, 
+                    "spot": "defense"
+                }
+            ], 
+            "wiki_id": 228102, 
+            "wiki_title": "Defense (legal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5578, 
+                    "end": 5581, 
+                    "score": 0.08045097440481186, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6058, 
+                    "end": 6067, 
+                    "score": 0.025456057861447334, 
+                    "spot": "Restoring"
+                }
+            ], 
+            "wiki_id": 620530, 
+            "wiki_title": "Building restoration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5241, 
+                    "end": 5250, 
+                    "score": 0.003499766578897834, 
+                    "spot": "every man"
+                }
+            ], 
+            "wiki_id": 15197955, 
+            "wiki_title": "For Every Man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4248, 
+                    "end": 4250, 
+                    "score": 0.062167439609766006, 
+                    "spot": "us"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2886, 
+                    "end": 2890, 
+                    "score": 0.0009033234091475606, 
+                    "spot": "once"
+                }
+            ], 
+            "wiki_id": 4854761, 
+            "wiki_title": "Once railway station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2528, 
+                    "end": 2537, 
+                    "score": 0.003379805712029338, 
+                    "spot": "in person"
+                }
+            ], 
+            "wiki_id": 13354367, 
+            "wiki_title": "In Person!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 497, 
+                    "end": 510, 
+                    "score": 0.3603847324848175, 
+                    "spot": "state militia"
+                }, 
+                {
+                    "begin": 503, 
+                    "end": 510, 
+                    "score": 0.3969351649284363, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 625, 
+                    "end": 632, 
+                    "score": 0.08754406869411469, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 1692, 
+                    "end": 1699, 
+                    "score": 0.16191276907920837, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 2074, 
+                    "end": 2081, 
+                    "score": 0.24767710268497467, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 2213, 
+                    "end": 2220, 
+                    "score": 0.1371231973171234, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 3298, 
+                    "end": 3305, 
+                    "score": 0.24661508202552795, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 3561, 
+                    "end": 3568, 
+                    "score": 0.08754406869411469, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 3754, 
+                    "end": 3767, 
+                    "score": 0.5292887091636658, 
+                    "spot": "state militia"
+                }, 
+                {
+                    "begin": 3760, 
+                    "end": 3767, 
+                    "score": 0.3375440835952759, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 4771, 
+                    "end": 4778, 
+                    "score": 0.22257454693317413, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 4969, 
+                    "end": 4976, 
+                    "score": 0.20615148544311523, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 5060, 
+                    "end": 5070, 
+                    "score": 0.14819099009037018, 
+                    "spot": "militiaman"
+                }, 
+                {
+                    "begin": 5533, 
+                    "end": 5540, 
+                    "score": 0.2762758135795593, 
+                    "spot": "Militia"
+                }, 
+                {
+                    "begin": 5634, 
+                    "end": 5641, 
+                    "score": 0.2169526219367981, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 6332, 
+                    "end": 6339, 
+                    "score": 0.08754406869411469, 
+                    "spot": "militia"
+                }
+            ], 
+            "wiki_id": 20622, 
+            "wiki_title": "Militia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1489, 
+                    "end": 1498, 
+                    "score": 0.01722298376262188, 
+                    "spot": "presented"
+                }
+            ], 
+            "wiki_id": 545607, 
+            "wiki_title": "Sponsor (commercial)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5749, 
+                    "end": 5754, 
+                    "score": 0.2163926064968109, 
+                    "spot": "owner"
+                }
+            ], 
+            "wiki_id": 538368, 
+            "wiki_title": "Landlord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6217, 
+                    "end": 6230, 
+                    "score": 0.22660723328590393, 
+                    "spot": "opinion polls"
+                }
+            ], 
+            "wiki_id": 277315, 
+            "wiki_title": "Opinion poll"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1729, 
+                    "end": 1741, 
+                    "score": 0.03393665328621864, 
+                    "spot": "free country"
+                }
+            ], 
+            "wiki_id": 47013, 
+            "wiki_title": "Free World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4465, 
+                    "end": 4471, 
+                    "score": 0.10369882732629776, 
+                    "spot": "rights"
+                }
+            ], 
+            "wiki_id": 23626, 
+            "wiki_title": "Property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1312, 
+                    "score": 0.08934149146080017, 
+                    "spot": "pledge"
+                }
+            ], 
+            "wiki_id": 273418, 
+            "wiki_title": "Oath"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2645, 
+                    "end": 2651, 
+                    "score": 0.10717066377401352, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 496617, 
+            "wiki_title": "Second Battle of Gaza"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3465, 
+                    "end": 3471, 
+                    "score": 0.038997337222099304, 
+                    "spot": "buried"
+                }
+            ], 
+            "wiki_id": 177497, 
+            "wiki_title": "Burial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2156, 
+                    "end": 2164, 
+                    "score": 0.011033512651920319, 
+                    "spot": "came out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 85, 
+                    "end": 99, 
+                    "score": 0.25249236822128296, 
+                    "spot": "First Congress"
+                }, 
+                {
+                    "begin": 1209, 
+                    "end": 1223, 
+                    "score": 0.189266636967659, 
+                    "spot": "First Congress"
+                }
+            ], 
+            "wiki_id": 224807, 
+            "wiki_title": "1st United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 382, 
+                    "end": 396, 
+                    "score": 0.189522385597229, 
+                    "spot": "North Carolina"
+                }
+            ], 
+            "wiki_id": 21650, 
+            "wiki_title": "North Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3008, 
+                    "end": 3014, 
+                    "score": 0.14834129810333252, 
+                    "spot": "debate"
+                }
+            ], 
+            "wiki_id": 337689, 
+            "wiki_title": "Debate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3170, 
+                    "score": 0.08216916769742966, 
+                    "spot": "final"
+                }
+            ], 
+            "wiki_id": 44911, 
+            "wiki_title": "Syllable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2926, 
+                    "end": 2933, 
+                    "score": 0.09090909361839294, 
+                    "spot": "uses of"
+                }
+            ], 
+            "wiki_id": 59338, 
+            "wiki_title": "Bracket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5670, 
+                    "end": 5673, 
+                    "score": 0.0969180017709732, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 178664, 
+            "wiki_title": "Hybrid Theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2250, 
+                    "end": 2256, 
+                    "score": 0.14646069705486298, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 2730, 
+                    "end": 2736, 
+                    "score": 0.07166418433189392, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2168, 
+                    "end": 2177, 
+                    "score": 0.10481419414281845, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5698, 
+                    "end": 5700, 
+                    "score": 0.06444770842790604, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6151, 
+                    "end": 6155, 
+                    "score": 0.1489672213792801, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5758, 
+                    "end": 5766, 
+                    "score": 0.13281172513961792, 
+                    "spot": "register"
+                }
+            ], 
+            "wiki_id": 3182956, 
+            "wiki_title": "Land registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5988, 
+                    "end": 5996, 
+                    "score": 0.0013797861756756902, 
+                    "spot": "purchase"
+                }
+            ], 
+            "wiki_id": 17628, 
+            "wiki_title": "Louisiana Purchase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4019, 
+                    "end": 4022, 
+                    "score": 0.0962948277592659, 
+                    "spot": "gun"
+                }, 
+                {
+                    "begin": 5270, 
+                    "end": 5278, 
+                    "score": 0.030701270326972008, 
+                    "spot": "firearms"
+                }, 
+                {
+                    "begin": 5688, 
+                    "end": 5691, 
+                    "score": 0.008275343105196953, 
+                    "spot": "gun"
+                }
+            ], 
+            "wiki_id": 11966, 
+            "wiki_title": "Firearm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1769, 
+                    "end": 1779, 
+                    "score": 0.1395392119884491, 
+                    "spot": "scrupulous"
+                }, 
+                {
+                    "begin": 2395, 
+                    "end": 2405, 
+                    "score": 0.19229425489902496, 
+                    "spot": "scrupulous"
+                }
+            ], 
+            "wiki_id": 186123, 
+            "wiki_title": "Conscience"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5172, 
+                    "end": 5179, 
+                    "score": 0.05656145513057709, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 299959, 
+            "wiki_title": "Private school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 634, 
+                    "end": 642, 
+                    "score": 0.0010482693323865533, 
+                    "spot": "composed"
+                }, 
+                {
+                    "begin": 2222, 
+                    "end": 2230, 
+                    "score": 0.03293362632393837, 
+                    "spot": "composed"
+                }, 
+                {
+                    "begin": 2702, 
+                    "end": 2710, 
+                    "score": 0.03293362632393837, 
+                    "spot": "composed"
+                }
+            ], 
+            "wiki_id": 1822919, 
+            "wiki_title": "Composition (visual arts)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1011, 
+                    "end": 1023, 
+                    "score": 0.27655231952667236, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 6104, 
+                    "end": 6116, 
+                    "score": 0.15914346277713776, 
+                    "spot": "Constitution"
+                }
+            ], 
+            "wiki_id": 5253, 
+            "wiki_title": "Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6312, 
+                    "end": 6318, 
+                    "score": 0.021179039031267166, 
+                    "spot": "remedy"
+                }
+            ], 
+            "wiki_id": 1584306, 
+            "wiki_title": "Legal remedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2099, 
+                    "end": 2108, 
+                    "score": 0.23252861201763153, 
+                    "spot": "amendment"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1290, 
+                    "end": 1295, 
+                    "score": 0.001896655187010765, 
+                    "spot": "basis"
+                }
+            ], 
+            "wiki_id": 18420, 
+            "wiki_title": "Basis (linear algebra)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4833, 
+                    "end": 4852, 
+                    "score": 0.5, 
+                    "spot": "Militia Act of\n1792"
+                }, 
+                {
+                    "begin": 5533, 
+                    "end": 5544, 
+                    "score": 0.13492903113365173, 
+                    "spot": "Militia Act"
+                }
+            ], 
+            "wiki_id": 3300339, 
+            "wiki_title": "Militia Acts of 1792"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 26, 
+                    "end": 33, 
+                    "score": 0.168649360537529, 
+                    "spot": "meaning"
+                }
+            ], 
+            "wiki_id": 18839, 
+            "wiki_title": "Music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4695, 
+                    "end": 4704, 
+                    "score": 0.0569089837372303, 
+                    "spot": "protected"
+                }
+            ], 
+            "wiki_id": 20110668, 
+            "wiki_title": "Endangered species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3138, 
+                    "end": 3144, 
+                    "score": 0.0666419044137001, 
+                    "spot": "Senate"
+                }
+            ], 
+            "wiki_id": 165705, 
+            "wiki_title": "Australian Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 669, 
+                    "end": 676, 
+                    "score": 0.04084901511669159, 
+                    "spot": "trained"
+                }
+            ], 
+            "wiki_id": 169696, 
+            "wiki_title": "Falconry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3958, 
+                    "end": 3967, 
+                    "score": 0.10305263847112656, 
+                    "spot": "protected"
+                }
+            ], 
+            "wiki_id": 380812, 
+            "wiki_title": "State park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1325, 
+                    "end": 1331, 
+                    "score": 0.021418536081910133, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 42296, 
+            "wiki_title": "Grammatical number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 18, 
+                    "score": 0.003935860004276037, 
+                    "spot": "clues"
+                }
+            ], 
+            "wiki_id": 22184065, 
+            "wiki_title": "Clues (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4251, 
+                    "end": 4265, 
+                    "score": 0.0008183306199498475, 
+                    "spot": "almost nothing"
+                }
+            ], 
+            "wiki_id": 165751, 
+            "wiki_title": "Presque rien"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6414, 
+                    "end": 6421, 
+                    "score": 0.1428571492433548, 
+                    "spot": "Goldwin"
+                }
+            ], 
+            "wiki_id": 25985920, 
+            "wiki_title": "Robert Goldwin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6023, 
+                    "end": 6032, 
+                    "score": 0.11331550031900406, 
+                    "spot": "penalties"
+                }
+            ], 
+            "wiki_id": 2112397, 
+            "wiki_title": "Sanctions (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6320, 
+                    "end": 6327, 
+                    "score": 0.004820127040147781, 
+                    "spot": "Call in"
+                }
+            ], 
+            "wiki_id": 698374, 
+            "wiki_title": "Phone-in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4052, 
+                    "end": 4054, 
+                    "score": 0.004958091303706169, 
+                    "spot": "go"
+                }, 
+                {
+                    "begin": 4096, 
+                    "end": 4098, 
+                    "score": 0.004958091303706169, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 2446429, 
+            "wiki_title": "Go (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 650, 
+                    "end": 654, 
+                    "score": 0.009752226993441582, 
+                    "spot": "body"
+                }, 
+                {
+                    "begin": 2238, 
+                    "end": 2242, 
+                    "score": 0.08165222406387329, 
+                    "spot": "body"
+                }, 
+                {
+                    "begin": 2718, 
+                    "end": 2722, 
+                    "score": 0.042649321258068085, 
+                    "spot": "body"
+                }, 
+                {
+                    "begin": 6379, 
+                    "end": 6383, 
+                    "score": 0.09728731215000153, 
+                    "spot": "body"
+                }
+            ], 
+            "wiki_id": 11846, 
+            "wiki_title": "Guitar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 875, 
+                    "end": 880, 
+                    "score": 0.00621182331815362, 
+                    "spot": "limit"
+                }
+            ], 
+            "wiki_id": 299592, 
+            "wiki_title": "Optical disc drive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1967, 
+                    "end": 1976, 
+                    "score": 0.20759736001491547, 
+                    "spot": "exemption"
+                }, 
+                {
+                    "begin": 3230, 
+                    "end": 3239, 
+                    "score": 0.05994485691189766, 
+                    "spot": "exemption"
+                }
+            ], 
+            "wiki_id": 960403, 
+            "wiki_title": "Tax exemption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5031, 
+                    "end": 5040, 
+                    "score": 0.001387935015372932, 
+                    "spot": "reporting"
+                }
+            ], 
+            "wiki_id": 93755, 
+            "wiki_title": "Financial statement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1456, 
+                    "end": 1463, 
+                    "score": 0.058895085006952286, 
+                    "spot": "version"
+                }, 
+                {
+                    "begin": 1865, 
+                    "end": 1872, 
+                    "score": 0.0005312300054356456, 
+                    "spot": "version"
+                }, 
+                {
+                    "begin": 3103, 
+                    "end": 3110, 
+                    "score": 0.0005312300054356456, 
+                    "spot": "version"
+                }
+            ], 
+            "wiki_id": 214532, 
+            "wiki_title": "Bible translations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1662, 
+                    "end": 1672, 
+                    "score": 0.006598984822630882, 
+                    "spot": "well armed"
+                }
+            ], 
+            "wiki_id": 22177413, 
+            "wiki_title": "Well Armed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1555, 
+                    "end": 1577, 
+                    "score": 0.5, 
+                    "spot": "conscientious objector"
+                }, 
+                {
+                    "begin": 3042, 
+                    "end": 3064, 
+                    "score": 0.5, 
+                    "spot": "conscientious objector"
+                }, 
+                {
+                    "begin": 3244, 
+                    "end": 3267, 
+                    "score": 0.3097034990787506, 
+                    "spot": "conscientious\nobjectors"
+                }
+            ], 
+            "wiki_id": 83003, 
+            "wiki_title": "Conscientious objector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5461, 
+                    "end": 5468, 
+                    "score": 0.0009731699246913195, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 9355587, 
+            "wiki_title": "Example (musician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 769, 
+                    "end": 774, 
+                    "score": 0.0846443846821785, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3539, 
+                    "end": 3553, 
+                    "score": 0.009900989942252636, 
+                    "spot": "right to serve"
+                }
+            ], 
+            "wiki_id": 9234744, 
+            "wiki_title": "Soulforce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5961, 
+                    "end": 5970, 
+                    "score": 0.05194788798689842, 
+                    "spot": "Standards"
+                }
+            ], 
+            "wiki_id": 27065, 
+            "wiki_title": "Standardization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4591, 
+                    "end": 4605, 
+                    "score": 0.12192930281162262, 
+                    "spot": "constitutional"
+                }
+            ], 
+            "wiki_id": 5649, 
+            "wiki_title": "Constitutional monarchy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4869, 
+                    "end": 4880, 
+                    "score": 0.20424094796180725, 
+                    "spot": "able-bodied"
+                }
+            ], 
+            "wiki_id": 56285, 
+            "wiki_title": "Disability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1471, 
+                    "end": 1475, 
+                    "score": 0.05566515773534775, 
+                    "spot": "arms"
+                }, 
+                {
+                    "begin": 1791, 
+                    "end": 1795, 
+                    "score": 0.07983902096748352, 
+                    "spot": "arms"
+                }, 
+                {
+                    "begin": 1883, 
+                    "end": 1887, 
+                    "score": 0.07161473482847214, 
+                    "spot": "arms"
+                }, 
+                {
+                    "begin": 2934, 
+                    "end": 2938, 
+                    "score": 0.18199747800827026, 
+                    "spot": "arms"
+                }, 
+                {
+                    "begin": 5210, 
+                    "end": 5214, 
+                    "score": 0.07161473482847214, 
+                    "spot": "arms"
+                }, 
+                {
+                    "begin": 5383, 
+                    "end": 5387, 
+                    "score": 0.07101864367723465, 
+                    "spot": "arms"
+                }
+            ], 
+            "wiki_id": 33496, 
+            "wiki_title": "Weapon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3905, 
+                    "end": 3908, 
+                    "score": 0.25634339451789856, 
+                    "spot": "gun"
+                }
+            ], 
+            "wiki_id": 21281502, 
+            "wiki_title": "Gun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1376, 
+                    "end": 1384, 
+                    "score": 0.09037238359451294, 
+                    "spot": "articles"
+                }
+            ], 
+            "wiki_id": 59952, 
+            "wiki_title": "Thirty-Nine Articles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 566, 
+                    "score": 0.38762831687927246, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1750, 
+                    "end": 1756, 
+                    "score": 0.3083206117153168, 
+                    "spot": "person"
+                }, 
+                {
+                    "begin": 2376, 
+                    "end": 2382, 
+                    "score": 0.2719722092151642, 
+                    "spot": "person"
+                }, 
+                {
+                    "begin": 5571, 
+                    "end": 5577, 
+                    "score": 0.1059776246547699, 
+                    "spot": "person"
+                }, 
+                {
+                    "begin": 6391, 
+                    "end": 6397, 
+                    "score": 0.002633341820910573, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1028, 
+                    "end": 1036, 
+                    "score": 0.15768775343894958, 
+                    "spot": "ratified"
+                }, 
+                {
+                    "begin": 1118, 
+                    "end": 1130, 
+                    "score": 0.17489412426948547, 
+                    "spot": "ratification"
+                }
+            ], 
+            "wiki_id": 429650, 
+            "wiki_title": "Ratification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3695, 
+                    "end": 3703, 
+                    "score": 0.012091642245650291, 
+                    "spot": "reliance"
+                }
+            ], 
+            "wiki_id": 609696, 
+            "wiki_title": "Reliance Communications"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6295, 
+                    "end": 6311, 
+                    "score": 0.20933522284030914, 
+                    "spot": "Second Amendment"
+                }
+            ], 
+            "wiki_id": 702467, 
+            "wiki_title": "Second Amendment of the Constitution of Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5420, 
+                    "end": 5428, 
+                    "score": 0.06994568556547165, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 502038, 
+            "wiki_title": "Question"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4981, 
+                    "end": 4989, 
+                    "score": 0.22661617398262024, 
+                    "spot": "training"
+                }
+            ], 
+            "wiki_id": 1022936, 
+            "wiki_title": "Military education and training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5288, 
+                    "end": 5294, 
+                    "score": 0.006936030928045511, 
+                    "spot": "aspect"
+                }
+            ], 
+            "wiki_id": 5414157, 
+            "wiki_title": "Hachette Book Group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3806, 
+                    "end": 3811, 
+                    "score": 0.0022075448650866747, 
+                    "spot": "ready"
+                }
+            ], 
+            "wiki_id": 27813251, 
+            "wiki_title": "Ready (2011 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 267, 
+                    "end": 274, 
+                    "score": 0.16173067688941956, 
+                    "spot": "in time"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2854, 
+                    "end": 2861, 
+                    "score": 0.007618207950145006, 
+                    "spot": "history"
+                }
+            ], 
+            "wiki_id": 10772350, 
+            "wiki_title": "History"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5920, 
+                    "end": 5925, 
+                    "score": 0.16379410028457642, 
+                    "spot": "Brady"
+                }
+            ], 
+            "wiki_id": 23634569, 
+            "wiki_title": "Pat Brady (American football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2613, 
+                    "end": 2621, 
+                    "score": 0.13408163189888, 
+                    "spot": "two\nways"
+                }
+            ], 
+            "wiki_id": 326469, 
+            "wiki_title": "Didache"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3344, 
+                    "end": 3354, 
+                    "score": 0.2159387767314911, 
+                    "spot": "free state"
+                }
+            ], 
+            "wiki_id": 505770, 
+            "wiki_title": "Slave and free states"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1825, 
+                    "end": 1841, 
+                    "score": 0.020506536588072777, 
+                    "spot": "military service"
+                }, 
+                {
+                    "begin": 2511, 
+                    "end": 2527, 
+                    "score": 0.020506536588072777, 
+                    "spot": "military service"
+                }, 
+                {
+                    "begin": 5045, 
+                    "end": 5052, 
+                    "score": 0.07162654399871826, 
+                    "spot": "service"
+                }
+            ], 
+            "wiki_id": 938728, 
+            "wiki_title": "Military service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5589, 
+                    "end": 5592, 
+                    "score": 0.008275343105196953, 
+                    "spot": "gun"
+                }
+            ], 
+            "wiki_id": 1437557, 
+            "wiki_title": "Gun (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1084, 
+                    "end": 1094, 
+                    "score": 0.18430539965629578, 
+                    "spot": "amendments"
+                }
+            ], 
+            "wiki_id": 261586, 
+            "wiki_title": "Constitutional amendment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1903, 
+                    "end": 1909, 
+                    "score": 0.08845409750938416, 
+                    "spot": "render"
+                }, 
+                {
+                    "begin": 2504, 
+                    "end": 2510, 
+                    "score": 0.08316031098365784, 
+                    "spot": "render"
+                }
+            ], 
+            "wiki_id": 6604, 
+            "wiki_title": "Rendering (computer graphics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3818, 
+                    "end": 3833, 
+                    "score": 0.017379678785800934, 
+                    "spot": "called to serve"
+                }
+            ], 
+            "wiki_id": 17968858, 
+            "wiki_title": "Called to Serve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4514, 
+                    "end": 4520, 
+                    "score": 0.12503352761268616, 
+                    "spot": "rights"
+                }
+            ], 
+            "wiki_id": 14724, 
+            "wiki_title": "Intellectual property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 369, 
+                    "end": 377, 
+                    "score": 0.22298559546470642, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4864, 
+                    "end": 4868, 
+                    "score": 0.1111358031630516, 
+                    "spot": "free"
+                }
+            ], 
+            "wiki_id": 724650, 
+            "wiki_title": "Free education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3148, 
+                    "end": 3152, 
+                    "score": 0.05858262628316879, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 66614, 
+            "wiki_title": "Ornament (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6207, 
+                    "end": 6211, 
+                    "score": 0.07105055451393127, 
+                    "spot": "guns"
+                }
+            ], 
+            "wiki_id": 12686, 
+            "wiki_title": "Overview of gun laws by nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5012, 
+                    "end": 5024, 
+                    "score": 0.5, 
+                    "spot": "case of need"
+                }
+            ], 
+            "wiki_id": 2629149, 
+            "wiki_title": "A Case of Need"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 70, 
+                    "end": 77, 
+                    "score": 0.12058795243501663, 
+                    "spot": "debates"
+                }
+            ], 
+            "wiki_id": 447485, 
+            "wiki_title": "Lincoln\u2013Douglas debates"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3586, 
+                    "end": 3595, 
+                    "score": 0.00818826537579298, 
+                    "spot": "everybody"
+                }
+            ], 
+            "wiki_id": 2288523, 
+            "wiki_title": "Everybody (Madonna song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1894, 
+                    "end": 1898, 
+                    "score": 0.062482431530952454, 
+                    "spot": "mean"
+                }, 
+                {
+                    "begin": 5220, 
+                    "end": 5231, 
+                    "score": 0.01182287186384201, 
+                    "spot": "expectation"
+                }
+            ], 
+            "wiki_id": 9653, 
+            "wiki_title": "Expected value"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5822, 
+                    "end": 5830, 
+                    "score": 0.11022467166185379, 
+                    "spot": "register"
+                }
+            ], 
+            "wiki_id": 994892, 
+            "wiki_title": "Voter registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5877, 
+                    "end": 5888, 
+                    "score": 0.12479332834482193, 
+                    "spot": "information"
+                }
+            ], 
+            "wiki_id": 18985062, 
+            "wiki_title": "Information"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4160, 
+                    "end": 4166, 
+                    "score": 0.18608175218105316, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 4160, 
+                    "end": 4173, 
+                    "score": 0.25965073704719543, 
+                    "spot": "police forces"
+                }
+            ], 
+            "wiki_id": 23627, 
+            "wiki_title": "Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3091, 
+                    "end": 3100, 
+                    "score": 0.0017163846641778946, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 22397358, 
+            "wiki_title": "The Committee (improv group)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5667, 
+                    "end": 5669, 
+                    "score": 0.023303817957639694, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 2520164, 
+            "wiki_title": "If (Bread song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1153, 
+                    "end": 1160, 
+                    "score": 0.03297605365514755, 
+                    "spot": "pledges"
+                }
+            ], 
+            "wiki_id": 47400013, 
+            "wiki_title": "Fraternities and sororities"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 283, 
+                    "score": 0.008029736578464508, 
+                    "spot": "peace"
+                }, 
+                {
+                    "begin": 778, 
+                    "end": 783, 
+                    "score": 0.19521164894104004, 
+                    "spot": "peace"
+                }
+            ], 
+            "wiki_id": 24702, 
+            "wiki_title": "Peace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4994, 
+                    "end": 5008, 
+                    "score": 0.27534428238868713, 
+                    "spot": "active service"
+                }
+            ], 
+            "wiki_id": 1369507, 
+            "wiki_title": "Active duty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6272, 
+                    "end": 6277, 
+                    "score": 0.007138357963413, 
+                    "spot": "avail"
+                }
+            ], 
+            "wiki_id": 1165524, 
+            "wiki_title": "Avail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5160, 
+                    "end": 5164, 
+                    "score": 0.05697988346219063, 
+                    "spot": "link"
+                }
+            ], 
+            "wiki_id": 1705406, 
+            "wiki_title": "Link (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4412, 
+                    "end": 4417, 
+                    "score": 0.0549580454826355, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 18183, 
+            "wiki_title": "Relative direction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1682, 
+                    "end": 1691, 
+                    "score": 0.07742670923471451, 
+                    "spot": "regulated"
+                }, 
+                {
+                    "begin": 2203, 
+                    "end": 2212, 
+                    "score": 0.08021679520606995, 
+                    "spot": "regulated"
+                }, 
+                {
+                    "begin": 4657, 
+                    "end": 4667, 
+                    "score": 0.20694416761398315, 
+                    "spot": "regulation"
+                }
+            ], 
+            "wiki_id": 153149, 
+            "wiki_title": "Regulation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5930, 
+                    "end": 5938, 
+                    "score": 0.20177285373210907, 
+                    "spot": "Staggers"
+                }
+            ], 
+            "wiki_id": 20784585, 
+            "wiki_title": "Jon Staggers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1936, 
+                    "end": 1940, 
+                    "score": 0.1236552894115448, 
+                    "spot": "else"
+                }
+            ], 
+            "wiki_id": 10638953, 
+            "wiki_title": "The Else"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2625, 
+                    "end": 2628, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2689, 
+                    "end": 2696, 
+                    "score": 0.08754406869411469, 
+                    "spot": "militia"
+                }
+            ], 
+            "wiki_id": 15684774, 
+            "wiki_title": "Militia (United Kingdom)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4442, 
+                    "end": 4453, 
+                    "score": 0.25244373083114624, 
+                    "spot": "uncountable"
+                }
+            ], 
+            "wiki_id": 41990, 
+            "wiki_title": "Mass noun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2918, 
+                    "end": 2925, 
+                    "score": 0.06223408132791519, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 251540, 
+            "wiki_title": "Private sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1242, 
+                    "score": 0.6245473623275757, 
+                    "spot": "James Madison"
+                }, 
+                {
+                    "begin": 1500, 
+                    "end": 1507, 
+                    "score": 0.17900830507278442, 
+                    "spot": "Madison"
+                }
+            ], 
+            "wiki_id": 15950, 
+            "wiki_title": "James Madison"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 693, 
+                    "end": 699, 
+                    "score": 0.1095217913389206, 
+                    "spot": "proper"
+                }
+            ], 
+            "wiki_id": 368995, 
+            "wiki_title": "Tincture (heraldry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 421, 
+                    "end": 429, 
+                    "score": 0.13243678212165833, 
+                    "spot": "elements"
+                }
+            ], 
+            "wiki_id": 5659, 
+            "wiki_title": "Chemical element"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 433, 
+                    "end": 436, 
+                    "score": 0.13824281096458435, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6236, 
+                    "end": 6245, 
+                    "score": 0.01255005318671465, 
+                    "spot": "Americans"
+                }
+            ], 
+            "wiki_id": 22642703, 
+            "wiki_title": "American ethnicity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2198, 
+                    "end": 2202, 
+                    "score": 0.10250899195671082, 
+                    "spot": "well"
+                }, 
+                {
+                    "begin": 5451, 
+                    "end": 5455, 
+                    "score": 0.0005596246337518096, 
+                    "spot": "Well"
+                }
+            ], 
+            "wiki_id": 15105978, 
+            "wiki_title": "Water well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5117, 
+                    "end": 5123, 
+                    "score": 0.38738566637039185, 
+                    "spot": "musket"
+                }
+            ], 
+            "wiki_id": 185324, 
+            "wiki_title": "Musket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6199, 
+                    "end": 6206, 
+                    "score": 0.007770616095513105, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 333, 
+                    "end": 341, 
+                    "score": 0.19187182188034058, 
+                    "spot": "Virginia"
+                }, 
+                {
+                    "begin": 1274, 
+                    "end": 1282, 
+                    "score": 0.2199828326702118, 
+                    "spot": "Virginia"
+                }
+            ], 
+            "wiki_id": 32432, 
+            "wiki_title": "Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2428, 
+                    "end": 2432, 
+                    "score": 0.020242994651198387, 
+                    "spot": "bear"
+                }
+            ], 
+            "wiki_id": 4400, 
+            "wiki_title": "Bear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5501, 
+                    "end": 5521, 
+                    "score": 0.1988391876220703, 
+                    "spot": "constitutional power"
+                }
+            ], 
+            "wiki_id": 5027848, 
+            "wiki_title": "Section 51 (xii) of the Constitution of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4881, 
+                    "end": 4886, 
+                    "score": 0.2376188486814499, 
+                    "spot": "white"
+                }
+            ], 
+            "wiki_id": 166202, 
+            "wiki_title": "White people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4071, 
+                    "end": 4074, 
+                    "score": 0.05418490245938301, 
+                    "spot": "Yes"
+                }
+            ], 
+            "wiki_id": 36769454, 
+            "wiki_title": "YES (Lithuania)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 251, 
+                    "end": 266, 
+                    "score": 0.08421052992343903, 
+                    "spot": "standing armies"
+                }, 
+                {
+                    "begin": 532, 
+                    "end": 545, 
+                    "score": 0.11719745397567749, 
+                    "spot": "standing\narmy"
+                }, 
+                {
+                    "begin": 749, 
+                    "end": 764, 
+                    "score": 0.22552289068698883, 
+                    "spot": "standing armies"
+                }, 
+                {
+                    "begin": 926, 
+                    "end": 939, 
+                    "score": 0.32770413160324097, 
+                    "spot": "standing army"
+                }, 
+                {
+                    "begin": 1529, 
+                    "end": 1542, 
+                    "score": 0.2766447067260742, 
+                    "spot": "standing army"
+                }, 
+                {
+                    "begin": 3709, 
+                    "end": 3722, 
+                    "score": 0.11719745397567749, 
+                    "spot": "standing\narmy"
+                }
+            ], 
+            "wiki_id": 1750278, 
+            "wiki_title": "Standing army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6246, 
+                    "end": 6250, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 25750633, 
+            "wiki_title": "Law &amp; Order: Criminal Intent (season 4)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1268, 
+                    "score": 0.2235071063041687, 
+                    "spot": "congressman"
+                }, 
+                {
+                    "begin": 2746, 
+                    "end": 2751, 
+                    "score": 0.08920752257108688, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4813, 
+                    "end": 4816, 
+                    "score": 0.02763521298766136, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 101846, 
+            "wiki_title": "Canadian dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1335, 
+                    "end": 1345, 
+                    "score": 0.15280556678771973, 
+                    "spot": "amendments"
+                }, 
+                {
+                    "begin": 1476, 
+                    "end": 1485, 
+                    "score": 0.1259373128414154, 
+                    "spot": "amendment"
+                }, 
+                {
+                    "begin": 3638, 
+                    "end": 3647, 
+                    "score": 0.06678302586078644, 
+                    "spot": "amendment"
+                }
+            ], 
+            "wiki_id": 18949668, 
+            "wiki_title": "Law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5652, 
+                    "end": 5657, 
+                    "score": 0.0604013167321682, 
+                    "spot": "1990s"
+                }
+            ], 
+            "wiki_id": 245423, 
+            "wiki_title": "UNITA"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2785, 
+                    "end": 2807, 
+                    "score": 0.15306122601032257, 
+                    "spot": "committee of\nthe whole"
+                }
+            ], 
+            "wiki_id": 5047558, 
+            "wiki_title": "Committee of the whole"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1715, 
+                    "end": 1723, 
+                    "score": 0.006565421354025602, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 284770, 
+            "wiki_title": "Airport security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4195, 
+                    "end": 4204, 
+                    "score": 0.17741909623146057, 
+                    "spot": "essential"
+                }
+            ], 
+            "wiki_id": 235195, 
+            "wiki_title": "Dietary element"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1166, 
+                    "end": 1176, 
+                    "score": 0.14406581223011017, 
+                    "spot": "amendments"
+                }, 
+                {
+                    "begin": 1433, 
+                    "end": 1447, 
+                    "score": 0.17991453409194946, 
+                    "spot": "Bill\nof Rights"
+                }
+            ], 
+            "wiki_id": 9119240, 
+            "wiki_title": "United States Bill of Rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6083, 
+                    "end": 6096, 
+                    "score": 0.051782067865133286, 
+                    "spot": "understanding"
+                }
+            ], 
+            "wiki_id": 1519001, 
+            "wiki_title": "Verstehen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4258, 
+                    "end": 4265, 
+                    "score": 0.027496658265590668, 
+                    "spot": "nothing"
+                }
+            ], 
+            "wiki_id": 1562287, 
+            "wiki_title": "Nothing, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4321, 
+                    "end": 4324, 
+                    "score": 0.09625723958015442, 
+                    "spot": "dog"
+                }, 
+                {
+                    "begin": 4427, 
+                    "end": 4430, 
+                    "score": 0.14030125737190247, 
+                    "spot": "dog"
+                }
+            ], 
+            "wiki_id": 4269567, 
+            "wiki_title": "Dog"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 996, 
+                    "end": 1005, 
+                    "score": 0.1561899036169052, 
+                    "spot": "governors"
+                }
+            ], 
+            "wiki_id": 56231, 
+            "wiki_title": "Governor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2287, 
+                    "end": 2297, 
+                    "score": 0.08584589511156082, 
+                    "spot": "free state"
+                }
+            ], 
+            "wiki_id": 447006, 
+            "wiki_title": "Free State (province)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5358, 
+                    "end": 5373, 
+                    "score": 0.02763631008565426, 
+                    "spot": "public interest"
+                }
+            ], 
+            "wiki_id": 340401, 
+            "wiki_title": "Public interest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4383, 
+                    "end": 4390, 
+                    "score": 0.0013219035463407636, 
+                    "spot": "nothing"
+                }
+            ], 
+            "wiki_id": 1813173, 
+            "wiki_title": "Ex nihilo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 126, 
+                    "end": 133, 
+                    "score": 0.18653987348079681, 
+                    "spot": "Members"
+                }
+            ], 
+            "wiki_id": 223225, 
+            "wiki_title": "Member of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5658, 
+                    "end": 5665, 
+                    "score": 0.11107463389635086, 
+                    "spot": "English"
+                }
+            ], 
+            "wiki_id": 8569916, 
+            "wiki_title": "English language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6264, 
+                    "end": 6271, 
+                    "score": 0.018811341375112534, 
+                    "spot": "Why not"
+                }
+            ], 
+            "wiki_id": 3026101, 
+            "wiki_title": "Why Not (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5318, 
+                    "end": 5323, 
+                    "score": 0.03756270930171013, 
+                    "spot": "level"
+                }
+            ], 
+            "wiki_id": 1910313, 
+            "wiki_title": "Level (video gaming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5407, 
+                    "end": 5411, 
+                    "score": 0.10803267359733582, 
+                    "spot": "mean"
+                }
+            ], 
+            "wiki_id": 19192, 
+            "wiki_title": "Mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3175, 
+                    "score": 0.004084967542439699, 
+                    "spot": "final form"
+                }
+            ], 
+            "wiki_id": 228642, 
+            "wiki_title": "Final form"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4401, 
+                    "end": 4411, 
+                    "score": 0.02278481051325798, 
+                    "spot": "undeniable"
+                }
+            ], 
+            "wiki_id": 20049427, 
+            "wiki_title": "Undeniable (Chipmunks album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4786, 
+                    "end": 4794, 
+                    "score": 0.04738457500934601, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 20550772, 
+            "wiki_title": "Evidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1613, 
+                    "score": 0.021604938432574272, 
+                    "spot": "right of the people"
+                }, 
+                {
+                    "begin": 2038, 
+                    "end": 2057, 
+                    "score": 0.021604938432574272, 
+                    "spot": "right of the people"
+                }, 
+                {
+                    "begin": 2303, 
+                    "end": 2322, 
+                    "score": 0.021604938432574272, 
+                    "spot": "right of\nthe people"
+                }, 
+                {
+                    "begin": 3360, 
+                    "end": 3379, 
+                    "score": 0.021604938432574272, 
+                    "spot": "right of the people"
+                }
+            ], 
+            "wiki_id": 43312292, 
+            "wiki_title": "The Right of the People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 732, 
+                    "end": 742, 
+                    "score": 0.30149370431900024, 
+                    "spot": "free state"
+                }
+            ], 
+            "wiki_id": 42953, 
+            "wiki_title": "Irish Free State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2899, 
+                    "end": 2905, 
+                    "score": 0.09491628408432007, 
+                    "spot": "member"
+                }
+            ], 
+            "wiki_id": 682629, 
+            "wiki_title": "Element (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4802, 
+                    "end": 4812, 
+                    "score": 0.0031917348969727755, 
+                    "spot": "connection"
+                }
+            ], 
+            "wiki_id": 36296868, 
+            "wiki_title": "The Connection (Papa Roach album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4946, 
+                    "end": 4949, 
+                    "score": 0.11642882227897644, 
+                    "spot": "act"
+                }
+            ], 
+            "wiki_id": 74746, 
+            "wiki_title": "Act of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 465, 
+                    "end": 483, 
+                    "score": 0.14107884466648102, 
+                    "spot": "right to bear\narms"
+                }, 
+                {
+                    "begin": 474, 
+                    "end": 483, 
+                    "score": 0.019310344010591507, 
+                    "spot": "bear\narms"
+                }, 
+                {
+                    "begin": 574, 
+                    "end": 601, 
+                    "score": 0.36513158679008484, 
+                    "spot": "right to keep and bear arms"
+                }, 
+                {
+                    "begin": 583, 
+                    "end": 601, 
+                    "score": 0.034574467688798904, 
+                    "spot": "keep and bear arms"
+                }, 
+                {
+                    "begin": 592, 
+                    "end": 601, 
+                    "score": 0.23844768106937408, 
+                    "spot": "bear arms"
+                }, 
+                {
+                    "begin": 1617, 
+                    "end": 1635, 
+                    "score": 0.034574467688798904, 
+                    "spot": "keep and bear arms"
+                }, 
+                {
+                    "begin": 1626, 
+                    "end": 1635, 
+                    "score": 0.1930701583623886, 
+                    "spot": "bear arms"
+                }, 
+                {
+                    "begin": 2326, 
+                    "end": 2344, 
+                    "score": 0.034574467688798904, 
+                    "spot": "keep and bear arms"
+                }, 
+                {
+                    "begin": 2335, 
+                    "end": 2344, 
+                    "score": 0.1930701583623886, 
+                    "spot": "bear arms"
+                }, 
+                {
+                    "begin": 2428, 
+                    "end": 2437, 
+                    "score": 0.019310344010591507, 
+                    "spot": "bear\narms"
+                }, 
+                {
+                    "begin": 2570, 
+                    "end": 2579, 
+                    "score": 0.019310344010591507, 
+                    "spot": "bear arms"
+                }, 
+                {
+                    "begin": 3510, 
+                    "end": 3528, 
+                    "score": 0.14107884466648102, 
+                    "spot": "right to bear arms"
+                }, 
+                {
+                    "begin": 4676, 
+                    "end": 4694, 
+                    "score": 0.3786136507987976, 
+                    "spot": "right to bear arms"
+                }
+            ], 
+            "wiki_id": 219243, 
+            "wiki_title": "Right to keep and bear arms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2186, 
+                    "end": 2190, 
+                    "score": 0.1181250661611557, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 752, 
+            "wiki_title": "Art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 270, 
+                    "end": 274, 
+                    "score": 0.07244318723678589, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 29446866, 
+            "wiki_title": "In Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1932, 
+                    "end": 1935, 
+                    "score": 0.24849434196949005, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 49375311, 
+            "wiki_title": "Why? (They Might Be Giants album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5674, 
+                    "end": 5678, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 3343584, 
+            "wiki_title": "Want"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 55, 
+                    "end": 62, 
+                    "score": 0.04306359216570854, 
+                    "spot": "phrases"
+                }, 
+                {
+                    "begin": 2493, 
+                    "end": 2499, 
+                    "score": 0.1403600126504898, 
+                    "spot": "phrase"
+                }, 
+                {
+                    "begin": 2559, 
+                    "end": 2565, 
+                    "score": 0.18003304302692413, 
+                    "spot": "phrase"
+                }
+            ], 
+            "wiki_id": 44975, 
+            "wiki_title": "Phrase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2638, 
+                    "end": 2643, 
+                    "score": 0.06442131102085114, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 47353, 
+            "wiki_title": "Object (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3205, 
+                    "end": 3215, 
+                    "score": 0.04364388436079025, 
+                    "spot": "elliptical"
+                }
+            ], 
+            "wiki_id": 9277, 
+            "wiki_title": "Ellipse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3842, 
+                    "end": 3852, 
+                    "score": 0.0006406150059774518, 
+                    "spot": "what about"
+                }
+            ], 
+            "wiki_id": 2370510, 
+            "wiki_title": "Life (Dope album)"
+        }
+    ]
+}

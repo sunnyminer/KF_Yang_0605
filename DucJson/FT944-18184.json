@@ -1,0 +1,2866 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 2850, 
+                    "end": 2854, 
+                    "score": 0.049982596188783646, 
+                    "spot": "head"
+                }
+            ], 
+            "wiki_id": 37570, 
+            "wiki_title": "Head of government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2838, 
+                    "end": 2844, 
+                    "score": 0.0473257452249527, 
+                    "spot": "Moreno"
+                }
+            ], 
+            "wiki_id": 15767163, 
+            "wiki_title": "Francisco Garc\u00eda Diego y Moreno"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3311, 
+                    "end": 3334, 
+                    "score": 0.3482654392719269, 
+                    "spot": "deputy attorney general"
+                }, 
+                {
+                    "begin": 3318, 
+                    "end": 3334, 
+                    "score": 0.6067118048667908, 
+                    "spot": "attorney general"
+                }
+            ], 
+            "wiki_id": 54376, 
+            "wiki_title": "Attorney general"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 182, 
+                    "end": 195, 
+                    "score": 0.04378891363739967, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 1090, 
+                    "end": 1103, 
+                    "score": 0.27474868297576904, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 1180, 
+                    "end": 1184, 
+                    "score": 0.003076327033340931, 
+                    "spot": "kill"
+                }, 
+                {
+                    "begin": 1222, 
+                    "end": 1235, 
+                    "score": 0.2244151383638382, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 3807, 
+                    "end": 3820, 
+                    "score": 0.25833213329315186, 
+                    "spot": "assassination"
+                }
+            ], 
+            "wiki_id": 2963, 
+            "wiki_title": "Assassination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 608, 
+                    "end": 614, 
+                    "score": 0.12650004029273987, 
+                    "spot": "gunman"
+                }, 
+                {
+                    "begin": 2059, 
+                    "end": 2064, 
+                    "score": 0.11181508004665375, 
+                    "spot": "crime"
+                }, 
+                {
+                    "begin": 2413, 
+                    "end": 2418, 
+                    "score": 0.019230488687753677, 
+                    "spot": "crime"
+                }, 
+                {
+                    "begin": 3155, 
+                    "end": 3160, 
+                    "score": 0.16401557624340057, 
+                    "spot": "crime"
+                }
+            ], 
+            "wiki_id": 5785, 
+            "wiki_title": "Crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 559, 
+                    "end": 564, 
+                    "score": 0.36290448904037476, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 8196151, 
+            "wiki_title": "States of Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 540, 
+                    "end": 551, 
+                    "score": 0.6036562323570251, 
+                    "spot": "drug cartel"
+                }
+            ], 
+            "wiki_id": 8442323, 
+            "wiki_title": "Mexican Drug War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 361, 
+                    "end": 373, 
+                    "score": 0.3617021143436432, 
+                    "spot": "Manuel Munoz"
+                }
+            ], 
+            "wiki_id": 25380213, 
+            "wiki_title": "Manuel Mu\u00f1oz (writer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 892, 
+                    "score": 0.2597050368785858, 
+                    "spot": "party"
+                }
+            ], 
+            "wiki_id": 23996, 
+            "wiki_title": "Political party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3775, 
+                    "end": 3782, 
+                    "score": 0.13366740942001343, 
+                    "spot": "accused"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 209, 
+                    "end": 211, 
+                    "score": 0.06026679277420044, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 1204, 
+                    "end": 1206, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 1826, 
+                    "end": 1828, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2014, 
+                    "end": 2016, 
+                    "score": 0.018153468146920204, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2561, 
+                    "end": 2563, 
+                    "score": 0.08916673809289932, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3423, 
+                    "end": 3425, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1723, 
+                    "end": 1729, 
+                    "score": 0.029623080044984818, 
+                    "spot": "barons"
+                }
+            ], 
+            "wiki_id": 79915, 
+            "wiki_title": "Baron"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2564, 
+                    "end": 2569, 
+                    "score": 0.21195580065250397, 
+                    "spot": "Munoz"
+                }
+            ], 
+            "wiki_id": 1286381, 
+            "wiki_title": "Anthony Mu\u00f1oz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1605, 
+                    "end": 1608, 
+                    "score": 0.057284824550151825, 
+                    "spot": "Who"
+                }, 
+                {
+                    "begin": 2113, 
+                    "end": 2116, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3443, 
+                    "end": 3448, 
+                    "score": 0.08286602050065994, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3714, 
+                    "end": 3724, 
+                    "score": 0.00622492004185915, 
+                    "spot": "son-in-law"
+                }
+            ], 
+            "wiki_id": 265570, 
+            "wiki_title": "Kinship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3213, 
+                    "end": 3217, 
+                    "score": 0.12480544298887253, 
+                    "spot": "view"
+                }
+            ], 
+            "wiki_id": 656307, 
+            "wiki_title": "The View (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 151, 
+                    "end": 159, 
+                    "score": 0.28729602694511414, 
+                    "spot": "judicial"
+                }
+            ], 
+            "wiki_id": 59564, 
+            "wiki_title": "Judiciary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 500, 
+                    "end": 509, 
+                    "score": 0.06483202427625656, 
+                    "spot": "developer"
+                }
+            ], 
+            "wiki_id": 23572959, 
+            "wiki_title": "Real estate development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3284, 
+                    "end": 3291, 
+                    "score": 0.00155568344052881, 
+                    "spot": "brother"
+                }
+            ], 
+            "wiki_id": 1281073, 
+            "wiki_title": "Brother Industries"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7, 
+                    "end": 22, 
+                    "score": 0.6962268948554993, 
+                    "spot": "Ernesto Zedillo"
+                }, 
+                {
+                    "begin": 865, 
+                    "end": 872, 
+                    "score": 0.076171875, 
+                    "spot": "Zedillo"
+                }
+            ], 
+            "wiki_id": 296384, 
+            "wiki_title": "Ernesto Zedillo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 300, 
+                    "score": 0.1389053910970688, 
+                    "spot": "removed"
+                }
+            ], 
+            "wiki_id": 1341151, 
+            "wiki_title": "Cousin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 499, 
+                    "score": 0.10326378047466278, 
+                    "spot": "tourism"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1804, 
+                    "score": 0.0005053451750427485, 
+                    "spot": "revealed"
+                }
+            ], 
+            "wiki_id": 21514028, 
+            "wiki_title": "Irony"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1517, 
+                    "end": 1521, 
+                    "score": 0.15331177413463593, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 1704112, 
+            "wiki_title": "Legal case"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2866, 
+                    "end": 2871, 
+                    "score": 0.20184670388698578, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 1142023, 
+            "wiki_title": "Political groups of the European Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 325, 
+                    "end": 332, 
+                    "score": 0.09082508087158203, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 1531824, 
+            "wiki_title": "Wilhelm Killing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2159, 
+                    "end": 2169, 
+                    "score": 0.10368502885103226, 
+                    "spot": "conviction"
+                }
+            ], 
+            "wiki_id": 146762, 
+            "wiki_title": "Conviction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3403, 
+                    "end": 3406, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 39250431, 
+            "wiki_title": "Deaths in May 2013"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2077, 
+                    "end": 2091, 
+                    "score": 0.14315561950206757, 
+                    "spot": "responsibility"
+                }
+            ], 
+            "wiki_id": 1598791, 
+            "wiki_title": "Professional responsibility"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 963, 
+                    "end": 970, 
+                    "score": 0.12809807062149048, 
+                    "spot": "violent"
+                }
+            ], 
+            "wiki_id": 46112, 
+            "wiki_title": "Violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3664, 
+                    "end": 3674, 
+                    "score": 0.05531914904713631, 
+                    "spot": "Valladares"
+                }
+            ], 
+            "wiki_id": 5251154, 
+            "wiki_title": "Noel Valladares"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2499, 
+                    "end": 2507, 
+                    "score": 0.24592584371566772, 
+                    "spot": "Pichardo"
+                }, 
+                {
+                    "begin": 2721, 
+                    "end": 2729, 
+                    "score": 0.23076923191547394, 
+                    "spot": "Pichardo"
+                }
+            ], 
+            "wiki_id": 46223843, 
+            "wiki_title": "Victor M. Pichardo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 997, 
+                    "end": 1002, 
+                    "score": 0.0858287438750267, 
+                    "spot": "stand"
+                }
+            ], 
+            "wiki_id": 1172862, 
+            "wiki_title": "Stand!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1577, 
+                    "end": 1586, 
+                    "score": 0.19396154582500458, 
+                    "spot": "newspaper"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1260, 
+                    "end": 1271, 
+                    "score": 0.15039323270320892, 
+                    "spot": "speculation"
+                }
+            ], 
+            "wiki_id": 63088, 
+            "wiki_title": "Speculation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1718, 
+                    "end": 1722, 
+                    "score": 0.10904822498559952, 
+                    "spot": "drug"
+                }
+            ], 
+            "wiki_id": 102959, 
+            "wiki_title": "Substance abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2467, 
+                    "end": 2475, 
+                    "score": 0.18981114029884338, 
+                    "spot": "factions"
+                }
+            ], 
+            "wiki_id": 40362512, 
+            "wiki_title": "Political faction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 379, 
+                    "score": 0.08169203251600266, 
+                    "spot": "Rocha"
+                }, 
+                {
+                    "begin": 2023, 
+                    "end": 2028, 
+                    "score": 0.08169203251600266, 
+                    "spot": "Rocha"
+                }
+            ], 
+            "wiki_id": 11695554, 
+            "wiki_title": "Valmiro Lopes Rocha"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2814, 
+                    "end": 2816, 
+                    "score": 0.12832114100456238, 
+                    "spot": "Ms"
+                }
+            ], 
+            "wiki_id": 19167, 
+            "wiki_title": "Manuscript"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3750, 
+                    "end": 3753, 
+                    "score": 0.03675253316760063, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 18926, 
+            "wiki_title": "Manitoba"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2879, 
+                    "end": 2898, 
+                    "score": 0.6724172830581665, 
+                    "spot": "Chamber of Deputies"
+                }
+            ], 
+            "wiki_id": 1161880, 
+            "wiki_title": "Chamber of Deputies (Italy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2310, 
+                    "end": 2315, 
+                    "score": 0.058299656957387924, 
+                    "spot": "angry"
+                }
+            ], 
+            "wiki_id": 68672, 
+            "wiki_title": "Anger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1906, 
+                    "end": 1912, 
+                    "score": 0.10082340240478516, 
+                    "spot": "safety"
+                }
+            ], 
+            "wiki_id": 252712, 
+            "wiki_title": "Safety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1663, 
+                    "end": 1669, 
+                    "score": 0.02991189807653427, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 86350, 
+            "wiki_title": "Period (periodic table)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2513, 
+                    "end": 2522, 
+                    "score": 0.04749327898025513, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2537, 
+                    "end": 2545, 
+                    "score": 0.10912518948316574, 
+                    "spot": "declared"
+                }
+            ], 
+            "wiki_id": 1062267, 
+            "wiki_title": "Declaration and forfeiture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3567, 
+                    "end": 3579, 
+                    "score": 0.014583333395421505, 
+                    "spot": "Another view"
+                }
+            ], 
+            "wiki_id": 2211596, 
+            "wiki_title": "Another View"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3618, 
+                    "end": 3623, 
+                    "score": 0.026900677010416985, 
+                    "spot": "Mario"
+                }
+            ], 
+            "wiki_id": 16565058, 
+            "wiki_title": "Pedro Mario \u00c1lvarez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 196, 
+                    "end": 205, 
+                    "score": 0.07213690876960754, 
+                    "spot": "last week"
+                }
+            ], 
+            "wiki_id": 41923028, 
+            "wiki_title": "Last Week Tonight with John Oliver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1526, 
+                    "end": 1540, 
+                    "score": 0.6750296950340271, 
+                    "spot": "Carlos Fuentes"
+                }
+            ], 
+            "wiki_id": 324754, 
+            "wiki_title": "Carlos Fuentes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3507, 
+                    "end": 3513, 
+                    "score": 0.18372689187526703, 
+                    "spot": "search"
+                }
+            ], 
+            "wiki_id": 146745, 
+            "wiki_title": "Search warrant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 876, 
+                    "end": 882, 
+                    "score": 0.1229494959115982, 
+                    "spot": "reform"
+                }
+            ], 
+            "wiki_id": 216395, 
+            "wiki_title": "Reform Party of Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1989, 
+                    "score": 0.028024613857269287, 
+                    "spot": "newspapers"
+                }
+            ], 
+            "wiki_id": 3773890, 
+            "wiki_title": "American City Business Journals"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3353, 
+                    "end": 3364, 
+                    "score": 0.13095374405384064, 
+                    "spot": "enforcement"
+                }
+            ], 
+            "wiki_id": 18486, 
+            "wiki_title": "Law enforcement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 109, 
+                    "end": 124, 
+                    "score": 0.18148118257522583, 
+                    "spot": "governing party"
+                }, 
+                {
+                    "begin": 770, 
+                    "end": 785, 
+                    "score": 0.0075250836089253426, 
+                    "spot": "governing party"
+                }
+            ], 
+            "wiki_id": 403264, 
+            "wiki_title": "Justice and Development Party (Turkey)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3650, 
+                    "end": 3658, 
+                    "score": 0.06500385701656342, 
+                    "spot": "arrested"
+                }
+            ], 
+            "wiki_id": 170638, 
+            "wiki_title": "Arrest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3482, 
+                    "end": 3493, 
+                    "score": 0.0770658552646637, 
+                    "spot": "his brother"
+                }
+            ], 
+            "wiki_id": 2083304, 
+            "wiki_title": "The Steiner Brothers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1433, 
+                    "end": 1455, 
+                    "score": 0.011765524744987488, 
+                    "spot": "presidential candidate"
+                }
+            ], 
+            "wiki_id": 25902530, 
+            "wiki_title": "Presidential elections in Singapore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1965, 
+                    "end": 1973, 
+                    "score": 0.14146380126476288, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 411694, 
+            "wiki_title": "Congress of the Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1683, 
+                    "end": 1701, 
+                    "score": 0.0409383624792099, 
+                    "spot": "political violence"
+                }
+            ], 
+            "wiki_id": 32204428, 
+            "wiki_title": "Political violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 251, 
+                    "end": 259, 
+                    "score": 0.027131782844662666, 
+                    "spot": "s number"
+                }
+            ], 
+            "wiki_id": 21097160, 
+            "wiki_title": "S number (wool)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1287, 
+                    "end": 1300, 
+                    "score": 0.2708870470523834, 
+                    "spot": "reactionaries"
+                }
+            ], 
+            "wiki_id": 158226, 
+            "wiki_title": "Reactionary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2991, 
+                    "end": 3001, 
+                    "score": 0.18996238708496094, 
+                    "spot": "Government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1357, 
+                    "end": 1371, 
+                    "score": 0.07241379469633102, 
+                    "spot": "six months ago"
+                }
+            ], 
+            "wiki_id": 7750843, 
+            "wiki_title": "Six Months Ago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1562, 
+                    "end": 1571, 
+                    "score": 0.1247904896736145, 
+                    "spot": "yesterday"
+                }, 
+                {
+                    "begin": 1999, 
+                    "end": 2008, 
+                    "score": 0.04203345254063606, 
+                    "spot": "yesterday"
+                }
+            ], 
+            "wiki_id": 721696, 
+            "wiki_title": "Yesterday (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 274, 
+                    "end": 278, 
+                    "score": 0.13687892258167267, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2197, 
+                    "end": 2212, 
+                    "score": 0.3697679042816162, 
+                    "spot": "prison sentence"
+                }, 
+                {
+                    "begin": 2204, 
+                    "end": 2212, 
+                    "score": 0.32891708612442017, 
+                    "spot": "sentence"
+                }
+            ], 
+            "wiki_id": 870351, 
+            "wiki_title": "Sentence (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3530, 
+                    "end": 3537, 
+                    "score": 0.06907451897859573, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 7760245, 
+            "wiki_title": "Mutant (Marvel Comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1, 
+                    "end": 3, 
+                    "score": 0.056137315928936005, 
+                    "spot": "If"
+                }, 
+                {
+                    "begin": 3366, 
+                    "end": 3368, 
+                    "score": 0.08124524354934692, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 658808, 
+            "wiki_title": "Material conditional"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 683, 
+                    "end": 692, 
+                    "score": 0.09188219904899597, 
+                    "spot": "confessed"
+                }
+            ], 
+            "wiki_id": 3500548, 
+            "wiki_title": "Confession (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1855, 
+                    "end": 1860, 
+                    "score": 0.13390415906906128, 
+                    "spot": "Munoz"
+                }
+            ], 
+            "wiki_id": 41744402, 
+            "wiki_title": "Death of Marlise Mu\u00f1oz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 99, 
+                    "score": 0.01289475429803133, 
+                    "spot": "reforming"
+                }, 
+                {
+                    "begin": 2748, 
+                    "end": 2754, 
+                    "score": 0.011143113486468792, 
+                    "spot": "reform"
+                }
+            ], 
+            "wiki_id": 200964, 
+            "wiki_title": "Reform movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2817, 
+                    "end": 2844, 
+                    "score": 0.5, 
+                    "spot": "Maria de los Angeles Moreno"
+                }
+            ], 
+            "wiki_id": 2898944, 
+            "wiki_title": "Mar\u00eda de los \u00c1ngeles Moreno"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 310, 
+                    "end": 314, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 1207, 
+                    "end": 1211, 
+                    "score": 0.17710700631141663, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 1829, 
+                    "end": 1833, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 2944, 
+                    "end": 2948, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 3269, 
+                    "end": 3273, 
+                    "score": 0.12299533188343048, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 3426, 
+                    "end": 3430, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }, 
+                {
+                    "begin": 3624, 
+                    "end": 3628, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }
+            ], 
+            "wiki_id": 1801364, 
+            "wiki_title": "Samuel Ruiz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 264, 
+                    "end": 272, 
+                    "score": 0.11285848915576935, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 38, 
+                    "end": 47, 
+                    "score": 0.10977961122989655, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24356889, 
+            "wiki_title": "President of Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 405, 
+                    "end": 411, 
+                    "score": 0.1764170378446579, 
+                    "spot": "ruling"
+                }, 
+                {
+                    "begin": 1404, 
+                    "end": 1416, 
+                    "score": 0.01543656550347805, 
+                    "spot": "ruling party"
+                }, 
+                {
+                    "begin": 2380, 
+                    "end": 2392, 
+                    "score": 0.01543656550347805, 
+                    "spot": "ruling party"
+                }
+            ], 
+            "wiki_id": 3408791, 
+            "wiki_title": "Ruling party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 726, 
+                    "end": 733, 
+                    "score": 0.058026861399412155, 
+                    "spot": "alleged"
+                }, 
+                {
+                    "begin": 1063, 
+                    "end": 1070, 
+                    "score": 0.10681018978357315, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 2434267, 
+            "wiki_title": "Allegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3239, 
+                    "end": 3252, 
+                    "score": 0.09568016976118088, 
+                    "spot": "assassination"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2431, 
+                    "end": 2439, 
+                    "score": 0.11264689266681671, 
+                    "spot": "internal"
+                }
+            ], 
+            "wiki_id": 41228673, 
+            "wiki_title": "Internal combustion engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3166, 
+                    "end": 3173, 
+                    "score": 0.14817287027835846, 
+                    "spot": "motives"
+                }, 
+                {
+                    "begin": 3382, 
+                    "end": 3392, 
+                    "score": 0.2401595115661621, 
+                    "spot": "motivation"
+                }
+            ], 
+            "wiki_id": 232495, 
+            "wiki_title": "Motivation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1305, 
+                    "end": 1321, 
+                    "score": 0.035335689783096313, 
+                    "spot": "drug traffickers"
+                }, 
+                {
+                    "begin": 3177, 
+                    "end": 3193, 
+                    "score": 0.13266023993492126, 
+                    "spot": "drug traffickers"
+                }, 
+                {
+                    "begin": 3348, 
+                    "end": 3352, 
+                    "score": 0.2295633852481842, 
+                    "spot": "drug"
+                }, 
+                {
+                    "begin": 3518, 
+                    "end": 3529, 
+                    "score": 0.4461295008659363, 
+                    "spot": "drug cartel"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1702, 
+                    "end": 1714, 
+                    "score": 0.07515890896320343, 
+                    "spot": "orchestrated"
+                }
+            ], 
+            "wiki_id": 47398, 
+            "wiki_title": "Orchestration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2587, 
+                    "end": 2599, 
+                    "score": 0.04806245118379593, 
+                    "spot": "intellectual"
+                }
+            ], 
+            "wiki_id": 519280, 
+            "wiki_title": "Intelligence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 971, 
+                    "end": 981, 
+                    "score": 0.1074294000864029, 
+                    "spot": "resistance"
+                }
+            ], 
+            "wiki_id": 83933, 
+            "wiki_title": "Resistance movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3463, 
+                    "end": 3476, 
+                    "score": 0.0012770419707521796, 
+                    "spot": "investigation"
+                }
+            ], 
+            "wiki_id": 53231, 
+            "wiki_title": "Discovery (observation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 667, 
+                    "end": 674, 
+                    "score": 0.001746863592416048, 
+                    "spot": "one man"
+                }
+            ], 
+            "wiki_id": 29820314, 
+            "wiki_title": "One Man (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 426, 
+                    "end": 445, 
+                    "score": 0.2553650438785553, 
+                    "spot": "Revolutionary party"
+                }
+            ], 
+            "wiki_id": 38207770, 
+            "wiki_title": "Chama Cha Mapinduzi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3761, 
+                    "end": 3769, 
+                    "score": 0.4091891646385193, 
+                    "spot": "Acapulco"
+                }
+            ], 
+            "wiki_id": 1446, 
+            "wiki_title": "Acapulco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 935, 
+                    "end": 939, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 79432, 
+            "wiki_title": "Will (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3659, 
+                    "end": 3663, 
+                    "score": 0.08049826323986053, 
+                    "spot": "Raul"
+                }
+            ], 
+            "wiki_id": 1620130, 
+            "wiki_title": "Ra\u00fal Salinas de Gortari"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2762, 
+                    "end": 2765, 
+                    "score": 0.10642503947019577, 
+                    "spot": "PRI"
+                }
+            ], 
+            "wiki_id": 859617, 
+            "wiki_title": "Italian Republican Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1546, 
+                    "end": 1554, 
+                    "score": 0.10600229352712631, 
+                    "spot": "novelist"
+                }
+            ], 
+            "wiki_id": 37397201, 
+            "wiki_title": "Novelist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1071, 
+                    "end": 1082, 
+                    "score": 0.29026278853416443, 
+                    "spot": "accomplices"
+                }
+            ], 
+            "wiki_id": 1400979, 
+            "wiki_title": "Accomplice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1349, 
+                    "end": 1356, 
+                    "score": 0.05767831951379776, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 123451, 
+            "wiki_title": "Homicide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3496, 
+                    "end": 3501, 
+                    "score": 0.1527228206396103, 
+                    "spot": "death"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 474, 
+                    "end": 481, 
+                    "score": 0.13902264833450317, 
+                    "spot": "Canales"
+                }, 
+                {
+                    "begin": 2104, 
+                    "end": 2111, 
+                    "score": 0.06910569220781326, 
+                    "spot": "Canales"
+                }, 
+                {
+                    "begin": 3737, 
+                    "end": 3744, 
+                    "score": 0.06910569220781326, 
+                    "spot": "Canales"
+                }
+            ], 
+            "wiki_id": 28060340, 
+            "wiki_title": "Kaleb Canales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 6, 
+                    "score": 0.056387752294540405, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 358, 
+                    "end": 360, 
+                    "score": 0.1320052444934845, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 1485646, 
+            "wiki_title": "Mathematical Reviews"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 626, 
+                    "end": 637, 
+                    "score": 0.005078720394521952, 
+                    "spot": "accomplices"
+                }
+            ], 
+            "wiki_id": 49931267, 
+            "wiki_title": "Accomplices (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2905, 
+                    "end": 2914, 
+                    "score": 0.2983778715133667, 
+                    "spot": "reformist"
+                }
+            ], 
+            "wiki_id": 43473086, 
+            "wiki_title": "Reformism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3794, 
+                    "end": 3802, 
+                    "score": 0.06126391142606735, 
+                    "spot": "plotting"
+                }
+            ], 
+            "wiki_id": 44382556, 
+            "wiki_title": "1989 Burkinab\u00e9 coup d'\u00e9tat attempt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 33, 
+                    "end": 37, 
+                    "score": 0.020110085606575012, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 911, 
+                    "end": 927, 
+                    "score": 0.566365122795105, 
+                    "spot": "criminal justice"
+                }, 
+                {
+                    "begin": 911, 
+                    "end": 934, 
+                    "score": 0.5421456098556519, 
+                    "spot": "criminal justice system"
+                }
+            ], 
+            "wiki_id": 168219, 
+            "wiki_title": "Criminal justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1322, 
+                    "end": 1325, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 523571, 
+            "wiki_title": "Erskine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1132, 
+                    "end": 1136, 
+                    "score": 0.05097963288426399, 
+                    "spot": "list"
+                }
+            ], 
+            "wiki_id": 301257, 
+            "wiki_title": "A-list"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 212, 
+                    "end": 239, 
+                    "score": 0.5, 
+                    "spot": "Jose Francisco\nRuiz Massieu"
+                }, 
+                {
+                    "begin": 1212, 
+                    "end": 1219, 
+                    "score": 0.3301697373390198, 
+                    "spot": "Massieu"
+                }
+            ], 
+            "wiki_id": 747609, 
+            "wiki_title": "Jos\u00e9 Francisco Ruiz Massieu"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1673, 
+                    "end": 1682, 
+                    "score": 0.001019402639940381, 
+                    "spot": "sustained"
+                }
+            ], 
+            "wiki_id": 10939728, 
+            "wiki_title": "Common consent (Latter Day Saints)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 412, 
+                    "end": 445, 
+                    "score": 0.5, 
+                    "spot": "Institutional Revolutionary party"
+                }, 
+                {
+                    "begin": 447, 
+                    "end": 450, 
+                    "score": 0.18950027227401733, 
+                    "spot": "PRI"
+                }, 
+                {
+                    "begin": 2483, 
+                    "end": 2486, 
+                    "score": 0.25618976354599, 
+                    "spot": "PRI"
+                }, 
+                {
+                    "begin": 2862, 
+                    "end": 2865, 
+                    "score": 0.16451473534107208, 
+                    "spot": "PRI"
+                }
+            ], 
+            "wiki_id": 88382, 
+            "wiki_title": "Institutional Revolutionary Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 164, 
+                    "end": 176, 
+                    "score": 0.22987766563892365, 
+                    "spot": "legal system"
+                }
+            ], 
+            "wiki_id": 85441, 
+            "wiki_title": "English law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3198, 
+                    "end": 3207, 
+                    "score": 0.0006738857482559979, 
+                    "spot": "uncertain"
+                }
+            ], 
+            "wiki_id": 63778, 
+            "wiki_title": "Uncertainty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3554, 
+                    "end": 3565, 
+                    "score": 0.0008048289455473423, 
+                    "spot": "intensified"
+                }
+            ], 
+            "wiki_id": 23899846, 
+            "wiki_title": "Intensified"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2806, 
+                    "end": 2812, 
+                    "score": 0.07585982233285904, 
+                    "spot": "pledge"
+                }
+            ], 
+            "wiki_id": 47400013, 
+            "wiki_title": "Fraternities and sororities"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1774, 
+                    "end": 1780, 
+                    "score": 0.04586445540189743, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 568, 
+                    "end": 578, 
+                    "score": 0.5758682489395142, 
+                    "spot": "Tamaulipas"
+                }
+            ], 
+            "wiki_id": 222254, 
+            "wiki_title": "Tamaulipas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1337, 
+                    "end": 1341, 
+                    "score": 0.05675942078232765, 
+                    "spot": "hand"
+                }
+            ], 
+            "wiki_id": 19166474, 
+            "wiki_title": "Hand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3680, 
+                    "end": 3690, 
+                    "score": 0.14206266403198242, 
+                    "spot": "lieutenant"
+                }
+            ], 
+            "wiki_id": 161405, 
+            "wiki_title": "Lieutenant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 943, 
+                    "end": 946, 
+                    "score": 0.04649203643202782, 
+                    "spot": "met"
+                }
+            ], 
+            "wiki_id": 192450, 
+            "wiki_title": "Metropolitan Police Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3398, 
+                    "end": 3402, 
+                    "score": 0.08903836458921432, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 179824, 
+            "wiki_title": "Plan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2634, 
+                    "end": 2650, 
+                    "score": 0.2062452882528305, 
+                    "spot": "political theory"
+                }
+            ], 
+            "wiki_id": 24388, 
+            "wiki_title": "Political science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1943, 
+                    "end": 1952, 
+                    "score": 0.012906963936984539, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 952, 
+                    "end": 958, 
+                    "score": 0.0010816314024850726, 
+                    "spot": "fierce"
+                }
+            ], 
+            "wiki_id": 14177235, 
+            "wiki_title": "Fierce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1883, 
+                    "end": 1887, 
+                    "score": 0.07409577816724777, 
+                    "spot": "hand"
+                }
+            ], 
+            "wiki_id": 53682, 
+            "wiki_title": "Calligraphy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 753, 
+                    "end": 762, 
+                    "score": 0.02777777798473835, 
+                    "spot": "hardliner"
+                }
+            ], 
+            "wiki_id": 5713662, 
+            "wiki_title": "Hardline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2174, 
+                    "end": 2179, 
+                    "score": 0.24827520549297333, 
+                    "spot": "fraud"
+                }
+            ], 
+            "wiki_id": 58790, 
+            "wiki_title": "Fraud"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1121, 
+                    "score": 0.14138354361057281, 
+                    "spot": "conspirators"
+                }
+            ], 
+            "wiki_id": 3406102, 
+            "wiki_title": "Conspiracy (criminal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 143, 
+                    "end": 150, 
+                    "score": 0.21194031834602356, 
+                    "spot": "corrupt"
+                }
+            ], 
+            "wiki_id": 66220, 
+            "wiki_title": "Political corruption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1472, 
+                    "end": 1480, 
+                    "score": 0.2761211395263672, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 2001231, 
+            "wiki_title": "Evidence (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1165, 
+                    "score": 0.03737685829401016, 
+                    "spot": "politicians"
+                }
+            ], 
+            "wiki_id": 31726, 
+            "wiki_title": "Politics of the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2455, 
+                    "end": 2466, 
+                    "score": 0.1621810793876648, 
+                    "spot": "ideological"
+                }, 
+                {
+                    "begin": 2689, 
+                    "end": 2700, 
+                    "score": 0.23954790830612183, 
+                    "spot": "ideological"
+                }
+            ], 
+            "wiki_id": 75469, 
+            "wiki_title": "Ideology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3412, 
+                    "end": 3421, 
+                    "score": 0.00547570176422596, 
+                    "spot": "backfired"
+                }
+            ], 
+            "wiki_id": 2377598, 
+            "wiki_title": "Backfired"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 812, 
+                    "end": 821, 
+                    "score": 0.032258063554763794, 
+                    "spot": "drug gang"
+                }, 
+                {
+                    "begin": 3587, 
+                    "end": 3593, 
+                    "score": 0.10838048160076141, 
+                    "spot": "cartel"
+                }
+            ], 
+            "wiki_id": 197015, 
+            "wiki_title": "Drug cartel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2549, 
+                    "end": 2555, 
+                    "score": 0.1782209426164627, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2772, 
+                    "end": 2780, 
+                    "score": 0.0054760645143687725, 
+                    "spot": "go ahead"
+                }
+            ], 
+            "wiki_id": 1926859, 
+            "wiki_title": "Go Ahead Eagles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3131, 
+                    "end": 3147, 
+                    "score": 0.1216767281293869, 
+                    "spot": "political impact"
+                }
+            ], 
+            "wiki_id": 33645, 
+            "wiki_title": "Blog"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3293, 
+                    "end": 3298, 
+                    "score": 0.0856846272945404, 
+                    "spot": "Mario"
+                }
+            ], 
+            "wiki_id": 1496774, 
+            "wiki_title": "Mario (American singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 920, 
+                    "end": 934, 
+                    "score": 0.01034022681415081, 
+                    "spot": "justice system"
+                }
+            ], 
+            "wiki_id": 154708, 
+            "wiki_title": "List of national legal systems"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3266, 
+                    "end": 3268, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3728, 
+                    "end": 3730, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 1576588, 
+            "wiki_title": "Thai royal and noble titles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3486, 
+                    "end": 3493, 
+                    "score": 0.13403211534023285, 
+                    "spot": "brother"
+                }
+            ], 
+            "wiki_id": 352169, 
+            "wiki_title": "Sibling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2419, 
+                    "end": 2427, 
+                    "score": 0.07398706674575806, 
+                    "spot": "reflects"
+                }
+            ], 
+            "wiki_id": 521267, 
+            "wiki_title": "Reflection (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1640, 
+                    "end": 1648, 
+                    "score": 0.5404216647148132, 
+                    "spot": "Colombia"
+                }
+            ], 
+            "wiki_id": 5222, 
+            "wiki_title": "Colombia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1029, 
+                    "score": 0.001576030976139009, 
+                    "spot": "changes"
+                }
+            ], 
+            "wiki_id": 2857743, 
+            "wiki_title": "Changes (David Bowie song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2440, 
+                    "end": 2446, 
+                    "score": 0.11225191503763199, 
+                    "spot": "battle"
+                }
+            ], 
+            "wiki_id": 4181, 
+            "wiki_title": "Battle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 133, 
+                    "end": 140, 
+                    "score": 0.22551248967647552, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 901, 
+                    "end": 908, 
+                    "score": 0.22296738624572754, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2033, 
+                    "end": 2041, 
+                    "score": 0.038895998150110245, 
+                    "spot": "admitted"
+                }
+            ], 
+            "wiki_id": 30688587, 
+            "wiki_title": "Admission to the Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 790, 
+                    "end": 795, 
+                    "score": 0.3333333432674408, 
+                    "spot": "a man"
+                }
+            ], 
+            "wiki_id": 2018731, 
+            "wiki_title": "Military Intelligence Directorate (Israel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1852, 
+                    "end": 1854, 
+                    "score": 0.04943379759788513, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 25548811, 
+            "wiki_title": "Master of the Rolls in Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1122, 
+                    "end": 1126, 
+                    "score": 0.003619518829509616, 
+                    "spot": "drew"
+                }
+            ], 
+            "wiki_id": 7886, 
+            "wiki_title": "Drew Barrymore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1612, 
+                    "end": 1616, 
+                    "score": 0.001524612889625132, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 1698603, 
+            "wiki_title": "Next (American band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 734, 
+                    "end": 742, 
+                    "score": 0.062653549015522, 
+                    "spot": "alliance"
+                }
+            ], 
+            "wiki_id": 11019927, 
+            "wiki_title": "Political alliance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 473, 
+                    "score": 0.04701049625873566, 
+                    "spot": "Rubio"
+                }, 
+                {
+                    "begin": 2098, 
+                    "end": 2103, 
+                    "score": 0.04701049625873566, 
+                    "spot": "Rubio"
+                }, 
+                {
+                    "begin": 3731, 
+                    "end": 3736, 
+                    "score": 0.04701049625873566, 
+                    "spot": "Rubio"
+                }
+            ], 
+            "wiki_id": 6081912, 
+            "wiki_title": "Eduardo Rubio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 515, 
+                    "end": 521, 
+                    "score": 0.001856324844993651, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 32046448, 
+            "wiki_title": "Strong and weak typing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 383, 
+                    "end": 397, 
+                    "score": 0.09246575087308884, 
+                    "spot": "federal deputy"
+                }
+            ], 
+            "wiki_id": 411807, 
+            "wiki_title": "Chamber of Deputies (Mexico)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 307, 
+                    "end": 309, 
+                    "score": 0.07058679312467575, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 26998579, 
+            "wiki_title": "Mr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3209, 
+                    "end": 3212, 
+                    "score": 0.10364656895399094, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 19969891, 
+            "wiki_title": "One (Australian TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2782, 
+                    "end": 2787, 
+                    "score": 0.0026860362850129604, 
+                    "spot": "As if"
+                }
+            ], 
+            "wiki_id": 1887579, 
+            "wiki_title": "As If (UK TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2197, 
+                    "end": 2203, 
+                    "score": 0.3020749092102051, 
+                    "spot": "prison"
+                }, 
+                {
+                    "begin": 3770, 
+                    "end": 3774, 
+                    "score": 0.1319582462310791, 
+                    "spot": "jail"
+                }
+            ], 
+            "wiki_id": 19008450, 
+            "wiki_title": "Prison"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2362, 
+                    "end": 2373, 
+                    "score": 0.1926613301038742, 
+                    "spot": "aspirations"
+                }
+            ], 
+            "wiki_id": 50020, 
+            "wiki_title": "Hope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 883, 
+                    "end": 892, 
+                    "score": 0.12071797251701355, 
+                    "spot": "his party"
+                }
+            ], 
+            "wiki_id": 8845, 
+            "wiki_title": "Democratic Progressive Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1378, 
+                    "end": 1398, 
+                    "score": 0.5, 
+                    "spot": "Luis Donaldo Colosio"
+                }
+            ], 
+            "wiki_id": 484090, 
+            "wiki_title": "Luis Donaldo Colosio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 712, 
+                    "end": 719, 
+                    "score": 0.15009050071239471, 
+                    "spot": "killing"
+                }, 
+                {
+                    "begin": 1844, 
+                    "end": 1850, 
+                    "score": 0.07600025087594986, 
+                    "spot": "murder"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3449, 
+                    "end": 3455, 
+                    "score": 0.08820518851280212, 
+                    "spot": "charge"
+                }
+            ], 
+            "wiki_id": 12512562, 
+            "wiki_title": "Criminal charge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 196, 
+                    "end": 200, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3606, 
+                    "end": 3613, 
+                    "score": 0.01741907186806202, 
+                    "spot": "revenge"
+                }
+            ], 
+            "wiki_id": 31808292, 
+            "wiki_title": "Revenge (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2498, 
+                    "score": 0.0064241765066981316, 
+                    "spot": "Ignacio"
+                }
+            ], 
+            "wiki_id": 108549, 
+            "wiki_title": "Ignacio, Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1861, 
+                    "end": 1866, 
+                    "score": 0.08169203251600266, 
+                    "spot": "Rocha"
+                }, 
+                {
+                    "begin": 2247, 
+                    "end": 2252, 
+                    "score": 0.17397423088550568, 
+                    "spot": "Rocha"
+                }, 
+                {
+                    "begin": 2570, 
+                    "end": 2575, 
+                    "score": 0.08169203251600266, 
+                    "spot": "Rocha"
+                }, 
+                {
+                    "begin": 3088, 
+                    "end": 3093, 
+                    "score": 0.17397423088550568, 
+                    "spot": "Rocha"
+                }
+            ], 
+            "wiki_id": 7889202, 
+            "wiki_title": "Pedro Rocha"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 217, 
+                    "end": 231, 
+                    "score": 0.05339805781841278, 
+                    "spot": "Francisco\nRuiz"
+                }
+            ], 
+            "wiki_id": 49090365, 
+            "wiki_title": "Francisco Ruiz (bishop)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 232, 
+                    "end": 239, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 315, 
+                    "end": 322, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 1834, 
+                    "end": 1841, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 2143, 
+                    "end": 2150, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 2949, 
+                    "end": 2956, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 3274, 
+                    "end": 3281, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 3431, 
+                    "end": 3438, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }, 
+                {
+                    "begin": 3629, 
+                    "end": 3636, 
+                    "score": 0.12837837636470795, 
+                    "spot": "Massieu"
+                }
+            ], 
+            "wiki_id": 15794189, 
+            "wiki_title": "Massieu"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3048, 
+                    "end": 3051, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1178382, 
+            "wiki_title": "English modal verbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1127, 
+                    "end": 1129, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 231623, 
+            "wiki_title": "Uttar Pradesh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1130, 
+                    "end": 1136, 
+                    "score": 0.09641207009553909, 
+                    "spot": "a list"
+                }
+            ], 
+            "wiki_id": 13476816, 
+            "wiki_title": "A-List (Conservative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2281, 
+                    "end": 2294, 
+                    "score": 0.04378891363739967, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 3101, 
+                    "end": 3114, 
+                    "score": 0.07834181189537048, 
+                    "spot": "assassination"
+                }
+            ], 
+            "wiki_id": 27346414, 
+            "wiki_title": "Assassination of Benigno Aquino, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2135, 
+                    "end": 2137, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 706498, 
+            "wiki_title": "Metropolitan Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 253, 
+                    "end": 263, 
+                    "score": 0.0036214091815054417, 
+                    "spot": "number two"
+                }
+            ], 
+            "wiki_id": 10920264, 
+            "wiki_title": "Number Two (The Prisoner)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 671, 
+                    "end": 674, 
+                    "score": 0.08569726347923279, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 2623154, 
+            "wiki_title": "Man (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2017, 
+                    "end": 2022, 
+                    "score": 0.06641140580177307, 
+                    "spot": "Munoz"
+                }, 
+                {
+                    "begin": 2241, 
+                    "end": 2246, 
+                    "score": 0.1586936116218567, 
+                    "spot": "Munoz"
+                }, 
+                {
+                    "begin": 3082, 
+                    "end": 3087, 
+                    "score": 0.1586936116218567, 
+                    "spot": "Munoz"
+                }
+            ], 
+            "wiki_id": 4574268, 
+            "wiki_title": "Miguel Mu\u00f1oz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 862, 
+                    "end": 864, 
+                    "score": 0.03596604987978935, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 1523, 
+                    "end": 1525, 
+                    "score": 0.08477692306041718, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2095, 
+                    "end": 2097, 
+                    "score": 0.11756885051727295, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2238, 
+                    "end": 2240, 
+                    "score": 0.09042256325483322, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 464522, 
+            "wiki_title": "Master of Laws"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1916, 
+                    "end": 1926, 
+                    "score": 0.002590841380879283, 
+                    "spot": "guaranteed"
+                }
+            ], 
+            "wiki_id": 9922309, 
+            "wiki_title": "Guaranteed (Level 42 album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2624, 
+                    "end": 2630, 
+                    "score": 0.08066112548112869, 
+                    "spot": "issues"
+                }
+            ], 
+            "wiki_id": 15752595, 
+            "wiki_title": "Periodical literature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3338, 
+                    "end": 3344, 
+                    "score": 0.15021014213562012, 
+                    "spot": "charge"
+                }
+            ], 
+            "wiki_id": 10192, 
+            "wiki_title": "Explosive material"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 201, 
+                    "end": 205, 
+                    "score": 0.08406314998865128, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2138, 
+                    "end": 2142, 
+                    "score": 0.05104978010058403, 
+                    "spot": "Ruiz"
+                }
+            ], 
+            "wiki_id": 3052341, 
+            "wiki_title": "Frankie Ruiz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 675, 
+                    "end": 678, 
+                    "score": 0.12506937980651855, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 993, 
+                    "end": 996, 
+                    "score": 0.1581391990184784, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3300, 
+                    "end": 3303, 
+                    "score": 0.07486387342214584, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 652, 
+                    "end": 661, 
+                    "score": 0.01207364909350872, 
+                    "spot": "testimony"
+                }, 
+                {
+                    "begin": 1044, 
+                    "end": 1053, 
+                    "score": 0.01207364909350872, 
+                    "spot": "testimony"
+                }
+            ], 
+            "wiki_id": 75696, 
+            "wiki_title": "Testimony"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 460, 
+                    "end": 467, 
+                    "score": 0.038200441747903824, 
+                    "spot": "Abraham"
+                }
+            ], 
+            "wiki_id": 1436, 
+            "wiki_title": "Abraham"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1737, 
+                    "end": 1747, 
+                    "score": 0.09485632181167603, 
+                    "spot": "columnists"
+                }
+            ], 
+            "wiki_id": 437090, 
+            "wiki_title": "Columnist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1899, 
+                    "end": 1901, 
+                    "score": 0.1550547331571579, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 535, 
+                    "end": 551, 
+                    "score": 0.5, 
+                    "spot": "Gulf drug cartel"
+                }, 
+                {
+                    "begin": 3031, 
+                    "end": 3047, 
+                    "score": 0.5, 
+                    "spot": "Gulf drug cartel"
+                }, 
+                {
+                    "begin": 3698, 
+                    "end": 3709, 
+                    "score": 0.571475625038147, 
+                    "spot": "Gulf Cartel"
+                }
+            ], 
+            "wiki_id": 3294160, 
+            "wiki_title": "Gulf Cartel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 24, 
+                    "end": 30, 
+                    "score": 0.26409053802490234, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 100, 
+                    "end": 106, 
+                    "score": 0.22745437920093536, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1627, 
+                    "end": 1633, 
+                    "score": 0.3297281563282013, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1956, 
+                    "end": 1962, 
+                    "score": 0.22522300481796265, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 457, 
+                    "end": 459, 
+                    "score": 0.05671494081616402, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 1375, 
+                    "end": 1377, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2488, 
+                    "end": 2490, 
+                    "score": 0.05671494081616402, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2718, 
+                    "end": 2720, 
+                    "score": 0.0900462418794632, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2941, 
+                    "end": 2943, 
+                    "score": 0.11674140393733978, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3079, 
+                    "end": 3081, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3615, 
+                    "end": 3617, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 229971, 
+            "wiki_title": "Mouvement R\u00e9formateur"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 671, 
+                    "end": 678, 
+                    "score": 0.07090888917446136, 
+                    "spot": "man who"
+                }
+            ], 
+            "wiki_id": 1272729, 
+            "wiki_title": "The Man Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2972, 
+                    "end": 2989, 
+                    "score": 0.2231472134590149, 
+                    "spot": "secretary-general"
+                }
+            ], 
+            "wiki_id": 162415, 
+            "wiki_title": "Secretary-General of the United Nations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 241, 
+                    "end": 250, 
+                    "score": 0.375, 
+                    "spot": "the party"
+                }, 
+                {
+                    "begin": 2526, 
+                    "end": 2535, 
+                    "score": 0.375, 
+                    "spot": "the party"
+                }, 
+                {
+                    "begin": 2960, 
+                    "end": 2969, 
+                    "score": 0.375, 
+                    "spot": "the party"
+                }
+            ], 
+            "wiki_id": 34479965, 
+            "wiki_title": "Triumph Heritage Empowerment Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1277, 
+                    "end": 1286, 
+                    "score": 0.1555115133523941, 
+                    "spot": "political"
+                }, 
+                {
+                    "begin": 2352, 
+                    "end": 2361, 
+                    "score": 0.1486104279756546, 
+                    "spot": "political"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 826, 
+                    "end": 836, 
+                    "score": 0.0008484162972308695, 
+                    "spot": "underlined"
+                }, 
+                {
+                    "begin": 2791, 
+                    "end": 2800, 
+                    "score": 0.021134020760655403, 
+                    "spot": "underline"
+                }
+            ], 
+            "wiki_id": 1892605, 
+            "wiki_title": "Underline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3676, 
+                    "end": 3679, 
+                    "score": 0.0756751149892807, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 37121379, 
+            "wiki_title": "Bibliography of early American naval history"
+        }
+    ]
+}

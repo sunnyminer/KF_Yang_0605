@@ -1,0 +1,4324 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 13, 
+                    "score": 0.04203345254063606, 
+                    "spot": "Yesterday"
+                }
+            ], 
+            "wiki_id": 143184, 
+            "wiki_title": "Yesterday (Beatles song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 255, 
+                    "end": 270, 
+                    "score": 0.13036677241325378, 
+                    "spot": "chief executive"
+                }
+            ], 
+            "wiki_id": 37570, 
+            "wiki_title": "Head of government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4131, 
+                    "end": 4142, 
+                    "score": 0.002497296314686537, 
+                    "spot": "performance"
+                }
+            ], 
+            "wiki_id": 41501, 
+            "wiki_title": "Performance management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3059, 
+                    "end": 3068, 
+                    "score": 0.2803337872028351, 
+                    "spot": "communist"
+                }
+            ], 
+            "wiki_id": 9209651, 
+            "wiki_title": "Communism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3455, 
+                    "end": 3461, 
+                    "score": 0.0008905743015930057, 
+                    "spot": "so far"
+                }
+            ], 
+            "wiki_id": 1077851, 
+            "wiki_title": "So Far (interactive fiction)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3039, 
+                    "end": 3049, 
+                    "score": 0.019731227308511734, 
+                    "spot": "prosperous"
+                }
+            ], 
+            "wiki_id": 12332599, 
+            "wiki_title": "Prosperity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2243, 
+                    "end": 2250, 
+                    "score": 0.07016608119010925, 
+                    "spot": "breakup"
+                }
+            ], 
+            "wiki_id": 519576, 
+            "wiki_title": "Breakup"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5204, 
+                    "end": 5208, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 21000088, 
+            "wiki_title": "Hope Summers (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3840, 
+                    "end": 3849, 
+                    "score": 0.07528070360422134, 
+                    "spot": "overnight"
+                }
+            ], 
+            "wiki_id": 206119, 
+            "wiki_title": "Night"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4631, 
+                    "end": 4635, 
+                    "score": 0.0031978676561266184, 
+                    "spot": "head"
+                }
+            ], 
+            "wiki_id": 2343438, 
+            "wiki_title": "Head (The Monkees album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4111, 
+                    "end": 4117, 
+                    "score": 0.011934980750083923, 
+                    "spot": "double"
+                }
+            ], 
+            "wiki_id": 1452036, 
+            "wiki_title": "Professional wrestling double-team maneuvers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2083, 
+                    "end": 2095, 
+                    "score": 0.01315789483487606, 
+                    "spot": "on the peace"
+                }
+            ], 
+            "wiki_id": 6228962, 
+            "wiki_title": "On the Peace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5232, 
+                    "end": 5244, 
+                    "score": 0.031518008559942245, 
+                    "spot": "Unbelievable"
+                }
+            ], 
+            "wiki_id": 5470226, 
+            "wiki_title": "Unbelievable (EMF song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 22, 
+                    "end": 29, 
+                    "score": 0.07620687782764435, 
+                    "spot": "tenuous"
+                }
+            ], 
+            "wiki_id": 306291, 
+            "wiki_title": "Doubt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 426, 
+                    "end": 434, 
+                    "score": 0.09981632232666016, 
+                    "spot": "republic"
+                }, 
+                {
+                    "begin": 3363, 
+                    "end": 3371, 
+                    "score": 0.13936419785022736, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 25536, 
+            "wiki_title": "Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2796, 
+                    "end": 2802, 
+                    "score": 0.33094140887260437, 
+                    "spot": "Munich"
+                }
+            ], 
+            "wiki_id": 19058, 
+            "wiki_title": "Munich"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 380, 
+                    "end": 391, 
+                    "score": 0.4791666567325592, 
+                    "spot": "two million"
+                }
+            ], 
+            "wiki_id": 4306132, 
+            "wiki_title": "Two in a Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 902, 
+                    "end": 914, 
+                    "score": 0.12385450303554535, 
+                    "spot": "unrecognized"
+                }
+            ], 
+            "wiki_id": 524626, 
+            "wiki_title": "Diplomatic recognition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2459, 
+                    "end": 2466, 
+                    "score": 0.13606363534927368, 
+                    "spot": "methods"
+                }
+            ], 
+            "wiki_id": 26833, 
+            "wiki_title": "Scientific method"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5694, 
+                    "end": 5699, 
+                    "score": 0.00330868037417531, 
+                    "spot": "worry"
+                }
+            ], 
+            "wiki_id": 4080078, 
+            "wiki_title": "Worry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 320, 
+                    "end": 332, 
+                    "score": 0.1097387820482254, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 733, 
+                    "end": 745, 
+                    "score": 0.024865491315722466, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 1716, 
+                    "end": 1728, 
+                    "score": 0.11198210716247559, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 5141, 
+                    "end": 5153, 
+                    "score": 0.24192306399345398, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 62450, 
+            "wiki_title": "Independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5600, 
+                    "end": 5604, 
+                    "score": 0.15752962231636047, 
+                    "spot": "risk"
+                }, 
+                {
+                    "begin": 5727, 
+                    "end": 5731, 
+                    "score": 0.008488543331623077, 
+                    "spot": "risk"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3726, 
+                    "end": 3735, 
+                    "score": 0.055131420493125916, 
+                    "spot": "like this"
+                }
+            ], 
+            "wiki_id": 9482843, 
+            "wiki_title": "Like This (Kelly Rowland song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2400, 
+                    "end": 2403, 
+                    "score": 0.051168523728847504, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3246, 
+                    "end": 3249, 
+                    "score": 0.09670130163431168, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1182, 
+                    "score": 0.024834437295794487, 
+                    "spot": "lumped"
+                }
+            ], 
+            "wiki_id": 558750, 
+            "wiki_title": "Lumpers and splitters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1948, 
+                    "end": 1953, 
+                    "score": 0.4277884364128113, 
+                    "spot": "Serbs"
+                }
+            ], 
+            "wiki_id": 59512, 
+            "wiki_title": "Serbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4411, 
+                    "end": 4419, 
+                    "score": 0.0819132849574089, 
+                    "spot": "business"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4152, 
+                    "end": 4157, 
+                    "score": 0.06879348307847977, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 41742598, 
+            "wiki_title": "John Small (British Army medical officer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5451, 
+                    "end": 5459, 
+                    "score": 0.3125, 
+                    "spot": "the city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5953, 
+                    "end": 5961, 
+                    "score": 0.07801098376512527, 
+                    "spot": "interest"
+                }
+            ], 
+            "wiki_id": 163115, 
+            "wiki_title": "Interest rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4515, 
+                    "end": 4520, 
+                    "score": 0.0606810599565506, 
+                    "spot": "dream"
+                }
+            ], 
+            "wiki_id": 3172592, 
+            "wiki_title": "Dream On (Depeche Mode song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 167, 
+                    "end": 174, 
+                    "score": 0.020416904240846634, 
+                    "spot": "begging"
+                }
+            ], 
+            "wiki_id": 916615, 
+            "wiki_title": "Begging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1137, 
+                    "end": 1146, 
+                    "score": 0.0848350077867508, 
+                    "spot": "developed"
+                }
+            ], 
+            "wiki_id": 150643, 
+            "wiki_title": "Glossary of chess"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3990, 
+                    "end": 3995, 
+                    "score": 0.16469484567642212, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 30305, 
+            "wiki_title": "Third World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 58, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 83, 
+                    "end": 91, 
+                    "score": 0.48365557193756104, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 830, 
+                    "end": 838, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 873, 
+                    "end": 881, 
+                    "score": 0.12736156582832336, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 1155, 
+                    "end": 1163, 
+                    "score": 0.47375890612602234, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1308, 
+                    "end": 1316, 
+                    "score": 0.5670852661132812, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1745, 
+                    "end": 1753, 
+                    "score": 0.7156621217727661, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1890, 
+                    "end": 1898, 
+                    "score": 0.5408729910850525, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3014, 
+                    "end": 3022, 
+                    "score": 0.607742428779602, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3337, 
+                    "end": 3345, 
+                    "score": 0.5280839204788208, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3473, 
+                    "end": 3481, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3893, 
+                    "end": 3901, 
+                    "score": 0.4661294221878052, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 4178, 
+                    "end": 4186, 
+                    "score": 0.5607509613037109, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 4506, 
+                    "end": 4514, 
+                    "score": 0.31338605284690857, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 4770, 
+                    "end": 4778, 
+                    "score": 0.5115553736686707, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 4942, 
+                    "end": 4950, 
+                    "score": 0.5171798467636108, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 5023, 
+                    "end": 5031, 
+                    "score": 0.5332478880882263, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 5533, 
+                    "end": 5541, 
+                    "score": 0.5077300071716309, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 5910, 
+                    "end": 5918, 
+                    "score": 0.4963434934616089, 
+                    "spot": "Slovenia"
+                }
+            ], 
+            "wiki_id": 27338, 
+            "wiki_title": "Slovenia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 595, 
+                    "score": 0.1070781946182251, 
+                    "spot": "bravado"
+                }
+            ], 
+            "wiki_id": 49899, 
+            "wiki_title": "Courage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1450, 
+                    "end": 1458, 
+                    "score": 0.00440383143723011, 
+                    "spot": "know how"
+                }
+            ], 
+            "wiki_id": 4707950, 
+            "wiki_title": "Know-how"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5388, 
+                    "end": 5406, 
+                    "score": 0.21189436316490173, 
+                    "spot": "Bosnia-Hercegovina"
+                }
+            ], 
+            "wiki_id": 3463, 
+            "wiki_title": "Bosnia and Herzegovina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2170, 
+                    "end": 2182, 
+                    "score": 0.08390405029058456, 
+                    "spot": "negotiations"
+                }
+            ], 
+            "wiki_id": 16775, 
+            "wiki_title": "Kyoto Protocol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1326, 
+                    "end": 1330, 
+                    "score": 0.039867524057626724, 
+                    "spot": "rest"
+                }
+            ], 
+            "wiki_id": 579902, 
+            "wiki_title": "Rest (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 942, 
+                    "score": 0.2137438803911209, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3147, 
+                    "end": 3155, 
+                    "score": 0.18800851702690125, 
+                    "spot": "southern"
+                }, 
+                {
+                    "begin": 3147, 
+                    "end": 3163, 
+                    "score": 0.27915871143341064, 
+                    "spot": "southern regions"
+                }
+            ], 
+            "wiki_id": 897351, 
+            "wiki_title": "Southern Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2787, 
+                    "end": 2792, 
+                    "score": 0.10984370857477188, 
+                    "spot": "trips"
+                }, 
+                {
+                    "begin": 2824, 
+                    "end": 2832, 
+                    "score": 0.12865880131721497, 
+                    "spot": "vacation"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5997, 
+                    "end": 6000, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3966, 
+                    "end": 3975, 
+                    "score": 0.2058841437101364, 
+                    "spot": "furniture"
+                }
+            ], 
+            "wiki_id": 48597, 
+            "wiki_title": "Furniture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2386, 
+                    "end": 2391, 
+                    "score": 0.0005153461243025959, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 44585272, 
+            "wiki_title": "Henry Small (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1389, 
+                    "end": 1396, 
+                    "score": 0.007508427836000919, 
+                    "spot": "our own"
+                }
+            ], 
+            "wiki_id": 10192890, 
+            "wiki_title": "On Our Own (1994 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1183, 
+                    "end": 1191, 
+                    "score": 0.0007516181794926524, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 23625041, 
+            "wiki_title": "Together (Singaporean TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1657, 
+                    "end": 1664, 
+                    "score": 0.299275279045105, 
+                    "spot": "Baltics"
+                }
+            ], 
+            "wiki_id": 188675, 
+            "wiki_title": "Baltic states"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5557, 
+                    "end": 5561, 
+                    "score": 0.005892255809158087, 
+                    "spot": "grab"
+                }
+            ], 
+            "wiki_id": 3385603, 
+            "wiki_title": "Grab (software)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3925, 
+                    "end": 3929, 
+                    "score": 0.11916369199752808, 
+                    "spot": "cars"
+                }
+            ], 
+            "wiki_id": 13673345, 
+            "wiki_title": "Car"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5486, 
+                    "end": 5492, 
+                    "score": 0.17507456243038177, 
+                    "spot": "frozen"
+                }
+            ], 
+            "wiki_id": 41385305, 
+            "wiki_title": "Frozen (soundtrack)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1095, 
+                    "score": 0.21103283762931824, 
+                    "spot": "turned"
+                }
+            ], 
+            "wiki_id": 35334391, 
+            "wiki_title": "Sexual arousal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4871, 
+                    "end": 4878, 
+                    "score": 0.1998460292816162, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 3736784, 
+            "wiki_title": "Market (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 682, 
+                    "end": 690, 
+                    "score": 0.5, 
+                    "spot": "back now"
+                }
+            ], 
+            "wiki_id": 19927690, 
+            "wiki_title": "Back to Now"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1467, 
+                    "end": 1474, 
+                    "score": 0.23775644600391388, 
+                    "spot": "execute"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1831, 
+                    "end": 1838, 
+                    "score": 0.002620544983074069, 
+                    "spot": "held\nup"
+                }
+            ], 
+            "wiki_id": 54849, 
+            "wiki_title": "Robbery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4657, 
+                    "end": 4665, 
+                    "score": 0.10846617072820663, 
+                    "spot": "division"
+                }
+            ], 
+            "wiki_id": 145415, 
+            "wiki_title": "Division (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3604, 
+                    "end": 3608, 
+                    "score": 0.011068598367273808, 
+                    "spot": "Okay"
+                }
+            ], 
+            "wiki_id": 167097, 
+            "wiki_title": "OK"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4369, 
+                    "end": 4384, 
+                    "score": 0.03414001688361168, 
+                    "spot": "border\ncrossing"
+                }
+            ], 
+            "wiki_id": 247927, 
+            "wiki_title": "Border control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2052, 
+                    "end": 2070, 
+                    "score": 0.2646713852882385, 
+                    "spot": "European Community"
+                }
+            ], 
+            "wiki_id": 9317, 
+            "wiki_title": "European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3613, 
+                    "end": 3617, 
+                    "score": 0.1142013743519783, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 1178382, 
+            "wiki_title": "English modal verbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1549, 
+                    "end": 1554, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "worst"
+                }
+            ], 
+            "wiki_id": 207129, 
+            "wiki_title": "Superlative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5591, 
+                    "end": 5599, 
+                    "score": 0.10824693739414215, 
+                    "spot": "Yugoslav"
+                }
+            ], 
+            "wiki_id": 297809, 
+            "wiki_title": "Socialist Federal Republic of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3575, 
+                    "end": 3581, 
+                    "score": 0.05632855370640755, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 8449, 
+            "wiki_title": "Developmental biology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1096, 
+                    "end": 1107, 
+                    "score": 0.016010059043765068, 
+                    "spot": "upside down"
+                }
+            ], 
+            "wiki_id": 2413707, 
+            "wiki_title": "Upside Down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3547, 
+                    "end": 3555, 
+                    "score": 0.13419626653194427, 
+                    "spot": "contrast"
+                }
+            ], 
+            "wiki_id": 5611564, 
+            "wiki_title": "Contrast (statistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5109, 
+                    "end": 5119, 
+                    "score": 0.01977401040494442, 
+                    "spot": "these ties"
+                }
+            ], 
+            "wiki_id": 7865846, 
+            "wiki_title": "These Ties"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1629, 
+                    "end": 1639, 
+                    "score": 0.1264064460992813, 
+                    "spot": "minorities"
+                }, 
+                {
+                    "begin": 2537, 
+                    "end": 2556, 
+                    "score": 0.14971008896827698, 
+                    "spot": "national minorities"
+                }
+            ], 
+            "wiki_id": 437868, 
+            "wiki_title": "Minority group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2765, 
+                    "end": 2770, 
+                    "score": 0.06524555385112762, 
+                    "spot": "Fiats"
+                }
+            ], 
+            "wiki_id": 41783920, 
+            "wiki_title": "Fiat Chrysler Automobiles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1071, 
+                    "end": 1079, 
+                    "score": 0.14974337816238403, 
+                    "spot": "identity"
+                }
+            ], 
+            "wiki_id": 880112, 
+            "wiki_title": "Identity (social science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2373, 
+                    "end": 2381, 
+                    "score": 0.08455003798007965, 
+                    "spot": "sympathy"
+                }
+            ], 
+            "wiki_id": 806023, 
+            "wiki_title": "Sympathy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1215, 
+                    "end": 1229, 
+                    "score": 0.10864468663930893, 
+                    "spot": "underdeveloped"
+                }
+            ], 
+            "wiki_id": 1010445, 
+            "wiki_title": "Underdevelopment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5645, 
+                    "end": 5663, 
+                    "score": 0.22359001636505127, 
+                    "spot": "foreign investment"
+                }
+            ], 
+            "wiki_id": 541795, 
+            "wiki_title": "Foreign direct investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4022, 
+                    "end": 4040, 
+                    "score": 0.3654024600982666, 
+                    "spot": "goods\nand services"
+                }, 
+                {
+                    "begin": 5005, 
+                    "end": 5010, 
+                    "score": 0.09744550287723541, 
+                    "spot": "goods"
+                }
+            ], 
+            "wiki_id": 580039, 
+            "wiki_title": "Good (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2610, 
+                    "end": 2620, 
+                    "score": 0.005645602010190487, 
+                    "spot": "alteration"
+                }
+            ], 
+            "wiki_id": 6492413, 
+            "wiki_title": "The Alteration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5497, 
+                    "end": 5500, 
+                    "score": 0.11804921180009842, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 2233309, 
+            "wiki_title": "One (U2 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3428, 
+                    "end": 3438, 
+                    "score": 0.22202590107917786, 
+                    "spot": "industrial"
+                }
+            ], 
+            "wiki_id": 210545, 
+            "wiki_title": "Industrialisation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1729, 
+                    "end": 1741, 
+                    "score": 0.08335913717746735, 
+                    "spot": "declarations"
+                }
+            ], 
+            "wiki_id": 1062267, 
+            "wiki_title": "Declaration and forfeiture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5441, 
+                    "end": 5447, 
+                    "score": 0.021378643810749054, 
+                    "spot": "assets"
+                }
+            ], 
+            "wiki_id": 18934838, 
+            "wiki_title": "Asset"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3446, 
+                    "end": 3450, 
+                    "score": 0.07561209052801132, 
+                    "spot": "fell"
+                }
+            ], 
+            "wiki_id": 102674, 
+            "wiki_title": "Fall of Constantinople"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3123, 
+                    "end": 3128, 
+                    "score": 0.0006998880417086184, 
+                    "spot": "is 10"
+                }
+            ], 
+            "wiki_id": 37119714, 
+            "wiki_title": "T-10 tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 286, 
+                    "end": 289, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 6888482, 
+            "wiki_title": "Now (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2018, 
+                    "end": 2027, 
+                    "score": 0.04245094954967499, 
+                    "spot": "fractures"
+                }
+            ], 
+            "wiki_id": 261967, 
+            "wiki_title": "Fracture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2448, 
+                    "end": 2458, 
+                    "score": 0.2870204448699951, 
+                    "spot": "democratic"
+                }
+            ], 
+            "wiki_id": 7959, 
+            "wiki_title": "Democracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1164, 
+                    "end": 1168, 
+                    "score": 0.04184522479772568, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 469, 
+                    "end": 478, 
+                    "score": 0.256712943315506, 
+                    "spot": "nightmare"
+                }
+            ], 
+            "wiki_id": 46262, 
+            "wiki_title": "Nightmare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 794, 
+                    "end": 801, 
+                    "score": 0.052324552088975906, 
+                    "spot": "forward"
+                }
+            ], 
+            "wiki_id": 567665, 
+            "wiki_title": "Forward (ice hockey)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1990, 
+                    "end": 1993, 
+                    "score": 0.046189721673727036, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 307465, 
+            "wiki_title": "Andean Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4990, 
+                    "end": 4997, 
+                    "score": 0.07571008056402206, 
+                    "spot": "quarter"
+                }
+            ], 
+            "wiki_id": 32150, 
+            "wiki_title": "Quarter (United States coin)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3484, 
+                    "end": 3492, 
+                    "score": 0.008411849848926067, 
+                    "spot": "declined"
+                }
+            ], 
+            "wiki_id": 1084650, 
+            "wiki_title": "Decline and modernization of the Ottoman Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4718, 
+                    "end": 4728, 
+                    "score": 0.3707180321216583, 
+                    "spot": "Luxembourg"
+                }
+            ], 
+            "wiki_id": 17515, 
+            "wiki_title": "Luxembourg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5318, 
+                    "end": 5328, 
+                    "score": 0.5632739067077637, 
+                    "spot": "Banja Luka"
+                }
+            ], 
+            "wiki_id": 385109, 
+            "wiki_title": "Banja Luka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4202, 
+                    "end": 4211, 
+                    "score": 0.021066192537546158, 
+                    "spot": "expanding"
+                }
+            ], 
+            "wiki_id": 1084597, 
+            "wiki_title": "Eden Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2090, 
+                    "end": 2100, 
+                    "score": 0.050986841320991516, 
+                    "spot": "peace plan"
+                }
+            ], 
+            "wiki_id": 3767601, 
+            "wiki_title": "P.E.A.C.E. Plan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1230, 
+                    "end": 1235, 
+                    "score": 0.10128725320100784, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 21566765, 
+            "wiki_title": "South Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 73, 
+                    "end": 81, 
+                    "score": 0.10225416719913483, 
+                    "spot": "panicked"
+                }
+            ], 
+            "wiki_id": 309674, 
+            "wiki_title": "Panic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5170, 
+                    "end": 5178, 
+                    "score": 0.137475848197937, 
+                    "spot": "fighting"
+                }
+            ], 
+            "wiki_id": 18978563, 
+            "wiki_title": "Domestic violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3374, 
+                    "end": 3382, 
+                    "score": 0.2404516190290451, 
+                    "spot": "economic"
+                }, 
+                {
+                    "begin": 4692, 
+                    "end": 4699, 
+                    "score": 0.16576208174228668, 
+                    "spot": "Economy"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4802, 
+                    "end": 4808, 
+                    "score": 0.0006582056521438062, 
+                    "spot": "engage"
+                }
+            ], 
+            "wiki_id": 5921304, 
+            "wiki_title": "Engage (organisation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2306, 
+                    "end": 2312, 
+                    "score": 0.0012086089700460434, 
+                    "spot": "moving"
+                }
+            ], 
+            "wiki_id": 20580, 
+            "wiki_title": "Motion (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2833, 
+                    "end": 2840, 
+                    "score": 0.17030011117458344, 
+                    "spot": "chalets"
+                }
+            ], 
+            "wiki_id": 958171, 
+            "wiki_title": "Chalet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3265, 
+                    "end": 3272, 
+                    "score": 0.012938189320266247, 
+                    "spot": "cousins"
+                }
+            ], 
+            "wiki_id": 2117293, 
+            "wiki_title": "Dave Cousins"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3383, 
+                    "end": 3393, 
+                    "score": 0.13179948925971985, 
+                    "spot": "resilience"
+                }
+            ], 
+            "wiki_id": 22286415, 
+            "wiki_title": "Resilience (organizational)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 105, 
+                    "score": 0.0006557377055287361, 
+                    "spot": "slumped"
+                }
+            ], 
+            "wiki_id": 4404095, 
+            "wiki_title": "Slumping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5830, 
+                    "end": 5841, 
+                    "score": 0.3404039740562439, 
+                    "spot": "commodities"
+                }
+            ], 
+            "wiki_id": 48218, 
+            "wiki_title": "Commodity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2523, 
+                    "end": 2533, 
+                    "score": 0.08868157118558884, 
+                    "spot": "conference"
+                }
+            ], 
+            "wiki_id": 228005, 
+            "wiki_title": "Meeting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2581, 
+                    "end": 2583, 
+                    "score": 0.10140814632177353, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 14202196, 
+            "wiki_title": "We (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1412, 
+                    "end": 1414, 
+                    "score": 0.06733828037977219, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 5757, 
+                    "end": 5759, 
+                    "score": 0.1073620617389679, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 280679, 
+            "wiki_title": "McCune\u2013Reischauer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5011, 
+                    "end": 5019, 
+                    "score": 0.04267304763197899, 
+                    "spot": "produced"
+                }
+            ], 
+            "wiki_id": 564661, 
+            "wiki_title": "Video game producer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 227, 
+                    "end": 238, 
+                    "score": 0.11734694242477417, 
+                    "spot": "Veselinovic"
+                }
+            ], 
+            "wiki_id": 12446582, 
+            "wiki_title": "Todor Veselinovi\u0107"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 666, 
+                    "end": 669, 
+                    "score": 0.0007124306866899133, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 383115, 
+            "wiki_title": "Beverage can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4121, 
+                    "end": 4126, 
+                    "score": 0.002082659164443612, 
+                    "spot": "match"
+                }
+            ], 
+            "wiki_id": 18723138, 
+            "wiki_title": "Game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1356, 
+                    "end": 1363, 
+                    "score": 0.3600311279296875, 
+                    "spot": "Balkans"
+                }
+            ], 
+            "wiki_id": 4829, 
+            "wiki_title": "Balkans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4643, 
+                    "end": 4665, 
+                    "score": 0.02662879228591919, 
+                    "spot": "international division"
+                }
+            ], 
+            "wiki_id": 76511, 
+            "wiki_title": "Boy Scouts of America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4003, 
+                    "end": 4014, 
+                    "score": 0.23578153550624847, 
+                    "spot": "total value"
+                }
+            ], 
+            "wiki_id": 4095924, 
+            "wiki_title": "Value (ethics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 364, 
+                    "end": 370, 
+                    "score": 0.11603251099586487, 
+                    "spot": "at war"
+                }
+            ], 
+            "wiki_id": 18762503, 
+            "wiki_title": "Russo-Georgian War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1853, 
+                    "end": 1857, 
+                    "score": 0.1493094265460968, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 509620, 
+            "wiki_title": "Intercontinental Cup (football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2279, 
+                    "end": 2288, 
+                    "score": 0.10431575775146484, 
+                    "spot": "Europeans"
+                }, 
+                {
+                    "begin": 2514, 
+                    "end": 2522, 
+                    "score": 0.18564042448997498, 
+                    "spot": "European"
+                }
+            ], 
+            "wiki_id": 13279542, 
+            "wiki_title": "Ethnic groups in Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1434, 
+                    "end": 1436, 
+                    "score": 0.029785407707095146, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 2359, 
+                    "end": 2361, 
+                    "score": 0.05472814291715622, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4760, 
+                    "end": 4764, 
+                    "score": 0.037883009761571884, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5070, 
+                    "end": 5077, 
+                    "score": 0.5053457021713257, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 5719, 
+                    "end": 5726, 
+                    "score": 0.27495908737182617, 
+                    "spot": "Slovene"
+                }
+            ], 
+            "wiki_id": 28135, 
+            "wiki_title": "Slovene language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2404, 
+                    "end": 2410, 
+                    "score": 0.009731912985444069, 
+                    "spot": "aspire"
+                }
+            ], 
+            "wiki_id": 34866851, 
+            "wiki_title": "ASPiRE (TV network)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5888, 
+                    "end": 5899, 
+                    "score": 0.12854339182376862, 
+                    "spot": "uncertainty"
+                }
+            ], 
+            "wiki_id": 63778, 
+            "wiki_title": "Uncertainty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 516, 
+                    "end": 528, 
+                    "score": 0.22773967683315277, 
+                    "spot": "intoxicating"
+                }
+            ], 
+            "wiki_id": 166821, 
+            "wiki_title": "Substance intoxication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4847, 
+                    "end": 4853, 
+                    "score": 0.20566603541374207, 
+                    "spot": "viable"
+                }
+            ], 
+            "wiki_id": 47763, 
+            "wiki_title": "Environmental economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 155, 
+                    "end": 161, 
+                    "score": 0.1489906758069992, 
+                    "spot": "rights"
+                }
+            ], 
+            "wiki_id": 51490, 
+            "wiki_title": "Rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4931, 
+                    "end": 4938, 
+                    "score": 0.11748725175857544, 
+                    "spot": "decline"
+                }
+            ], 
+            "wiki_id": 923406, 
+            "wiki_title": "Fall of the Western Roman Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 894, 
+                    "end": 900, 
+                    "score": 0.19215881824493408, 
+                    "spot": "lonely"
+                }
+            ], 
+            "wiki_id": 1570429, 
+            "wiki_title": "Loneliness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 36, 
+                    "end": 44, 
+                    "score": 0.0014179270947352052, 
+                    "spot": "settling"
+                }
+            ], 
+            "wiki_id": 556323, 
+            "wiki_title": "Settlement (litigation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3277, 
+                    "end": 3291, 
+                    "score": 0.5, 
+                    "spot": "Joze Mencinger"
+                }
+            ], 
+            "wiki_id": 29464034, 
+            "wiki_title": "Jo\u017ee Mencinger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3610, 
+                    "end": 3612, 
+                    "score": 0.1148124560713768, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 256349, 
+            "wiki_title": "We"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5376, 
+                    "end": 5384, 
+                    "score": 0.12458214163780212, 
+                    "spot": "province"
+                }
+            ], 
+            "wiki_id": 314732, 
+            "wiki_title": "Roman province"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1147, 
+                    "end": 1152, 
+                    "score": 0.023242773488163948, 
+                    "spot": "north"
+                }
+            ], 
+            "wiki_id": 21139, 
+            "wiki_title": "North America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4681, 
+                    "end": 4688, 
+                    "score": 0.12715701758861542, 
+                    "spot": "Chamber"
+                }
+            ], 
+            "wiki_id": 1161880, 
+            "wiki_title": "Chamber of Deputies (Italy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1540, 
+                    "end": 1546, 
+                    "score": 0.10061808675527573, 
+                    "spot": "Europe"
+                }
+            ], 
+            "wiki_id": 358518, 
+            "wiki_title": "Europe (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2274, 
+                    "end": 2278, 
+                    "score": 0.08375826478004456, 
+                    "spot": "West"
+                }, 
+                {
+                    "begin": 2956, 
+                    "end": 2966, 
+                    "score": 0.12072180956602097, 
+                    "spot": "Westerners"
+                }, 
+                {
+                    "begin": 4886, 
+                    "end": 4890, 
+                    "score": 0.10866235941648483, 
+                    "spot": "West"
+                }
+            ], 
+            "wiki_id": 21208200, 
+            "wiki_title": "Western world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1865, 
+                    "end": 1878, 
+                    "score": 0.3879441022872925, 
+                    "spot": "Yugoslav army"
+                }
+            ], 
+            "wiki_id": 536643, 
+            "wiki_title": "Yugoslav People's Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4527, 
+                    "end": 4534, 
+                    "score": 0.005574020091444254, 
+                    "spot": "one day"
+                }
+            ], 
+            "wiki_id": 22794, 
+            "wiki_title": "Limited overs cricket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5665, 
+                    "end": 5668, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "Now"
+                }
+            ], 
+            "wiki_id": 40902173, 
+            "wiki_title": "Chemistry (EP)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5185, 
+                    "end": 5192, 
+                    "score": 0.1165667399764061, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 654, 
+                    "score": 0.0043572173453867435, 
+                    "spot": "feeling"
+                }, 
+                {
+                    "begin": 886, 
+                    "end": 893, 
+                    "score": 0.13370198011398315, 
+                    "spot": "feeling"
+                }
+            ], 
+            "wiki_id": 10406, 
+            "wiki_title": "Emotion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5869, 
+                    "end": 5880, 
+                    "score": 0.0015037594130262733, 
+                    "spot": "jeopardized"
+                }
+            ], 
+            "wiki_id": 3722991, 
+            "wiki_title": "Endangerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1444, 
+                    "end": 1447, 
+                    "score": 0.03913445398211479, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 646, 
+                    "score": 0.003400093177333474, 
+                    "spot": "unanimous"
+                }
+            ], 
+            "wiki_id": 13800029, 
+            "wiki_title": "Unanimous decision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5078, 
+                    "end": 5085, 
+                    "score": 0.0293166171759367, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 804036, 
+            "wiki_title": "Caliphate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 392, 
+                    "end": 398, 
+                    "score": 0.04070799797773361, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 811, 
+                    "end": 823, 
+                    "score": 0.02160000056028366, 
+                    "spot": "no one knows"
+                }
+            ], 
+            "wiki_id": 1629854, 
+            "wiki_title": "No One Knows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2264, 
+                    "score": 0.0038213131483644247, 
+                    "spot": "inevitable"
+                }
+            ], 
+            "wiki_id": 10303817, 
+            "wiki_title": "Inevitable (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2320, 
+                    "end": 2331, 
+                    "score": 0.028509773313999176, 
+                    "spot": "recognition"
+                }
+            ], 
+            "wiki_id": 174650, 
+            "wiki_title": "Capitol Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3715, 
+                    "end": 3725, 
+                    "score": 0.080381378531456, 
+                    "spot": "transition"
+                }
+            ], 
+            "wiki_id": 39208945, 
+            "wiki_title": "Energy transition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 244, 
+                    "end": 252, 
+                    "score": 0.05731808394193649, 
+                    "spot": "exchange"
+                }, 
+                {
+                    "begin": 5815, 
+                    "end": 5820, 
+                    "score": 0.11975404620170593, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5846, 
+                    "end": 5864, 
+                    "score": 0.3735031187534332, 
+                    "spot": "foreign currencies"
+                }, 
+                {
+                    "begin": 5854, 
+                    "end": 5864, 
+                    "score": 0.3065812885761261, 
+                    "spot": "currencies"
+                }
+            ], 
+            "wiki_id": 5665, 
+            "wiki_title": "Currency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3816, 
+                    "end": 3823, 
+                    "score": 0.44883304834365845, 
+                    "spot": "Austria"
+                }, 
+                {
+                    "begin": 4244, 
+                    "end": 4251, 
+                    "score": 0.3134768009185791, 
+                    "spot": "Austria"
+                }
+            ], 
+            "wiki_id": 26964606, 
+            "wiki_title": "Austria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4541, 
+                    "end": 4549, 
+                    "score": 0.0007238243706524372, 
+                    "spot": "admitted"
+                }
+            ], 
+            "wiki_id": 235222, 
+            "wiki_title": "Admission to the bar in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1043, 
+                    "end": 1049, 
+                    "score": 0.1006489247083664, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 2723, 
+                    "end": 2729, 
+                    "score": 0.13418817520141602, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 3737, 
+                    "end": 3743, 
+                    "score": 0.05483206734061241, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6021, 
+                    "end": 6030, 
+                    "score": 0.0013428827514871955, 
+                    "spot": "unsettled"
+                }
+            ], 
+            "wiki_id": 20934863, 
+            "wiki_title": "Unsettled"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4485, 
+                    "end": 4492, 
+                    "score": 0.4932848811149597, 
+                    "spot": "Hungary"
+                }
+            ], 
+            "wiki_id": 13275, 
+            "wiki_title": "Hungary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2074, 
+                    "end": 2082, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }, 
+                {
+                    "begin": 4077, 
+                    "end": 4083, 
+                    "score": 0.004724409431219101, 
+                    "spot": "reckon"
+                }, 
+                {
+                    "begin": 4190, 
+                    "end": 4198, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }
+            ], 
+            "wiki_id": 275768, 
+            "wiki_title": "Counting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3296, 
+                    "end": 3305, 
+                    "score": 0.35305970907211304, 
+                    "spot": "economist"
+                }, 
+                {
+                    "begin": 4066, 
+                    "end": 4076, 
+                    "score": 0.07306859642267227, 
+                    "spot": "economists"
+                }
+            ], 
+            "wiki_id": 57349, 
+            "wiki_title": "Economist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1603, 
+                    "score": 0.1772562861442566, 
+                    "spot": "continent"
+                }
+            ], 
+            "wiki_id": 19630739, 
+            "wiki_title": "Continent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2644, 
+                    "end": 2652, 
+                    "score": 0.0674603208899498, 
+                    "spot": "shunning"
+                }
+            ], 
+            "wiki_id": 91190, 
+            "wiki_title": "Shunning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4435, 
+                    "end": 4438, 
+                    "score": 0.11395105719566345, 
+                    "spot": "old"
+                }
+            ], 
+            "wiki_id": 229060, 
+            "wiki_title": "Old age"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1566, 
+                    "end": 1578, 
+                    "score": 0.0011578541016206145, 
+                    "spot": "Almost every"
+                }
+            ], 
+            "wiki_id": 44688, 
+            "wiki_title": "Almost everywhere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1962, 
+                    "end": 1969, 
+                    "score": 0.005522528663277626, 
+                    "spot": "warning"
+                }
+            ], 
+            "wiki_id": 197906, 
+            "wiki_title": "Warning (Green Day album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5946, 
+                    "end": 5949, 
+                    "score": 0.00719649950042367, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 7453833, 
+            "wiki_title": "The Lot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4234, 
+                    "end": 4238, 
+                    "score": 0.0019017758313566446, 
+                    "spot": "ties"
+                }
+            ], 
+            "wiki_id": 426315, 
+            "wiki_title": "Tie (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 64, 
+                    "end": 72, 
+                    "score": 0.15519849956035614, 
+                    "spot": "exchange"
+                }
+            ], 
+            "wiki_id": 379303, 
+            "wiki_title": "Gas exchange"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4745, 
+                    "end": 4755, 
+                    "score": 0.14085185527801514, 
+                    "spot": "population"
+                }
+            ], 
+            "wiki_id": 14700, 
+            "wiki_title": "Demographics of Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3535, 
+                    "end": 3542, 
+                    "score": 0.371211439371109, 
+                    "spot": "Austria"
+                }
+            ], 
+            "wiki_id": 266894, 
+            "wiki_title": "Austrian Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1416, 
+                    "end": 1427, 
+                    "score": 0.18335378170013428, 
+                    "spot": "Veselinovic"
+                }, 
+                {
+                    "begin": 5761, 
+                    "end": 5772, 
+                    "score": 0.21635718643665314, 
+                    "spot": "Veselinovic"
+                }
+            ], 
+            "wiki_id": 36034575, 
+            "wiki_title": "Lazar Veselinovi\u0107"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4339, 
+                    "end": 4352, 
+                    "score": 0.4000000059604645, 
+                    "spot": "Alpine tunnel"
+                }
+            ], 
+            "wiki_id": 2627933, 
+            "wiki_title": "Alpine Tunnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1262, 
+                    "end": 1272, 
+                    "score": 0.3948558568954468, 
+                    "spot": "pragmatism"
+                }
+            ], 
+            "wiki_id": 95170, 
+            "wiki_title": "Pragmatism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 978, 
+                    "end": 982, 
+                    "score": 0.17187267541885376, 
+                    "spot": "rest"
+                }, 
+                {
+                    "begin": 4968, 
+                    "end": 4972, 
+                    "score": 0.1256588250398636, 
+                    "spot": "rest"
+                }
+            ], 
+            "wiki_id": 17503, 
+            "wiki_title": "Leisure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5741, 
+                    "end": 5755, 
+                    "score": 0.04045827314257622, 
+                    "spot": "stock exchange"
+                }
+            ], 
+            "wiki_id": 28168, 
+            "wiki_title": "Stock exchange"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3428, 
+                    "end": 3445, 
+                    "score": 0.13981355726718903, 
+                    "spot": "industrial output"
+                }
+            ], 
+            "wiki_id": 8340480, 
+            "wiki_title": "Industrial production"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3592, 
+                    "end": 3598, 
+                    "score": 0.0006868132040835917, 
+                    "spot": "somber"
+                }
+            ], 
+            "wiki_id": 16996431, 
+            "wiki_title": "Matter of Time (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2136, 
+                    "end": 2141, 
+                    "score": 0.025779198855161667, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 369978, 
+            "wiki_title": "Bird vocalization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 367, 
+                    "end": 370, 
+                    "score": 0.11946120113134384, 
+                    "spot": "war"
+                }
+            ], 
+            "wiki_id": 33158, 
+            "wiki_title": "War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1169, 
+                    "end": 1172, 
+                    "score": 0.040928229689598083, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 1058750, 
+            "wiki_title": "Now (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3069, 
+                    "end": 3075, 
+                    "score": 0.21368977427482605, 
+                    "spot": "Europe"
+                }, 
+                {
+                    "begin": 3669, 
+                    "end": 3675, 
+                    "score": 0.17196044325828552, 
+                    "spot": "Europe"
+                }, 
+                {
+                    "begin": 4158, 
+                    "end": 4166, 
+                    "score": 0.22598887979984283, 
+                    "spot": "European"
+                }, 
+                {
+                    "begin": 4158, 
+                    "end": 4176, 
+                    "score": 0.26237091422080994, 
+                    "spot": "European countries"
+                }
+            ], 
+            "wiki_id": 9239, 
+            "wiki_title": "Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5788, 
+                    "end": 5805, 
+                    "score": 0.05138155817985535, 
+                    "spot": "post-independence"
+                }
+            ], 
+            "wiki_id": 2060900, 
+            "wiki_title": "Breakup of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1113, 
+                    "score": 0.0009033234091475606, 
+                    "spot": "once"
+                }
+            ], 
+            "wiki_id": 8167162, 
+            "wiki_title": "Once (Pearl Jam song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4298, 
+                    "end": 4307, 
+                    "score": 0.05974626913666725, 
+                    "spot": "companies"
+                }
+            ], 
+            "wiki_id": 145418, 
+            "wiki_title": "Company (military unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1977, 
+                    "end": 1981, 
+                    "score": 0.06727641820907593, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 33610767, 
+            "wiki_title": "Land of Israel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 711, 
+                    "end": 718, 
+                    "score": 0.04329993575811386, 
+                    "spot": "spilled"
+                }
+            ], 
+            "wiki_id": 158705, 
+            "wiki_title": "Oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2116, 
+                    "end": 2122, 
+                    "score": 0.002804487245157361, 
+                    "spot": "defuse"
+                }
+            ], 
+            "wiki_id": 146382, 
+            "wiki_title": "Bomb disposal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1616, 
+                    "end": 1628, 
+                    "score": 0.02067427709698677, 
+                    "spot": "disenchanted"
+                }
+            ], 
+            "wiki_id": 482960, 
+            "wiki_title": "Budd Schulberg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3317, 
+                    "end": 3333, 
+                    "score": 0.21388468146324158, 
+                    "spot": "finance minister"
+                }
+            ], 
+            "wiki_id": 261575, 
+            "wiki_title": "Minister of Finance (Canada)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1802, 
+                    "end": 1808, 
+                    "score": 0.11899124085903168, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4557, 
+                    "end": 4559, 
+                    "score": 0.023074524477124214, 
+                    "spot": "EC"
+                }
+            ], 
+            "wiki_id": 1041300, 
+            "wiki_title": "Ethiopian calendar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 273, 
+                    "end": 281, 
+                    "score": 0.12736156582832336, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 2858, 
+                    "end": 2866, 
+                    "score": 0.3644964098930359, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 3186, 
+                    "end": 3194, 
+                    "score": 0.3208722472190857, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 4058, 
+                    "end": 4065, 
+                    "score": 0.33443641662597656, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 4290, 
+                    "end": 4297, 
+                    "score": 0.4997937083244324, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 4673, 
+                    "end": 4680, 
+                    "score": 0.39128923416137695, 
+                    "spot": "Slovene"
+                }
+            ], 
+            "wiki_id": 246311, 
+            "wiki_title": "Slovenes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5281, 
+                    "end": 5287, 
+                    "score": 0.00448940135538578, 
+                    "spot": "letter"
+                }
+            ], 
+            "wiki_id": 21144543, 
+            "wiki_title": "The Letter (1997 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 107, 
+                    "end": 113, 
+                    "score": 0.0029529293533414602, 
+                    "spot": "No one"
+                }
+            ], 
+            "wiki_id": 12960591, 
+            "wiki_title": "No One (Alicia Keys song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1907, 
+                    "end": 1913, 
+                    "score": 0.059668995440006256, 
+                    "spot": "bitter"
+                }
+            ], 
+            "wiki_id": 291824, 
+            "wiki_title": "Bitters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2576, 
+                    "end": 2580, 
+                    "score": 0.007695021573454142, 
+                    "spot": "mean"
+                }
+            ], 
+            "wiki_id": 19192, 
+            "wiki_title": "Mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2599, 
+                    "end": 2609, 
+                    "score": 0.014868025667965412, 
+                    "spot": "unilateral"
+                }
+            ], 
+            "wiki_id": 607637, 
+            "wiki_title": "Unilateralism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3948, 
+                    "end": 3961, 
+                    "score": 0.23700371384620667, 
+                    "spot": "refrigerators"
+                }
+            ], 
+            "wiki_id": 1036259, 
+            "wiki_title": "Refrigerator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1459, 
+                    "end": 1461, 
+                    "score": 0.06237261742353439, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 3631, 
+                    "end": 3633, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 165128, 
+            "wiki_title": "Royal we"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 419, 
+                    "end": 425, 
+                    "score": 0.1528007537126541, 
+                    "spot": "Alpine"
+                }, 
+                {
+                    "begin": 2848, 
+                    "end": 2852, 
+                    "score": 0.3692612051963806, 
+                    "spot": "Alps"
+                }, 
+                {
+                    "begin": 2991, 
+                    "end": 2995, 
+                    "score": 0.35225802659988403, 
+                    "spot": "Alps"
+                }
+            ], 
+            "wiki_id": 981, 
+            "wiki_title": "Alps"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1555, 
+                    "end": 1564, 
+                    "score": 0.04279725253582001, 
+                    "spot": "nightmare"
+                }
+            ], 
+            "wiki_id": 27262540, 
+            "wiki_title": "Nightmare (Avenged Sevenfold album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3129, 
+                    "end": 3134, 
+                    "score": 0.03632224351167679, 
+                    "spot": "times"
+                }, 
+                {
+                    "begin": 3706, 
+                    "end": 3711, 
+                    "score": 0.08555591106414795, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1914, 
+                    "end": 1920, 
+                    "score": 0.15530705451965332, 
+                    "spot": "ethnic"
+                }
+            ], 
+            "wiki_id": 105004, 
+            "wiki_title": "Ethnic group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1369, 
+                    "end": 1371, 
+                    "score": 0.034130118787288666, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 231184, 
+            "wiki_title": "WE tv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3931, 
+                    "end": 3946, 
+                    "score": 0.20866835117340088, 
+                    "spot": "pharmaceuticals"
+                }
+            ], 
+            "wiki_id": 180121, 
+            "wiki_title": "Pharmaceutical drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1487, 
+                    "end": 1500, 
+                    "score": 0.6451565623283386, 
+                    "spot": "Balkanization"
+                }
+            ], 
+            "wiki_id": 183584, 
+            "wiki_title": "Balkanization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1774, 
+                    "end": 1793, 
+                    "score": 0.48117795586586, 
+                    "spot": "republic of Croatia"
+                }, 
+                {
+                    "begin": 1786, 
+                    "end": 1793, 
+                    "score": 0.7714967727661133, 
+                    "spot": "Croatia"
+                }
+            ], 
+            "wiki_id": 5573, 
+            "wiki_title": "Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 963, 
+                    "end": 968, 
+                    "score": 0.18497461080551147, 
+                    "spot": "trade"
+                }, 
+                {
+                    "begin": 3904, 
+                    "end": 3911, 
+                    "score": 0.16384992003440857, 
+                    "spot": "exports"
+                }, 
+                {
+                    "begin": 4089, 
+                    "end": 4096, 
+                    "score": 0.09416765719652176, 
+                    "spot": "exports"
+                }, 
+                {
+                    "begin": 4812, 
+                    "end": 4831, 
+                    "score": 0.04663129150867462, 
+                    "spot": "international trade"
+                }, 
+                {
+                    "begin": 4953, 
+                    "end": 4958, 
+                    "score": 0.18094784021377563, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4397, 
+                    "end": 4405, 
+                    "score": 0.11626547574996948, 
+                    "spot": "courting"
+                }
+            ], 
+            "wiki_id": 411659, 
+            "wiki_title": "Courtship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3099, 
+                    "end": 3105, 
+                    "score": 0.14727577567100525, 
+                    "spot": "income"
+                }
+            ], 
+            "wiki_id": 7830264, 
+            "wiki_title": "Income in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3828, 
+                    "end": 3839, 
+                    "score": 0.4046791195869446, 
+                    "spot": "Switzerland"
+                }
+            ], 
+            "wiki_id": 26748, 
+            "wiki_title": "Switzerland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2624, 
+                    "end": 2633, 
+                    "score": 0.08697760105133057, 
+                    "spot": "frontiers"
+                }
+            ], 
+            "wiki_id": 24319289, 
+            "wiki_title": "Oder\u2013Neisse line"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2778, 
+                    "end": 2786, 
+                    "score": 0.12735185027122498, 
+                    "spot": "shopping"
+                }
+            ], 
+            "wiki_id": 183515, 
+            "wiki_title": "Retail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5984, 
+                    "end": 5987, 
+                    "score": 0.12661850452423096, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 298884, 
+            "wiki_title": "South Korean won"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4353, 
+                    "end": 4360, 
+                    "score": 0.0010503365192562342, 
+                    "spot": "opening"
+                }
+            ], 
+            "wiki_id": 68402, 
+            "wiki_title": "Chess opening"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1879, 
+                    "end": 1886, 
+                    "score": 0.05503196269273758, 
+                    "spot": "assault"
+                }
+            ], 
+            "wiki_id": 18950865, 
+            "wiki_title": "Assault rifle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5709, 
+                    "end": 5717, 
+                    "score": 0.0006495860870927572, 
+                    "spot": "emerging"
+                }
+            ], 
+            "wiki_id": 446782, 
+            "wiki_title": "Emerging church"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3618, 
+                    "end": 3625, 
+                    "score": 0.0006747274310328066, 
+                    "spot": "realize"
+                }
+            ], 
+            "wiki_id": 154076, 
+            "wiki_title": "Epiphany (feeling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3004, 
+                    "end": 3012, 
+                    "score": 0.3661937713623047, 
+                    "spot": "Adriatic"
+                }
+            ], 
+            "wiki_id": 23275478, 
+            "wiki_title": "Adriatic Sea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5055, 
+                    "end": 5064, 
+                    "score": 0.48213034868240356, 
+                    "spot": "Yugoslavs"
+                }
+            ], 
+            "wiki_id": 923044, 
+            "wiki_title": "Yugoslavs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5924, 
+                    "end": 5926, 
+                    "score": 0.033510029315948486, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 3635710, 
+            "wiki_title": "Polycephaly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5544, 
+                    "end": 5556, 
+                    "score": 0.14844612777233124, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 2878844, 
+            "wiki_title": "Ten-Day War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6080, 
+                    "end": 6085, 
+                    "score": 0.0024470274802297354, 
+                    "spot": "do it"
+                }
+            ], 
+            "wiki_id": 8251817, 
+            "wiki_title": "Do It (Nelly Furtado song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5254, 
+                    "end": 5256, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 229971, 
+            "wiki_title": "Mouvement R\u00e9formateur"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2680, 
+                    "end": 2683, 
+                    "score": 0.23498478531837463, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4009, 
+                    "end": 4014, 
+                    "score": 0.3181941509246826, 
+                    "spot": "value"
+                }
+            ], 
+            "wiki_id": 4095185, 
+            "wiki_title": "Value (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1839, 
+                    "end": 1852, 
+                    "score": 0.0031505986116826534, 
+                    "spot": "recent events"
+                }
+            ], 
+            "wiki_id": 40313234, 
+            "wiki_title": "Ghouta chemical attack"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2160, 
+                    "end": 2166, 
+                    "score": 0.03356020897626877, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 10779, 
+            "wiki_title": "Frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3195, 
+                    "end": 3202, 
+                    "score": 0.0922788754105568, 
+                    "spot": "measure"
+                }
+            ], 
+            "wiki_id": 159500, 
+            "wiki_title": "Initiative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 853, 
+                    "end": 867, 
+                    "score": 0.006137479562312365, 
+                    "spot": "For the moment"
+                }
+            ], 
+            "wiki_id": 3565516, 
+            "wiki_title": "For the Moment (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3769, 
+                    "end": 3774, 
+                    "score": 0.11273302882909775, 
+                    "spot": "wrong"
+                }
+            ], 
+            "wiki_id": 276167, 
+            "wiki_title": "Wrongdoing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 613, 
+                    "end": 622, 
+                    "score": 0.11943844705820084, 
+                    "spot": "reflected"
+                }
+            ], 
+            "wiki_id": 521267, 
+            "wiki_title": "Reflection (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1025, 
+                    "end": 1032, 
+                    "score": 0.07717416435480118, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 1516, 
+                    "end": 1523, 
+                    "score": 0.009155643172562122, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 1579, 
+                    "end": 1586, 
+                    "score": 0.09373844414949417, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 2030, 
+                    "end": 2037, 
+                    "score": 0.11096887290477753, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 2233, 
+                    "end": 2240, 
+                    "score": 0.11366255581378937, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 4589, 
+                    "end": 4596, 
+                    "score": 0.05803640931844711, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5773, 
+                    "end": 5778, 
+                    "score": 0.026674937456846237, 
+                    "spot": "frets"
+                }
+            ], 
+            "wiki_id": 185704, 
+            "wiki_title": "Fret"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1238, 
+                    "end": 1249, 
+                    "score": 0.3084227740764618, 
+                    "spot": "Nationalism"
+                }, 
+                {
+                    "begin": 2006, 
+                    "end": 2017, 
+                    "score": 0.22603508830070496, 
+                    "spot": "nationalism"
+                }, 
+                {
+                    "begin": 2427, 
+                    "end": 2444, 
+                    "score": 0.3499407172203064, 
+                    "spot": "national identity"
+                }
+            ], 
+            "wiki_id": 21748, 
+            "wiki_title": "Nationalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3776, 
+                    "end": 3785, 
+                    "score": 0.1417686492204666, 
+                    "spot": "Everybody"
+                }
+            ], 
+            "wiki_id": 2288523, 
+            "wiki_title": "Everybody (Madonna song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3862, 
+                    "end": 3868, 
+                    "score": 0.10795513540506363, 
+                    "spot": "decade"
+                }
+            ], 
+            "wiki_id": 695530, 
+            "wiki_title": "Decade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 529, 
+                    "end": 540, 
+                    "score": 0.21345946192741394, 
+                    "spot": "declaration"
+                }, 
+                {
+                    "begin": 5131, 
+                    "end": 5153, 
+                    "score": 0.3269287347793579, 
+                    "spot": "declaring independence"
+                }
+            ], 
+            "wiki_id": 8372, 
+            "wiki_title": "Declaration of independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 358, 
+                    "score": 0.5, 
+                    "spot": "when we"
+                }
+            ], 
+            "wiki_id": 34866762, 
+            "wiki_title": "When We On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2807, 
+                    "end": 2813, 
+                    "score": 0.31364238262176514, 
+                    "spot": "Venice"
+                }
+            ], 
+            "wiki_id": 32616, 
+            "wiki_title": "Venice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4701, 
+                    "end": 4707, 
+                    "score": 0.043894022703170776, 
+                    "spot": "citing"
+                }
+            ], 
+            "wiki_id": 97585, 
+            "wiki_title": "Citation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 673, 
+                    "end": 686, 
+                    "score": 0.10824742168188095, 
+                    "spot": "no going back"
+                }
+            ], 
+            "wiki_id": 17197033, 
+            "wiki_title": "No Going Back (Johnny Coppin album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 722, 
+                    "end": 729, 
+                    "score": 0.006271448452025652, 
+                    "spot": "defense"
+                }
+            ], 
+            "wiki_id": 649702, 
+            "wiki_title": "Defender (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5508, 
+                    "end": 5513, 
+                    "score": 0.08822889626026154, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 417032, 
+            "wiki_title": "Major chord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 407, 
+                    "end": 418, 
+                    "score": 0.07225331664085388, 
+                    "spot": "picturesque"
+                }
+            ], 
+            "wiki_id": 1419031, 
+            "wiki_title": "Picturesque"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5212, 
+                    "end": 5226, 
+                    "score": 0.06932153552770615, 
+                    "spot": "economic\nunion"
+                }
+            ], 
+            "wiki_id": 19804420, 
+            "wiki_title": "Economic union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5350, 
+                    "end": 5357, 
+                    "score": 0.16727538406848907, 
+                    "spot": "Serbian"
+                }
+            ], 
+            "wiki_id": 29265, 
+            "wiki_title": "Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 30, 
+                    "end": 35, 
+                    "score": 0.0834173932671547, 
+                    "spot": "peace"
+                }
+            ], 
+            "wiki_id": 24702, 
+            "wiki_title": "Peace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3126, 
+                    "end": 3134, 
+                    "score": 0.004628099035471678, 
+                    "spot": "10 times"
+                }
+            ], 
+            "wiki_id": 9115357, 
+            "wiki_title": "WWC World Tag Team Championship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2473, 
+                    "end": 2495, 
+                    "score": 0.37947776913642883, 
+                    "spot": "Swiss foreign minister"
+                }
+            ], 
+            "wiki_id": 401455, 
+            "wiki_title": "Federal Department of Foreign Affairs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5670, 
+                    "end": 5672, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 26998579, 
+            "wiki_title": "Mr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3976, 
+                    "end": 3983, 
+                    "score": 0.0961909368634224, 
+                    "spot": "account"
+                }
+            ], 
+            "wiki_id": 2593, 
+            "wiki_title": "Accounting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1928, 
+                    "score": 0.0340067483484745, 
+                    "spot": "clashes"
+                }
+            ], 
+            "wiki_id": 35895060, 
+            "wiki_title": "Syrian Civil War spillover in Lebanon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2473, 
+                    "end": 2478, 
+                    "score": 0.307758629322052, 
+                    "spot": "Swiss"
+                }
+            ], 
+            "wiki_id": 7351032, 
+            "wiki_title": "Swiss people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3634, 
+                    "end": 3638, 
+                    "score": 0.09853670001029968, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4843, 
+                    "end": 4846, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 464907, 
+            "wiki_title": "You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 97, 
+                    "score": 0.04526274651288986, 
+                    "spot": "bonds"
+                }
+            ], 
+            "wiki_id": 93768, 
+            "wiki_title": "Government bond"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1397, 
+                    "end": 1404, 
+                    "score": 0.009155643172562122, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 32374, 
+            "wiki_title": "Venezuela"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5734, 
+                    "end": 5755, 
+                    "score": 0.017543859779834747, 
+                    "spot": "At the stock exchange"
+                }
+            ], 
+            "wiki_id": 2488688, 
+            "wiki_title": "Portraits at the Stock Exchange"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 126, 
+                    "end": 132, 
+                    "score": 0.21995112299919128, 
+                    "spot": "stocks"
+                }
+            ], 
+            "wiki_id": 19372783, 
+            "wiki_title": "Stock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4907, 
+                    "end": 4913, 
+                    "score": 0.0027843089774250984, 
+                    "spot": "urgent"
+                }
+            ], 
+            "wiki_id": 6896783, 
+            "wiki_title": "Urgent (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2584, 
+                    "end": 2587, 
+                    "score": 0.09304229170084, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 251573, 
+            "wiki_title": "Can (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2347, 
+                    "end": 2353, 
+                    "score": 0.05516677722334862, 
+                    "spot": "pieces"
+                }
+            ], 
+            "wiki_id": 8471210, 
+            "wiki_title": "Pieces (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4389, 
+                    "end": 4393, 
+                    "score": 0.06689035892486572, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 15105978, 
+            "wiki_title": "Water well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1668, 
+                    "end": 1674, 
+                    "score": 0.23683471977710724, 
+                    "spot": "French"
+                }
+            ], 
+            "wiki_id": 10597, 
+            "wiki_title": "French language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4466, 
+                    "end": 4480, 
+                    "score": 0.5752742290496826, 
+                    "spot": "Czechoslovakia"
+                }
+            ], 
+            "wiki_id": 5322, 
+            "wiki_title": "Czechoslovakia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2414, 
+                    "end": 2420, 
+                    "score": 0.0031923383940011263, 
+                    "spot": "affirm"
+                }
+            ], 
+            "wiki_id": 15849254, 
+            "wiki_title": "Affirmation in law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3746, 
+                    "end": 3758, 
+                    "score": 0.11232659220695496, 
+                    "spot": "expectations"
+                }
+            ], 
+            "wiki_id": 243395, 
+            "wiki_title": "Expectation (epistemic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2734, 
+                    "end": 2739, 
+                    "score": 0.0645383968949318, 
+                    "spot": "enjoy"
+                }
+            ], 
+            "wiki_id": 1093467, 
+            "wiki_title": "Enjoy! (Descendents album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 922, 
+                    "end": 929, 
+                    "score": 0.22583112120628357, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 2392, 
+                    "end": 2399, 
+                    "score": 0.050870079547166824, 
+                    "spot": "peoples"
+                }, 
+                {
+                    "begin": 4167, 
+                    "end": 4176, 
+                    "score": 0.1313592791557312, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2921, 
+                    "end": 2927, 
+                    "score": 0.001482748775742948, 
+                    "spot": "always"
+                }
+            ], 
+            "wiki_id": 848218, 
+            "wiki_title": "Always (1989 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1276, 
+                    "end": 1283, 
+                    "score": 0.12942826747894287, 
+                    "spot": "quality"
+                }
+            ], 
+            "wiki_id": 12115893, 
+            "wiki_title": "Quality (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 696, 
+                    "end": 701, 
+                    "score": 0.07987812161445618, 
+                    "spot": "blood"
+                }
+            ], 
+            "wiki_id": 3997, 
+            "wiki_title": "Blood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5307, 
+                    "end": 5314, 
+                    "score": 0.1446521133184433, 
+                    "spot": "council"
+                }
+            ], 
+            "wiki_id": 5866, 
+            "wiki_title": "Council of the European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4571, 
+                    "end": 4575, 
+                    "score": 0.04942081496119499, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 49171, 
+            "wiki_title": "Interval (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5514, 
+                    "end": 5525, 
+                    "score": 0.03078807145357132, 
+                    "spot": "motivations"
+                }
+            ], 
+            "wiki_id": 1725470, 
+            "wiki_title": "Street racing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 439, 
+                    "end": 448, 
+                    "score": 0.4173889458179474, 
+                    "spot": "waking up"
+                }
+            ], 
+            "wiki_id": 27834, 
+            "wiki_title": "Sleep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2818, 
+                    "end": 2832, 
+                    "score": 0.00561797758564353, 
+                    "spot": "their vacation"
+                }
+            ], 
+            "wiki_id": 12945939, 
+            "wiki_title": "Their Vacation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 121, 
+                    "score": 0.00198494759388268, 
+                    "spot": "touched"
+                }
+            ], 
+            "wiki_id": 2285492, 
+            "wiki_title": "Touched (Buffy the Vampire Slayer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3081, 
+                    "end": 3091, 
+                    "score": 0.13743063807487488, 
+                    "spot": "per capita"
+                }
+            ], 
+            "wiki_id": 357788, 
+            "wiki_title": "Per capita"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5569, 
+                    "end": 5573, 
+                    "score": 0.031004756689071655, 
+                    "spot": "free"
+                }
+            ], 
+            "wiki_id": 11175, 
+            "wiki_title": "Political freedom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4329, 
+                    "end": 4338, 
+                    "score": 0.01958269253373146, 
+                    "spot": "high-tech"
+                }
+            ], 
+            "wiki_id": 525028, 
+            "wiki_title": "High tech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5687, 
+                    "end": 5693, 
+                    "score": 0.0007796851568855345, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 2172378, 
+            "wiki_title": "Independent politician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2298, 
+                    "end": 2302, 
+                    "score": 0.0005547850159928203, 
+                    "spot": "wary"
+                }
+            ], 
+            "wiki_id": 15850229, 
+            "wiki_title": "WARY"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1462, 
+                    "end": 1466, 
+                    "score": 0.15965618193149567, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1809, 
+                    "end": 1826, 
+                    "score": 0.5477714538574219, 
+                    "spot": "Mikhail Gorbachev"
+                }
+            ], 
+            "wiki_id": 20979, 
+            "wiki_title": "Mikhail Gorbachev"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2104, 
+                    "end": 2112, 
+                    "score": 0.008015086874365807, 
+                    "spot": "brokered"
+                }
+            ], 
+            "wiki_id": 12856439, 
+            "wiki_title": "Brokered programming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1054, 
+                    "end": 1063, 
+                    "score": 0.08649736642837524, 
+                    "spot": "vanishing"
+                }
+            ], 
+            "wiki_id": 1220730, 
+            "wiki_title": "Mariah Carey (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2891, 
+                    "end": 2914, 
+                    "score": 0.413244366645813, 
+                    "spot": "Austro-Hungarian empire"
+                }, 
+                {
+                    "begin": 4439, 
+                    "end": 4455, 
+                    "score": 0.13625414669513702, 
+                    "spot": "Austro-Hungarian"
+                }
+            ], 
+            "wiki_id": 2983, 
+            "wiki_title": "Austria-Hungary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5936, 
+                    "end": 5943, 
+                    "score": 0.021514274179935455, 
+                    "spot": "getting"
+                }
+            ], 
+            "wiki_id": 40224738, 
+            "wiki_title": "Getting On (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2730, 
+                    "end": 2733, 
+                    "score": 0.12020149827003479, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 199, 
+                    "end": 204, 
+                    "score": 0.11993536353111267, 
+                    "spot": "logic"
+                }, 
+                {
+                    "begin": 6060, 
+                    "end": 6067, 
+                    "score": 0.0693330392241478, 
+                    "spot": "logical"
+                }
+            ], 
+            "wiki_id": 46426065, 
+            "wiki_title": "Logic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 544, 
+                    "end": 553, 
+                    "score": 0.24834102392196655, 
+                    "spot": "secession"
+                }
+            ], 
+            "wiki_id": 144732, 
+            "wiki_title": "Secession"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1937, 
+                    "end": 1943, 
+                    "score": 0.417280375957489, 
+                    "spot": "Croats"
+                }
+            ], 
+            "wiki_id": 69801, 
+            "wiki_title": "Croats"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3522, 
+                    "end": 3529, 
+                    "score": 0.028662551194429398, 
+                    "spot": "visitor"
+                }
+            ], 
+            "wiki_id": 5510507, 
+            "wiki_title": "Canonical visitation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1650, 
+                    "end": 1656, 
+                    "score": 0.22106164693832397, 
+                    "spot": "Soviet"
+                }, 
+                {
+                    "begin": 1795, 
+                    "end": 1801, 
+                    "score": 0.19735442101955414, 
+                    "spot": "Soviet"
+                }
+            ], 
+            "wiki_id": 26779, 
+            "wiki_title": "Soviet Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 311, 
+                    "end": 316, 
+                    "score": 0.05845259502530098, 
+                    "spot": "costs"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4730, 
+                    "end": 4733, 
+                    "score": 0.08703519403934479, 
+                    "spot": "far"
+                }
+            ], 
+            "wiki_id": 11672, 
+            "wiki_title": "Far East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3568, 
+                    "end": 3574, 
+                    "score": 0.19178630411624908, 
+                    "spot": "robust"
+                }
+            ], 
+            "wiki_id": 2885691, 
+            "wiki_title": "Robust statistics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3800, 
+                    "end": 3802, 
+                    "score": 0.1447945386171341, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 27947883, 
+            "wiki_title": "W.E."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4277, 
+                    "end": 4285, 
+                    "score": 0.1775624006986618, 
+                    "spot": "Austrian"
+                }
+            ], 
+            "wiki_id": 187221, 
+            "wiki_title": "Austrians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2204, 
+                    "end": 2215, 
+                    "score": 0.18855153024196625, 
+                    "spot": "governments"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3050, 
+                    "end": 3055, 
+                    "score": 0.066844642162323, 
+                    "spot": "patch"
+                }
+            ], 
+            "wiki_id": 28627802, 
+            "wiki_title": "The Patch (bar)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4456, 
+                    "end": 4464, 
+                    "score": 0.0025762212462723255, 
+                    "spot": "partners"
+                }
+            ], 
+            "wiki_id": 2024408, 
+            "wiki_title": "Sexual partner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5990, 
+                    "end": 5996, 
+                    "score": 0.1738215535879135, 
+                    "spot": "invest"
+                }
+            ], 
+            "wiki_id": 63121, 
+            "wiki_title": "Investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1289, 
+                    "end": 1293, 
+                    "score": 0.039611730724573135, 
+                    "spot": "once"
+                }
+            ], 
+            "wiki_id": 5399256, 
+            "wiki_title": "ONCE (cycling team)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1372, 
+                    "end": 1374, 
+                    "score": 0.01462466735392809, 
+                    "spot": "ve"
+                }
+            ], 
+            "wiki_id": 153895, 
+            "wiki_title": "Gender-specific and gender-neutral pronouns"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 559, 
+                    "end": 569, 
+                    "score": 0.33082476258277893, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 986, 
+                    "end": 996, 
+                    "score": 0.35936635732650757, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 1123, 
+                    "end": 1133, 
+                    "score": 0.3405646085739136, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 2186, 
+                    "end": 2196, 
+                    "score": 0.3980352580547333, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 3167, 
+                    "end": 3177, 
+                    "score": 0.4582430124282837, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 3415, 
+                    "end": 3425, 
+                    "score": 0.3176302909851074, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 4976, 
+                    "end": 4986, 
+                    "score": 0.32991722226142883, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 34244, 
+            "wiki_title": "Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5824, 
+                    "end": 5828, 
+                    "score": 0.18821769952774048, 
+                    "spot": "gold"
+                }
+            ], 
+            "wiki_id": 12240, 
+            "wiki_title": "Gold"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5332, 
+                    "end": 5336, 
+                    "score": 0.03575587272644043, 
+                    "spot": "town"
+                }
+            ], 
+            "wiki_id": 31533632, 
+            "wiki_title": "City of federal subject significance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3092, 
+                    "end": 3098, 
+                    "score": 0.05348411947488785, 
+                    "spot": "annual"
+                }
+            ], 
+            "wiki_id": 34341, 
+            "wiki_title": "Year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4255, 
+                    "end": 4268, 
+                    "score": 0.0834251120686531, 
+                    "spot": "joint\nventure"
+                }
+            ], 
+            "wiki_id": 538782, 
+            "wiki_title": "Joint venture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3092, 
+                    "end": 3105, 
+                    "score": 0.21448801457881927, 
+                    "spot": "annual income"
+                }
+            ], 
+            "wiki_id": 5755439, 
+            "wiki_title": "Household income in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1197, 
+                    "end": 1211, 
+                    "score": 0.11493225395679474, 
+                    "spot": "Western Europe"
+                }, 
+                {
+                    "begin": 2656, 
+                    "end": 2670, 
+                    "score": 0.11493225395679474, 
+                    "spot": "Western Europe"
+                }, 
+                {
+                    "begin": 3219, 
+                    "end": 3233, 
+                    "score": 0.23148475587368011, 
+                    "spot": "Western Europe"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2588, 
+                    "end": 2594, 
+                    "score": 0.09609594941139221, 
+                    "spot": "accept"
+                }
+            ], 
+            "wiki_id": 609351, 
+            "wiki_title": "Accept (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 299, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 28949805, 
+            "wiki_title": "The Beginning (The Black Eyed Peas album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 138, 
+                    "end": 154, 
+                    "score": 0.33929702639579773, 
+                    "spot": "foreign exchange"
+                }
+            ], 
+            "wiki_id": 648277, 
+            "wiki_title": "Foreign exchange market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1675, 
+                    "end": 1682, 
+                    "score": 0.5440237522125244, 
+                    "spot": "Corsica"
+                }
+            ], 
+            "wiki_id": 5714828, 
+            "wiki_title": "Corsica"
+        }
+    ]
+}

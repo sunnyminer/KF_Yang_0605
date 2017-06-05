@@ -1,0 +1,2368 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 125, 
+                    "end": 131, 
+                    "score": 0.3500240445137024, 
+                    "spot": "Canada"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 638, 
+                    "end": 649, 
+                    "score": 0.3928524851799011, 
+                    "spot": "White House"
+                }
+            ], 
+            "wiki_id": 33057, 
+            "wiki_title": "White House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 375, 
+                    "end": 381, 
+                    "score": 0.04214536026120186, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 334803, 
+            "wiki_title": "Public sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 54, 
+                    "end": 74, 
+                    "score": 0.4467008709907532, 
+                    "spot": "free trade agreement"
+                }
+            ], 
+            "wiki_id": 10883, 
+            "wiki_title": "Free trade area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 245, 
+                    "end": 252, 
+                    "score": 0.1910516321659088, 
+                    "spot": "nominee"
+                }
+            ], 
+            "wiki_id": 615670, 
+            "wiki_title": "Candidate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1745, 
+                    "end": 1758, 
+                    "score": 0.12264151126146317, 
+                    "spot": "labour rights"
+                }
+            ], 
+            "wiki_id": 1125669, 
+            "wiki_title": "Labor rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 975, 
+                    "end": 979, 
+                    "score": 0.18313564360141754, 
+                    "spot": "vote"
+                }
+            ], 
+            "wiki_id": 638313, 
+            "wiki_title": "Supermajority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2632, 
+                    "end": 2634, 
+                    "score": 0.11424850672483444, 
+                    "spot": "Ms"
+                }
+            ], 
+            "wiki_id": 16949861, 
+            "wiki_title": "Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 423, 
+                    "end": 429, 
+                    "score": 0.0007276217802427709, 
+                    "spot": "pushed"
+                }
+            ], 
+            "wiki_id": 1982854, 
+            "wiki_title": "Push technology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2732, 
+                    "end": 2738, 
+                    "score": 0.2080688178539276, 
+                    "spot": "labour"
+                }
+            ], 
+            "wiki_id": 19279158, 
+            "wiki_title": "Labour Party (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2132, 
+                    "end": 2148, 
+                    "score": 0.08571428805589676, 
+                    "spot": "labour coalition"
+                }
+            ], 
+            "wiki_id": 3633068, 
+            "wiki_title": "Labour coalition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 270, 
+                    "end": 275, 
+                    "score": 0.3536592721939087, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 508, 
+                    "end": 513, 
+                    "score": 0.26042020320892334, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 29810, 
+            "wiki_title": "Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2194, 
+                    "end": 2198, 
+                    "score": 0.13824088871479034, 
+                    "spot": "well"
+                }, 
+                {
+                    "begin": 3136, 
+                    "end": 3140, 
+                    "score": 0.04087613523006439, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2601, 
+                    "end": 2604, 
+                    "score": 0.06597542762756348, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2446, 
+                    "end": 2457, 
+                    "score": 0.0011376563925296068, 
+                    "spot": "Fifty-seven"
+                }
+            ], 
+            "wiki_id": 399300, 
+            "wiki_title": "57 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2365, 
+                    "end": 2372, 
+                    "score": 0.05118817090988159, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 180546, 
+            "wiki_title": "Child support"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 329, 
+                    "end": 339, 
+                    "score": 0.19288168847560883, 
+                    "spot": "leadership"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 838, 
+                    "end": 844, 
+                    "score": 0.5, 
+                    "spot": "Latino"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2910, 
+                    "end": 2916, 
+                    "score": 0.3569902181625366, 
+                    "spot": "Senate"
+                }, 
+                {
+                    "begin": 2968, 
+                    "end": 2975, 
+                    "score": 0.19352039694786072, 
+                    "spot": "Senator"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3000, 
+                    "end": 3006, 
+                    "score": 0.07074768841266632, 
+                    "spot": "permit"
+                }
+            ], 
+            "wiki_id": 449447, 
+            "wiki_title": "Permit-class submarine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 234, 
+                    "end": 244, 
+                    "score": 0.17885379493236542, 
+                    "spot": "Democratic"
+                }, 
+                {
+                    "begin": 276, 
+                    "end": 285, 
+                    "score": 0.31871935725212097, 
+                    "spot": "Democrats"
+                }, 
+                {
+                    "begin": 1937, 
+                    "end": 1946, 
+                    "score": 0.208778515458107, 
+                    "spot": "Democrats"
+                }
+            ], 
+            "wiki_id": 5043544, 
+            "wiki_title": "Democratic Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 59, 
+                    "end": 74, 
+                    "score": 0.24073946475982666, 
+                    "spot": "trade agreement"
+                }, 
+                {
+                    "begin": 985, 
+                    "end": 995, 
+                    "score": 0.19333332777023315, 
+                    "spot": "trade pact"
+                }
+            ], 
+            "wiki_id": 217089, 
+            "wiki_title": "Trade agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2088, 
+                    "end": 2093, 
+                    "score": 0.1349499374628067, 
+                    "spot": "wrong"
+                }
+            ], 
+            "wiki_id": 35314883, 
+            "wiki_title": "Wrong (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2257, 
+                    "end": 2267, 
+                    "score": 0.09773625433444977, 
+                    "spot": "introduced"
+                }
+            ], 
+            "wiki_id": 4062253, 
+            "wiki_title": "Reading (legislature)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 54, 
+                    "end": 64, 
+                    "score": 0.46937626600265503, 
+                    "spot": "free trade"
+                }
+            ], 
+            "wiki_id": 59212, 
+            "wiki_title": "Free trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2422, 
+                    "end": 2433, 
+                    "score": 0.3317162096500397, 
+                    "spot": "food safety"
+                }
+            ], 
+            "wiki_id": 8053588, 
+            "wiki_title": "Food safety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1279, 
+                    "end": 1286, 
+                    "score": 0.10040931403636932, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 46530, 
+            "wiki_title": "Human Rights Watch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 956, 
+                    "end": 962, 
+                    "score": 0.21984584629535675, 
+                    "spot": "forces"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1900, 
+                    "end": 1911, 
+                    "score": 0.0016692347126081586, 
+                    "spot": "these three"
+                }
+            ], 
+            "wiki_id": 1482779, 
+            "wiki_title": "These Three"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1210, 
+                    "end": 1219, 
+                    "score": 0.07548382878303528, 
+                    "spot": "sentiment"
+                }
+            ], 
+            "wiki_id": 163390, 
+            "wiki_title": "Feeling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2400, 
+                    "end": 2406, 
+                    "score": 0.06070193275809288, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 803790, 
+            "wiki_title": "Caleb Strong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 558, 
+                    "score": 0.028735632076859474, 
+                    "spot": "campaign for the presidency"
+                }
+            ], 
+            "wiki_id": 40795838, 
+            "wiki_title": "Greek local elections, 2014"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2034, 
+                    "end": 2050, 
+                    "score": 0.32851237058639526, 
+                    "spot": "Governor Clinton"
+                }
+            ], 
+            "wiki_id": 147872, 
+            "wiki_title": "George Clinton (vice president)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 289, 
+                    "end": 301, 
+                    "score": 0.4226425588130951, 
+                    "spot": "Capitol Hill"
+                }, 
+                {
+                    "begin": 343, 
+                    "end": 351, 
+                    "score": 0.11125318706035614, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 963, 
+                    "end": 971, 
+                    "score": 0.19669678807258606, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 1658, 
+                    "end": 1666, 
+                    "score": 0.2492637038230896, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 1831, 
+                    "end": 1843, 
+                    "score": 0.5021944046020508, 
+                    "spot": "Capitol Hill"
+                }, 
+                {
+                    "begin": 3007, 
+                    "end": 3015, 
+                    "score": 0.17959679663181305, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1241, 
+                    "end": 1250, 
+                    "score": 0.07105129212141037, 
+                    "spot": "president"
+                }, 
+                {
+                    "begin": 1641, 
+                    "end": 1650, 
+                    "score": 0.20670433342456818, 
+                    "spot": "president"
+                }, 
+                {
+                    "begin": 2495, 
+                    "end": 2504, 
+                    "score": 0.11502516269683838, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1421, 
+                    "end": 1439, 
+                    "score": 0.018406564369797707, 
+                    "spot": "executive\ndirector"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1997, 
+                    "end": 2014, 
+                    "score": 0.02137931063771248, 
+                    "spot": "it doesn't\nmatter"
+                }
+            ], 
+            "wiki_id": 9810101, 
+            "wiki_title": "It Doesn't Matter (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1339, 
+                    "end": 1348, 
+                    "score": 0.0067466264590620995, 
+                    "spot": "opportune"
+                }
+            ], 
+            "wiki_id": 17924342, 
+            "wiki_title": "HMS Opportune (G80)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 562, 
+                    "end": 571, 
+                    "score": 0.0005605381447821856, 
+                    "spot": "stressing"
+                }
+            ], 
+            "wiki_id": 968596, 
+            "wiki_title": "Rail stressing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1859, 
+                    "end": 1861, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 612840, 
+            "wiki_title": "If...."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2300, 
+                    "end": 2315, 
+                    "score": 0.06513705104589462, 
+                    "spot": "majority leader"
+                }
+            ], 
+            "wiki_id": 35098328, 
+            "wiki_title": "Party leaders of the United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2716, 
+                    "end": 2730, 
+                    "score": 0.021960783749818802, 
+                    "spot": "local churches"
+                }
+            ], 
+            "wiki_id": 253157, 
+            "wiki_title": "Local churches (affiliation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 318, 
+                    "end": 328, 
+                    "score": 0.2707996070384979, 
+                    "spot": "Democratic"
+                }, 
+                {
+                    "begin": 1475, 
+                    "end": 1484, 
+                    "score": 0.2624620497226715, 
+                    "spot": "Democrats"
+                }
+            ], 
+            "wiki_id": 7959, 
+            "wiki_title": "Democracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 471, 
+                    "end": 488, 
+                    "score": 0.008867541328072548, 
+                    "spot": "election campaign"
+                }
+            ], 
+            "wiki_id": 519775, 
+            "wiki_title": "Political campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1183, 
+                    "end": 1186, 
+                    "score": 0.12812459468841553, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 307465, 
+            "wiki_title": "Andean Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2732, 
+                    "end": 2745, 
+                    "score": 0.3150012195110321, 
+                    "spot": "labour unions"
+                }
+            ], 
+            "wiki_id": 17626, 
+            "wiki_title": "Trade union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1713, 
+                    "end": 1719, 
+                    "score": 0.010467175394296646, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 43564, 
+            "wiki_title": "Action film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2543, 
+                    "end": 2549, 
+                    "score": 0.0012086089700460434, 
+                    "spot": "moving"
+                }
+            ], 
+            "wiki_id": 12213, 
+            "wiki_title": "Gleichschaltung"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2283, 
+                    "end": 2295, 
+                    "score": 0.8117303848266602, 
+                    "spot": "Henry Waxman"
+                }
+            ], 
+            "wiki_id": 408971, 
+            "wiki_title": "Henry Waxman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2518, 
+                    "end": 2527, 
+                    "score": 0.1039879322052002, 
+                    "spot": "authority"
+                }
+            ], 
+            "wiki_id": 1101722, 
+            "wiki_title": "Board of education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1794, 
+                    "end": 1802, 
+                    "score": 0.0032677417621016502, 
+                    "spot": "Whatever"
+                }
+            ], 
+            "wiki_id": 1460847, 
+            "wiki_title": "Whatever (Oasis song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3100, 
+                    "end": 3103, 
+                    "score": 0.08669926971197128, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2852, 
+                    "end": 2861, 
+                    "score": 0.002266267081722617, 
+                    "spot": "come back"
+                }
+            ], 
+            "wiki_id": 12263527, 
+            "wiki_title": "Come Back (Jessica Garlick song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3055, 
+                    "end": 3057, 
+                    "score": 0.05567140504717827, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 83139, 
+            "wiki_title": "Intermediate frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2034, 
+                    "end": 2042, 
+                    "score": 0.22218413650989532, 
+                    "spot": "Governor"
+                }
+            ], 
+            "wiki_id": 12861, 
+            "wiki_title": "Governor of New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 803, 
+                    "end": 810, 
+                    "score": 0.004414186347275972, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 39371476, 
+            "wiki_title": "Believe (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 938, 
+                    "end": 947, 
+                    "score": 0.17243877053260803, 
+                    "spot": "procedure"
+                }
+            ], 
+            "wiki_id": 24612, 
+            "wiki_title": "Procedural law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 479, 
+                    "score": 0.21517762541770935, 
+                    "spot": "US election"
+                }
+            ], 
+            "wiki_id": 924170, 
+            "wiki_title": "Elections in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1585, 
+                    "end": 1596, 
+                    "score": 0.003939592745155096, 
+                    "spot": "centrepiece"
+                }
+            ], 
+            "wiki_id": 17922530, 
+            "wiki_title": "Centrepiece"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2976, 
+                    "end": 2986, 
+                    "score": 0.7280213832855225, 
+                    "spot": "Don\nRiegle"
+                }
+            ], 
+            "wiki_id": 542304, 
+            "wiki_title": "Donald W. Riegle, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 654, 
+                    "end": 659, 
+                    "score": 0.07770086824893951, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 144089, 
+            "wiki_title": "Eminent domain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2594, 
+                    "end": 2600, 
+                    "score": 0.002633341820910573, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3211186, 
+            "wiki_title": "People!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 527, 
+                    "end": 539, 
+                    "score": 0.0025278059765696526, 
+                    "spot": "His campaign"
+                }
+            ], 
+            "wiki_id": 34655588, 
+            "wiki_title": "William Jennings Bryan presidential campaign, 1896"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1807, 
+                    "end": 1821, 
+                    "score": 0.08605916798114777, 
+                    "spot": "administration"
+                }
+            ], 
+            "wiki_id": 183895, 
+            "wiki_title": "Presidency of George W. Bush"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 121, 
+                    "end": 123, 
+                    "score": 0.1374601274728775, 
+                    "spot": "US"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1030, 
+                    "score": 0.0017470598686486483, 
+                    "spot": "too late"
+                }
+            ], 
+            "wiki_id": 24389330, 
+            "wiki_title": "Too Late (1996 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2228, 
+                    "end": 2239, 
+                    "score": 0.0791449323296547, 
+                    "spot": "signatories"
+                }, 
+                {
+                    "begin": 2469, 
+                    "end": 2480, 
+                    "score": 0.05694976821541786, 
+                    "spot": "signatories"
+                }
+            ], 
+            "wiki_id": 26753, 
+            "wiki_title": "Signature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2562, 
+                    "end": 2567, 
+                    "score": 0.0005546292522922158, 
+                    "spot": "issue"
+                }
+            ], 
+            "wiki_id": 5803195, 
+            "wiki_title": "Release (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2635, 
+                    "end": 2647, 
+                    "score": 0.5, 
+                    "spot": "Lori\nWallach"
+                }
+            ], 
+            "wiki_id": 42873648, 
+            "wiki_title": "Lori Wallach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1867, 
+                    "end": 1870, 
+                    "score": 0.010517369955778122, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2651, 
+                    "end": 2662, 
+                    "score": 0.5, 
+                    "spot": "Ralph Nader"
+                }
+            ], 
+            "wiki_id": 25671, 
+            "wiki_title": "Ralph Nader"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2890, 
+                    "end": 2900, 
+                    "score": 0.32350173592567444, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1387, 
+                    "end": 1396, 
+                    "score": 0.16878058016300201, 
+                    "spot": "lobbyists"
+                }, 
+                {
+                    "begin": 3113, 
+                    "end": 3121, 
+                    "score": 0.26300156116485596, 
+                    "spot": "lobbyist"
+                }
+            ], 
+            "wiki_id": 48934, 
+            "wiki_title": "Lobbying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2187, 
+                    "end": 2193, 
+                    "score": 0.166841059923172, 
+                    "spot": "ground"
+                }
+            ], 
+            "wiki_id": 37738, 
+            "wiki_title": "Soil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 151, 
+                    "end": 158, 
+                    "score": 0.12915821373462677, 
+                    "spot": "support"
+                }, 
+                {
+                    "begin": 718, 
+                    "end": 725, 
+                    "score": 0.27023929357528687, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 37600898, 
+            "wiki_title": "Abortion-rights movements"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 879, 
+                    "end": 886, 
+                    "score": 0.0005473491037264466, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 26561466, 
+            "wiki_title": "Pakistan's role in the War on Terror"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1228, 
+                    "score": 0.147997185587883, 
+                    "spot": "trade"
+                }, 
+                {
+                    "begin": 1381, 
+                    "end": 1386, 
+                    "score": 0.1320582628250122, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1967, 
+                    "end": 1977, 
+                    "score": 0.08899164944887161, 
+                    "spot": "deficiency"
+                }
+            ], 
+            "wiki_id": 99494, 
+            "wiki_title": "Presentation of a group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2126, 
+                    "end": 2130, 
+                    "score": 0.08190151304006577, 
+                    "spot": "farm"
+                }, 
+                {
+                    "begin": 2747, 
+                    "end": 2751, 
+                    "score": 0.07912284880876541, 
+                    "spot": "farm"
+                }
+            ], 
+            "wiki_id": 59790, 
+            "wiki_title": "Farm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2621, 
+                    "end": 2624, 
+                    "score": 0.15270526707172394, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3062, 
+                    "end": 3068, 
+                    "score": 0.5, 
+                    "spot": "Riegle"
+                }
+            ], 
+            "wiki_id": 37075525, 
+            "wiki_title": "Roy Wilford Riegle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 749, 
+                    "end": 754, 
+                    "score": 0.23984861373901367, 
+                    "spot": "issue"
+                }
+            ], 
+            "wiki_id": 2345894, 
+            "wiki_title": "Social issue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1266, 
+                    "end": 1271, 
+                    "score": 0.04546629637479782, 
+                    "spot": "stage"
+                }
+            ], 
+            "wiki_id": 214764, 
+            "wiki_title": "Stagecoach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3146, 
+                    "end": 3151, 
+                    "score": 0.1265060305595398, 
+                    "spot": "Nafta"
+                }
+            ], 
+            "wiki_id": 2193361, 
+            "wiki_title": "Nefta, Tunisia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1274, 
+                    "end": 1278, 
+                    "score": 0.0005746196839027107, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 594771, 
+            "wiki_title": "Close vowel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3042, 
+                    "end": 3046, 
+                    "score": 0.0557786300778389, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 28952356, 
+            "wiki_title": "Channel 5 (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 446, 
+                    "score": 0.0012332357000559568, 
+                    "spot": "forefront"
+                }
+            ], 
+            "wiki_id": 2216852, 
+            "wiki_title": "ForeFront Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 915, 
+                    "end": 926, 
+                    "score": 0.0013118062634021044, 
+                    "spot": "constrained"
+                }
+            ], 
+            "wiki_id": 7418540, 
+            "wiki_title": "Constraint (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1952, 
+                    "end": 1957, 
+                    "score": 0.0006621263455599546, 
+                    "spot": "seize"
+                }
+            ], 
+            "wiki_id": 1444259, 
+            "wiki_title": "Seize (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 166, 
+                    "end": 176, 
+                    "score": 0.4397147297859192, 
+                    "spot": "Republican"
+                }
+            ], 
+            "wiki_id": 32070, 
+            "wiki_title": "Republican Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 400, 
+                    "end": 417, 
+                    "score": 0.15833333134651184, 
+                    "spot": "politics as usual"
+                }
+            ], 
+            "wiki_id": 21800922, 
+            "wiki_title": "Politics as Usual"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 784, 
+                    "end": 792, 
+                    "score": 0.9712327718734741, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 802, 
+                    "score": 0.3849206566810608, 
+                    "spot": "Hispanic Americans"
+                }
+            ], 
+            "wiki_id": 1007667, 
+            "wiki_title": "Hispanic and Latino Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2665, 
+                    "end": 2679, 
+                    "score": 0.3868778347969055, 
+                    "spot": "Public Citizen"
+                }
+            ], 
+            "wiki_id": 195977, 
+            "wiki_title": "Public Citizen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1604, 
+                    "end": 1614, 
+                    "score": 0.05243625119328499, 
+                    "spot": "opposition"
+                }
+            ], 
+            "wiki_id": 711276, 
+            "wiki_title": "Her Majesty's Most Loyal Opposition (United Kingdom)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1152, 
+                    "end": 1157, 
+                    "score": 0.11885074526071548, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 13930, 
+            "wiki_title": "House music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2022, 
+                    "end": 2032, 
+                    "score": 0.07692307978868484, 
+                    "spot": "Mr Freeman"
+                }
+            ], 
+            "wiki_id": 31817446, 
+            "wiki_title": "Mr. Freeman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 514, 
+                    "end": 525, 
+                    "score": 0.09196456521749496, 
+                    "spot": "billionaire"
+                }
+            ], 
+            "wiki_id": 428105, 
+            "wiki_title": "Billionaire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2752, 
+                    "end": 2758, 
+                    "score": 0.18892662227153778, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2580, 
+                    "end": 2593, 
+                    "score": 0.00358422938734293, 
+                    "spot": "millions more"
+                }
+            ], 
+            "wiki_id": 2328833, 
+            "wiki_title": "Millions More Movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2356, 
+                    "end": 2360, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2069, 
+                    "end": 2073, 
+                    "score": 0.004456327762454748, 
+                    "spot": "deem"
+                }
+            ], 
+            "wiki_id": 48664584, 
+            "wiki_title": "Deem (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1182, 
+                    "score": 0.15134459733963013, 
+                    "spot": "no one"
+                }
+            ], 
+            "wiki_id": 12960591, 
+            "wiki_title": "No One (Alicia Keys song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3019, 
+                    "end": 3024, 
+                    "score": 0.19266530871391296, 
+                    "spot": "amend"
+                }
+            ], 
+            "wiki_id": 1511828, 
+            "wiki_title": "Repeal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 770, 
+                    "end": 783, 
+                    "score": 0.28693675994873047, 
+                    "spot": "working class"
+                }
+            ], 
+            "wiki_id": 39903086, 
+            "wiki_title": "Working class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 382, 
+                    "end": 394, 
+                    "score": 0.011168384924530983, 
+                    "spot": "disaffection"
+                }
+            ], 
+            "wiki_id": 36927256, 
+            "wiki_title": "A Disaffection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1763, 
+                    "end": 1769, 
+                    "score": 0.1906869113445282, 
+                    "spot": "worker"
+                }
+            ], 
+            "wiki_id": 18178, 
+            "wiki_title": "Labour economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 204, 
+                    "end": 216, 
+                    "score": 0.5, 
+                    "spot": "Bill Clinton"
+                }, 
+                {
+                    "begin": 2043, 
+                    "end": 2050, 
+                    "score": 0.20685924589633942, 
+                    "spot": "Clinton"
+                }
+            ], 
+            "wiki_id": 3356, 
+            "wiki_title": "Bill Clinton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 233, 
+                    "score": 0.0010781394084915519, 
+                    "spot": "prospective"
+                }
+            ], 
+            "wiki_id": 16107025, 
+            "wiki_title": "Prospective cohort study"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1451, 
+                    "end": 1460, 
+                    "score": 0.09997310489416122, 
+                    "spot": "Coalition"
+                }
+            ], 
+            "wiki_id": 102512, 
+            "wiki_title": "Coalition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 104, 
+                    "end": 108, 
+                    "score": 0.08273495733737946, 
+                    "spot": "pact"
+                }, 
+                {
+                    "begin": 602, 
+                    "end": 606, 
+                    "score": 0.09612522274255753, 
+                    "spot": "pact"
+                }, 
+                {
+                    "begin": 1305, 
+                    "end": 1314, 
+                    "score": 0.11575020104646683, 
+                    "spot": "agreement"
+                }, 
+                {
+                    "begin": 3029, 
+                    "end": 3038, 
+                    "score": 0.20286118984222412, 
+                    "spot": "agreement"
+                }
+            ], 
+            "wiki_id": 30432, 
+            "wiki_title": "Treaty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1349, 
+                    "end": 1353, 
+                    "score": 0.11913090944290161, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1447, 
+                    "end": 1450, 
+                    "score": 0.1142365112900734, 
+                    "spot": "MTN"
+                }
+            ], 
+            "wiki_id": 3765966, 
+            "wiki_title": "Montana Television Network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3124, 
+                    "end": 3126, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 3635710, 
+            "wiki_title": "Polycephaly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1004, 
+                    "end": 1013, 
+                    "score": 0.12296177446842194, 
+                    "spot": "amendment"
+                }
+            ], 
+            "wiki_id": 261586, 
+            "wiki_title": "Constitutional amendment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 701, 
+                    "end": 715, 
+                    "score": 0.0789971649646759, 
+                    "spot": "President\nBush"
+                }
+            ], 
+            "wiki_id": 3414021, 
+            "wiki_title": "George W. Bush"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2245, 
+                    "end": 2255, 
+                    "score": 0.18699510395526886, 
+                    "spot": "resolution"
+                }, 
+                {
+                    "begin": 2943, 
+                    "end": 2953, 
+                    "score": 0.07268587499856949, 
+                    "spot": "resolution"
+                }, 
+                {
+                    "begin": 3069, 
+                    "end": 3079, 
+                    "score": 0.07049314677715302, 
+                    "spot": "resolution"
+                }
+            ], 
+            "wiki_id": 601402, 
+            "wiki_title": "Resolution (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2927, 
+                    "end": 2937, 
+                    "score": 0.063084177672863, 
+                    "spot": "threatened"
+                }
+            ], 
+            "wiki_id": 478706, 
+            "wiki_title": "Threatened species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 668, 
+                    "end": 673, 
+                    "score": 0.09651324152946472, 
+                    "spot": "polls"
+                }
+            ], 
+            "wiki_id": 277315, 
+            "wiki_title": "Opinion poll"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1980, 
+                    "end": 1984, 
+                    "score": 0.0882754772901535, 
+                    "spot": "real"
+                }
+            ], 
+            "wiki_id": 20646438, 
+            "wiki_title": "Real number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2216, 
+                    "end": 2219, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }, 
+                {
+                    "begin": 2532, 
+                    "end": 2535, 
+                    "score": 0.055468443781137466, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 1058750, 
+            "wiki_title": "Now (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2507, 
+                    "end": 2517, 
+                    "score": 0.11195044219493866, 
+                    "spot": "fast-track"
+                }
+            ], 
+            "wiki_id": 7650932, 
+            "wiki_title": "Fast track (trade)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1406, 
+                    "end": 1419, 
+                    "score": 0.46000000834465027, 
+                    "spot": "Harry Freeman"
+                }
+            ], 
+            "wiki_id": 36589127, 
+            "wiki_title": "Harry Freeman (music hall performer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2340, 
+                    "end": 2345, 
+                    "score": 0.0008050532778725028, 
+                    "spot": "warns"
+                }
+            ], 
+            "wiki_id": 2046372, 
+            "wiki_title": "Warini"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1880, 
+                    "end": 1888, 
+                    "score": 0.11698271334171295, 
+                    "spot": "complete"
+                }
+            ], 
+            "wiki_id": 194618, 
+            "wiki_title": "Completeness (statistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 618, 
+                    "end": 622, 
+                    "score": 0.06415805965662003, 
+                    "spot": "jobs"
+                }
+            ], 
+            "wiki_id": 7412236, 
+            "wiki_title": "Steve Jobs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1723, 
+                    "end": 1743, 
+                    "score": 0.027284318581223488, 
+                    "spot": "environmental issues"
+                }, 
+                {
+                    "begin": 2760, 
+                    "end": 2773, 
+                    "score": 0.21973636746406555, 
+                    "spot": "environmental"
+                }, 
+                {
+                    "begin": 2816, 
+                    "end": 2825, 
+                    "score": 0.11222315579652786, 
+                    "spot": "awareness"
+                }
+            ], 
+            "wiki_id": 1866009, 
+            "wiki_title": "Environmentalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1164, 
+                    "end": 1170, 
+                    "score": 0.23209495842456818, 
+                    "spot": "change"
+                }
+            ], 
+            "wiki_id": 13962604, 
+            "wiki_title": "Change (Sugababes song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 895, 
+                    "score": 0.008325117640197277, 
+                    "spot": "pact"
+                }
+            ], 
+            "wiki_id": 2145547, 
+            "wiki_title": "Deal with the Devil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 502, 
+                    "score": 0.7009670734405518, 
+                    "spot": "Ross Perot"
+                }
+            ], 
+            "wiki_id": 43505, 
+            "wiki_title": "Ross Perot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2954, 
+                    "end": 2964, 
+                    "score": 0.10111188888549805, 
+                    "spot": "introduced"
+                }
+            ], 
+            "wiki_id": 394815, 
+            "wiki_title": "Introduced species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2777, 
+                    "end": 2799, 
+                    "score": 0.30873119831085205, 
+                    "spot": "consumer\norganisations"
+                }
+            ], 
+            "wiki_id": 930420, 
+            "wiki_title": "Consumer organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2199, 
+                    "end": 2211, 
+                    "score": 0.0015147915109992027, 
+                    "spot": "in the House"
+                }
+            ], 
+            "wiki_id": 3577274, 
+            "wiki_title": "Legislature broadcasters in New Zealand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2536, 
+                    "end": 2539, 
+                    "score": 0.040138375014066696, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1560, 
+                    "end": 1566, 
+                    "score": 0.01647985354065895, 
+                    "spot": "divert"
+                }
+            ], 
+            "wiki_id": 18547763, 
+            "wiki_title": "Detour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2094, 
+                    "end": 2098, 
+                    "score": 0.0005715259467251599, 
+                    "spot": "kind"
+                }
+            ], 
+            "wiki_id": 3624256, 
+            "wiki_title": "In kind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2114, 
+                    "end": 2125, 
+                    "score": 0.12958453595638275, 
+                    "spot": "environment"
+                }, 
+                {
+                    "begin": 2407, 
+                    "end": 2418, 
+                    "score": 0.14507924020290375, 
+                    "spot": "environment"
+                }
+            ], 
+            "wiki_id": 558685, 
+            "wiki_title": "Natural environment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 11, 
+                    "score": 0.12037573009729385, 
+                    "spot": "weeks"
+                }
+            ], 
+            "wiki_id": 1136343, 
+            "wiki_title": "Sinclair Weeks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1524, 
+                    "end": 1533, 
+                    "score": 0.12050245702266693, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24899, 
+            "wiki_title": "President of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3141, 
+                    "end": 3145, 
+                    "score": 0.07467144727706909, 
+                    "spot": "kiss"
+                }
+            ], 
+            "wiki_id": 50399, 
+            "wiki_title": "Kiss"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1056, 
+                    "end": 1064, 
+                    "score": 0.16020986437797546, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 1923, 
+                    "end": 1936, 
+                    "score": 0.1416129767894745, 
+                    "spot": "Congressional"
+                }, 
+                {
+                    "begin": 2871, 
+                    "end": 2886, 
+                    "score": 0.1327172964811325, 
+                    "spot": "representatives"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 845, 
+                    "end": 867, 
+                    "score": 0.02857142873108387, 
+                    "spot": "business\norganisations"
+                }
+            ], 
+            "wiki_id": 6762, 
+            "wiki_title": "Companies law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 868, 
+                    "end": 878, 
+                    "score": 0.0006406150059774518, 
+                    "spot": "cautiously"
+                }
+            ], 
+            "wiki_id": 654438, 
+            "wiki_title": "Cautiousness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1405, 
+                    "score": 0.08019810914993286, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 706498, 
+            "wiki_title": "Metropolitan Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1235, 
+                    "score": 0.06475427001714706, 
+                    "spot": "issues"
+                }
+            ], 
+            "wiki_id": 18940, 
+            "wiki_title": "Meat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 927, 
+                    "end": 937, 
+                    "score": 0.017200473695993423, 
+                    "spot": "fast-track"
+                }
+            ], 
+            "wiki_id": 47289, 
+            "wiki_title": "FastTrack"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1670, 
+                    "end": 1673, 
+                    "score": 0.1318812370300293, 
+                    "spot": "May"
+                }
+            ], 
+            "wiki_id": 6509655, 
+            "wiki_title": "Andrew J. May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1485, 
+                    "end": 1489, 
+                    "score": 0.09583735466003418, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1615, 
+                    "end": 1619, 
+                    "score": 0.15165339410305023, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 1947, 
+                    "end": 1951, 
+                    "score": 0.03711167722940445, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 489, 
+                    "end": 491, 
+                    "score": 0.12650185823440552, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 464522, 
+            "wiki_title": "Master of Laws"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1770, 
+                    "end": 1780, 
+                    "score": 0.0011045146966353059, 
+                    "spot": "adjustment"
+                }
+            ], 
+            "wiki_id": 2034692, 
+            "wiki_title": "Spinal adjustment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 195, 
+                    "end": 203, 
+                    "score": 0.24301080405712128, 
+                    "spot": "Governor"
+                }
+            ], 
+            "wiki_id": 56231, 
+            "wiki_title": "Governor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1988, 
+                    "end": 1995, 
+                    "score": 0.001254750182852149, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 7177045, 
+            "wiki_title": "Alleged (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1692, 
+                    "end": 1701, 
+                    "score": 0.03976428508758545, 
+                    "spot": "committed"
+                }
+            ], 
+            "wiki_id": 15416, 
+            "wiki_title": "Involuntary commitment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 30, 
+                    "score": 0.0804489403963089, 
+                    "spot": "prospects"
+                }
+            ], 
+            "wiki_id": 614302, 
+            "wiki_title": "Hydrocarbon exploration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2271, 
+                    "end": 2282, 
+                    "score": 0.24204176664352417, 
+                    "spot": "Congressman"
+                }
+            ], 
+            "wiki_id": 223225, 
+            "wiki_title": "Member of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1116, 
+                    "score": 0.0013603941770270467, 
+                    "spot": "defeats"
+                }
+            ], 
+            "wiki_id": 27670450, 
+            "wiki_title": "M\u00e1rquez\u2013V\u00e1zquez rivalry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 39, 
+                    "end": 74, 
+                    "score": 0.5, 
+                    "spot": "North American free trade agreement"
+                }, 
+                {
+                    "begin": 596, 
+                    "end": 601, 
+                    "score": 0.27094417810440063, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 730, 
+                    "end": 735, 
+                    "score": 0.35180872678756714, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 811, 
+                    "end": 816, 
+                    "score": 0.23860222101211548, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 1038, 
+                    "end": 1043, 
+                    "score": 0.24177345633506775, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 1494, 
+                    "end": 1499, 
+                    "score": 0.27770739793777466, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 1849, 
+                    "end": 1854, 
+                    "score": 0.23197083175182343, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2102, 
+                    "end": 2107, 
+                    "score": 0.18668772280216217, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2164, 
+                    "end": 2169, 
+                    "score": 0.19026872515678406, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2375, 
+                    "end": 2380, 
+                    "score": 0.2359924614429474, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2615, 
+                    "end": 2620, 
+                    "score": 0.2617505192756653, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2918, 
+                    "end": 2923, 
+                    "score": 0.2455292046070099, 
+                    "spot": "Nafta"
+                }
+            ], 
+            "wiki_id": 22050, 
+            "wiki_title": "North American Free Trade Agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3152, 
+                    "end": 3159, 
+                    "score": 0.012903434224426746, 
+                    "spot": "goodbye"
+                }
+            ], 
+            "wiki_id": 1601451, 
+            "wiki_title": "Goodbye (Spice Girls song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3104, 
+                    "end": 3112, 
+                    "score": 0.15571993589401245, 
+                    "spot": "business"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2078, 
+                    "end": 2082, 
+                    "score": 0.14190198481082916, 
+                    "spot": "pact"
+                }
+            ], 
+            "wiki_id": 36132020, 
+            "wiki_title": "The Pact (2012 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1505, 
+                    "end": 1511, 
+                    "score": 0.13908477127552032, 
+                    "spot": "weapon"
+                }
+            ], 
+            "wiki_id": 21785, 
+            "wiki_title": "Nuclear weapon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 455, 
+                    "end": 460, 
+                    "score": 0.11720713973045349, 
+                    "spot": "polls"
+                }
+            ], 
+            "wiki_id": 763947, 
+            "wiki_title": "Polling place"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1625, 
+                    "end": 1631, 
+                    "score": 0.13881796598434448, 
+                    "spot": "letter"
+                }
+            ], 
+            "wiki_id": 17845, 
+            "wiki_title": "Letter (message)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 136, 
+                    "end": 142, 
+                    "score": 0.29779061675071716, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 626, 
+                    "end": 632, 
+                    "score": 0.2676955759525299, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1575, 
+                    "end": 1581, 
+                    "score": 0.2222135215997696, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 572, 
+                    "end": 576, 
+                    "score": 0.13372665643692017, 
+                    "spot": "jobs"
+                }, 
+                {
+                    "begin": 828, 
+                    "end": 832, 
+                    "score": 0.16707269847393036, 
+                    "spot": "jobs"
+                }, 
+                {
+                    "begin": 1567, 
+                    "end": 1571, 
+                    "score": 0.015725063160061836, 
+                    "spot": "jobs"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1889, 
+                    "end": 1896, 
+                    "score": 0.11959589272737503, 
+                    "spot": "package"
+                }
+            ], 
+            "wiki_id": 376707, 
+            "wiki_title": "R (programming language)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 613, 
+                    "end": 617, 
+                    "score": 0.0005959101836197078, 
+                    "spot": "send"
+                }, 
+                {
+                    "begin": 1873, 
+                    "end": 1877, 
+                    "score": 0.0005959101836197078, 
+                    "spot": "send"
+                }
+            ], 
+            "wiki_id": 658482, 
+            "wiki_title": "Send, Surrey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2316, 
+                    "end": 2332, 
+                    "score": 0.474683552980423, 
+                    "spot": "Richard Gephardt"
+                }
+            ], 
+            "wiki_id": 165912, 
+            "wiki_title": "Dick Gephardt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 823, 
+                    "end": 827, 
+                    "score": 0.14333562552928925, 
+                    "spot": "cost"
+                }, 
+                {
+                    "begin": 2833, 
+                    "end": 2838, 
+                    "score": 0.0008519482216797769, 
+                    "spot": "costs"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1100, 
+                    "end": 1108, 
+                    "score": 0.08116163313388824, 
+                    "spot": "election"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1327, 
+                    "end": 1338, 
+                    "score": 0.11360684037208557, 
+                    "spot": "politically"
+                }, 
+                {
+                    "begin": 1355, 
+                    "end": 1366, 
+                    "score": 0.1871265321969986, 
+                    "spot": "Politically"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2211, 
+                    "score": 0.00605366937816143, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 1259118, 
+            "wiki_title": "In the House (TV series)"
+        }
+    ]
+}

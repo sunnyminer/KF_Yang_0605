@@ -1,0 +1,4156 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1234, 
+                    "end": 1243, 
+                    "score": 0.7108697295188904, 
+                    "spot": "Monterrey"
+                }, 
+                {
+                    "begin": 1234, 
+                    "end": 1251, 
+                    "score": 0.37733757495880127, 
+                    "spot": "Monterrey, Mexico"
+                }
+            ], 
+            "wiki_id": 40455, 
+            "wiki_title": "Monterrey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3413, 
+                    "end": 3423, 
+                    "score": 0.09203268587589264, 
+                    "spot": "creativity"
+                }
+            ], 
+            "wiki_id": 24269, 
+            "wiki_title": "Process philosophy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 768, 
+                    "end": 777, 
+                    "score": 0.2845236361026764, 
+                    "spot": "communism"
+                }
+            ], 
+            "wiki_id": 9209651, 
+            "wiki_title": "Communism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4326, 
+                    "end": 4332, 
+                    "score": 0.08778249472379684, 
+                    "spot": "rising"
+                }
+            ], 
+            "wiki_id": 10350, 
+            "wiki_title": "Easter Rising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5296, 
+                    "end": 5307, 
+                    "score": 0.32608696818351746, 
+                    "spot": "TechnoServe"
+                }
+            ], 
+            "wiki_id": 23492805, 
+            "wiki_title": "TechnoServe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4856, 
+                    "end": 4881, 
+                    "score": 0.2916666567325592, 
+                    "spot": "Christian Children's Fund"
+                }
+            ], 
+            "wiki_id": 698470, 
+            "wiki_title": "ChildFund"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2815, 
+                    "end": 2822, 
+                    "score": 0.0008983399020507932, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3127, 
+                    "end": 3134, 
+                    "score": 0.18414530158042908, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3614, 
+                    "end": 3621, 
+                    "score": 0.04717078432440758, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 4360, 
+                    "end": 4367, 
+                    "score": 0.12281686812639236, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 5844, 
+                    "end": 5851, 
+                    "score": 0.061982400715351105, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5805, 
+                    "end": 5821, 
+                    "score": 0.0006402048747986555, 
+                    "spot": "other activities"
+                }
+            ], 
+            "wiki_id": 841917, 
+            "wiki_title": "Perverted-Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5755, 
+                    "end": 5761, 
+                    "score": 0.0788763016462326, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 377116, 
+            "wiki_title": "Budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1305, 
+                    "end": 1314, 
+                    "score": 0.11223503947257996, 
+                    "spot": "figurines"
+                }
+            ], 
+            "wiki_id": 337038, 
+            "wiki_title": "Figurine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 580, 
+                    "end": 584, 
+                    "score": 0.26536092162132263, 
+                    "spot": "good"
+                }
+            ], 
+            "wiki_id": 580039, 
+            "wiki_title": "Good (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3467, 
+                    "end": 3474, 
+                    "score": 0.07572905719280243, 
+                    "spot": "waiting"
+                }
+            ], 
+            "wiki_id": 14389150, 
+            "wiki_title": "The Waiting (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1843, 
+                    "end": 1849, 
+                    "score": 0.11246508359909058, 
+                    "spot": "branch"
+                }
+            ], 
+            "wiki_id": 40814, 
+            "wiki_title": "Branch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4024, 
+                    "end": 4029, 
+                    "score": 0.00849256943911314, 
+                    "spot": "Betsy"
+                }
+            ], 
+            "wiki_id": 4418263, 
+            "wiki_title": "The Betsy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2256, 
+                    "end": 2271, 
+                    "score": 0.07894736528396606, 
+                    "spot": "lines of credit"
+                }
+            ], 
+            "wiki_id": 4611307, 
+            "wiki_title": "Line of credit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1187, 
+                    "end": 1192, 
+                    "score": 0.11233610659837723, 
+                    "spot": "Aaron"
+                }
+            ], 
+            "wiki_id": 576712, 
+            "wiki_title": "Aaron Boone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5410, 
+                    "end": 5417, 
+                    "score": 0.16945789754390717, 
+                    "spot": "passing"
+                }, 
+                {
+                    "begin": 5410, 
+                    "end": 5420, 
+                    "score": 0.16826820373535156, 
+                    "spot": "passing on"
+                }
+            ], 
+            "wiki_id": 27910683, 
+            "wiki_title": "Passing On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1691, 
+                    "end": 1694, 
+                    "score": 0.17329095304012299, 
+                    "spot": "ate"
+                }
+            ], 
+            "wiki_id": 5658, 
+            "wiki_title": "Cannibalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1253, 
+                    "end": 1256, 
+                    "score": 0.11870934069156647, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1778, 
+                    "end": 1783, 
+                    "score": 0.05892563611268997, 
+                    "spot": "women"
+                }
+            ], 
+            "wiki_id": 33183, 
+            "wiki_title": "Woman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 31, 
+                    "score": 0.07628081738948822, 
+                    "spot": "businesses"
+                }, 
+                {
+                    "begin": 351, 
+                    "end": 361, 
+                    "score": 0.08481881767511368, 
+                    "spot": "businesses"
+                }, 
+                {
+                    "begin": 860, 
+                    "end": 870, 
+                    "score": 0.039914023131132126, 
+                    "spot": "businesses"
+                }, 
+                {
+                    "begin": 1421, 
+                    "end": 1429, 
+                    "score": 0.23527482151985168, 
+                    "spot": "business"
+                }, 
+                {
+                    "begin": 1666, 
+                    "end": 1674, 
+                    "score": 0.040274932980537415, 
+                    "spot": "business"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 624, 
+                    "end": 627, 
+                    "score": 0.16585063934326172, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 779, 
+                    "end": 782, 
+                    "score": 0.07468851655721664, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 1750, 
+                    "end": 1753, 
+                    "score": 0.06862412393093109, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 2728, 
+                    "end": 2731, 
+                    "score": 0.08170177787542343, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 4811, 
+                    "end": 4814, 
+                    "score": 0.12088165432214737, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 4974, 
+                    "end": 4977, 
+                    "score": 0.1417824625968933, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5567, 
+                    "end": 5575, 
+                    "score": 0.06417564302682877, 
+                    "spot": "overseas"
+                }
+            ], 
+            "wiki_id": 11418, 
+            "wiki_title": "Fiorello H. La Guardia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 262, 
+                    "score": 0.3172140121459961, 
+                    "spot": "rate"
+                }, 
+                {
+                    "begin": 609, 
+                    "end": 613, 
+                    "score": 0.21328367292881012, 
+                    "spot": "rate"
+                }, 
+                {
+                    "begin": 3188, 
+                    "end": 3192, 
+                    "score": 0.07685448974370956, 
+                    "spot": "rate"
+                }
+            ], 
+            "wiki_id": 163115, 
+            "wiki_title": "Interest rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3210, 
+                    "end": 3218, 
+                    "score": 0.08544794470071793, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 72855, 
+            "wiki_title": "New York Knicks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5196, 
+                    "end": 5201, 
+                    "score": 0.06718308478593826, 
+                    "spot": "field"
+                }
+            ], 
+            "wiki_id": 14924067, 
+            "wiki_title": "Discipline (academia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 242, 
+                    "end": 257, 
+                    "score": 0.4757179021835327, 
+                    "spot": "commercial loan"
+                }, 
+                {
+                    "begin": 938, 
+                    "end": 945, 
+                    "score": 0.00413823127746582, 
+                    "spot": "lending"
+                }, 
+                {
+                    "begin": 1399, 
+                    "end": 1404, 
+                    "score": 0.1311069279909134, 
+                    "spot": "loans"
+                }, 
+                {
+                    "begin": 2458, 
+                    "end": 2465, 
+                    "score": 0.27261680364608765, 
+                    "spot": "lending"
+                }, 
+                {
+                    "begin": 2604, 
+                    "end": 2609, 
+                    "score": 0.19913944602012634, 
+                    "spot": "loans"
+                }, 
+                {
+                    "begin": 2990, 
+                    "end": 2994, 
+                    "score": 0.13636772334575653, 
+                    "spot": "loan"
+                }, 
+                {
+                    "begin": 3092, 
+                    "end": 3099, 
+                    "score": 0.12667299807071686, 
+                    "spot": "lending"
+                }, 
+                {
+                    "begin": 3571, 
+                    "end": 3576, 
+                    "score": 0.1778094321489334, 
+                    "spot": "loans"
+                }, 
+                {
+                    "begin": 3731, 
+                    "end": 3736, 
+                    "score": 0.1454332023859024, 
+                    "spot": "loans"
+                }, 
+                {
+                    "begin": 5640, 
+                    "end": 5647, 
+                    "score": 0.11332728713750839, 
+                    "spot": "lending"
+                }
+            ], 
+            "wiki_id": 208852, 
+            "wiki_title": "Loan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1726, 
+                    "end": 1730, 
+                    "score": 0.4027426242828369, 
+                    "spot": "Leet"
+                }, 
+                {
+                    "begin": 1917, 
+                    "end": 1921, 
+                    "score": 0.38856440782546997, 
+                    "spot": "Leet"
+                }, 
+                {
+                    "begin": 3869, 
+                    "end": 3873, 
+                    "score": 0.4209912419319153, 
+                    "spot": "Leet"
+                }
+            ], 
+            "wiki_id": 9092490, 
+            "wiki_title": "Mildred Robbins Leet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1732, 
+                    "end": 1742, 
+                    "score": 0.11199917644262314, 
+                    "spot": "co-founder"
+                }, 
+                {
+                    "begin": 1989, 
+                    "end": 2002, 
+                    "score": 0.18048031628131866, 
+                    "spot": "entrepreneurs"
+                }, 
+                {
+                    "begin": 2175, 
+                    "end": 2182, 
+                    "score": 0.06705916672945023, 
+                    "spot": "founder"
+                }, 
+                {
+                    "begin": 3442, 
+                    "end": 3455, 
+                    "score": 0.401599258184433, 
+                    "spot": "bootstrapping"
+                }
+            ], 
+            "wiki_id": 18950003, 
+            "wiki_title": "Entrepreneurship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 9, 
+                    "end": 20, 
+                    "score": 0.27823886275291443, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 899, 
+                    "end": 915, 
+                    "score": 0.14955607056617737, 
+                    "spot": "developing world"
+                }, 
+                {
+                    "begin": 1936, 
+                    "end": 1947, 
+                    "score": 0.2539330720901489, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 4555, 
+                    "end": 4566, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }
+            ], 
+            "wiki_id": 30305, 
+            "wiki_title": "Third World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4082, 
+                    "end": 4086, 
+                    "score": 0.05411396920681, 
+                    "spot": "Conn"
+                }, 
+                {
+                    "begin": 5320, 
+                    "end": 5324, 
+                    "score": 0.13883833587169647, 
+                    "spot": "Conn"
+                }
+            ], 
+            "wiki_id": 6466, 
+            "wiki_title": "Connecticut"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1621, 
+                    "end": 1627, 
+                    "score": 0.004213638603687286, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 7582579, 
+            "wiki_title": "Agency (country subdivision)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1320, 
+                    "end": 1328, 
+                    "score": 0.0005706262309104204, 
+                    "spot": "his wife"
+                }
+            ], 
+            "wiki_id": 30530216, 
+            "wiki_title": "Lot's wife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3382, 
+                    "end": 3391, 
+                    "score": 0.21814092993736267, 
+                    "spot": "portfolio"
+                }
+            ], 
+            "wiki_id": 1436843, 
+            "wiki_title": "Portfolio (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4217, 
+                    "end": 4220, 
+                    "score": 0.08220670372247696, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 1795679, 
+            "wiki_title": "ONE Campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2903, 
+                    "end": 2906, 
+                    "score": 0.17459727823734283, 
+                    "spot": "add"
+                }
+            ], 
+            "wiki_id": 23659, 
+            "wiki_title": "Plug-in (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2982, 
+                    "end": 2989, 
+                    "score": 0.053691089153289795, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 33274, 
+            "wiki_title": "Weighted arithmetic mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 280, 
+                    "end": 286, 
+                    "score": 0.14641180634498596, 
+                    "spot": "borrow"
+                }
+            ], 
+            "wiki_id": 152835, 
+            "wiki_title": "Debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4246, 
+                    "end": 4259, 
+                    "score": 0.00663129985332489, 
+                    "spot": "profit-making"
+                }
+            ], 
+            "wiki_id": 3195510, 
+            "wiki_title": "For-profit education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 735, 
+                    "end": 738, 
+                    "score": 0.0662158876657486, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 417, 
+                    "end": 426, 
+                    "score": 0.1079181656241417, 
+                    "spot": "furniture"
+                }
+            ], 
+            "wiki_id": 48597, 
+            "wiki_title": "Furniture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3903, 
+                    "end": 3914, 
+                    "score": 0.051460616290569305, 
+                    "spot": "her husband"
+                }
+            ], 
+            "wiki_id": 3356, 
+            "wiki_title": "Bill Clinton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5346, 
+                    "end": 5350, 
+                    "score": 0.0008196207927539945, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 2583747, 
+            "wiki_title": "Work of art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2494, 
+                    "end": 2500, 
+                    "score": 0.10971123725175858, 
+                    "spot": "Credit"
+                }, 
+                {
+                    "begin": 2576, 
+                    "end": 2590, 
+                    "score": 0.2594408094882965, 
+                    "spot": "consumer loans"
+                }
+            ], 
+            "wiki_id": 1698417, 
+            "wiki_title": "Credit (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5473, 
+                    "end": 5514, 
+                    "score": 0.4363921582698822, 
+                    "spot": "U.S. Agency for International\nDevelopment"
+                }
+            ], 
+            "wiki_id": 140416, 
+            "wiki_title": "United States Agency for International Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1628, 
+                    "end": 1638, 
+                    "score": 0.25, 
+                    "spot": "Trickle Up"
+                }, 
+                {
+                    "begin": 3529, 
+                    "end": 3539, 
+                    "score": 0.5606427192687988, 
+                    "spot": "Trickle Up"
+                }, 
+                {
+                    "begin": 3709, 
+                    "end": 3719, 
+                    "score": 0.25, 
+                    "spot": "Trickle Up"
+                }, 
+                {
+                    "begin": 3887, 
+                    "end": 3897, 
+                    "score": 0.25, 
+                    "spot": "Trickle Up"
+                }
+            ], 
+            "wiki_id": 16955174, 
+            "wiki_title": "Trickle Up"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1324, 
+                    "end": 1328, 
+                    "score": 0.0008008746663108468, 
+                    "spot": "wife"
+                }
+            ], 
+            "wiki_id": 345728, 
+            "wiki_title": "Mary Todd Lincoln"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4272, 
+                    "end": 4280, 
+                    "score": 0.0016435986617580056, 
+                    "spot": "She says"
+                }, 
+                {
+                    "begin": 4442, 
+                    "end": 4450, 
+                    "score": 0.0016435986617580056, 
+                    "spot": "she says"
+                }, 
+                {
+                    "begin": 4537, 
+                    "end": 4545, 
+                    "score": 0.0016435986617580056, 
+                    "spot": "she\nsays"
+                }
+            ], 
+            "wiki_id": 12812117, 
+            "wiki_title": "She Says (Howie Day song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3864, 
+                    "end": 3867, 
+                    "score": 0.0009326880681328475, 
+                    "spot": "Mrs"
+                }
+            ], 
+            "wiki_id": 558140, 
+            "wiki_title": "Mrs."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3810, 
+                    "end": 3828, 
+                    "score": 0.04016393423080444, 
+                    "spot": "private enterprise"
+                }
+            ], 
+            "wiki_id": 5416, 
+            "wiki_title": "Capitalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 166, 
+                    "end": 174, 
+                    "score": 0.012741471640765667, 
+                    "spot": "clutches"
+                }
+            ], 
+            "wiki_id": 3474432, 
+            "wiki_title": "Clutch (eggs)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5522, 
+                    "end": 5530, 
+                    "score": 0.048591695725917816, 
+                    "spot": "finances"
+                }
+            ], 
+            "wiki_id": 11162, 
+            "wiki_title": "Finance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2440, 
+                    "end": 2444, 
+                    "score": 0.16502876579761505, 
+                    "spot": "true"
+                }
+            ], 
+            "wiki_id": 29920, 
+            "wiki_title": "Truth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2096, 
+                    "end": 2101, 
+                    "score": 0.04395793378353119, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 430699, 
+            "wiki_title": "START I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 100, 
+                    "end": 108, 
+                    "score": 0.1755933165550232, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 42162, 
+            "wiki_title": "Security (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2559, 
+                    "end": 2574, 
+                    "score": 0.39626550674438477, 
+                    "spot": "trade\nfinancing"
+                }
+            ], 
+            "wiki_id": 19634656, 
+            "wiki_title": "Trade finance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3057, 
+                    "end": 3070, 
+                    "score": 0.3440983295440674, 
+                    "spot": "Latin\nAmerica"
+                }
+            ], 
+            "wiki_id": 18524, 
+            "wiki_title": "Latin America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1068, 
+                    "end": 1076, 
+                    "score": 0.019770191982388496, 
+                    "spot": "Gabriela"
+                }
+            ], 
+            "wiki_id": 380491, 
+            "wiki_title": "GABRIELA Women's Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2377, 
+                    "end": 2379, 
+                    "score": 0.0798843652009964, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 3802, 
+                    "end": 3804, 
+                    "score": 0.04619526118040085, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5177, 
+                    "end": 5180, 
+                    "score": 0.1322641372680664, 
+                    "spot": "Nor"
+                }
+            ], 
+            "wiki_id": 21704, 
+            "wiki_title": "Norwegian language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1205, 
+                    "end": 1215, 
+                    "score": 0.1911962926387787, 
+                    "spot": "unemployed"
+                }
+            ], 
+            "wiki_id": 31741, 
+            "wiki_title": "Unemployment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5537, 
+                    "end": 5542, 
+                    "score": 0.0035906643606722355, 
+                    "spot": "chunk"
+                }
+            ], 
+            "wiki_id": 15447845, 
+            "wiki_title": "Chunk (information)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 885, 
+                    "end": 891, 
+                    "score": 0.2685135006904602, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 69415, 
+            "wiki_title": "Economic growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5692, 
+                    "end": 5699, 
+                    "score": 0.12368546426296234, 
+                    "spot": "minimum"
+                }
+            ], 
+            "wiki_id": 18862, 
+            "wiki_title": "Minimum wage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1505, 
+                    "end": 1513, 
+                    "score": 0.009757383726537228, 
+                    "spot": "setbacks"
+                }
+            ], 
+            "wiki_id": 2667192, 
+            "wiki_title": "Setback (architecture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 144, 
+                    "end": 151, 
+                    "score": 0.0018784153508022428, 
+                    "spot": "rescues"
+                }
+            ], 
+            "wiki_id": 28347858, 
+            "wiki_title": "The Rescues"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1161, 
+                    "end": 1168, 
+                    "score": 0.13073702156543732, 
+                    "spot": "Romanow"
+                }, 
+                {
+                    "begin": 3020, 
+                    "end": 3027, 
+                    "score": 0.13073702156543732, 
+                    "spot": "Romanow"
+                }
+            ], 
+            "wiki_id": 240348, 
+            "wiki_title": "Roy Romanow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 312, 
+                    "end": 317, 
+                    "score": 0.0062559908255934715, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 3287555, 
+            "wiki_title": "Money (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1379, 
+                    "end": 1382, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }, 
+                {
+                    "begin": 1850, 
+                    "end": 1853, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 653, 
+                    "end": 663, 
+                    "score": 0.039912961423397064, 
+                    "spot": "guaranteed"
+                }
+            ], 
+            "wiki_id": 1182343, 
+            "wiki_title": "Surety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1169, 
+                    "end": 1174, 
+                    "score": 0.02670206129550934, 
+                    "spot": "cites"
+                }
+            ], 
+            "wiki_id": 6201, 
+            "wiki_title": "CITES"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4718, 
+                    "end": 4724, 
+                    "score": 0.05124826729297638, 
+                    "spot": "set up"
+                }
+            ], 
+            "wiki_id": 1570532, 
+            "wiki_title": "The Set-Up (1949 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4630, 
+                    "end": 4637, 
+                    "score": 0.180282860994339, 
+                    "spot": "Grameen"
+                }
+            ], 
+            "wiki_id": 545529, 
+            "wiki_title": "Grameen Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5382, 
+                    "end": 5385, 
+                    "score": 0.010517369955778122, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 2029109, 
+            "wiki_title": "Boss (crime)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4652, 
+                    "end": 4662, 
+                    "score": 0.460779070854187, 
+                    "spot": "Bangladesh"
+                }
+            ], 
+            "wiki_id": 3454, 
+            "wiki_title": "Bangladesh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3836, 
+                    "end": 3839, 
+                    "score": 0.14982397854328156, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 28530363, 
+            "wiki_title": "The Way (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3603, 
+                    "end": 3607, 
+                    "score": 0.01914932020008564, 
+                    "spot": "rose"
+                }
+            ], 
+            "wiki_id": 26537, 
+            "wiki_title": "Rose"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5251, 
+                    "end": 5264, 
+                    "score": 0.1037415936589241, 
+                    "spot": "controversies"
+                }
+            ], 
+            "wiki_id": 30796487, 
+            "wiki_title": "Broadband Commission for Digital Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1470, 
+                    "end": 1479, 
+                    "score": 0.19794780015945435, 
+                    "spot": "borrowers"
+                }
+            ], 
+            "wiki_id": 934442, 
+            "wiki_title": "Debtor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1077, 
+                    "end": 1084, 
+                    "score": 0.08666666597127914, 
+                    "spot": "Romanow"
+                }
+            ], 
+            "wiki_id": 21002218, 
+            "wiki_title": "Roman\u00f3w, Greater Poland Voivodeship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2942, 
+                    "end": 2951, 
+                    "score": 0.062200259417295456, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 496, 
+                    "end": 507, 
+                    "score": 0.06279808282852173, 
+                    "spot": "performance"
+                }
+            ], 
+            "wiki_id": 224515, 
+            "wiki_title": "Performance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4910, 
+                    "end": 4916, 
+                    "score": 0.018777716904878616, 
+                    "spot": "relief"
+                }
+            ], 
+            "wiki_id": 434679, 
+            "wiki_title": "Humanitarian aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4371, 
+                    "end": 4382, 
+                    "score": 0.06734222918748856, 
+                    "spot": "circulation"
+                }
+            ], 
+            "wiki_id": 57330, 
+            "wiki_title": "Circulatory system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1718, 
+                    "end": 1725, 
+                    "score": 0.006155303213745356, 
+                    "spot": "Mildred"
+                }
+            ], 
+            "wiki_id": 9225247, 
+            "wiki_title": "Mildrith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 241, 
+                    "score": 0.0886693149805069, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 52786, 
+            "wiki_title": "Local government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 66, 
+                    "end": 76, 
+                    "score": 0.01756097562611103, 
+                    "spot": "faithfully"
+                }
+            ], 
+            "wiki_id": 12500589, 
+            "wiki_title": "Faithfully (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5700, 
+                    "end": 5706, 
+                    "score": 0.027989476919174194, 
+                    "spot": "levels"
+                }
+            ], 
+            "wiki_id": 10254514, 
+            "wiki_title": "A-level"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 178, 
+                    "end": 189, 
+                    "score": 0.3354611396789551, 
+                    "spot": "loan sharks"
+                }
+            ], 
+            "wiki_id": 801547, 
+            "wiki_title": "Loan shark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2527, 
+                    "end": 2535, 
+                    "score": 0.027131782844662666, 
+                    "spot": "s number"
+                }
+            ], 
+            "wiki_id": 21097160, 
+            "wiki_title": "S number (wool)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 270, 
+                    "end": 274, 
+                    "score": 0.18337690830230713, 
+                    "spot": "lets"
+                }
+            ], 
+            "wiki_id": 78540, 
+            "wiki_title": "Local exchange trading system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2918, 
+                    "end": 2925, 
+                    "score": 0.11730675399303436, 
+                    "spot": "clients"
+                }
+            ], 
+            "wiki_id": 667970, 
+            "wiki_title": "Client (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4638, 
+                    "end": 4648, 
+                    "score": 0.011560693383216858, 
+                    "spot": "Rural Bank"
+                }
+            ], 
+            "wiki_id": 4236464, 
+            "wiki_title": "State Bank of New South Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4885, 
+                    "end": 4893, 
+                    "score": 0.4479999542236328, 
+                    "spot": "Richmond"
+                }, 
+                {
+                    "begin": 4885, 
+                    "end": 4897, 
+                    "score": 0.3989657759666443, 
+                    "spot": "Richmond, Va"
+                }
+            ], 
+            "wiki_id": 53274, 
+            "wiki_title": "Richmond, Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2360, 
+                    "end": 2362, 
+                    "score": 0.06615354120731354, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 280679, 
+            "wiki_title": "McCune\u2013Reischauer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4459, 
+                    "end": 4465, 
+                    "score": 0.10735196620225906, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 214, 
+                    "end": 220, 
+                    "score": 0.04126155748963356, 
+                    "spot": "charge"
+                }
+            ], 
+            "wiki_id": 18963787, 
+            "wiki_title": "Ion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1872, 
+                    "end": 1881, 
+                    "score": 0.030575625598430634, 
+                    "spot": "tailoring"
+                }
+            ], 
+            "wiki_id": 586540, 
+            "wiki_title": "Tailor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2057, 
+                    "end": 2068, 
+                    "score": 0.02556818164885044, 
+                    "spot": "Credit Bank"
+                }
+            ], 
+            "wiki_id": 29297915, 
+            "wiki_title": "Credit Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2654, 
+                    "end": 2658, 
+                    "score": 0.10430407524108887, 
+                    "spot": "Mass"
+                }
+            ], 
+            "wiki_id": 1645518, 
+            "wiki_title": "Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1684, 
+                    "end": 1690, 
+                    "score": 0.30384552478790283, 
+                    "spot": "rabbit"
+                }
+            ], 
+            "wiki_id": 26573, 
+            "wiki_title": "Rabbit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4512, 
+                    "end": 4515, 
+                    "score": 0.01773049682378769, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2247, 
+                    "end": 2255, 
+                    "score": 0.002751854481175542, 
+                    "spot": "rotating"
+                }
+            ], 
+            "wiki_id": 39789, 
+            "wiki_title": "Rotation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 757, 
+                    "end": 777, 
+                    "score": 0.2871866226196289, 
+                    "spot": "decline of communism"
+                }
+            ], 
+            "wiki_id": 4584893, 
+            "wiki_title": "Revolutions of 1989"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1763, 
+                    "end": 1772, 
+                    "score": 0.004101722501218319, 
+                    "spot": "Undaunted"
+                }
+            ], 
+            "wiki_id": 11868080, 
+            "wiki_title": "HMS Undaunted (1886)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 796, 
+                    "end": 802, 
+                    "score": 0.1799645572900772, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 157894, 
+            "wiki_title": "Group dynamics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1436, 
+                    "end": 1445, 
+                    "score": 0.1888812631368637, 
+                    "spot": "full-time"
+                }
+            ], 
+            "wiki_id": 1798797, 
+            "wiki_title": "Full-time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2615, 
+                    "end": 2623, 
+                    "score": 0.051528044044971466, 
+                    "spot": "official"
+                }, 
+                {
+                    "begin": 5282, 
+                    "end": 5290, 
+                    "score": 0.0008278145687654614, 
+                    "spot": "official"
+                }, 
+                {
+                    "begin": 5456, 
+                    "end": 5465, 
+                    "score": 0.08453712612390518, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1056, 
+                    "end": 1067, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 842, 
+                    "end": 851, 
+                    "score": 0.2571336627006531, 
+                    "spot": "economics"
+                }
+            ], 
+            "wiki_id": 9223, 
+            "wiki_title": "Economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3509, 
+                    "end": 3516, 
+                    "score": 0.08563721925020218, 
+                    "spot": "Frankel"
+                }
+            ], 
+            "wiki_id": 4953116, 
+            "wiki_title": "David Frankel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3778, 
+                    "end": 3784, 
+                    "score": 0.0014616457046940923, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 199556, 
+            "wiki_title": "Taxon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1035, 
+                    "end": 1055, 
+                    "score": 0.5, 
+                    "spot": "Accion International"
+                }, 
+                {
+                    "begin": 2021, 
+                    "end": 2027, 
+                    "score": 0.017241379246115685, 
+                    "spot": "Accion"
+                }, 
+                {
+                    "begin": 2330, 
+                    "end": 2336, 
+                    "score": 0.017241379246115685, 
+                    "spot": "Accion"
+                }, 
+                {
+                    "begin": 2633, 
+                    "end": 2639, 
+                    "score": 0.017241379246115685, 
+                    "spot": "Accion"
+                }, 
+                {
+                    "begin": 3007, 
+                    "end": 3013, 
+                    "score": 0.1007041335105896, 
+                    "spot": "Accion"
+                }
+            ], 
+            "wiki_id": 928284, 
+            "wiki_title": "ACCION International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 921, 
+                    "end": 937, 
+                    "score": 0.19325153529644012, 
+                    "spot": "Micro-enterprise"
+                }, 
+                {
+                    "begin": 5738, 
+                    "end": 5754, 
+                    "score": 0.19325153529644012, 
+                    "spot": "micro-enterprise"
+                }
+            ], 
+            "wiki_id": 3667854, 
+            "wiki_title": "Micro-enterprise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5266, 
+                    "end": 5277, 
+                    "score": 0.1111111119389534, 
+                    "spot": "David Munro"
+                }
+            ], 
+            "wiki_id": 33581886, 
+            "wiki_title": "David Munro (documentary filmmaker)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3805, 
+                    "end": 3809, 
+                    "score": 0.04692325368523598, 
+                    "spot": "feel"
+                }
+            ], 
+            "wiki_id": 6971023, 
+            "wiki_title": "Feel (company)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2540, 
+                    "end": 2548, 
+                    "score": 0.0008789578569121659, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 197767, 
+            "wiki_title": "Radioactive decay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4949, 
+                    "end": 4961, 
+                    "score": 0.0793057382106781, 
+                    "spot": "sponsorships"
+                }
+            ], 
+            "wiki_id": 545607, 
+            "wiki_title": "Sponsor (commercial)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4072, 
+                    "end": 4080, 
+                    "score": 0.09671201556921005, 
+                    "spot": "Westport"
+                }
+            ], 
+            "wiki_id": 23174460, 
+            "wiki_title": "Westport, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1278, 
+                    "end": 1282, 
+                    "score": 0.29213017225265503, 
+                    "spot": "clay"
+                }
+            ], 
+            "wiki_id": 36980, 
+            "wiki_title": "Clay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3142, 
+                    "end": 3149, 
+                    "score": 0.26554515957832336, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1755, 
+                    "end": 1761, 
+                    "score": 0.0749586969614029, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 716672, 
+            "wiki_title": "Agency (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1835, 
+                    "end": 1839, 
+                    "score": 0.1474076509475708, 
+                    "spot": "eggs"
+                }
+            ], 
+            "wiki_id": 484939, 
+            "wiki_title": "Egg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1179, 
+                    "end": 1183, 
+                    "score": 0.00254480866715312, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3702, 
+                    "end": 3707, 
+                    "score": 0.001023777644149959, 
+                    "spot": "1980s"
+                }
+            ], 
+            "wiki_id": 19753121, 
+            "wiki_title": "1980s in music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4979, 
+                    "end": 4984, 
+                    "score": 0.12696009874343872, 
+                    "spot": "donor"
+                }
+            ], 
+            "wiki_id": 367725, 
+            "wiki_title": "Donation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3744, 
+                    "end": 3756, 
+                    "score": 0.1414235234260559, 
+                    "spot": "installments"
+                }
+            ], 
+            "wiki_id": 690485, 
+            "wiki_title": "Hire purchase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 8, 
+                    "score": 0.001457187463529408, 
+                    "spot": "Tiny"
+                }, 
+                {
+                    "begin": 855, 
+                    "end": 859, 
+                    "score": 0.001457187463529408, 
+                    "spot": "tiny"
+                }
+            ], 
+            "wiki_id": 1140581, 
+            "wiki_title": "Tiny, Ontario"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 876, 
+                    "end": 879, 
+                    "score": 0.09476128220558167, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 507190, 
+            "wiki_title": "Tin can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1710, 
+                    "end": 1717, 
+                    "score": 0.0008890968747437, 
+                    "spot": "recalls"
+                }
+            ], 
+            "wiki_id": 892586, 
+            "wiki_title": "Product recall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5597, 
+                    "end": 5604, 
+                    "score": 0.0746108889579773, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 2726726, 
+            "wiki_title": "Military logistics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2297, 
+                    "end": 2301, 
+                    "score": 0.0011067020241171122, 
+                    "spot": "rate"
+                }
+            ], 
+            "wiki_id": 332372, 
+            "wiki_title": "Rate (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1821, 
+                    "end": 1826, 
+                    "score": 0.08862511813640594, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3402, 
+                    "end": 3408, 
+                    "score": 0.17036066949367523, 
+                    "spot": "energy"
+                }
+            ], 
+            "wiki_id": 9649, 
+            "wiki_title": "Energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3318, 
+                    "end": 3329, 
+                    "score": 0.18472155928611755, 
+                    "spot": "development"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1274, 
+                    "end": 1277, 
+                    "score": 0.12354020029306412, 
+                    "spot": "buy"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3944, 
+                    "end": 3951, 
+                    "score": 0.10116080194711685, 
+                    "spot": "program"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3990, 
+                    "end": 3997, 
+                    "score": 0.5459267497062683, 
+                    "spot": "Vietnam"
+                }
+            ], 
+            "wiki_id": 202354, 
+            "wiki_title": "Vietnam"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2475, 
+                    "end": 2482, 
+                    "score": 0.12359560281038284, 
+                    "spot": "promise"
+                }
+            ], 
+            "wiki_id": 638369, 
+            "wiki_title": "Promise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2222, 
+                    "end": 2228, 
+                    "score": 0.09012938290834427, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 3435, 
+                    "end": 3441, 
+                    "score": 0.1572606861591339, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3248, 
+                    "end": 3255, 
+                    "score": 0.04997995123267174, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 24795, 
+            "wiki_title": "Private (rank)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4140, 
+                    "end": 4145, 
+                    "score": 0.003995352890342474, 
+                    "spot": "shift"
+                }
+            ], 
+            "wiki_id": 1051985, 
+            "wiki_title": "Shift work"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 32, 
+                    "end": 40, 
+                    "score": 0.0011282219784334302, 
+                    "spot": "commonly"
+                }
+            ], 
+            "wiki_id": 331921, 
+            "wiki_title": "Common name"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1446, 
+                    "end": 1455, 
+                    "score": 0.28311049938201904, 
+                    "spot": "employees"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4061, 
+                    "end": 4068, 
+                    "score": 0.01644124463200569, 
+                    "spot": "manager"
+                }
+            ], 
+            "wiki_id": 1211198, 
+            "wiki_title": "Manager (professional wrestling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2962, 
+                    "end": 2966, 
+                    "score": 0.07363244891166687, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 28952356, 
+            "wiki_title": "Channel 5 (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3669, 
+                    "end": 3681, 
+                    "score": 0.0011578541016206145, 
+                    "spot": "almost every"
+                }
+            ], 
+            "wiki_id": 44688, 
+            "wiki_title": "Almost everywhere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5433, 
+                    "end": 5436, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4790, 
+                    "end": 4803, 
+                    "score": 0.27401235699653625, 
+                    "spot": "charity group"
+                }
+            ], 
+            "wiki_id": 1176679, 
+            "wiki_title": "Charitable organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3460, 
+                    "end": 3464, 
+                    "score": 0.0833333358168602, 
+                    "spot": "aren"
+                }
+            ], 
+            "wiki_id": 13169695, 
+            "wiki_title": "Ar\u00e9n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4730, 
+                    "end": 4735, 
+                    "score": 0.004809388425201178, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 30876419, 
+            "wiki_title": "Quantum state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 329, 
+                    "end": 334, 
+                    "score": 0.012983446940779686, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 2091748, 
+            "wiki_title": "Starting lineup"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2014, 
+                    "end": 2019, 
+                    "score": 0.04748471826314926, 
+                    "spot": "rates"
+                }
+            ], 
+            "wiki_id": 782824, 
+            "wiki_title": "Tax rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5065, 
+                    "end": 5073, 
+                    "score": 0.4551743268966675, 
+                    "spot": "Africare"
+                }
+            ], 
+            "wiki_id": 1962939, 
+            "wiki_title": "Africare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2085, 
+                    "end": 2091, 
+                    "score": 0.37552911043167114, 
+                    "spot": "Panama"
+                }
+            ], 
+            "wiki_id": 22997, 
+            "wiki_title": "Panama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1906, 
+                    "end": 1911, 
+                    "score": 0.12742379307746887, 
+                    "spot": "shops"
+                }
+            ], 
+            "wiki_id": 1118379, 
+            "wiki_title": "Online shopping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4585, 
+                    "end": 4589, 
+                    "score": 0.21705923974514008, 
+                    "spot": "Asia"
+                }
+            ], 
+            "wiki_id": 689, 
+            "wiki_title": "Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2867, 
+                    "end": 2871, 
+                    "score": 0.0011882357066497207, 
+                    "spot": "five"
+                }, 
+                {
+                    "begin": 3164, 
+                    "end": 3168, 
+                    "score": 0.10520504415035248, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 6412297, 
+            "wiki_title": "5 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1287, 
+                    "end": 1293, 
+                    "score": 0.23352406919002533, 
+                    "spot": "glazes"
+                }
+            ], 
+            "wiki_id": 6717182, 
+            "wiki_title": "Ceramic glaze"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2416, 
+                    "end": 2426, 
+                    "score": 0.12070919573307037, 
+                    "spot": "everything"
+                }
+            ], 
+            "wiki_id": 17181902, 
+            "wiki_title": "Everything"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2666, 
+                    "end": 2675, 
+                    "score": 0.18482106924057007, 
+                    "spot": "nonprofit"
+                }
+            ], 
+            "wiki_id": 72487, 
+            "wiki_title": "Nonprofit organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 652, 
+                    "score": 0.12913823127746582, 
+                    "spot": "federally"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 992, 
+                    "end": 1008, 
+                    "score": 0.3814317584037781, 
+                    "spot": "Green Revolution"
+                }, 
+                {
+                    "begin": 1090, 
+                    "end": 1106, 
+                    "score": 0.3814317584037781, 
+                    "spot": "Green Revolution"
+                }
+            ], 
+            "wiki_id": 72727, 
+            "wiki_title": "Green Revolution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4408, 
+                    "end": 4413, 
+                    "score": 0.10843557864427567, 
+                    "spot": "rates"
+                }
+            ], 
+            "wiki_id": 359135, 
+            "wiki_title": "Chemical kinetics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2136, 
+                    "end": 2141, 
+                    "score": 0.018253935500979424, 
+                    "spot": "Isaac"
+                }
+            ], 
+            "wiki_id": 15192, 
+            "wiki_title": "Isaac"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 453, 
+                    "score": 0.0028436018619686365, 
+                    "spot": "boosts"
+                }
+            ], 
+            "wiki_id": 18404, 
+            "wiki_title": "Lorentz transformation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 547, 
+                    "end": 556, 
+                    "score": 0.2866857647895813, 
+                    "spot": "sovereign"
+                }, 
+                {
+                    "begin": 547, 
+                    "end": 564, 
+                    "score": 0.3664676547050476, 
+                    "spot": "sovereign nations"
+                }
+            ], 
+            "wiki_id": 28791, 
+            "wiki_title": "Sovereignty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1117, 
+                    "end": 1123, 
+                    "score": 0.16004234552383423, 
+                    "spot": "output"
+                }
+            ], 
+            "wiki_id": 12594, 
+            "wiki_title": "Gross domestic product"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 403, 
+                    "end": 408, 
+                    "score": 0.1613708734512329, 
+                    "spot": "shoes"
+                }
+            ], 
+            "wiki_id": 940322, 
+            "wiki_title": "Shoemaking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2072, 
+                    "end": 2083, 
+                    "score": 0.8758337497711182, 
+                    "spot": "Panama City"
+                }, 
+                {
+                    "begin": 2072, 
+                    "end": 2091, 
+                    "score": 0.6301969289779663, 
+                    "spot": "Panama City, Panama"
+                }
+            ], 
+            "wiki_id": 57361, 
+            "wiki_title": "Panama City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1642, 
+                    "end": 1647, 
+                    "score": 0.0016792872920632362, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 474275, 
+            "wiki_title": "Starting pitcher"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4527, 
+                    "end": 4534, 
+                    "score": 0.002126880455762148, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 141203, 
+            "wiki_title": "Chess problem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1894, 
+                    "end": 1901, 
+                    "score": 0.16751211881637573, 
+                    "spot": "opening"
+                }
+            ], 
+            "wiki_id": 277663, 
+            "wiki_title": "Open-source software"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 803, 
+                    "end": 810, 
+                    "score": 0.24017223715782166, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 124, 
+                    "end": 137, 
+                    "score": 0.124557264149189, 
+                    "spot": "credit rating"
+                }
+            ], 
+            "wiki_id": 1194146, 
+            "wiki_title": "Credit rating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5364, 
+                    "end": 5369, 
+                    "score": 0.006091441959142685, 
+                    "spot": "scale"
+                }
+            ], 
+            "wiki_id": 964428, 
+            "wiki_title": "Weighing scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 385, 
+                    "end": 391, 
+                    "score": 0.28101587295532227, 
+                    "spot": "sewing"
+                }
+            ], 
+            "wiki_id": 92295, 
+            "wiki_title": "Sewing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3282, 
+                    "end": 3287, 
+                    "score": 0.07111117243766785, 
+                    "spot": "group"
+                }, 
+                {
+                    "begin": 3928, 
+                    "end": 3933, 
+                    "score": 0.11780191957950592, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 460, 
+                    "end": 475, 
+                    "score": 0.012605042196810246, 
+                    "spot": "local\neconomies"
+                }
+            ], 
+            "wiki_id": 324063, 
+            "wiki_title": "Community-based economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1913, 
+                    "end": 1915, 
+                    "score": 0.1431909203529358, 
+                    "spot": "Ms"
+                }
+            ], 
+            "wiki_id": 19001, 
+            "wiki_title": "Microsoft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1575, 
+                    "end": 1592, 
+                    "score": 0.5, 
+                    "spot": "women\nin Cameroon"
+                }
+            ], 
+            "wiki_id": 39697980, 
+            "wiki_title": "Women in Cameroon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 664, 
+                    "end": 677, 
+                    "score": 0.36184003949165344, 
+                    "spot": "student loans"
+                }
+            ], 
+            "wiki_id": 464990, 
+            "wiki_title": "Student loan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2714, 
+                    "end": 2720, 
+                    "score": 0.08128528296947479, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2151, 
+                    "end": 2159, 
+                    "score": 0.10037089139223099, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 52234, 
+            "wiki_title": "Chief executive officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2202, 
+                    "end": 2206, 
+                    "score": 0.07123042643070221, 
+                    "spot": "lent"
+                }
+            ], 
+            "wiki_id": 21324653, 
+            "wiki_title": "Lent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1338, 
+                    "end": 1347, 
+                    "score": 0.007905138656497002, 
+                    "spot": "back yard"
+                }
+            ], 
+            "wiki_id": 1142476, 
+            "wiki_title": "Backyard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4900, 
+                    "end": 4906, 
+                    "score": 0.003880629548802972, 
+                    "spot": "sticks"
+                }
+            ], 
+            "wiki_id": 17960514, 
+            "wiki_title": "Drum stick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2743, 
+                    "end": 2751, 
+                    "score": 0.13698655366897583, 
+                    "spot": "movement"
+                }
+            ], 
+            "wiki_id": 234984, 
+            "wiki_title": "Social movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5551, 
+                    "end": 5558, 
+                    "score": 0.014158890582621098, 
+                    "spot": "private"
+                }
+            ], 
+            "wiki_id": 299959, 
+            "wiki_title": "Private school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1859, 
+                    "end": 1867, 
+                    "score": 0.002117802854627371, 
+                    "spot": "tomatoes"
+                }
+            ], 
+            "wiki_id": 9940234, 
+            "wiki_title": "Tomato"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5050, 
+                    "end": 5057, 
+                    "score": 0.0009731699246913195, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 9355587, 
+            "wiki_title": "Example (musician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1265, 
+                    "score": 0.12355627864599228, 
+                    "spot": "borrowed"
+                }
+            ], 
+            "wiki_id": 59787, 
+            "wiki_title": "Loanword"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3037, 
+                    "end": 3042, 
+                    "score": 0.053440384566783905, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 2533750, 
+            "wiki_title": "Ingroups and outgroups"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2280, 
+                    "end": 2285, 
+                    "score": 0.0007197203231044114, 
+                    "spot": "a 100"
+                }
+            ], 
+            "wiki_id": 4329259, 
+            "wiki_title": "Doepfer A-100"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3843, 
+                    "end": 3847, 
+                    "score": 0.22738045454025269, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 54, 
+                    "end": 64, 
+                    "score": 0.11363636702299118, 
+                    "spot": "microloans"
+                }, 
+                {
+                    "begin": 193, 
+                    "end": 203, 
+                    "score": 0.1665673553943634, 
+                    "spot": "microloans"
+                }, 
+                {
+                    "begin": 689, 
+                    "end": 701, 
+                    "score": 0.23102906346321106, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 2109, 
+                    "end": 2119, 
+                    "score": 0.11363636702299118, 
+                    "spot": "microloans"
+                }, 
+                {
+                    "begin": 2733, 
+                    "end": 2742, 
+                    "score": 0.3107398748397827, 
+                    "spot": "microloan"
+                }, 
+                {
+                    "begin": 2783, 
+                    "end": 2795, 
+                    "score": 0.3685316741466522, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 3343, 
+                    "end": 3355, 
+                    "score": 0.4231683611869812, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 4281, 
+                    "end": 4293, 
+                    "score": 0.23092547059059143, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 4608, 
+                    "end": 4618, 
+                    "score": 0.36860617995262146, 
+                    "spot": "microloans"
+                }, 
+                {
+                    "begin": 4831, 
+                    "end": 4840, 
+                    "score": 0.20450915396213531, 
+                    "spot": "microloan"
+                }, 
+                {
+                    "begin": 5205, 
+                    "end": 5217, 
+                    "score": 0.29725170135498047, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 5393, 
+                    "end": 5405, 
+                    "score": 0.13698630034923553, 
+                    "spot": "microlending"
+                }, 
+                {
+                    "begin": 5778, 
+                    "end": 5790, 
+                    "score": 0.3292260468006134, 
+                    "spot": "microlending"
+                }
+            ], 
+            "wiki_id": 167854, 
+            "wiki_title": "Microcredit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3424, 
+                    "end": 3433, 
+                    "score": 0.09986911714076996, 
+                    "spot": "out\nthere"
+                }
+            ], 
+            "wiki_id": 38132176, 
+            "wiki_title": "Out There (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1010, 
+                    "end": 1027, 
+                    "score": 0.25757575035095215, 
+                    "spot": "Everybody does it"
+                }
+            ], 
+            "wiki_id": 16100989, 
+            "wiki_title": "Everybody Does It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3660, 
+                    "end": 3668, 
+                    "score": 0.050300221890211105, 
+                    "spot": "doubling"
+                }
+            ], 
+            "wiki_id": 1708959, 
+            "wiki_title": "Double-track railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4030, 
+                    "end": 4038, 
+                    "score": 0.04364544153213501, 
+                    "spot": "Campbell"
+                }
+            ], 
+            "wiki_id": 1776596, 
+            "wiki_title": "Jason Campbell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 95, 
+                    "score": 0.04600000008940697, 
+                    "spot": "crave"
+                }
+            ], 
+            "wiki_id": 35228066, 
+            "wiki_title": "Crave (For King &amp; Country album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1216, 
+                    "end": 1223, 
+                    "score": 0.394317090511322, 
+                    "spot": "factory"
+                }, 
+                {
+                    "begin": 1216, 
+                    "end": 1230, 
+                    "score": 0.2074207067489624, 
+                    "spot": "factory worker"
+                }
+            ], 
+            "wiki_id": 166784, 
+            "wiki_title": "Factory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4153, 
+                    "end": 4158, 
+                    "score": 0.001023777644149959, 
+                    "spot": "1980s"
+                }
+            ], 
+            "wiki_id": 3716527, 
+            "wiki_title": "1980s in Western fashion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2643, 
+                    "end": 2652, 
+                    "score": 0.13459983468055725, 
+                    "spot": "Cambridge"
+                }
+            ], 
+            "wiki_id": 36995, 
+            "wiki_title": "Cambridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4002, 
+                    "end": 4009, 
+                    "score": 0.6680007576942444, 
+                    "spot": "Namibia"
+                }
+            ], 
+            "wiki_id": 21292, 
+            "wiki_title": "Namibia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 820, 
+                    "end": 829, 
+                    "score": 0.22174721956253052, 
+                    "spot": "exporting"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5141, 
+                    "end": 5156, 
+                    "score": 0.19608168303966522, 
+                    "spot": "food production"
+                }
+            ], 
+            "wiki_id": 2437974, 
+            "wiki_title": "Food industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3232, 
+                    "end": 3237, 
+                    "score": 0.04026025906205177, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3520, 
+                    "end": 3524, 
+                    "score": 0.10502367466688156, 
+                    "spot": "CARE"
+                }
+            ], 
+            "wiki_id": 246892, 
+            "wiki_title": "CARE (relief agency)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4877, 
+                    "end": 4881, 
+                    "score": 0.1097152903676033, 
+                    "spot": "Fund"
+                }
+            ], 
+            "wiki_id": 917917, 
+            "wiki_title": "Fundraising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5622, 
+                    "end": 5631, 
+                    "score": 0.0754379853606224, 
+                    "spot": "expanding"
+                }
+            ], 
+            "wiki_id": 5985207, 
+            "wiki_title": "Metric expansion of space"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2389, 
+                    "end": 2396, 
+                    "score": 0.03300857171416283, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 4814950, 
+            "wiki_title": "Believe (Cher song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5726, 
+                    "end": 5733, 
+                    "score": 0.002736239228397608, 
+                    "spot": "doubled"
+                }
+            ], 
+            "wiki_id": 300740, 
+            "wiki_title": "Double (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1157, 
+                    "end": 1159, 
+                    "score": 0.08403559029102325, 
+                    "spot": "Ms"
+                }, 
+                {
+                    "begin": 3016, 
+                    "end": 3018, 
+                    "score": 0.07101409137248993, 
+                    "spot": "Ms"
+                }
+            ], 
+            "wiki_id": 236722, 
+            "wiki_title": "Master of Science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3180, 
+                    "end": 3187, 
+                    "score": 0.13276231288909912, 
+                    "spot": "payback"
+                }
+            ], 
+            "wiki_id": 11411026, 
+            "wiki_title": "CSI: Miami (season 4)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4422, 
+                    "end": 4429, 
+                    "score": 0.0007369842496700585, 
+                    "spot": "nations"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5533, 
+                    "end": 5536, 
+                    "score": 0.02398635447025299, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 64646, 
+            "wiki_title": "Toronto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4466, 
+                    "end": 4471, 
+                    "score": 0.07301566004753113, 
+                    "spot": "value"
+                }
+            ], 
+            "wiki_id": 4095185, 
+            "wiki_title": "Value (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3204, 
+                    "end": 3208, 
+                    "score": 0.05197463184595108, 
+                    "spot": "CARE"
+                }, 
+                {
+                    "begin": 5161, 
+                    "end": 5172, 
+                    "score": 0.04149995371699333, 
+                    "spot": "health care"
+                }
+            ], 
+            "wiki_id": 261925, 
+            "wiki_title": "Health care"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1612, 
+                    "end": 1620, 
+                    "score": 0.13958919048309326, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4221, 
+                    "end": 4229, 
+                    "score": 0.0014340990455821157, 
+                    "spot": "oriented"
+                }
+            ], 
+            "wiki_id": 1391942, 
+            "wiki_title": "Orientation (vector space)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 393, 
+                    "end": 402, 
+                    "score": 0.2157163769006729, 
+                    "spot": "repairing"
+                }
+            ], 
+            "wiki_id": 91191, 
+            "wiki_title": "Maintenance, repair, and operations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1699, 
+                    "end": 1708, 
+                    "score": 0.12377660721540451, 
+                    "spot": "offspring"
+                }
+            ], 
+            "wiki_id": 96628, 
+            "wiki_title": "Offspring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2142, 
+                    "end": 2147, 
+                    "score": 0.5, 
+                    "spot": "Btesh"
+                }, 
+                {
+                    "begin": 2364, 
+                    "end": 2369, 
+                    "score": 0.5, 
+                    "spot": "Btesh"
+                }
+            ], 
+            "wiki_id": 39565152, 
+            "wiki_title": "J\u00e9r\u00f4me Btesh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4094, 
+                    "end": 4111, 
+                    "score": 0.3868597447872162, 
+                    "spot": "Save the Children"
+                }
+            ], 
+            "wiki_id": 436885, 
+            "wiki_title": "Save the Children"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4736, 
+                    "end": 4743, 
+                    "score": 0.10443880409002304, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 6117426, 
+            "wiki_title": "Opening act"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4841, 
+                    "end": 4850, 
+                    "score": 0.0981108695268631, 
+                    "spot": "bandwagon"
+                }
+            ], 
+            "wiki_id": 7586564, 
+            "wiki_title": "Bandwagon (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 830, 
+                    "end": 851, 
+                    "score": 0.20439134538173676, 
+                    "spot": "free-market economics"
+                }
+            ], 
+            "wiki_id": 11826, 
+            "wiki_title": "Free market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4679, 
+                    "end": 4686, 
+                    "score": 0.11718595027923584, 
+                    "spot": "pioneer"
+                }
+            ], 
+            "wiki_id": 1718104, 
+            "wiki_title": "Innovator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5659, 
+                    "end": 5672, 
+                    "score": 0.15726780891418457, 
+                    "spot": "congressional"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2304, 
+                    "end": 2311, 
+                    "score": 0.5, 
+                    "spot": "When we"
+                }
+            ], 
+            "wiki_id": 34866762, 
+            "wiki_title": "When We On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1394, 
+                    "end": 1398, 
+                    "score": 0.06548964232206345, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 32267907, 
+            "wiki_title": "The Five (TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1976, 
+                    "end": 1980, 
+                    "score": 0.11578349769115448, 
+                    "spot": "note"
+                }
+            ], 
+            "wiki_id": 208286, 
+            "wiki_title": "Banknote"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3483, 
+                    "end": 3487, 
+                    "score": 0.001524612889625132, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 1698603, 
+            "wiki_title": "Next (American band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5559, 
+                    "end": 5565, 
+                    "score": 0.06443972885608673, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 808296, 
+            "wiki_title": "Group (military aviation unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4472, 
+                    "end": 4488, 
+                    "score": 0.011904762126505375, 
+                    "spot": "access\nto credit"
+                }
+            ], 
+            "wiki_id": 21875491, 
+            "wiki_title": "Access to finance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3984, 
+                    "end": 3988, 
+                    "score": 0.6379008293151855, 
+                    "spot": "Laos"
+                }
+            ], 
+            "wiki_id": 17752, 
+            "wiki_title": "Laos"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 601, 
+                    "end": 608, 
+                    "score": 0.2698514461517334, 
+                    "spot": "default"
+                }, 
+                {
+                    "begin": 4504, 
+                    "end": 4511, 
+                    "score": 0.016438251361250877, 
+                    "spot": "default"
+                }
+            ], 
+            "wiki_id": 58838, 
+            "wiki_title": "Default (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2164, 
+                    "end": 2167, 
+                    "score": 0.0014617166016250849, 
+                    "spot": "son"
+                }
+            ], 
+            "wiki_id": 3565240, 
+            "wiki_title": "The Son (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2927, 
+                    "end": 2929, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }, 
+                {
+                    "begin": 4722, 
+                    "end": 4724, 
+                    "score": 0.05125126242637634, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1545, 
+                    "end": 1555, 
+                    "score": 0.002479506190866232, 
+                    "spot": "prosperous"
+                }
+            ], 
+            "wiki_id": 1496619, 
+            "wiki_title": "Prosperous (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5609, 
+                    "end": 5618, 
+                    "score": 0.2371276319026947, 
+                    "spot": "principle"
+                }
+            ], 
+            "wiki_id": 1005874, 
+            "wiki_title": "Principle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5588, 
+                    "end": 5591, 
+                    "score": 0.0647735595703125, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3596, 
+                    "end": 3602, 
+                    "score": 0.17965342104434967, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 4360909, 
+            "wiki_title": "Government budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 373, 
+                    "end": 383, 
+                    "score": 0.14707182347774506, 
+                    "spot": "vegetables"
+                }
+            ], 
+            "wiki_id": 5791492, 
+            "wiki_title": "Vegetable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3105, 
+                    "end": 3110, 
+                    "score": 0.15689024329185486, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1566, 
+                    "end": 1571, 
+                    "score": 0.00427321158349514, 
+                    "spot": "group"
+                }, 
+                {
+                    "begin": 2702, 
+                    "end": 2707, 
+                    "score": 0.0545375719666481, 
+                    "spot": "group"
+                }, 
+                {
+                    "begin": 4122, 
+                    "end": 4127, 
+                    "score": 0.047858722507953644, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 20180, 
+            "wiki_title": "Musical ensemble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2595, 
+                    "end": 2603, 
+                    "score": 0.21539005637168884, 
+                    "spot": "merchant"
+                }
+            ], 
+            "wiki_id": 20810, 
+            "wiki_title": "Merchant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1488, 
+                    "end": 1496, 
+                    "score": 0.06394128501415253, 
+                    "spot": "struggle"
+                }
+            ], 
+            "wiki_id": 42437083, 
+            "wiki_title": "Class conflict"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2316, 
+                    "end": 2324, 
+                    "score": 0.2526671290397644, 
+                    "spot": "in touch"
+                }, 
+                {
+                    "begin": 2319, 
+                    "end": 2324, 
+                    "score": 0.17999188601970673, 
+                    "spot": "touch"
+                }
+            ], 
+            "wiki_id": 30820095, 
+            "wiki_title": "In Touch (radio series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4760, 
+                    "end": 4766, 
+                    "score": 0.09093967080116272, 
+                    "spot": "target"
+                }
+            ], 
+            "wiki_id": 18581242, 
+            "wiki_title": "Target Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4183, 
+                    "end": 4206, 
+                    "score": 0.14106395840644836, 
+                    "spot": "charitable\norganization"
+                }
+            ], 
+            "wiki_id": 1979418, 
+            "wiki_title": "501(c) organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2338, 
+                    "end": 2340, 
+                    "score": 0.04438304901123047, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 49691494, 
+            "wiki_title": "We (hangul)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2229, 
+                    "end": 2235, 
+                    "score": 0.06951204687356949, 
+                    "spot": "so\nfar"
+                }
+            ], 
+            "wiki_id": 40846216, 
+            "wiki_title": "So Far..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1124, 
+                    "end": 1131, 
+                    "score": 0.0035140563268214464, 
+                    "spot": "surging"
+                }
+            ], 
+            "wiki_id": 1612558, 
+            "wiki_title": "Compressor stall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 739, 
+                    "end": 746, 
+                    "score": 0.2041863203048706, 
+                    "spot": "booming"
+                }, 
+                {
+                    "begin": 5188, 
+                    "end": 5195, 
+                    "score": 0.13125020265579224, 
+                    "spot": "booming"
+                }
+            ], 
+            "wiki_id": 168918, 
+            "wiki_title": "Business cycle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1145, 
+                    "end": 1152, 
+                    "score": 0.08425340801477432, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 4315, 
+                    "end": 4322, 
+                    "score": 0.11065930873155594, 
+                    "spot": "nations"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2676, 
+                    "end": 2701, 
+                    "score": 0.045600514858961105, 
+                    "spot": "international\ndevelopment"
+                }
+            ], 
+            "wiki_id": 247311, 
+            "wiki_title": "Department for International Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1112, 
+                    "end": 1116, 
+                    "score": 0.10852707922458649, 
+                    "spot": "farm"
+                }
+            ], 
+            "wiki_id": 1527309, 
+            "wiki_title": "Farm (revenue leasing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1140, 
+                    "end": 1144, 
+                    "score": 0.10008838772773743, 
+                    "spot": "poor"
+                }, 
+                {
+                    "begin": 1984, 
+                    "end": 1988, 
+                    "score": 0.15012644231319427, 
+                    "spot": "poor"
+                }, 
+                {
+                    "begin": 2450, 
+                    "end": 2457, 
+                    "score": 0.20109769701957703, 
+                    "spot": "Poverty"
+                }, 
+                {
+                    "begin": 3852, 
+                    "end": 3856, 
+                    "score": 0.05217921733856201, 
+                    "spot": "poor"
+                }, 
+                {
+                    "begin": 4771, 
+                    "end": 4775, 
+                    "score": 0.09866277128458023, 
+                    "spot": "poor"
+                }, 
+                {
+                    "begin": 5014, 
+                    "end": 5026, 
+                    "score": 0.11737751960754395, 
+                    "spot": "impoverished"
+                }, 
+                {
+                    "begin": 5632, 
+                    "end": 5639, 
+                    "score": 0.14736098051071167, 
+                    "spot": "poverty"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5708, 
+                    "end": 5711, 
+                    "score": 0.023663518950343132, 
+                    "spot": "AID"
+                }
+            ], 
+            "wiki_id": 1164, 
+            "wiki_title": "Artificial intelligence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4991, 
+                    "end": 4998, 
+                    "score": 0.11183319985866547, 
+                    "spot": "regular"
+                }
+            ], 
+            "wiki_id": 1750278, 
+            "wiki_title": "Standing army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5074, 
+                    "end": 5079, 
+                    "score": 0.1249890998005867, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1193, 
+                    "end": 1200, 
+                    "score": 0.12787847220897675, 
+                    "spot": "Aguilar"
+                }
+            ], 
+            "wiki_id": 37744015, 
+            "wiki_title": "Jes\u00fas Aguilar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3503, 
+                    "end": 3508, 
+                    "score": 0.0014583857264369726, 
+                    "spot": "Larry"
+                }
+            ], 
+            "wiki_id": 494681, 
+            "wiki_title": "That's So Raven"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4999, 
+                    "end": 5007, 
+                    "score": 0.14434033632278442, 
+                    "spot": "payments"
+                }
+            ], 
+            "wiki_id": 3648961, 
+            "wiki_title": "Payment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1948, 
+                    "end": 1964, 
+                    "score": 0.2789205014705658, 
+                    "spot": "commercial banks"
+                }, 
+                {
+                    "begin": 2193, 
+                    "end": 2197, 
+                    "score": 0.07686588913202286, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 2522, 
+                    "end": 2526, 
+                    "score": 0.13503968715667725, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 4567, 
+                    "end": 4572, 
+                    "score": 0.13945430517196655, 
+                    "spot": "banks"
+                }, 
+                {
+                    "begin": 4707, 
+                    "end": 4712, 
+                    "score": 0.05996476486325264, 
+                    "spot": "banks"
+                }
+            ], 
+            "wiki_id": 19360669, 
+            "wiki_title": "Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 784, 
+                    "end": 795, 
+                    "score": 0.028963886201381683, 
+                    "spot": "development"
+                }
+            ], 
+            "wiki_id": 248932, 
+            "wiki_title": "Software development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2038, 
+                    "end": 2050, 
+                    "score": 0.0032901500817388296, 
+                    "spot": "family-owned"
+                }
+            ], 
+            "wiki_id": 1467641, 
+            "wiki_title": "Family business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5311, 
+                    "end": 5318, 
+                    "score": 0.3005325198173523, 
+                    "spot": "Norwalk"
+                }
+            ], 
+            "wiki_id": 314046, 
+            "wiki_title": "Norwalk, Connecticut"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5120, 
+                    "end": 5132, 
+                    "score": 0.15302295982837677, 
+                    "spot": "cooperatives"
+                }
+            ], 
+            "wiki_id": 89313, 
+            "wiki_title": "Cooperative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2529, 
+                    "end": 2539, 
+                    "score": 0.14015603065490723, 
+                    "spot": "number one"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4718, 
+                    "end": 4721, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1556, 
+                    "end": 1565, 
+                    "score": 0.006782945711165667, 
+                    "spot": "West. One"
+                }
+            ], 
+            "wiki_id": 11267275, 
+            "wiki_title": "West One"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 981, 
+                    "score": 0.2846376895904541, 
+                    "spot": "development"
+                }
+            ], 
+            "wiki_id": 329948, 
+            "wiki_title": "Social change"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2403, 
+                    "end": 2410, 
+                    "score": 0.08044557273387909, 
+                    "spot": "figures"
+                }
+            ], 
+            "wiki_id": 77691, 
+            "wiki_title": "Figure of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3907, 
+                    "end": 3914, 
+                    "score": 0.05181420221924782, 
+                    "spot": "husband"
+                }
+            ], 
+            "wiki_id": 177591, 
+            "wiki_title": "Rick Husband"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4010, 
+                    "end": 4019, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5684, 
+                    "end": 5691, 
+                    "score": 0.1856844276189804, 
+                    "spot": "mandate"
+                }
+            ], 
+            "wiki_id": 35925403, 
+            "wiki_title": "Appeal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3488, 
+                    "end": 3495, 
+                    "score": 0.022522522136569023, 
+                    "spot": "handout"
+                }
+            ], 
+            "wiki_id": 1500501, 
+            "wiki_title": "Handout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3456, 
+                    "end": 3459, 
+                    "score": 0.07289620488882065, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3875, 
+                    "end": 3878, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3294, 
+                    "end": 3299, 
+                    "score": 0.09051407873630524, 
+                    "spot": "small"
+                }, 
+                {
+                    "begin": 3772, 
+                    "end": 3777, 
+                    "score": 0.08579684048891068, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 276495, 
+            "wiki_title": "Small business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 318, 
+                    "end": 323, 
+                    "score": 0.050632912665605545, 
+                    "spot": "helps"
+                }
+            ], 
+            "wiki_id": 386448, 
+            "wiki_title": "Arthur Helps"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5440, 
+                    "end": 5446, 
+                    "score": 0.04030090942978859, 
+                    "spot": "skills"
+                }
+            ], 
+            "wiki_id": 355343, 
+            "wiki_title": "Skill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1530, 
+                    "end": 1537, 
+                    "score": 0.0031541415955871344, 
+                    "spot": "comical"
+                }
+            ], 
+            "wiki_id": 20914042, 
+            "wiki_title": "Comedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 508, 
+                    "end": 514, 
+                    "score": 0.000961538462433964, 
+                    "spot": "shines"
+                }
+            ], 
+            "wiki_id": 7720450, 
+            "wiki_title": "Razor Shines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1245, 
+                    "end": 1251, 
+                    "score": 0.3819161653518677, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1784, 
+                    "end": 1792, 
+                    "score": 0.0019429282983765006, 
+                    "spot": "switched"
+                }
+            ], 
+            "wiki_id": 3932591, 
+            "wiki_title": "Switched (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5792, 
+                    "end": 5800, 
+                    "score": 0.07948540896177292, 
+                    "spot": "training"
+                }
+            ], 
+            "wiki_id": 156423, 
+            "wiki_title": "Training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4390, 
+                    "end": 4396, 
+                    "score": 0.12740018963813782, 
+                    "spot": "moment"
+                }
+            ], 
+            "wiki_id": 30400, 
+            "wiki_title": "Torque"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 296, 
+                    "end": 306, 
+                    "score": 0.3584662079811096, 
+                    "spot": "hard times"
+                }
+            ], 
+            "wiki_id": 843511, 
+            "wiki_title": "Hard Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 880, 
+                    "end": 884, 
+                    "score": 0.164110004901886, 
+                    "spot": "fuel"
+                }
+            ], 
+            "wiki_id": 20135224, 
+            "wiki_title": "Fuel (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3955, 
+                    "end": 3960, 
+                    "score": 0.32210060954093933, 
+                    "spot": "China"
+                }
+            ], 
+            "wiki_id": 5405, 
+            "wiki_title": "China"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3159, 
+                    "end": 3163, 
+                    "score": 0.05462978780269623, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 722792, 
+            "wiki_title": "Next plc"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5027, 
+                    "end": 5044, 
+                    "score": 0.5, 
+                    "spot": "Third World child"
+                }
+            ], 
+            "wiki_id": 2794046, 
+            "wiki_title": "Third World Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1804, 
+                    "score": 0.17535856366157532, 
+                    "spot": "chickens"
+                }
+            ], 
+            "wiki_id": 37402, 
+            "wiki_title": "Chicken"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5576, 
+                    "end": 5586, 
+                    "score": 0.001405813847668469, 
+                    "spot": "operations"
+                }
+            ], 
+            "wiki_id": 4140245, 
+            "wiki_title": "Operation (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 953, 
+                    "end": 966, 
+                    "score": 0.03703703731298447, 
+                    "spot": "hottest thing"
+                }
+            ], 
+            "wiki_id": 700754, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5083, 
+                    "end": 5098, 
+                    "score": 0.5472975969314575, 
+                    "spot": "Washington, D.C"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }
+    ]
+}

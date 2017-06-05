@@ -1,0 +1,4384 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 5907, 
+                    "end": 5911, 
+                    "score": 0.13267485797405243, 
+                    "spot": "Pena"
+                }
+            ], 
+            "wiki_id": 8981818, 
+            "wiki_title": "Raymundo Joseph Pe\u00f1a"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1227, 
+                    "end": 1237, 
+                    "score": 0.0812513530254364, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2751, 
+                    "end": 2757, 
+                    "score": 0.3319934606552124, 
+                    "spot": "narcos"
+                }, 
+                {
+                    "begin": 3433, 
+                    "end": 3439, 
+                    "score": 0.3222222328186035, 
+                    "spot": "narcos"
+                }
+            ], 
+            "wiki_id": 44819477, 
+            "wiki_title": "Narcos"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6358, 
+                    "end": 6364, 
+                    "score": 0.0007501875516027212, 
+                    "spot": "how to"
+                }
+            ], 
+            "wiki_id": 175502, 
+            "wiki_title": "How-to"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4029, 
+                    "end": 4033, 
+                    "score": 0.0763147696852684, 
+                    "spot": "crop"
+                }
+            ], 
+            "wiki_id": 7500259, 
+            "wiki_title": "Crop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4302, 
+                    "end": 4313, 
+                    "score": 0.5, 
+                    "spot": "Juan Zarate"
+                }
+            ], 
+            "wiki_id": 13134806, 
+            "wiki_title": "Juan Zarate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 571, 
+                    "end": 579, 
+                    "score": 0.07803526520729065, 
+                    "spot": "streamed"
+                }
+            ], 
+            "wiki_id": 28682, 
+            "wiki_title": "Streaming media"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5028, 
+                    "end": 5031, 
+                    "score": 0.12678420543670654, 
+                    "spot": "Rio"
+                }
+            ], 
+            "wiki_id": 25936, 
+            "wiki_title": "Rio de Janeiro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6451, 
+                    "end": 6455, 
+                    "score": 0.051028791815042496, 
+                    "spot": "lure"
+                }
+            ], 
+            "wiki_id": 6446, 
+            "wiki_title": "Camouflage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3346, 
+                    "end": 3358, 
+                    "score": 0.0073269326239824295, 
+                    "spot": "headquarters"
+                }
+            ], 
+            "wiki_id": 188955, 
+            "wiki_title": "Headquarters of the United Nations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3478, 
+                    "end": 3483, 
+                    "score": 0.035971853882074356, 
+                    "spot": "towns"
+                }
+            ], 
+            "wiki_id": 429081, 
+            "wiki_title": "Administrative divisions of New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3073, 
+                    "end": 3080, 
+                    "score": 0.025344008579850197, 
+                    "spot": "reduced"
+                }
+            ], 
+            "wiki_id": 66313, 
+            "wiki_title": "Redox"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2964, 
+                    "end": 2973, 
+                    "score": 0.5, 
+                    "spot": "the power"
+                }
+            ], 
+            "wiki_id": 8028602, 
+            "wiki_title": "The Power (Snap! song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4115, 
+                    "end": 4121, 
+                    "score": 0.10013321042060852, 
+                    "spot": "leaves"
+                }
+            ], 
+            "wiki_id": 18973622, 
+            "wiki_title": "Leaf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1406, 
+                    "end": 1409, 
+                    "score": 0.3500862717628479, 
+                    "spot": "One"
+                }, 
+                {
+                    "begin": 2342, 
+                    "end": 2345, 
+                    "score": 0.052813999354839325, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 23385833, 
+            "wiki_title": "Neoplatonism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4919, 
+                    "end": 4925, 
+                    "score": 0.28901928663253784, 
+                    "spot": "strike"
+                }, 
+                {
+                    "begin": 5398, 
+                    "end": 5404, 
+                    "score": 0.17461062967777252, 
+                    "spot": "strike"
+                }
+            ], 
+            "wiki_id": 155134, 
+            "wiki_title": "Strike action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3696, 
+                    "end": 3708, 
+                    "score": 0.0006526063079945743, 
+                    "spot": "Nevertheless"
+                }
+            ], 
+            "wiki_id": 3509761, 
+            "wiki_title": "Nevertheless I'm in Love with You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4670, 
+                    "end": 4682, 
+                    "score": 0.1612251102924347, 
+                    "spot": "self-defense"
+                }
+            ], 
+            "wiki_id": 146342, 
+            "wiki_title": "Right of self-defense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1420, 
+                    "end": 1433, 
+                    "score": 0.09787607938051224, 
+                    "spot": "embarrassment"
+                }
+            ], 
+            "wiki_id": 234771, 
+            "wiki_title": "Embarrassment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 630, 
+                    "end": 639, 
+                    "score": 0.13319404423236847, 
+                    "spot": "northeast"
+                }
+            ], 
+            "wiki_id": 431669, 
+            "wiki_title": "Northeastern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3099, 
+                    "end": 3109, 
+                    "score": 0.0012894101673737168, 
+                    "spot": "dispatched"
+                }
+            ], 
+            "wiki_id": 1749202, 
+            "wiki_title": "Dispatched"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5856, 
+                    "end": 5858, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6217, 
+                    "end": 6221, 
+                    "score": 0.001287922146730125, 
+                    "spot": "me I"
+                }
+            ], 
+            "wiki_id": 17309109, 
+            "wiki_title": "Me and I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4717, 
+                    "end": 4728, 
+                    "score": 0.05087572708725929, 
+                    "spot": "Twenty-nine"
+                }
+            ], 
+            "wiki_id": 362212, 
+            "wiki_title": "29 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5239, 
+                    "end": 5246, 
+                    "score": 0.14234936237335205, 
+                    "spot": "justice"
+                }
+            ], 
+            "wiki_id": 16369, 
+            "wiki_title": "Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1410, 
+                    "end": 1416, 
+                    "score": 0.30794623494148254, 
+                    "spot": "reason"
+                }
+            ], 
+            "wiki_id": 42446, 
+            "wiki_title": "Reason"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3392, 
+                    "end": 3401, 
+                    "score": 0.02045726589858532, 
+                    "spot": "immediate"
+                }
+            ], 
+            "wiki_id": 1057256, 
+            "wiki_title": "Imperial immediacy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6501, 
+                    "end": 6505, 
+                    "score": 0.08466431498527527, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5439, 
+                    "end": 5444, 
+                    "score": 0.11868997663259506, 
+                    "spot": "thief"
+                }
+            ], 
+            "wiki_id": 31287, 
+            "wiki_title": "Theft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3808, 
+                    "end": 3811, 
+                    "score": 0.1499788612127304, 
+                    "spot": "now"
+                }, 
+                {
+                    "begin": 6534, 
+                    "end": 6537, 
+                    "score": 0.12654843926429749, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4160, 
+                    "end": 4173, 
+                    "score": 0.17583221197128296, 
+                    "spot": "international"
+                }
+            ], 
+            "wiki_id": 8195726, 
+            "wiki_title": "International law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6029, 
+                    "end": 6042, 
+                    "score": 0.128890722990036, 
+                    "spot": "assassinating"
+                }
+            ], 
+            "wiki_id": 2963, 
+            "wiki_title": "Assassination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5472, 
+                    "end": 5482, 
+                    "score": 0.1854710876941681, 
+                    "spot": "cigarettes"
+                }
+            ], 
+            "wiki_id": 38327, 
+            "wiki_title": "Cigarette"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3875, 
+                    "end": 3882, 
+                    "score": 0.01799738220870495, 
+                    "spot": "Segundo"
+                }
+            ], 
+            "wiki_id": 26242610, 
+            "wiki_title": "Segundo (Ponce)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4504, 
+                    "end": 4512, 
+                    "score": 0.27418655157089233, 
+                    "spot": "de facto"
+                }
+            ], 
+            "wiki_id": 43594, 
+            "wiki_title": "De facto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2023, 
+                    "end": 2029, 
+                    "score": 0.17500272393226624, 
+                    "spot": "region"
+                }, 
+                {
+                    "begin": 2994, 
+                    "end": 3000, 
+                    "score": 0.1686137467622757, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3975, 
+                    "end": 3981, 
+                    "score": 0.07175540924072266, 
+                    "spot": "demand"
+                }
+            ], 
+            "wiki_id": 4780974, 
+            "wiki_title": "Demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2884, 
+                    "end": 2888, 
+                    "score": 0.08300657570362091, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3293, 
+                    "end": 3300, 
+                    "score": 0.0006938937585800886, 
+                    "spot": "pushing"
+                }
+            ], 
+            "wiki_id": 43765390, 
+            "wiki_title": "Pushing On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2374, 
+                    "end": 2378, 
+                    "score": 0.09671042114496231, 
+                    "spot": "drug"
+                }
+            ], 
+            "wiki_id": 9311172, 
+            "wiki_title": "Drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5786, 
+                    "end": 5791, 
+                    "score": 0.05191029980778694, 
+                    "spot": "spoke"
+                }
+            ], 
+            "wiki_id": 12235926, 
+            "wiki_title": "\u00c6on Spoke"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5826, 
+                    "end": 5834, 
+                    "score": 0.0008789578569121659, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 189037, 
+            "wiki_title": "Physical exercise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4386, 
+                    "end": 4394, 
+                    "score": 0.12956130504608154, 
+                    "spot": "alliance"
+                }
+            ], 
+            "wiki_id": 58162, 
+            "wiki_title": "Alliance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2150, 
+                    "end": 2158, 
+                    "score": 0.23565177619457245, 
+                    "spot": "wipe out"
+                }, 
+                {
+                    "begin": 6586, 
+                    "end": 6595, 
+                    "score": 0.12026262283325195, 
+                    "spot": "eradicate"
+                }
+            ], 
+            "wiki_id": 12441, 
+            "wiki_title": "Genocide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5755, 
+                    "end": 5763, 
+                    "score": 0.08600516617298126, 
+                    "spot": "executed"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5369, 
+                    "end": 5376, 
+                    "score": 0.09185582399368286, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 46530, 
+            "wiki_title": "Human Rights Watch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1980, 
+                    "end": 1988, 
+                    "score": 0.19691498577594757, 
+                    "spot": "military"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1670, 
+                    "end": 1677, 
+                    "score": 0.002002404537051916, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 497639, 
+            "wiki_title": "Control (Janet Jackson album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5504, 
+                    "end": 5516, 
+                    "score": 0.06194228306412697, 
+                    "spot": "substitution"
+                }
+            ], 
+            "wiki_id": 5438948, 
+            "wiki_title": "Substitution (logic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1809, 
+                    "end": 1814, 
+                    "score": 0.05979743227362633, 
+                    "spot": "Upper"
+                }
+            ], 
+            "wiki_id": 242299, 
+            "wiki_title": "Maxilla"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 881, 
+                    "end": 889, 
+                    "score": 0.11744233965873718, 
+                    "spot": "bombings"
+                }
+            ], 
+            "wiki_id": 47628, 
+            "wiki_title": "Bomb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3161, 
+                    "end": 3172, 
+                    "score": 0.03237585350871086, 
+                    "spot": "mountainous"
+                }
+            ], 
+            "wiki_id": 35340561, 
+            "wiki_title": "Montane ecology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4127, 
+                    "end": 4137, 
+                    "score": 0.1785714328289032, 
+                    "spot": "coca paste"
+                }
+            ], 
+            "wiki_id": 4644067, 
+            "wiki_title": "Cocaine paste"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5525, 
+                    "end": 5531, 
+                    "score": 0.13810668885707855, 
+                    "spot": "worker"
+                }
+            ], 
+            "wiki_id": 18178, 
+            "wiki_title": "Labour economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6662, 
+                    "end": 6679, 
+                    "score": 0.03826530650258064, 
+                    "spot": "free-lance writer"
+                }
+            ], 
+            "wiki_id": 484030, 
+            "wiki_title": "Freelancer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6169, 
+                    "end": 6181, 
+                    "score": 0.4545454680919647, 
+                    "spot": "Luis Salazar"
+                }
+            ], 
+            "wiki_id": 713172, 
+            "wiki_title": "Luis Salazar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2977, 
+                    "end": 2986, 
+                    "score": 0.08719086647033691, 
+                    "spot": "authority"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2844, 
+                    "end": 2850, 
+                    "score": 0.002705453662201762, 
+                    "spot": "lifted"
+                }
+            ], 
+            "wiki_id": 7118685, 
+            "wiki_title": "Lifted (2006 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3316, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6325, 
+                    "end": 6334, 
+                    "score": 0.07405871897935867, 
+                    "spot": "influence"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1030, 
+                    "end": 1035, 
+                    "score": 0.04683592543005943, 
+                    "spot": "Upper"
+                }
+            ], 
+            "wiki_id": 27178, 
+            "wiki_title": "Shoe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6278, 
+                    "end": 6285, 
+                    "score": 0.06413093954324722, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 1467948, 
+            "wiki_title": "Problem solving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1358, 
+                    "end": 1368, 
+                    "score": 0.0031917348969727755, 
+                    "spot": "connection"
+                }
+            ], 
+            "wiki_id": 308815, 
+            "wiki_title": "Connection (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 453, 
+                    "end": 463, 
+                    "score": 0.29414454102516174, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 943, 
+                    "end": 953, 
+                    "score": 0.1662789285182953, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 1278, 
+                    "end": 1288, 
+                    "score": 0.1486513614654541, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 1517, 
+                    "end": 1527, 
+                    "score": 0.0892743393778801, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 1575, 
+                    "end": 1585, 
+                    "score": 0.11392365396022797, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 3195, 
+                    "end": 3205, 
+                    "score": 0.2541106641292572, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 3797, 
+                    "end": 3807, 
+                    "score": 0.0434904620051384, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 3964, 
+                    "end": 3974, 
+                    "score": 0.117984339594841, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 4334, 
+                    "end": 4344, 
+                    "score": 0.12693774700164795, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 4627, 
+                    "end": 4636, 
+                    "score": 0.2181469351053238, 
+                    "spot": "guerrilla"
+                }, 
+                {
+                    "begin": 5410, 
+                    "end": 5420, 
+                    "score": 0.28177276253700256, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 5993, 
+                    "end": 6003, 
+                    "score": 0.12611126899719238, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 6231, 
+                    "end": 6241, 
+                    "score": 0.11655456572771072, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 6611, 
+                    "end": 6621, 
+                    "score": 0.20432353019714355, 
+                    "spot": "guerrillas"
+                }
+            ], 
+            "wiki_id": 12720, 
+            "wiki_title": "Guerrilla warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 612, 
+                    "end": 619, 
+                    "score": 0.003348075784742832, 
+                    "spot": "stretch"
+                }
+            ], 
+            "wiki_id": 5925708, 
+            "wiki_title": "Stretch (rapper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 254, 
+                    "score": 0.800000011920929, 
+                    "spot": "Upper Huallaga Valley"
+                }, 
+                {
+                    "begin": 239, 
+                    "end": 254, 
+                    "score": 0.570141077041626, 
+                    "spot": "Huallaga Valley"
+                }, 
+                {
+                    "begin": 595, 
+                    "end": 603, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }, 
+                {
+                    "begin": 1036, 
+                    "end": 1044, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }, 
+                {
+                    "begin": 1620, 
+                    "end": 1628, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }, 
+                {
+                    "begin": 1815, 
+                    "end": 1823, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }, 
+                {
+                    "begin": 2528, 
+                    "end": 2536, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }, 
+                {
+                    "begin": 3034, 
+                    "end": 3055, 
+                    "score": 0.800000011920929, 
+                    "spot": "Upper Huallaga Valley"
+                }, 
+                {
+                    "begin": 3040, 
+                    "end": 3055, 
+                    "score": 0.3499999940395355, 
+                    "spot": "Huallaga Valley"
+                }, 
+                {
+                    "begin": 4358, 
+                    "end": 4366, 
+                    "score": 0.1489361673593521, 
+                    "spot": "Huallaga"
+                }
+            ], 
+            "wiki_id": 1915871, 
+            "wiki_title": "Huallaga River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 505, 
+                    "end": 512, 
+                    "score": 0.11189118027687073, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 5499, 
+                    "end": 5503, 
+                    "score": 0.10478754341602325, 
+                    "spot": "crop"
+                }, 
+                {
+                    "begin": 5560, 
+                    "end": 5567, 
+                    "score": 0.09398568421602249, 
+                    "spot": "farmers"
+                }
+            ], 
+            "wiki_id": 627, 
+            "wiki_title": "Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 108, 
+                    "end": 114, 
+                    "score": 0.10693880915641785, 
+                    "spot": "fields"
+                }
+            ], 
+            "wiki_id": 219931, 
+            "wiki_title": "Oil field"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6217, 
+                    "end": 6219, 
+                    "score": 0.08705192804336548, 
+                    "spot": "me"
+                }
+            ], 
+            "wiki_id": 19323, 
+            "wiki_title": "Middle East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3418, 
+                    "end": 3422, 
+                    "score": 0.03793460875749588, 
+                    "spot": "town"
+                }
+            ], 
+            "wiki_id": 52911, 
+            "wiki_title": "Town"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 339, 
+                    "score": 0.07580547034740448, 
+                    "spot": "enough to eat"
+                }
+            ], 
+            "wiki_id": 216361, 
+            "wiki_title": "Food security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5662, 
+                    "end": 5666, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 822, 
+                    "end": 836, 
+                    "score": 0.255226731300354, 
+                    "spot": "democratically"
+                }
+            ], 
+            "wiki_id": 7959, 
+            "wiki_title": "Democracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1784, 
+                    "end": 1788, 
+                    "score": 0.061225078999996185, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 1934, 
+                    "end": 1938, 
+                    "score": 0.07108859717845917, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 3238, 
+                    "end": 3242, 
+                    "score": 0.08399199694395065, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 4589, 
+                    "end": 4593, 
+                    "score": 0.1178659051656723, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 6203, 
+                    "end": 6207, 
+                    "score": 0.14889447391033173, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 1376, 
+            "wiki_title": "Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 362, 
+                    "end": 366, 
+                    "score": 0.06397012621164322, 
+                    "spot": "rich"
+                }
+            ], 
+            "wiki_id": 8645415, 
+            "wiki_title": "Affluence in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1943, 
+                    "end": 1950, 
+                    "score": 0.12896254658699036, 
+                    "spot": "virtual"
+                }
+            ], 
+            "wiki_id": 32612, 
+            "wiki_title": "Virtual reality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2537, 
+                    "end": 2546, 
+                    "score": 0.0025531144347041845, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 30629, 
+            "wiki_title": "The Residents"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4197, 
+                    "end": 4207, 
+                    "score": 0.24212613701820374, 
+                    "spot": "Colombians"
+                }
+            ], 
+            "wiki_id": 7941778, 
+            "wiki_title": "Colombians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 550, 
+                    "end": 556, 
+                    "score": 0.15093116462230682, 
+                    "spot": "rebels"
+                }, 
+                {
+                    "begin": 4091, 
+                    "end": 4097, 
+                    "score": 0.10358788073062897, 
+                    "spot": "rebels"
+                }, 
+                {
+                    "begin": 4484, 
+                    "end": 4490, 
+                    "score": 0.21688684821128845, 
+                    "spot": "rebels"
+                }, 
+                {
+                    "begin": 4887, 
+                    "end": 4893, 
+                    "score": 0.1741563230752945, 
+                    "spot": "rebels"
+                }, 
+                {
+                    "begin": 5586, 
+                    "end": 5592, 
+                    "score": 0.12017655372619629, 
+                    "spot": "rebels"
+                }
+            ], 
+            "wiki_id": 513246, 
+            "wiki_title": "Rebellion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1963, 
+                    "end": 1970, 
+                    "score": 0.16130651533603668, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 7011, 
+            "wiki_title": "Control engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4826, 
+                    "end": 4830, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1330, 
+                    "end": 1333, 
+                    "score": 0.07146109640598297, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 226, 
+                    "end": 230, 
+                    "score": 0.5547810792922974, 
+                    "spot": "Peru"
+                }, 
+                {
+                    "begin": 815, 
+                    "end": 819, 
+                    "score": 0.466818243265152, 
+                    "spot": "Peru"
+                }, 
+                {
+                    "begin": 1104, 
+                    "end": 1112, 
+                    "score": 0.12112829834222794, 
+                    "spot": "Peruvian"
+                }, 
+                {
+                    "begin": 1716, 
+                    "end": 1724, 
+                    "score": 0.09641677141189575, 
+                    "spot": "Peruvian"
+                }, 
+                {
+                    "begin": 6548, 
+                    "end": 6556, 
+                    "score": 0.0935789942741394, 
+                    "spot": "Peruvian"
+                }, 
+                {
+                    "begin": 6627, 
+                    "end": 6631, 
+                    "score": 0.4798278212547302, 
+                    "spot": "Peru"
+                }
+            ], 
+            "wiki_id": 170691, 
+            "wiki_title": "Peru"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1004, 
+                    "end": 1011, 
+                    "score": 0.0954703539609909, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 1495, 
+                    "end": 1502, 
+                    "score": 0.04300858825445175, 
+                    "spot": "growers"
+                }, 
+                {
+                    "begin": 2379, 
+                    "end": 2386, 
+                    "score": 0.1051134243607521, 
+                    "spot": "growers"
+                }, 
+                {
+                    "begin": 2933, 
+                    "end": 2940, 
+                    "score": 0.0019651881884783506, 
+                    "spot": "growers"
+                }, 
+                {
+                    "begin": 4065, 
+                    "end": 4072, 
+                    "score": 0.08668079972267151, 
+                    "spot": "farmers"
+                }
+            ], 
+            "wiki_id": 58688, 
+            "wiki_title": "Farmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4371, 
+                    "end": 4377, 
+                    "score": 0.07089229673147202, 
+                    "spot": "denies"
+                }
+            ], 
+            "wiki_id": 6995889, 
+            "wiki_title": "Armenian Genocide denial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2776, 
+                    "end": 2780, 
+                    "score": 0.017551681026816368, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5287, 
+                    "end": 5299, 
+                    "score": 0.0006782169220969081, 
+                    "spot": "administered"
+                }
+            ], 
+            "wiki_id": 380440, 
+            "wiki_title": "Soviet Military Administration in Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4262, 
+                    "end": 4271, 
+                    "score": 0.04420064389705658, 
+                    "spot": "commander"
+                }
+            ], 
+            "wiki_id": 226168, 
+            "wiki_title": "Commander"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3622, 
+                    "end": 3630, 
+                    "score": 0.07624909281730652, 
+                    "spot": "planting"
+                }
+            ], 
+            "wiki_id": 46223, 
+            "wiki_title": "Sowing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5360, 
+                    "end": 5367, 
+                    "score": 0.0843697339296341, 
+                    "spot": "new-man"
+                }
+            ], 
+            "wiki_id": 49706, 
+            "wiki_title": "Paul Newman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 36, 
+                    "end": 42, 
+                    "score": 0.08054956048727036, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 18393, 
+            "wiki_title": "Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1247, 
+                    "end": 1252, 
+                    "score": 0.02349592000246048, 
+                    "spot": "quick"
+                }
+            ], 
+            "wiki_id": 14597951, 
+            "wiki_title": "Jonathan Quick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1490, 
+                    "end": 1494, 
+                    "score": 0.02402983047068119, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 2928, 
+                    "end": 2932, 
+                    "score": 0.02402983047068119, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 3855, 
+                    "end": 3859, 
+                    "score": 0.02402983047068119, 
+                    "spot": "coca"
+                }
+            ], 
+            "wiki_id": 464186, 
+            "wiki_title": "Coheed and Cambria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 837, 
+                    "end": 855, 
+                    "score": 0.35432168841362, 
+                    "spot": "elected government"
+                }, 
+                {
+                    "begin": 845, 
+                    "end": 855, 
+                    "score": 0.2972719073295593, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 2032, 
+                    "end": 2042, 
+                    "score": 0.20984309911727905, 
+                    "spot": "Government"
+                }, 
+                {
+                    "begin": 6265, 
+                    "end": 6275, 
+                    "score": 0.14223110675811768, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4753, 
+                    "end": 4761, 
+                    "score": 0.10991895198822021, 
+                    "spot": "murdered"
+                }
+            ], 
+            "wiki_id": 15474, 
+            "wiki_title": "Infanticide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3948, 
+                    "end": 3958, 
+                    "score": 0.11371598392724991, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 219249, 
+            "wiki_title": "Protectorate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5792, 
+                    "end": 5795, 
+                    "score": 0.03099587932229042, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 366439, 
+            "wiki_title": "Out (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2614, 
+                    "end": 2622, 
+                    "score": 0.02053370513021946, 
+                    "spot": "hundreds"
+                }
+            ], 
+            "wiki_id": 1671458, 
+            "wiki_title": "Century (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1208, 
+                    "end": 1214, 
+                    "score": 0.08616521209478378, 
+                    "spot": "plants"
+                }
+            ], 
+            "wiki_id": 1045127, 
+            "wiki_title": "Landrace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 165, 
+                    "end": 168, 
+                    "score": 0.1350376307964325, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 1090, 
+                    "end": 1093, 
+                    "score": 0.14724978804588318, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 1443, 
+                    "end": 1446, 
+                    "score": 0.07311585545539856, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 1729, 
+                    "end": 1732, 
+                    "score": 0.1063598096370697, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 2639, 
+                    "end": 2646, 
+                    "score": 0.09976815432310104, 
+                    "spot": "dollars"
+                }, 
+                {
+                    "begin": 6561, 
+                    "end": 6564, 
+                    "score": 0.10637741535902023, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1552, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3132, 
+                    "end": 3139, 
+                    "score": 0.03995785489678383, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 5165, 
+            "wiki_title": "Country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2579, 
+                    "end": 2585, 
+                    "score": 0.0982142984867096, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 4692150, 
+            "wiki_title": "Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 469, 
+                    "end": 481, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 722, 
+                    "end": 734, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 1391, 
+                    "end": 1403, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 2326, 
+                    "end": 2338, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 3751, 
+                    "end": 3763, 
+                    "score": 0.6753350496292114, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 4439, 
+                    "end": 4451, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 4813, 
+                    "end": 4825, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 5123, 
+                    "end": 5135, 
+                    "score": 0.760242223739624, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 5270, 
+                    "end": 5282, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 6342, 
+                    "end": 6354, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }
+            ], 
+            "wiki_id": 28521, 
+            "wiki_title": "Shining Path"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1345, 
+                    "end": 1353, 
+                    "score": 0.006215469446033239, 
+                    "spot": "downplay"
+                }
+            ], 
+            "wiki_id": 31112384, 
+            "wiki_title": "Downplay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5063, 
+                    "end": 5073, 
+                    "score": 0.009904912672936916, 
+                    "spot": "paved road"
+                }
+            ], 
+            "wiki_id": 241387, 
+            "wiki_title": "Road surface"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 101, 
+                    "score": 0.0014668978983536363, 
+                    "spot": "replacing"
+                }
+            ], 
+            "wiki_id": 2401985, 
+            "wiki_title": "Substitute (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5782, 
+                    "end": 5785, 
+                    "score": 0.16911950707435608, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5929, 
+                    "end": 5932, 
+                    "score": 0.06590793281793594, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 682, 
+                    "score": 0.11853041499853134, 
+                    "spot": "zone"
+                }, 
+                {
+                    "begin": 1687, 
+                    "end": 1691, 
+                    "score": 0.106462761759758, 
+                    "spot": "zone"
+                }
+            ], 
+            "wiki_id": 315787, 
+            "wiki_title": "Panama Canal Zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5098, 
+                    "end": 5110, 
+                    "score": 0.13153965771198273, 
+                    "spot": "relationship"
+                }
+            ], 
+            "wiki_id": 39766813, 
+            "wiki_title": "Relations of production"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2522, 
+                    "end": 2527, 
+                    "score": 0.041725870221853256, 
+                    "spot": "Upper"
+                }, 
+                {
+                    "begin": 4352, 
+                    "end": 4357, 
+                    "score": 0.08530965447425842, 
+                    "spot": "Upper"
+                }
+            ], 
+            "wiki_id": 538644, 
+            "wiki_title": "Upper house"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6304, 
+                    "end": 6311, 
+                    "score": 0.08347403258085251, 
+                    "spot": "current"
+                }
+            ], 
+            "wiki_id": 24483792, 
+            "wiki_title": "Current (fluid)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1951, 
+                    "end": 1962, 
+                    "score": 0.16540803015232086, 
+                    "spot": "dictatorial"
+                }
+            ], 
+            "wiki_id": 9033, 
+            "wiki_title": "Dictatorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5300, 
+                    "end": 5306, 
+                    "score": 0.0008139833807945251, 
+                    "spot": "brutal"
+                }
+            ], 
+            "wiki_id": 18242072, 
+            "wiki_title": "Brutal (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2453, 
+                    "end": 2462, 
+                    "score": 0.05161439999938011, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 2569, 
+                    "end": 2578, 
+                    "score": 0.09780829399824142, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 2710, 
+                    "end": 2719, 
+                    "score": 0.05161439999938011, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2005, 
+                    "end": 2015, 
+                    "score": 0.19634011387825012, 
+                    "spot": "operations"
+                }
+            ], 
+            "wiki_id": 666301, 
+            "wiki_title": "Military operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5340, 
+                    "end": 5343, 
+                    "score": 0.11183582246303558, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5532, 
+                    "end": 5535, 
+                    "score": 0.11326652020215988, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2822, 
+                    "end": 2831, 
+                    "score": 0.32395297288894653, 
+                    "spot": "President"
+                }
+            ], 
+            "wiki_id": 24356889, 
+            "wiki_title": "President of Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1483, 
+                    "end": 1489, 
+                    "score": 0.0007276217802427709, 
+                    "spot": "pushed"
+                }
+            ], 
+            "wiki_id": 849472, 
+            "wiki_title": "Push (professional wrestling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3545, 
+                    "end": 3552, 
+                    "score": 0.06105818971991539, 
+                    "spot": "blocked"
+                }
+            ], 
+            "wiki_id": 11056386, 
+            "wiki_title": "Internet censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4951, 
+                    "end": 4958, 
+                    "score": 0.10998804122209549, 
+                    "spot": "program"
+                }, 
+                {
+                    "begin": 5517, 
+                    "end": 5524, 
+                    "score": 0.2137768566608429, 
+                    "spot": "program"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4637, 
+                    "end": 4645, 
+                    "score": 0.08575161546468735, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 197767, 
+            "wiki_title": "Radioactive decay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4234, 
+                    "end": 4239, 
+                    "score": 0.049950845539569855, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 1549583, 
+            "wiki_title": "Local government in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1706, 
+                    "end": 1715, 
+                    "score": 0.09401781857013702, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1755, 
+                    "end": 1767, 
+                    "score": 0.0006449532229453325, 
+                    "spot": "would rather"
+                }
+            ], 
+            "wiki_id": 34936003, 
+            "wiki_title": "Uses of English verb forms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2258, 
+                    "end": 2266, 
+                    "score": 0.030612245202064514, 
+                    "spot": "carry on"
+                }
+            ], 
+            "wiki_id": 37113344, 
+            "wiki_title": "Carry On (Avenged Sevenfold song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5536, 
+                    "end": 5541, 
+                    "score": 0.0008145628380589187, 
+                    "spot": "works"
+                }
+            ], 
+            "wiki_id": 7102026, 
+            "wiki_title": "Ibn 'Asakir"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 747, 
+                    "end": 756, 
+                    "score": 0.0006337135564535856, 
+                    "spot": "neglected"
+                }
+            ], 
+            "wiki_id": 1229233, 
+            "wiki_title": "Child neglect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 81, 
+                    "end": 85, 
+                    "score": 0.01898670196533203, 
+                    "spot": "town"
+                }
+            ], 
+            "wiki_id": 605826, 
+            "wiki_title": "On the Town (musical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5647, 
+                    "end": 5657, 
+                    "score": 0.29420408606529236, 
+                    "spot": "homosexual"
+                }
+            ], 
+            "wiki_id": 5488304, 
+            "wiki_title": "Homosexuality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1067, 
+                    "end": 1072, 
+                    "score": 0.013147477991878986, 
+                    "spot": "anger"
+                }
+            ], 
+            "wiki_id": 11350478, 
+            "wiki_title": "Anger (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1113, 
+                    "end": 1122, 
+                    "score": 0.16053582727909088, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 1170, 
+                    "end": 1186, 
+                    "score": 0.5014786720275879, 
+                    "spot": "drug trafficking"
+                }, 
+                {
+                    "begin": 1293, 
+                    "end": 1309, 
+                    "score": 0.2509814500808716, 
+                    "spot": "drug trafficking"
+                }, 
+                {
+                    "begin": 1377, 
+                    "end": 1382, 
+                    "score": 0.12943769991397858, 
+                    "spot": "drugs"
+                }, 
+                {
+                    "begin": 1457, 
+                    "end": 1466, 
+                    "score": 0.08593107759952545, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 2062, 
+                    "end": 2071, 
+                    "score": 0.24354837834835052, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 2504, 
+                    "end": 2513, 
+                    "score": 0.16559012234210968, 
+                    "spot": "Anti-drug"
+                }, 
+                {
+                    "begin": 3264, 
+                    "end": 3273, 
+                    "score": 0.17035011947155, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 4174, 
+                    "end": 4185, 
+                    "score": 0.19637267291545868, 
+                    "spot": "traffickers"
+                }, 
+                {
+                    "begin": 4279, 
+                    "end": 4288, 
+                    "score": 0.15402179956436157, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 4414, 
+                    "end": 4430, 
+                    "score": 0.18600809574127197, 
+                    "spot": "drug traffickers"
+                }, 
+                {
+                    "begin": 6459, 
+                    "end": 6463, 
+                    "score": 0.30694955587387085, 
+                    "spot": "drug"
+                }, 
+                {
+                    "begin": 6459, 
+                    "end": 6469, 
+                    "score": 0.3031846284866333, 
+                    "spot": "drug money"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 990, 
+                    "end": 997, 
+                    "score": 0.06468204408884048, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 2726726, 
+            "wiki_title": "Military logistics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5258, 
+                    "end": 5264, 
+                    "score": 0.11275187134742737, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3771, 
+                    "end": 3789, 
+                    "score": 0.011363636702299118, 
+                    "spot": "golden opportunity"
+                }
+            ], 
+            "wiki_id": 7249523, 
+            "wiki_title": "Golden Opportunity (The Bill)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5181, 
+                    "end": 5188, 
+                    "score": 0.059791311621665955, 
+                    "spot": "cordial"
+                }
+            ], 
+            "wiki_id": 18629, 
+            "wiki_title": "Liqueur"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 484, 
+                    "end": 495, 
+                    "score": 0.25608283281326294, 
+                    "spot": "Development"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4846, 
+                    "end": 4850, 
+                    "score": 0.11757545918226242, 
+                    "spot": "kind"
+                }
+            ], 
+            "wiki_id": 246043, 
+            "wiki_title": "Kindness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3087, 
+                    "end": 3093, 
+                    "score": 0.02297031693160534, 
+                    "spot": "troops"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3576, 
+                    "end": 3585, 
+                    "score": 0.08082142472267151, 
+                    "spot": "residents"
+                }, 
+                {
+                    "begin": 4458, 
+                    "end": 4467, 
+                    "score": 0.10751570016145706, 
+                    "spot": "residents"
+                }, 
+                {
+                    "begin": 6130, 
+                    "end": 6139, 
+                    "score": 0.0025531144347041845, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5351, 
+                    "end": 5354, 
+                    "score": 0.1820826530456543, 
+                    "spot": "fit"
+                }
+            ], 
+            "wiki_id": 27154, 
+            "wiki_title": "Epileptic seizure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1614, 
+                    "end": 1619, 
+                    "score": 0.0018623732030391693, 
+                    "spot": "Upper"
+                }
+            ], 
+            "wiki_id": 234081, 
+            "wiki_title": "Upper Egypt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3618, 
+                    "end": 3621, 
+                    "score": 0.06401049345731735, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4297, 
+                    "end": 4300, 
+                    "score": 0.09906310588121414, 
+                    "spot": "Gen"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 21, 
+                    "score": 0.03695868328213692, 
+                    "spot": "1970s"
+                }
+            ], 
+            "wiki_id": 34555, 
+            "wiki_title": "1970s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5978, 
+                    "end": 5982, 
+                    "score": 0.10508482158184052, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 3755059, 
+            "wiki_title": "Area (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4599, 
+                    "end": 4607, 
+                    "score": 0.07394208014011383, 
+                    "spot": "outposts"
+                }
+            ], 
+            "wiki_id": 25803948, 
+            "wiki_title": "Outpost (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5344, 
+                    "end": 5346, 
+                    "score": 0.19808530807495117, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 14335899, 
+            "wiki_title": "Doctor of Osteopathic Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2278, 
+                    "end": 2282, 
+                    "score": 0.02723858505487442, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6047, 
+                    "end": 6053, 
+                    "score": 0.07033032178878784, 
+                    "spot": "mayors"
+                }, 
+                {
+                    "begin": 6163, 
+                    "end": 6168, 
+                    "score": 0.18870657682418823, 
+                    "spot": "Mayor"
+                }
+            ], 
+            "wiki_id": 101146, 
+            "wiki_title": "Mayor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6220, 
+                    "end": 6226, 
+                    "score": 0.0039281705394387245, 
+                    "spot": "I'm on"
+                }
+            ], 
+            "wiki_id": 27702280, 
+            "wiki_title": "I'm On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6538, 
+                    "end": 6547, 
+                    "score": 0.011574073694646358, 
+                    "spot": "confounds"
+                }
+            ], 
+            "wiki_id": 3105999, 
+            "wiki_title": "Confounding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5431, 
+                    "end": 5438, 
+                    "score": 0.001254750182852149, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 2434267, 
+            "wiki_title": "Allegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 416, 
+                    "end": 419, 
+                    "score": 0.0008870810270309448, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 5027796, 
+            "wiki_title": "Big (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3727, 
+                    "end": 3737, 
+                    "score": 0.09714847058057785, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 153023, 
+            "wiki_title": "Protectionism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5915, 
+                    "end": 5921, 
+                    "score": 0.19835838675498962, 
+                    "spot": "parish"
+                }
+            ], 
+            "wiki_id": 23623, 
+            "wiki_title": "Parish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1157, 
+                    "end": 1169, 
+                    "score": 0.24170075356960297, 
+                    "spot": "interdicting"
+                }
+            ], 
+            "wiki_id": 14851545, 
+            "wiki_title": "Interdiction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2443, 
+                    "end": 2452, 
+                    "score": 0.07945291697978973, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 2700, 
+                    "end": 2709, 
+                    "score": 0.1306910216808319, 
+                    "spot": "anti-drug"
+                }, 
+                {
+                    "begin": 4941, 
+                    "end": 4950, 
+                    "score": 0.18577121198177338, 
+                    "spot": "anti-drug"
+                }
+            ], 
+            "wiki_id": 102959, 
+            "wiki_title": "Substance abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5224, 
+                    "end": 5237, 
+                    "score": 0.1348312646150589, 
+                    "spot": "revolutionary"
+                }
+            ], 
+            "wiki_id": 1973, 
+            "wiki_title": "American Revolution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2832, 
+                    "end": 2843, 
+                    "score": 0.5, 
+                    "spot": "Alan Garcia"
+                }
+            ], 
+            "wiki_id": 335166, 
+            "wiki_title": "Alan Garc\u00eda"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3600, 
+                    "end": 3604, 
+                    "score": 0.10921967774629593, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5693, 
+                    "end": 5698, 
+                    "score": 0.051298897713422775, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 960242, 
+            "wiki_title": "Morava (river)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2204, 
+                    "end": 2212, 
+                    "score": 0.1475549042224884, 
+                    "spot": "barracks"
+                }
+            ], 
+            "wiki_id": 1033489, 
+            "wiki_title": "Barracks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2072, 
+                    "end": 2078, 
+                    "score": 0.14729391038417816, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 2514, 
+                    "end": 2520, 
+                    "score": 0.13484230637550354, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 3517, 
+                    "end": 3523, 
+                    "score": 0.1127408891916275, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 4289, 
+                    "end": 4295, 
+                    "score": 0.21346038579940796, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 4708, 
+                    "end": 4714, 
+                    "score": 0.1148279458284378, 
+                    "spot": "police"
+                }
+            ], 
+            "wiki_id": 23627, 
+            "wiki_title": "Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 369, 
+                    "end": 375, 
+                    "score": 0.010442773811519146, 
+                    "spot": "Lately"
+                }
+            ], 
+            "wiki_id": 492820, 
+            "wiki_title": "Lostprophets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3339, 
+                    "end": 3358, 
+                    "score": 0.005417956504970789, 
+                    "spot": "former headquarters"
+                }
+            ], 
+            "wiki_id": 1171542, 
+            "wiki_title": "Hitsville U.S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 176, 
+                    "score": 0.15772217512130737, 
+                    "spot": "demand"
+                }
+            ], 
+            "wiki_id": 29664, 
+            "wiki_title": "Supply and demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4524, 
+                    "end": 4535, 
+                    "score": 0.06964980810880661, 
+                    "spot": "in the zone"
+                }
+            ], 
+            "wiki_id": 365930, 
+            "wiki_title": "In the Zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3487, 
+                    "end": 3494, 
+                    "score": 0.5, 
+                    "spot": "Tocache"
+                }
+            ], 
+            "wiki_id": 6639734, 
+            "wiki_title": "Tocache Province"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3892, 
+                    "end": 3897, 
+                    "score": 0.025843873620033264, 
+                    "spot": "owner"
+                }
+            ], 
+            "wiki_id": 23626, 
+            "wiki_title": "Property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5705, 
+                    "end": 5707, 
+                    "score": 0.05275832861661911, 
+                    "spot": "El"
+                }
+            ], 
+            "wiki_id": 1765158, 
+            "wiki_title": "Elevation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1856, 
+                    "end": 1874, 
+                    "score": 0.24581317603588104, 
+                    "spot": "state of emergency"
+                }
+            ], 
+            "wiki_id": 1660219, 
+            "wiki_title": "The Emergency (India)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 986, 
+                    "end": 989, 
+                    "score": 0.0016373477410525084, 
+                    "spot": "win"
+                }
+            ], 
+            "wiki_id": 1566614, 
+            "wiki_title": "Win Butler"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 35, 
+                    "score": 0.1622140109539032, 
+                    "spot": "farmers"
+                }
+            ], 
+            "wiki_id": 59790, 
+            "wiki_title": "Farm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5575, 
+                    "end": 5579, 
+                    "score": 0.03729276359081268, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4683, 
+                    "end": 4689, 
+                    "score": 0.1800840049982071, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2663, 
+                    "end": 2673, 
+                    "score": 0.23002880811691284, 
+                    "spot": "drug lords"
+                }
+            ], 
+            "wiki_id": 23002805, 
+            "wiki_title": "Drug lord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1850, 
+                    "score": 0.033560045063495636, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 47863127, 
+            "wiki_title": "Period (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3449, 
+                    "end": 3459, 
+                    "score": 0.03862166404724121, 
+                    "spot": "entrenched"
+                }
+            ], 
+            "wiki_id": 204118, 
+            "wiki_title": "Fortification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3912, 
+                    "end": 3925, 
+                    "score": 0.26558518409729004, 
+                    "spot": "radio station"
+                }
+            ], 
+            "wiki_id": 173088, 
+            "wiki_title": "Radio broadcasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 690, 
+                    "end": 695, 
+                    "score": 0.001244428800418973, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 33134, 
+            "wiki_title": "World music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3883, 
+                    "end": 3890, 
+                    "score": 0.0515996590256691, 
+                    "spot": "Ramirez"
+                }
+            ], 
+            "wiki_id": 7372901, 
+            "wiki_title": "Alexei Ram\u00edrez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5778, 
+                    "end": 5781, 
+                    "score": 0.09573610872030258, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 15822899, 
+            "wiki_title": "Man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1734, 
+                    "end": 1743, 
+                    "score": 0.04659048840403557, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 6566, 
+                    "end": 6575, 
+                    "score": 0.08863383531570435, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 118, 
+                    "end": 123, 
+                    "score": 0.500394880771637, 
+                    "spot": "cacao"
+                }, 
+                {
+                    "begin": 283, 
+                    "end": 288, 
+                    "score": 0.4237883687019348, 
+                    "spot": "cacao"
+                }
+            ], 
+            "wiki_id": 54229, 
+            "wiki_title": "Cocoa bean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4986, 
+                    "end": 4990, 
+                    "score": 0.06820543110370636, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 128263, 
+            "wiki_title": "County Down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6649, 
+                    "end": 6656, 
+                    "score": 0.040612880140542984, 
+                    "spot": "Bridges"
+                }
+            ], 
+            "wiki_id": 35936916, 
+            "wiki_title": "Thomas Bridges (Anglican missionary)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4660, 
+                    "end": 4669, 
+                    "score": 0.14404265582561493, 
+                    "spot": "community"
+                }, 
+                {
+                    "begin": 5725, 
+                    "end": 5734, 
+                    "score": 0.09754827618598938, 
+                    "spot": "community"
+                }, 
+                {
+                    "begin": 5882, 
+                    "end": 5891, 
+                    "score": 0.18137063086032867, 
+                    "spot": "community"
+                }
+            ], 
+            "wiki_id": 5695, 
+            "wiki_title": "Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2684, 
+                    "end": 2688, 
+                    "score": 0.06362838298082352, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 911, 
+                    "end": 920, 
+                    "score": 0.08124357461929321, 
+                    "spot": "mountains"
+                }
+            ], 
+            "wiki_id": 25459, 
+            "wiki_title": "Rocky Mountains"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6434, 
+                    "end": 6443, 
+                    "score": 0.12640690803527832, 
+                    "spot": "corrupted"
+                }
+            ], 
+            "wiki_id": 66220, 
+            "wiki_title": "Political corruption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6188, 
+                    "end": 6195, 
+                    "score": 0.19838863611221313, 
+                    "spot": "captain"
+                }
+            ], 
+            "wiki_id": 9320815, 
+            "wiki_title": "Captain (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3283, 
+                    "end": 3286, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3714, 
+                    "end": 3718, 
+                    "score": 0.06369419395923615, 
+                    "spot": "loss"
+                }, 
+                {
+                    "begin": 5421, 
+                    "end": 5427, 
+                    "score": 0.11598959565162659, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 368513, 
+            "wiki_title": "Killed in action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2768, 
+                    "end": 2772, 
+                    "score": 0.05789019167423248, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 2879, 
+                    "end": 2883, 
+                    "score": 0.05094873905181885, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 3722, 
+                    "end": 3726, 
+                    "score": 0.09798519313335419, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 32087, 
+            "wiki_title": "United States Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1660, 
+                    "end": 1669, 
+                    "score": 0.12781602144241333, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 177165, 
+            "wiki_title": "Malayan Emergency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2140, 
+                    "end": 2146, 
+                    "score": 0.05977876856923103, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 1692431, 
+            "wiki_title": "DVD region code"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5331, 
+                    "end": 5339, 
+                    "score": 0.04611794650554657, 
+                    "spot": "peasants"
+                }
+            ], 
+            "wiki_id": 68282, 
+            "wiki_title": "Peasant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2220, 
+                    "end": 2224, 
+                    "score": 0.16746900975704193, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 2591, 
+                    "end": 2595, 
+                    "score": 0.17647521197795868, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 4887, 
+            "wiki_title": "British Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 629, 
+                    "score": 0.12654781341552734, 
+                    "spot": "jungle"
+                }, 
+                {
+                    "begin": 1019, 
+                    "end": 1026, 
+                    "score": 0.11377795040607452, 
+                    "spot": "jungles"
+                }, 
+                {
+                    "begin": 3659, 
+                    "end": 3665, 
+                    "score": 0.14720331132411957, 
+                    "spot": "jungle"
+                }
+            ], 
+            "wiki_id": 341265, 
+            "wiki_title": "Jungle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 46, 
+                    "end": 57, 
+                    "score": 0.005312360357493162, 
+                    "spot": "communities"
+                }
+            ], 
+            "wiki_id": 222043, 
+            "wiki_title": "Local government in Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3301, 
+                    "end": 3312, 
+                    "score": 0.004839910659939051, 
+                    "spot": "traffickers"
+                }
+            ], 
+            "wiki_id": 36823226, 
+            "wiki_title": "The Traffickers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4215, 
+                    "end": 4222, 
+                    "score": 0.24736721813678741, 
+                    "spot": "weapons"
+                }
+            ], 
+            "wiki_id": 42210, 
+            "wiki_title": "Arms trafficking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3173, 
+                    "end": 3188, 
+                    "score": 0.6359585523605347, 
+                    "spot": "Ayacucho region"
+                }
+            ], 
+            "wiki_id": 713233, 
+            "wiki_title": "Ayacucho Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4965, 
+                    "end": 4975, 
+                    "score": 0.001303199678659439, 
+                    "spot": "three days"
+                }
+            ], 
+            "wiki_id": 41050266, 
+            "wiki_title": "Three Days (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5003, 
+                    "end": 5007, 
+                    "score": 0.048988472670316696, 
+                    "spot": "road"
+                }
+            ], 
+            "wiki_id": 25897, 
+            "wiki_title": "Road"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2113, 
+                    "end": 2117, 
+                    "score": 0.06733598560094833, 
+                    "spot": "unit"
+                }
+            ], 
+            "wiki_id": 6714405, 
+            "wiki_title": "Military organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5778, 
+                    "end": 5785, 
+                    "score": 0.07090888917446136, 
+                    "spot": "man who"
+                }
+            ], 
+            "wiki_id": 1272729, 
+            "wiki_title": "The Man Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1801, 
+                    "score": 0.10831556469202042, 
+                    "spot": "force"
+                }
+            ], 
+            "wiki_id": 10902, 
+            "wiki_title": "Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1335, 
+                    "end": 1344, 
+                    "score": 0.0007770162774249911, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 5534832, 
+            "wiki_title": "Referee (professional wrestling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 317, 
+                    "end": 325, 
+                    "score": 0.12247977405786514, 
+                    "spot": "families"
+                }, 
+                {
+                    "begin": 5866, 
+                    "end": 5874, 
+                    "score": 0.10260529816150665, 
+                    "spot": "families"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3838, 
+                    "end": 3847, 
+                    "score": 0.031018085777759552, 
+                    "spot": "defenders"
+                }
+            ], 
+            "wiki_id": 708960, 
+            "wiki_title": "The Defenders (1961 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1599, 
+                    "end": 1606, 
+                    "score": 0.1139141321182251, 
+                    "spot": "numbers"
+                }
+            ], 
+            "wiki_id": 21690, 
+            "wiki_title": "Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1593, 
+                    "end": 1606, 
+                    "score": 0.1655142456293106, 
+                    "spot": "large numbers"
+                }
+            ], 
+            "wiki_id": 25657, 
+            "wiki_title": "Roman numerals"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1634, 
+                    "end": 1638, 
+                    "score": 0.08171898871660233, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 343949, 
+            "wiki_title": "Indian Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6414, 
+                    "end": 6420, 
+                    "score": 0.10386431962251663, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 17207794, 
+            "wiki_title": "Djibouti"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1835, 
+                    "end": 1843, 
+                    "score": 0.0016370367957279086, 
+                    "spot": "declared"
+                }
+            ], 
+            "wiki_id": 15796209, 
+            "wiki_title": "2008 Kosovo declaration of independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5307, 
+                    "end": 5316, 
+                    "score": 0.004704301245510578, 
+                    "spot": "reprisals"
+                }
+            ], 
+            "wiki_id": 146798, 
+            "wiki_title": "Reprisal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4227, 
+                    "end": 4232, 
+                    "score": 0.10790909826755524, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3274, 
+                    "end": 3282, 
+                    "score": 0.05502855032682419, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 1817986, 
+            "wiki_title": "Advertising campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2723, 
+                    "end": 2726, 
+                    "score": 0.05386919528245926, 
+                    "spot": "bay"
+                }
+            ], 
+            "wiki_id": 1272503, 
+            "wiki_title": "Bay, Laguna"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 433, 
+                    "end": 440, 
+                    "score": 0.15447917580604553, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 647, 
+                    "score": 0.30367740988731384, 
+                    "spot": "Lima"
+                }, 
+                {
+                    "begin": 928, 
+                    "end": 932, 
+                    "score": 0.2720349133014679, 
+                    "spot": "Lima"
+                }
+            ], 
+            "wiki_id": 85423, 
+            "wiki_title": "Lima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1256, 
+                    "end": 1263, 
+                    "score": 0.21965628862380981, 
+                    "spot": "trumpet"
+                }
+            ], 
+            "wiki_id": 30353, 
+            "wiki_title": "Trumpet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2308, 
+                    "end": 2313, 
+                    "score": 0.1009068712592125, 
+                    "spot": "raids"
+                }
+            ], 
+            "wiki_id": 6873191, 
+            "wiki_title": "Raid (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3995, 
+                    "end": 4004, 
+                    "score": 0.004538939334452152, 
+                    "spot": "turn over"
+                }
+            ], 
+            "wiki_id": 2721608, 
+            "wiki_title": "Rugby league gameplay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1561, 
+                    "end": 1569, 
+                    "score": 0.04650770127773285, 
+                    "spot": "admitted"
+                }
+            ], 
+            "wiki_id": 30688587, 
+            "wiki_title": "Admission to the Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2080, 
+                    "end": 2086, 
+                    "score": 0.4642857015132904, 
+                    "spot": "UMOPAR"
+                }, 
+                {
+                    "begin": 2792, 
+                    "end": 2798, 
+                    "score": 0.4642857015132904, 
+                    "spot": "UMOPAR"
+                }, 
+                {
+                    "begin": 4048, 
+                    "end": 4054, 
+                    "score": 0.5648191571235657, 
+                    "spot": "UMOPAR"
+                }
+            ], 
+            "wiki_id": 26077245, 
+            "wiki_title": "UMOPAR"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1123, 
+                    "end": 1131, 
+                    "score": 0.1786981225013733, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 1787172, 
+            "wiki_title": "Military campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3445, 
+                    "end": 3448, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 1058750, 
+            "wiki_title": "Now (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 427, 
+                    "score": 0.10256701707839966, 
+                    "spot": "profits"
+                }
+            ], 
+            "wiki_id": 14252702, 
+            "wiki_title": "Profit (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4926, 
+                    "end": 4936, 
+                    "score": 0.27274075150489807, 
+                    "spot": "protesting"
+                }
+            ], 
+            "wiki_id": 266137, 
+            "wiki_title": "Protest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3931, 
+                    "end": 3937, 
+                    "score": 0.0012273003812879324, 
+                    "spot": "return"
+                }
+            ], 
+            "wiki_id": 21531549, 
+            "wiki_title": "Return on investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3216, 
+                    "end": 3222, 
+                    "score": 0.12894929945468903, 
+                    "spot": "active"
+                }
+            ], 
+            "wiki_id": 1369507, 
+            "wiki_title": "Active duty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6520, 
+                    "end": 6528, 
+                    "score": 0.39743590354919434, 
+                    "spot": "Catch-22"
+                }
+            ], 
+            "wiki_id": 55469, 
+            "wiki_title": "Catch-22"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4578, 
+                    "end": 4584, 
+                    "score": 0.10457783937454224, 
+                    "spot": "police"
+                }
+            ], 
+            "wiki_id": 57321, 
+            "wiki_title": "The Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2489, 
+                    "end": 2501, 
+                    "score": 0.18030428886413574, 
+                    "spot": "lock and key"
+                }
+            ], 
+            "wiki_id": 9257, 
+            "wiki_title": "Enzyme"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6377, 
+                    "end": 6381, 
+                    "score": 0.014646453782916069, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 32173, 
+            "wiki_title": "United States Military Academy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2551, 
+                    "end": 2568, 
+                    "score": 0.2521366477012634, 
+                    "spot": "Interior Ministry"
+                }
+            ], 
+            "wiki_id": 53056, 
+            "wiki_title": "Ministry of Internal Affairs (Russia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 537, 
+                    "end": 540, 
+                    "score": 0.05260428786277771, 
+                    "spot": "say"
+                }, 
+                {
+                    "begin": 4248, 
+                    "end": 4251, 
+                    "score": 0.11312928050756454, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6421, 
+                    "end": 6424, 
+                    "score": 0.1561318337917328, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 372769, 
+            "wiki_title": "Treaty of K\u00fc\u00e7\u00fck Kaynarca"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3010, 
+                    "end": 3026, 
+                    "score": 0.0021008404437452555, 
+                    "spot": "number of troops"
+                }
+            ], 
+            "wiki_id": 23797951, 
+            "wiki_title": "List of countries by number of military and paramilitary personnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2364, 
+                    "score": 0.049766723066568375, 
+                    "spot": "valley"
+                }, 
+                {
+                    "begin": 4769, 
+                    "end": 4775, 
+                    "score": 0.08818967640399933, 
+                    "spot": "valley"
+                }, 
+                {
+                    "begin": 5081, 
+                    "end": 5087, 
+                    "score": 0.09613997489213943, 
+                    "spot": "valley"
+                }
+            ], 
+            "wiki_id": 32416, 
+            "wiki_title": "Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5947, 
+                    "end": 5952, 
+                    "score": 0.06406256556510925, 
+                    "spot": "enter"
+                }
+            ], 
+            "wiki_id": 623587, 
+            "wiki_title": "Enter (Within Temptation album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4702, 
+                    "end": 4707, 
+                    "score": 0.0020110956393182278, 
+                    "spot": "hated"
+                }
+            ], 
+            "wiki_id": 6044004, 
+            "wiki_title": "The Hated"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5933, 
+                    "end": 5936, 
+                    "score": 0.08629561960697174, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 251573, 
+            "wiki_title": "Can (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5631, 
+                    "end": 5638, 
+                    "score": 0.13853926956653595, 
+                    "spot": "murders"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 808, 
+                    "end": 814, 
+                    "score": 0.0024291498120874166, 
+                    "spot": "topple"
+                }
+            ], 
+            "wiki_id": 14272269, 
+            "wiki_title": "Topple"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4981, 
+                    "end": 4985, 
+                    "score": 0.1263103187084198, 
+                    "spot": "shut"
+                }
+            ], 
+            "wiki_id": 530361, 
+            "wiki_title": "Hikikomori"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2186, 
+                    "end": 2194, 
+                    "score": 0.07899539917707443, 
+                    "spot": "confined"
+                }
+            ], 
+            "wiki_id": 247643, 
+            "wiki_title": "House arrest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1474, 
+                    "end": 1477, 
+                    "score": 0.024128232151269913, 
+                    "spot": "may"
+                }, 
+                {
+                    "begin": 2904, 
+                    "end": 2907, 
+                    "score": 0.026755474507808685, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2788, 
+                    "end": 2791, 
+                    "score": 0.0451219417154789, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 496, 
+                    "end": 503, 
+                    "score": 0.20862619578838348, 
+                    "spot": "workers"
+                }, 
+                {
+                    "begin": 4735, 
+                    "end": 4742, 
+                    "score": 0.12139397114515305, 
+                    "spot": "workers"
+                }
+            ], 
+            "wiki_id": 857255, 
+            "wiki_title": "Workforce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 215, 
+                    "end": 222, 
+                    "score": 0.0807429775595665, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 3606, 
+                    "end": 3613, 
+                    "score": 0.036699555814266205, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 3860, 
+                    "end": 3867, 
+                    "score": 0.005370597820729017, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 3987, 
+                    "end": 3994, 
+                    "score": 0.13692855834960938, 
+                    "spot": "farmers"
+                }
+            ], 
+            "wiki_id": 323964, 
+            "wiki_title": "Subsistence agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1319, 
+                    "end": 1328, 
+                    "score": 0.0585932582616806, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4142, 
+                    "end": 4146, 
+                    "score": 0.0006792240310460329, 
+                    "spot": "sell"
+                }, 
+                {
+                    "begin": 5451, 
+                    "end": 5457, 
+                    "score": 0.1934916377067566, 
+                    "spot": "seller"
+                }
+            ], 
+            "wiki_id": 155698, 
+            "wiki_title": "Sales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 23, 
+                    "end": 27, 
+                    "score": 0.1650451421737671, 
+                    "spot": "poor"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2289, 
+                    "end": 2293, 
+                    "score": 0.17667436599731445, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 1965925, 
+            "wiki_title": "Pakistan Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 532, 
+                    "end": 536, 
+                    "score": 0.09457216411828995, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 6061, 
+                    "end": 6065, 
+                    "score": 0.011883868835866451, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 296341, 
+            "wiki_title": "Suffragan bishop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2483, 
+                    "end": 2501, 
+                    "score": 0.11071428656578064, 
+                    "spot": "under lock and key"
+                }
+            ], 
+            "wiki_id": 1484900, 
+            "wiki_title": "Under Lock and Key"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3812, 
+                    "end": 3819, 
+                    "score": 0.1641673892736435, 
+                    "spot": "present"
+                }
+            ], 
+            "wiki_id": 6267826, 
+            "wiki_title": "Present day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3639, 
+                    "end": 3645, 
+                    "score": 0.0007439553737640381, 
+                    "spot": "rugged"
+                }
+            ], 
+            "wiki_id": 4635549, 
+            "wiki_title": "Rugged computer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2164, 
+                    "end": 2174, 
+                    "score": 0.05986254662275314, 
+                    "spot": "production"
+                }, 
+                {
+                    "begin": 2403, 
+                    "end": 2413, 
+                    "score": 0.10609785467386246, 
+                    "spot": "production"
+                }
+            ], 
+            "wiki_id": 39388, 
+            "wiki_title": "Manufacturing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 589, 
+                    "end": 594, 
+                    "score": 0.02662562020123005, 
+                    "spot": "Upper"
+                }
+            ], 
+            "wiki_id": 454164, 
+            "wiki_title": "Upper class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 975, 
+                    "end": 978, 
+                    "score": 0.06903517246246338, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 3517452, 
+            "wiki_title": "Ng\u00f4 \u0110\u00ecnh C\u1ea9n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4854, 
+                    "end": 4862, 
+                    "score": 0.2380652129650116, 
+                    "spot": "violence"
+                }, 
+                {
+                    "begin": 6312, 
+                    "end": 6320, 
+                    "score": 0.24028564989566803, 
+                    "spot": "violence"
+                }
+            ], 
+            "wiki_id": 46112, 
+            "wiki_title": "Violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1073, 
+                    "end": 1082, 
+                    "score": 0.051777515560388565, 
+                    "spot": "generated"
+                }
+            ], 
+            "wiki_id": 9540, 
+            "wiki_title": "Electricity generation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2855, 
+                    "end": 2873, 
+                    "score": 0.3723592162132263, 
+                    "spot": "state of emergency"
+                }
+            ], 
+            "wiki_id": 298608, 
+            "wiki_title": "State of emergency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2596, 
+                    "end": 2604, 
+                    "score": 0.13871389627456665, 
+                    "spot": "officers"
+                }, 
+                {
+                    "begin": 2799, 
+                    "end": 2806, 
+                    "score": 0.03753916546702385, 
+                    "spot": "officer"
+                }, 
+                {
+                    "begin": 4055, 
+                    "end": 4063, 
+                    "score": 0.05969803407788277, 
+                    "spot": "officers"
+                }
+            ], 
+            "wiki_id": 36301328, 
+            "wiki_title": "Officer (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1922, 
+                    "end": 1928, 
+                    "score": 0.055421002209186554, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 1376711, 
+            "wiki_title": "Historical period drama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5144, 
+                    "end": 5164, 
+                    "score": 0.01886792480945587, 
+                    "spot": "people of the valley"
+                }
+            ], 
+            "wiki_id": 185379, 
+            "wiki_title": "Pobol y Cwm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 128, 
+                    "end": 134, 
+                    "score": 0.3456694483757019, 
+                    "spot": "coffee"
+                }, 
+                {
+                    "begin": 293, 
+                    "end": 299, 
+                    "score": 0.27475041151046753, 
+                    "spot": "coffee"
+                }
+            ], 
+            "wiki_id": 604727, 
+            "wiki_title": "Coffee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6645, 
+                    "end": 6647, 
+                    "score": 0.06125829741358757, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 1576588, 
+            "wiki_title": "Thai royal and noble titles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 517, 
+                    "end": 524, 
+                    "score": 0.14115431904792786, 
+                    "spot": "priests"
+                }, 
+                {
+                    "begin": 4077, 
+                    "end": 4084, 
+                    "score": 0.1271045058965683, 
+                    "spot": "priests"
+                }, 
+                {
+                    "begin": 5915, 
+                    "end": 5928, 
+                    "score": 0.37105998396873474, 
+                    "spot": "parish priest"
+                }, 
+                {
+                    "begin": 5922, 
+                    "end": 5928, 
+                    "score": 0.32738155126571655, 
+                    "spot": "priest"
+                }
+            ], 
+            "wiki_id": 23707, 
+            "wiki_title": "Priest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1503, 
+                    "end": 1509, 
+                    "score": 0.017777729779481888, 
+                    "spot": "closer"
+                }
+            ], 
+            "wiki_id": 16655102, 
+            "wiki_title": "Closer (Ne-Yo song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 144, 
+                    "score": 0.22631901502609253, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 341, 
+                    "end": 345, 
+                    "score": 0.11507754772901535, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 1203, 
+                    "end": 1207, 
+                    "score": 0.1928921341896057, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 3372, 
+                    "end": 3376, 
+                    "score": 0.02402983047068119, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 3631, 
+                    "end": 3635, 
+                    "score": 0.02402983047068119, 
+                    "spot": "coca"
+                }, 
+                {
+                    "begin": 4024, 
+                    "end": 4028, 
+                    "score": 0.1080351397395134, 
+                    "spot": "coca"
+                }
+            ], 
+            "wiki_id": 53292, 
+            "wiki_title": "Coca"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 786, 
+                    "end": 794, 
+                    "score": 0.008931108750402927, 
+                    "spot": "strategy"
+                }
+            ], 
+            "wiki_id": 14876738, 
+            "wiki_title": "Strategy video game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3684, 
+                    "end": 3689, 
+                    "score": 0.009853717871010303, 
+                    "spot": "sweep"
+                }
+            ], 
+            "wiki_id": 3141523, 
+            "wiki_title": "Blue Foundation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 377, 
+                    "end": 389, 
+                    "score": 0.002420656383037567, 
+                    "spot": "someone else"
+                }
+            ], 
+            "wiki_id": 10536121, 
+            "wiki_title": "Someone Else (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4649, 
+                    "end": 4659, 
+                    "score": 0.1395513117313385, 
+                    "spot": "organizing"
+                }
+            ], 
+            "wiki_id": 1051262, 
+            "wiki_title": "Community organizing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 607, 
+                    "end": 611, 
+                    "score": 0.001120922388508916, 
+                    "spot": "vast"
+                }
+            ], 
+            "wiki_id": 192573, 
+            "wiki_title": "VAST"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6156, 
+                    "end": 6168, 
+                    "score": 0.18111935257911682, 
+                    "spot": "Deputy Mayor"
+                }
+            ], 
+            "wiki_id": 1852242, 
+            "wiki_title": "Deputy mayor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3667, 
+                    "end": 3670, 
+                    "score": 0.05047876387834549, 
+                    "spot": "far"
+                }
+            ], 
+            "wiki_id": 11672, 
+            "wiki_title": "Far East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 894, 
+                    "end": 903, 
+                    "score": 0.1261781007051468, 
+                    "spot": "shootings"
+                }
+            ], 
+            "wiki_id": 28495, 
+            "wiki_title": "Shooting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5850, 
+                    "end": 5855, 
+                    "score": 0.004189944360405207, 
+                    "spot": "shook"
+                }
+            ], 
+            "wiki_id": 28330078, 
+            "wiki_title": "Shook (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2159, 
+                    "end": 2163, 
+                    "score": 0.06170780956745148, 
+                    "spot": "drug"
+                }, 
+                {
+                    "begin": 6601, 
+                    "end": 6606, 
+                    "score": 0.1206137090921402, 
+                    "spot": "drugs"
+                }
+            ], 
+            "wiki_id": 25949, 
+            "wiki_title": "Recreational drug use"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3320, 
+                    "end": 3331, 
+                    "score": 0.5, 
+                    "spot": "Tingo Maria"
+                }, 
+                {
+                    "begin": 5013, 
+                    "end": 5024, 
+                    "score": 0.5, 
+                    "spot": "Tingo Maria"
+                }
+            ], 
+            "wiki_id": 1985106, 
+            "wiki_title": "Tingo Mar\u00eda"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 761, 
+                    "end": 767, 
+                    "score": 0.03279414400458336, 
+                    "spot": "jungle"
+                }
+            ], 
+            "wiki_id": 1253257, 
+            "wiki_title": "Jungle (board game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1313, 
+                    "end": 1328, 
+                    "score": 0.08532502502202988, 
+                    "spot": "other countries"
+                }
+            ], 
+            "wiki_id": 30655949, 
+            "wiki_title": "Arab Spring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4103, 
+                    "end": 4110, 
+                    "score": 0.06490033119916916, 
+                    "spot": "process"
+                }
+            ], 
+            "wiki_id": 5652450, 
+            "wiki_title": "Biological process"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6243, 
+                    "end": 6253, 
+                    "score": 0.38407033681869507, 
+                    "spot": "black list"
+                }
+            ], 
+            "wiki_id": 221697, 
+            "wiki_title": "Blacklisting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 822, 
+                    "end": 844, 
+                    "score": 0.3793480098247528, 
+                    "spot": "democratically elected"
+                }, 
+                {
+                    "begin": 822, 
+                    "end": 855, 
+                    "score": 0.37577885389328003, 
+                    "spot": "democratically elected government"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3243, 
+                    "end": 3253, 
+                    "score": 0.004129793494939804, 
+                    "spot": "impediment"
+                }
+            ], 
+            "wiki_id": 6200013, 
+            "wiki_title": "Impediment (canon law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5051, 
+                    "end": 5061, 
+                    "score": 0.0449216328561306, 
+                    "spot": "continuous"
+                }
+            ], 
+            "wiki_id": 40240263, 
+            "wiki_title": "Discrete time and continuous time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 188, 
+                    "score": 0.326372355222702, 
+                    "spot": "cocaine"
+                }
+            ], 
+            "wiki_id": 7701, 
+            "wiki_title": "Cocaine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3254, 
+                    "end": 3258, 
+                    "score": 0.06078130751848221, 
+                    "spot": "gone"
+                }
+            ], 
+            "wiki_id": 40758797, 
+            "wiki_title": "Gone (Kanye West song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 864, 
+                    "end": 876, 
+                    "score": 0.06782931089401245, 
+                    "spot": "concentrated"
+                }
+            ], 
+            "wiki_id": 240400, 
+            "wiki_title": "Concentration of media ownership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2650, 
+                    "end": 2657, 
+                    "score": 0.06641095131635666, 
+                    "spot": "payoffs"
+                }
+            ], 
+            "wiki_id": 45479, 
+            "wiki_title": "Utility"
+        }
+    ]
+}

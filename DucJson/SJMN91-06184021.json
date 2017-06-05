@@ -1,0 +1,3316 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3100, 
+                    "end": 3109, 
+                    "score": 0.6349784135818481, 
+                    "spot": "Worcester"
+                }, 
+                {
+                    "begin": 3100, 
+                    "end": 3115, 
+                    "score": 0.5862069129943848, 
+                    "spot": "Worcester, Mass"
+                }
+            ], 
+            "wiki_id": 99312, 
+            "wiki_title": "Worcester, Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3960, 
+                    "end": 3965, 
+                    "score": 0.08498260378837585, 
+                    "spot": "goals"
+                }
+            ], 
+            "wiki_id": 14850094, 
+            "wiki_title": "Goal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2427, 
+                    "end": 2433, 
+                    "score": 0.0007501875516027212, 
+                    "spot": "how to"
+                }
+            ], 
+            "wiki_id": 175502, 
+            "wiki_title": "How-to"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1118, 
+                    "end": 1137, 
+                    "score": 0.1718606799840927, 
+                    "spot": "political activists"
+                }
+            ], 
+            "wiki_id": 39766702, 
+            "wiki_title": "Activism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1750, 
+                    "end": 1756, 
+                    "score": 0.09798610210418701, 
+                    "spot": "mother"
+                }
+            ], 
+            "wiki_id": 83430, 
+            "wiki_title": "Mother"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2439, 
+                    "end": 2452, 
+                    "score": 0.003118503140285611, 
+                    "spot": "for ourselves"
+                }
+            ], 
+            "wiki_id": 24916050, 
+            "wiki_title": "The Right to Be Greedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2295, 
+                    "end": 2307, 
+                    "score": 0.08755066245794296, 
+                    "spot": "expectations"
+                }
+            ], 
+            "wiki_id": 243395, 
+            "wiki_title": "Expectation (epistemic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1073, 
+                    "end": 1091, 
+                    "score": 0.28778502345085144, 
+                    "spot": "U.S. Supreme Court"
+                }, 
+                {
+                    "begin": 1078, 
+                    "end": 1091, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 4225, 
+                    "end": 4238, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }
+            ], 
+            "wiki_id": 31737, 
+            "wiki_title": "Supreme Court of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 403, 
+                    "score": 0.003091087331995368, 
+                    "spot": "guide"
+                }
+            ], 
+            "wiki_id": 265298, 
+            "wiki_title": "Girl Guiding and Girl Scouting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1555, 
+                    "end": 1562, 
+                    "score": 0.14773035049438477, 
+                    "spot": "marshes"
+                }
+            ], 
+            "wiki_id": 169208, 
+            "wiki_title": "Marsh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3593, 
+                    "end": 3614, 
+                    "score": 0.361911416053772, 
+                    "spot": "legislative\nassistant"
+                }
+            ], 
+            "wiki_id": 17418456, 
+            "wiki_title": "Legislative assistant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 855, 
+                    "score": 0.03980204835534096, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1382, 
+                    "end": 1385, 
+                    "score": 0.16608913242816925, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2998, 
+                    "end": 3001, 
+                    "score": 0.0017393865855410695, 
+                    "spot": "end"
+                }
+            ], 
+            "wiki_id": 1660633, 
+            "wiki_title": "The End (Beatles song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 285, 
+                    "score": 0.05309855937957764, 
+                    "spot": "hostile"
+                }
+            ], 
+            "wiki_id": 3199137, 
+            "wiki_title": "Hostility"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1808, 
+                    "end": 1816, 
+                    "score": 0.15602152049541473, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 101942, 
+            "wiki_title": "Child labour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 969, 
+                    "end": 976, 
+                    "score": 0.03208323195576668, 
+                    "spot": "program"
+                }
+            ], 
+            "wiki_id": 103661, 
+            "wiki_title": "Radio programming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 767, 
+                    "end": 785, 
+                    "score": 0.09615384787321091, 
+                    "spot": "emotional security"
+                }
+            ], 
+            "wiki_id": 14249373, 
+            "wiki_title": "Emotional security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4506, 
+                    "end": 4514, 
+                    "score": 0.08365707099437714, 
+                    "spot": "suburban"
+                }
+            ], 
+            "wiki_id": 28908, 
+            "wiki_title": "Suburb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3679, 
+                    "end": 3691, 
+                    "score": 0.2416100800037384, 
+                    "spot": "civil rights"
+                }, 
+                {
+                    "begin": 4414, 
+                    "end": 4426, 
+                    "score": 0.2504979968070984, 
+                    "spot": "civil rights"
+                }
+            ], 
+            "wiki_id": 37071, 
+            "wiki_title": "Civil and political rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3561, 
+                    "end": 3569, 
+                    "score": 0.3905565142631531, 
+                    "spot": "Democrat"
+                }
+            ], 
+            "wiki_id": 5043544, 
+            "wiki_title": "Democratic Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 825, 
+                    "end": 832, 
+                    "score": 0.010056959465146065, 
+                    "spot": "freedom"
+                }
+            ], 
+            "wiki_id": 3209033, 
+            "wiki_title": "Freedom (Wham! song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2958, 
+                    "end": 2963, 
+                    "score": 0.18162022531032562, 
+                    "spot": "white"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1722, 
+                    "end": 1726, 
+                    "score": 0.0843893438577652, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 286, 
+                    "end": 291, 
+                    "score": 0.12893982231616974, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 2492, 
+                    "end": 2497, 
+                    "score": 0.05398990586400032, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3665, 
+                    "end": 3674, 
+                    "score": 0.16656121611595154, 
+                    "spot": "secretary"
+                }
+            ], 
+            "wiki_id": 214196, 
+            "wiki_title": "Secretary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1218, 
+                    "end": 1224, 
+                    "score": 0.12428486347198486, 
+                    "spot": "blacks"
+                }, 
+                {
+                    "begin": 2636, 
+                    "end": 2645, 
+                    "score": 0.06383322179317474, 
+                    "spot": "all-black"
+                }
+            ], 
+            "wiki_id": 2154, 
+            "wiki_title": "African Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3535, 
+                    "end": 3542, 
+                    "score": 0.3586277663707733, 
+                    "spot": "senator"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 369, 
+                    "end": 385, 
+                    "score": 0.15000000596046448, 
+                    "spot": "race and society"
+                }
+            ], 
+            "wiki_id": 4816797, 
+            "wiki_title": "Race and society"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1776, 
+                    "end": 1782, 
+                    "score": 0.06902091950178146, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 31655, 
+            "wiki_title": "Second Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 473, 
+                    "end": 484, 
+                    "score": 0.23131760954856873, 
+                    "spot": "segregation"
+                }, 
+                {
+                    "begin": 2542, 
+                    "end": 2553, 
+                    "score": 0.20085611939430237, 
+                    "spot": "segregation"
+                }
+            ], 
+            "wiki_id": 26316, 
+            "wiki_title": "Racial segregation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 62, 
+                    "end": 68, 
+                    "score": 0.40879708528518677, 
+                    "spot": "sister"
+                }
+            ], 
+            "wiki_id": 4098466, 
+            "wiki_title": "Sister"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 582, 
+                    "end": 592, 
+                    "score": 0.06529416143894196, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 31776, 
+            "wiki_title": "University of Washington"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4069, 
+                    "end": 4075, 
+                    "score": 0.13171608746051788, 
+                    "spot": "credit"
+                }
+            ], 
+            "wiki_id": 1698417, 
+            "wiki_title": "Credit (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 43, 
+                    "end": 48, 
+                    "score": 0.1866326630115509, 
+                    "spot": "white"
+                }
+            ], 
+            "wiki_id": 166202, 
+            "wiki_title": "White people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2060, 
+                    "end": 2064, 
+                    "score": 0.17430774867534637, 
+                    "spot": "read"
+                }
+            ], 
+            "wiki_id": 1448200, 
+            "wiki_title": "Torah reading"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 689, 
+                    "end": 696, 
+                    "score": 0.18625272810459137, 
+                    "spot": "bigotry"
+                }
+            ], 
+            "wiki_id": 240235, 
+            "wiki_title": "Bigotry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2507, 
+                    "end": 2513, 
+                    "score": 0.0018696822226047516, 
+                    "spot": "beyond"
+                }
+            ], 
+            "wiki_id": 180606, 
+            "wiki_title": "The Animatrix"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2735, 
+                    "end": 2740, 
+                    "score": 0.08490364253520966, 
+                    "spot": "young"
+                }
+            ], 
+            "wiki_id": 379472, 
+            "wiki_title": "Youth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3400, 
+                    "end": 3416, 
+                    "score": 0.4038461446762085, 
+                    "spot": "John C. Danforth"
+                }, 
+                {
+                    "begin": 3509, 
+                    "end": 3517, 
+                    "score": 0.12654946744441986, 
+                    "spot": "Danforth"
+                }
+            ], 
+            "wiki_id": 16238, 
+            "wiki_title": "John Danforth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3202, 
+                    "end": 3210, 
+                    "score": 0.11920324712991714, 
+                    "spot": "follower"
+                }
+            ], 
+            "wiki_id": 18491, 
+            "wiki_title": "Lead and follow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 83, 
+                    "end": 87, 
+                    "score": 0.33077430725097656, 
+                    "spot": "aunt"
+                }
+            ], 
+            "wiki_id": 376052, 
+            "wiki_title": "Aunt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3233, 
+                    "end": 3237, 
+                    "score": 0.0019062388455495238, 
+                    "spot": "true"
+                }
+            ], 
+            "wiki_id": 29920, 
+            "wiki_title": "Truth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 885, 
+                    "end": 895, 
+                    "score": 0.11974212527275085, 
+                    "spot": "counseling"
+                }
+            ], 
+            "wiki_id": 505326, 
+            "wiki_title": "Counseling psychology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 144, 
+                    "end": 151, 
+                    "score": 0.17061707377433777, 
+                    "spot": "credits"
+                }
+            ], 
+            "wiki_id": 494165, 
+            "wiki_title": "Closing credits"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 408, 
+                    "end": 413, 
+                    "score": 0.09907708317041397, 
+                    "spot": "today"
+                }
+            ], 
+            "wiki_id": 28172957, 
+            "wiki_title": "For Today"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1783, 
+                    "end": 1790, 
+                    "score": 0.11352767050266266, 
+                    "spot": "husband"
+                }
+            ], 
+            "wiki_id": 4318352, 
+            "wiki_title": "Husband"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2792, 
+                    "end": 2800, 
+                    "score": 0.0006150734261609614, 
+                    "spot": "accepted"
+                }
+            ], 
+            "wiki_id": 5444611, 
+            "wiki_title": "Accepted"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2042, 
+                    "end": 2056, 
+                    "score": 0.004856182262301445, 
+                    "spot": "read and write"
+                }
+            ], 
+            "wiki_id": 18456, 
+            "wiki_title": "Literacy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3836, 
+                    "end": 3850, 
+                    "score": 0.34728917479515076, 
+                    "spot": "discrimination"
+                }
+            ], 
+            "wiki_id": 2811532, 
+            "wiki_title": "Employment discrimination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3078, 
+                    "end": 3096, 
+                    "score": 0.3382899761199951, 
+                    "spot": "Holy Cross\nCollege"
+                }
+            ], 
+            "wiki_id": 461012, 
+            "wiki_title": "College of the Holy Cross"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2348, 
+                    "end": 2352, 
+                    "score": 0.1555938571691513, 
+                    "spot": "mean"
+                }
+            ], 
+            "wiki_id": 2892508, 
+            "wiki_title": "Golden mean (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4403, 
+                    "end": 4410, 
+                    "score": 0.07102882117033005, 
+                    "spot": "critics"
+                }
+            ], 
+            "wiki_id": 11065202, 
+            "wiki_title": "Film criticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1590, 
+                    "end": 1595, 
+                    "score": 0.1088709682226181, 
+                    "spot": "Leola"
+                }
+            ], 
+            "wiki_id": 144976, 
+            "wiki_title": "Leola, Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4111, 
+                    "end": 4125, 
+                    "score": 0.21787670254707336, 
+                    "spot": "President Bush"
+                }
+            ], 
+            "wiki_id": 183895, 
+            "wiki_title": "Presidency of George W. Bush"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1396, 
+                    "end": 1405, 
+                    "score": 0.16379021108150482, 
+                    "spot": "education"
+                }, 
+                {
+                    "begin": 3655, 
+                    "end": 3664, 
+                    "score": 0.19568423926830292, 
+                    "spot": "education"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3941, 
+                    "end": 3948, 
+                    "score": 0.0005473491037264466, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 638229, 
+            "wiki_title": "Technical support"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4440, 
+                    "end": 4444, 
+                    "score": 0.22292472422122955, 
+                    "spot": "seat"
+                }
+            ], 
+            "wiki_id": 44421, 
+            "wiki_title": "Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 562, 
+                    "end": 578, 
+                    "score": 0.07550512254238129, 
+                    "spot": "policy institute"
+                }
+            ], 
+            "wiki_id": 37101, 
+            "wiki_title": "Think tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 203, 
+                    "end": 209, 
+                    "score": 0.1295405775308609, 
+                    "spot": "choked"
+                }
+            ], 
+            "wiki_id": 166829, 
+            "wiki_title": "Choking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4034, 
+                    "end": 4048, 
+                    "score": 0.18685252964496613, 
+                    "spot": "discrimination"
+                }
+            ], 
+            "wiki_id": 8900, 
+            "wiki_title": "Discrimination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4000, 
+                    "end": 4009, 
+                    "score": 0.0018602728378027678, 
+                    "spot": "resolving"
+                }
+            ], 
+            "wiki_id": 275721, 
+            "wiki_title": "Resolution (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 908, 
+                    "end": 920, 
+                    "score": 0.30258509516716003, 
+                    "spot": "common sense"
+                }
+            ], 
+            "wiki_id": 21478754, 
+            "wiki_title": "Common sense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2084, 
+                    "end": 2089, 
+                    "score": 0.20147834718227386, 
+                    "spot": "Bible"
+                }
+            ], 
+            "wiki_id": 3390, 
+            "wiki_title": "Bible"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 27, 
+                    "score": 0.0770658552646637, 
+                    "spot": "his brother"
+                }
+            ], 
+            "wiki_id": 2083304, 
+            "wiki_title": "The Steiner Brothers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2626, 
+                    "end": 2629, 
+                    "score": 0.044256988912820816, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 4384459, 
+            "wiki_title": "Imperial Majesty (style)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3238, 
+                    "end": 3246, 
+                    "score": 0.001956706866621971, 
+                    "spot": "interest"
+                }
+            ], 
+            "wiki_id": 146738, 
+            "wiki_title": "Interest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4279, 
+                    "end": 4287, 
+                    "score": 0.010311870835721493, 
+                    "spot": "forecast"
+                }
+            ], 
+            "wiki_id": 73231, 
+            "wiki_title": "Weather forecasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1020, 
+                    "end": 1027, 
+                    "score": 0.11671722680330276, 
+                    "spot": "beliefs"
+                }
+            ], 
+            "wiki_id": 52547, 
+            "wiki_title": "Jehovah's Witnesses"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3364, 
+                    "end": 3370, 
+                    "score": 0.06348276138305664, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 2995553, 
+            "wiki_title": "The Office (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2253, 
+                    "score": 0.08493290841579437, 
+                    "spot": "I thought"
+                }
+            ], 
+            "wiki_id": 4364122, 
+            "wiki_title": "Ahamkara"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2317, 
+                    "end": 2321, 
+                    "score": 0.09306671470403671, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 166821, 
+            "wiki_title": "Substance intoxication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2719, 
+                    "end": 2723, 
+                    "score": 0.13343526422977448, 
+                    "spot": "nuns"
+                }
+            ], 
+            "wiki_id": 62984, 
+            "wiki_title": "Nun"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1994, 
+                    "end": 1998, 
+                    "score": 0.05529937893152237, 
+                    "spot": "life"
+                }
+            ], 
+            "wiki_id": 18393, 
+            "wiki_title": "Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 663, 
+                    "end": 677, 
+                    "score": 0.16713596880435944, 
+                    "spot": "governmentally"
+                }, 
+                {
+                    "begin": 956, 
+                    "end": 968, 
+                    "score": 0.08092627674341202, 
+                    "spot": "governmental"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 795, 
+                    "end": 800, 
+                    "score": 0.148175448179245, 
+                    "spot": "tools"
+                }
+            ], 
+            "wiki_id": 30677, 
+            "wiki_title": "Tool"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3134, 
+                    "end": 3141, 
+                    "score": 0.16691698133945465, 
+                    "spot": "flirted"
+                }
+            ], 
+            "wiki_id": 11702, 
+            "wiki_title": "Flirting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 702, 
+                    "end": 718, 
+                    "score": 0.26607847213745117, 
+                    "spot": "Self-sufficiency"
+                }, 
+                {
+                    "begin": 732, 
+                    "end": 748, 
+                    "score": 0.15938939154148102, 
+                    "spot": "Self-sufficiency"
+                }, 
+                {
+                    "begin": 1407, 
+                    "end": 1420, 
+                    "score": 0.16578352451324463, 
+                    "spot": "self-reliance"
+                }
+            ], 
+            "wiki_id": 904806, 
+            "wiki_title": "Self-sufficiency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4562, 
+                    "end": 4566, 
+                    "score": 0.07679169625043869, 
+                    "spot": "view"
+                }
+            ], 
+            "wiki_id": 656307, 
+            "wiki_title": "The View (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3911, 
+                    "end": 3915, 
+                    "score": 0.0016492237336933613, 
+                    "spot": "soft"
+                }
+            ], 
+            "wiki_id": 520514, 
+            "wiki_title": "Soft rock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4485, 
+                    "end": 4491, 
+                    "score": 0.046007055789232254, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 37190, 
+            "wiki_title": "Thomas Becket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3038, 
+                    "end": 3049, 
+                    "score": 0.2521058917045593, 
+                    "spot": "black power"
+                }, 
+                {
+                    "begin": 3164, 
+                    "end": 3175, 
+                    "score": 0.396620512008667, 
+                    "spot": "black power"
+                }
+            ], 
+            "wiki_id": 20648200, 
+            "wiki_title": "Black Power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 993, 
+                    "end": 998, 
+                    "score": 0.0038265306502580643, 
+                    "spot": "sheer"
+                }
+            ], 
+            "wiki_id": 25491839, 
+            "wiki_title": "Sheer (ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 595, 
+                    "end": 597, 
+                    "score": 0.059418559074401855, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3582, 
+                    "end": 3587, 
+                    "score": 0.17797860503196716, 
+                    "spot": "staff"
+                }
+            ], 
+            "wiki_id": 44029, 
+            "wiki_title": "Executive Office of the President"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4469, 
+                    "end": 4479, 
+                    "score": 0.0012472715461626649, 
+                    "spot": "March 1990"
+                }
+            ], 
+            "wiki_id": 20277519, 
+            "wiki_title": "East German general election, 1990"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1543, 
+                    "end": 1547, 
+                    "score": 0.07060606777667999, 
+                    "spot": "town"
+                }
+            ], 
+            "wiki_id": 52911, 
+            "wiki_title": "Town"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1988, 
+                    "score": 0.05741506814956665, 
+                    "spot": "schooling"
+                }, 
+                {
+                    "begin": 2646, 
+                    "end": 2652, 
+                    "score": 0.1140403226017952, 
+                    "spot": "school"
+                }
+            ], 
+            "wiki_id": 28022, 
+            "wiki_title": "School"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1776, 
+                    "end": 1790, 
+                    "score": 0.0009892594534903765, 
+                    "spot": "second husband"
+                }
+            ], 
+            "wiki_id": 42719478, 
+            "wiki_title": "Second Husband"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 720, 
+                    "end": 728, 
+                    "score": 0.11436773836612701, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 240468, 
+            "wiki_title": "National security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3733, 
+                    "end": 3737, 
+                    "score": 0.034062497317790985, 
+                    "spot": "lead"
+                }
+            ], 
+            "wiki_id": 134921, 
+            "wiki_title": "Lead, South Dakota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3899, 
+                    "end": 3905, 
+                    "score": 0.07761720567941666, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 489670, 
+            "wiki_title": "Law of agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4090, 
+                    "end": 4100, 
+                    "score": 0.17811378836631775, 
+                    "spot": "efficiency"
+                }
+            ], 
+            "wiki_id": 9223, 
+            "wiki_title": "Economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3930, 
+                    "end": 3940, 
+                    "score": 0.0005588933709077537, 
+                    "spot": "Abandoning"
+                }
+            ], 
+            "wiki_id": 37715350, 
+            "wiki_title": "The Abandoning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1757, 
+                    "end": 1766, 
+                    "score": 0.07888082414865494, 
+                    "spot": "remarried"
+                }
+            ], 
+            "wiki_id": 12215295, 
+            "wiki_title": "Remarriage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2236, 
+                    "end": 2242, 
+                    "score": 0.0783865749835968, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 2493919, 
+            "wiki_title": "Course (education)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2893, 
+                    "end": 2898, 
+                    "score": 0.06428076326847076, 
+                    "spot": "shock"
+                }
+            ], 
+            "wiki_id": 82974, 
+            "wiki_title": "Posttraumatic stress disorder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1712, 
+                    "end": 1717, 
+                    "score": 0.05347025766968727, 
+                    "spot": "North"
+                }
+            ], 
+            "wiki_id": 21139, 
+            "wiki_title": "North America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1334, 
+                    "end": 1356, 
+                    "score": 0.22134295105934143, 
+                    "spot": "intellectual\ntradition"
+                }
+            ], 
+            "wiki_id": 217281, 
+            "wiki_title": "School of thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1425, 
+                    "end": 1431, 
+                    "score": 0.07678379118442535, 
+                    "spot": "mutual"
+                }
+            ], 
+            "wiki_id": 1037284, 
+            "wiki_title": "Mutual organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3578, 
+                    "end": 3587, 
+                    "score": 0.0005242188926786184, 
+                    "spot": "his staff"
+                }
+            ], 
+            "wiki_id": 28726336, 
+            "wiki_title": "Staff of Moses"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 231, 
+                    "end": 241, 
+                    "score": 0.1010773554444313, 
+                    "spot": "television"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2948, 
+                    "end": 2955, 
+                    "score": 0.001850089873187244, 
+                    "spot": "spot on"
+                }
+            ], 
+            "wiki_id": 3447003, 
+            "wiki_title": "Spot-On models"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3214, 
+                    "end": 3223, 
+                    "score": 0.6156049966812134, 
+                    "spot": "Malcolm X"
+                }
+            ], 
+            "wiki_id": 300972, 
+            "wiki_title": "Malcolm X (1992 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 436, 
+                    "end": 443, 
+                    "score": 0.04464586824178696, 
+                    "spot": "survive"
+                }, 
+                {
+                    "begin": 613, 
+                    "end": 620, 
+                    "score": 0.055370938032865524, 
+                    "spot": "survive"
+                }
+            ], 
+            "wiki_id": 289749, 
+            "wiki_title": "Survival horror"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1824, 
+                    "end": 1829, 
+                    "score": 0.0698237195611, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 31653, 
+            "wiki_title": "First Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 804, 
+                    "end": 809, 
+                    "score": 0.10201561450958252, 
+                    "spot": "carve"
+                }
+            ], 
+            "wiki_id": 275860, 
+            "wiki_title": "Wood carving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3867, 
+                    "end": 3880, 
+                    "score": 0.21196569502353668, 
+                    "spot": "controversial"
+                }
+            ], 
+            "wiki_id": 7283, 
+            "wiki_title": "Controversy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3882, 
+                    "end": 3889, 
+                    "score": 0.1612805724143982, 
+                    "spot": "Critics"
+                }
+            ], 
+            "wiki_id": 229072, 
+            "wiki_title": "Criticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2246, 
+                    "end": 2253, 
+                    "score": 0.08529141545295715, 
+                    "spot": "thought"
+                }, 
+                {
+                    "begin": 2330, 
+                    "end": 2337, 
+                    "score": 0.17831052839756012, 
+                    "spot": "thought"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2958, 
+                    "end": 2969, 
+                    "score": 0.14094015955924988, 
+                    "spot": "white horse"
+                }
+            ], 
+            "wiki_id": 12982262, 
+            "wiki_title": "White Horse, Lancaster County, Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 813, 
+                    "score": 0.04764869064092636, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 242, 
+                    "end": 248, 
+                    "score": 0.052393313497304916, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 4589, 
+                    "end": 4595, 
+                    "score": 0.1493629664182663, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2942, 
+                    "end": 2952, 
+                    "score": 0.032024793326854706, 
+                    "spot": "black spot"
+                }
+            ], 
+            "wiki_id": 5245000, 
+            "wiki_title": "Diplocarpon rosae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2986, 
+                    "end": 2990, 
+                    "score": 0.0012792182387784123, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 583341, 
+            "wiki_title": "Left fielder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4180, 
+                    "end": 4200, 
+                    "score": 0.21907785534858704, 
+                    "spot": "District of Columbia"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4515, 
+                    "end": 4523, 
+                    "score": 0.2039390653371811, 
+                    "spot": "Virginia"
+                }
+            ], 
+            "wiki_id": 32432, 
+            "wiki_title": "Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2434, 
+                    "end": 2438, 
+                    "score": 0.0017494751373305917, 
+                    "spot": "fend"
+                }
+            ], 
+            "wiki_id": 6643550, 
+            "wiki_title": "Fritz Fend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1928, 
+                    "end": 1943, 
+                    "score": 0.13030722737312317, 
+                    "spot": "His grandfather"
+                }, 
+                {
+                    "begin": 2588, 
+                    "end": 2603, 
+                    "score": 0.13030722737312317, 
+                    "spot": "His grandfather"
+                }
+            ], 
+            "wiki_id": 72708, 
+            "wiki_title": "Christian X of Denmark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 505, 
+                    "end": 510, 
+                    "score": 0.061076849699020386, 
+                    "spot": "paper"
+                }
+            ], 
+            "wiki_id": 16861908, 
+            "wiki_title": "Paper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2700, 
+                    "end": 2704, 
+                    "score": 0.0019397636642679572, 
+                    "spot": "sure"
+                }
+            ], 
+            "wiki_id": 9892133, 
+            "wiki_title": "Sure (Take That song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3335, 
+                    "end": 3341, 
+                    "score": 0.1115938201546669, 
+                    "spot": "lawyer"
+                }
+            ], 
+            "wiki_id": 17541, 
+            "wiki_title": "Lawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1447, 
+                    "end": 1456, 
+                    "score": 0.1447545737028122, 
+                    "spot": "principal"
+                }
+            ], 
+            "wiki_id": 1642893, 
+            "wiki_title": "Dean (education)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4528, 
+                    "end": 4535, 
+                    "score": 0.15312588214874268, 
+                    "spot": "married"
+                }
+            ], 
+            "wiki_id": 19728, 
+            "wiki_title": "Marriage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1536, 
+                    "end": 1538, 
+                    "score": 0.13977190852165222, 
+                    "spot": "Ga"
+                }
+            ], 
+            "wiki_id": 48830, 
+            "wiki_title": "Georgia (U.S. state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 653, 
+                    "score": 0.07335346937179565, 
+                    "spot": "oppressive"
+                }
+            ], 
+            "wiki_id": 648470, 
+            "wiki_title": "Oppression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2170, 
+                    "end": 2177, 
+                    "score": 0.16792204976081848, 
+                    "spot": "old man"
+                }
+            ], 
+            "wiki_id": 229060, 
+            "wiki_title": "Old age"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2768, 
+                    "end": 2774, 
+                    "score": 0.0637994110584259, 
+                    "spot": "priest"
+                }
+            ], 
+            "wiki_id": 1052000, 
+            "wiki_title": "Priest (Latter Day Saints)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4393, 
+                    "end": 4402, 
+                    "score": 0.0008480104152113199, 
+                    "spot": "outspoken"
+                }
+            ], 
+            "wiki_id": 21533824, 
+            "wiki_title": "OutSpoken"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1264, 
+                    "end": 1277, 
+                    "score": 0.46202531456947327, 
+                    "spot": "Juan\nWilliams"
+                }
+            ], 
+            "wiki_id": 2310173, 
+            "wiki_title": "Juan Williams"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 624, 
+                    "end": 629, 
+                    "score": 0.001064101466909051, 
+                    "spot": "spite"
+                }
+            ], 
+            "wiki_id": 2265351, 
+            "wiki_title": "Spite"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2607, 
+                    "end": 2615, 
+                    "score": 0.14905215799808502, 
+                    "spot": "Catholic"
+                }
+            ], 
+            "wiki_id": 4559718, 
+            "wiki_title": "Catholicism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1965, 
+                    "end": 1971, 
+                    "score": 0.13268642127513885, 
+                    "spot": "little"
+                }
+            ], 
+            "wiki_id": 329594, 
+            "wiki_title": "Floyd Little"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4311, 
+                    "end": 4319, 
+                    "score": 0.0013841567561030388, 
+                    "spot": "smoothly"
+                }
+            ], 
+            "wiki_id": 4155662, 
+            "wiki_title": "Smoothing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3524, 
+                    "end": 3534, 
+                    "score": 0.4749107360839844, 
+                    "spot": "Republican"
+                }
+            ], 
+            "wiki_id": 32070, 
+            "wiki_title": "Republican Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3475, 
+                    "end": 3485, 
+                    "score": 0.09921447187662125, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 11968, 
+            "wiki_title": "George Washington"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2840, 
+                    "end": 2848, 
+                    "score": 0.05475902929902077, 
+                    "spot": "Seminary"
+                }, 
+                {
+                    "begin": 2906, 
+                    "end": 2917, 
+                    "score": 0.0697803646326065, 
+                    "spot": "seminarians"
+                }
+            ], 
+            "wiki_id": 348361, 
+            "wiki_title": "Seminary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4023, 
+                    "end": 4033, 
+                    "score": 0.09672027081251144, 
+                    "spot": "individual"
+                }
+            ], 
+            "wiki_id": 168592, 
+            "wiki_title": "Individual and group rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 519, 
+                    "end": 538, 
+                    "score": 0.4929882287979126, 
+                    "spot": "Heritage\nFoundation"
+                }, 
+                {
+                    "begin": 2205, 
+                    "end": 2224, 
+                    "score": 0.3182845711708069, 
+                    "spot": "Heritage Foundation"
+                }
+            ], 
+            "wiki_id": 316176, 
+            "wiki_title": "The Heritage Foundation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2818, 
+                    "end": 2848, 
+                    "score": 0.1818181872367859, 
+                    "spot": "Immaculate Conception Seminary"
+                }
+            ], 
+            "wiki_id": 8931638, 
+            "wiki_title": "Immaculate Conception Seminary School of Theology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 688, 
+                    "score": 0.06938114762306213, 
+                    "spot": "sanctioned"
+                }
+            ], 
+            "wiki_id": 2112397, 
+            "wiki_title": "Sanctions (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1060, 
+                    "end": 1065, 
+                    "score": 0.019305016845464706, 
+                    "spot": "steps"
+                }
+            ], 
+            "wiki_id": 160240, 
+            "wiki_title": "Dance move"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4267, 
+                    "end": 4274, 
+                    "score": 0.0021018607076257467, 
+                    "spot": "process"
+                }
+            ], 
+            "wiki_id": 342977, 
+            "wiki_title": "Business process"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 152, 
+                    "end": 162, 
+                    "score": 0.10092150419950485, 
+                    "spot": "everything"
+                }
+            ], 
+            "wiki_id": 47992659, 
+            "wiki_title": "Everything (M2M song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1830, 
+                    "end": 1838, 
+                    "score": 0.0960843563079834, 
+                    "spot": "marriage"
+                }
+            ], 
+            "wiki_id": 3181796, 
+            "wiki_title": "Conflict of marriage laws"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2749, 
+                    "end": 2755, 
+                    "score": 0.004255449399352074, 
+                    "spot": "wanted"
+                }
+            ], 
+            "wiki_id": 406792, 
+            "wiki_title": "Fugitive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3459, 
+                    "end": 3471, 
+                    "score": 0.2519593834877014, 
+                    "spot": "introduction"
+                }, 
+                {
+                    "begin": 3459, 
+                    "end": 3474, 
+                    "score": 0.16720663011074066, 
+                    "spot": "introduction to"
+                }
+            ], 
+            "wiki_id": 5320349, 
+            "wiki_title": "An Introduction to ....."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2852, 
+                    "end": 2875, 
+                    "score": 0.5, 
+                    "spot": "Conception\nJunction, Mo"
+                }
+            ], 
+            "wiki_id": 122978, 
+            "wiki_title": "Conception Junction, Missouri"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1678, 
+                    "end": 1686, 
+                    "score": 0.13006210327148438, 
+                    "spot": "birthday"
+                }
+            ], 
+            "wiki_id": 20903181, 
+            "wiki_title": "Birthday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1881, 
+                    "end": 1887, 
+                    "score": 0.10847482830286026, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3982, 
+                    "end": 3988, 
+                    "score": 0.09209398925304413, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 35681441, 
+            "wiki_title": "Thomas (activist)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 106, 
+                    "score": 0.19154798984527588, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3329, 
+                    "end": 3334, 
+                    "score": 0.15694449841976166, 
+                    "spot": "young"
+                }
+            ], 
+            "wiki_id": 4213262, 
+            "wiki_title": "Iris Marion Young"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3025, 
+                    "end": 3031, 
+                    "score": 0.01515151560306549, 
+                    "spot": "Flirts"
+                }
+            ], 
+            "wiki_id": 2176057, 
+            "wiki_title": "The Flirts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 132, 
+                    "end": 138, 
+                    "score": 0.06577413529157639, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3053, 
+                    "end": 3059, 
+                    "score": 0.20302164554595947, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3544, 
+                    "end": 3550, 
+                    "score": 0.24387209117412567, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 4337, 
+                    "end": 4343, 
+                    "score": 0.14688444137573242, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 1274469, 
+            "wiki_title": "THOMAS"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3771, 
+                    "end": 3781, 
+                    "score": 0.23041194677352905, 
+                    "spot": "Commission"
+                }
+            ], 
+            "wiki_id": 6976469, 
+            "wiki_title": "Commission (remuneration)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3970, 
+                    "end": 3980, 
+                    "score": 0.09560609608888626, 
+                    "spot": "timetables"
+                }
+            ], 
+            "wiki_id": 1956968, 
+            "wiki_title": "Schedule (workplace)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3124, 
+                    "end": 3129, 
+                    "score": 0.10775839537382126, 
+                    "spot": "1960s"
+                }
+            ], 
+            "wiki_id": 8544676, 
+            "wiki_title": "Counterculture of the 1960s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4364, 
+                    "end": 4385, 
+                    "score": 0.4285523295402527, 
+                    "spot": "Reagan administration"
+                }
+            ], 
+            "wiki_id": 871552, 
+            "wiki_title": "Presidency of Ronald Reagan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4460, 
+                    "end": 4468, 
+                    "score": 0.11296208947896957, 
+                    "spot": "court in"
+                }
+            ], 
+            "wiki_id": 63833, 
+            "wiki_title": "Government of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2808, 
+                    "end": 2817, 
+                    "score": 0.0009827044559642673, 
+                    "spot": "all-white"
+                }
+            ], 
+            "wiki_id": 5441736, 
+            "wiki_title": "Racial segregation in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4150, 
+                    "end": 4171, 
+                    "score": 0.4862237870693207, 
+                    "spot": "U.S. Court of Appeals"
+                }
+            ], 
+            "wiki_id": 70228, 
+            "wiki_title": "United States courts of appeals"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2570, 
+                    "end": 2576, 
+                    "score": 0.11242341995239258, 
+                    "spot": "closed"
+                }
+            ], 
+            "wiki_id": 1543554, 
+            "wiki_title": "Closing (real estate)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2418, 
+                    "end": 2426, 
+                    "score": 0.5, 
+                    "spot": "teach us"
+                }
+            ], 
+            "wiki_id": 28381827, 
+            "wiki_title": "Teach For Us"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1607, 
+                    "end": 1611, 
+                    "score": 0.09096971154212952, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1642, 
+                    "end": 1650, 
+                    "score": 0.14157572388648987, 
+                    "spot": "plumbing"
+                }
+            ], 
+            "wiki_id": 43982, 
+            "wiki_title": "Plumbing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2664, 
+                    "end": 2670, 
+                    "score": 0.10088326036930084, 
+                    "spot": "church"
+                }
+            ], 
+            "wiki_id": 6325, 
+            "wiki_title": "Church (building)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3953, 
+                    "end": 3959, 
+                    "score": 0.000881678715813905, 
+                    "spot": "hiring"
+                }
+            ], 
+            "wiki_id": 342324, 
+            "wiki_title": "Renting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1568, 
+                    "end": 1576, 
+                    "score": 0.23265978693962097, 
+                    "spot": "Savannah"
+                }
+            ], 
+            "wiki_id": 198843, 
+            "wiki_title": "Savanna"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 487, 
+                    "end": 493, 
+                    "score": 0.1689266413450241, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 1483, 
+                    "end": 1498, 
+                    "score": 0.646942138671875, 
+                    "spot": "Clarence Thomas"
+                }, 
+                {
+                    "begin": 2092, 
+                    "end": 2098, 
+                    "score": 0.10129357874393463, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 2580, 
+                    "end": 2586, 
+                    "score": 0.08871783316135406, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3343, 
+                    "end": 3349, 
+                    "score": 0.09262268245220184, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3451, 
+                    "end": 3457, 
+                    "score": 0.11118604987859726, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3693, 
+                    "end": 3699, 
+                    "score": 0.2521301507949829, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 4136, 
+                    "end": 4142, 
+                    "score": 0.3445436954498291, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 28291766, 
+            "wiki_title": "Clarence Thomas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4126, 
+                    "end": 4135, 
+                    "score": 0.2790777087211609, 
+                    "spot": "nominated"
+                }
+            ], 
+            "wiki_id": 49442238, 
+            "wiki_title": "Merrick Garland Supreme Court nomination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4155, 
+                    "end": 4200, 
+                    "score": 0.009433962404727936, 
+                    "spot": "Court of Appeals for the District of Columbia"
+                }
+            ], 
+            "wiki_id": 575245, 
+            "wiki_title": "United States Court of Appeals for the District of Columbia Circuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1900, 
+                    "end": 1904, 
+                    "score": 0.05136746168136597, 
+                    "spot": "live"
+                }
+            ], 
+            "wiki_id": 236918, 
+            "wiki_title": "Concert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1731, 
+                    "end": 1737, 
+                    "score": 0.21564684808254242, 
+                    "spot": "family"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 879, 
+                    "end": 884, 
+                    "score": 0.03973637893795967, 
+                    "spot": "daily"
+                }, 
+                {
+                    "begin": 2225, 
+                    "end": 2230, 
+                    "score": 0.009523659944534302, 
+                    "spot": "paper"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1624, 
+                    "end": 1629, 
+                    "score": 0.11556117236614227, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 13590, 
+            "wiki_title": "House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3791, 
+                    "end": 3797, 
+                    "score": 0.23152276873588562, 
+                    "spot": "tenure"
+                }
+            ], 
+            "wiki_id": 3153225, 
+            "wiki_title": "Academic tenure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1849, 
+                    "score": 0.12388104200363159, 
+                    "spot": "Taken"
+                }
+            ], 
+            "wiki_id": 721481, 
+            "wiki_title": "Taken (miniseries)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 11, 
+                    "score": 0.012552549131214619, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 96695, 
+            "wiki_title": "Thomas County, Georgia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 20, 
+                    "end": 27, 
+                    "score": 0.16752484440803528, 
+                    "spot": "brother"
+                }
+            ], 
+            "wiki_id": 352169, 
+            "wiki_title": "Sibling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3295, 
+                    "end": 3310, 
+                    "score": 0.3319622278213501, 
+                    "spot": "Yale University"
+                }
+            ], 
+            "wiki_id": 34273, 
+            "wiki_title": "Yale University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2675, 
+                    "end": 2681, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 4464270, 
+            "wiki_title": "Monday Night Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1097, 
+                    "end": 1100, 
+                    "score": 0.07156489044427872, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 462387, 
+            "wiki_title": "Adam Warlock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4254, 
+                    "end": 4266, 
+                    "score": 0.14087381958961487, 
+                    "spot": "confirmation"
+                }
+            ], 
+            "wiki_id": 2610287, 
+            "wiki_title": "Advice and consent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1101, 
+                    "end": 1108, 
+                    "score": 0.10380125790834427, 
+                    "spot": "suspect"
+                }
+            ], 
+            "wiki_id": 344966, 
+            "wiki_title": "Suspect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3005, 
+                    "end": 3019, 
+                    "score": 0.02638711780309677, 
+                    "spot": "his first\nyear"
+                }
+            ], 
+            "wiki_id": 1598429, 
+            "wiki_title": "2003\u201304 Bundesliga"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2356, 
+                    "end": 2361, 
+                    "score": 0.027394240722060204, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4452, 
+                    "end": 4465, 
+                    "score": 0.25461217761039734, 
+                    "spot": "appeals court"
+                }
+            ], 
+            "wiki_id": 643, 
+            "wiki_title": "Appellate court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3279, 
+                    "end": 3289, 
+                    "score": 0.045930083841085434, 
+                    "spot": "law degree"
+                }
+            ], 
+            "wiki_id": 534412, 
+            "wiki_title": "Law degree"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4598, 
+                    "end": 4613, 
+                    "score": 0.10967741906642914, 
+                    "spot": "only in America"
+                }
+            ], 
+            "wiki_id": 859037, 
+            "wiki_title": "Jay and the Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4584, 
+                    "end": 4588, 
+                    "score": 0.1389712542295456, 
+                    "spot": "life"
+                }
+            ], 
+            "wiki_id": 11231581, 
+            "wiki_title": "Life (NBC TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1046, 
+                    "end": 1052, 
+                    "score": 0.16464686393737793, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 1295, 
+                    "end": 1301, 
+                    "score": 0.012552549131214619, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 1663, 
+                    "end": 1669, 
+                    "score": 0.0599181242287159, 
+                    "spot": "Thomas"
+                }, 
+                {
+                    "begin": 3922, 
+                    "end": 3928, 
+                    "score": 0.0485294945538044, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 21490957, 
+            "wiki_title": "Thomas Aquinas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1139, 
+                    "end": 1147, 
+                    "score": 0.07143771648406982, 
+                    "spot": "veterans"
+                }
+            ], 
+            "wiki_id": 327806, 
+            "wiki_title": "Veteran"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4297, 
+                    "end": 4305, 
+                    "score": 0.003745072288438678, 
+                    "spot": "hearings"
+                }
+            ], 
+            "wiki_id": 1097011, 
+            "wiki_title": "Hearing (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1932, 
+                    "end": 1943, 
+                    "score": 0.13187377154827118, 
+                    "spot": "grandfather"
+                }, 
+                {
+                    "begin": 2592, 
+                    "end": 2603, 
+                    "score": 0.15566693246364594, 
+                    "spot": "grandfather"
+                }
+            ], 
+            "wiki_id": 66068, 
+            "wiki_title": "Olav V of Norway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1290, 
+                    "end": 1293, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 165794, 
+            "wiki_title": "In &amp; Out (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1172, 
+                    "end": 1194, 
+                    "score": 0.2996678054332733, 
+                    "spot": "government accountable"
+                }
+            ], 
+            "wiki_id": 161973, 
+            "wiki_title": "Accountability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 753, 
+                    "end": 762, 
+                    "score": 0.2286011278629303, 
+                    "spot": "spiritual"
+                }
+            ], 
+            "wiki_id": 28387, 
+            "wiki_title": "Spirituality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1203, 
+                    "end": 1209, 
+                    "score": 0.02959064021706581, 
+                    "spot": "wrongs"
+                }
+            ], 
+            "wiki_id": 276167, 
+            "wiki_title": "Wrongdoing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4546, 
+                    "end": 4549, 
+                    "score": 0.0707942545413971, 
+                    "spot": "son"
+                }
+            ], 
+            "wiki_id": 293302, 
+            "wiki_title": "Son"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3713, 
+                    "end": 3729, 
+                    "score": 0.3094395697116852, 
+                    "spot": "President Reagan"
+                }
+            ], 
+            "wiki_id": 25433, 
+            "wiki_title": "Ronald Reagan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2646, 
+                    "end": 2656, 
+                    "score": 0.11467766016721725, 
+                    "spot": "school run"
+                }
+            ], 
+            "wiki_id": 554061, 
+            "wiki_title": "School run"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1578, 
+                    "end": 1588, 
+                    "score": 0.167371928691864, 
+                    "spot": "His\nmother"
+                }, 
+                {
+                    "begin": 1582, 
+                    "end": 1588, 
+                    "score": 0.19880510866641998, 
+                    "spot": "mother"
+                }, 
+                {
+                    "begin": 1746, 
+                    "end": 1756, 
+                    "score": 0.12982915341854095, 
+                    "spot": "His mother"
+                }
+            ], 
+            "wiki_id": 73513, 
+            "wiki_title": "Mary (mother of Jesus)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 641, 
+                    "score": 0.03753683716058731, 
+                    "spot": "dark"
+                }
+            ], 
+            "wiki_id": 8651, 
+            "wiki_title": "Dark matter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2683, 
+                    "end": 2689, 
+                    "score": 0.08900796622037888, 
+                    "spot": "Thomas"
+                }
+            ], 
+            "wiki_id": 31459, 
+            "wiki_title": "Thomas the Apostle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1112, 
+                    "end": 1117, 
+                    "score": 0.1853949874639511, 
+                    "spot": "black"
+                }, 
+                {
+                    "begin": 1328, 
+                    "end": 1333, 
+                    "score": 0.11207032203674316, 
+                    "spot": "black"
+                }
+            ], 
+            "wiki_id": 4745, 
+            "wiki_title": "Black people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1692, 
+                    "end": 1698, 
+                    "score": 0.06450649350881577, 
+                    "spot": "father"
+                }
+            ], 
+            "wiki_id": 407127, 
+            "wiki_title": "God the Father"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1360, 
+                    "end": 1380, 
+                    "score": 0.3907608687877655, 
+                    "spot": "Booker T. Washington"
+                }
+            ], 
+            "wiki_id": 37242, 
+            "wiki_title": "Booker T. Washington"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2518, 
+                    "end": 2526, 
+                    "score": 0.000892060634214431, 
+                    "spot": "confines"
+                }
+            ], 
+            "wiki_id": 10430974, 
+            "wiki_title": "Confines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 210, 
+                    "end": 212, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1432, 
+                    "end": 1439, 
+                    "score": 0.13232795894145966, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 37600898, 
+            "wiki_title": "Abortion-rights movements"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2530, 
+                    "end": 2537, 
+                    "score": 0.09596072137355804, 
+                    "spot": "poverty"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 305, 
+                    "end": 308, 
+                    "score": 0.0411054901778698, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 404, 
+                    "end": 407, 
+                    "score": 0.09473692625761032, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 2010, 
+                    "end": 2013, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }, 
+                {
+                    "begin": 2930, 
+                    "end": 2933, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3655, 
+                    "end": 3674, 
+                    "score": 0.19064472615718842, 
+                    "spot": "education secretary"
+                }
+            ], 
+            "wiki_id": 5464548, 
+            "wiki_title": "Department of Education (Philippines)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3374, 
+                    "end": 3399, 
+                    "score": 0.3241758346557617, 
+                    "spot": "Missouri Attorney\nGeneral"
+                }
+            ], 
+            "wiki_id": 9571944, 
+            "wiki_title": "Missouri Attorney General"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1951, 
+                    "end": 1959, 
+                    "score": 0.2894189953804016, 
+                    "spot": "Anderson"
+                }
+            ], 
+            "wiki_id": 1116778, 
+            "wiki_title": "Gary Anderson (placekicker)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 925, 
+                    "end": 931, 
+                    "score": 0.06428559124469757, 
+                    "spot": "vision"
+                }
+            ], 
+            "wiki_id": 21280496, 
+            "wiki_title": "Visual perception"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1237, 
+                    "end": 1252, 
+                    "score": 0.6247619986534119, 
+                    "spot": "Washington Post"
+                }, 
+                {
+                    "begin": 2133, 
+                    "end": 2148, 
+                    "score": 0.43055081367492676, 
+                    "spot": "Washington Post"
+                }
+            ], 
+            "wiki_id": 102226, 
+            "wiki_title": "The Washington Post"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 354, 
+                    "end": 367, 
+                    "score": 0.29283401370048523, 
+                    "spot": "individualism"
+                }
+            ], 
+            "wiki_id": 15181, 
+            "wiki_title": "Individualism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2114, 
+                    "end": 2123, 
+                    "score": 0.09090462327003479, 
+                    "spot": "interview"
+                }
+            ], 
+            "wiki_id": 1368591, 
+            "wiki_title": "Interview (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2392, 
+                    "end": 2397, 
+                    "score": 0.1047380268573761, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 47353, 
+            "wiki_title": "Object (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 867, 
+                    "end": 874, 
+                    "score": 0.040503308176994324, 
+                    "spot": "capture"
+                }
+            ], 
+            "wiki_id": 1135721, 
+            "wiki_title": "Fall of Saigon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1945, 
+                    "end": 1950, 
+                    "score": 0.24867182970046997, 
+                    "spot": "Myers"
+                }
+            ], 
+            "wiki_id": 2324322, 
+            "wiki_title": "Chris Myers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1874, 
+                    "end": 1877, 
+                    "score": 0.18148121237754822, 
+                    "spot": "age"
+                }
+            ], 
+            "wiki_id": 16413778, 
+            "wiki_title": "Ageing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 654, 
+                    "end": 659, 
+                    "score": 0.06913159787654877, 
+                    "spot": "cloud"
+                }
+            ], 
+            "wiki_id": 19541494, 
+            "wiki_title": "Cloud computing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 126, 
+                    "score": 0.14325487613677979, 
+                    "spot": "welfare"
+                }
+            ], 
+            "wiki_id": 247817, 
+            "wiki_title": "Welfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2741, 
+                    "end": 2744, 
+                    "score": 0.003214828437194228, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 41910048, 
+            "wiki_title": "The Man (Aloe Blacc song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1004, 
+                    "score": 0.05746523290872574, 
+                    "spot": "folly"
+                }
+            ], 
+            "wiki_id": 14908508, 
+            "wiki_title": "Foolishness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 897, 
+                    "end": 906, 
+                    "score": 0.12036702781915665, 
+                    "spot": "oversight"
+                }
+            ], 
+            "wiki_id": 28561, 
+            "wiki_title": "Separation of powers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 938, 
+                    "end": 950, 
+                    "score": 0.049866583198308945, 
+                    "spot": "grandparents"
+                }
+            ], 
+            "wiki_id": 220895, 
+            "wiki_title": "Grandparent visitation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2016, 
+                    "end": 2019, 
+                    "score": 0.07335123419761658, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 19288053, 
+            "wiki_title": "Sortition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3434, 
+                    "end": 3442, 
+                    "score": 0.6386866569519043, 
+                    "spot": "Monsanto"
+                }, 
+                {
+                    "begin": 3434, 
+                    "end": 3445, 
+                    "score": 0.5806451439857483, 
+                    "spot": "Monsanto Co"
+                }
+            ], 
+            "wiki_id": 93825, 
+            "wiki_title": "Monsanto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 542, 
+                    "end": 554, 
+                    "score": 0.33725154399871826, 
+                    "spot": "conservative"
+                }
+            ], 
+            "wiki_id": 6675, 
+            "wiki_title": "Conservatism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1253, 
+                    "end": 1263, 
+                    "score": 0.2670741081237793, 
+                    "spot": "journalist"
+                }
+            ], 
+            "wiki_id": 50100, 
+            "wiki_title": "Journalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2279, 
+                    "end": 2284, 
+                    "score": 0.07742522656917572, 
+                    "spot": "rigid"
+                }
+            ], 
+            "wiki_id": 475008, 
+            "wiki_title": "Stiffness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3151, 
+                    "end": 3159, 
+                    "score": 0.1504693478345871, 
+                    "spot": "politics"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4493, 
+                    "end": 4496, 
+                    "score": 0.038363467901945114, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 454, 
+                    "end": 469, 
+                    "score": 0.40943336486816406, 
+                    "spot": "totalitarianism"
+                }
+            ], 
+            "wiki_id": 30439, 
+            "wiki_title": "Totalitarianism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1671, 
+                    "end": 1677, 
+                    "score": 0.06832631677389145, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 32927, 
+            "wiki_title": "World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2164, 
+                    "end": 2169, 
+                    "score": 0.0022452345583587885, 
+                    "spot": "tough"
+                }
+            ], 
+            "wiki_id": 684489, 
+            "wiki_title": "Toughness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2458, 
+                    "end": 2477, 
+                    "score": 0.013569937087595463, 
+                    "spot": "hostile environment"
+                }
+            ], 
+            "wiki_id": 21472553, 
+            "wiki_title": "Hostile Environment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1972, 
+                    "end": 1978, 
+                    "score": 0.08708727359771729, 
+                    "spot": "formal"
+                }
+            ], 
+            "wiki_id": 396102, 
+            "wiki_title": "Formal system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2503, 
+                    "end": 2506, 
+                    "score": 0.0590752512216568, 
+                    "spot": "lay"
+                }
+            ], 
+            "wiki_id": 353930, 
+            "wiki_title": "Laity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3742, 
+                    "end": 3781, 
+                    "score": 0.5, 
+                    "spot": "Equal\nEmployment Opportunity Commission"
+                }
+            ], 
+            "wiki_id": 811932, 
+            "wiki_title": "Equal Employment Opportunity Commission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1155, 
+                    "end": 1163, 
+                    "score": 0.06726302951574326, 
+                    "spot": "struggle"
+                }
+            ], 
+            "wiki_id": 42437083, 
+            "wiki_title": "Class conflict"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2378, 
+                    "end": 2391, 
+                    "score": 0.09634401649236679, 
+                    "spot": "compassionate"
+                }
+            ], 
+            "wiki_id": 327443, 
+            "wiki_title": "Compassion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1312, 
+                    "end": 1320, 
+                    "score": 0.006222061347216368, 
+                    "spot": "grounded"
+                }
+            ], 
+            "wiki_id": 3626951, 
+            "wiki_title": "Grounding (punishment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1799, 
+                    "end": 1803, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 3343584, 
+            "wiki_title": "Want"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1688, 
+                    "end": 1698, 
+                    "score": 0.05474141240119934, 
+                    "spot": "his father"
+                }
+            ], 
+            "wiki_id": 62093, 
+            "wiki_title": "Prince Philip, Duke of Edinburgh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1334, 
+                    "end": 1346, 
+                    "score": 0.3143630027770996, 
+                    "spot": "intellectual"
+                }
+            ], 
+            "wiki_id": 832518, 
+            "wiki_title": "Intellectualism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 186, 
+                    "end": 198, 
+                    "score": 0.11947529017925262, 
+                    "spot": "grandparents"
+                }, 
+                {
+                    "begin": 1856, 
+                    "end": 1868, 
+                    "score": 0.13869577646255493, 
+                    "spot": "grandparents"
+                }, 
+                {
+                    "begin": 1914, 
+                    "end": 1926, 
+                    "score": 0.032775357365608215, 
+                    "spot": "grandparents"
+                }, 
+                {
+                    "begin": 2257, 
+                    "end": 2269, 
+                    "score": 0.0013711696956306696, 
+                    "spot": "grandparents"
+                }
+            ], 
+            "wiki_id": 787971, 
+            "wiki_title": "Grandparent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 555, 
+                    "end": 568, 
+                    "score": 0.38426798582077026, 
+                    "spot": "public policy"
+                }
+            ], 
+            "wiki_id": 153324, 
+            "wiki_title": "Public policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 350, 
+                    "score": 0.10373884439468384, 
+                    "spot": "views"
+                }, 
+                {
+                    "begin": 387, 
+                    "end": 392, 
+                    "score": 0.0005428571603260934, 
+                    "spot": "views"
+                }
+            ], 
+            "wiki_id": 213446, 
+            "wiki_title": "World view"
+        }
+    ]
+}

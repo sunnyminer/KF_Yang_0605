@@ -1,0 +1,4072 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 697, 
+                    "end": 707, 
+                    "score": 0.5485316514968872, 
+                    "spot": "Mark Twain"
+                }, 
+                {
+                    "begin": 1166, 
+                    "end": 1176, 
+                    "score": 0.48422130942344666, 
+                    "spot": "Mark Twain"
+                }, 
+                {
+                    "begin": 1209, 
+                    "end": 1219, 
+                    "score": 0.48422130942344666, 
+                    "spot": "Mark\nTwain"
+                }, 
+                {
+                    "begin": 4708, 
+                    "end": 4718, 
+                    "score": 0.5986523628234863, 
+                    "spot": "Mark Twain"
+                }
+            ], 
+            "wiki_id": 154450, 
+            "wiki_title": "Mark Twain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 927, 
+                    "end": 938, 
+                    "score": 0.016304347664117813, 
+                    "spot": "fire season"
+                }
+            ], 
+            "wiki_id": 36303946, 
+            "wiki_title": "Fire Season"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3375, 
+                    "end": 3382, 
+                    "score": 0.22978200018405914, 
+                    "spot": "burning"
+                }
+            ], 
+            "wiki_id": 5638, 
+            "wiki_title": "Combustion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3920, 
+                    "end": 3924, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 5207, 
+                    "end": 5211, 
+                    "score": 0.0932837501168251, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 19137151, 
+            "wiki_title": "West Bank Areas in the Oslo II Accord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3367, 
+                    "end": 3371, 
+                    "score": 0.20259429514408112, 
+                    "spot": "lead"
+                }
+            ], 
+            "wiki_id": 17747, 
+            "wiki_title": "Lead"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3059, 
+                    "end": 3067, 
+                    "score": 0.13263148069381714, 
+                    "spot": "frontier"
+                }
+            ], 
+            "wiki_id": 50344, 
+            "wiki_title": "Frontier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 656, 
+                    "score": 0.1481323540210724, 
+                    "spot": "woods"
+                }, 
+                {
+                    "begin": 2462, 
+                    "end": 2467, 
+                    "score": 0.17370107769966125, 
+                    "spot": "woods"
+                }, 
+                {
+                    "begin": 2634, 
+                    "end": 2646, 
+                    "score": 0.08643525093793869, 
+                    "spot": "wooded areas"
+                }, 
+                {
+                    "begin": 3264, 
+                    "end": 3269, 
+                    "score": 0.13796287775039673, 
+                    "spot": "woods"
+                }, 
+                {
+                    "begin": 3635, 
+                    "end": 3640, 
+                    "score": 0.12896282970905304, 
+                    "spot": "woods"
+                }
+            ], 
+            "wiki_id": 66986, 
+            "wiki_title": "Woodland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1192, 
+                    "end": 1199, 
+                    "score": 0.10080238431692123, 
+                    "spot": "officer"
+                }
+            ], 
+            "wiki_id": 310240, 
+            "wiki_title": "Police officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 586, 
+                    "score": 0.1938658058643341, 
+                    "spot": "study"
+                }, 
+                {
+                    "begin": 2845, 
+                    "end": 2856, 
+                    "score": 0.0961148738861084, 
+                    "spot": "researchers"
+                }, 
+                {
+                    "begin": 3132, 
+                    "end": 3143, 
+                    "score": 0.16694270074367523, 
+                    "spot": "researchers"
+                }
+            ], 
+            "wiki_id": 25524, 
+            "wiki_title": "Research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 904, 
+                    "end": 910, 
+                    "score": 0.0687539279460907, 
+                    "spot": "burned"
+                }
+            ], 
+            "wiki_id": 536874, 
+            "wiki_title": "Flag desecration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1246, 
+                    "end": 1250, 
+                    "score": 0.0011882357066497207, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 3843573, 
+            "wiki_title": "Administrative divisions of the Jewish Autonomous Oblast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5590, 
+                    "end": 5599, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 2842531, 
+            "wiki_title": "Rod Smallwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3194, 
+                    "end": 3200, 
+                    "score": 0.05967997759580612, 
+                    "spot": "common"
+                }
+            ], 
+            "wiki_id": 910535, 
+            "wiki_title": "Common land"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1810, 
+                    "end": 1817, 
+                    "score": 0.0020932909101247787, 
+                    "spot": "charged"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4580, 
+                    "end": 4585, 
+                    "score": 0.0008519482216797769, 
+                    "spot": "costs"
+                }, 
+                {
+                    "begin": 4914, 
+                    "end": 4919, 
+                    "score": 0.20532043278217316, 
+                    "spot": "costs"
+                }
+            ], 
+            "wiki_id": 221832, 
+            "wiki_title": "Costs in English law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4971, 
+                    "end": 4980, 
+                    "score": 0.11788182705640793, 
+                    "spot": "destroyed"
+                }
+            ], 
+            "wiki_id": 8103, 
+            "wiki_title": "Deforestation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2543, 
+                    "end": 2547, 
+                    "score": 0.0740000307559967, 
+                    "spot": "feed"
+                }
+            ], 
+            "wiki_id": 634526, 
+            "wiki_title": "Fodder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4936, 
+                    "end": 4940, 
+                    "score": 0.060334570705890656, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 731073, 
+            "wiki_title": "Bradford City stadium fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 880, 
+                    "end": 888, 
+                    "score": 0.11061052232980728, 
+                    "spot": "southern"
+                }, 
+                {
+                    "begin": 1439, 
+                    "end": 1461, 
+                    "score": 0.22430193424224854, 
+                    "spot": "southern United\nStates"
+                }, 
+                {
+                    "begin": 2796, 
+                    "end": 2807, 
+                    "score": 0.33241280913352966, 
+                    "spot": "rural South"
+                }, 
+                {
+                    "begin": 2802, 
+                    "end": 2807, 
+                    "score": 0.25523364543914795, 
+                    "spot": "South"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3731, 
+                    "end": 3735, 
+                    "score": 0.00254480866715312, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 230547, 
+            "wiki_title": "Case Western Reserve University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1949, 
+                    "end": 1952, 
+                    "score": 0.08805619925260544, 
+                    "spot": "job"
+                }
+            ], 
+            "wiki_id": 10782308, 
+            "wiki_title": "The Job (The Office)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4363, 
+                    "end": 4373, 
+                    "score": 0.002475247485563159, 
+                    "spot": "disallowed"
+                }
+            ], 
+            "wiki_id": 2685660, 
+            "wiki_title": "Disallowance and reservation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2555, 
+                    "end": 2563, 
+                    "score": 0.15041083097457886, 
+                    "spot": "unfenced"
+                }
+            ], 
+            "wiki_id": 42273, 
+            "wiki_title": "Fence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4799, 
+                    "end": 4807, 
+                    "score": 0.05164482071995735, 
+                    "spot": "suppress"
+                }
+            ], 
+            "wiki_id": 17253537, 
+            "wiki_title": "Censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5011, 
+                    "end": 5016, 
+                    "score": 0.11839038133621216, 
+                    "spot": "judge"
+                }
+            ], 
+            "wiki_id": 44719, 
+            "wiki_title": "Judge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2041, 
+                    "end": 2057, 
+                    "score": 0.013651876710355282, 
+                    "spot": "federal property"
+                }
+            ], 
+            "wiki_id": 2085702, 
+            "wiki_title": "Federal lands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1420, 
+                    "end": 1427, 
+                    "score": 0.10093992203474045, 
+                    "spot": "stretch"
+                }
+            ], 
+            "wiki_id": 361548, 
+            "wiki_title": "One Hot Minute"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4246, 
+                    "end": 4250, 
+                    "score": 0.13148808479309082, 
+                    "spot": "hear"
+                }
+            ], 
+            "wiki_id": 21282020, 
+            "wiki_title": "Hearing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2706, 
+                    "end": 2715, 
+                    "score": 0.05431937426328659, 
+                    "spot": "conducted"
+                }
+            ], 
+            "wiki_id": 199162, 
+            "wiki_title": "Conducting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 217, 
+                    "score": 0.19832201302051544, 
+                    "spot": "accidental"
+                }
+            ], 
+            "wiki_id": 24462937, 
+            "wiki_title": "Accident"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4834, 
+                    "end": 4844, 
+                    "score": 0.17722761631011963, 
+                    "spot": "conviction"
+                }
+            ], 
+            "wiki_id": 146762, 
+            "wiki_title": "Conviction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1379, 
+                    "end": 1387, 
+                    "score": 0.12133007496595383, 
+                    "spot": "McDonald"
+                }
+            ], 
+            "wiki_id": 602779, 
+            "wiki_title": "Larry McDonald"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1635, 
+                    "end": 1641, 
+                    "score": 0.0038031789008527994, 
+                    "spot": "agents"
+                }
+            ], 
+            "wiki_id": 1418555, 
+            "wiki_title": "Agent (grammar)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 504, 
+                    "end": 512, 
+                    "score": 0.09223397076129913, 
+                    "spot": "regional"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1976, 
+                    "end": 1985, 
+                    "score": 0.31986716389656067, 
+                    "spot": "marijuana"
+                }
+            ], 
+            "wiki_id": 1481886, 
+            "wiki_title": "Cannabis (drug)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2109, 
+                    "end": 2121, 
+                    "score": 0.039099305868148804, 
+                    "spot": "headquarters"
+                }
+            ], 
+            "wiki_id": 745008, 
+            "wiki_title": "Headquarters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 47, 
+                    "end": 56, 
+                    "score": 0.15515100955963135, 
+                    "spot": "lightning"
+                }, 
+                {
+                    "begin": 1540, 
+                    "end": 1549, 
+                    "score": 0.20859834551811218, 
+                    "spot": "lightning"
+                }
+            ], 
+            "wiki_id": 61344, 
+            "wiki_title": "Lightning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1590, 
+                    "end": 1596, 
+                    "score": 0.22756388783454895, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 1792, 
+                    "end": 1798, 
+                    "score": 0.18356561660766602, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 2094, 
+                    "end": 2100, 
+                    "score": 0.18356561660766602, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 2261, 
+                    "end": 2267, 
+                    "score": 0.3155604302883148, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 2733, 
+                    "end": 2739, 
+                    "score": 0.18356561660766602, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 3309, 
+                    "end": 3315, 
+                    "score": 0.23955225944519043, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 4434, 
+                    "end": 4440, 
+                    "score": 0.1395673304796219, 
+                    "spot": "Forest"
+                }
+            ], 
+            "wiki_id": 16012762, 
+            "wiki_title": "Forestry in Ethiopia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 329, 
+                    "end": 337, 
+                    "score": 0.44531601667404175, 
+                    "spot": "Missouri"
+                }, 
+                {
+                    "begin": 889, 
+                    "end": 897, 
+                    "score": 0.28789228200912476, 
+                    "spot": "Missouri"
+                }
+            ], 
+            "wiki_id": 19571, 
+            "wiki_title": "Missouri"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3162, 
+                    "end": 3168, 
+                    "score": 0.04403570666909218, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 856495, 
+            "wiki_title": "Sky Living"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3341, 
+                    "end": 3348, 
+                    "score": 0.0017956362571567297, 
+                    "spot": "counter"
+                }
+            ], 
+            "wiki_id": 7647, 
+            "wiki_title": "Counter (digital)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4042, 
+                    "end": 4049, 
+                    "score": 0.014052356593310833, 
+                    "spot": "citizen"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3720, 
+                    "end": 3722, 
+                    "score": 0.08793186396360397, 
+                    "spot": "We"
+                }, 
+                {
+                    "begin": 4343, 
+                    "end": 4345, 
+                    "score": 0.10825301706790924, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 5638, 
+                    "end": 5640, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 845, 
+                    "end": 851, 
+                    "score": 0.00465810252353549, 
+                    "spot": "covers"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2080, 
+                    "end": 2086, 
+                    "score": 0.004220783710479736, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 382507, 
+            "wiki_title": "Office"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2688, 
+                    "end": 2692, 
+                    "score": 0.13208845257759094, 
+                    "spot": "Shea"
+                }, 
+                {
+                    "begin": 2832, 
+                    "end": 2836, 
+                    "score": 0.07235603034496307, 
+                    "spot": "Shea"
+                }
+            ], 
+            "wiki_id": 28855, 
+            "wiki_title": "Shea Stadium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5348, 
+                    "end": 5353, 
+                    "score": 0.18099039793014526, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2486, 
+                    "end": 2490, 
+                    "score": 0.03316003829240799, 
+                    "spot": "grow"
+                }
+            ], 
+            "wiki_id": 564779, 
+            "wiki_title": "Cell growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4657, 
+                    "end": 4660, 
+                    "score": 0.13676846027374268, 
+                    "spot": "tax"
+                }
+            ], 
+            "wiki_id": 30297, 
+            "wiki_title": "Tax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3213, 
+                    "end": 3218, 
+                    "score": 0.11558026075363159, 
+                    "spot": "smell"
+                }
+            ], 
+            "wiki_id": 21244265, 
+            "wiki_title": "Olfaction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 11, 
+                    "score": 0.01398089062422514, 
+                    "spot": "split"
+                }
+            ], 
+            "wiki_id": 18952408, 
+            "wiki_title": "Split, Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3901, 
+                    "end": 3908, 
+                    "score": 0.06061013042926788, 
+                    "spot": "driving"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3768, 
+                    "end": 3781, 
+                    "score": 0.28533118963241577, 
+                    "spot": "Sunday school"
+                }, 
+                {
+                    "begin": 3830, 
+                    "end": 3843, 
+                    "score": 0.16859027743339539, 
+                    "spot": "Sunday school"
+                }
+            ], 
+            "wiki_id": 654550, 
+            "wiki_title": "Sunday school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1289, 
+                    "end": 1296, 
+                    "score": 0.05102267488837242, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 1467948, 
+            "wiki_title": "Problem solving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1643, 
+                    "end": 1652, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 1937, 
+                    "end": 1946, 
+                    "score": 0.10240045189857483, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 282970, 
+            "wiki_title": "Joey Smallwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4267, 
+                    "end": 4272, 
+                    "score": 0.07071831822395325, 
+                    "spot": "angry"
+                }
+            ], 
+            "wiki_id": 68672, 
+            "wiki_title": "Anger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 621, 
+                    "end": 632, 
+                    "score": 0.0025586995761841536, 
+                    "spot": "reasons\nwhy"
+                }
+            ], 
+            "wiki_id": 10772940, 
+            "wiki_title": "The Reasons Why (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5396, 
+                    "end": 5400, 
+                    "score": 0.16779330372810364, 
+                    "spot": "fear"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 731, 
+                    "end": 734, 
+                    "score": 0.1848619282245636, 
+                    "spot": "out"
+                }, 
+                {
+                    "begin": 4620, 
+                    "end": 4623, 
+                    "score": 0.025691712275147438, 
+                    "spot": "out"
+                }, 
+                {
+                    "begin": 4646, 
+                    "end": 4649, 
+                    "score": 0.08807460963726044, 
+                    "spot": "out"
+                }, 
+                {
+                    "begin": 5160, 
+                    "end": 5163, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4394, 
+                    "end": 4397, 
+                    "score": 0.11798779666423798, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 2029109, 
+            "wiki_title": "Boss (crime)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5157, 
+                    "end": 5159, 
+                    "score": 0.004958091303706169, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 6937816, 
+            "wiki_title": "Go! (Common song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5310, 
+                    "end": 5319, 
+                    "score": 0.1308034062385559, 
+                    "spot": "witnesses"
+                }
+            ], 
+            "wiki_id": 50956, 
+            "wiki_title": "Witness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3293, 
+                    "end": 3298, 
+                    "score": 0.08365685492753983, 
+                    "spot": "clean"
+                }
+            ], 
+            "wiki_id": 1055890, 
+            "wiki_title": "Sustainable energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 87, 
+                    "score": 0.40404045581817627, 
+                    "spot": "forest fire"
+                }, 
+                {
+                    "begin": 753, 
+                    "end": 760, 
+                    "score": 0.0881662517786026, 
+                    "spot": "burning"
+                }, 
+                {
+                    "begin": 1024, 
+                    "end": 1036, 
+                    "score": 0.0947522521018982, 
+                    "spot": "forest fires"
+                }, 
+                {
+                    "begin": 1703, 
+                    "end": 1708, 
+                    "score": 0.08754123002290726, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 3286, 
+                    "end": 3292, 
+                    "score": 0.19015468657016754, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 4759, 
+                    "end": 4771, 
+                    "score": 0.36453065276145935, 
+                    "spot": "forest fires"
+                }, 
+                {
+                    "begin": 5466, 
+                    "end": 5478, 
+                    "score": 0.19343897700309753, 
+                    "spot": "forest fires"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2509, 
+                    "end": 2513, 
+                    "score": 0.16812045872211456, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 1235059, 
+            "wiki_title": "Breed registry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4012, 
+                    "end": 4019, 
+                    "score": 0.0016050267731770873, 
+                    "spot": "profile"
+                }
+            ], 
+            "wiki_id": 35773358, 
+            "wiki_title": "User profile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3624, 
+                    "end": 3630, 
+                    "score": 0.11203113943338394, 
+                    "spot": "manage"
+                }
+            ], 
+            "wiki_id": 19881, 
+            "wiki_title": "Management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2700, 
+                    "end": 2705, 
+                    "score": 0.0006428184569813311, 
+                    "spot": "1940s"
+                }
+            ], 
+            "wiki_id": 363998, 
+            "wiki_title": "1940s in film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 154, 
+                    "end": 161, 
+                    "score": 0.00909090880304575, 
+                    "spot": "culprit"
+                }
+            ], 
+            "wiki_id": 3919577, 
+            "wiki_title": "Culprit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1152, 
+                    "end": 1164, 
+                    "score": 0.375, 
+                    "spot": "Ron McDonald"
+                }
+            ], 
+            "wiki_id": 22931035, 
+            "wiki_title": "Ron McDonald"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5224, 
+                    "end": 5237, 
+                    "score": 0.04117099568247795, 
+                    "spot": "investigation"
+                }
+            ], 
+            "wiki_id": 37297, 
+            "wiki_title": "Criminal procedure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3050, 
+                    "end": 3058, 
+                    "score": 0.14775073528289795, 
+                    "spot": "arrested"
+                }
+            ], 
+            "wiki_id": 170638, 
+            "wiki_title": "Arrest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3727, 
+                    "end": 3735, 
+                    "score": 0.001303780940361321, 
+                    "spot": "one case"
+                }
+            ], 
+            "wiki_id": 18393717, 
+            "wiki_title": "Do\u011fan Holding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1009, 
+                    "end": 1016, 
+                    "score": 0.12380068749189377, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 1103, 
+                    "end": 1110, 
+                    "score": 0.15593449771404266, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4326, 
+                    "end": 4332, 
+                    "score": 0.14712269604206085, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 43564, 
+            "wiki_title": "Action film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 366, 
+                    "score": 0.09725655615329742, 
+                    "spot": "National Forest"
+                }, 
+                {
+                    "begin": 1716, 
+                    "end": 1723, 
+                    "score": 0.1506725549697876, 
+                    "spot": "forests"
+                }
+            ], 
+            "wiki_id": 42653, 
+            "wiki_title": "United States National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4923, 
+                    "end": 4931, 
+                    "score": 0.14426276087760925, 
+                    "spot": "fighting"
+                }, 
+                {
+                    "begin": 5564, 
+                    "end": 5572, 
+                    "score": 0.1805928349494934, 
+                    "spot": "fighting"
+                }
+            ], 
+            "wiki_id": 18978563, 
+            "wiki_title": "Domestic violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 593, 
+                    "end": 601, 
+                    "score": 0.13736620545387268, 
+                    "spot": "economic"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 289, 
+                    "score": 0.07860340178012848, 
+                    "spot": "Dale"
+                }
+            ], 
+            "wiki_id": 155812, 
+            "wiki_title": "Chip 'n' Dale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3037, 
+                    "end": 3043, 
+                    "score": 0.11774538457393646, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 18393, 
+            "wiki_title": "Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4207, 
+                    "end": 4225, 
+                    "score": 0.3317807912826538, 
+                    "spot": "malicious mischief"
+                }
+            ], 
+            "wiki_id": 255808, 
+            "wiki_title": "Mischief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5488, 
+                    "end": 5492, 
+                    "score": 0.19346678256988525, 
+                    "spot": "risk"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1076, 
+                    "end": 1079, 
+                    "score": 0.07341787219047546, 
+                    "spot": "set"
+                }, 
+                {
+                    "begin": 4191, 
+                    "end": 4194, 
+                    "score": 0.08310884237289429, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 26691, 
+            "wiki_title": "Set (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 985, 
+                    "end": 994, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 29746482, 
+            "wiki_title": "Martin Smallwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 198, 
+                    "end": 202, 
+                    "score": 0.1621442437171936, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 553, 
+                    "end": 559, 
+                    "score": 0.08820682764053345, 
+                    "spot": "flames"
+                }, 
+                {
+                    "begin": 708, 
+                    "end": 713, 
+                    "score": 0.10799840092658997, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1370, 
+                    "end": 1375, 
+                    "score": 0.06339690834283829, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 1487, 
+                    "end": 1492, 
+                    "score": 0.18530891835689545, 
+                    "spot": "Fires"
+                }, 
+                {
+                    "begin": 2354, 
+                    "end": 2359, 
+                    "score": 0.037630755454301834, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 2865, 
+                    "end": 2869, 
+                    "score": 0.0999809131026268, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 3616, 
+                    "end": 3620, 
+                    "score": 0.18086013197898865, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 4195, 
+                    "end": 4200, 
+                    "score": 0.07341913878917694, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 4504, 
+                    "end": 4508, 
+                    "score": 0.15763749182224274, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 4614, 
+                    "end": 4619, 
+                    "score": 0.1686987727880478, 
+                    "spot": "fires"
+                }, 
+                {
+                    "begin": 5582, 
+                    "end": 5586, 
+                    "score": 0.15862400829792023, 
+                    "spot": "fire"
+                }, 
+                {
+                    "begin": 5626, 
+                    "end": 5631, 
+                    "score": 0.2196517437696457, 
+                    "spot": "blaze"
+                }
+            ], 
+            "wiki_id": 11145, 
+            "wiki_title": "Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1277, 
+                    "end": 1282, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "worst"
+                }
+            ], 
+            "wiki_id": 43031240, 
+            "wiki_title": "The Worst (Jhen\u00e9 Aiko song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3532, 
+                    "end": 3536, 
+                    "score": 0.08714914321899414, 
+                    "spot": "view"
+                }
+            ], 
+            "wiki_id": 656307, 
+            "wiki_title": "The View (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 126, 
+                    "score": 0.19069315493106842, 
+                    "spot": "exhaust"
+                }
+            ], 
+            "wiki_id": 1688648, 
+            "wiki_title": "Exhaust system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1340, 
+                    "end": 1350, 
+                    "score": 0.10017111152410507, 
+                    "spot": "incendiary"
+                }
+            ], 
+            "wiki_id": 290330, 
+            "wiki_title": "Incendiary device"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3353, 
+                    "end": 3357, 
+                    "score": 0.012921164743602276, 
+                    "spot": "lore"
+                }
+            ], 
+            "wiki_id": 11303, 
+            "wiki_title": "Folklore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3756, 
+                    "end": 3759, 
+                    "score": 0.041277676820755005, 
+                    "spot": "men"
+                }
+            ], 
+            "wiki_id": 571200, 
+            "wiki_title": "Manchester Evening News"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4086, 
+                    "end": 4093, 
+                    "score": 0.1505770981311798, 
+                    "spot": "driving"
+                }
+            ], 
+            "wiki_id": 511428, 
+            "wiki_title": "Driving under the influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 20, 
+                    "score": 0.006019563414156437, 
+                    "spot": "charred"
+                }
+            ], 
+            "wiki_id": 2004514, 
+            "wiki_title": "Charring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2877, 
+                    "end": 2884, 
+                    "score": 0.2074253261089325, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 855297, 
+            "wiki_title": "Pest control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4945, 
+                    "end": 4954, 
+                    "score": 0.0535120815038681, 
+                    "spot": "replacing"
+                }
+            ], 
+            "wiki_id": 2401985, 
+            "wiki_title": "Substitute (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 513, 
+                    "end": 523, 
+                    "score": 0.06699436157941818, 
+                    "spot": "traditions"
+                }, 
+                {
+                    "begin": 1401, 
+                    "end": 1410, 
+                    "score": 0.19075773656368256, 
+                    "spot": "tradition"
+                }, 
+                {
+                    "begin": 3597, 
+                    "end": 3606, 
+                    "score": 0.22358152270317078, 
+                    "spot": "tradition"
+                }
+            ], 
+            "wiki_id": 30067, 
+            "wiki_title": "Tradition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3646, 
+                    "end": 3650, 
+                    "score": 0.09210718423128128, 
+                    "spot": "hard"
+                }
+            ], 
+            "wiki_id": 3588836, 
+            "wiki_title": "Hardness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 983, 
+                    "score": 0.24105553328990936, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 612, 
+            "wiki_title": "Arithmetic mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1883, 
+                    "end": 1893, 
+                    "score": 0.32516875863075256, 
+                    "spot": "commercial"
+                }, 
+                {
+                    "begin": 1883, 
+                    "end": 1903, 
+                    "score": 0.2458108812570572, 
+                    "spot": "commercial interests"
+                }
+            ], 
+            "wiki_id": 39208, 
+            "wiki_title": "Commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5121, 
+                    "end": 5125, 
+                    "score": 0.09980541467666626, 
+                    "spot": "hard"
+                }
+            ], 
+            "wiki_id": 407299, 
+            "wiki_title": "Hard water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1918, 
+                    "end": 1925, 
+                    "score": 0.4154553711414337, 
+                    "spot": "mineral"
+                }, 
+                {
+                    "begin": 1918, 
+                    "end": 1935, 
+                    "score": 0.2625199854373932, 
+                    "spot": "mineral resources"
+                }
+            ], 
+            "wiki_id": 19053, 
+            "wiki_title": "Mineral"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 645, 
+                    "end": 650, 
+                    "score": 0.07361061125993729, 
+                    "spot": "light"
+                }
+            ], 
+            "wiki_id": 17939, 
+            "wiki_title": "Light"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 920, 
+                    "end": 931, 
+                    "score": 0.22058823704719543, 
+                    "spot": "spring fire"
+                }
+            ], 
+            "wiki_id": 9745642, 
+            "wiki_title": "Spring Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 450, 
+                    "end": 459, 
+                    "score": 0.0007770162774249911, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2808, 
+                    "end": 2811, 
+                    "score": 0.08119017630815506, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5502, 
+                    "end": 5505, 
+                    "score": 0.091938816010952, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3431, 
+                    "end": 3440, 
+                    "score": 0.44050174951553345, 
+                    "spot": "cash crop"
+                }
+            ], 
+            "wiki_id": 323990, 
+            "wiki_title": "Cash crop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 31, 
+                    "score": 0.07039710879325867, 
+                    "spot": "tree stump"
+                }
+            ], 
+            "wiki_id": 5248941, 
+            "wiki_title": "Tree stump"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3222, 
+                    "end": 3227, 
+                    "score": 0.14312849938869476, 
+                    "spot": "smoke"
+                }
+            ], 
+            "wiki_id": 27001, 
+            "wiki_title": "Smoke"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4998, 
+                    "end": 5007, 
+                    "score": 0.004724409431219101, 
+                    "spot": "Last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3679, 
+                    "end": 3682, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 6303710, 
+            "wiki_title": "Laumeier Sculpture Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5551, 
+                    "end": 5563, 
+                    "score": 0.3632766008377075, 
+                    "spot": "heart attack"
+                }
+            ], 
+            "wiki_id": 20556798, 
+            "wiki_title": "Myocardial infarction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2727, 
+                    "end": 2732, 
+                    "score": 0.03310149908065796, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 31653, 
+            "wiki_title": "First Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 132, 
+                    "end": 139, 
+                    "score": 0.09085050225257874, 
+                    "spot": "passing"
+                }
+            ], 
+            "wiki_id": 1896443, 
+            "wiki_title": "Overtaking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2322, 
+                    "end": 2336, 
+                    "score": 0.156045064330101, 
+                    "spot": "archaeologists"
+                }
+            ], 
+            "wiki_id": 18951655, 
+            "wiki_title": "Archaeology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5783, 
+                    "end": 5795, 
+                    "score": 0.37646758556365967, 
+                    "spot": "manslaughter"
+                }
+            ], 
+            "wiki_id": 7397035, 
+            "wiki_title": "Manslaughter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 324, 
+                    "score": 0.15878170728683472, 
+                    "spot": "criminal investigator"
+                }
+            ], 
+            "wiki_id": 118576, 
+            "wiki_title": "Detective"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5295, 
+                    "end": 5298, 
+                    "score": 0.13005077838897705, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 611, 
+                    "end": 620, 
+                    "score": 0.08589056134223938, 
+                    "spot": "aesthetic"
+                }, 
+                {
+                    "begin": 3086, 
+                    "end": 3096, 
+                    "score": 0.24359208345413208, 
+                    "spot": "Aesthetics"
+                }
+            ], 
+            "wiki_id": 2130, 
+            "wiki_title": "Aesthetics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3363, 
+                    "end": 3366, 
+                    "score": 0.0729784145951271, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 507190, 
+            "wiki_title": "Tin can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2453, 
+                    "end": 2457, 
+                    "score": 0.1499168574810028, 
+                    "spot": "burn"
+                }
+            ], 
+            "wiki_id": 18842308, 
+            "wiki_title": "Stream"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3155, 
+                    "end": 3161, 
+                    "score": 0.09849423915147781, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4595, 
+                    "end": 4600, 
+                    "score": 0.2175581455230713, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2171, 
+                    "end": 2178, 
+                    "score": 0.07706823199987411, 
+                    "spot": "picture"
+                }
+            ], 
+            "wiki_id": 71925, 
+            "wiki_title": "Image"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3700, 
+                    "end": 3708, 
+                    "score": 0.13662919402122498, 
+                    "spot": "McDonald"
+                }
+            ], 
+            "wiki_id": 34043049, 
+            "wiki_title": "Frank McDonald (director)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1611, 
+                    "end": 1622, 
+                    "score": 0.023381294682621956, 
+                    "spot": "special law"
+                }
+            ], 
+            "wiki_id": 13307121, 
+            "wiki_title": "Special law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 37, 
+                    "end": 41, 
+                    "score": 0.1353502869606018, 
+                    "spot": "clue"
+                }, 
+                {
+                    "begin": 5371, 
+                    "end": 5379, 
+                    "score": 0.08420035988092422, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 20550772, 
+            "wiki_title": "Evidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4004, 
+                    "end": 4007, 
+                    "score": 0.04686850681900978, 
+                    "spot": "fit"
+                }
+            ], 
+            "wiki_id": 27154, 
+            "wiki_title": "Epileptic seizure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 949, 
+                    "end": 957, 
+                    "score": 0.23045530915260315, 
+                    "spot": "volatile"
+                }
+            ], 
+            "wiki_id": 1014518, 
+            "wiki_title": "Volatile organic compound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2716, 
+                    "end": 2719, 
+                    "score": 0.040760137140750885, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 1635901, 
+            "wiki_title": "The One (Elton John album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 638, 
+                    "end": 644, 
+                    "score": 0.06167231872677803, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 2438, 
+                    "end": 2444, 
+                    "score": 0.002633341820910573, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4661, 
+                    "end": 4668, 
+                    "score": 0.15507246553897858, 
+                    "spot": "dollars"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2564, 
+                    "end": 2568, 
+                    "score": 0.1585657298564911, 
+                    "spot": "land"
+                }, 
+                {
+                    "begin": 2955, 
+                    "end": 2959, 
+                    "score": 0.06408825516700745, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 47707505, 
+            "wiki_title": "Real property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3968, 
+                    "end": 3973, 
+                    "score": 0.07869838923215866, 
+                    "spot": "Still"
+                }
+            ], 
+            "wiki_id": 430398, 
+            "wiki_title": "Still"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3235, 
+                    "end": 3245, 
+                    "score": 0.13333334028720856, 
+                    "spot": "spring air"
+                }
+            ], 
+            "wiki_id": 48000216, 
+            "wiki_title": "Spring in the Air"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2521, 
+                    "score": 0.2244543433189392, 
+                    "spot": "grazing"
+                }, 
+                {
+                    "begin": 2981, 
+                    "end": 2986, 
+                    "score": 0.17792047560214996, 
+                    "spot": "graze"
+                }
+            ], 
+            "wiki_id": 854453, 
+            "wiki_title": "Grazing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 536, 
+                    "end": 540, 
+                    "score": 0.0018001369899138808, 
+                    "spot": "hard"
+                }
+            ], 
+            "wiki_id": 124802, 
+            "wiki_title": "Hard rock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 254, 
+                    "score": 0.11050274223089218, 
+                    "spot": "causes"
+                }
+            ], 
+            "wiki_id": 37196, 
+            "wiki_title": "Causality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 566, 
+                    "end": 578, 
+                    "score": 0.2731536626815796, 
+                    "spot": "psychologist"
+                }, 
+                {
+                    "begin": 2290, 
+                    "end": 2303, 
+                    "score": 0.3042204976081848, 
+                    "spot": "psychologists"
+                }, 
+                {
+                    "begin": 2667, 
+                    "end": 2679, 
+                    "score": 0.13671140372753143, 
+                    "spot": "Psychologist"
+                }
+            ], 
+            "wiki_id": 22921, 
+            "wiki_title": "Psychology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5506, 
+                    "end": 5511, 
+                    "score": 0.0016442714259028435, 
+                    "spot": "fight"
+                }
+            ], 
+            "wiki_id": 3003098, 
+            "wiki_title": "Fight (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1834, 
+                    "end": 1843, 
+                    "score": 0.011737089604139328, 
+                    "spot": "wildlands"
+                }
+            ], 
+            "wiki_id": 49683806, 
+            "wiki_title": "Wildlands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1179, 
+                    "end": 1191, 
+                    "score": 0.03365999087691307, 
+                    "spot": "fire control"
+                }
+            ], 
+            "wiki_id": 1493317, 
+            "wiki_title": "Fire-control system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4471, 
+                    "end": 4481, 
+                    "score": 0.021264810115098953, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5276, 
+                    "end": 5281, 
+                    "score": 0.0023922801483422518, 
+                    "spot": "No.\n1"
+                }
+            ], 
+            "wiki_id": 1795886, 
+            "wiki_title": "Record chart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4355, 
+                    "end": 4359, 
+                    "score": 0.054319243878126144, 
+                    "spot": "road"
+                }
+            ], 
+            "wiki_id": 25897, 
+            "wiki_title": "Road"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5741, 
+                    "end": 5743, 
+                    "score": 0.12213443219661713, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 200960, 
+            "wiki_title": "Ch\u00e2teau d'If"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 360, 
+                    "end": 366, 
+                    "score": 0.12929710745811462, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 443, 
+                    "end": 449, 
+                    "score": 0.05157078057527542, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 831, 
+                    "end": 837, 
+                    "score": 0.07968616485595703, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 1251, 
+                    "end": 1257, 
+                    "score": 0.06981208920478821, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 2001, 
+                    "end": 2007, 
+                    "score": 0.34914493560791016, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 4280, 
+                    "end": 4286, 
+                    "score": 0.13821455836296082, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 5064, 
+                    "end": 5070, 
+                    "score": 0.13119405508041382, 
+                    "spot": "Forest"
+                }, 
+                {
+                    "begin": 5106, 
+                    "end": 5112, 
+                    "score": 0.15446984767913818, 
+                    "spot": "forest"
+                }, 
+                {
+                    "begin": 5185, 
+                    "end": 5191, 
+                    "score": 0.10268823802471161, 
+                    "spot": "forest"
+                }
+            ], 
+            "wiki_id": 11090, 
+            "wiki_title": "Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3462, 
+                    "end": 3472, 
+                    "score": 0.13758642971515656, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 20110668, 
+            "wiki_title": "Endangered species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2159, 
+                    "end": 2167, 
+                    "score": 0.08792036771774292, 
+                    "spot": "feathers"
+                }
+            ], 
+            "wiki_id": 50873, 
+            "wiki_title": "Feather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5171, 
+                    "end": 5177, 
+                    "score": 0.05423940718173981, 
+                    "spot": "middle"
+                }
+            ], 
+            "wiki_id": 539606, 
+            "wiki_title": "Central Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5436, 
+                    "end": 5442, 
+                    "score": 0.0018696822226047516, 
+                    "spot": "Beyond"
+                }
+            ], 
+            "wiki_id": 645687, 
+            "wiki_title": "Beyond (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 629, 
+                    "end": 632, 
+                    "score": 0.06214827671647072, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 2410276, 
+            "wiki_title": "Why (Carly Simon song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 802, 
+                    "end": 807, 
+                    "score": 0.02549538016319275, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4772, 
+                    "end": 4776, 
+                    "score": 0.0016789959045127034, 
+                    "spot": "cost"
+                }, 
+                {
+                    "begin": 5447, 
+                    "end": 5451, 
+                    "score": 0.06379198282957077, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 472, 
+                    "end": 479, 
+                    "score": 0.10243350267410278, 
+                    "spot": "problem"
+                }, 
+                {
+                    "begin": 4068, 
+                    "end": 4075, 
+                    "score": 0.002126880455762148, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 42604958, 
+            "wiki_title": "Problem (Ariana Grande song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3844, 
+                    "end": 3854, 
+                    "score": 0.07578155398368835, 
+                    "spot": "literature"
+                }
+            ], 
+            "wiki_id": 18963870, 
+            "wiki_title": "Literature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 340, 
+                    "end": 366, 
+                    "score": 0.5, 
+                    "spot": "Mark Twain\nNational Forest"
+                }
+            ], 
+            "wiki_id": 2627849, 
+            "wiki_title": "Mark Twain National Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 724, 
+                    "end": 730, 
+                    "score": 0.10887279361486435, 
+                    "spot": "broken"
+                }
+            ], 
+            "wiki_id": 25211041, 
+            "wiki_title": "Puberty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2364, 
+                    "end": 2367, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 31297361, 
+            "wiki_title": "Set (psychology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5047, 
+                    "end": 5055, 
+                    "score": 0.09419943392276764, 
+                    "spot": "weekends"
+                }
+            ], 
+            "wiki_id": 2016347, 
+            "wiki_title": "Workweek and weekend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4675, 
+                    "end": 4683, 
+                    "score": 0.18479785323143005, 
+                    "spot": "McDonald"
+                }
+            ], 
+            "wiki_id": 2480627, 
+            "wiki_title": "McDonald's"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2971, 
+                    "end": 2977, 
+                    "score": 0.06683088839054108, 
+                    "spot": "wanted"
+                }
+            ], 
+            "wiki_id": 406792, 
+            "wiki_title": "Fugitive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5094, 
+                    "end": 5098, 
+                    "score": 0.23114903271198273, 
+                    "spot": "case"
+                }, 
+                {
+                    "begin": 5693, 
+                    "end": 5697, 
+                    "score": 0.13222631812095642, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1127, 
+                    "end": 1135, 
+                    "score": 0.10610955208539963, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 17171335, 
+            "wiki_title": "The National (Abu Dhabi)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4719, 
+                    "end": 4728, 
+                    "score": 0.10518162697553635, 
+                    "spot": "employees"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2213, 
+                    "end": 2221, 
+                    "score": 0.06691919267177582, 
+                    "spot": "bookcase"
+                }
+            ], 
+            "wiki_id": 1032603, 
+            "wiki_title": "Bookcase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2401, 
+                    "end": 2410, 
+                    "score": 0.09480211138725281, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 8378408, 
+            "wiki_title": "Richard Smallwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 409, 
+                    "end": 423, 
+                    "score": 0.06622125953435898, 
+                    "spot": "investigations"
+                }
+            ], 
+            "wiki_id": 1921266, 
+            "wiki_title": "United States Senate Homeland Security Permanent Subcommittee on Investigations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 95, 
+                    "score": 0.2739561200141907, 
+                    "spot": "Carbon"
+                }
+            ], 
+            "wiki_id": 5299, 
+            "wiki_title": "Carbon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1111, 
+                    "end": 1117, 
+                    "score": 0.126800537109375, 
+                    "spot": "higher"
+                }
+            ], 
+            "wiki_id": 497117, 
+            "wiki_title": "Higher (Scottish)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4640, 
+                    "end": 4645, 
+                    "score": 0.10868284851312637, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 2298740, 
+            "wiki_title": "Conservatism in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2149, 
+                    "end": 2158, 
+                    "score": 0.616879403591156, 
+                    "spot": "game bird"
+                }
+            ], 
+            "wiki_id": 771717, 
+            "wiki_title": "Game (hunting)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2892, 
+                    "end": 2898, 
+                    "score": 0.20355933904647827, 
+                    "spot": "snakes"
+                }
+            ], 
+            "wiki_id": 29370, 
+            "wiki_title": "Snake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 263, 
+                    "end": 267, 
+                    "score": 0.08385111391544342, 
+                    "spot": "down"
+                }, 
+                {
+                    "begin": 380, 
+                    "end": 384, 
+                    "score": 0.07433228194713593, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 128263, 
+            "wiki_title": "County Down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3452, 
+                    "end": 3458, 
+                    "score": 0.0022092361468821764, 
+                    "spot": "worthy"
+                }
+            ], 
+            "wiki_id": 901067, 
+            "wiki_title": "James Worthy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5796, 
+                    "end": 5802, 
+                    "score": 0.24623297154903412, 
+                    "spot": "charge"
+                }
+            ], 
+            "wiki_id": 12512562, 
+            "wiki_title": "Criminal charge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4740, 
+                    "end": 4752, 
+                    "score": 0.2393321692943573, 
+                    "spot": "firefighters"
+                }
+            ], 
+            "wiki_id": 146303, 
+            "wiki_title": "Firefighter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1559, 
+                    "end": 1571, 
+                    "score": 0.0038560412358492613, 
+                    "spot": "carelessness"
+                }
+            ], 
+            "wiki_id": 13416473, 
+            "wiki_title": "Carelessness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4101, 
+                    "end": 4109, 
+                    "score": 0.1354408860206604, 
+                    "spot": "drinking"
+                }
+            ], 
+            "wiki_id": 2965, 
+            "wiki_title": "Alcoholism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 681, 
+                    "score": 0.11923529952764511, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1476, 
+                    "end": 1485, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 127420, 
+            "wiki_title": "Smallwood, New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2680, 
+                    "end": 2684, 
+                    "score": 0.16729630529880524, 
+                    "spot": "John"
+                }
+            ], 
+            "wiki_id": 15852, 
+            "wiki_title": "John Lennon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4079, 
+                    "end": 4085, 
+                    "score": 0.14794231951236725, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 5355, 
+                    "end": 5361, 
+                    "score": 0.14611907303333282, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2796, 
+                    "end": 2801, 
+                    "score": 0.18154795467853546, 
+                    "spot": "rural"
+                }
+            ], 
+            "wiki_id": 212614, 
+            "wiki_title": "Rural area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2946, 
+                    "end": 2951, 
+                    "score": 0.06863702088594437, 
+                    "spot": "trees"
+                }, 
+                {
+                    "begin": 3544, 
+                    "end": 3551, 
+                    "score": 0.003871541004627943, 
+                    "spot": "forests"
+                }
+            ], 
+            "wiki_id": 48560, 
+            "wiki_title": "Tree (graph theory)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3503, 
+                    "end": 3517, 
+                    "score": 0.27397701144218445, 
+                    "spot": "other programs"
+                }
+            ], 
+            "wiki_id": 224230, 
+            "wiki_title": "Philmont Scout Ranch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3557, 
+                    "end": 3566, 
+                    "score": 0.03006872907280922, 
+                    "spot": "priceless"
+                }
+            ], 
+            "wiki_id": 378791, 
+            "wiki_title": "MasterCard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1675, 
+                    "end": 1679, 
+                    "score": 0.04015975818037987, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3786, 
+                    "end": 3798, 
+                    "score": 0.020091945305466652, 
+                    "spot": "after school"
+                }
+            ], 
+            "wiki_id": 25576384, 
+            "wiki_title": "After School (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2426, 
+                    "end": 2436, 
+                    "score": 0.08540942519903183, 
+                    "spot": "springtime"
+                }
+            ], 
+            "wiki_id": 316532, 
+            "wiki_title": "Spring (season)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 995, 
+                    "end": 1004, 
+                    "score": 0.08304914832115173, 
+                    "spot": "estimates"
+                }
+            ], 
+            "wiki_id": 10043, 
+            "wiki_title": "Estimator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 460, 
+                    "end": 467, 
+                    "score": 0.10472080856561661, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 4814950, 
+            "wiki_title": "Believe (Cher song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2606, 
+                    "end": 2611, 
+                    "score": 0.10839284211397171, 
+                    "spot": "1960s"
+                }
+            ], 
+            "wiki_id": 55558, 
+            "wiki_title": "Timeline of United States history"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1619, 
+                    "end": 1634, 
+                    "score": 0.030851244926452637, 
+                    "spot": "law enforcement"
+                }
+            ], 
+            "wiki_id": 18486, 
+            "wiki_title": "Law enforcement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4548, 
+                    "end": 4557, 
+                    "score": 0.023680124431848526, 
+                    "spot": "senseless"
+                }
+            ], 
+            "wiki_id": 4186829, 
+            "wiki_title": "Senseless"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5215, 
+                    "end": 5220, 
+                    "score": 0.1306944191455841, 
+                    "spot": "begin"
+                }
+            ], 
+            "wiki_id": 20767, 
+            "wiki_title": "Menachem Begin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4819, 
+                    "end": 4823, 
+                    "score": 0.04423738270998001, 
+                    "spot": "rare"
+                }
+            ], 
+            "wiki_id": 2665468, 
+            "wiki_title": "Rare species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4824, 
+                    "end": 4828, 
+                    "score": 0.13246169686317444, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 1704112, 
+            "wiki_title": "Legal case"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4169, 
+                    "end": 4174, 
+                    "score": 0.12553559243679047, 
+                    "spot": "bored"
+                }
+            ], 
+            "wiki_id": 235534, 
+            "wiki_title": "Boredom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3951, 
+                    "end": 3961, 
+                    "score": 0.22441203892230988, 
+                    "spot": "burned out"
+                }, 
+                {
+                    "begin": 5410, 
+                    "end": 5420, 
+                    "score": 0.25388312339782715, 
+                    "spot": "burned out"
+                }
+            ], 
+            "wiki_id": 22672118, 
+            "wiki_title": "Occupational burnout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2009, 
+                    "end": 2021, 
+                    "score": 0.1875, 
+                    "spot": "timber theft"
+                }
+            ], 
+            "wiki_id": 465780, 
+            "wiki_title": "Illegal logging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2305, 
+                    "end": 2317, 
+                    "score": 0.23679165542125702, 
+                    "spot": "sociologists"
+                }
+            ], 
+            "wiki_id": 18717981, 
+            "wiki_title": "Sociology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1327, 
+                    "end": 1336, 
+                    "score": 0.006019394379109144, 
+                    "spot": "tradition"
+                }, 
+                {
+                    "begin": 2388, 
+                    "end": 2397, 
+                    "score": 0.04524462670087814, 
+                    "spot": "tradition"
+                }
+            ], 
+            "wiki_id": 13749, 
+            "wiki_title": "Hadith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2930, 
+                    "end": 2942, 
+                    "score": 0.004982064478099346, 
+                    "spot": "encroachment"
+                }
+            ], 
+            "wiki_id": 34434462, 
+            "wiki_title": "Encroachment (gridiron football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2915, 
+                    "end": 2925, 
+                    "score": 0.09816160798072815, 
+                    "spot": "controlled"
+                }
+            ], 
+            "wiki_id": 1640288, 
+            "wiki_title": "Scientific control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4729, 
+                    "end": 4736, 
+                    "score": 0.15789218246936798, 
+                    "spot": "trained"
+                }
+            ], 
+            "wiki_id": 156423, 
+            "wiki_title": "Training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1050, 
+                    "end": 1058, 
+                    "score": 0.21056589484214783, 
+                    "spot": "Missouri"
+                }
+            ], 
+            "wiki_id": 23964683, 
+            "wiki_title": "University of Missouri"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 379, 
+                    "score": 0.11220408231019974, 
+                    "spot": "comes"
+                }
+            ], 
+            "wiki_id": 888207, 
+            "wiki_title": "Etymology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1849, 
+                    "end": 1858, 
+                    "score": 0.0824134573340416, 
+                    "spot": "balancing"
+                }
+            ], 
+            "wiki_id": 1897997, 
+            "wiki_title": "Balanced budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1763, 
+                    "end": 1772, 
+                    "score": 0.21895956993103027, 
+                    "spot": "hillbilly"
+                }
+            ], 
+            "wiki_id": 14011, 
+            "wiki_title": "Hillbilly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5380, 
+                    "end": 5388, 
+                    "score": 0.001408450654707849, 
+                    "spot": "withhold"
+                }
+            ], 
+            "wiki_id": 2196805, 
+            "wiki_title": "Withholding tax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 777, 
+                    "end": 782, 
+                    "score": 0.07509671896696091, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 818, 
+                    "end": 823, 
+                    "score": 0.04758946970105171, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 864, 
+                    "end": 869, 
+                    "score": 0.10361350327730179, 
+                    "spot": "acres"
+                }, 
+                {
+                    "begin": 4791, 
+                    "end": 4795, 
+                    "score": 0.11050507426261902, 
+                    "spot": "acre"
+                }
+            ], 
+            "wiki_id": 1797, 
+            "wiki_title": "Acre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2499, 
+                    "end": 2505, 
+                    "score": 0.04954591765999794, 
+                    "spot": "policy"
+                }
+            ], 
+            "wiki_id": 375091, 
+            "wiki_title": "Policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 224, 
+                    "end": 227, 
+                    "score": 0.11138605326414108, 
+                    "spot": "You"
+                }, 
+                {
+                    "begin": 256, 
+                    "end": 259, 
+                    "score": 0.07485310733318329, 
+                    "spot": "you"
+                }, 
+                {
+                    "begin": 4242, 
+                    "end": 4245, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }, 
+                {
+                    "begin": 5283, 
+                    "end": 5286, 
+                    "score": 0.08147615939378738, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 464907, 
+            "wiki_title": "You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 633, 
+                    "end": 644, 
+                    "score": 0.06086364760994911, 
+                    "spot": "some people"
+                }
+            ], 
+            "wiki_id": 32220114, 
+            "wiki_title": "Some People (LeAnn Rimes song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4032, 
+                    "end": 4041, 
+                    "score": 0.0036549707874655724, 
+                    "spot": "misguided"
+                }
+            ], 
+            "wiki_id": 4250793, 
+            "wiki_title": "Misguided"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 191, 
+                    "end": 195, 
+                    "score": 0.060763757675886154, 
+                    "spot": "tell"
+                }
+            ], 
+            "wiki_id": 211183, 
+            "wiki_title": "Tell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4423, 
+                    "end": 4426, 
+                    "score": 0.08817756921052933, 
+                    "spot": "mad"
+                }, 
+                {
+                    "begin": 4464, 
+                    "end": 4467, 
+                    "score": 0.08817756921052933, 
+                    "spot": "mad"
+                }
+            ], 
+            "wiki_id": 4968240, 
+            "wiki_title": "Mad River (California)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3997, 
+                    "end": 4003, 
+                    "score": 0.001482748775742948, 
+                    "spot": "always"
+                }
+            ], 
+            "wiki_id": 3824661, 
+            "wiki_title": "High availability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1321, 
+                    "end": 1326, 
+                    "score": 0.06556372344493866, 
+                    "spot": "Ozark"
+                }, 
+                {
+                    "begin": 1757, 
+                    "end": 1762, 
+                    "score": 0.16687214374542236, 
+                    "spot": "Ozark"
+                }, 
+                {
+                    "begin": 2589, 
+                    "end": 2595, 
+                    "score": 0.34818705916404724, 
+                    "spot": "Ozarks"
+                }
+            ], 
+            "wiki_id": 242683, 
+            "wiki_title": "Ozarks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4875, 
+                    "end": 4881, 
+                    "score": 0.0005572295631282032, 
+                    "spot": "put on"
+                }
+            ], 
+            "wiki_id": 17239747, 
+            "wiki_title": "Put On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 856, 
+                    "end": 863, 
+                    "score": 0.04501769691705704, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 735, 
+                    "end": 741, 
+                    "score": 0.09033887833356857, 
+                    "spot": "so far"
+                }
+            ], 
+            "wiki_id": 40846216, 
+            "wiki_title": "So Far..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4520, 
+                    "end": 4531, 
+                    "score": 0.13860450685024261, 
+                    "spot": "retaliation"
+                }
+            ], 
+            "wiki_id": 181361, 
+            "wiki_title": "Revenge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2769, 
+                    "end": 2788, 
+                    "score": 0.10131578892469406, 
+                    "spot": "Subsistence farmers"
+                }
+            ], 
+            "wiki_id": 323964, 
+            "wiki_title": "Subsistence agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3567, 
+                    "end": 3575, 
+                    "score": 0.08553461730480194, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 64, 
+                    "end": 69, 
+                    "score": 0.007950794883072376, 
+                    "spot": "blame"
+                }
+            ], 
+            "wiki_id": 319888, 
+            "wiki_title": "Blame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1680, 
+                    "end": 1688, 
+                    "score": 0.0015926839550957084, 
+                    "spot": "16 years"
+                }
+            ], 
+            "wiki_id": 1341522, 
+            "wiki_title": "United States House of Representatives elections, 1994"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4123, 
+                    "end": 4133, 
+                    "score": 0.023429179564118385, 
+                    "spot": "road signs"
+                }
+            ], 
+            "wiki_id": 261002, 
+            "wiki_title": "Traffic sign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1136, 
+                    "end": 1143, 
+                    "score": 0.11540669202804565, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 33274, 
+            "wiki_title": "Weighted arithmetic mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5666, 
+                    "end": 5676, 
+                    "score": 0.15546387434005737, 
+                    "spot": "prosecuted"
+                }, 
+                {
+                    "begin": 5748, 
+                    "end": 5758, 
+                    "score": 0.3213869035243988, 
+                    "spot": "prosecutor"
+                }
+            ], 
+            "wiki_id": 440936, 
+            "wiki_title": "Prosecutor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 260, 
+                    "end": 262, 
+                    "score": 0.08547836542129517, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 269769, 
+            "wiki_title": "Royal Engineers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 961, 
+                    "end": 968, 
+                    "score": 0.18353918194770813, 
+                    "spot": "drought"
+                }
+            ], 
+            "wiki_id": 37335, 
+            "wiki_title": "Drought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2885, 
+                    "end": 2890, 
+                    "score": 0.2757689356803894, 
+                    "spot": "ticks"
+                }
+            ], 
+            "wiki_id": 172273, 
+            "wiki_title": "Tick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1747, 
+                    "end": 1753, 
+                    "score": 0.001677952939644456, 
+                    "spot": "myself"
+                }
+            ], 
+            "wiki_id": 37918437, 
+            "wiki_title": "By Myself (1937 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4588, 
+                    "end": 4591, 
+                    "score": 0.06704571098089218, 
+                    "spot": "lot"
+                }
+            ], 
+            "wiki_id": 350589, 
+            "wiki_title": "Lot (biblical person)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1553, 
+                    "end": 1556, 
+                    "score": 0.06077084317803383, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 15822899, 
+            "wiki_title": "Man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2134, 
+                    "end": 2143, 
+                    "score": 0.0865100771188736, 
+                    "spot": "decorated"
+                }
+            ], 
+            "wiki_id": 24619, 
+            "wiki_title": "Pottery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2182, 
+                    "end": 2193, 
+                    "score": 0.5, 
+                    "spot": "Smokey\nBear"
+                }, 
+                {
+                    "begin": 3487, 
+                    "end": 3498, 
+                    "score": 0.6397756338119507, 
+                    "spot": "Smokey Bear"
+                }
+            ], 
+            "wiki_id": 329797, 
+            "wiki_title": "Smokey Bear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1859, 
+                    "end": 1871, 
+                    "score": 0.17192663252353668, 
+                    "spot": "recreational"
+                }
+            ], 
+            "wiki_id": 25381, 
+            "wiki_title": "Recreation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 96, 
+                    "end": 105, 
+                    "score": 0.18676480650901794, 
+                    "spot": "particles"
+                }
+            ], 
+            "wiki_id": 30876688, 
+            "wiki_title": "Particulates"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3576, 
+                    "end": 3584, 
+                    "score": 0.15863849222660065, 
+                    "spot": "resource"
+                }
+            ], 
+            "wiki_id": 10368228, 
+            "wiki_title": "Resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2350, 
+                    "end": 2353, 
+                    "score": 0.0026988310273736715, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 1255516, 
+            "wiki_title": "Why? (American band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 271, 
+                    "end": 276, 
+                    "score": 0.1790357381105423, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 388, 
+                    "end": 393, 
+                    "score": 0.2697605788707733, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 668, 
+                    "end": 677, 
+                    "score": 0.14030590653419495, 
+                    "spot": "Arsonists"
+                }, 
+                {
+                    "begin": 1283, 
+                    "end": 1288, 
+                    "score": 0.17626097798347473, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 2759, 
+                    "end": 2764, 
+                    "score": 0.20593363046646118, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 3184, 
+                    "end": 3189, 
+                    "score": 0.25104230642318726, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 3979, 
+                    "end": 3987, 
+                    "score": 0.15291796624660492, 
+                    "spot": "arsonist"
+                }, 
+                {
+                    "begin": 4850, 
+                    "end": 4858, 
+                    "score": 0.20943687856197357, 
+                    "spot": "arsonist"
+                }, 
+                {
+                    "begin": 5029, 
+                    "end": 5038, 
+                    "score": 0.17810238897800446, 
+                    "spot": "arsonists"
+                }, 
+                {
+                    "begin": 5088, 
+                    "end": 5093, 
+                    "score": 0.30736419558525085, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 5576, 
+                    "end": 5581, 
+                    "score": 0.36676961183547974, 
+                    "spot": "arson"
+                }, 
+                {
+                    "begin": 5815, 
+                    "end": 5823, 
+                    "score": 0.3398529887199402, 
+                    "spot": "arsonist"
+                }
+            ], 
+            "wiki_id": 184695, 
+            "wiki_title": "Arson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5523, 
+                    "end": 5525, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 14202196, 
+            "wiki_title": "We (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3641, 
+                    "end": 3645, 
+                    "score": 0.12792569398880005, 
+                    "spot": "dies"
+                }, 
+                {
+                    "begin": 5542, 
+                    "end": 5545, 
+                    "score": 0.14597901701927185, 
+                    "spot": "die"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4483, 
+                    "end": 4489, 
+                    "score": 0.041493646800518036, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 1376711, 
+            "wiki_title": "Historical period drama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4374, 
+                    "end": 4383, 
+                    "score": 0.09926668554544449, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2903, 
+                    "end": 2910, 
+                    "score": 0.23779943585395813, 
+                    "spot": "disease"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1365, 
+                    "end": 1368, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 416758, 
+            "wiki_title": "Set construction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3930, 
+                    "end": 3937, 
+                    "score": 0.16198040544986725, 
+                    "spot": "thought"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1605, 
+                    "end": 1610, 
+                    "score": 0.09243697673082352, 
+                    "spot": "s 125"
+                }
+            ], 
+            "wiki_id": 1377417, 
+            "wiki_title": "S-125 Neva/Pechora"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3071, 
+                    "end": 3075, 
+                    "score": 0.10590421408414841, 
+                    "spot": "Shea"
+                }
+            ], 
+            "wiki_id": 6665850, 
+            "wiki_title": "Joseph Francis Shea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 145, 
+                    "score": 0.11399444937705994, 
+                    "spot": "truck"
+                }
+            ], 
+            "wiki_id": 31456, 
+            "wiki_title": "Truck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4685, 
+                    "end": 4688, 
+                    "score": 0.10833513736724854, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 5362, 
+                    "end": 5365, 
+                    "score": 0.03901570290327072, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4882, 
+                    "end": 4891, 
+                    "score": 0.18466055393218994, 
+                    "spot": "probation"
+                }
+            ], 
+            "wiki_id": 406786, 
+            "wiki_title": "Probation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3476, 
+                    "end": 3485, 
+                    "score": 0.35375016927719116, 
+                    "spot": "grassland"
+                }
+            ], 
+            "wiki_id": 198842, 
+            "wiki_title": "Grassland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 489, 
+                    "end": 495, 
+                    "score": 0.027682151645421982, 
+                    "spot": "rooted"
+                }
+            ], 
+            "wiki_id": 56333, 
+            "wiki_title": "Root"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4311, 
+                    "end": 4332, 
+                    "score": 0.009554140269756317, 
+                    "spot": "administrative action"
+                }
+            ], 
+            "wiki_id": 30722876, 
+            "wiki_title": "Administrative law in Singapore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1258, 
+                    "end": 1267, 
+                    "score": 0.0490373820066452, 
+                    "spot": "districts"
+                }
+            ], 
+            "wiki_id": 156653, 
+            "wiki_title": "District"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3804, 
+                    "end": 3818, 
+                    "score": 0.026690391823649406, 
+                    "spot": "started a fire"
+                }
+            ], 
+            "wiki_id": 14838193, 
+            "wiki_title": "Started a Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2477, 
+                    "end": 2482, 
+                    "score": 0.14771156013011932, 
+                    "spot": "grass"
+                }
+            ], 
+            "wiki_id": 56217, 
+            "wiki_title": "Poaceae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5197, 
+                    "end": 5206, 
+                    "score": 0.01452599372714758, 
+                    "spot": "blackened"
+                }
+            ], 
+            "wiki_id": 4874, 
+            "wiki_title": "Black metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2535, 
+                    "end": 2539, 
+                    "score": 0.049589019268751144, 
+                    "spot": "free"
+                }
+            ], 
+            "wiki_id": 12017, 
+            "wiki_title": "Gratis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1907, 
+                    "end": 1913, 
+                    "score": 0.2518337368965149, 
+                    "spot": "timber"
+                }, 
+                {
+                    "begin": 3403, 
+                    "end": 3409, 
+                    "score": 0.25147950649261475, 
+                    "spot": "timber"
+                }, 
+                {
+                    "begin": 4955, 
+                    "end": 4961, 
+                    "score": 0.15378627181053162, 
+                    "spot": "timber"
+                }
+            ], 
+            "wiki_id": 59399, 
+            "wiki_title": "Lumber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5042, 
+                    "end": 5046, 
+                    "score": 0.23331202566623688, 
+                    "spot": "work"
+                }, 
+                {
+                    "begin": 5533, 
+                    "end": 5541, 
+                    "score": 0.0778537318110466, 
+                    "spot": "employee"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1579, 
+                    "end": 1582, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2245, 
+                    "end": 2255, 
+                    "score": 0.004008016083389521, 
+                    "spot": "text books"
+                }
+            ], 
+            "wiki_id": 254108, 
+            "wiki_title": "Textbook"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2125, 
+                    "end": 2130, 
+                    "score": 0.12481962144374847, 
+                    "spot": "Rolla"
+                }
+            ], 
+            "wiki_id": 123029, 
+            "wiki_title": "Rolla, Missouri"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 544, 
+                    "end": 549, 
+                    "score": 0.022615185007452965, 
+                    "spot": "quell"
+                }
+            ], 
+            "wiki_id": 185384, 
+            "wiki_title": "Quetiapine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5455, 
+                    "end": 5462, 
+                    "score": 0.09319230914115906, 
+                    "spot": "dollars"
+                }
+            ], 
+            "wiki_id": 101846, 
+            "wiki_title": "Canadian dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4346, 
+                    "end": 4352, 
+                    "score": 0.04617534577846527, 
+                    "spot": "closed"
+                }
+            ], 
+            "wiki_id": 4695, 
+            "wiki_title": "Bankruptcy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2528, 
+                    "end": 2534, 
+                    "score": 0.2853667736053467, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 2987, 
+                    "end": 2993, 
+                    "score": 0.2496253252029419, 
+                    "spot": "cattle"
+                }
+            ], 
+            "wiki_id": 26051975, 
+            "wiki_title": "Cattle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3024, 
+                    "end": 3036, 
+                    "score": 0.15187422931194305, 
+                    "spot": "frontiersmen"
+                }
+            ], 
+            "wiki_id": 252507, 
+            "wiki_title": "American frontier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4628, 
+                    "end": 4639, 
+                    "score": 0.034574467688798904, 
+                    "spot": "it's coming"
+                }
+            ], 
+            "wiki_id": 19359007, 
+            "wiki_title": "It's Coming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4114, 
+                    "end": 4122, 
+                    "score": 0.08220529556274414, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 28495, 
+            "wiki_title": "Shooting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1590, 
+                    "end": 1604, 
+                    "score": 0.4170537292957306, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 1590, 
+                    "end": 1606, 
+                    "score": 0.2710566818714142, 
+                    "spot": "Forest Service's"
+                }, 
+                {
+                    "begin": 1792, 
+                    "end": 1806, 
+                    "score": 0.17842362821102142, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 2094, 
+                    "end": 2108, 
+                    "score": 0.19317568838596344, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 2261, 
+                    "end": 2275, 
+                    "score": 0.1670537143945694, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 2733, 
+                    "end": 2747, 
+                    "score": 0.2488943338394165, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 3309, 
+                    "end": 3323, 
+                    "score": 0.2045781910419464, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 4280, 
+                    "end": 4294, 
+                    "score": 0.12244933843612671, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 4434, 
+                    "end": 4448, 
+                    "score": 0.2675081789493561, 
+                    "spot": "Forest Service"
+                }, 
+                {
+                    "begin": 5064, 
+                    "end": 5078, 
+                    "score": 0.12244933843612671, 
+                    "spot": "Forest\nService"
+                }
+            ], 
+            "wiki_id": 42652, 
+            "wiki_title": "United States Forest Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 299, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 793, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 2648, 
+                    "end": 2657, 
+                    "score": 0.10133615136146545, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 3858, 
+                    "end": 3867, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 4137, 
+                    "end": 4146, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }, 
+                {
+                    "begin": 4982, 
+                    "end": 4991, 
+                    "score": 0.04609929025173187, 
+                    "spot": "Smallwood"
+                }
+            ], 
+            "wiki_id": 3126148, 
+            "wiki_title": "Smallwood, Cheshire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5153, 
+                    "end": 5156, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 14148802, 
+            "wiki_title": "With You (Chris Brown song)"
+        }
+    ]
+}

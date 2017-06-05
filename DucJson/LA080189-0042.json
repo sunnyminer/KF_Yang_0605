@@ -1,0 +1,2398 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 2151, 
+                    "end": 2162, 
+                    "score": 0.45287513732910156, 
+                    "spot": "Mississippi"
+                }
+            ], 
+            "wiki_id": 16949861, 
+            "wiki_title": "Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2110, 
+                    "end": 2116, 
+                    "score": 0.2299300581216812, 
+                    "spot": "inches"
+                }
+            ], 
+            "wiki_id": 2319766, 
+            "wiki_title": "Inch of mercury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2401, 
+                    "end": 2407, 
+                    "score": 0.0009588695247657597, 
+                    "spot": "steady"
+                }
+            ], 
+            "wiki_id": 11034, 
+            "wiki_title": "Fluid dynamics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 481, 
+                    "end": 487, 
+                    "score": 0.14531001448631287, 
+                    "spot": "Rescue"
+                }
+            ], 
+            "wiki_id": 2499082, 
+            "wiki_title": "Diver rescue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2200, 
+                    "end": 2209, 
+                    "score": 0.0005668155499733984, 
+                    "spot": "Meanwhile"
+                }
+            ], 
+            "wiki_id": 7052969, 
+            "wiki_title": "...Meanwhile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1703, 
+                    "end": 1707, 
+                    "score": 0.12274795025587082, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2326, 
+                    "end": 2337, 
+                    "score": 0.008971963077783585, 
+                    "spot": "late spring"
+                }
+            ], 
+            "wiki_id": 846329, 
+            "wiki_title": "Late Spring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2659, 
+                    "end": 2664, 
+                    "score": 0.0538739413022995, 
+                    "spot": "event"
+                }
+            ], 
+            "wiki_id": 454272, 
+            "wiki_title": "List of WWE pay-per-view events"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2654, 
+                    "end": 2664, 
+                    "score": 0.0007135212072171271, 
+                    "spot": "that event"
+                }
+            ], 
+            "wiki_id": 31816043, 
+            "wiki_title": "Athletics at the 2012 Summer Olympics \u2013 Men's 3000 metres steeplechase"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1387, 
+                    "end": 1398, 
+                    "score": 0.27354857325553894, 
+                    "spot": "ocean floor"
+                }
+            ], 
+            "wiki_id": 1189275, 
+            "wiki_title": "Seabed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 417, 
+                    "score": 0.03414634242653847, 
+                    "spot": "unconfirmed reports"
+                }
+            ], 
+            "wiki_id": 14670861, 
+            "wiki_title": "Unconfirmed Reports"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 73, 
+                    "end": 82, 
+                    "score": 0.43641936779022217, 
+                    "spot": "Louisiana"
+                }, 
+                {
+                    "begin": 1314, 
+                    "end": 1316, 
+                    "score": 0.04606927931308746, 
+                    "spot": "La"
+                }, 
+                {
+                    "begin": 2164, 
+                    "end": 2173, 
+                    "score": 0.46785324811935425, 
+                    "spot": "Louisiana"
+                }, 
+                {
+                    "begin": 3061, 
+                    "end": 3070, 
+                    "score": 0.4039171636104584, 
+                    "spot": "Louisiana"
+                }
+            ], 
+            "wiki_id": 18130, 
+            "wiki_title": "Louisiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 63, 
+                    "end": 68, 
+                    "score": 0.3858267366886139, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 1849, 
+                    "end": 1854, 
+                    "score": 0.2956133484840393, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 1909, 
+                    "end": 1912, 
+                    "score": 0.1982746571302414, 
+                    "spot": "Tex"
+                }, 
+                {
+                    "begin": 1999, 
+                    "end": 2002, 
+                    "score": 0.1264083832502365, 
+                    "spot": "Tex"
+                }, 
+                {
+                    "begin": 2183, 
+                    "end": 2188, 
+                    "score": 0.3096836805343628, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 3051, 
+                    "end": 3056, 
+                    "score": 0.3150057792663574, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 29810, 
+            "wiki_title": "Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 144, 
+                    "end": 156, 
+                    "score": 0.2599942088127136, 
+                    "spot": "oil drilling"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1292, 
+                    "end": 1297, 
+                    "score": 0.14777809381484985, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2120, 
+                    "end": 2124, 
+                    "score": 0.10588035732507706, 
+                    "spot": "rain"
+                }, 
+                {
+                    "begin": 2826, 
+                    "end": 2831, 
+                    "score": 0.2830074429512024, 
+                    "spot": "rains"
+                }, 
+                {
+                    "begin": 3042, 
+                    "end": 3046, 
+                    "score": 0.051065415143966675, 
+                    "spot": "rain"
+                }
+            ], 
+            "wiki_id": 19009110, 
+            "wiki_title": "Rain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 209, 
+                    "end": 215, 
+                    "score": 0.11143937706947327, 
+                    "spot": "inside"
+                }
+            ], 
+            "wiki_id": 2243260, 
+            "wiki_title": "The Inside (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1708, 
+                    "end": 1722, 
+                    "score": 0.04878048598766327, 
+                    "spot": "this afternoon"
+                }
+            ], 
+            "wiki_id": 22999222, 
+            "wiki_title": "This Afternoon (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1562, 
+                    "end": 1571, 
+                    "score": 0.0316072553396225, 
+                    "spot": "traveling"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 542, 
+                    "end": 549, 
+                    "score": 0.17145103216171265, 
+                    "spot": "service"
+                }, 
+                {
+                    "begin": 1200, 
+                    "end": 1207, 
+                    "score": 0.06760650873184204, 
+                    "spot": "service"
+                }
+            ], 
+            "wiki_id": 181586, 
+            "wiki_title": "Service (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 488, 
+                    "end": 494, 
+                    "score": 0.15678614377975464, 
+                    "spot": "divers"
+                }
+            ], 
+            "wiki_id": 3543130, 
+            "wiki_title": "Underwater diving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1479, 
+                    "end": 1495, 
+                    "score": 0.0052083334885537624, 
+                    "spot": "Monday afternoon"
+                }
+            ], 
+            "wiki_id": 17791908, 
+            "wiki_title": "Hurricane No. 1 (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2527, 
+                    "end": 2534, 
+                    "score": 0.001091905520297587, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 18465305, 
+            "wiki_title": "Concern (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1813, 
+                    "end": 1816, 
+                    "score": 0.0890980064868927, 
+                    "spot": "hit"
+                }
+            ], 
+            "wiki_id": 250879, 
+            "wiki_title": "Contract killing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2883, 
+                    "end": 2889, 
+                    "score": 0.008513052947819233, 
+                    "spot": "5 to 7"
+                }
+            ], 
+            "wiki_id": 39424532, 
+            "wiki_title": "5 to 7"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 997, 
+                    "end": 1002, 
+                    "score": 0.2506452798843384, 
+                    "spot": "Miami"
+                }, 
+                {
+                    "begin": 1649, 
+                    "end": 1654, 
+                    "score": 0.2167796790599823, 
+                    "spot": "Miami"
+                }
+            ], 
+            "wiki_id": 53846, 
+            "wiki_title": "Miami"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 596, 
+                    "end": 602, 
+                    "score": 0.13797950744628906, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 237207, 
+            "wiki_title": "Ultimate tensile strength"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2248, 
+                    "score": 0.1614978164434433, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 17617, 
+            "wiki_title": "Longitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2389, 
+                    "end": 2398, 
+                    "score": 0.09035063534975052, 
+                    "spot": "reporting"
+                }
+            ], 
+            "wiki_id": 4692150, 
+            "wiki_title": "Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1686, 
+                    "end": 1691, 
+                    "score": 0.032713383436203, 
+                    "spot": "reach"
+                }
+            ], 
+            "wiki_id": 12302, 
+            "wiki_title": "World of A Song of Ice and Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 220, 
+                    "end": 225, 
+                    "score": 0.05045812577009201, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 474, 
+                    "end": 479, 
+                    "score": 0.05176812782883644, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 937, 
+                    "end": 942, 
+                    "score": 0.05655505135655403, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1467, 
+                    "end": 1472, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1738, 
+                    "end": 1743, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2193, 
+                    "end": 2198, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2505, 
+                    "end": 2510, 
+                    "score": 0.06761391460895538, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2805, 
+                    "end": 2810, 
+                    "score": 0.09441588819026947, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1899, 
+                    "end": 1907, 
+                    "score": 0.3395145535469055, 
+                    "spot": "Freeport"
+                }
+            ], 
+            "wiki_id": 954430, 
+            "wiki_title": "Freeport, Bahamas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 735, 
+                    "end": 739, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 2252141, 
+            "wiki_title": "Help! (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 296, 
+                    "end": 302, 
+                    "score": 0.0014914795756340027, 
+                    "spot": "fourth"
+                }
+            ], 
+            "wiki_id": 143880, 
+            "wiki_title": "Perfect fourth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 126, 
+                    "end": 131, 
+                    "score": 0.265241801738739, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 596, 
+                    "end": 608, 
+                    "score": 0.34715673327445984, 
+                    "spot": "strong winds"
+                }, 
+                {
+                    "begin": 603, 
+                    "end": 608, 
+                    "score": 0.3476395010948181, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 2836, 
+                    "end": 2840, 
+                    "score": 0.296948105096817, 
+                    "spot": "wind"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3124, 
+                    "end": 3132, 
+                    "score": 0.2860347628593445, 
+                    "spot": "Atlantic"
+                }
+            ], 
+            "wiki_id": 698, 
+            "wiki_title": "Atlantic Ocean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2024, 
+                    "end": 2035, 
+                    "score": 0.07692307978868484, 
+                    "spot": "Mobile, Ala"
+                }
+            ], 
+            "wiki_id": 20952, 
+            "wiki_title": "Mobile, Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2456, 
+                    "end": 2465, 
+                    "score": 0.12576372921466827, 
+                    "spot": "batteries"
+                }
+            ], 
+            "wiki_id": 19174720, 
+            "wiki_title": "Battery (electricity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 987, 
+                    "end": 993, 
+                    "score": 0.08951961994171143, 
+                    "spot": "Center"
+                }
+            ], 
+            "wiki_id": 652569, 
+            "wiki_title": "Center (basketball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1286, 
+                    "end": 1291, 
+                    "score": 0.08680699020624161, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 1519, 
+                    "end": 1524, 
+                    "score": 0.16981957852840424, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 325, 
+                    "end": 330, 
+                    "score": 0.06751188635826111, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 312266, 
+            "wiki_title": "Water pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1975, 
+                    "end": 1980, 
+                    "score": 0.13143204152584076, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 27019, 
+            "wiki_title": "South Korea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 275, 
+                    "end": 289, 
+                    "score": 0.1330532282590866, 
+                    "spot": "fishing vessel"
+                }
+            ], 
+            "wiki_id": 10079376, 
+            "wiki_title": "Fishing vessel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 562, 
+                    "end": 571, 
+                    "score": 0.003619909519329667, 
+                    "spot": "survivors"
+                }
+            ], 
+            "wiki_id": 7397019, 
+            "wiki_title": "Sexual abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2925, 
+                    "end": 2930, 
+                    "score": 0.06987257301807404, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 1262978, 
+            "wiki_title": "IPCC Third Assessment Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1984, 
+                    "end": 1997, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Port O'Connor"
+                }
+            ], 
+            "wiki_id": 1160825, 
+            "wiki_title": "Port O'Connor, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1745, 
+                    "end": 1753, 
+                    "score": 0.001408450654707849, 
+                    "spot": "The best"
+                }
+            ], 
+            "wiki_id": 5519593, 
+            "wiki_title": "The Best (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 196, 
+                    "end": 200, 
+                    "score": 0.16715523600578308, 
+                    "spot": "crew"
+                }, 
+                {
+                    "begin": 665, 
+                    "end": 669, 
+                    "score": 0.0899227112531662, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 6801, 
+            "wiki_title": "Crew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1843, 
+                    "end": 1848, 
+                    "score": 0.20397205650806427, 
+                    "spot": "upper"
+                }
+            ], 
+            "wiki_id": 538644, 
+            "wiki_title": "Upper house"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2747, 
+                    "end": 2755, 
+                    "score": 0.00834680162370205, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 21554680, 
+            "wiki_title": "Film director"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 348, 
+                    "end": 358, 
+                    "score": 0.3662149906158447, 
+                    "spot": "helicopter"
+                }
+            ], 
+            "wiki_id": 8286923, 
+            "wiki_title": "Helicopter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2441, 
+                    "end": 2454, 
+                    "score": 0.3897440433502197, 
+                    "spot": "bottled water"
+                }
+            ], 
+            "wiki_id": 402923, 
+            "wiki_title": "Bottled water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2368, 
+                    "end": 2382, 
+                    "score": 0.166533961892128, 
+                    "spot": "Grocery stores"
+                }
+            ], 
+            "wiki_id": 239196, 
+            "wiki_title": "Grocery store"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2611, 
+                    "end": 2614, 
+                    "score": 0.1314684897661209, 
+                    "spot": "wet"
+                }
+            ], 
+            "wiki_id": 10888888, 
+            "wiki_title": "Wet (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2640, 
+                    "end": 2649, 
+                    "score": 0.14760243892669678, 
+                    "spot": "hurricane"
+                }
+            ], 
+            "wiki_id": 1750070, 
+            "wiki_title": "Hurricane (Bob Dylan song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1354, 
+                    "end": 1358, 
+                    "score": 0.07151512056589127, 
+                    "spot": "legs"
+                }
+            ], 
+            "wiki_id": 19166409, 
+            "wiki_title": "Leg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1862, 
+                    "end": 1880, 
+                    "score": 0.11349692940711975, 
+                    "spot": "Hurricane warnings"
+                }, 
+                {
+                    "begin": 1931, 
+                    "end": 1954, 
+                    "score": 0.4894873797893524, 
+                    "spot": "Tropical storm warnings"
+                }
+            ], 
+            "wiki_id": 937479, 
+            "wiki_title": "Tropical cyclone warnings and watches"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1364, 
+                    "end": 1367, 
+                    "score": 0.11874144524335861, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 383115, 
+            "wiki_title": "Beverage can"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 924, 
+                    "end": 932, 
+                    "score": 0.11259116232395172, 
+                    "spot": "building"
+                }
+            ], 
+            "wiki_id": 239038, 
+            "wiki_title": "Construction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1256, 
+                    "end": 1261, 
+                    "score": 0.01778808981180191, 
+                    "spot": "Bourg"
+                }
+            ], 
+            "wiki_id": 2842079, 
+            "wiki_title": "Bourg, Louisiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 859, 
+                    "end": 864, 
+                    "score": 0.09570958465337753, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 1139, 
+                    "end": 1144, 
+                    "score": 0.09570958465337753, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 14633336, 
+            "wiki_title": "Maximum sustained wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 260, 
+                    "end": 262, 
+                    "score": 0.07573936134576797, 
+                    "spot": "up"
+                }, 
+                {
+                    "begin": 450, 
+                    "end": 452, 
+                    "score": 0.08229134231805801, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 11659396, 
+            "wiki_title": "Up (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1572, 
+                    "end": 1581, 
+                    "score": 0.03389163315296173, 
+                    "spot": "northwest"
+                }
+            ], 
+            "wiki_id": 146068, 
+            "wiki_title": "Northwest Airlines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2896, 
+                    "end": 2901, 
+                    "score": 0.05186089500784874, 
+                    "spot": "above"
+                }
+            ], 
+            "wiki_id": 168041, 
+            "wiki_title": "Anatomical terms of location"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1031, 
+                    "end": 1038, 
+                    "score": 0.0009292528848163784, 
+                    "spot": "blowing"
+                }
+            ], 
+            "wiki_id": 24627767, 
+            "wiki_title": "Blowing (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3084, 
+                    "end": 3104, 
+                    "score": 0.5, 
+                    "spot": "Tropical Storm Barry"
+                }
+            ], 
+            "wiki_id": 11548718, 
+            "wiki_title": "Tropical Storm Barry (2007)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 33, 
+                    "score": 0.06585745513439178, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 31653, 
+            "wiki_title": "First Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2467, 
+                    "end": 2479, 
+                    "score": 0.21956931054592133, 
+                    "spot": "canned goods"
+                }
+            ], 
+            "wiki_id": 198153, 
+            "wiki_title": "Canning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 427, 
+                    "end": 433, 
+                    "score": 0.08241131901741028, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 1267713, 
+            "wiki_title": "The Others (2001 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2575, 
+                    "end": 2583, 
+                    "score": 0.01651337742805481, 
+                    "spot": "flooding"
+                }
+            ], 
+            "wiki_id": 1825226, 
+            "wiki_title": "2002 European floods"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 915, 
+                    "end": 919, 
+                    "score": 0.13712184131145477, 
+                    "spot": "feet"
+                }, 
+                {
+                    "begin": 2891, 
+                    "end": 2895, 
+                    "score": 0.08576836436986923, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1216, 
+                    "end": 1222, 
+                    "score": 0.15205314755439758, 
+                    "spot": "leased"
+                }
+            ], 
+            "wiki_id": 55832, 
+            "wiki_title": "Lend-Lease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1301, 
+                    "end": 1316, 
+                    "score": 0.26923078298568726, 
+                    "spot": "Morgan City, La"
+                }, 
+                {
+                    "begin": 1918, 
+                    "end": 1929, 
+                    "score": 0.42912182211875916, 
+                    "spot": "Morgan City"
+                }
+            ], 
+            "wiki_id": 115772, 
+            "wiki_title": "Morgan City, Louisiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 770, 
+                    "end": 783, 
+                    "score": 0.23717442154884338, 
+                    "spot": "Petty Officer"
+                }
+            ], 
+            "wiki_id": 524764, 
+            "wiki_title": "Petty officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 758, 
+                    "end": 769, 
+                    "score": 0.4518212378025055, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 1078371, 
+            "wiki_title": "Icelandic Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1326, 
+                    "end": 1340, 
+                    "score": 0.07779216766357422, 
+                    "spot": "self-propelled"
+                }
+            ], 
+            "wiki_id": 97070, 
+            "wiki_title": "Multiple unit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 157, 
+                    "end": 161, 
+                    "score": 0.10596363246440887, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 149861, 
+            "wiki_title": "Work (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1638, 
+                    "end": 1645, 
+                    "score": 0.11587122827768326, 
+                    "spot": "Service"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2219, 
+                    "end": 2228, 
+                    "score": 0.13186407089233398, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2362, 
+                    "end": 2366, 
+                    "score": 0.2330618053674698, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 3049, 
+            "wiki_title": "Autumn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2060, 
+                    "end": 2070, 
+                    "score": 0.08846928924322128, 
+                    "spot": "specialist"
+                }
+            ], 
+            "wiki_id": 3175680, 
+            "wiki_title": "Generalist and specialist species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2088, 
+                    "end": 2094, 
+                    "score": 0.058403339236974716, 
+                    "spot": "center"
+                }
+            ], 
+            "wiki_id": 136589, 
+            "wiki_title": "Center, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2871, 
+                    "end": 2876, 
+                    "score": 0.15702800452709198, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 37196, 
+            "wiki_title": "Causality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 174, 
+                    "end": 181, 
+                    "score": 0.006181873381137848, 
+                    "spot": "trapped"
+                }
+            ], 
+            "wiki_id": 6520040, 
+            "wiki_title": "Trapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2493, 
+                    "end": 2500, 
+                    "score": 0.0449080690741539, 
+                    "spot": "windows"
+                }
+            ], 
+            "wiki_id": 18890, 
+            "wiki_title": "Microsoft Windows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2706, 
+                    "end": 2714, 
+                    "score": 0.08674992620944977, 
+                    "spot": "flooding"
+                }
+            ], 
+            "wiki_id": 27193829, 
+            "wiki_title": "2010 Tennessee floods"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 788, 
+                    "end": 796, 
+                    "score": 0.03911111131310463, 
+                    "spot": "Morehead"
+                }
+            ], 
+            "wiki_id": 115420, 
+            "wiki_title": "Morehead, Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1019, 
+                    "end": 1026, 
+                    "score": 0.05161065608263016, 
+                    "spot": "Chantal"
+                }, 
+                {
+                    "begin": 1497, 
+                    "end": 1504, 
+                    "score": 0.22062724828720093, 
+                    "spot": "Chantal"
+                }
+            ], 
+            "wiki_id": 12299808, 
+            "wiki_title": "Tropical Storm Chantal (2007)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1115, 
+                    "end": 1129, 
+                    "score": 0.04412996396422386, 
+                    "spot": "classification"
+                }
+            ], 
+            "wiki_id": 11090, 
+            "wiki_title": "Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 118, 
+                    "end": 123, 
+                    "score": 0.3620549738407135, 
+                    "spot": "storm"
+                }, 
+                {
+                    "begin": 1664, 
+                    "end": 1669, 
+                    "score": 0.11400751769542694, 
+                    "spot": "storm"
+                }
+            ], 
+            "wiki_id": 130312, 
+            "wiki_title": "Storm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2583, 
+                    "score": 0.007692307699471712, 
+                    "spot": "major flooding"
+                }
+            ], 
+            "wiki_id": 1424219, 
+            "wiki_title": "Saguenay Flood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2037, 
+                    "end": 2040, 
+                    "score": 0.09942928701639175, 
+                    "spot": "Bob"
+                }
+            ], 
+            "wiki_id": 1686528, 
+            "wiki_title": "Bob Armstrong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1783, 
+                    "end": 1789, 
+                    "score": 0.11244572699069977, 
+                    "spot": "center"
+                }
+            ], 
+            "wiki_id": 4850775, 
+            "wiki_title": "Centre (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1545, 
+                    "end": 1559, 
+                    "score": 0.47000348567962646, 
+                    "spot": "Galveston, Tex"
+                }
+            ], 
+            "wiki_id": 53840, 
+            "wiki_title": "Galveston, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2178, 
+                    "end": 2188, 
+                    "score": 0.415062814950943, 
+                    "spot": "East Texas"
+                }
+            ], 
+            "wiki_id": 412645, 
+            "wiki_title": "East Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1165, 
+                    "end": 1170, 
+                    "score": 0.0009541984763927758, 
+                    "spot": "at 75"
+                }
+            ], 
+            "wiki_id": 11477953, 
+            "wiki_title": "USS Sioux (AT-75)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 308, 
+                    "end": 315, 
+                    "score": 0.007016473449766636, 
+                    "spot": "plucked"
+                }
+            ], 
+            "wiki_id": 18938927, 
+            "wiki_title": "Plucking (hair removal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2211, 
+                    "end": 2218, 
+                    "score": 0.1454608291387558, 
+                    "spot": "coastal"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1601, 
+                    "end": 1610, 
+                    "score": 0.0007770162774249911, 
+                    "spot": "Officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2628, 
+                    "end": 2632, 
+                    "score": 0.11925695091485977, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 156541, 
+            "wiki_title": "A-side and B-side"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1591, 
+                    "end": 1599, 
+                    "score": 0.02259887009859085, 
+                    "spot": "10 m.p.h"
+                }
+            ], 
+            "wiki_id": 1637618, 
+            "wiki_title": "10 MPH"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1726, 
+                    "end": 1733, 
+                    "score": 0.0011274705175310373, 
+                    "spot": "evening"
+                }
+            ], 
+            "wiki_id": 24728977, 
+            "wiki_title": "Evening (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1055, 
+                    "end": 1060, 
+                    "score": 0.009346182458102703, 
+                    "spot": "m.p.h"
+                }
+            ], 
+            "wiki_id": 4682876, 
+            "wiki_title": "Professional degrees of public health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 520, 
+                    "end": 526, 
+                    "score": 0.1425110399723053, 
+                    "spot": "search"
+                }
+            ], 
+            "wiki_id": 572687, 
+            "wiki_title": "Search and seizure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 807, 
+                    "end": 813, 
+                    "score": 0.0021353380288928747, 
+                    "spot": "search"
+                }
+            ], 
+            "wiki_id": 149815, 
+            "wiki_title": "The Search"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 691, 
+                    "end": 697, 
+                    "score": 0.00875796191394329, 
+                    "spot": "cabins"
+                }
+            ], 
+            "wiki_id": 10222264, 
+            "wiki_title": "Aircraft cabin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2052, 
+                    "end": 2059, 
+                    "score": 0.07174469530582428, 
+                    "spot": "weather"
+                }
+            ], 
+            "wiki_id": 19904, 
+            "wiki_title": "Meteorology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1457, 
+                    "end": 1468, 
+                    "score": 0.23076923191547394, 
+                    "spot": "storm. \n</P"
+                }
+            ], 
+            "wiki_id": 1316207, 
+            "wiki_title": "Robert Storm Petersen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2142, 
+                    "end": 2162, 
+                    "score": 0.18521465361118317, 
+                    "spot": "southern Mississippi"
+                }
+            ], 
+            "wiki_id": 4610689, 
+            "wiki_title": "University of Southern Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1283, 
+                    "end": 1291, 
+                    "score": 0.0019480519695207477, 
+                    "spot": "25 miles"
+                }
+            ], 
+            "wiki_id": 23811985, 
+            "wiki_title": "Twenty-Five Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1080, 
+                    "end": 1087, 
+                    "score": 0.018478261306881905, 
+                    "spot": "move it"
+                }
+            ], 
+            "wiki_id": 8120171, 
+            "wiki_title": "Move It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2619, 
+                    "end": 2626, 
+                    "score": 0.004389409441500902, 
+                    "spot": "eastern"
+                }
+            ], 
+            "wiki_id": 496028, 
+            "wiki_title": "Eastern Time Zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 91, 
+                    "end": 97, 
+                    "score": 0.06714978814125061, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 1763, 
+                    "end": 1769, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 196, 
+                    "end": 208, 
+                    "score": 0.163544699549675, 
+                    "spot": "crew members"
+                }
+            ], 
+            "wiki_id": 1600248, 
+            "wiki_title": "Crewman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 629, 
+                    "end": 633, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 161292, 
+            "wiki_title": "Bob Hope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2342, 
+                    "end": 2346, 
+                    "score": 0.09372083842754364, 
+                    "spot": "runs"
+                }
+            ], 
+            "wiki_id": 300747, 
+            "wiki_title": "Run (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1981, 
+                    "end": 1988, 
+                    "score": 0.050575900822877884, 
+                    "spot": "as Port"
+                }
+            ], 
+            "wiki_id": 34077315, 
+            "wiki_title": "AS Port"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1754, 
+                    "end": 1762, 
+                    "score": 0.16056117415428162, 
+                    "spot": "estimate"
+                }
+            ], 
+            "wiki_id": 336271, 
+            "wiki_title": "Approximation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2820, 
+                    "end": 2825, 
+                    "score": 0.08987057954072952, 
+                    "spot": "heavy"
+                }
+            ], 
+            "wiki_id": 2445000, 
+            "wiki_title": "Heavy crude oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1063, 
+                    "end": 1076, 
+                    "score": 0.009259259328246117, 
+                    "spot": "strong enough"
+                }
+            ], 
+            "wiki_id": 8408085, 
+            "wiki_title": "Strong Enough (Sheryl Crow song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1230, 
+                    "end": 1242, 
+                    "score": 0.5163435935974121, 
+                    "spot": "Chevron Corp"
+                }
+            ], 
+            "wiki_id": 284749, 
+            "wiki_title": "Chevron Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 892, 
+                    "score": 0.103206567466259, 
+                    "spot": "m.p.h"
+                }, 
+                {
+                    "begin": 1171, 
+                    "end": 1176, 
+                    "score": 0.07938219606876373, 
+                    "spot": "m.p.h"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 465, 
+                    "end": 469, 
+                    "score": 0.12874920666217804, 
+                    "spot": "boat"
+                }, 
+                {
+                    "begin": 1404, 
+                    "end": 1408, 
+                    "score": 0.13113531470298767, 
+                    "spot": "boat"
+                }
+            ], 
+            "wiki_id": 3996, 
+            "wiki_title": "Boat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 874, 
+                    "end": 880, 
+                    "score": 0.0006791171617805958, 
+                    "spot": "excess"
+                }
+            ], 
+            "wiki_id": 24017848, 
+            "wiki_title": "In Excess (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3019, 
+                    "end": 3025, 
+                    "score": 0.0035507380962371826, 
+                    "spot": "dumped"
+                }
+            ], 
+            "wiki_id": 2538288, 
+            "wiki_title": "Dumped"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 132, 
+                    "end": 140, 
+                    "score": 0.13789679110050201, 
+                    "spot": "capsized"
+                }, 
+                {
+                    "begin": 1268, 
+                    "end": 1276, 
+                    "score": 0.13313248753547668, 
+                    "spot": "capsized"
+                }
+            ], 
+            "wiki_id": 1199716, 
+            "wiki_title": "Capsizing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2484, 
+                    "end": 2488, 
+                    "score": 0.21997374296188354, 
+                    "spot": "tape"
+                }
+            ], 
+            "wiki_id": 42177674, 
+            "wiki_title": "Pressure-sensitive tape"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 41, 
+                    "end": 47, 
+                    "score": 0.1432919055223465, 
+                    "spot": "season"
+                }
+            ], 
+            "wiki_id": 2930244, 
+            "wiki_title": "Atlantic hurricane season"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 784, 
+                    "end": 787, 
+                    "score": 0.007542590145021677, 
+                    "spot": "Bob"
+                }
+            ], 
+            "wiki_id": 60534, 
+            "wiki_title": "Shilling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 721, 
+                    "end": 728, 
+                    "score": 0.0009968101512640715, 
+                    "spot": "survive"
+                }
+            ], 
+            "wiki_id": 1091948, 
+            "wiki_title": "Survival skills"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 541, 
+                    "score": 0.15267297625541687, 
+                    "spot": "overturned"
+                }
+            ], 
+            "wiki_id": 2342619, 
+            "wiki_title": "Rescission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2778, 
+                    "end": 2791, 
+                    "score": 0.08522500842809677, 
+                    "spot": "Flood Control"
+                }
+            ], 
+            "wiki_id": 50482, 
+            "wiki_title": "Flood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2996, 
+                    "end": 3018, 
+                    "score": 0.5, 
+                    "spot": "Tropical Storm Allison"
+                }
+            ], 
+            "wiki_id": 334013, 
+            "wiki_title": "Tropical Storm Allison"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2764, 
+                    "end": 2800, 
+                    "score": 0.4545454680919647, 
+                    "spot": "Harris County Flood Control District"
+                }
+            ], 
+            "wiki_id": 26453361, 
+            "wiki_title": "Harris County Flood Control District"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2512, 
+                    "end": 2515, 
+                    "score": 0.11622216552495956, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1806, 
+                    "score": 0.15941548347473145, 
+                    "spot": "hurricane"
+                }
+            ], 
+            "wiki_id": 667881, 
+            "wiki_title": "Gregory Helms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 682, 
+                    "end": 690, 
+                    "score": 0.03094984032213688, 
+                    "spot": "airtight"
+                }
+            ], 
+            "wiki_id": 1683711, 
+            "wiki_title": "Hermetic seal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1105, 
+                    "end": 1114, 
+                    "score": 0.22916927933692932, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 1628, 
+                    "end": 1637, 
+                    "score": 0.24797213077545166, 
+                    "spot": "Hurricane"
+                }, 
+                {
+                    "begin": 1931, 
+                    "end": 1945, 
+                    "score": 0.4920509159564972, 
+                    "spot": "Tropical storm"
+                }, 
+                {
+                    "begin": 2078, 
+                    "end": 2087, 
+                    "score": 0.2911989092826843, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2292, 
+                    "end": 2301, 
+                    "score": 0.47420036792755127, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2292, 
+                    "end": 2308, 
+                    "score": 0.5275198817253113, 
+                    "spot": "hurricane season"
+                }, 
+                {
+                    "begin": 2419, 
+                    "end": 2428, 
+                    "score": 0.15752921998500824, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2846, 
+                    "end": 2855, 
+                    "score": 0.2976560890674591, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2931, 
+                    "end": 2942, 
+                    "score": 0.1854705959558487, 
+                    "spot": "named storm"
+                }, 
+                {
+                    "begin": 2971, 
+                    "end": 2980, 
+                    "score": 0.3167840242385864, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2971, 
+                    "end": 2987, 
+                    "score": 0.2775198817253113, 
+                    "spot": "hurricane season"
+                }, 
+                {
+                    "begin": 3105, 
+                    "end": 3115, 
+                    "score": 0.27742159366607666, 
+                    "spot": "dissipated"
+                }
+            ], 
+            "wiki_id": 8282374, 
+            "wiki_title": "Tropical cyclone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2734, 
+                    "end": 2745, 
+                    "score": 0.13235294818878174, 
+                    "spot": "flood watch"
+                }
+            ], 
+            "wiki_id": 955390, 
+            "wiki_title": "Flood alert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2722, 
+                    "end": 2732, 
+                    "score": 0.5, 
+                    "spot": "Bill Evans"
+                }
+            ], 
+            "wiki_id": 155974, 
+            "wiki_title": "Bill Evans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 618, 
+                    "end": 623, 
+                    "score": 0.09408048540353775, 
+                    "spot": "waves"
+                }, 
+                {
+                    "begin": 898, 
+                    "end": 903, 
+                    "score": 0.1189630776643753, 
+                    "spot": "waves"
+                }
+            ], 
+            "wiki_id": 710251, 
+            "wiki_title": "Wind wave"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1830, 
+                    "end": 1839, 
+                    "score": 0.45342355966567993, 
+                    "spot": "Louisiana"
+                }
+            ], 
+            "wiki_id": 1989580, 
+            "wiki_title": "Louisiana (New France)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2408, 
+                    "end": 2414, 
+                    "score": 0.12298222631216049, 
+                    "spot": "demand"
+                }
+            ], 
+            "wiki_id": 4780974, 
+            "wiki_title": "Demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 710, 
+                    "end": 716, 
+                    "score": 0.14193755388259888, 
+                    "spot": "oxygen"
+                }
+            ], 
+            "wiki_id": 4316423, 
+            "wiki_title": "Oxygen (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2256, 
+                    "end": 2262, 
+                    "score": 0.0910852700471878, 
+                    "spot": "ritual"
+                }
+            ], 
+            "wiki_id": 102920, 
+            "wiki_title": "Ritual"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1251, 
+                    "end": 1255, 
+                    "score": 0.06076250970363617, 
+                    "spot": "Avis"
+                }
+            ], 
+            "wiki_id": 2528006, 
+            "wiki_title": "Avis Rent a Car System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 968, 
+                    "end": 993, 
+                    "score": 0.5, 
+                    "spot": "National Hurricane Center"
+                }
+            ], 
+            "wiki_id": 255317, 
+            "wiki_title": "National Hurricane Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 22, 
+                    "score": 0.5, 
+                    "spot": "Hurricane Chantal"
+                }
+            ], 
+            "wiki_id": 4466837, 
+            "wiki_title": "Hurricane Chantal (1989)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3026, 
+                    "end": 3030, 
+                    "score": 0.0005544412415474653, 
+                    "spot": "huge"
+                }
+            ], 
+            "wiki_id": 26009763, 
+            "wiki_title": "Huge (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1262, 
+                    "end": 1264, 
+                    "score": 0.0622096061706543, 
+                    "spot": "Co"
+                }
+            ], 
+            "wiki_id": 651310, 
+            "wiki_title": "Commanding officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2430, 
+                    "end": 2437, 
+                    "score": 0.13765256106853485, 
+                    "spot": "staples"
+                }
+            ], 
+            "wiki_id": 351036, 
+            "wiki_title": "Staple (fastener)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1525, 
+                    "end": 1540, 
+                    "score": 0.11102689057588577, 
+                    "spot": "south-southeast"
+                }
+            ], 
+            "wiki_id": 339183, 
+            "wiki_title": "Points of the compass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2592, 
+                    "end": 2600, 
+                    "score": 0.3125, 
+                    "spot": "the city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1692, 
+                    "end": 1696, 
+                    "score": 0.11104348301887512, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2273, 
+                    "end": 2284, 
+                    "score": 0.1880248337984085, 
+                    "spot": "Gulf \nCoast"
+                }
+            ], 
+            "wiki_id": 11969, 
+            "wiki_title": "Gulf Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1822, 
+                    "end": 1829, 
+                    "score": 0.052279032766819, 
+                    "spot": "western"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 841, 
+                    "end": 850, 
+                    "score": 0.002372191986069083, 
+                    "spot": "afternoon"
+                }
+            ], 
+            "wiki_id": 1569790, 
+            "wiki_title": "Monthly Afternoon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2953, 
+                    "end": 2962, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 1245667, 
+            "wiki_title": "Notre Dame Fighting Irish football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2538, 
+                    "end": 2545, 
+                    "score": 0.17607682943344116, 
+                    "spot": "Houston"
+                }, 
+                {
+                    "begin": 2671, 
+                    "end": 2678, 
+                    "score": 0.21829286217689514, 
+                    "spot": "Houston"
+                }
+            ], 
+            "wiki_id": 13774, 
+            "wiki_title": "Houston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1970, 
+                    "end": 1973, 
+                    "score": 0.0006124568753875792, 
+                    "spot": "far"
+                }, 
+                {
+                    "begin": 2012, 
+                    "end": 2020, 
+                    "score": 0.15636864304542542, 
+                    "spot": "far east"
+                }
+            ], 
+            "wiki_id": 11672, 
+            "wiki_title": "Far East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2902, 
+                    "end": 2908, 
+                    "score": 0.035031042993068695, 
+                    "spot": "normal"
+                }
+            ], 
+            "wiki_id": 43851, 
+            "wiki_title": "Norm (social)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2910, 
+                    "end": 2917, 
+                    "score": 0.005858379881829023, 
+                    "spot": "Chantal"
+                }
+            ], 
+            "wiki_id": 18452862, 
+            "wiki_title": "Chantal, Sud"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2331, 
+                    "end": 2337, 
+                    "score": 0.08334752917289734, 
+                    "spot": "spring"
+                }
+            ], 
+            "wiki_id": 316532, 
+            "wiki_title": "Spring (season)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2792, 
+                    "end": 2800, 
+                    "score": 0.0074133677408099174, 
+                    "spot": "District"
+                }
+            ], 
+            "wiki_id": 525155, 
+            "wiki_title": "District (China)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2574, 
+                    "score": 0.06353253871202469, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 1506950, 
+            "wiki_title": "Men's major golf championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 336, 
+                    "end": 347, 
+                    "score": 0.3299447000026703, 
+                    "spot": "Coast Guard"
+                }, 
+                {
+                    "begin": 364, 
+                    "end": 375, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 32223, 
+            "wiki_title": "United States Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 84, 
+                    "end": 90, 
+                    "score": 0.17763622105121613, 
+                    "spot": "coasts"
+                }
+            ], 
+            "wiki_id": 89126, 
+            "wiki_title": "East Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2877, 
+                    "end": 2882, 
+                    "score": 0.1733141988515854, 
+                    "spot": "tides"
+                }
+            ], 
+            "wiki_id": 30718, 
+            "wiki_title": "Tide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1181, 
+                    "end": 1186, 
+                    "score": 0.1321885585784912, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 613, 
+                    "end": 617, 
+                    "score": 0.1935640424489975, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 474404, 
+            "wiki_title": "High-pressure area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 163, 
+                    "end": 169, 
+                    "score": 0.17484070360660553, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 550, 
+                    "end": 556, 
+                    "score": 0.16183216869831085, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 1208, 
+                    "end": 1214, 
+                    "score": 0.15673790872097015, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 1341, 
+                    "end": 1347, 
+                    "score": 0.19378112256526947, 
+                    "spot": "vessel"
+                }
+            ], 
+            "wiki_id": 27008, 
+            "wiki_title": "Ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1427, 
+                    "end": 1431, 
+                    "score": 0.13793259859085083, 
+                    "spot": "port"
+                }
+            ], 
+            "wiki_id": 97169, 
+            "wiki_title": "Port"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3150, 
+                    "end": 3154, 
+                    "score": 0.2086544930934906, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 250515, 
+            "wiki_title": "Landform"
+        }
+    ]
+}

@@ -1,0 +1,2230 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 660, 
+                    "score": 0.0024660055059939623, 
+                    "spot": "attention"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1627, 
+                    "end": 1636, 
+                    "score": 0.0005668155499733984, 
+                    "spot": "meanwhile"
+                }
+            ], 
+            "wiki_id": 7052969, 
+            "wiki_title": "...Meanwhile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1259, 
+                    "end": 1266, 
+                    "score": 0.12031475454568863, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 1820, 
+                    "end": 1827, 
+                    "score": 0.07974988967180252, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2592, 
+                    "end": 2596, 
+                    "score": 0.09975887089967728, 
+                    "spot": "lead"
+                }
+            ], 
+            "wiki_id": 134921, 
+            "wiki_title": "Lead, South Dakota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1839, 
+                    "end": 1844, 
+                    "score": 0.1146857887506485, 
+                    "spot": "State"
+                }
+            ], 
+            "wiki_id": 8196151, 
+            "wiki_title": "States of Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2784, 
+                    "end": 2788, 
+                    "score": 0.061333123594522476, 
+                    "spot": "seat"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2575, 
+                    "end": 2581, 
+                    "score": 0.17929908633232117, 
+                    "spot": "shifts"
+                }
+            ], 
+            "wiki_id": 1051985, 
+            "wiki_title": "Shift work"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2899, 
+                    "end": 2902, 
+                    "score": 0.09314218163490295, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1068513, 
+            "wiki_title": "May Revolution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2906, 
+                    "end": 2920, 
+                    "score": 0.24361678957939148, 
+                    "spot": "constitutional"
+                }
+            ], 
+            "wiki_id": 5253, 
+            "wiki_title": "Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1320, 
+                    "end": 1323, 
+                    "score": 0.04015582054853439, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 441, 
+                    "end": 446, 
+                    "score": 0.15735913813114166, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1138, 
+                    "end": 1157, 
+                    "score": 0.2024608850479126, 
+                    "spot": "Commerce Department"
+                }
+            ], 
+            "wiki_id": 70243, 
+            "wiki_title": "United States Department of Commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 836, 
+                    "end": 841, 
+                    "score": 0.1820129156112671, 
+                    "spot": "South"
+                }, 
+                {
+                    "begin": 2621, 
+                    "end": 2629, 
+                    "score": 0.15003764629364014, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2010, 
+                    "end": 2022, 
+                    "score": 0.24278955161571503, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 2140, 
+                    "end": 2152, 
+                    "score": 0.19222202897071838, 
+                    "spot": "Constitution"
+                }
+            ], 
+            "wiki_id": 31644, 
+            "wiki_title": "United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 354, 
+                    "end": 359, 
+                    "score": 0.009286782704293728, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1557, 
+                    "end": 1560, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 496958, 
+            "wiki_title": "She people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 404, 
+                    "score": 0.183539479970932, 
+                    "spot": "Senate"
+                }
+            ], 
+            "wiki_id": 165705, 
+            "wiki_title": "Australian Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1846, 
+                    "end": 1853, 
+                    "score": 0.10573432594537735, 
+                    "spot": "Justice"
+                }
+            ], 
+            "wiki_id": 16369, 
+            "wiki_title": "Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1642, 
+                    "end": 1647, 
+                    "score": 0.14846615493297577, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 15593618, 
+            "wiki_title": "Taken (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 228, 
+                    "end": 235, 
+                    "score": 0.0418890006840229, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 5326571, 
+            "wiki_title": "ECW (WWE)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 923, 
+                    "end": 933, 
+                    "score": 0.05285367742180824, 
+                    "spot": "industrial"
+                }
+            ], 
+            "wiki_id": 14543, 
+            "wiki_title": "Industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 167, 
+                    "end": 171, 
+                    "score": 0.004822245333343744, 
+                    "spot": "keep"
+                }
+            ], 
+            "wiki_id": 957422, 
+            "wiki_title": "Keep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1457, 
+                    "end": 1470, 
+                    "score": 0.0012347472365945578, 
+                    "spot": "possibilities"
+                }
+            ], 
+            "wiki_id": 4122226, 
+            "wiki_title": "Possibilities"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2542, 
+                    "end": 2548, 
+                    "score": 0.0073782335966825485, 
+                    "spot": "debate"
+                }
+            ], 
+            "wiki_id": 222069, 
+            "wiki_title": "United States presidential election debates"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 18, 
+                    "end": 25, 
+                    "score": 0.11451706290245056, 
+                    "spot": "hanging"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 204, 
+                    "end": 209, 
+                    "score": 0.00605366937816143, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 4370892, 
+            "wiki_title": "House (1986 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1282, 
+                    "end": 1290, 
+                    "score": 0.4087490141391754, 
+                    "spot": "military"
+                }, 
+                {
+                    "begin": 1304, 
+                    "end": 1311, 
+                    "score": 0.18775440752506256, 
+                    "spot": "defense"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 988, 
+                    "end": 993, 
+                    "score": 0.19157561659812927, 
+                    "spot": "power"
+                }
+            ], 
+            "wiki_id": 3270043, 
+            "wiki_title": "Electric power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 907, 
+                    "end": 918, 
+                    "score": 0.15703143179416656, 
+                    "spot": "South, West"
+                }
+            ], 
+            "wiki_id": 200085, 
+            "wiki_title": "Cardinal direction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 980, 
+                    "end": 993, 
+                    "score": 0.15599678456783295, 
+                    "spot": "loss\nof power"
+                }
+            ], 
+            "wiki_id": 296636, 
+            "wiki_title": "Power outage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 696, 
+                    "end": 707, 
+                    "score": 0.2266300618648529, 
+                    "spot": "slow growth"
+                }
+            ], 
+            "wiki_id": 45425, 
+            "wiki_title": "Smart growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2723, 
+                    "end": 2732, 
+                    "score": 0.090086430311203, 
+                    "spot": "Southwest"
+                }
+            ], 
+            "wiki_id": 179571, 
+            "wiki_title": "Southwestern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2441, 
+                    "end": 2449, 
+                    "score": 0.14160622656345367, 
+                    "spot": "identify"
+                }
+            ], 
+            "wiki_id": 880112, 
+            "wiki_title": "Identity (social science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 799, 
+                    "end": 805, 
+                    "score": 0.06094936281442642, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 69415, 
+            "wiki_title": "Economic growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1171, 
+                    "end": 1178, 
+                    "score": 0.0724027156829834, 
+                    "spot": "problem"
+                }, 
+                {
+                    "begin": 1346, 
+                    "end": 1353, 
+                    "score": 0.09091242402791977, 
+                    "spot": "problem"
+                }
+            ], 
+            "wiki_id": 1467948, 
+            "wiki_title": "Problem solving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1804, 
+                    "score": 0.04834236949682236, 
+                    "spot": "measure"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 973, 
+                    "end": 977, 
+                    "score": 0.013692597858607769, 
+                    "spot": "fear"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2463, 
+                    "end": 2466, 
+                    "score": 0.13870786130428314, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1937, 
+                    "end": 1941, 
+                    "score": 0.08842453360557556, 
+                    "spot": "bill"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 292, 
+                    "score": 0.0035546121653169394, 
+                    "spot": "numbers"
+                }
+            ], 
+            "wiki_id": 1348989, 
+            "wiki_title": "Numbers (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2886, 
+                    "end": 2894, 
+                    "score": 0.024282561615109444, 
+                    "spot": "not fair"
+                }
+            ], 
+            "wiki_id": 21501539, 
+            "wiki_title": "Not Fair"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1200, 
+                    "score": 0.04074645787477493, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2708, 
+                    "end": 2710, 
+                    "score": 0.3516849875450134, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 1583157, 
+            "wiki_title": "Go (game show)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 353, 
+                    "score": 0.003053921740502119, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 502038, 
+            "wiki_title": "Question"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 545, 
+                    "end": 553, 
+                    "score": 0.020962245762348175, 
+                    "spot": "10 years"
+                }
+            ], 
+            "wiki_id": 477069, 
+            "wiki_title": "Anniversary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2829, 
+                    "end": 2834, 
+                    "score": 0.050847455859184265, 
+                    "spot": "D-N.C"
+                }
+            ], 
+            "wiki_id": 182450, 
+            "wiki_title": "Democratic National Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1388, 
+                    "end": 1391, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 574391, 
+            "wiki_title": "Elaine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1905, 
+                    "end": 1912, 
+                    "score": 0.1527182012796402, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 38834493, 
+            "wiki_title": "O mie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 670, 
+                    "end": 677, 
+                    "score": 0.047752734273672104, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 1864012, 
+            "wiki_title": "Member of the Legislative Assembly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1673, 
+                    "end": 1685, 
+                    "score": 0.06737824529409409, 
+                    "spot": "on the House"
+                }
+            ], 
+            "wiki_id": 12017, 
+            "wiki_title": "Gratis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2265, 
+                    "score": 0.6602975130081177, 
+                    "spot": "Don Edwards"
+                }
+            ], 
+            "wiki_id": 2791854, 
+            "wiki_title": "Don Edwards"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 731, 
+                    "end": 737, 
+                    "score": 0.0017241750610992312, 
+                    "spot": "losses"
+                }
+            ], 
+            "wiki_id": 19417927, 
+            "wiki_title": "Profit (accounting)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1009, 
+                    "end": 1011, 
+                    "score": 0.1250673085451126, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 83139, 
+            "wiki_title": "Intermediate frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3214, 
+                    "end": 3217, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1392, 
+                    "end": 1397, 
+                    "score": 0.016335295513272285, 
+                    "spot": "count"
+                }
+            ], 
+            "wiki_id": 239794, 
+            "wiki_title": "Count von Count"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1858, 
+                    "end": 1866, 
+                    "score": 0.14947208762168884, 
+                    "spot": "Commerce"
+                }
+            ], 
+            "wiki_id": 39208, 
+            "wiki_title": "Commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2302, 
+                    "score": 0.2121685892343521, 
+                    "spot": "empowered"
+                }
+            ], 
+            "wiki_id": 167703, 
+            "wiki_title": "Empowerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3204, 
+                    "end": 3213, 
+                    "score": 0.12409628927707672, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1022, 
+                    "score": 0.22220101952552795, 
+                    "spot": "aliens"
+                }
+            ], 
+            "wiki_id": 1703135, 
+            "wiki_title": "Extraterrestrials in fiction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1712, 
+                    "end": 1716, 
+                    "score": 0.24505436420440674, 
+                    "spot": "R-Pa"
+                }
+            ], 
+            "wiki_id": 5262364, 
+            "wiki_title": "Republican State Committee of Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2940, 
+                    "end": 2945, 
+                    "score": 0.0959181934595108, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 51490, 
+            "wiki_title": "Rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2281, 
+                    "end": 2289, 
+                    "score": 0.18988311290740967, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 846, 
+                    "end": 850, 
+                    "score": 0.2148389369249344, 
+                    "spot": "West"
+                }
+            ], 
+            "wiki_id": 67393, 
+            "wiki_title": "West Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2400, 
+                    "end": 2406, 
+                    "score": 0.08273495733737946, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 377116, 
+            "wiki_title": "Budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 934, 
+                    "end": 940, 
+                    "score": 0.10033631324768066, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 210, 
+                    "end": 217, 
+                    "score": 0.0015853189397603273, 
+                    "spot": "blocked"
+                }
+            ], 
+            "wiki_id": 11056386, 
+            "wiki_title": "Internet censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 587, 
+                    "end": 604, 
+                    "score": 0.29218658804893494, 
+                    "spot": "local\ngovernments"
+                }
+            ], 
+            "wiki_id": 1549583, 
+            "wiki_title": "Local government in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 855, 
+                    "end": 874, 
+                    "score": 0.25111904740333557, 
+                    "spot": "Undocumented aliens"
+                }, 
+                {
+                    "begin": 1611, 
+                    "end": 1625, 
+                    "score": 0.2721666097640991, 
+                    "spot": "illegal aliens"
+                }
+            ], 
+            "wiki_id": 7124412, 
+            "wiki_title": "Illegal immigration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2392, 
+                    "end": 2399, 
+                    "score": 0.15518240630626678, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1744, 
+                    "end": 1750, 
+                    "score": 0.0015993266133591533, 
+                    "spot": "attach"
+                }
+            ], 
+            "wiki_id": 15998912, 
+            "wiki_title": "Attachment (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 786, 
+                    "end": 791, 
+                    "score": 0.08991803228855133, 
+                    "spot": "North"
+                }
+            ], 
+            "wiki_id": 21139, 
+            "wiki_title": "North America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1701, 
+                    "end": 1710, 
+                    "score": 0.6995252370834351, 
+                    "spot": "Tom Ridge"
+                }
+            ], 
+            "wiki_id": 211384, 
+            "wiki_title": "Tom Ridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2747, 
+                    "end": 2753, 
+                    "score": 0.05111889913678169, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 298, 
+                    "end": 306, 
+                    "score": 0.16985423862934113, 
+                    "spot": "in House"
+                }, 
+                {
+                    "begin": 301, 
+                    "end": 306, 
+                    "score": 0.17272034287452698, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 8998597, 
+            "wiki_title": "In-house"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 88, 
+                    "end": 106, 
+                    "score": 0.12932515144348145, 
+                    "spot": "military personnel"
+                }, 
+                {
+                    "begin": 1083, 
+                    "end": 1101, 
+                    "score": 0.12932515144348145, 
+                    "spot": "military personnel"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 510, 
+                    "end": 521, 
+                    "score": 0.20776604115962982, 
+                    "spot": "House seats"
+                }, 
+                {
+                    "begin": 741, 
+                    "end": 752, 
+                    "score": 0.20776604115962982, 
+                    "spot": "House seats"
+                }, 
+                {
+                    "begin": 2032, 
+                    "end": 2043, 
+                    "score": 0.2997547686100006, 
+                    "spot": "House seats"
+                }, 
+                {
+                    "begin": 2605, 
+                    "end": 2616, 
+                    "score": 0.29597607254981995, 
+                    "spot": "House seats"
+                }
+            ], 
+            "wiki_id": 3562398, 
+            "wiki_title": "Arkansas House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1324, 
+                    "end": 1337, 
+                    "score": 0.03999999910593033, 
+                    "spot": "live overseas"
+                }
+            ], 
+            "wiki_id": 27943193, 
+            "wiki_title": "Live Overseas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 377, 
+                    "end": 386, 
+                    "score": 0.18945665657520294, 
+                    "spot": "committee"
+                }, 
+                {
+                    "begin": 1659, 
+                    "end": 1668, 
+                    "score": 0.06192752718925476, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 12, 
+                    "end": 17, 
+                    "score": 0.10707545280456543, 
+                    "spot": "issue"
+                }, 
+                {
+                    "begin": 629, 
+                    "end": 634, 
+                    "score": 0.11882273107767105, 
+                    "spot": "issue"
+                }
+            ], 
+            "wiki_id": 2345894, 
+            "wiki_title": "Social issue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1522, 
+                    "end": 1526, 
+                    "score": 0.08372706919908524, 
+                    "spot": "home"
+                }
+            ], 
+            "wiki_id": 249429, 
+            "wiki_title": "Home"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 683, 
+                    "end": 689, 
+                    "score": 0.056711580604314804, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 2105, 
+                    "end": 2110, 
+                    "score": 0.2015601545572281, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1201, 
+                    "end": 1205, 
+                    "score": 0.08605144917964935, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1492, 
+                    "end": 1497, 
+                    "score": 0.09037609398365021, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 30876419, 
+            "wiki_title": "Quantum state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3157, 
+                    "end": 3162, 
+                    "score": 0.12932589650154114, 
+                    "spot": "lying"
+                }
+            ], 
+            "wiki_id": 229723, 
+            "wiki_title": "Lie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 58, 
+                    "score": 0.0010851615807041526, 
+                    "spot": "resolved"
+                }
+            ], 
+            "wiki_id": 12538974, 
+            "wiki_title": "Resolved (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 64, 
+                    "end": 76, 
+                    "score": 0.5, 
+                    "spot": "the decision"
+                }
+            ], 
+            "wiki_id": 6450688, 
+            "wiki_title": "Voices of Animals and Men"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2634, 
+                    "end": 2641, 
+                    "score": 0.33796921372413635, 
+                    "spot": "western"
+                }, 
+                {
+                    "begin": 2634, 
+                    "end": 2648, 
+                    "score": 0.3304941654205322, 
+                    "spot": "western states"
+                }
+            ], 
+            "wiki_id": 21208200, 
+            "wiki_title": "Western world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2754, 
+                    "end": 2758, 
+                    "score": 0.0374990813434124, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 594850, 
+            "wiki_title": "Back vowel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1782, 
+                    "end": 1796, 
+                    "score": 0.10505988448858261, 
+                    "spot": "appropriations"
+                }
+            ], 
+            "wiki_id": 41726343, 
+            "wiki_title": "Appropriations bill (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 572, 
+                    "end": 583, 
+                    "score": 0.2718440294265747, 
+                    "spot": "federal aid"
+                }
+            ], 
+            "wiki_id": 146719, 
+            "wiki_title": "Subsidy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 360, 
+                    "end": 363, 
+                    "score": 0.08072341978549957, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 523571, 
+            "wiki_title": "Erskine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 454, 
+                    "score": 0.06398306041955948, 
+                    "spot": "April 1"
+                }
+            ], 
+            "wiki_id": 11125478, 
+            "wiki_title": "April Fools' Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1879, 
+                    "end": 1888, 
+                    "score": 0.15590965747833252, 
+                    "spot": "next year"
+                }
+            ], 
+            "wiki_id": 4461881, 
+            "wiki_title": "Eurovision Song Contest 2007"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 139, 
+                    "score": 0.08835647255182266, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 285074, 
+            "wiki_title": "Congress of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1215, 
+                    "end": 1233, 
+                    "score": 0.10343087464570999, 
+                    "spot": "Defense Department"
+                }
+            ], 
+            "wiki_id": 7279897, 
+            "wiki_title": "United States Department of Defense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1381, 
+                    "end": 1387, 
+                    "score": 0.06020570918917656, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 1539, 
+                    "end": 1544, 
+                    "score": 0.08262000232934952, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 2198, 
+                    "end": 2204, 
+                    "score": 0.19988176226615906, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 195, 
+                    "score": 0.13725490868091583, 
+                    "spot": "illegal aliens"
+                }, 
+                {
+                    "begin": 2471, 
+                    "end": 2485, 
+                    "score": 0.2816135287284851, 
+                    "spot": "illegal\naliens"
+                }
+            ], 
+            "wiki_id": 5044573, 
+            "wiki_title": "Illegal immigration to the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 469, 
+                    "end": 476, 
+                    "score": 0.0006724384147673845, 
+                    "spot": "figures"
+                }
+            ], 
+            "wiki_id": 174074, 
+            "wiki_title": "Action figure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2387, 
+                    "end": 2391, 
+                    "score": 0.16318555176258087, 
+                    "spot": "s $4"
+                }
+            ], 
+            "wiki_id": 1400838, 
+            "wiki_title": "Staff (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 561, 
+                    "end": 571, 
+                    "score": 0.13171499967575073, 
+                    "spot": "distribute"
+                }
+            ], 
+            "wiki_id": 8889074, 
+            "wiki_title": "Distribution (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1312, 
+                    "end": 1319, 
+                    "score": 0.07244560122489929, 
+                    "spot": "workers"
+                }
+            ], 
+            "wiki_id": 39903086, 
+            "wiki_title": "Working class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2959, 
+                    "end": 2968, 
+                    "score": 0.04323173686861992, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 510, 
+                    "end": 515, 
+                    "score": 0.20437976717948914, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 741, 
+                    "end": 746, 
+                    "score": 0.20437976717948914, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 2032, 
+                    "end": 2037, 
+                    "score": 0.2695349454879761, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 2605, 
+                    "end": 2610, 
+                    "score": 0.1952829211950302, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 254414, 
+            "wiki_title": "Minnesota House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1245, 
+                    "end": 1250, 
+                    "score": 0.10038132965564728, 
+                    "spot": "count"
+                }, 
+                {
+                    "begin": 3197, 
+                    "end": 3202, 
+                    "score": 0.08636029064655304, 
+                    "spot": "count"
+                }
+            ], 
+            "wiki_id": 196470, 
+            "wiki_title": "Count"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 613, 
+                    "end": 628, 
+                    "score": 0.2549697160720825, 
+                    "spot": "reapportionment"
+                }
+            ], 
+            "wiki_id": 3191896, 
+            "wiki_title": "Apportionment (politics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 284, 
+                    "score": 0.13654732704162598, 
+                    "spot": "census"
+                }, 
+                {
+                    "begin": 1925, 
+                    "end": 1931, 
+                    "score": 0.13654732704162598, 
+                    "spot": "census"
+                }, 
+                {
+                    "begin": 2123, 
+                    "end": 2129, 
+                    "score": 0.25203004479408264, 
+                    "spot": "census"
+                }, 
+                {
+                    "begin": 2344, 
+                    "end": 2350, 
+                    "score": 0.1998988687992096, 
+                    "spot": "census"
+                }, 
+                {
+                    "begin": 2415, 
+                    "end": 2421, 
+                    "score": 0.15411721169948578, 
+                    "spot": "census"
+                }, 
+                {
+                    "begin": 2952, 
+                    "end": 2958, 
+                    "score": 0.179002046585083, 
+                    "spot": "Census"
+                }
+            ], 
+            "wiki_id": 6889, 
+            "wiki_title": "Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2081, 
+                    "end": 2088, 
+                    "score": 0.0370195098221302, 
+                    "spot": "persons"
+                }
+            ], 
+            "wiki_id": 219287, 
+            "wiki_title": "Legal personality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2655, 
+                    "end": 2667, 
+                    "score": 0.22016505897045135, 
+                    "spot": "Pennsylvania"
+                }
+            ], 
+            "wiki_id": 23332, 
+            "wiki_title": "Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1414, 
+                    "end": 1423, 
+                    "score": 0.0025531144347041845, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 1147690, 
+            "wiki_title": "Residency (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 247, 
+                    "end": 253, 
+                    "score": 0.10901249945163727, 
+                    "spot": "aliens"
+                }
+            ], 
+            "wiki_id": 9588, 
+            "wiki_title": "Extraterrestrial life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1514, 
+                    "score": 0.08352141827344894, 
+                    "spot": "person"
+                }, 
+                {
+                    "begin": 3101, 
+                    "end": 3107, 
+                    "score": 0.25790074467658997, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1867, 
+                    "end": 1878, 
+                    "score": 0.12088893353939056, 
+                    "spot": "departments"
+                }
+            ], 
+            "wiki_id": 408044, 
+            "wiki_title": "Academic department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 489, 
+                    "end": 501, 
+                    "score": 0.00561097264289856, 
+                    "spot": "redistribute"
+                }
+            ], 
+            "wiki_id": 178753, 
+            "wiki_title": "Land reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2362, 
+                    "end": 2367, 
+                    "score": 0.1120382621884346, 
+                    "spot": "Ridge"
+                }
+            ], 
+            "wiki_id": 127362, 
+            "wiki_title": "Ridge, New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1077, 
+                    "end": 1081, 
+                    "score": 0.089449442923069, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2504, 
+                    "end": 2518, 
+                    "score": 0.7171732187271118, 
+                    "spot": "Mervyn Dymally"
+                }, 
+                {
+                    "begin": 2797, 
+                    "end": 2804, 
+                    "score": 0.22905772924423218, 
+                    "spot": "Dymally"
+                }
+            ], 
+            "wiki_id": 1198557, 
+            "wiki_title": "Mervyn M. Dymally"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2559, 
+                    "end": 2574, 
+                    "score": 0.04494382068514824, 
+                    "spot": "over\npopulation"
+                }
+            ], 
+            "wiki_id": 4599275, 
+            "wiki_title": "Human overpopulation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 117, 
+                    "end": 125, 
+                    "score": 0.08221729099750519, 
+                    "spot": "overseas"
+                }, 
+                {
+                    "begin": 1112, 
+                    "end": 1120, 
+                    "score": 0.17160142958164215, 
+                    "spot": "overseas"
+                }
+            ], 
+            "wiki_id": 48997, 
+            "wiki_title": "Overseas Chinese"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3007, 
+                    "end": 3013, 
+                    "score": 0.012538580223917961, 
+                    "spot": "delete"
+                }
+            ], 
+            "wiki_id": 13443, 
+            "wiki_title": "Hypertext Transfer Protocol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 532, 
+                    "end": 538, 
+                    "score": 0.0830056220293045, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 768, 
+                    "end": 774, 
+                    "score": 0.12079475820064545, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 946, 
+                    "end": 954, 
+                    "score": 0.2461012303829193, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1648, 
+                    "end": 1650, 
+                    "score": 0.09921377897262573, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 11659396, 
+            "wiki_title": "Up (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1158, 
+                    "end": 1165, 
+                    "score": 0.08169344812631607, 
+                    "spot": "settled"
+                }
+            ], 
+            "wiki_id": 556323, 
+            "wiki_title": "Settlement (litigation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1599, 
+                    "end": 1605, 
+                    "score": 0.1275281012058258, 
+                    "spot": "battle"
+                }
+            ], 
+            "wiki_id": 4181, 
+            "wiki_title": "Battle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 260, 
+                    "end": 268, 
+                    "score": 0.0007208349998109043, 
+                    "spot": "excluded"
+                }
+            ], 
+            "wiki_id": 20886585, 
+            "wiki_title": "Exclude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3077, 
+                    "end": 3084, 
+                    "score": 0.12123461067676544, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 421, 
+                    "score": 0.0697837546467781, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21748, 
+            "wiki_title": "Nationalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2181, 
+                    "end": 2190, 
+                    "score": 0.15013521909713745, 
+                    "spot": "residents"
+                }, 
+                {
+                    "begin": 3258, 
+                    "end": 3267, 
+                    "score": 0.07827433943748474, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 329, 
+                    "end": 335, 
+                    "score": 0.04834460839629173, 
+                    "spot": "decade"
+                }
+            ], 
+            "wiki_id": 695530, 
+            "wiki_title": "Decade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2814, 
+                    "end": 2827, 
+                    "score": 0.7041167616844177, 
+                    "spot": "Tim Valentine"
+                }
+            ], 
+            "wiki_id": 1184168, 
+            "wiki_title": "Tim Valentine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 35, 
+                    "end": 46, 
+                    "score": 0.34648701548576355, 
+                    "spot": "1990 Census"
+                }, 
+                {
+                    "begin": 456, 
+                    "end": 468, 
+                    "score": 0.34648701548576355, 
+                    "spot": "1990. Census"
+                }
+            ], 
+            "wiki_id": 3536675, 
+            "wiki_title": "1990 United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2765, 
+                    "end": 2767, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 12606440, 
+            "wiki_title": "D (musical note)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3085, 
+                    "end": 3092, 
+                    "score": 0.16815614700317383, 
+                    "spot": "legally"
+                }
+            ], 
+            "wiki_id": 258949, 
+            "wiki_title": "Legal fiction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3120, 
+                    "end": 3126, 
+                    "score": 0.215200737118721, 
+                    "spot": "status"
+                }
+            ], 
+            "wiki_id": 201503, 
+            "wiki_title": "Social status"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2671, 
+                    "end": 2681, 
+                    "score": 0.006773101165890694, 
+                    "spot": "don't care"
+                }
+            ], 
+            "wiki_id": 7444599, 
+            "wiki_title": "Don't-care term"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1985, 
+                    "score": 0.24442216753959656, 
+                    "spot": "Senate"
+                }
+            ], 
+            "wiki_id": 683411, 
+            "wiki_title": "Senate of Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2050, 
+                    "end": 2061, 
+                    "score": 0.13213053345680237, 
+                    "spot": "apportioned"
+                }
+            ], 
+            "wiki_id": 462531, 
+            "wiki_title": "United States congressional apportionment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 868, 
+                    "end": 874, 
+                    "score": 0.20030663907527924, 
+                    "spot": "aliens"
+                }, 
+                {
+                    "begin": 1769, 
+                    "end": 1775, 
+                    "score": 0.16199490427970886, 
+                    "spot": "aliens"
+                }, 
+                {
+                    "begin": 2224, 
+                    "end": 2236, 
+                    "score": 0.2421637624502182, 
+                    "spot": "non-citizens"
+                }, 
+                {
+                    "begin": 2866, 
+                    "end": 2880, 
+                    "score": 0.13725490868091583, 
+                    "spot": "illegal\naliens"
+                }, 
+                {
+                    "begin": 3014, 
+                    "end": 3028, 
+                    "score": 0.13725490868091583, 
+                    "spot": "illegal aliens"
+                }
+            ], 
+            "wiki_id": 1703155, 
+            "wiki_title": "Alien (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2530, 
+                    "end": 2537, 
+                    "score": 0.0020932909101247787, 
+                    "spot": "charged"
+                }
+            ], 
+            "wiki_id": 474957, 
+            "wiki_title": "Charge (warfare)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1295, 
+                    "end": 1303, 
+                    "score": 0.25085577368736267, 
+                    "spot": "civilian"
+                }
+            ], 
+            "wiki_id": 145804, 
+            "wiki_title": "Civilian"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 816, 
+                    "score": 0.02778501808643341, 
+                    "spot": "lagged"
+                }
+            ], 
+            "wiki_id": 20646089, 
+            "wiki_title": "Lag"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 422, 
+                    "end": 432, 
+                    "score": 0.056603774428367615, 
+                    "spot": "head count"
+                }
+            ], 
+            "wiki_id": 2591218, 
+            "wiki_title": "Interchange (Australian rules football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 307, 
+                    "end": 322, 
+                    "score": 0.16494134068489075, 
+                    "spot": "reapportionment"
+                }
+            ], 
+            "wiki_id": 432383, 
+            "wiki_title": "2000 United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1831, 
+                    "end": 1834, 
+                    "score": 0.07104810327291489, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 26032, 
+            "wiki_title": "Running"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2711, 
+                    "end": 2715, 
+                    "score": 0.058350663632154465, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 578491, 
+            "wiki_title": "Glossary of rail transport terms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 664, 
+                    "end": 669, 
+                    "score": 0.09139861166477203, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 1696, 
+                    "end": 1699, 
+                    "score": 0.24976783990859985, 
+                    "spot": "Rep"
+                }, 
+                {
+                    "begin": 2249, 
+                    "end": 2252, 
+                    "score": 0.19932995736598969, 
+                    "spot": "Rep"
+                }, 
+                {
+                    "begin": 2499, 
+                    "end": 2502, 
+                    "score": 0.2500818073749542, 
+                    "spot": "Rep"
+                }, 
+                {
+                    "begin": 2809, 
+                    "end": 2812, 
+                    "score": 0.2154884785413742, 
+                    "spot": "Rep"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1680, 
+                    "end": 1691, 
+                    "score": 0.008928571827709675, 
+                    "spot": "House floor"
+                }
+            ], 
+            "wiki_id": 189637, 
+            "wiki_title": "Procedures of the United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1753, 
+                    "end": 1756, 
+                    "score": 0.013761318288743496, 
+                    "spot": "ban"
+                }
+            ], 
+            "wiki_id": 843461, 
+            "wiki_title": "Ban (title)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 899, 
+                    "score": 0.0005513058858923614, 
+                    "spot": "concentrated"
+                }
+            ], 
+            "wiki_id": 17805223, 
+            "wiki_title": "Concentrated solar power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2669, 
+                    "end": 2681, 
+                    "score": 0.18160642683506012, 
+                    "spot": "I don't care"
+                }
+            ], 
+            "wiki_id": 24812456, 
+            "wiki_title": "The Love &amp; War MasterPeace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1438, 
+                    "end": 1451, 
+                    "score": 0.0008539709378965199, 
+                    "spot": "to be decided"
+                }
+            ], 
+            "wiki_id": 31297744, 
+            "wiki_title": "To be announced"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 433, 
+                    "end": 437, 
+                    "score": 0.2304716259241104, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2587, 
+                    "end": 2591, 
+                    "score": 0.08869221061468124, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 639, 
+                    "end": 646, 
+                    "score": 0.0035118525847792625, 
+                    "spot": "riveted"
+                }
+            ], 
+            "wiki_id": 509033, 
+            "wiki_title": "Rivet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3063, 
+                    "end": 3066, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 11, 
+                    "score": 0.054003629833459854, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 201920, 
+            "wiki_title": "Major"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 172, 
+                    "end": 180, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }, 
+                {
+                    "begin": 1479, 
+                    "end": 1487, 
+                    "score": 0.08899234980344772, 
+                    "spot": "counting"
+                }, 
+                {
+                    "begin": 1760, 
+                    "end": 1768, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }, 
+                {
+                    "begin": 2857, 
+                    "end": 2865, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }
+            ], 
+            "wiki_id": 275768, 
+            "wiki_title": "Counting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1404, 
+                    "end": 1410, 
+                    "score": 0.05266820266842842, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 689457, 
+            "wiki_title": "The Sunday People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2306, 
+                    "end": 2314, 
+                    "score": 0.14471405744552612, 
+                    "spot": "identify"
+                }
+            ], 
+            "wiki_id": 162025, 
+            "wiki_title": "Gender identity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1534, 
+                    "end": 1538, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 966, 
+                    "end": 972, 
+                    "score": 0.06348873674869537, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 10890716, 
+            "wiki_title": "Member state of the European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2703, 
+                    "end": 2710, 
+                    "score": 0.17617638409137726, 
+                    "spot": "they go"
+                }
+            ], 
+            "wiki_id": 1928105, 
+            "wiki_title": "They Go On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2682, 
+                    "end": 2694, 
+                    "score": 0.0018018018454313278, 
+                    "spot": "what they do"
+                }
+            ], 
+            "wiki_id": 3518138, 
+            "wiki_title": "Illadelph Halflife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3234, 
+                    "end": 3243, 
+                    "score": 0.001611298997886479, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 22743196, 
+            "wiki_title": "Potential National Hockey League expansion"
+        }
+    ]
+}

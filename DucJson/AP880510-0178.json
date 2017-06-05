@@ -1,0 +1,1828 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 736, 
+                    "end": 748, 
+                    "score": 0.15922406315803528, 
+                    "spot": "Organization"
+                }
+            ], 
+            "wiki_id": 22625, 
+            "wiki_title": "Organized crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1846, 
+                    "end": 1849, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "You"
+                }
+            ], 
+            "wiki_id": 14836066, 
+            "wiki_title": "You (Time Person of the Year)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 219, 
+                    "end": 229, 
+                    "score": 0.16090409457683563, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1359, 
+                    "end": 1364, 
+                    "score": 0.0015913659008219838, 
+                    "spot": "spoke"
+                }
+            ], 
+            "wiki_id": 170836, 
+            "wiki_title": "Spoke"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 333, 
+                    "end": 346, 
+                    "score": 0.18688899278640747, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 571, 
+                    "end": 584, 
+                    "score": 0.16517087817192078, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 2098, 
+                    "end": 2121, 
+                    "score": 0.19075287878513336, 
+                    "spot": "political assassination"
+                }, 
+                {
+                    "begin": 2187, 
+                    "end": 2200, 
+                    "score": 0.11539605259895325, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 2419, 
+                    "end": 2432, 
+                    "score": 0.10084027051925659, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 2543, 
+                    "end": 2556, 
+                    "score": 0.2039424031972885, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 2907, 
+                    "end": 2920, 
+                    "score": 0.36190861463546753, 
+                    "spot": "assassination"
+                }
+            ], 
+            "wiki_id": 2963, 
+            "wiki_title": "Assassination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1166, 
+                    "end": 1183, 
+                    "score": 0.0027434842195361853, 
+                    "spot": "Eastern countries"
+                }
+            ], 
+            "wiki_id": 18984987, 
+            "wiki_title": "Eastern world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2226, 
+                    "end": 2235, 
+                    "score": 0.05756973475217819, 
+                    "spot": "attention"
+                }
+            ], 
+            "wiki_id": 25992931, 
+            "wiki_title": "Attention seeking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1726, 
+                    "end": 1732, 
+                    "score": 0.002742376644164324, 
+                    "spot": "bottom"
+                }
+            ], 
+            "wiki_id": 1189275, 
+            "wiki_title": "Seabed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1159, 
+                    "end": 1173, 
+                    "score": 0.539352536201477, 
+                    "spot": "Middle Eastern"
+                }, 
+                {
+                    "begin": 1159, 
+                    "end": 1183, 
+                    "score": 0.5112149715423584, 
+                    "spot": "Middle Eastern countries"
+                }, 
+                {
+                    "begin": 1885, 
+                    "end": 1899, 
+                    "score": 0.172607421875, 
+                    "spot": "Middle Eastern"
+                }
+            ], 
+            "wiki_id": 19323, 
+            "wiki_title": "Middle East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 828, 
+                    "end": 836, 
+                    "score": 0.051321059465408325, 
+                    "spot": "document"
+                }, 
+                {
+                    "begin": 1626, 
+                    "end": 1634, 
+                    "score": 0.27355584502220154, 
+                    "spot": "document"
+                }, 
+                {
+                    "begin": 1741, 
+                    "end": 1749, 
+                    "score": 0.09581944346427917, 
+                    "spot": "document"
+                }
+            ], 
+            "wiki_id": 161228, 
+            "wiki_title": "Document"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1761, 
+                    "end": 1772, 
+                    "score": 0.16579221189022064, 
+                    "spot": "typewritten"
+                }
+            ], 
+            "wiki_id": 44365, 
+            "wiki_title": "Typewriter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 406, 
+                    "end": 411, 
+                    "score": 0.0006369426846504211, 
+                    "spot": "slain"
+                }
+            ], 
+            "wiki_id": 26956622, 
+            "wiki_title": "Nico Slain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 487, 
+                    "end": 490, 
+                    "score": 0.14258457720279694, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 28, 
+                    "score": 0.1302661895751953, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 1050340, 
+            "wiki_title": "Election Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1059, 
+                    "end": 1085, 
+                    "score": 0.3102739751338959, 
+                    "spot": "State Department spokesman"
+                }, 
+                {
+                    "begin": 2021, 
+                    "end": 2047, 
+                    "score": 0.3102739751338959, 
+                    "spot": "State Department spokesman"
+                }
+            ], 
+            "wiki_id": 48602368, 
+            "wiki_title": "Spokesperson for the United States Department of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1601, 
+                    "end": 1610, 
+                    "score": 0.11280395090579987, 
+                    "spot": "photocopy"
+                }
+            ], 
+            "wiki_id": 18935713, 
+            "wiki_title": "Photocopier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1418, 
+                    "end": 1425, 
+                    "score": 0.3732162415981293, 
+                    "spot": "Baghdad"
+                }
+            ], 
+            "wiki_id": 4492, 
+            "wiki_title": "Baghdad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 749, 
+                    "end": 755, 
+                    "score": 0.061987921595573425, 
+                    "spot": "leader"
+                }, 
+                {
+                    "begin": 2249, 
+                    "end": 2255, 
+                    "score": 0.09689212590456009, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 965, 
+                    "end": 979, 
+                    "score": 0.6659407019615173, 
+                    "spot": "Richard Murphy"
+                }
+            ], 
+            "wiki_id": 366943, 
+            "wiki_title": "Shooting of Amadou Diallo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1483, 
+                    "end": 1491, 
+                    "score": 0.11012580990791321, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 7398, 
+            "wiki_title": "Computer security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2390, 
+                    "end": 2401, 
+                    "score": 0.00533765135332942, 
+                    "spot": "retaliation"
+                }
+            ], 
+            "wiki_id": 3411109, 
+            "wiki_title": "Retaliation (Dane Cook album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 273, 
+                    "end": 279, 
+                    "score": 0.04282066226005554, 
+                    "spot": "target"
+                }
+            ], 
+            "wiki_id": 18581242, 
+            "wiki_title": "Target Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1835, 
+                    "end": 1839, 
+                    "score": 0.002627540612593293, 
+                    "spot": "read"
+                }
+            ], 
+            "wiki_id": 984155, 
+            "wiki_title": "Mike Read"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 350, 
+                    "end": 362, 
+                    "score": 0.9057381749153137, 
+                    "spot": "Khalil Wazir"
+                }, 
+                {
+                    "begin": 693, 
+                    "end": 698, 
+                    "score": 0.5475704669952393, 
+                    "spot": "Wazir"
+                }, 
+                {
+                    "begin": 1797, 
+                    "end": 1802, 
+                    "score": 0.20912250876426697, 
+                    "spot": "Wazir"
+                }, 
+                {
+                    "begin": 1821, 
+                    "end": 1830, 
+                    "score": 0.30263158679008484, 
+                    "spot": "Abu Jihad"
+                }, 
+                {
+                    "begin": 1971, 
+                    "end": 1980, 
+                    "score": 0.38021472096443176, 
+                    "spot": "Abu Jihad"
+                }, 
+                {
+                    "begin": 2436, 
+                    "end": 2445, 
+                    "score": 0.5166915655136108, 
+                    "spot": "Abu Jihad"
+                }, 
+                {
+                    "begin": 2531, 
+                    "end": 2540, 
+                    "score": 0.30263158679008484, 
+                    "spot": "Abu Jihad"
+                }
+            ], 
+            "wiki_id": 1008879, 
+            "wiki_title": "Khalil al-Wazir"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2487, 
+                    "end": 2496, 
+                    "score": 0.017167827114462852, 
+                    "spot": "personnel"
+                }
+            ], 
+            "wiki_id": 6826152, 
+            "wiki_title": "Military personnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 95, 
+                    "end": 106, 
+                    "score": 0.2777319550514221, 
+                    "spot": "Palestinian"
+                }, 
+                {
+                    "begin": 1916, 
+                    "end": 1927, 
+                    "score": 0.26413029432296753, 
+                    "spot": "Palestinian"
+                }
+            ], 
+            "wiki_id": 23267, 
+            "wiki_title": "Palestinians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 118, 
+                    "end": 124, 
+                    "score": 0.23230357468128204, 
+                    "spot": "attack"
+                }
+            ], 
+            "wiki_id": 15077993, 
+            "wiki_title": "Offensive (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1086, 
+                    "end": 1093, 
+                    "score": 0.025588300079107285, 
+                    "spot": "Charles"
+                }
+            ], 
+            "wiki_id": 146280, 
+            "wiki_title": "Charles River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 862, 
+                    "end": 866, 
+                    "score": 0.3237685263156891, 
+                    "spot": "Arab"
+                }
+            ], 
+            "wiki_id": 2185, 
+            "wiki_title": "Arabs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 391, 
+                    "score": 0.022602859884500504, 
+                    "spot": "second\nin command"
+                }
+            ], 
+            "wiki_id": 1019202, 
+            "wiki_title": "Second-in-command"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 893, 
+                    "end": 901, 
+                    "score": 0.03352047875523567, 
+                    "spot": "identify"
+                }
+            ], 
+            "wiki_id": 880112, 
+            "wiki_title": "Identity (social science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 107, 
+                    "end": 117, 
+                    "score": 0.2480725347995758, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 2991, 
+                    "end": 2998, 
+                    "score": 0.23253051936626434, 
+                    "spot": "attacks"
+                }
+            ], 
+            "wiki_id": 12720, 
+            "wiki_title": "Guerrilla warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2175, 
+                    "end": 2178, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2728, 
+                    "end": 2736, 
+                    "score": 0.04487285390496254, 
+                    "spot": "planning"
+                }
+            ], 
+            "wiki_id": 7843, 
+            "wiki_title": "Planned economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2515, 
+                    "end": 2526, 
+                    "score": 0.00533765135332942, 
+                    "spot": "retaliation"
+                }
+            ], 
+            "wiki_id": 22698693, 
+            "wiki_title": "Organizational retaliatory behavior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1524, 
+                    "end": 1531, 
+                    "score": 0.00532856211066246, 
+                    "spot": "offices"
+                }
+            ], 
+            "wiki_id": 364022, 
+            "wiki_title": "Incumbent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1439, 
+                    "end": 1454, 
+                    "score": 0.012221618555486202, 
+                    "spot": "security guards"
+                }
+            ], 
+            "wiki_id": 19283898, 
+            "wiki_title": "Security guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2132, 
+                    "end": 2141, 
+                    "score": 0.11374492943286896, 
+                    "spot": "knowledge"
+                }
+            ], 
+            "wiki_id": 16194846, 
+            "wiki_title": "Knowledge (legal construct)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2006, 
+                    "end": 2016, 
+                    "score": 0.021276595070958138, 
+                    "spot": "April 18th"
+                }
+            ], 
+            "wiki_id": 1826, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1810, 
+                    "end": 1819, 
+                    "score": 0.2066342532634735, 
+                    "spot": "code name"
+                }
+            ], 
+            "wiki_id": 40594, 
+            "wiki_title": "Pseudonym"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 946, 
+                    "end": 964, 
+                    "score": 0.22849121689796448, 
+                    "spot": "Secretary of State"
+                }
+            ], 
+            "wiki_id": 32293, 
+            "wiki_title": "United States Secretary of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 36, 
+                    "score": 0.11560214310884476, 
+                    "spot": "accused"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 175, 
+                    "end": 185, 
+                    "score": 0.0014475969364866614, 
+                    "spot": "accusation"
+                }, 
+                {
+                    "begin": 996, 
+                    "end": 1006, 
+                    "score": 0.00850673858076334, 
+                    "spot": "accusation"
+                }
+            ], 
+            "wiki_id": 22544670, 
+            "wiki_title": "Criminal accusation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 862, 
+                    "end": 877, 
+                    "score": 0.14356964826583862, 
+                    "spot": "Arab government"
+                }
+            ], 
+            "wiki_id": 25452788, 
+            "wiki_title": "Arab Kingdom of Syria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 309, 
+                    "end": 312, 
+                    "score": 0.10651857405900955, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 94, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 491, 
+                    "end": 496, 
+                    "score": 0.0015913659008219838, 
+                    "spot": "spoke"
+                }
+            ], 
+            "wiki_id": 12235926, 
+            "wiki_title": "\u00c6on Spoke"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2605, 
+                    "end": 2607, 
+                    "score": 0.11201398074626923, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 412, 
+                    "end": 420, 
+                    "score": 0.0006180469645187259, 
+                    "spot": "April 16"
+                }
+            ], 
+            "wiki_id": 1658139, 
+            "wiki_title": "April 16 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2682, 
+                    "end": 2690, 
+                    "score": 0.032630544155836105, 
+                    "spot": "document"
+                }
+            ], 
+            "wiki_id": 164430, 
+            "wiki_title": "Documentation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1689, 
+                    "end": 1693, 
+                    "score": 0.12025868147611618, 
+                    "spot": "word"
+                }
+            ], 
+            "wiki_id": 1449866, 
+            "wiki_title": "Word"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1076, 
+                    "end": 1085, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2614, 
+                    "end": 2618, 
+                    "score": 0.07958710938692093, 
+                    "spot": "hold"
+                }
+            ], 
+            "wiki_id": 3531193, 
+            "wiki_title": "Grappling hold"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 82, 
+                    "end": 91, 
+                    "score": 0.06016644090414047, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 194, 
+                    "end": 210, 
+                    "score": 0.19298100471496582, 
+                    "spot": "State Department"
+                }, 
+                {
+                    "begin": 1059, 
+                    "end": 1075, 
+                    "score": 0.36308297514915466, 
+                    "spot": "State Department"
+                }, 
+                {
+                    "begin": 2021, 
+                    "end": 2037, 
+                    "score": 0.36308297514915466, 
+                    "spot": "State Department"
+                }
+            ], 
+            "wiki_id": 31975, 
+            "wiki_title": "United States Department of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 500, 
+                    "end": 509, 
+                    "score": 0.06921937316656113, 
+                    "spot": "condition"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 41, 
+                    "end": 54, 
+                    "score": 0.21684548258781433, 
+                    "spot": "United\nStates"
+                }, 
+                {
+                    "begin": 125, 
+                    "end": 133, 
+                    "score": 0.24860498309135437, 
+                    "spot": "American"
+                }, 
+                {
+                    "begin": 150, 
+                    "end": 163, 
+                    "score": 0.19472965598106384, 
+                    "spot": "United States"
+                }, 
+                {
+                    "begin": 280, 
+                    "end": 289, 
+                    "score": 0.08076649904251099, 
+                    "spot": "Americans"
+                }, 
+                {
+                    "begin": 637, 
+                    "end": 650, 
+                    "score": 0.24693922698497772, 
+                    "spot": "United States"
+                }, 
+                {
+                    "begin": 1016, 
+                    "end": 1029, 
+                    "score": 0.20156243443489075, 
+                    "spot": "United States"
+                }, 
+                {
+                    "begin": 1110, 
+                    "end": 1123, 
+                    "score": 0.20209002494812012, 
+                    "spot": "United States"
+                }, 
+                {
+                    "begin": 1219, 
+                    "end": 1227, 
+                    "score": 0.14160427451133728, 
+                    "spot": "American"
+                }, 
+                {
+                    "begin": 1945, 
+                    "end": 1948, 
+                    "score": 0.07212527841329575, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 2062, 
+                    "end": 2075, 
+                    "score": 0.17896181344985962, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1568, 
+                    "end": 1575, 
+                    "score": 0.11991368234157562, 
+                    "spot": "alleged"
+                }, 
+                {
+                    "begin": 1618, 
+                    "end": 1625, 
+                    "score": 0.09397731721401215, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 2434267, 
+            "wiki_title": "Allegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1335, 
+                    "end": 1345, 
+                    "score": 0.046226970851421356, 
+                    "spot": "foundation"
+                }
+            ], 
+            "wiki_id": 693306, 
+            "wiki_title": "Foundation (nonprofit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 924, 
+                    "end": 934, 
+                    "score": 0.24523916840553284, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1866, 
+                    "end": 1873, 
+                    "score": 0.04629015177488327, 
+                    "spot": "charges"
+                }
+            ], 
+            "wiki_id": 474957, 
+            "wiki_title": "Charge (warfare)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2411, 
+                    "end": 2416, 
+                    "score": 0.03890685364603996, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2214, 
+                    "end": 2218, 
+                    "score": 0.0007643807912245393, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 22546, 
+            "wiki_title": "Orgasm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2337, 
+                    "end": 2345, 
+                    "score": 0.15117362141609192, 
+                    "spot": "American"
+                }, 
+                {
+                    "begin": 2478, 
+                    "end": 2486, 
+                    "score": 0.08863694965839386, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 522, 
+                    "end": 532, 
+                    "score": 0.08378349244594574, 
+                    "spot": "identified"
+                }
+            ], 
+            "wiki_id": 162025, 
+            "wiki_title": "Gender identity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1149, 
+                    "end": 1155, 
+                    "score": 0.13381360471248627, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 19630739, 
+            "wiki_title": "Continent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1203, 
+                    "end": 1210, 
+                    "score": 0.2422945499420166, 
+                    "spot": "attacks"
+                }, 
+                {
+                    "begin": 2652, 
+                    "end": 2659, 
+                    "score": 0.2740384340286255, 
+                    "spot": "attacks"
+                }, 
+                {
+                    "begin": 2866, 
+                    "end": 2873, 
+                    "score": 0.13602744042873383, 
+                    "spot": "attacks"
+                }
+            ], 
+            "wiki_id": 7295983, 
+            "wiki_title": "Battle of Karameh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 563, 
+                    "end": 566, 
+                    "score": 0.08576272428035736, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 18912922, 
+            "wiki_title": "Closeted"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 77, 
+                    "score": 0.1648833453655243, 
+                    "spot": "threatening to kill"
+                }
+            ], 
+            "wiki_id": 13262036, 
+            "wiki_title": "Death threat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 438, 
+                    "end": 447, 
+                    "score": 0.0013984648976475, 
+                    "spot": "his house"
+                }
+            ], 
+            "wiki_id": 27735697, 
+            "wiki_title": "William Whitney House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 812, 
+                    "end": 827, 
+                    "score": 0.09366654604673386, 
+                    "spot": "U.S. government"
+                }, 
+                {
+                    "begin": 906, 
+                    "end": 916, 
+                    "score": 0.15295614302158356, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 2705, 
+                    "end": 2724, 
+                    "score": 0.11313451826572418, 
+                    "spot": "U.S. administration"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 549, 
+                    "end": 554, 
+                    "score": 0.09844794124364853, 
+                    "spot": "squad"
+                }
+            ], 
+            "wiki_id": 2758862, 
+            "wiki_title": "The Squad (Irish Republican Army unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1857, 
+                    "end": 1862, 
+                    "score": 0.0007717565167695284, 
+                    "spot": "aware"
+                }
+            ], 
+            "wiki_id": 491696, 
+            "wiki_title": "Awareness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1401, 
+                    "end": 1408, 
+                    "score": 0.0010108217829838395, 
+                    "spot": "guarded"
+                }
+            ], 
+            "wiki_id": 6206149, 
+            "wiki_title": "Guarded"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2741, 
+                    "end": 2757, 
+                    "score": 0.006000000052154064, 
+                    "spot": "full cooperation"
+                }
+            ], 
+            "wiki_id": 30305255, 
+            "wiki_title": "Full Cooperation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 134, 
+                    "end": 141, 
+                    "score": 0.01874808594584465, 
+                    "spot": "targets"
+                }
+            ], 
+            "wiki_id": 3050114, 
+            "wiki_title": "Targeting (warfare)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1590, 
+                    "end": 1598, 
+                    "score": 0.08279763162136078, 
+                    "spot": "produced"
+                }
+            ], 
+            "wiki_id": 2417230, 
+            "wiki_title": "Sound recording and reproduction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1045, 
+                    "end": 1054, 
+                    "score": 0.1389320194721222, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1409, 
+                    "end": 1414, 
+                    "score": 0.023528549820184708, 
+                    "spot": "villa"
+                }
+            ], 
+            "wiki_id": 42173, 
+            "wiki_title": "Aston Villa F.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 788, 
+                    "end": 797, 
+                    "score": 0.1557169258594513, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1850, 
+                    "end": 1853, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 769, 
+                    "end": 783, 
+                    "score": 0.021276595070958138, 
+                    "spot": "threat to kill"
+                }
+            ], 
+            "wiki_id": 2722912, 
+            "wiki_title": "Offences against the Person Act 1861"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1303, 
+                    "end": 1311, 
+                    "score": 0.04464031755924225, 
+                    "spot": "contacts"
+                }
+            ], 
+            "wiki_id": 15559466, 
+            "wiki_title": "Outlook.com"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 301, 
+                    "end": 308, 
+                    "score": 0.03836140036582947, 
+                    "spot": "alleged"
+                }
+            ], 
+            "wiki_id": 7177045, 
+            "wiki_title": "Alleged (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 78, 
+                    "end": 81, 
+                    "score": 0.3565843403339386, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 263, 
+                    "end": 266, 
+                    "score": 0.30152735114097595, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 368, 
+                    "end": 371, 
+                    "score": 0.2698019742965698, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 624, 
+                    "end": 627, 
+                    "score": 0.4041198194026947, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 715, 
+                    "end": 748, 
+                    "score": 0.5, 
+                    "spot": "Palestine Liberation Organization"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 787, 
+                    "score": 0.3815770149230957, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 841, 
+                    "end": 844, 
+                    "score": 0.45296597480773926, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 1041, 
+                    "end": 1044, 
+                    "score": 0.3515235185623169, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 1199, 
+                    "end": 1202, 
+                    "score": 0.501284658908844, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 1520, 
+                    "end": 1523, 
+                    "score": 0.2698019742965698, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 2245, 
+                    "end": 2248, 
+                    "score": 0.30930444598197937, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 2623, 
+                    "end": 2626, 
+                    "score": 0.404666543006897, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 2841, 
+                    "end": 2844, 
+                    "score": 0.2698019742965698, 
+                    "spot": "PLO"
+                }, 
+                {
+                    "begin": 2924, 
+                    "end": 2927, 
+                    "score": 0.5018945932388306, 
+                    "spot": "PLO"
+                }
+            ], 
+            "wiki_id": 24324, 
+            "wiki_title": "Palestine Liberation Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 442, 
+                    "end": 447, 
+                    "score": 0.00605366937816143, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 13590, 
+            "wiki_title": "House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1928, 
+                    "end": 1935, 
+                    "score": 0.02442494034767151, 
+                    "spot": "circles"
+                }
+            ], 
+            "wiki_id": 184757, 
+            "wiki_title": "Traffic circle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 430, 
+                    "end": 434, 
+                    "score": 0.017005300149321556, 
+                    "spot": "raid"
+                }
+            ], 
+            "wiki_id": 5053719, 
+            "wiki_title": "Police raid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 396, 
+                    "end": 401, 
+                    "score": 0.1367989033460617, 
+                    "spot": "Wazir"
+                }
+            ], 
+            "wiki_id": 242409, 
+            "wiki_title": "Vizier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1465, 
+                    "end": 1473, 
+                    "score": 0.0007624064455740154, 
+                    "spot": "deployed"
+                }
+            ], 
+            "wiki_id": 3758871, 
+            "wiki_title": "Military deployment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1030, 
+                    "end": 1040, 
+                    "score": 0.005491473712027073, 
+                    "spot": "threatened"
+                }
+            ], 
+            "wiki_id": 478706, 
+            "wiki_title": "Threatened species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1576, 
+                    "end": 1582, 
+                    "score": 0.16895876824855804, 
+                    "spot": "threat"
+                }
+            ], 
+            "wiki_id": 6512, 
+            "wiki_title": "Coercion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 936, 
+                    "end": 964, 
+                    "score": 0.35575369000434875, 
+                    "spot": "Assistant Secretary of State"
+                }
+            ], 
+            "wiki_id": 2646955, 
+            "wiki_title": "United States Assistant Secretary of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1094, 
+                    "end": 1100, 
+                    "score": 0.1827453076839447, 
+                    "spot": "Redman"
+                }
+            ], 
+            "wiki_id": 6653612, 
+            "wiki_title": "John Redman (physician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2928, 
+                    "end": 2935, 
+                    "score": 0.22025050222873688, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 804036, 
+            "wiki_title": "Caliphate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2465, 
+                    "end": 2474, 
+                    "score": 0.002396548865363002, 
+                    "spot": "targeting"
+                }
+            ], 
+            "wiki_id": 15383885, 
+            "wiki_title": "Target market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2311, 
+                    "end": 2320, 
+                    "score": 0.24692079424858093, 
+                    "spot": "terrorist"
+                }, 
+                {
+                    "begin": 2311, 
+                    "end": 2328, 
+                    "score": 0.32695460319519043, 
+                    "spot": "terrorist attacks"
+                }, 
+                {
+                    "begin": 2801, 
+                    "end": 2810, 
+                    "score": 0.34370556473731995, 
+                    "spot": "terrorist"
+                }, 
+                {
+                    "begin": 2801, 
+                    "end": 2818, 
+                    "score": 0.3574288487434387, 
+                    "spot": "terrorist attacks"
+                }
+            ], 
+            "wiki_id": 30636, 
+            "wiki_title": "Terrorism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1133, 
+                    "end": 1141, 
+                    "score": 0.2526671290397644, 
+                    "spot": "in touch"
+                }, 
+                {
+                    "begin": 1136, 
+                    "end": 1141, 
+                    "score": 0.13832521438598633, 
+                    "spot": "touch"
+                }
+            ], 
+            "wiki_id": 30820095, 
+            "wiki_title": "In Touch (radio series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 73, 
+                    "end": 77, 
+                    "score": 0.21763867139816284, 
+                    "spot": "kill"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2406, 
+                    "end": 2410, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2270, 
+                    "end": 2273, 
+                    "score": 0.1025553047657013, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 39250431, 
+            "wiki_title": "Deaths in May 2013"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1370, 
+                    "end": 1385, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 882, 
+                    "end": 889, 
+                    "score": 0.0013071733992546797, 
+                    "spot": "refused"
+                }
+            ], 
+            "wiki_id": 599741, 
+            "wiki_title": "Refused"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2831, 
+                    "end": 2836, 
+                    "score": 0.10426180809736252, 
+                    "spot": "blame"
+                }
+            ], 
+            "wiki_id": 319888, 
+            "wiki_title": "Blame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2767, 
+                    "end": 2775, 
+                    "score": 0.1257191151380539, 
+                    "spot": "Israelis"
+                }
+            ], 
+            "wiki_id": 181296, 
+            "wiki_title": "Israelis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1433, 
+                    "end": 1438, 
+                    "score": 0.006360221654176712, 
+                    "spot": "extra"
+                }
+            ], 
+            "wiki_id": 2382357, 
+            "wiki_title": "Extra (TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2874, 
+                    "end": 2878, 
+                    "score": 0.13558368384838104, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 469, 
+                    "end": 476, 
+                    "score": 0.31200259923934937, 
+                    "spot": "Israeli"
+                }, 
+                {
+                    "begin": 541, 
+                    "end": 548, 
+                    "score": 0.09733408689498901, 
+                    "spot": "Israeli"
+                }
+            ], 
+            "wiki_id": 9282173, 
+            "wiki_title": "Israel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2301, 
+                    "end": 2307, 
+                    "score": 0.07654018700122833, 
+                    "spot": "series"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1507, 
+                    "end": 1516, 
+                    "score": 0.07314056903123856, 
+                    "spot": "augmented"
+                }
+            ], 
+            "wiki_id": 85631, 
+            "wiki_title": "Augmented reality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1776, 
+                    "end": 1783, 
+                    "score": 0.15674984455108643, 
+                    "spot": "English"
+                }
+            ], 
+            "wiki_id": 18974570, 
+            "wiki_title": "English studies"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 17, 
+                    "score": 0.5, 
+                    "spot": "Yasser Arafat"
+                }, 
+                {
+                    "begin": 703, 
+                    "end": 709, 
+                    "score": 0.46020615100860596, 
+                    "spot": "Arafat"
+                }, 
+                {
+                    "begin": 987, 
+                    "end": 993, 
+                    "score": 0.0646287351846695, 
+                    "spot": "Arafat"
+                }, 
+                {
+                    "begin": 1270, 
+                    "end": 1276, 
+                    "score": 0.18518845736980438, 
+                    "spot": "Arafat"
+                }, 
+                {
+                    "begin": 1352, 
+                    "end": 1358, 
+                    "score": 0.12779274582862854, 
+                    "spot": "Arafat"
+                }, 
+                {
+                    "begin": 2256, 
+                    "end": 2269, 
+                    "score": 0.663702130317688, 
+                    "spot": "Yasser Arafat"
+                }, 
+                {
+                    "begin": 2666, 
+                    "end": 2672, 
+                    "score": 0.3175249993801117, 
+                    "spot": "Arafat"
+                }
+            ], 
+            "wiki_id": 34289, 
+            "wiki_title": "Yasser Arafat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2895, 
+                    "end": 2902, 
+                    "score": 0.23209448158740997, 
+                    "spot": "justify"
+                }
+            ], 
+            "wiki_id": 394048, 
+            "wiki_title": "Justification (jurisprudence)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2790, 
+                    "end": 2797, 
+                    "score": 0.2564331591129303, 
+                    "spot": "crusade"
+                }
+            ], 
+            "wiki_id": 4412145, 
+            "wiki_title": "Crusades"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1696, 
+                    "end": 1708, 
+                    "score": 0.01054882351309061, 
+                    "spot": "CONFIDENTIAL"
+                }
+            ], 
+            "wiki_id": 353859, 
+            "wiki_title": "Confidentiality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 460, 
+                    "end": 467, 
+                    "score": 0.693139910697937, 
+                    "spot": "Tunisia"
+                }
+            ], 
+            "wiki_id": 30188, 
+            "wiki_title": "Tunisia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1983, 
+                    "end": 1996, 
+                    "score": 0.1964263617992401, 
+                    "spot": "assassination"
+                }
+            ], 
+            "wiki_id": 3676478, 
+            "wiki_title": "Assassination of Yitzhak Rabin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1543, 
+                    "end": 1553, 
+                    "score": 0.21196533739566803, 
+                    "spot": "Arab\nworld"
+                }
+            ], 
+            "wiki_id": 159433, 
+            "wiki_title": "Arab world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2091, 
+                    "end": 2094, 
+                    "score": 0.100153349339962, 
+                    "spot": "act"
+                }
+            ], 
+            "wiki_id": 74746, 
+            "wiki_title": "Act of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1279, 
+                    "end": 1293, 
+                    "score": 0.06310183554887772, 
+                    "spot": "interpretation"
+                }
+            ], 
+            "wiki_id": 455461, 
+            "wiki_title": "Tafsir"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1711, 
+                    "end": 1718, 
+                    "score": 0.004788306541740894, 
+                    "spot": "stamped"
+                }
+            ], 
+            "wiki_id": 4841771, 
+            "wiki_title": "Stamping (metalworking)"
+        }
+    ]
+}

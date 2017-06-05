@@ -1,0 +1,4690 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1668, 
+                    "end": 1671, 
+                    "score": 0.17736512422561646, 
+                    "spot": "woo"
+                }
+            ], 
+            "wiki_id": 99312, 
+            "wiki_title": "Worcester, Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2503, 
+                    "end": 2515, 
+                    "score": 0.30331820249557495, 
+                    "spot": "Organization"
+                }, 
+                {
+                    "begin": 2530, 
+                    "end": 2539, 
+                    "score": 0.2735748589038849, 
+                    "spot": "Syndicate"
+                }, 
+                {
+                    "begin": 2774, 
+                    "end": 2783, 
+                    "score": 0.2314203530550003, 
+                    "spot": "Syndicate"
+                }, 
+                {
+                    "begin": 3549, 
+                    "end": 3558, 
+                    "score": 0.12753790616989136, 
+                    "spot": "Syndicate"
+                }
+            ], 
+            "wiki_id": 22625, 
+            "wiki_title": "Organized crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2111, 
+                    "end": 2129, 
+                    "score": 0.4285714328289032, 
+                    "spot": "image\" advertising"
+                }
+            ], 
+            "wiki_id": 27601152, 
+            "wiki_title": "In-image advertising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 504, 
+                    "end": 511, 
+                    "score": 0.21489223837852478, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 949880, 
+            "wiki_title": "Long and short scales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1236, 
+                    "score": 0.0006724384147673845, 
+                    "spot": "Figures"
+                }
+            ], 
+            "wiki_id": 2047389, 
+            "wiki_title": "Bowling analysis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6298, 
+                    "end": 6302, 
+                    "score": 0.002488526050001383, 
+                    "spot": "weak"
+                }
+            ], 
+            "wiki_id": 34251640, 
+            "wiki_title": "Acid strength"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6099, 
+                    "end": 6108, 
+                    "score": 0.0005668155499733984, 
+                    "spot": "Meanwhile"
+                }
+            ], 
+            "wiki_id": 7052969, 
+            "wiki_title": "...Meanwhile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3170, 
+                    "end": 3173, 
+                    "score": 0.01689617708325386, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 4243, 
+            "wiki_title": "Boxing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6569, 
+                    "end": 6581, 
+                    "score": 0.08917954564094543, 
+                    "spot": "High Council"
+                }
+            ], 
+            "wiki_id": 16379, 
+            "wiki_title": "Jedi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1627, 
+                    "end": 1635, 
+                    "score": 0.1492043435573578, 
+                    "spot": "Chairman"
+                }, 
+                {
+                    "begin": 4830, 
+                    "end": 4838, 
+                    "score": 0.061839304864406586, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3022, 
+                    "end": 3029, 
+                    "score": 0.0329013429582119, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 5686, 
+                    "end": 5692, 
+                    "score": 0.14092707633972168, 
+                    "spot": "dealer"
+                }
+            ], 
+            "wiki_id": 2562877, 
+            "wiki_title": "Car dealership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 105, 
+                    "end": 136, 
+                    "score": 0.5, 
+                    "spot": "De Beers Consolidated Mines Ltd"
+                }, 
+                {
+                    "begin": 357, 
+                    "end": 365, 
+                    "score": 0.5111981630325317, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 572, 
+                    "end": 580, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 833, 
+                    "end": 841, 
+                    "score": 0.5110164880752563, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 868, 
+                    "end": 876, 
+                    "score": 0.5290856957435608, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 1055, 
+                    "end": 1063, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 1272, 
+                    "end": 1280, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 1618, 
+                    "end": 1626, 
+                    "score": 0.5068576335906982, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 1897, 
+                    "end": 1905, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2039, 
+                    "end": 2047, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2236, 
+                    "end": 2244, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2476, 
+                    "end": 2484, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2696, 
+                    "end": 2704, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2812, 
+                    "end": 2820, 
+                    "score": 0.5661619305610657, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 2986, 
+                    "end": 2994, 
+                    "score": 0.47345471382141113, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 3252, 
+                    "end": 3260, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 3317, 
+                    "end": 3325, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 3675, 
+                    "end": 3683, 
+                    "score": 0.7115554809570312, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 3817, 
+                    "end": 3825, 
+                    "score": 0.5649663805961609, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 3949, 
+                    "end": 3957, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 4442, 
+                    "end": 4450, 
+                    "score": 0.6264313459396362, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 4780, 
+                    "end": 4788, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 4998, 
+                    "end": 5006, 
+                    "score": 0.6482762694358826, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 5195, 
+                    "end": 5203, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 5782, 
+                    "end": 5790, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 6034, 
+                    "end": 6042, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 6159, 
+                    "end": 6167, 
+                    "score": 0.4579918086528778, 
+                    "spot": "De Beers"
+                }, 
+                {
+                    "begin": 6473, 
+                    "end": 6481, 
+                    "score": 0.6329147815704346, 
+                    "spot": "De Beers"
+                }
+            ], 
+            "wiki_id": 53713, 
+            "wiki_title": "De Beers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4243, 
+                    "end": 4249, 
+                    "score": 0.14745739102363586, 
+                    "spot": "market"
+                }
+            ], 
+            "wiki_id": 9801859, 
+            "wiki_title": "Market (place)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4855, 
+                    "end": 4858, 
+                    "score": 0.15654776990413666, 
+                    "spot": "Ltd"
+                }
+            ], 
+            "wiki_id": 30862930, 
+            "wiki_title": "Private company limited by shares"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1528, 
+                    "end": 1536, 
+                    "score": 0.1253126710653305, 
+                    "spot": "Thompson"
+                }
+            ], 
+            "wiki_id": 553222, 
+            "wiki_title": "Fred Thompson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2874, 
+                    "end": 2884, 
+                    "score": 0.1512090414762497, 
+                    "spot": "controlled"
+                }
+            ], 
+            "wiki_id": 50465, 
+            "wiki_title": "Democratic Republic of Afghanistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5126, 
+                    "end": 5135, 
+                    "score": 0.16365587711334229, 
+                    "spot": "knowledge"
+                }
+            ], 
+            "wiki_id": 243391, 
+            "wiki_title": "Knowledge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1803, 
+                    "end": 1809, 
+                    "score": 0.1503058671951294, 
+                    "spot": "retail"
+                }
+            ], 
+            "wiki_id": 183515, 
+            "wiki_title": "Retail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3832, 
+                    "end": 3842, 
+                    "score": 0.002844093833118677, 
+                    "spot": "aggressive"
+                }
+            ], 
+            "wiki_id": 58687, 
+            "wiki_title": "Aggression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 739, 
+                    "end": 747, 
+                    "score": 0.12191540002822876, 
+                    "spot": "business"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5142, 
+                    "end": 5147, 
+                    "score": 0.10089975595474243, 
+                    "spot": "final"
+                }
+            ], 
+            "wiki_id": 44911, 
+            "wiki_title": "Syllable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3587, 
+                    "end": 3589, 
+                    "score": 0.0007055374444462359, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 35486929, 
+            "wiki_title": "D.O. (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 464, 
+                    "end": 469, 
+                    "score": 0.048284802585840225, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6660, 
+                    "end": 6671, 
+                    "score": 0.0164051353931427, 
+                    "spot": "says. \n\"You"
+                }
+            ], 
+            "wiki_id": 347226, 
+            "wiki_title": "Says You!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5865, 
+                    "end": 5874, 
+                    "score": 0.2959868907928467, 
+                    "spot": "collapsed"
+                }
+            ], 
+            "wiki_id": 10062100, 
+            "wiki_title": "Subprime mortgage crisis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5434, 
+                    "end": 5448, 
+                    "score": 0.06728336215019226, 
+                    "spot": "Recent history"
+                }
+            ], 
+            "wiki_id": 10689543, 
+            "wiki_title": "Contemporary history"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6501, 
+                    "end": 6511, 
+                    "score": 0.0037387132178992033, 
+                    "spot": "everywhere"
+                }
+            ], 
+            "wiki_id": 2472432, 
+            "wiki_title": "Everywhere (Michelle Branch song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2724, 
+                    "end": 2732, 
+                    "score": 0.017757009714841843, 
+                    "spot": "acrimony"
+                }
+            ], 
+            "wiki_id": 10000383, 
+            "wiki_title": "Acrimony"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6237, 
+                    "end": 6242, 
+                    "score": 0.1192052811384201, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 261177, 
+            "wiki_title": "Craft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5693, 
+                    "end": 5705, 
+                    "score": 0.20615744590759277, 
+                    "spot": "bankruptcies"
+                }
+            ], 
+            "wiki_id": 4695, 
+            "wiki_title": "Bankruptcy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4580, 
+                    "end": 4584, 
+                    "score": 0.08885867148637772, 
+                    "spot": "left"
+                }, 
+                {
+                    "begin": 5575, 
+                    "end": 5579, 
+                    "score": 0.11114369332790375, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 190, 
+                    "end": 195, 
+                    "score": 0.17183874547481537, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1086, 
+                    "end": 1091, 
+                    "score": 0.17041067779064178, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1755, 
+                    "end": 1760, 
+                    "score": 0.12659816443920135, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 4045, 
+                    "end": 4050, 
+                    "score": 0.044184330850839615, 
+                    "spot": "World"
+                }, 
+                {
+                    "begin": 5553, 
+                    "end": 5558, 
+                    "score": 0.16327863931655884, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 6624, 
+                    "end": 6629, 
+                    "score": 0.12824764847755432, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5849, 
+                    "end": 5856, 
+                    "score": 0.11771409958600998, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 6225, 
+                    "end": 6232, 
+                    "score": 0.20455795526504517, 
+                    "spot": "Dealers"
+                }
+            ], 
+            "wiki_id": 373060, 
+            "wiki_title": "Broker-dealer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5375, 
+                    "end": 5378, 
+                    "score": 0.16477306187152863, 
+                    "spot": "ban"
+                }
+            ], 
+            "wiki_id": 843486, 
+            "wiki_title": "Ban (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2370, 
+                    "end": 2373, 
+                    "score": 0.1736934632062912, 
+                    "spot": "Now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2155, 
+                    "end": 2163, 
+                    "score": 0.13902439177036285, 
+                    "spot": "mystique"
+                }
+            ], 
+            "wiki_id": 237080, 
+            "wiki_title": "Mystique (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5163, 
+                    "end": 5171, 
+                    "score": 0.08572490513324738, 
+                    "spot": "material"
+                }
+            ], 
+            "wiki_id": 216167, 
+            "wiki_title": "Raw material"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1482, 
+                    "end": 1501, 
+                    "score": 0.5, 
+                    "spot": "N.W. Ayer &amp; Son"
+                }
+            ], 
+            "wiki_id": 1610296, 
+            "wiki_title": "N. W. Ayer &amp; Son"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2685, 
+                    "end": 2694, 
+                    "score": 0.08458083868026733, 
+                    "spot": "middleman"
+                }
+            ], 
+            "wiki_id": 63103, 
+            "wiki_title": "Wholesale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2175, 
+                    "end": 2183, 
+                    "score": 0.038373708724975586, 
+                    "spot": "diamonds"
+                }
+            ], 
+            "wiki_id": 26610546, 
+            "wiki_title": "Australia national netball team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 698, 
+                    "end": 711, 
+                    "score": 0.002752293599769473, 
+                    "spot": "indispensable"
+                }
+            ], 
+            "wiki_id": 35784538, 
+            "wiki_title": "Indispensable (1791 ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 212, 
+                    "end": 218, 
+                    "score": 0.21456578373908997, 
+                    "spot": "market"
+                }, 
+                {
+                    "begin": 1769, 
+                    "end": 1775, 
+                    "score": 0.08580916374921799, 
+                    "spot": "market"
+                }, 
+                {
+                    "begin": 3527, 
+                    "end": 3533, 
+                    "score": 0.14849528670310974, 
+                    "spot": "market"
+                }, 
+                {
+                    "begin": 5037, 
+                    "end": 5043, 
+                    "score": 0.09657958149909973, 
+                    "spot": "market"
+                }, 
+                {
+                    "begin": 6638, 
+                    "end": 6645, 
+                    "score": 0.153056800365448, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 3736784, 
+            "wiki_title": "Market (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1692, 
+                    "end": 1695, 
+                    "score": 0.023153705522418022, 
+                    "spot": "buy"
+                }, 
+                {
+                    "begin": 3247, 
+                    "end": 3250, 
+                    "score": 0.0006350859184749424, 
+                    "spot": "buy"
+                }
+            ], 
+            "wiki_id": 21431937, 
+            "wiki_title": "Glossary of poker terms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4558, 
+                    "end": 4562, 
+                    "score": 0.030761322006583214, 
+                    "spot": "keep"
+                }
+            ], 
+            "wiki_id": 957422, 
+            "wiki_title": "Keep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1301, 
+                    "end": 1307, 
+                    "score": 0.2185768187046051, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 414743, 
+            "wiki_title": "Recording"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5317, 
+                    "end": 5340, 
+                    "score": 0.16515152156352997, 
+                    "spot": "International sanctions"
+                }
+            ], 
+            "wiki_id": 39411680, 
+            "wiki_title": "International sanctions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2788, 
+                    "end": 2796, 
+                    "score": 0.14069928228855133, 
+                    "spot": "purchase"
+                }
+            ], 
+            "wiki_id": 1313172, 
+            "wiki_title": "Purchasing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4463, 
+                    "end": 4474, 
+                    "score": 0.07004095613956451, 
+                    "spot": "arrangement"
+                }
+            ], 
+            "wiki_id": 5551154, 
+            "wiki_title": "The Arrangement (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5828, 
+                    "end": 5836, 
+                    "score": 0.18083985149860382, 
+                    "spot": "polished"
+                }
+            ], 
+            "wiki_id": 220464, 
+            "wiki_title": "Polishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3873, 
+                    "end": 3885, 
+                    "score": 0.21844922006130219, 
+                    "spot": "organization"
+                }
+            ], 
+            "wiki_id": 105070, 
+            "wiki_title": "Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6647, 
+                    "end": 6649, 
+                    "score": 0.07190512865781784, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 687, 
+                    "end": 693, 
+                    "score": 0.09052476286888123, 
+                    "spot": "muscle"
+                }
+            ], 
+            "wiki_id": 19723734, 
+            "wiki_title": "Muscle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6203, 
+                    "end": 6211, 
+                    "score": 0.13652443885803223, 
+                    "spot": "economic"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4734, 
+                    "end": 4741, 
+                    "score": 0.16136860847473145, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 497639, 
+            "wiki_title": "Control (Janet Jackson album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1848, 
+                    "end": 1853, 
+                    "score": 0.24082961678504944, 
+                    "spot": "share"
+                }
+            ], 
+            "wiki_id": 867877, 
+            "wiki_title": "Share (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6020, 
+                    "end": 6026, 
+                    "score": 0.0007853403221815825, 
+                    "spot": "shrewd"
+                }
+            ], 
+            "wiki_id": 23963758, 
+            "wiki_title": "Shrewd cardinal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6303, 
+                    "end": 6309, 
+                    "score": 0.021553467959165573, 
+                    "spot": "dollar"
+                }
+            ], 
+            "wiki_id": 161585, 
+            "wiki_title": "New Zealand dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1337, 
+                    "end": 1343, 
+                    "score": 0.00465810252353549, 
+                    "spot": "covers"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1473, 
+                    "end": 1481, 
+                    "score": 0.15156354010105133, 
+                    "spot": "agencies"
+                }
+            ], 
+            "wiki_id": 445800, 
+            "wiki_title": "Advertising agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1400, 
+                    "end": 1416, 
+                    "score": 0.2087138593196869, 
+                    "spot": "public-relations"
+                }
+            ], 
+            "wiki_id": 24389, 
+            "wiki_title": "Public relations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1660, 
+                    "end": 1664, 
+                    "score": 0.23336853086948395, 
+                    "spot": "Ayer"
+                }
+            ], 
+            "wiki_id": 28033879, 
+            "wiki_title": "Ayer, Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1521, 
+                    "end": 1536, 
+                    "score": 0.030249109491705894, 
+                    "spot": "Walter Thompson"
+                }
+            ], 
+            "wiki_id": 31350168, 
+            "wiki_title": "Walter Thompson (composer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5923, 
+                    "end": 5930, 
+                    "score": 0.16611137986183167, 
+                    "spot": "tumbled"
+                }
+            ], 
+            "wiki_id": 418119, 
+            "wiki_title": "Tumble finishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 908, 
+                    "end": 917, 
+                    "score": 0.19481536746025085, 
+                    "spot": "promotion"
+                }, 
+                {
+                    "begin": 1318, 
+                    "end": 1329, 
+                    "score": 0.19641025364398956, 
+                    "spot": "promotional"
+                }, 
+                {
+                    "begin": 2261, 
+                    "end": 2272, 
+                    "score": 0.184059739112854, 
+                    "spot": "promotional"
+                }
+            ], 
+            "wiki_id": 1752402, 
+            "wiki_title": "Promotion (marketing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3960, 
+                    "end": 3966, 
+                    "score": 0.08083327859640121, 
+                    "spot": "future"
+                }
+            ], 
+            "wiki_id": 866949, 
+            "wiki_title": "Future plc"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4563, 
+                    "end": 4570, 
+                    "score": 0.1675904542207718, 
+                    "spot": "in line"
+                }, 
+                {
+                    "begin": 4566, 
+                    "end": 4570, 
+                    "score": 0.16894878447055817, 
+                    "spot": "line"
+                }
+            ], 
+            "wiki_id": 197982, 
+            "wiki_title": "Straight engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3707, 
+                    "end": 3718, 
+                    "score": 0.04703940823674202, 
+                    "spot": "influencing"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3805, 
+                    "end": 3811, 
+                    "score": 0.041095852851867676, 
+                    "spot": "forget"
+                }
+            ], 
+            "wiki_id": 44076597, 
+            "wiki_title": "Froot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2385, 
+                    "end": 2387, 
+                    "score": 0.057060010731220245, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 28722704, 
+            "wiki_title": "D\u014d (architecture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 446, 
+                    "end": 455, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }, 
+                {
+                    "begin": 4596, 
+                    "end": 4605, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6246, 
+                    "end": 6253, 
+                    "score": 0.09411174058914185, 
+                    "spot": "buoyant"
+                }
+            ], 
+            "wiki_id": 245982, 
+            "wiki_title": "Buoyancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 157, 
+                    "end": 164, 
+                    "score": 0.09480709582567215, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 4080078, 
+            "wiki_title": "Worry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5067, 
+                    "end": 5070, 
+                    "score": 0.0008345537935383618, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 298884, 
+            "wiki_title": "South Korean won"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 814, 
+                    "end": 821, 
+                    "score": 0.040351372212171555, 
+                    "spot": "Stephen"
+                }
+            ], 
+            "wiki_id": 26954, 
+            "wiki_title": "Stephen King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6519, 
+                    "end": 6525, 
+                    "score": 0.0052285208366811275, 
+                    "spot": "Alfred"
+                }
+            ], 
+            "wiki_id": 345573, 
+            "wiki_title": "Alfred University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4800, 
+                    "end": 4809, 
+                    "score": 0.050599098205566406, 
+                    "spot": "evolution"
+                }
+            ], 
+            "wiki_id": 899255, 
+            "wiki_title": "Evolution (2001 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5647, 
+                    "end": 5663, 
+                    "score": 0.0416666679084301, 
+                    "spot": "speculative boom"
+                }
+            ], 
+            "wiki_id": 139993, 
+            "wiki_title": "Economic bubble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5187, 
+                    "end": 5191, 
+                    "score": 0.0070791104808449745, 
+                    "spot": "fate"
+                }
+            ], 
+            "wiki_id": 469691, 
+            "wiki_title": "Destiny"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2548, 
+                    "end": 2556, 
+                    "score": 0.21440112590789795, 
+                    "spot": "pipeline"
+                }
+            ], 
+            "wiki_id": 51111, 
+            "wiki_title": "Pipeline transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4932, 
+                    "end": 4938, 
+                    "score": 0.10184478759765625, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 39902584, 
+            "wiki_title": "The Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1374, 
+                    "end": 1381, 
+                    "score": 0.1664813607931137, 
+                    "spot": "network"
+                }
+            ], 
+            "wiki_id": 4122592, 
+            "wiki_title": "Computer network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1123, 
+                    "end": 1137, 
+                    "score": 0.033864542841911316, 
+                    "spot": "million pieces"
+                }, 
+                {
+                    "begin": 1182, 
+                    "end": 1196, 
+                    "score": 0.033864542841911316, 
+                    "spot": "million pieces"
+                }
+            ], 
+            "wiki_id": 21364224, 
+            "wiki_title": "In a Million Pieces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3661, 
+                    "end": 3668, 
+                    "score": 0.1315109133720398, 
+                    "spot": "Council"
+                }
+            ], 
+            "wiki_id": 31956, 
+            "wiki_title": "United Nations Security Council"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4959, 
+                    "end": 4965, 
+                    "score": 0.11594163626432419, 
+                    "spot": "member"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 132, 
+                    "score": 0.06172839552164078, 
+                    "spot": "Consolidated Mines"
+                }
+            ], 
+            "wiki_id": 23928455, 
+            "wiki_title": "Consolidated Mines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1344, 
+                    "end": 1359, 
+                    "score": 0.11395855993032455, 
+                    "spot": "market research"
+                }
+            ], 
+            "wiki_id": 240583, 
+            "wiki_title": "Market research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2167, 
+                    "end": 2174, 
+                    "score": 0.0016905732918530703, 
+                    "spot": "quality"
+                }
+            ], 
+            "wiki_id": 9569619, 
+            "wiki_title": "Vapor quality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4658, 
+                    "end": 4663, 
+                    "score": 0.19279183447360992, 
+                    "spot": "South"
+                }
+            ], 
+            "wiki_id": 21566765, 
+            "wiki_title": "South Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2284, 
+                    "end": 2294, 
+                    "score": 0.06222035363316536, 
+                    "spot": "world-wide"
+                }, 
+                {
+                    "begin": 3505, 
+                    "end": 3518, 
+                    "score": 0.13903535902500153, 
+                    "spot": "international"
+                }
+            ], 
+            "wiki_id": 3741372, 
+            "wiki_title": "International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3857, 
+                    "end": 3866, 
+                    "score": 0.18569710850715637, 
+                    "spot": "effective"
+                }
+            ], 
+            "wiki_id": 1982403, 
+            "wiki_title": "Effectiveness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1493, 
+                    "end": 1496, 
+                    "score": 0.11269254237413406, 
+                    "spot": "amp"
+                }
+            ], 
+            "wiki_id": 2455866, 
+            "wiki_title": "Amp Energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5406, 
+                    "end": 5410, 
+                    "score": 0.004736447241157293, 
+                    "spot": "pose"
+                }
+            ], 
+            "wiki_id": 48118543, 
+            "wiki_title": "Anti (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 470, 
+                    "end": 476, 
+                    "score": 0.0007680491544306278, 
+                    "spot": "soared"
+                }, 
+                {
+                    "begin": 4074, 
+                    "end": 4080, 
+                    "score": 0.0007680491544306278, 
+                    "spot": "soared"
+                }
+            ], 
+            "wiki_id": 21389223, 
+            "wiki_title": "Lift (soaring)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4059, 
+                    "end": 4069, 
+                    "score": 0.08118802309036255, 
+                    "spot": "production"
+                }
+            ], 
+            "wiki_id": 13228814, 
+            "wiki_title": "Production (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1733, 
+                    "end": 1738, 
+                    "score": 0.1223485991358757, 
+                    "spot": "Today"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6027, 
+                    "end": 6032, 
+                    "score": 0.09414631873369217, 
+                    "spot": "moves"
+                }
+            ], 
+            "wiki_id": 20580, 
+            "wiki_title": "Motion (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3990, 
+                    "end": 3995, 
+                    "score": 0.08400693535804749, 
+                    "spot": "surge"
+                }
+            ], 
+            "wiki_id": 427819, 
+            "wiki_title": "Pyroclastic surge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3222, 
+                    "end": 3224, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5668, 
+                    "end": 5671, 
+                    "score": 0.1190105527639389, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3338, 
+                    "end": 3353, 
+                    "score": 0.07543103396892548, 
+                    "spot": "price stability"
+                }
+            ], 
+            "wiki_id": 48847, 
+            "wiki_title": "Deflation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5808, 
+                    "end": 5812, 
+                    "score": 0.01914932020008564, 
+                    "spot": "rose"
+                }
+            ], 
+            "wiki_id": 26537, 
+            "wiki_title": "Rose"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5793, 
+                    "end": 5807, 
+                    "score": 0.13235294818878174, 
+                    "spot": "rough diamonds"
+                }
+            ], 
+            "wiki_id": 1833214, 
+            "wiki_title": "Rough Diamonds (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4497, 
+                    "end": 4503, 
+                    "score": 0.3359970152378082, 
+                    "spot": "Moscow"
+                }
+            ], 
+            "wiki_id": 19004, 
+            "wiki_title": "Moscow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 68, 
+                    "end": 73, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "worst"
+                }
+            ], 
+            "wiki_id": 43031240, 
+            "wiki_title": "The Worst (Jhen\u00e9 Aiko song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1509, 
+                    "end": 1512, 
+                    "score": 0.11875497549772263, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 5363, 
+                    "end": 5366, 
+                    "score": 0.1675417423248291, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 291, 
+                    "end": 302, 
+                    "score": 0.013274336233735085, 
+                    "spot": "floundering"
+                }
+            ], 
+            "wiki_id": 17385651, 
+            "wiki_title": "Floundering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4980, 
+                    "end": 4992, 
+                    "score": 0.10296651721000671, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 62450, 
+            "wiki_title": "Independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3622, 
+                    "end": 3637, 
+                    "score": 0.19562682509422302, 
+                    "spot": "chief economist"
+                }
+            ], 
+            "wiki_id": 4941177, 
+            "wiki_title": "Chief economist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3895, 
+                    "end": 3901, 
+                    "score": 0.16971616446971893, 
+                    "spot": "London"
+                }, 
+                {
+                    "begin": 4863, 
+                    "end": 4875, 
+                    "score": 0.07822684943675995, 
+                    "spot": "London-based"
+                }
+            ], 
+            "wiki_id": 17867, 
+            "wiki_title": "London"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 802, 
+                    "end": 806, 
+                    "score": 0.01089137326925993, 
+                    "spot": "ours"
+                }
+            ], 
+            "wiki_id": 2734075, 
+            "wiki_title": "Ours (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6537, 
+                    "end": 6545, 
+                    "score": 0.02807791531085968, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 364458, 
+            "wiki_title": "Chairman of the Joint Chiefs of Staff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4679, 
+                    "end": 4685, 
+                    "score": 0.12391706556081772, 
+                    "spot": "rebels"
+                }
+            ], 
+            "wiki_id": 513246, 
+            "wiki_title": "Rebellion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5294, 
+                    "end": 5301, 
+                    "score": 0.009155643172562122, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3137, 
+                    "end": 3141, 
+                    "score": 0.06309308856725693, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5972, 
+                    "end": 5979, 
+                    "score": 0.106256403028965, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 612, 
+            "wiki_title": "Arithmetic mean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 458, 
+                    "end": 463, 
+                    "score": 0.051690056920051575, 
+                    "spot": "Sales"
+                }, 
+                {
+                    "begin": 616, 
+                    "end": 623, 
+                    "score": 0.13655272126197815, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 4051, 
+                    "end": 4058, 
+                    "score": 0.07415942847728729, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 4457, 
+                    "end": 4462, 
+                    "score": 0.003944521304219961, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 4876, 
+                    "end": 4883, 
+                    "score": 0.06376496702432632, 
+                    "spot": "diamond"
+                }
+            ], 
+            "wiki_id": 308242, 
+            "wiki_title": "Music recording sales certification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3734, 
+                    "end": 3745, 
+                    "score": 0.1514681726694107, 
+                    "spot": "consumption"
+                }
+            ], 
+            "wiki_id": 170522, 
+            "wiki_title": "Consumerism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6118, 
+                    "end": 6124, 
+                    "score": 0.17436951398849487, 
+                    "spot": "demand"
+                }
+            ], 
+            "wiki_id": 4780974, 
+            "wiki_title": "Demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3109, 
+                    "end": 3114, 
+                    "score": 0.2716243267059326, 
+                    "spot": "uncut"
+                }
+            ], 
+            "wiki_id": 2043650, 
+            "wiki_title": "Uncut (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5712, 
+                    "end": 5720, 
+                    "score": 0.21548588573932648, 
+                    "spot": "monopoly"
+                }
+            ], 
+            "wiki_id": 18878, 
+            "wiki_title": "Monopoly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6128, 
+                    "end": 6137, 
+                    "score": 0.16267545521259308, 
+                    "spot": "consumers"
+                }
+            ], 
+            "wiki_id": 7818, 
+            "wiki_title": "Consumer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4432, 
+                    "end": 4439, 
+                    "score": 0.05219445005059242, 
+                    "spot": "unknown"
+                }
+            ], 
+            "wiki_id": 9284, 
+            "wiki_title": "Equation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1417, 
+                    "end": 1426, 
+                    "score": 0.10877687484025955, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3282, 
+                    "end": 3286, 
+                    "score": 0.021814027801156044, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 168041, 
+            "wiki_title": "Anatomical terms of location"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 918, 
+                    "end": 924, 
+                    "score": 0.14401784539222717, 
+                    "spot": "budget"
+                }, 
+                {
+                    "begin": 1330, 
+                    "end": 1336, 
+                    "score": 0.13814674317836761, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 377116, 
+            "wiki_title": "Budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3261, 
+                    "end": 3264, 
+                    "score": 0.12320457398891449, 
+                    "spot": "may"
+                }, 
+                {
+                    "begin": 3967, 
+                    "end": 3970, 
+                    "score": 0.07839308679103851, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 42069, 
+            "wiki_title": "Brian May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5085, 
+                    "end": 5094, 
+                    "score": 0.10136840492486954, 
+                    "spot": "producers"
+                }
+            ], 
+            "wiki_id": 46378861, 
+            "wiki_title": "The Producers (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1672, 
+                    "end": 1680, 
+                    "score": 0.11783015727996826, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 789, 
+                    "end": 793, 
+                    "score": 0.05299168825149536, 
+                    "spot": "sell"
+                }
+            ], 
+            "wiki_id": 600368, 
+            "wiki_title": "Shelf life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2010, 
+                    "end": 2014, 
+                    "score": 0.22351521253585815, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 875871, 
+            "wiki_title": "Bowling average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2970, 
+                    "end": 2979, 
+                    "score": 0.26797640323638916, 
+                    "spot": "Australia"
+                }, 
+                {
+                    "begin": 4033, 
+                    "end": 4042, 
+                    "score": 0.32828354835510254, 
+                    "spot": "Australia"
+                }, 
+                {
+                    "begin": 4299, 
+                    "end": 4308, 
+                    "score": 0.3024500608444214, 
+                    "spot": "Australia"
+                }, 
+                {
+                    "begin": 5593, 
+                    "end": 5602, 
+                    "score": 0.2773221731185913, 
+                    "spot": "Australia"
+                }
+            ], 
+            "wiki_id": 4689264, 
+            "wiki_title": "Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 667, 
+                    "score": 0.14844581484794617, 
+                    "spot": "jewelry industry"
+                }
+            ], 
+            "wiki_id": 3403525, 
+            "wiki_title": "Handmade jewelry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 530, 
+                    "end": 537, 
+                    "score": 0.17871862649917603, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1154, 
+                    "end": 1161, 
+                    "score": 0.09623447060585022, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1211, 
+                    "end": 1218, 
+                    "score": 0.006107270251959562, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1785, 
+                    "end": 1792, 
+                    "score": 0.17899714410305023, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5628, 
+                    "end": 5640, 
+                    "score": 0.058974359184503555, 
+                    "spot": "diamond mine"
+                }
+            ], 
+            "wiki_id": 31791192, 
+            "wiki_title": "Diamond Mine (King Creosote &amp; Jon Hopkins album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5858, 
+                    "end": 5864, 
+                    "score": 0.2930467426776886, 
+                    "spot": "stocks"
+                }
+            ], 
+            "wiki_id": 52328, 
+            "wiki_title": "Stock market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3115, 
+                    "end": 3123, 
+                    "score": 0.10979599505662918, 
+                    "spot": "diamonds"
+                }
+            ], 
+            "wiki_id": 13788545, 
+            "wiki_title": "Diamonds (instrumental)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 143, 
+                    "end": 156, 
+                    "score": 0.03744309023022652, 
+                    "spot": "South African"
+                }
+            ], 
+            "wiki_id": 376115, 
+            "wiki_title": "South Africa national rugby union team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4143, 
+                    "end": 4149, 
+                    "score": 0.14042797684669495, 
+                    "spot": "equals"
+                }
+            ], 
+            "wiki_id": 90446, 
+            "wiki_title": "Equality (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3482, 
+                    "end": 3489, 
+                    "score": 0.06082331761717796, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4842, 
+                    "end": 4845, 
+                    "score": 0.20747822523117065, 
+                    "spot": "IDC"
+                }
+            ], 
+            "wiki_id": 579730, 
+            "wiki_title": "Data center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3080, 
+                    "end": 3086, 
+                    "score": 0.0573146790266037, 
+                    "spot": "dealer"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1080, 
+                    "end": 1085, 
+                    "score": 0.19754129648208618, 
+                    "spot": "raise"
+                }
+            ], 
+            "wiki_id": 917917, 
+            "wiki_title": "Fundraising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2836, 
+                    "end": 2848, 
+                    "score": 0.6330994367599487, 
+                    "spot": "South Africa"
+                }, 
+                {
+                    "begin": 2888, 
+                    "end": 2900, 
+                    "score": 0.5474568605422974, 
+                    "spot": "South Africa"
+                }, 
+                {
+                    "begin": 5205, 
+                    "end": 5217, 
+                    "score": 0.33329635858535767, 
+                    "spot": "South Africa"
+                }
+            ], 
+            "wiki_id": 17416221, 
+            "wiki_title": "South Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5311, 
+                    "end": 5314, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 14282378, 
+            "wiki_title": "Say (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3768, 
+                    "end": 3778, 
+                    "score": 0.07071748375892639, 
+                    "spot": "mesmerized"
+                }
+            ], 
+            "wiki_id": 32387948, 
+            "wiki_title": "Mesmerized (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4729, 
+                    "end": 4741, 
+                    "score": 0.16010639071464539, 
+                    "spot": "more control"
+                }
+            ], 
+            "wiki_id": 2289677, 
+            "wiki_title": "Control: The Remixes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 384, 
+                    "end": 388, 
+                    "score": 0.006652389653027058, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 3049, 
+            "wiki_title": "Autumn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1961, 
+                    "end": 1969, 
+                    "score": 0.06393459439277649, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2094, 
+                    "end": 2101, 
+                    "score": 0.04927390441298485, 
+                    "spot": "General"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2311, 
+                    "end": 2319, 
+                    "score": 0.08892334252595901, 
+                    "spot": "Japanese"
+                }, 
+                {
+                    "begin": 2393, 
+                    "end": 2398, 
+                    "score": 0.3507921099662781, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 6355, 
+                    "end": 6360, 
+                    "score": 0.36519527435302734, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 15573, 
+            "wiki_title": "Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1706, 
+                    "end": 1730, 
+                    "score": 0.1428571492433548, 
+                    "spot": "diamond engagement rings"
+                }, 
+                {
+                    "begin": 1714, 
+                    "end": 1730, 
+                    "score": 0.1960117220878601, 
+                    "spot": "engagement rings"
+                }, 
+                {
+                    "begin": 1980, 
+                    "end": 2004, 
+                    "score": 0.1428571492433548, 
+                    "spot": "diamond engagement rings"
+                }, 
+                {
+                    "begin": 1988, 
+                    "end": 2004, 
+                    "score": 0.0396825410425663, 
+                    "spot": "engagement rings"
+                }, 
+                {
+                    "begin": 2335, 
+                    "end": 2351, 
+                    "score": 0.0396825410425663, 
+                    "spot": "engagement rings"
+                }
+            ], 
+            "wiki_id": 39376, 
+            "wiki_title": "Engagement ring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2018, 
+                    "end": 2025, 
+                    "score": 0.23248369991779327, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 18933273, 
+            "wiki_title": "Batting average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3628, 
+                    "end": 3637, 
+                    "score": 0.30600738525390625, 
+                    "spot": "economist"
+                }
+            ], 
+            "wiki_id": 57349, 
+            "wiki_title": "Economist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4944, 
+                    "end": 4947, 
+                    "score": 0.06804554164409637, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4747, 
+                    "end": 4759, 
+                    "score": 0.09024299681186676, 
+                    "spot": "distribution"
+                }
+            ], 
+            "wiki_id": 239863, 
+            "wiki_title": "Distribution (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2050, 
+                    "end": 2058, 
+                    "score": 0.008931108750402927, 
+                    "spot": "strategy"
+                }
+            ], 
+            "wiki_id": 77251, 
+            "wiki_title": "Real-time strategy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 133, 
+                    "end": 136, 
+                    "score": 0.0018021748401224613, 
+                    "spot": "Ltd"
+                }
+            ], 
+            "wiki_id": 538325, 
+            "wiki_title": "Limited company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3749, 
+                    "end": 3757, 
+                    "score": 0.10490142554044724, 
+                    "spot": "diamonds"
+                }
+            ], 
+            "wiki_id": 37088480, 
+            "wiki_title": "Diamonds (Rihanna song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6212, 
+                    "end": 6218, 
+                    "score": 0.22343763709068298, 
+                    "spot": "trends"
+                }
+            ], 
+            "wiki_id": 63082, 
+            "wiki_title": "Market trend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1246, 
+                    "end": 1250, 
+                    "score": 0.0833333358168602, 
+                    "spot": "aren"
+                }
+            ], 
+            "wiki_id": 13169695, 
+            "wiki_title": "Ar\u00e9n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4535, 
+                    "end": 4538, 
+                    "score": 0.06478248536586761, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1679278, 
+            "wiki_title": "May 2005 in science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5110, 
+                    "end": 5121, 
+                    "score": 0.20910975337028503, 
+                    "spot": "information"
+                }
+            ], 
+            "wiki_id": 18985062, 
+            "wiki_title": "Information"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1454, 
+                    "end": 1465, 
+                    "score": 0.0011656658025458455, 
+                    "spot": "coordinated"
+                }
+            ], 
+            "wiki_id": 7484323, 
+            "wiki_title": "Coordination (linguistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4913, 
+                    "end": 4919, 
+                    "score": 0.22618207335472107, 
+                    "spot": "Guinea"
+                }
+            ], 
+            "wiki_id": 12176, 
+            "wiki_title": "Guinea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6672, 
+                    "end": 6675, 
+                    "score": 0.08811042457818985, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 9331428, 
+            "wiki_title": "Canadian Albums Chart"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 593, 
+                    "end": 601, 
+                    "score": 0.09169112145900726, 
+                    "spot": "comeback"
+                }
+            ], 
+            "wiki_id": 629945, 
+            "wiki_title": "K-pop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2437, 
+                    "end": 2443, 
+                    "score": 0.09986808896064758, 
+                    "spot": "market"
+                }
+            ], 
+            "wiki_id": 48852, 
+            "wiki_title": "Market economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4817, 
+                    "end": 4821, 
+                    "score": 0.008035523816943169, 
+                    "spot": "Jack"
+                }
+            ], 
+            "wiki_id": 2034252, 
+            "wiki_title": "Carangidae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3867, 
+                    "end": 3872, 
+                    "score": 0.22920112311840057, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 5148, 
+                    "end": 5153, 
+                    "score": 0.158088818192482, 
+                    "spot": "sales"
+                }
+            ], 
+            "wiki_id": 7860865, 
+            "wiki_title": "Sales management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 242, 
+                    "end": 287, 
+                    "score": 0.5, 
+                    "spot": "Organization of Petroleum Exporting Countries"
+                }, 
+                {
+                    "begin": 3565, 
+                    "end": 3569, 
+                    "score": 0.6095740795135498, 
+                    "spot": "OPEC"
+                }
+            ], 
+            "wiki_id": 166346, 
+            "wiki_title": "OPEC"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3497, 
+                    "end": 3504, 
+                    "score": 0.13545817136764526, 
+                    "spot": "healthy"
+                }
+            ], 
+            "wiki_id": 80381, 
+            "wiki_title": "Health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1171, 
+                    "end": 1173, 
+                    "score": 0.09078691154718399, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 241026, 
+            "wiki_title": "Up quark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4007, 
+                    "end": 4013, 
+                    "score": 0.07873574644327164, 
+                    "spot": "output"
+                }, 
+                {
+                    "begin": 5567, 
+                    "end": 5573, 
+                    "score": 0.192792147397995, 
+                    "spot": "output"
+                }
+            ], 
+            "wiki_id": 12594, 
+            "wiki_title": "Gross domestic product"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6170, 
+                    "end": 6179, 
+                    "score": 0.012092433869838715, 
+                    "spot": "promotion"
+                }
+            ], 
+            "wiki_id": 648049, 
+            "wiki_title": "Promotion and relegation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3152, 
+                    "end": 3158, 
+                    "score": 0.0014740846818313003, 
+                    "spot": "reject"
+                }
+            ], 
+            "wiki_id": 14746023, 
+            "wiki_title": "Reject (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4259, 
+                    "end": 4266, 
+                    "score": 0.17096048593521118, 
+                    "spot": "flooded"
+                }
+            ], 
+            "wiki_id": 50482, 
+            "wiki_title": "Flood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 731, 
+                    "score": 0.10774612426757812, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 1036, 
+                    "end": 1043, 
+                    "score": 0.5401063561439514, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 1036, 
+                    "end": 1049, 
+                    "score": 0.4340645670890808, 
+                    "spot": "diamond trade"
+                }, 
+                {
+                    "begin": 1101, 
+                    "end": 1108, 
+                    "score": 0.1978859007358551, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 1810, 
+                    "end": 1817, 
+                    "score": 0.2458556592464447, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 2421, 
+                    "end": 2428, 
+                    "score": 0.22889508306980133, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 2565, 
+                    "end": 2572, 
+                    "score": 0.25276535749435425, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 3456, 
+                    "end": 3463, 
+                    "score": 0.18264427781105042, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 3519, 
+                    "end": 3526, 
+                    "score": 0.16548722982406616, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 3653, 
+                    "end": 3660, 
+                    "score": 0.18126948177814484, 
+                    "spot": "Diamond"
+                }, 
+                {
+                    "begin": 3999, 
+                    "end": 4006, 
+                    "score": 0.18923121690750122, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 4193, 
+                    "end": 4201, 
+                    "score": 0.16699273884296417, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 4278, 
+                    "end": 4286, 
+                    "score": 0.1427077353000641, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 4402, 
+                    "end": 4410, 
+                    "score": 0.21825635433197021, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 4515, 
+                    "end": 4523, 
+                    "score": 0.13189643621444702, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 4900, 
+                    "end": 4908, 
+                    "score": 0.17132818698883057, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 5396, 
+                    "end": 5404, 
+                    "score": 0.1340412199497223, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 5559, 
+                    "end": 5566, 
+                    "score": 0.2578698396682739, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 5837, 
+                    "end": 5845, 
+                    "score": 0.1834956854581833, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 5902, 
+                    "end": 5909, 
+                    "score": 0.1660560518503189, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 6088, 
+                    "end": 6096, 
+                    "score": 0.10368621349334717, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 6110, 
+                    "end": 6117, 
+                    "score": 0.2694414258003235, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 6335, 
+                    "end": 6343, 
+                    "score": 0.053078193217515945, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 6416, 
+                    "end": 6424, 
+                    "score": 0.11947277188301086, 
+                    "spot": "diamonds"
+                }, 
+                {
+                    "begin": 6561, 
+                    "end": 6568, 
+                    "score": 0.0932258665561676, 
+                    "spot": "Diamond"
+                }, 
+                {
+                    "begin": 6630, 
+                    "end": 6637, 
+                    "score": 0.14806079864501953, 
+                    "spot": "diamond"
+                }, 
+                {
+                    "begin": 6682, 
+                    "end": 6690, 
+                    "score": 0.1372867226600647, 
+                    "spot": "diamonds"
+                }
+            ], 
+            "wiki_id": 8082, 
+            "wiki_title": "Diamond"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1363, 
+                    "end": 1381, 
+                    "score": 0.20477505028247833, 
+                    "spot": "world-wide network"
+                }
+            ], 
+            "wiki_id": 8501, 
+            "wiki_title": "Distributed computing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3423, 
+                    "end": 3430, 
+                    "score": 0.09194227308034897, 
+                    "spot": "century"
+                }
+            ], 
+            "wiki_id": 182947, 
+            "wiki_title": "Random House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5225, 
+                    "end": 5239, 
+                    "score": 0.022727273404598236, 
+                    "spot": "famous company"
+                }
+            ], 
+            "wiki_id": 168632, 
+            "wiki_title": "Siemens"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 15, 
+                    "score": 0.1644151657819748, 
+                    "spot": "Confounding"
+                }
+            ], 
+            "wiki_id": 3105999, 
+            "wiki_title": "Confounding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4313, 
+                    "end": 4318, 
+                    "score": 0.5296909809112549, 
+                    "spot": "Zaire"
+                }, 
+                {
+                    "begin": 5527, 
+                    "end": 5532, 
+                    "score": 0.44204363226890564, 
+                    "spot": "Zaire"
+                }, 
+                {
+                    "begin": 6050, 
+                    "end": 6055, 
+                    "score": 0.5420597791671753, 
+                    "spot": "Zaire"
+                }
+            ], 
+            "wiki_id": 34421, 
+            "wiki_title": "Zaire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4206, 
+                    "end": 4214, 
+                    "score": 0.03909774124622345, 
+                    "spot": "produced"
+                }
+            ], 
+            "wiki_id": 2417230, 
+            "wiki_title": "Sound recording and reproduction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4014, 
+                    "end": 4023, 
+                    "score": 0.02663412317633629, 
+                    "spot": "elsewhere"
+                }
+            ], 
+            "wiki_id": 42433724, 
+            "wiki_title": "Elsewhere (EP)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6149, 
+                    "end": 6155, 
+                    "score": 0.0010994697222486138, 
+                    "spot": "fueled"
+                }
+            ], 
+            "wiki_id": 23574219, 
+            "wiki_title": "Fueled"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1636, 
+                    "end": 1653, 
+                    "score": 0.4555555582046509, 
+                    "spot": "Harry Oppenheimer"
+                }
+            ], 
+            "wiki_id": 194247, 
+            "wiki_title": "Harry Frederick Oppenheimer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 35, 
+                    "end": 41, 
+                    "score": 0.001936342683620751, 
+                    "spot": "demise"
+                }
+            ], 
+            "wiki_id": 1642270, 
+            "wiki_title": "Demise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3094, 
+                    "end": 3097, 
+                    "score": 0.07828336954116821, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 1734944, 
+            "wiki_title": "Box, Wiltshire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4508, 
+                    "end": 4514, 
+                    "score": 0.029546499252319336, 
+                    "spot": "dumped"
+                }, 
+                {
+                    "begin": 6080, 
+                    "end": 6087, 
+                    "score": 0.10997813194990158, 
+                    "spot": "dumping"
+                }
+            ], 
+            "wiki_id": 249863, 
+            "wiki_title": "Dumping (pricing policy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2616, 
+                    "end": 2623, 
+                    "score": 0.41770148277282715, 
+                    "spot": "Belgium"
+                }
+            ], 
+            "wiki_id": 3343, 
+            "wiki_title": "Belgium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1586, 
+                    "end": 1590, 
+                    "score": 0.0888330340385437, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 585887, 
+            "wiki_title": "Floor plan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6271, 
+                    "end": 6276, 
+                    "score": 0.07407684624195099, 
+                    "spot": "lower"
+                }
+            ], 
+            "wiki_id": 39903086, 
+            "wiki_title": "Working class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2952, 
+                    "end": 2964, 
+                    "score": 0.6013995409011841, 
+                    "spot": "Sierra Leone"
+                }
+            ], 
+            "wiki_id": 27308, 
+            "wiki_title": "Sierra Leone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5246, 
+                    "end": 5252, 
+                    "score": 0.000514304090756923, 
+                    "spot": "depend"
+                }
+            ], 
+            "wiki_id": 47827622, 
+            "wiki_title": "Depend (undergarment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 513, 
+                    "end": 519, 
+                    "score": 0.22071994841098785, 
+                    "spot": "double"
+                }
+            ], 
+            "wiki_id": 26874, 
+            "wiki_title": "Metric prefix"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 557, 
+                    "end": 565, 
+                    "score": 0.09390243887901306, 
+                    "spot": "doldrums"
+                }
+            ], 
+            "wiki_id": 786543, 
+            "wiki_title": "Doldrums"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3033, 
+                    "end": 3038, 
+                    "score": 0.04430196434259415, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6180, 
+                    "end": 6188, 
+                    "score": 0.09817022830247879, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 519775, 
+            "wiki_title": "Political campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2215, 
+                    "end": 2219, 
+                    "score": 0.14364634454250336, 
+                    "spot": "love"
+                }
+            ], 
+            "wiki_id": 285141, 
+            "wiki_title": "Romance (love)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5486, 
+                    "end": 5491, 
+                    "score": 0.0038712306413799524, 
+                    "spot": "hasty"
+                }
+            ], 
+            "wiki_id": 8454740, 
+            "wiki_title": "Hasty, Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3006, 
+                    "end": 3011, 
+                    "score": 0.20319591462612152, 
+                    "spot": "cache"
+                }
+            ], 
+            "wiki_id": 6829, 
+            "wiki_title": "Cache (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3374, 
+                    "end": 3377, 
+                    "score": 0.1044059470295906, 
+                    "spot": "cut"
+                }
+            ], 
+            "wiki_id": 338154, 
+            "wiki_title": "Wound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3298, 
+                    "end": 3304, 
+                    "score": 0.054001957178115845, 
+                    "spot": "ritual"
+                }
+            ], 
+            "wiki_id": 102920, 
+            "wiki_title": "Ritual"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2797, 
+                    "end": 2806, 
+                    "score": 0.12824180722236633, 
+                    "spot": "contracts"
+                }
+            ], 
+            "wiki_id": 19280537, 
+            "wiki_title": "Contract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 82, 
+                    "end": 87, 
+                    "score": 0.09394542872905731, 
+                    "spot": "slump"
+                }
+            ], 
+            "wiki_id": 25382, 
+            "wiki_title": "Recession"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2853, 
+                    "end": 2860, 
+                    "score": 0.6825442314147949, 
+                    "spot": "Namibia"
+                }
+            ], 
+            "wiki_id": 21292, 
+            "wiki_title": "Namibia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 268, 
+                    "end": 277, 
+                    "score": 0.12337499856948853, 
+                    "spot": "Exporting"
+                }, 
+                {
+                    "begin": 5368, 
+                    "end": 5374, 
+                    "score": 0.19107086956501007, 
+                    "spot": "import"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 965, 
+                    "end": 967, 
+                    "score": 0.13755060732364655, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 624, 
+                    "end": 633, 
+                    "score": 0.0651821717619896, 
+                    "spot": "producers"
+                }
+            ], 
+            "wiki_id": 3555227, 
+            "wiki_title": "Hip hop production"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3797, 
+                    "end": 3804, 
+                    "score": 0.023053279146552086, 
+                    "spot": "cartels"
+                }, 
+                {
+                    "begin": 4717, 
+                    "end": 4723, 
+                    "score": 0.1846514195203781, 
+                    "spot": "cartel"
+                }
+            ], 
+            "wiki_id": 197015, 
+            "wiki_title": "Drug cartel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2640, 
+                    "end": 2648, 
+                    "score": 0.29919371008872986, 
+                    "spot": "Tel Aviv"
+                }
+            ], 
+            "wiki_id": 31453, 
+            "wiki_title": "Tel Aviv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4087, 
+                    "end": 4094, 
+                    "score": 0.0008983399020507932, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 4374, 
+                    "end": 4381, 
+                    "score": 0.035233624279499054, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 38834493, 
+            "wiki_title": "O mie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 861, 
+                    "score": 0.15982818603515625, 
+                    "spot": "executive"
+                }
+            ], 
+            "wiki_id": 5681, 
+            "wiki_title": "List of corporate titles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3786, 
+                    "end": 3795, 
+                    "score": 0.09306561946868896, 
+                    "spot": "producers"
+                }
+            ], 
+            "wiki_id": 53207, 
+            "wiki_title": "Record producer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 822, 
+                    "end": 829, 
+                    "score": 0.1409090906381607, 
+                    "spot": "Lussier"
+                }, 
+                {
+                    "begin": 2084, 
+                    "end": 2091, 
+                    "score": 0.1409090906381607, 
+                    "spot": "Lussier"
+                }
+            ], 
+            "wiki_id": 2403065, 
+            "wiki_title": "Ren\u00e9 Lussier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1874, 
+                    "end": 1883, 
+                    "score": 0.5331541299819946, 
+                    "spot": "antitrust"
+                }, 
+                {
+                    "begin": 1874, 
+                    "end": 1887, 
+                    "score": 0.5051669478416443, 
+                    "spot": "antitrust law"
+                }
+            ], 
+            "wiki_id": 666256, 
+            "wiki_title": "Competition law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3929, 
+                    "end": 3933, 
+                    "score": 0.002079372527077794, 
+                    "spot": "warn"
+                }
+            ], 
+            "wiki_id": 168568, 
+            "wiki_title": "Film speed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6365, 
+                    "end": 6371, 
+                    "score": 0.21743883192539215, 
+                    "spot": "Europe"
+                }
+            ], 
+            "wiki_id": 9239, 
+            "wiki_title": "Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4095, 
+                    "end": 4101, 
+                    "score": 0.10000000149011612, 
+                    "spot": "carats"
+                }, 
+                {
+                    "begin": 4137, 
+                    "end": 4142, 
+                    "score": 0.14079229533672333, 
+                    "spot": "carat"
+                }, 
+                {
+                    "begin": 4382, 
+                    "end": 4388, 
+                    "score": 0.29461535811424255, 
+                    "spot": "carats"
+                }, 
+                {
+                    "begin": 5950, 
+                    "end": 5955, 
+                    "score": 0.36480844020843506, 
+                    "spot": "carat"
+                }, 
+                {
+                    "begin": 6460, 
+                    "end": 6465, 
+                    "score": 0.38715118169784546, 
+                    "spot": "carat"
+                }
+            ], 
+            "wiki_id": 7158, 
+            "wiki_title": "Carat (mass)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 658, 
+                    "score": 0.2483365833759308, 
+                    "spot": "jewelry"
+                }, 
+                {
+                    "begin": 763, 
+                    "end": 771, 
+                    "score": 0.11032775789499283, 
+                    "spot": "jewelers"
+                }, 
+                {
+                    "begin": 1109, 
+                    "end": 1116, 
+                    "score": 0.22148868441581726, 
+                    "spot": "jewelry"
+                }, 
+                {
+                    "begin": 1818, 
+                    "end": 1825, 
+                    "score": 0.23945319652557373, 
+                    "spot": "jewelry"
+                }, 
+                {
+                    "begin": 2429, 
+                    "end": 2436, 
+                    "score": 0.20870348811149597, 
+                    "spot": "jewelry"
+                }
+            ], 
+            "wiki_id": 15739, 
+            "wiki_title": "Jewellery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2864, 
+                    "end": 2873, 
+                    "score": 0.22470027208328247, 
+                    "spot": "territory"
+                }
+            ], 
+            "wiki_id": 207114, 
+            "wiki_title": "British Overseas Territories"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 103, 
+                    "score": 0.2103283405303955, 
+                    "spot": "1930s"
+                }
+            ], 
+            "wiki_id": 55558, 
+            "wiki_title": "Timeline of United States history"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3920, 
+                    "end": 3928, 
+                    "score": 0.01911293901503086, 
+                    "spot": "analysts"
+                }
+            ], 
+            "wiki_id": 2744257, 
+            "wiki_title": "Industry analyst"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3902, 
+                    "end": 3908, 
+                    "score": 0.08183033764362335, 
+                    "spot": "dealer"
+                }, 
+                {
+                    "begin": 4761, 
+                    "end": 4768, 
+                    "score": 0.08955148607492447, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 5303, 
+                    "end": 5310, 
+                    "score": 0.004418090917170048, 
+                    "spot": "dealers"
+                }
+            ], 
+            "wiki_id": 11616, 
+            "wiki_title": "Franchising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2909, 
+                    "end": 2916, 
+                    "score": 0.5029366612434387, 
+                    "spot": "African"
+                }, 
+                {
+                    "begin": 2909, 
+                    "end": 2923, 
+                    "score": 0.3799281418323517, 
+                    "spot": "African states"
+                }, 
+                {
+                    "begin": 4694, 
+                    "end": 4709, 
+                    "score": 0.09531263262033463, 
+                    "spot": "African nations"
+                }, 
+                {
+                    "begin": 4924, 
+                    "end": 4931, 
+                    "score": 0.16008102893829346, 
+                    "spot": "African"
+                }
+            ], 
+            "wiki_id": 5334607, 
+            "wiki_title": "Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1092, 
+                    "end": 1097, 
+                    "score": 0.15265192091464996, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 1580, 
+                    "end": 1585, 
+                    "score": 0.1711633950471878, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 1826, 
+                    "end": 1831, 
+                    "score": 0.20431244373321533, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 3049, 
+                    "end": 3054, 
+                    "score": 0.07408873736858368, 
+                    "spot": "sales"
+                }, 
+                {
+                    "begin": 4894, 
+                    "end": 4899, 
+                    "score": 0.05451066046953201, 
+                    "spot": "sells"
+                }, 
+                {
+                    "begin": 4974, 
+                    "end": 4979, 
+                    "score": 0.12614285945892334, 
+                    "spot": "sales"
+                }
+            ], 
+            "wiki_id": 155698, 
+            "wiki_title": "Sales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1743, 
+                    "end": 1746, 
+                    "score": 0.08910955488681793, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2297, 
+                    "end": 2304, 
+                    "score": 0.0008547008619643748, 
+                    "spot": "One out"
+                }
+            ], 
+            "wiki_id": 34235493, 
+            "wiki_title": "One-off"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6277, 
+                    "end": 6291, 
+                    "score": 0.114771768450737, 
+                    "spot": "interest rates"
+                }
+            ], 
+            "wiki_id": 5666, 
+            "wiki_title": "Central bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2662, 
+                    "end": 2670, 
+                    "score": 0.1503528654575348, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2130, 
+                    "end": 2134, 
+                    "score": 0.000717276125214994, 
+                    "spot": "aims"
+                }
+            ], 
+            "wiki_id": 23430275, 
+            "wiki_title": "Association of International Marathons and Distance Races"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3570, 
+                    "end": 3577, 
+                    "score": 0.13527970016002655, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 82242, 
+            "wiki_title": "Unrepresented Nations and Peoples Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6599, 
+                    "end": 6603, 
+                    "score": 0.20880889892578125, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5241, 
+                    "end": 5245, 
+                    "score": 0.029882172122597694, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1064, 
+                    "end": 1072, 
+                    "score": 0.1909470558166504, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 1817986, 
+            "wiki_title": "Advertising campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2680, 
+                    "end": 2684, 
+                    "score": 0.004981459118425846, 
+                    "spot": "sole"
+                }
+            ], 
+            "wiki_id": 4640505, 
+            "wiki_title": "Sole (fish)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2485, 
+                    "end": 2494, 
+                    "score": 0.010309278033673763, 
+                    "spot": "s Central"
+                }
+            ], 
+            "wiki_id": 2970688, 
+            "wiki_title": "T-Centralen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5741, 
+                    "end": 5751, 
+                    "score": 0.05988383665680885, 
+                    "spot": "extinction"
+                }
+            ], 
+            "wiki_id": 49417, 
+            "wiki_title": "Extinction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5421, 
+                    "end": 5427, 
+                    "score": 0.0020756637677550316, 
+                    "spot": "threat"
+                }
+            ], 
+            "wiki_id": 6512, 
+            "wiki_title": "Coercion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 312, 
+                    "end": 325, 
+                    "score": 0.10995738208293915, 
+                    "spot": "international"
+                }
+            ], 
+            "wiki_id": 8195726, 
+            "wiki_title": "International law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2356, 
+                    "end": 2363, 
+                    "score": 0.21773572266101837, 
+                    "spot": "decades"
+                }
+            ], 
+            "wiki_id": 695530, 
+            "wiki_title": "Decade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4769, 
+                    "end": 4772, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }, 
+                {
+                    "begin": 6233, 
+                    "end": 6236, 
+                    "score": 0.06260816007852554, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3615, 
+                    "end": 3620, 
+                    "score": 0.04174116626381874, 
+                    "spot": "Flies"
+                }
+            ], 
+            "wiki_id": 63663, 
+            "wiki_title": "Fly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5441, 
+                    "end": 5448, 
+                    "score": 0.10567787289619446, 
+                    "spot": "history"
+                }
+            ], 
+            "wiki_id": 10772350, 
+            "wiki_title": "History"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4884, 
+                    "end": 4888, 
+                    "score": 0.03714942932128906, 
+                    "spot": "firm"
+                }
+            ], 
+            "wiki_id": 894300, 
+            "wiki_title": "Law firm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5382, 
+                    "end": 5395, 
+                    "score": 0.2340671271085739, 
+                    "spot": "South African"
+                }
+            ], 
+            "wiki_id": 44555, 
+            "wiki_title": "Union of South Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2625, 
+                    "end": 2631, 
+                    "score": 0.332449734210968, 
+                    "spot": "Bombay"
+                }
+            ], 
+            "wiki_id": 19189, 
+            "wiki_title": "Mumbai"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6616, 
+                    "end": 6623, 
+                    "score": 0.1250576674938202, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 81682, 
+            "wiki_title": "Social control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2607, 
+                    "end": 2614, 
+                    "score": 0.591972827911377, 
+                    "spot": "Antwerp"
+                }, 
+                {
+                    "begin": 3645, 
+                    "end": 3652, 
+                    "score": 0.4384920597076416, 
+                    "spot": "Antwerp"
+                }, 
+                {
+                    "begin": 6553, 
+                    "end": 6560, 
+                    "score": 0.4742497205734253, 
+                    "spot": "Antwerp"
+                }
+            ], 
+            "wiki_id": 32149462, 
+            "wiki_title": "Antwerp"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3030, 
+                    "end": 3038, 
+                    "score": 0.004628099035471678, 
+                    "spot": "10 times"
+                }
+            ], 
+            "wiki_id": 9115357, 
+            "wiki_title": "WWC World Tag Team Championship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1970, 
+                    "end": 1975, 
+                    "score": 0.004376925528049469, 
+                    "spot": "women"
+                }
+            ], 
+            "wiki_id": 21130700, 
+            "wiki_title": "The Women (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3844, 
+                    "end": 3852, 
+                    "score": 0.007439999841153622, 
+                    "spot": "ruthless"
+                }
+            ], 
+            "wiki_id": 22766767, 
+            "wiki_title": "Ruthless (Ace Hood album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2942, 
+                    "end": 2947, 
+                    "score": 0.7266947627067566, 
+                    "spot": "Zaire"
+                }
+            ], 
+            "wiki_id": 76762, 
+            "wiki_title": "Democratic Republic of the Congo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 329, 
+                    "score": 0.19615374505519867, 
+                    "spot": "tin"
+                }
+            ], 
+            "wiki_id": 30042, 
+            "wiki_title": "Tin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3590, 
+                    "end": 3604, 
+                    "score": 0.008403361774981022, 
+                    "spot": "what they like"
+                }
+            ], 
+            "wiki_id": 18792990, 
+            "wiki_title": "What They Play"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4573, 
+                    "end": 4579, 
+                    "score": 0.48489290475845337, 
+                    "spot": "Angola"
+                }
+            ], 
+            "wiki_id": 701, 
+            "wiki_title": "Angola"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2633, 
+                    "end": 2638, 
+                    "score": 0.471480131149292, 
+                    "spot": "India"
+                }
+            ], 
+            "wiki_id": 14533, 
+            "wiki_title": "India"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 341, 
+                    "end": 350, 
+                    "score": 0.11464165896177292, 
+                    "spot": "collapsed"
+                }
+            ], 
+            "wiki_id": 40494892, 
+            "wiki_title": "Dissolution of the Soviet Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5623, 
+                    "end": 5635, 
+                    "score": 0.18510892987251282, 
+                    "spot": "huge diamond"
+                }
+            ], 
+            "wiki_id": 34419, 
+            "wiki_title": "Zork"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4187, 
+                    "end": 4192, 
+                    "score": 0.06256882846355438, 
+                    "spot": "prize"
+                }
+            ], 
+            "wiki_id": 573991, 
+            "wiki_title": "Prize"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 635, 
+                    "end": 642, 
+                    "score": 0.05500095710158348, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 751, 
+                    "end": 758, 
+                    "score": 0.11769165098667145, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 2583, 
+                    "end": 2590, 
+                    "score": 0.15911029279232025, 
+                    "spot": "dealers"
+                }, 
+                {
+                    "begin": 3130, 
+                    "end": 3136, 
+                    "score": 0.06726015359163284, 
+                    "spot": "dealer"
+                }, 
+                {
+                    "begin": 3229, 
+                    "end": 3235, 
+                    "score": 0.06545844674110413, 
+                    "spot": "dealer"
+                }, 
+                {
+                    "begin": 3464, 
+                    "end": 3471, 
+                    "score": 0.0826389342546463, 
+                    "spot": "dealers"
+                }
+            ], 
+            "wiki_id": 20810, 
+            "wiki_title": "Merchant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1763, 
+                    "end": 1768, 
+                    "score": 0.15035727620124817, 
+                    "spot": "No. 1"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2573, 
+                    "end": 2578, 
+                    "score": 0.1845085173845291, 
+                    "spot": "mines"
+                }, 
+                {
+                    "begin": 2827, 
+                    "end": 2832, 
+                    "score": 0.10762360692024231, 
+                    "spot": "mines"
+                }, 
+                {
+                    "begin": 5540, 
+                    "end": 5545, 
+                    "score": 0.148276686668396, 
+                    "spot": "mines"
+                }
+            ], 
+            "wiki_id": 20381, 
+            "wiki_title": "Mining"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6696, 
+                    "end": 6699, 
+                    "score": 0.12589304149150848, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 4207510, 
+            "wiki_title": "Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2742, 
+                    "end": 2749, 
+                    "score": 0.10207636654376984, 
+                    "spot": "divided"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6430, 
+                    "end": 6435, 
+                    "score": 0.003874181304126978, 
+                    "spot": "risen"
+                }
+            ], 
+            "wiki_id": 26414, 
+            "wiki_title": "Resurrection of Jesus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 677, 
+                    "end": 686, 
+                    "score": 0.05891845375299454, 
+                    "spot": "marketing"
+                }, 
+                {
+                    "begin": 842, 
+                    "end": 851, 
+                    "score": 0.34000399708747864, 
+                    "spot": "marketing"
+                }
+            ], 
+            "wiki_id": 59252, 
+            "wiki_title": "Marketing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 406, 
+                    "end": 412, 
+                    "score": 0.09104795753955841, 
+                    "spot": "prices"
+                }, 
+                {
+                    "begin": 3378, 
+                    "end": 3384, 
+                    "score": 0.1825793832540512, 
+                    "spot": "prices"
+                }, 
+                {
+                    "begin": 5772, 
+                    "end": 5778, 
+                    "score": 0.11521768569946289, 
+                    "spot": "prices"
+                }, 
+                {
+                    "begin": 5818, 
+                    "end": 5824, 
+                    "score": 0.12659524381160736, 
+                    "spot": "prices"
+                }, 
+                {
+                    "begin": 6395, 
+                    "end": 6401, 
+                    "score": 0.09021035581827164, 
+                    "spot": "prices"
+                }
+            ], 
+            "wiki_id": 211295, 
+            "wiki_title": "Price"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 946, 
+                    "end": 953, 
+                    "score": 0.16589583456516266, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 977, 
+                    "end": 984, 
+                    "score": 0.1258559226989746, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3196, 
+                    "end": 3203, 
+                    "score": 0.011378311552107334, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3612, 
+                    "end": 3614, 
+                    "score": 0.008701038546860218, 
+                    "spot": "Jo"
+                }
+            ], 
+            "wiki_id": 422365, 
+            "wiki_title": "J\u014d"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4793, 
+                    "end": 4799, 
+                    "score": 0.3571428656578064, 
+                    "spot": "t stop"
+                }
+            ], 
+            "wiki_id": 168244, 
+            "wiki_title": "F-number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 287, 
+                    "score": 0.1604129672050476, 
+                    "spot": "Countries"
+                }, 
+                {
+                    "begin": 1553, 
+                    "end": 1562, 
+                    "score": 0.16862338781356812, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2457, 
+                    "end": 2469, 
+                    "score": 0.3888603448867798, 
+                    "spot": "West Germany"
+                }
+            ], 
+            "wiki_id": 11867, 
+            "wiki_title": "Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2192, 
+                    "end": 2200, 
+                    "score": 0.07255232334136963, 
+                    "spot": "ultimate"
+                }
+            ], 
+            "wiki_id": 660616, 
+            "wiki_title": "Ultimate Marvel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4822, 
+                    "end": 4828, 
+                    "score": 0.5, 
+                    "spot": "Lunzer"
+                }, 
+                {
+                    "begin": 5049, 
+                    "end": 5055, 
+                    "score": 0.5, 
+                    "spot": "Lunzer"
+                }
+            ], 
+            "wiki_id": 14157952, 
+            "wiki_title": "Alois Lunzer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3278, 
+                    "end": 3281, 
+                    "score": 0.12318303436040878, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3719, 
+                    "end": 3729, 
+                    "score": 0.14248743653297424, 
+                    "spot": "production"
+                }
+            ], 
+            "wiki_id": 39388, 
+            "wiki_title": "Manufacturing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3065, 
+                    "end": 3071, 
+                    "score": 0.02602638304233551, 
+                    "spot": "sights"
+                }
+            ], 
+            "wiki_id": 21280496, 
+            "wiki_title": "Visual perception"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1573, 
+                    "end": 1579, 
+                    "score": 0.13325504958629608, 
+                    "spot": "master"
+                }
+            ], 
+            "wiki_id": 205075, 
+            "wiki_title": "Teacher"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5616, 
+                    "end": 5620, 
+                    "score": 0.12665416300296783, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 18493095, 
+            "wiki_title": "Open world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3761, 
+                    "end": 3767, 
+                    "score": 0.10500691831111908, 
+                    "spot": "People"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5045, 
+                    "end": 5047, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 706498, 
+            "wiki_title": "Metropolitan Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2103, 
+                    "end": 2110, 
+                    "score": 0.10113787651062012, 
+                    "spot": "diamond"
+                }
+            ], 
+            "wiki_id": 1767131, 
+            "wiki_title": "The Diamond (Richmond, Virginia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6010, 
+                    "end": 6016, 
+                    "score": 0.09798917919397354, 
+                    "spot": "series"
+                }
+            ], 
+            "wiki_id": 15287, 
+            "wiki_title": "Series (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2201, 
+                    "end": 2211, 
+                    "score": 0.13619117438793182, 
+                    "spot": "expression"
+                }
+            ], 
+            "wiki_id": 38076, 
+            "wiki_title": "Gender"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 432, 
+                    "end": 439, 
+                    "score": 0.14602811634540558, 
+                    "spot": "average"
+                }, 
+                {
+                    "begin": 5764, 
+                    "end": 5771, 
+                    "score": 0.14602811634540558, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2650, 
+                    "end": 2656, 
+                    "score": 0.3759356737136841, 
+                    "spot": "Israel"
+                }
+            ], 
+            "wiki_id": 9282173, 
+            "wiki_title": "Israel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2080, 
+                    "end": 2082, 
+                    "score": 0.06314269453287125, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 1576588, 
+            "wiki_title": "Thai royal and noble titles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6676, 
+                    "end": 6681, 
+                    "score": 0.24236354231834412, 
+                    "spot": "t mix"
+                }
+            ], 
+            "wiki_id": 19690313, 
+            "wiki_title": "Suave House Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 588, 
+                    "score": 0.002453078981488943, 
+                    "spot": "managed"
+                }
+            ], 
+            "wiki_id": 7484714, 
+            "wiki_title": "Forest management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 178, 
+                    "score": 0.042353712022304535, 
+                    "spot": "controls"
+                }
+            ], 
+            "wiki_id": 769705, 
+            "wiki_title": "Widget (GUI)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4162, 
+                    "end": 4167, 
+                    "score": 0.23904557526111603, 
+                    "spot": "ounce"
+                }
+            ], 
+            "wiki_id": 180279, 
+            "wiki_title": "Ounce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 892, 
+                    "end": 903, 
+                    "score": 0.291597455739975, 
+                    "spot": "advertising"
+                }, 
+                {
+                    "begin": 1432, 
+                    "end": 1443, 
+                    "score": 0.10647737234830856, 
+                    "spot": "advertising"
+                }
+            ], 
+            "wiki_id": 2861, 
+            "wiki_title": "Advertising"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3015, 
+                    "end": 3021, 
+                    "score": 0.10101829469203949, 
+                    "spot": "select"
+                }
+            ], 
+            "wiki_id": 10993498, 
+            "wiki_title": "Select (Unix)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5095, 
+                    "end": 5098, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4329, 
+                    "end": 4341, 
+                    "score": 0.5407061576843262, 
+                    "spot": "Soviet Union"
+                }, 
+                {
+                    "begin": 4484, 
+                    "end": 4491, 
+                    "score": 0.18703711032867432, 
+                    "spot": "Soviets"
+                }
+            ], 
+            "wiki_id": 26779, 
+            "wiki_title": "Soviet Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4642, 
+                    "end": 4652, 
+                    "score": 0.020618556067347527, 
+                    "spot": "bitter war"
+                }
+            ], 
+            "wiki_id": 464071, 
+            "wiki_title": "Indo-Pakistani War of 1971"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4218, 
+                    "end": 4233, 
+                    "score": 0.18386369943618774, 
+                    "spot": "southern Africa"
+                }
+            ], 
+            "wiki_id": 459850, 
+            "wiki_title": "Southern Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3142, 
+                    "end": 3148, 
+                    "score": 0.0037660873495042324, 
+                    "spot": "accept"
+                }
+            ], 
+            "wiki_id": 609351, 
+            "wiki_title": "Accept (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5073, 
+                    "end": 5078, 
+                    "score": 0.0019728729967027903, 
+                    "spot": "deter"
+                }
+            ], 
+            "wiki_id": 735661, 
+            "wiki_title": "Deterrence theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5495, 
+                    "end": 5504, 
+                    "score": 0.056521739810705185, 
+                    "spot": "write off"
+                }
+            ], 
+            "wiki_id": 30876068, 
+            "wiki_title": "Write-off"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1518, 
+                    "end": 1539, 
+                    "score": 0.5, 
+                    "spot": "J. Walter Thompson Co"
+                }
+            ], 
+            "wiki_id": 2234816, 
+            "wiki_title": "J. Walter Thompson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 27, 
+                    "score": 0.10453784465789795, 
+                    "spot": "predictions"
+                }
+            ], 
+            "wiki_id": 246066, 
+            "wiki_title": "Prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5891, 
+                    "end": 5901, 
+                    "score": 0.25956428050994873, 
+                    "spot": "investment"
+                }
+            ], 
+            "wiki_id": 63121, 
+            "wiki_title": "Investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1547, 
+                    "end": 1562, 
+                    "score": 0.11744169145822525, 
+                    "spot": "other countries"
+                }
+            ], 
+            "wiki_id": 30655949, 
+            "wiki_title": "Arab Spring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4724, 
+                    "end": 4728, 
+                    "score": 0.0007135956548154354, 
+                    "spot": "want"
+                }, 
+                {
+                    "begin": 5099, 
+                    "end": 5103, 
+                    "score": 0.08430493623018265, 
+                    "spot": "want"
+                }
+            ], 
+            "wiki_id": 3343584, 
+            "wiki_title": "Want"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1802, 
+                    "score": 0.0649784505367279, 
+                    "spot": "annual"
+                }
+            ], 
+            "wiki_id": 34341, 
+            "wiki_title": "Year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2273, 
+                    "end": 2283, 
+                    "score": 0.10882782936096191, 
+                    "spot": "techniques"
+                }
+            ], 
+            "wiki_id": 355343, 
+            "wiki_title": "Skill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 330, 
+                    "end": 336, 
+                    "score": 0.29208263754844666, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 2756, 
+                    "end": 2763, 
+                    "score": 0.1521957814693451, 
+                    "spot": "cartels"
+                }, 
+                {
+                    "begin": 3360, 
+                    "end": 3366, 
+                    "score": 0.24073919653892517, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 4589, 
+                    "end": 4595, 
+                    "score": 0.1744781881570816, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 4952, 
+                    "end": 4958, 
+                    "score": 0.20590844750404358, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 5509, 
+                    "end": 5515, 
+                    "score": 0.18391238152980804, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 5584, 
+                    "end": 5590, 
+                    "score": 0.2454787790775299, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 6070, 
+                    "end": 6076, 
+                    "score": 0.32508617639541626, 
+                    "spot": "cartel"
+                }, 
+                {
+                    "begin": 6592, 
+                    "end": 6598, 
+                    "score": 0.21500766277313232, 
+                    "spot": "cartel"
+                }
+            ], 
+            "wiki_id": 36526, 
+            "wiki_title": "Cartel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2932, 
+                    "end": 2940, 
+                    "score": 0.7879832983016968, 
+                    "spot": "Botswana"
+                }
+            ], 
+            "wiki_id": 3464, 
+            "wiki_title": "Botswana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 74, 
+                    "end": 81, 
+                    "score": 0.04010637104511261, 
+                    "spot": "diamond"
+                }
+            ], 
+            "wiki_id": 968099, 
+            "wiki_title": "Baseball field"
+        }
+    ]
+}

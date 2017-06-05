@@ -1,0 +1,11 @@
+matched= 1100
+predicated= 6160
+totalKey= 2484
+
+Recall= 44.2834138486
+Precision= 17.8571428571
+F-Score= 25.4511800093
+
+matchedTotal= 2243
+predicatedTotal= 45363
+PrecisionTotal= 4.9445583405

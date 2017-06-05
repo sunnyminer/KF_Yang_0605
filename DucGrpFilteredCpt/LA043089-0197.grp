@@ -1,0 +1,39 @@
+
+14  Paint sheen  2.35114503817   :
+	fresh oil sheen
+	oil sheen
+
+33  Petroleum  1.0286259542   :
+	fresh oil sheen
+	oil sheen
+	oil producers
+	crude oil
+
+34  Oil spill  0.881679389313   :
+	oil spill
+	spill contingency plans
+	spill damage
+	spill costs
+	11-million-gallon spill
+
+38  Exxon Valdez  0.723429242513   :
+	tanker exxon valdez
+	exxon valdez
+
+50  Exxon Valdez oil spill  0.470229007634   :
+	oil spill
+	exxon valdez spill
+	oil
+
+58  Mail  0.361714621257   :
+	entire package
+	package
+
+67  Ship  0.293893129771   :
+	vessel
+	ship
+
+75  Bill (law)  0.235114503817   :
+	senate bills
+	dozen other spill-related bills
+	bills

@@ -1,0 +1,13 @@
+matched= 747
+predicated= 3080
+totalKey= 2484
+
+Recall= 30.0724637681
+Precision= 24.2532467532
+F-Score= 26.851186197
+
+matchedDouble= 1136
+matchedTriple= 1136
+matchedTotal= 2243
+predicatedTotal= 45363
+PrecisionTotal= 4.9445583405

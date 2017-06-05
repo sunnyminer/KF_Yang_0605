@@ -1,0 +1,4234 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3573, 
+                    "end": 3589, 
+                    "score": 0.10951536893844604, 
+                    "spot": "Washington state"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 268, 
+                    "end": 278, 
+                    "score": 0.18639276921749115, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 1595, 
+                    "end": 1604, 
+                    "score": 0.22630912065505981, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 2035, 
+                    "end": 2044, 
+                    "score": 0.18784549832344055, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 2282, 
+                    "end": 2291, 
+                    "score": 0.1441706120967865, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 2368, 
+                    "end": 2377, 
+                    "score": 0.14762485027313232, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 2485, 
+                    "end": 2495, 
+                    "score": 0.10347283631563187, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 2688, 
+                    "end": 2697, 
+                    "score": 0.003120686626061797, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 6465, 
+                    "end": 6475, 
+                    "score": 0.1682530641555786, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 6686, 
+                    "end": 6695, 
+                    "score": 0.19579289853572845, 
+                    "spot": "candidate"
+                }
+            ], 
+            "wiki_id": 615670, 
+            "wiki_title": "Candidate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1067, 
+                    "end": 1072, 
+                    "score": 0.11965496093034744, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 38705343, 
+            "wiki_title": "United States elections, 2016"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2935, 
+                    "end": 2944, 
+                    "score": 0.21800753474235535, 
+                    "spot": "violation"
+                }
+            ], 
+            "wiki_id": 5785, 
+            "wiki_title": "Crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 643, 
+                    "end": 656, 
+                    "score": 0.3053123950958252, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 2640, 
+                    "end": 2658, 
+                    "score": 0.28778502345085144, 
+                    "spot": "U.S. Supreme Court"
+                }, 
+                {
+                    "begin": 2645, 
+                    "end": 2658, 
+                    "score": 0.23849305510520935, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 3062, 
+                    "end": 3075, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 4025, 
+                    "end": 4038, 
+                    "score": 0.42669859528541565, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 4268, 
+                    "end": 4281, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }, 
+                {
+                    "begin": 4846, 
+                    "end": 4859, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }
+            ], 
+            "wiki_id": 31737, 
+            "wiki_title": "Supreme Court of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 39, 
+                    "end": 49, 
+                    "score": 0.17659616470336914, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 2157, 
+                    "end": 2167, 
+                    "score": 0.1178806945681572, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 3234, 
+                    "end": 3244, 
+                    "score": 0.08604469150304794, 
+                    "spot": "candidates"
+                }, 
+                {
+                    "begin": 5564, 
+                    "end": 5574, 
+                    "score": 0.15409669280052185, 
+                    "spot": "candidates"
+                }
+            ], 
+            "wiki_id": 406859, 
+            "wiki_title": "United States presidential election, 2008"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 821, 
+                    "end": 824, 
+                    "score": 0.0026834148447960615, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 9910525, 
+            "wiki_title": "LED lamp"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6808, 
+                    "end": 6812, 
+                    "score": 0.008007117547094822, 
+                    "spot": "heed"
+                }
+            ], 
+            "wiki_id": 12408526, 
+            "wiki_title": "Kash Heed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4621, 
+                    "end": 4631, 
+                    "score": 0.08895491808652878, 
+                    "spot": "recognized"
+                }
+            ], 
+            "wiki_id": 524626, 
+            "wiki_title": "Diplomatic recognition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 338, 
+                    "end": 343, 
+                    "score": 0.08522654324769974, 
+                    "spot": "party"
+                }, 
+                {
+                    "begin": 2079, 
+                    "end": 2084, 
+                    "score": 0.2769699990749359, 
+                    "spot": "party"
+                }, 
+                {
+                    "begin": 2216, 
+                    "end": 2221, 
+                    "score": 0.1580076664686203, 
+                    "spot": "party"
+                }, 
+                {
+                    "begin": 2523, 
+                    "end": 2528, 
+                    "score": 0.25299790501594543, 
+                    "spot": "party"
+                }, 
+                {
+                    "begin": 2523, 
+                    "end": 2540, 
+                    "score": 0.4063311517238617, 
+                    "spot": "party affiliation"
+                }
+            ], 
+            "wiki_id": 23996, 
+            "wiki_title": "Political party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6421, 
+                    "end": 6431, 
+                    "score": 0.08178622275590897, 
+                    "spot": "procedures"
+                }
+            ], 
+            "wiki_id": 24612, 
+            "wiki_title": "Procedural law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6931, 
+                    "end": 6933, 
+                    "score": 0.06455174088478088, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2566, 
+                    "end": 2573, 
+                    "score": 0.10765324532985687, 
+                    "spot": "Bullock"
+                }
+            ], 
+            "wiki_id": 76932, 
+            "wiki_title": "Bullock County, Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1447, 
+                    "end": 1459, 
+                    "score": 0.0006526063079945743, 
+                    "spot": "Nevertheless"
+                }
+            ], 
+            "wiki_id": 3509761, 
+            "wiki_title": "Nevertheless I'm in Love with You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 664, 
+                    "end": 680, 
+                    "score": 0.15227273106575012, 
+                    "spot": "advisory opinion"
+                }
+            ], 
+            "wiki_id": 1637542, 
+            "wiki_title": "Advisory opinion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2826, 
+                    "end": 2833, 
+                    "score": 0.0022568795830011368, 
+                    "spot": "qualify"
+                }
+            ], 
+            "wiki_id": 46901920, 
+            "wiki_title": "Qualify (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3896, 
+                    "end": 3908, 
+                    "score": 0.20959113538265228, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 4002, 
+                    "end": 4016, 
+                    "score": 0.2960919737815857, 
+                    "spot": "constitutional"
+                }
+            ], 
+            "wiki_id": 31644, 
+            "wiki_title": "United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 24, 
+                    "end": 27, 
+                    "score": 0.13864536583423615, 
+                    "spot": "bar"
+                }
+            ], 
+            "wiki_id": 268188, 
+            "wiki_title": "Bar (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2615, 
+                    "end": 2623, 
+                    "score": 0.13467156887054443, 
+                    "spot": "Clements"
+                }
+            ], 
+            "wiki_id": 577327, 
+            "wiki_title": "Bill Clements"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6866, 
+                    "end": 6875, 
+                    "score": 0.08201385289430618, 
+                    "spot": "political"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6309, 
+                    "end": 6314, 
+                    "score": 0.001040340051986277, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 460615, 
+            "wiki_title": "British undergraduate degree classification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6272, 
+                    "end": 6279, 
+                    "score": 0.043765973299741745, 
+                    "spot": "sitting"
+                }
+            ], 
+            "wiki_id": 444051, 
+            "wiki_title": "Sit-in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6876, 
+                    "end": 6883, 
+                    "score": 0.04407311603426933, 
+                    "spot": "castles"
+                }
+            ], 
+            "wiki_id": 1922311, 
+            "wiki_title": "Japanese castle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4203, 
+                    "end": 4208, 
+                    "score": 0.0011444403789937496, 
+                    "spot": "rests"
+                }
+            ], 
+            "wiki_id": 579902, 
+            "wiki_title": "Rest (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3462, 
+                    "end": 3473, 
+                    "score": 0.18882083892822266, 
+                    "spot": "U.S. Senate"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5000, 
+                    "end": 5008, 
+                    "score": 0.0012062726309522986, 
+                    "spot": "court in"
+                }
+            ], 
+            "wiki_id": 63833, 
+            "wiki_title": "Government of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6176, 
+                    "end": 6178, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }, 
+                {
+                    "begin": 6814, 
+                    "end": 6816, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6444, 
+                    "end": 6450, 
+                    "score": 0.005304585676640272, 
+                    "spot": "option"
+                }
+            ], 
+            "wiki_id": 28338635, 
+            "wiki_title": "Command-line interface"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3633, 
+                    "end": 3635, 
+                    "score": 0.168409526348114, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 2018545, 
+            "wiki_title": "Do (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2925, 
+                    "end": 2932, 
+                    "score": 0.002018842613324523, 
+                    "spot": "may run"
+                }
+            ], 
+            "wiki_id": 228956, 
+            "wiki_title": "Victoria Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5555, 
+                    "end": 5560, 
+                    "score": 0.204835906624794, 
+                    "spot": "ideas"
+                }
+            ], 
+            "wiki_id": 4510308, 
+            "wiki_title": "Research Papers in Economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6906, 
+                    "end": 6910, 
+                    "score": 0.11474836617708206, 
+                    "spot": "rude"
+                }
+            ], 
+            "wiki_id": 6725037, 
+            "wiki_title": "Rudeness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6258, 
+                    "end": 6266, 
+                    "score": 0.002539503388106823, 
+                    "spot": "obstacle"
+                }
+            ], 
+            "wiki_id": 22214599, 
+            "wiki_title": "Obstacle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6217, 
+                    "end": 6224, 
+                    "score": 0.02779613807797432, 
+                    "spot": "popular"
+                }
+            ], 
+            "wiki_id": 24624, 
+            "wiki_title": "Pop music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4733, 
+                    "end": 4739, 
+                    "score": 0.004382440820336342, 
+                    "spot": "honest"
+                }
+            ], 
+            "wiki_id": 40179756, 
+            "wiki_title": "Honest (Future album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1298, 
+                    "end": 1308, 
+                    "score": 0.07001522183418274, 
+                    "spot": "ballot box"
+                }
+            ], 
+            "wiki_id": 763984, 
+            "wiki_title": "Ballot box"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4058, 
+                    "end": 4067, 
+                    "score": 0.7585642337799072, 
+                    "spot": "the power"
+                }, 
+                {
+                    "begin": 4948, 
+                    "end": 4957, 
+                    "score": 0.5, 
+                    "spot": "the power"
+                }
+            ], 
+            "wiki_id": 8028602, 
+            "wiki_title": "The Power (Snap! song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3531, 
+                    "end": 3537, 
+                    "score": 0.004220783710479736, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 2995581, 
+            "wiki_title": "The Office (UK TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1278, 
+                    "end": 1283, 
+                    "score": 0.18828560411930084, 
+                    "spot": "voter"
+                }, 
+                {
+                    "begin": 1716, 
+                    "end": 1722, 
+                    "score": 0.2651519775390625, 
+                    "spot": "voters"
+                }, 
+                {
+                    "begin": 2117, 
+                    "end": 2123, 
+                    "score": 0.23517240583896637, 
+                    "spot": "voters"
+                }, 
+                {
+                    "begin": 2258, 
+                    "end": 2264, 
+                    "score": 0.2209656834602356, 
+                    "spot": "voting"
+                }, 
+                {
+                    "begin": 2354, 
+                    "end": 2358, 
+                    "score": 0.1745923012495041, 
+                    "spot": "vote"
+                }, 
+                {
+                    "begin": 5629, 
+                    "end": 5639, 
+                    "score": 0.13863104581832886, 
+                    "spot": "electorate"
+                }, 
+                {
+                    "begin": 6402, 
+                    "end": 6408, 
+                    "score": 0.15851259231567383, 
+                    "spot": "voters"
+                }, 
+                {
+                    "begin": 6485, 
+                    "end": 6491, 
+                    "score": 0.15115848183631897, 
+                    "spot": "ballot"
+                }, 
+                {
+                    "begin": 6656, 
+                    "end": 6662, 
+                    "score": 0.262256920337677, 
+                    "spot": "ballot"
+                }, 
+                {
+                    "begin": 6666, 
+                    "end": 6672, 
+                    "score": 0.2639519274234772, 
+                    "spot": "voters"
+                }
+            ], 
+            "wiki_id": 99860, 
+            "wiki_title": "Voting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2577, 
+                    "end": 2583, 
+                    "score": 0.20142516493797302, 
+                    "spot": "Carter"
+                }
+            ], 
+            "wiki_id": 15992, 
+            "wiki_title": "Jimmy Carter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5942, 
+                    "end": 5949, 
+                    "score": 0.12376812100410461, 
+                    "spot": "effects"
+                }
+            ], 
+            "wiki_id": 22570918, 
+            "wiki_title": "Corporal punishment in the home"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4158, 
+                    "end": 4164, 
+                    "score": 0.1919231414794922, 
+                    "spot": "degree"
+                }
+            ], 
+            "wiki_id": 167241, 
+            "wiki_title": "Academic degree"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5062, 
+                    "end": 5075, 
+                    "score": 0.14554555714130402, 
+                    "spot": "extraordinary"
+                }, 
+                {
+                    "begin": 5256, 
+                    "end": 5269, 
+                    "score": 0.11885232478380203, 
+                    "spot": "extraordinary"
+                }
+            ], 
+            "wiki_id": 68651, 
+            "wiki_title": "Ambassador"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 368, 
+                    "end": 384, 
+                    "score": 0.00909090880304575, 
+                    "spot": "registration fee"
+                }
+            ], 
+            "wiki_id": 21741310, 
+            "wiki_title": "Registration fee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2252, 
+                    "score": 0.21917693316936493, 
+                    "spot": "citizens"
+                }, 
+                {
+                    "begin": 4168, 
+                    "end": 4175, 
+                    "score": 0.21850745379924774, 
+                    "spot": "citizen"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 498, 
+                    "score": 0.13563448190689087, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 986871, 
+            "wiki_title": "Drug test"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 229, 
+                    "end": 240, 
+                    "score": 0.1409974843263626, 
+                    "spot": "struck down"
+                }
+            ], 
+            "wiki_id": 4861356, 
+            "wiki_title": "Judicial review in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3028, 
+                    "end": 3034, 
+                    "score": 0.010328715667128563, 
+                    "spot": "Clause"
+                }
+            ], 
+            "wiki_id": 83006, 
+            "wiki_title": "Clause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2131, 
+                    "end": 2151, 
+                    "score": 0.25293058156967163, 
+                    "spot": "freedom to associate"
+                }
+            ], 
+            "wiki_id": 219580, 
+            "wiki_title": "Freedom of association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4400, 
+                    "end": 4412, 
+                    "score": 0.10920833051204681, 
+                    "spot": "registration"
+                }
+            ], 
+            "wiki_id": 994892, 
+            "wiki_title": "Voter registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6004, 
+                    "end": 6010, 
+                    "score": 0.05144817382097244, 
+                    "spot": "access"
+                }
+            ], 
+            "wiki_id": 302109, 
+            "wiki_title": "Accessibility"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3953, 
+                    "end": 3961, 
+                    "score": 0.0007078203489072621, 
+                    "spot": "this\nway"
+                }
+            ], 
+            "wiki_id": 1161999, 
+            "wiki_title": "This Way (Jewel album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1040, 
+                    "score": 0.38302138447761536, 
+                    "spot": "California Supreme Court"
+                }
+            ], 
+            "wiki_id": 532376, 
+            "wiki_title": "Supreme Court of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5495, 
+                    "end": 5501, 
+                    "score": 0.1115473061800003, 
+                    "spot": "winner"
+                }
+            ], 
+            "wiki_id": 326350, 
+            "wiki_title": "Republican National Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 303, 
+                    "score": 0.17205622792243958, 
+                    "spot": "congressional"
+                }, 
+                {
+                    "begin": 737, 
+                    "end": 756, 
+                    "score": 0.2959999740123749, 
+                    "spot": "members of\nCongress"
+                }, 
+                {
+                    "begin": 748, 
+                    "end": 756, 
+                    "score": 0.25357213616371155, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 4138, 
+                    "end": 4146, 
+                    "score": 0.16499680280685425, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 5131, 
+                    "end": 5144, 
+                    "score": 0.15743285417556763, 
+                    "spot": "congressional"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1436, 
+                    "end": 1442, 
+                    "score": 0.05234672874212265, 
+                    "spot": "limits"
+                }
+            ], 
+            "wiki_id": 30862335, 
+            "wiki_title": "City limits"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3446, 
+                    "end": 3473, 
+                    "score": 0.08571428805589676, 
+                    "spot": "running for the U.S. Senate"
+                }
+            ], 
+            "wiki_id": 44205564, 
+            "wiki_title": "United States Senate election in Missouri, 2016"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1995, 
+                    "end": 1997, 
+                    "score": 0.05088094621896744, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5745, 
+                    "end": 5755, 
+                    "score": 0.0824631080031395, 
+                    "spot": "guaranteed"
+                }
+            ], 
+            "wiki_id": 1182343, 
+            "wiki_title": "Surety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 105, 
+                    "end": 119, 
+                    "score": 0.0012372955679893494, 
+                    "spot": "qualifications"
+                }, 
+                {
+                    "begin": 3775, 
+                    "end": 3789, 
+                    "score": 0.08744252473115921, 
+                    "spot": "qualifications"
+                }, 
+                {
+                    "begin": 4521, 
+                    "end": 4534, 
+                    "score": 0.11836758255958557, 
+                    "spot": "qualification"
+                }
+            ], 
+            "wiki_id": 6251, 
+            "wiki_title": "Professional certification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3405, 
+                    "end": 3411, 
+                    "score": 0.04968797042965889, 
+                    "spot": "member"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6629, 
+                    "end": 6635, 
+                    "score": 0.0040701753459870815, 
+                    "spot": "answer"
+                }
+            ], 
+            "wiki_id": 4546610, 
+            "wiki_title": "The Answer (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6492, 
+                    "end": 6502, 
+                    "score": 0.10045897960662842, 
+                    "spot": "statements"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6686, 
+                    "end": 6697, 
+                    "score": 0.0009624639060348272, 
+                    "spot": "candidate's"
+                }
+            ], 
+            "wiki_id": 2739671, 
+            "wiki_title": "Candidate of Sciences"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1090, 
+                    "end": 1093, 
+                    "score": 0.32319027185440063, 
+                    "spot": "law"
+                }
+            ], 
+            "wiki_id": 3262885, 
+            "wiki_title": "Law school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 390, 
+                    "end": 395, 
+                    "score": 0.15980713069438934, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 1134, 
+                    "end": 1139, 
+                    "score": 0.2308507114648819, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 2796, 
+                    "end": 2801, 
+                    "score": 0.22631482779979706, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 4698, 
+                    "end": 4704, 
+                    "score": 0.18537059426307678, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 4886, 
+                    "end": 4892, 
+                    "score": 0.15864187479019165, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 5159, 
+                    "end": 5164, 
+                    "score": 0.19564205408096313, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 5760, 
+                    "end": 5766, 
+                    "score": 0.14318272471427917, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 94, 
+                    "end": 97, 
+                    "score": 0.1192953959107399, 
+                    "spot": "add"
+                }
+            ], 
+            "wiki_id": 61338, 
+            "wiki_title": "Addition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2452, 
+                    "end": 2470, 
+                    "score": 0.055013932287693024, 
+                    "spot": "non-discriminatory"
+                }, 
+                {
+                    "begin": 3160, 
+                    "end": 3172, 
+                    "score": 0.23657773435115814, 
+                    "spot": "discriminate"
+                }
+            ], 
+            "wiki_id": 8900, 
+            "wiki_title": "Discrimination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1885, 
+                    "end": 1901, 
+                    "score": 0.5889443159103394, 
+                    "spot": "equal protection"
+                }, 
+                {
+                    "begin": 1885, 
+                    "end": 1913, 
+                    "score": 0.2744755148887634, 
+                    "spot": "equal protection of the laws"
+                }, 
+                {
+                    "begin": 3011, 
+                    "end": 3034, 
+                    "score": 0.4223484992980957, 
+                    "spot": "Equal Protection\nClause"
+                }
+            ], 
+            "wiki_id": 950939, 
+            "wiki_title": "Equal Protection Clause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6572, 
+                    "end": 6580, 
+                    "score": 0.1285519003868103, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 502038, 
+            "wiki_title": "Question"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6959, 
+                    "end": 6974, 
+                    "score": 0.4599989652633667, 
+                    "spot": "general counsel"
+                }
+            ], 
+            "wiki_id": 1838138, 
+            "wiki_title": "General counsel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2328, 
+                    "end": 2334, 
+                    "score": 0.11331615597009659, 
+                    "spot": "number"
+                }, 
+                {
+                    "begin": 6079, 
+                    "end": 6085, 
+                    "score": 0.18293680250644684, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 21690, 
+            "wiki_title": "Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3086, 
+                    "end": 3097, 
+                    "score": 0.02500000037252903, 
+                    "spot": "that clause"
+                }
+            ], 
+            "wiki_id": 5167486, 
+            "wiki_title": "Content clause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6561, 
+                    "end": 6567, 
+                    "score": 0.1295681595802307, 
+                    "spot": "answer"
+                }
+            ], 
+            "wiki_id": 642, 
+            "wiki_title": "Answer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4291, 
+                    "end": 4305, 
+                    "score": 0.2645314931869507, 
+                    "spot": "California law"
+                }
+            ], 
+            "wiki_id": 9859871, 
+            "wiki_title": "Law of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1983, 
+                    "end": 1994, 
+                    "score": 0.11934952437877655, 
+                    "spot": "limitations"
+                }
+            ], 
+            "wiki_id": 21401843, 
+            "wiki_title": "Freedom of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 211, 
+                    "end": 217, 
+                    "score": 0.046067237854003906, 
+                    "spot": "Dillon"
+                }
+            ], 
+            "wiki_id": 12214544, 
+            "wiki_title": "Frank Dillon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1739, 
+                    "end": 1744, 
+                    "score": 0.2542121112346649, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 327672, 
+            "wiki_title": "Natural and legal rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 199, 
+                    "end": 207, 
+                    "score": 0.001228056033141911, 
+                    "spot": "decision"
+                }
+            ], 
+            "wiki_id": 44399484, 
+            "wiki_title": "Obergefell v. Hodges"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 787, 
+                    "end": 793, 
+                    "score": 0.05187860131263733, 
+                    "spot": "office"
+                }, 
+                {
+                    "begin": 2756, 
+                    "end": 2762, 
+                    "score": 0.07110083103179932, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 2995553, 
+            "wiki_title": "The Office (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5363, 
+                    "end": 5370, 
+                    "score": 0.0008547008619643748, 
+                    "spot": "one out"
+                }
+            ], 
+            "wiki_id": 34235493, 
+            "wiki_title": "One-off"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 949, 
+                    "end": 958, 
+                    "score": 0.0036095576360821724, 
+                    "spot": "arguments"
+                }, 
+                {
+                    "begin": 3744, 
+                    "end": 3752, 
+                    "score": 0.010145166888833046, 
+                    "spot": "argument"
+                }
+            ], 
+            "wiki_id": 25065, 
+            "wiki_title": "Parameter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3862, 
+                    "end": 3865, 
+                    "score": 0.0868346318602562, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 231284, 
+            "wiki_title": "CAN bus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1277, 
+                    "score": 0.0005122294533066452, 
+                    "spot": "restrict"
+                }, 
+                {
+                    "begin": 2002, 
+                    "end": 2010, 
+                    "score": 0.0005122294533066452, 
+                    "spot": "restrict"
+                }
+            ], 
+            "wiki_id": 8869115, 
+            "wiki_title": "Restrict"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5176, 
+                    "end": 5183, 
+                    "score": 0.12800507247447968, 
+                    "spot": "invalid"
+                }
+            ], 
+            "wiki_id": 437724, 
+            "wiki_title": "Patient"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4311, 
+                    "end": 4321, 
+                    "score": 0.1356627643108368, 
+                    "spot": "prohibited"
+                }
+            ], 
+            "wiki_id": 22418955, 
+            "wiki_title": "Prohibition in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 120, 
+                    "end": 123, 
+                    "score": 0.02390223741531372, 
+                    "spot": "set"
+                }, 
+                {
+                    "begin": 2324, 
+                    "end": 2327, 
+                    "score": 0.11457806825637817, 
+                    "spot": "set"
+                }, 
+                {
+                    "begin": 6075, 
+                    "end": 6078, 
+                    "score": 0.11457806825637817, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 26691, 
+            "wiki_title": "Set (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5725, 
+                    "end": 5743, 
+                    "score": 0.15319423377513885, 
+                    "spot": "form of government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6249, 
+                    "end": 6257, 
+                    "score": 0.0027059530839323997, 
+                    "spot": "crushing"
+                }
+            ], 
+            "wiki_id": 238029, 
+            "wiki_title": "Crushing (execution)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4120, 
+                    "end": 4134, 
+                    "score": 0.10066056251525879, 
+                    "spot": "representation"
+                }
+            ], 
+            "wiki_id": 309462, 
+            "wiki_title": "Resident Commissioner of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4153, 
+                    "end": 4157, 
+                    "score": 0.11532613635063171, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 29498, 
+            "wiki_title": "Secondary education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6394, 
+                    "end": 6401, 
+                    "score": 0.15469293296337128, 
+                    "spot": "educate"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5343, 
+                    "end": 5353, 
+                    "score": 0.06706048548221588, 
+                    "spot": "re-elected"
+                }
+            ], 
+            "wiki_id": 28395956, 
+            "wiki_title": "UK Independence Party leadership election, 2010"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3912, 
+                    "end": 3915, 
+                    "score": 0.09372194856405258, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6945, 
+                    "end": 6954, 
+                    "score": 0.16114693880081177, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 40811786, 
+            "wiki_title": "President (corporate title)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3121, 
+                    "end": 3126, 
+                    "score": 0.07883825898170471, 
+                    "spot": "cases"
+                }, 
+                {
+                    "begin": 7025, 
+                    "end": 7035, 
+                    "score": 0.098563551902771, 
+                    "spot": "litigation"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 417, 
+                    "end": 422, 
+                    "score": 0.19210313260555267, 
+                    "spot": "limit"
+                }, 
+                {
+                    "begin": 548, 
+                    "end": 559, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 686, 
+                    "end": 696, 
+                    "score": 0.295555979013443, 
+                    "spot": "term-limit"
+                }, 
+                {
+                    "begin": 719, 
+                    "end": 724, 
+                    "score": 0.2586357891559601, 
+                    "spot": "limit"
+                }, 
+                {
+                    "begin": 899, 
+                    "end": 910, 
+                    "score": 0.2715434432029724, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 1079, 
+                    "end": 1089, 
+                    "score": 0.20468680560588837, 
+                    "spot": "term-limit"
+                }, 
+                {
+                    "begin": 1257, 
+                    "end": 1268, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 1349, 
+                    "end": 1360, 
+                    "score": 0.24486513435840607, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 1809, 
+                    "end": 1820, 
+                    "score": 0.2050018459558487, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 2980, 
+                    "end": 2991, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 3305, 
+                    "end": 3316, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 3430, 
+                    "end": 3440, 
+                    "score": 0.4728506803512573, 
+                    "spot": "term limit"
+                }, 
+                {
+                    "begin": 3501, 
+                    "end": 3506, 
+                    "score": 0.08077448606491089, 
+                    "spot": "limit"
+                }, 
+                {
+                    "begin": 3621, 
+                    "end": 3632, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 3758, 
+                    "end": 3769, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 3963, 
+                    "end": 3974, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 5656, 
+                    "end": 5667, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 5824, 
+                    "end": 5835, 
+                    "score": 0.23509658873081207, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 5953, 
+                    "end": 5964, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }, 
+                {
+                    "begin": 5983, 
+                    "end": 5988, 
+                    "score": 0.11947184801101685, 
+                    "spot": "limit"
+                }, 
+                {
+                    "begin": 6612, 
+                    "end": 6622, 
+                    "score": 0.4728506803512573, 
+                    "spot": "term limit"
+                }, 
+                {
+                    "begin": 6707, 
+                    "end": 6718, 
+                    "score": 0.08306623995304108, 
+                    "spot": "term limits"
+                }
+            ], 
+            "wiki_id": 505825, 
+            "wiki_title": "Term limit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5023, 
+                    "end": 5046, 
+                    "score": 0.5, 
+                    "spot": "South Carolina v.\nBaker"
+                }
+            ], 
+            "wiki_id": 8668840, 
+            "wiki_title": "South Carolina v. Baker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3477, 
+                    "end": 3487, 
+                    "score": 0.007378042209893465, 
+                    "spot": "vice versa"
+                }
+            ], 
+            "wiki_id": 18487239, 
+            "wiki_title": "Vice Versa (1988 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1142, 
+                    "end": 1148, 
+                    "score": 0.12808822095394135, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 247724, 
+            "wiki_title": "Augustus II the Strong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4644, 
+                    "end": 4648, 
+                    "score": 0.05044524371623993, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6143, 
+                    "end": 6162, 
+                    "score": 0.22905027866363525, 
+                    "spot": "write-in\" candidate"
+                }, 
+                {
+                    "begin": 6324, 
+                    "end": 6343, 
+                    "score": 0.18458157777786255, 
+                    "spot": "write-in candidates"
+                }, 
+                {
+                    "begin": 6412, 
+                    "end": 6420, 
+                    "score": 0.14513948559761047, 
+                    "spot": "write-in"
+                }
+            ], 
+            "wiki_id": 480905, 
+            "wiki_title": "Write-in candidate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6785, 
+                    "end": 6795, 
+                    "score": 0.04856491461396217, 
+                    "spot": "Incumbents"
+                }
+            ], 
+            "wiki_id": 5771572, 
+            "wiki_title": "Incumbent (ecclesiastical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 596, 
+                    "end": 603, 
+                    "score": 0.2534489333629608, 
+                    "spot": "Florida"
+                }
+            ], 
+            "wiki_id": 18933066, 
+            "wiki_title": "Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2818, 
+                    "end": 2821, 
+                    "score": 0.07313244044780731, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 2921, 
+                    "end": 2924, 
+                    "score": 0.10883838683366776, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3520, 
+                    "end": 3523, 
+                    "score": 0.016099145635962486, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 6058, 
+                    "end": 6061, 
+                    "score": 0.0363953523337841, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2822, 
+                    "end": 2825, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 42069, 
+            "wiki_title": "Brian May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5402, 
+                    "end": 5413, 
+                    "score": 0.2622056305408478, 
+                    "spot": "major-party"
+                }
+            ], 
+            "wiki_id": 18003048, 
+            "wiki_title": "Major party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6583, 
+                    "end": 6591, 
+                    "score": 0.004946043249219656, 
+                    "spot": "Will you"
+                }
+            ], 
+            "wiki_id": 8712691, 
+            "wiki_title": "Will You (P.O.D. song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4109, 
+                    "end": 4119, 
+                    "score": 0.0029827661346644163, 
+                    "spot": "responsive"
+                }, 
+                {
+                    "begin": 5599, 
+                    "end": 5609, 
+                    "score": 0.0029827661346644163, 
+                    "spot": "responsive"
+                }
+            ], 
+            "wiki_id": 34432586, 
+            "wiki_title": "Responsive web design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4501, 
+                    "end": 4509, 
+                    "score": 0.0010284539312124252, 
+                    "spot": "improper"
+                }
+            ], 
+            "wiki_id": 472877, 
+            "wiki_title": "Prior probability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1682, 
+                    "end": 1697, 
+                    "score": 0.5496876239776611, 
+                    "spot": "First Amendment"
+                }
+            ], 
+            "wiki_id": 31653, 
+            "wiki_title": "First Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1476, 
+                    "end": 1484, 
+                    "score": 0.16325491666793823, 
+                    "spot": "decision"
+                }, 
+                {
+                    "begin": 2557, 
+                    "end": 2565, 
+                    "score": 0.06365621834993362, 
+                    "spot": "decision"
+                }, 
+                {
+                    "begin": 2606, 
+                    "end": 2614, 
+                    "score": 0.13405589759349823, 
+                    "spot": "decision"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6315, 
+                    "end": 6320, 
+                    "score": 0.045735783874988556, 
+                    "spot": "terms"
+                }
+            ], 
+            "wiki_id": 10826158, 
+            "wiki_title": "Term of office"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3042, 
+                    "end": 3056, 
+                    "score": 0.5813301205635071, 
+                    "spot": "14th Amendment"
+                }
+            ], 
+            "wiki_id": 31666, 
+            "wiki_title": "Fourteenth Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1408, 
+                    "score": 0.04545454680919647, 
+                    "spot": "weren"
+                }
+            ], 
+            "wiki_id": 13491379, 
+            "wiki_title": "The Sea Beggars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 760, 
+                    "end": 765, 
+                    "score": 0.08857642114162445, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 1065988, 
+            "wiki_title": "Eighth grade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2471, 
+                    "end": 2477, 
+                    "score": 0.08778861165046692, 
+                    "spot": "manner"
+                }
+            ], 
+            "wiki_id": 19942, 
+            "wiki_title": "Manner of articulation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3412, 
+                    "end": 3415, 
+                    "score": 0.001720538828521967, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 3615389, 
+            "wiki_title": "Who (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3098, 
+                    "end": 3106, 
+                    "score": 0.0010353752877563238, 
+                    "spot": "violated"
+                }
+            ], 
+            "wiki_id": 13139276, 
+            "wiki_title": "Violated"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5439, 
+                    "end": 5446, 
+                    "score": 0.0022568795830011368, 
+                    "spot": "qualify"
+                }
+            ], 
+            "wiki_id": 146996, 
+            "wiki_title": "Tournament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1514, 
+                    "end": 1523, 
+                    "score": 0.04493189603090286, 
+                    "spot": "arguments"
+                }, 
+                {
+                    "begin": 1964, 
+                    "end": 1973, 
+                    "score": 0.17014092206954956, 
+                    "spot": "arguments"
+                }
+            ], 
+            "wiki_id": 13018310, 
+            "wiki_title": "Argument"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6537, 
+                    "end": 6546, 
+                    "score": 0.003120686626061797, 
+                    "spot": "candidate"
+                }
+            ], 
+            "wiki_id": 44582614, 
+            "wiki_title": "Bernie Sanders presidential campaign, 2016"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1052, 
+                    "end": 1057, 
+                    "score": 0.0008726121159270406, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1027, 
+                    "end": 1040, 
+                    "score": 0.07284132391214371, 
+                    "spot": "Supreme Court"
+                }
+            ], 
+            "wiki_id": 395852, 
+            "wiki_title": "Supreme Court of India"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5100, 
+                    "end": 5117, 
+                    "score": 0.17735055088996887, 
+                    "spot": "political process"
+                }
+            ], 
+            "wiki_id": 19278463, 
+            "wiki_title": "Political opportunity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1513, 
+                    "score": 0.14059729874134064, 
+                    "spot": "legal"
+                }
+            ], 
+            "wiki_id": 17541, 
+            "wiki_title": "Lawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2183, 
+                    "end": 2192, 
+                    "score": 0.023288894444704056, 
+                    "spot": "viewpoint"
+                }, 
+                {
+                    "begin": 2510, 
+                    "end": 2519, 
+                    "score": 0.004691688809543848, 
+                    "spot": "viewpoint"
+                }
+            ], 
+            "wiki_id": 565176, 
+            "wiki_title": "Narration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1978, 
+                    "end": 1982, 
+                    "score": 0.1046629324555397, 
+                    "spot": "Term"
+                }
+            ], 
+            "wiki_id": 1771587, 
+            "wiki_title": "Pregnancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3986, 
+                    "end": 3992, 
+                    "score": 0.1867019534111023, 
+                    "spot": "states"
+                }, 
+                {
+                    "begin": 5843, 
+                    "end": 5849, 
+                    "score": 0.1542462557554245, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1485, 
+                    "end": 1495, 
+                    "score": 0.06412050127983093, 
+                    "spot": "demolished"
+                }
+            ], 
+            "wiki_id": 43346724, 
+            "wiki_title": "Demolition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5295, 
+                    "end": 5299, 
+                    "score": 0.001594612724147737, 
+                    "spot": "fact"
+                }
+            ], 
+            "wiki_id": 20588095, 
+            "wiki_title": "Fact (UK magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 381, 
+                    "end": 384, 
+                    "score": 0.18150201439857483, 
+                    "spot": "fee"
+                }
+            ], 
+            "wiki_id": 292133, 
+            "wiki_title": "Fee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1569, 
+                    "end": 1586, 
+                    "score": 0.07221206277608871, 
+                    "spot": "fundamental right"
+                }, 
+                {
+                    "begin": 2706, 
+                    "end": 2724, 
+                    "score": 0.07221206277608871, 
+                    "spot": "fundamental\"\nright"
+                }
+            ], 
+            "wiki_id": 2308033, 
+            "wiki_title": "Fundamental rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 137, 
+                    "end": 149, 
+                    "score": 0.1479061394929886, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 911, 
+                    "end": 927, 
+                    "score": 0.4121113419532776, 
+                    "spot": "unconstitutional"
+                }, 
+                {
+                    "begin": 1098, 
+                    "end": 1112, 
+                    "score": 0.3560495972633362, 
+                    "spot": "constitutional"
+                }, 
+                {
+                    "begin": 3712, 
+                    "end": 3724, 
+                    "score": 0.19749638438224792, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 3822, 
+                    "end": 3834, 
+                    "score": 0.14381346106529236, 
+                    "spot": "Constitution"
+                }, 
+                {
+                    "begin": 5777, 
+                    "end": 5789, 
+                    "score": 0.34298816323280334, 
+                    "spot": "Constitution"
+                }
+            ], 
+            "wiki_id": 5253, 
+            "wiki_title": "Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1667, 
+                    "end": 1673, 
+                    "score": 0.2550448179244995, 
+                    "spot": "rights"
+                }
+            ], 
+            "wiki_id": 5278, 
+            "wiki_title": "Copyright"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5530, 
+                    "end": 5551, 
+                    "score": 0.19230769574642181, 
+                    "spot": "effective competition"
+                }
+            ], 
+            "wiki_id": 47365874, 
+            "wiki_title": "Effective competition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4080, 
+                    "end": 4084, 
+                    "score": 0.006711356341838837, 
+                    "spot": "fair"
+                }, 
+                {
+                    "begin": 4724, 
+                    "end": 4728, 
+                    "score": 0.11267860233783722, 
+                    "spot": "fair"
+                }
+            ], 
+            "wiki_id": 16369, 
+            "wiki_title": "Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4551, 
+                    "end": 4565, 
+                    "score": 0.010416666977107525, 
+                    "spot": "state\ninterest"
+                }
+            ], 
+            "wiki_id": 1040123, 
+            "wiki_title": "National interest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7040, 
+                    "end": 7064, 
+                    "score": 0.015883978456258774, 
+                    "spot": "educational organization"
+                }
+            ], 
+            "wiki_id": 3899679, 
+            "wiki_title": "Educational organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 888, 
+                    "end": 892, 
+                    "score": 0.2701961398124695, 
+                    "spot": "rule"
+                }, 
+                {
+                    "begin": 5811, 
+                    "end": 5815, 
+                    "score": 0.31923559308052063, 
+                    "spot": "rule"
+                }
+            ], 
+            "wiki_id": 25166191, 
+            "wiki_title": "Rule of law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 588, 
+                    "score": 0.07111117988824844, 
+                    "spot": "next"
+                }, 
+                {
+                    "begin": 6511, 
+                    "end": 6515, 
+                    "score": 0.05788101255893707, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 55, 
+                    "end": 62, 
+                    "score": 0.33489087224006653, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 55, 
+                    "end": 66, 
+                    "score": 0.25161460041999817, 
+                    "spot": "running\nfor"
+                }, 
+                {
+                    "begin": 3355, 
+                    "end": 3362, 
+                    "score": 0.2530156970024109, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 3355, 
+                    "end": 3366, 
+                    "score": 0.25161460041999817, 
+                    "spot": "running for"
+                }, 
+                {
+                    "begin": 4352, 
+                    "end": 4359, 
+                    "score": 0.3574593961238861, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 4352, 
+                    "end": 4363, 
+                    "score": 0.37705060839653015, 
+                    "spot": "running for"
+                }
+            ], 
+            "wiki_id": 37673268, 
+            "wiki_title": "United States Senate election in North Carolina, 2014"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6117, 
+                    "end": 6120, 
+                    "score": 0.0024755001068115234, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 4240793, 
+            "wiki_title": "Run (Snow Patrol song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2350, 
+                    "end": 2353, 
+                    "score": 0.07708746939897537, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 523571, 
+            "wiki_title": "Erskine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1381, 
+                    "end": 1388, 
+                    "score": 0.14494837820529938, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 243, 
+                    "end": 253, 
+                    "score": 0.2860669493675232, 
+                    "spot": "New Mexico"
+                }
+            ], 
+            "wiki_id": 21649, 
+            "wiki_title": "New Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 991, 
+                    "end": 996, 
+                    "score": 0.007654234766960144, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 201400, 
+            "wiki_title": "Hindu calendar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6935, 
+                    "end": 6941, 
+                    "score": 0.08066083490848541, 
+                    "spot": "Mellor"
+                }
+            ], 
+            "wiki_id": 356905, 
+            "wiki_title": "David Mellor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4103, 
+                    "end": 4108, 
+                    "score": 0.0012504665646702051, 
+                    "spot": "truly"
+                }, 
+                {
+                    "begin": 6197, 
+                    "end": 6202, 
+                    "score": 0.0012504665646702051, 
+                    "spot": "truly"
+                }
+            ], 
+            "wiki_id": 10618603, 
+            "wiki_title": "Truly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4474, 
+                    "end": 4477, 
+                    "score": 0.0832873284816742, 
+                    "spot": "law"
+                }
+            ], 
+            "wiki_id": 299903, 
+            "wiki_title": "Bachelor of Laws"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 221, 
+                    "end": 228, 
+                    "score": 0.0416666679084301, 
+                    "spot": "Fiorina"
+                }
+            ], 
+            "wiki_id": 22167446, 
+            "wiki_title": "Fiorina (San Marino)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4176, 
+                    "end": 4189, 
+                    "score": 0.16811628639698029, 
+                    "spot": "participation"
+                }
+            ], 
+            "wiki_id": 585538, 
+            "wiki_title": "Participation (decision making)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3399, 
+                    "end": 3404, 
+                    "score": 0.010346485301852226, 
+                    "spot": "House"
+                }
+            ], 
+            "wiki_id": 1273596, 
+            "wiki_title": "House (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1217, 
+                    "end": 1228, 
+                    "score": 0.24285146594047546, 
+                    "spot": "bureaucracy"
+                }
+            ], 
+            "wiki_id": 20949522, 
+            "wiki_title": "Bureaucracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5076, 
+                    "end": 5083, 
+                    "score": 0.1490781605243683, 
+                    "spot": "defects"
+                }, 
+                {
+                    "begin": 5270, 
+                    "end": 5277, 
+                    "score": 0.05311552435159683, 
+                    "spot": "defects"
+                }
+            ], 
+            "wiki_id": 383663, 
+            "wiki_title": "Defection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4788, 
+                    "end": 4798, 
+                    "score": 0.2970634698867798, 
+                    "spot": "democratic"
+                }, 
+                {
+                    "begin": 4788, 
+                    "end": 4806, 
+                    "score": 0.3540324568748474, 
+                    "spot": "democratic process"
+                }
+            ], 
+            "wiki_id": 7959, 
+            "wiki_title": "Democracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 542, 
+                    "end": 547, 
+                    "score": 0.2664894461631775, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 862851, 
+            "wiki_title": "State government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 577, 
+                    "end": 583, 
+                    "score": 0.0012513234978541732, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 21119674, 
+            "wiki_title": "The Tested"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2929, 
+                    "end": 2932, 
+                    "score": 0.08183180540800095, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 406792, 
+            "wiki_title": "Fugitive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4085, 
+                    "end": 4101, 
+                    "score": 0.049950215965509415, 
+                    "spot": "electoral system"
+                }
+            ], 
+            "wiki_id": 318313, 
+            "wiki_title": "Electoral system of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 589, 
+                    "end": 594, 
+                    "score": 0.10333220660686493, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 349504, 
+            "wiki_title": "Environment variable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1423, 
+                    "end": 1433, 
+                    "score": 0.1951633095741272, 
+                    "spot": "California"
+                }, 
+                {
+                    "begin": 1465, 
+                    "end": 1475, 
+                    "score": 0.17825743556022644, 
+                    "spot": "California"
+                }, 
+                {
+                    "begin": 1915, 
+                    "end": 1925, 
+                    "score": 0.31552162766456604, 
+                    "spot": "California"
+                }, 
+                {
+                    "begin": 4291, 
+                    "end": 4301, 
+                    "score": 0.3246532678604126, 
+                    "spot": "California"
+                }
+            ], 
+            "wiki_id": 5407, 
+            "wiki_title": "California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4570, 
+                    "end": 4577, 
+                    "score": 0.0008306822273880243, 
+                    "spot": "pursued"
+                }
+            ], 
+            "wiki_id": 1336467, 
+            "wiki_title": "Pursued"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6850, 
+                    "end": 6859, 
+                    "score": 0.007065949030220509, 
+                    "spot": "safeguard"
+                }
+            ], 
+            "wiki_id": 1550414, 
+            "wiki_title": "Safeguard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1370, 
+                    "end": 1379, 
+                    "score": 0.12250000983476639, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2992, 
+                    "end": 2994, 
+                    "score": 0.0007055374444462359, 
+                    "spot": "do"
+                }, 
+                {
+                    "begin": 3317, 
+                    "end": 3319, 
+                    "score": 0.0007055374444462359, 
+                    "spot": "do"
+                }, 
+                {
+                    "begin": 3381, 
+                    "end": 3383, 
+                    "score": 0.0652928277850151, 
+                    "spot": "do"
+                }, 
+                {
+                    "begin": 3493, 
+                    "end": 3495, 
+                    "score": 0.005101260729134083, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 49220, 
+            "wiki_title": "C (musical note)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6822, 
+                    "end": 6827, 
+                    "score": 0.10629626363515854, 
+                    "spot": "count"
+                }
+            ], 
+            "wiki_id": 196470, 
+            "wiki_title": "Count"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3377, 
+                    "end": 3380, 
+                    "score": 0.09844321757555008, 
+                    "spot": "Nor"
+                }
+            ], 
+            "wiki_id": 8262087, 
+            "wiki_title": "VG-lista"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5124, 
+                    "end": 5130, 
+                    "score": 0.06581206619739532, 
+                    "spot": "render"
+                }
+            ], 
+            "wiki_id": 885462, 
+            "wiki_title": "Rendering (animal products)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 965, 
+                    "score": 0.025728855282068253, 
+                    "spot": "Friday"
+                }
+            ], 
+            "wiki_id": 58009, 
+            "wiki_title": "Good Friday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2424, 
+                    "end": 2435, 
+                    "score": 0.0029832322616130114, 
+                    "spot": "restriction"
+                }
+            ], 
+            "wiki_id": 185427, 
+            "wiki_title": "Function (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 9, 
+                    "score": 0.24415969848632812, 
+                    "spot": "State"
+                }, 
+                {
+                    "begin": 729, 
+                    "end": 734, 
+                    "score": 0.23256559669971466, 
+                    "spot": "state"
+                }, 
+                {
+                    "begin": 893, 
+                    "end": 898, 
+                    "score": 0.23889610171318054, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 58598, 
+            "wiki_title": "State court (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5482, 
+                    "end": 5494, 
+                    "score": 0.00800000037997961, 
+                    "spot": "pre-ordained"
+                }
+            ], 
+            "wiki_id": 23705, 
+            "wiki_title": "Predestination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1821, 
+                    "end": 1834, 
+                    "score": 0.014105824753642082, 
+                    "spot": "discriminated"
+                }
+            ], 
+            "wiki_id": 25613, 
+            "wiki_title": "Racism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2067, 
+                    "end": 2075, 
+                    "score": 0.2430793046951294, 
+                    "spot": "ideology"
+                }
+            ], 
+            "wiki_id": 75469, 
+            "wiki_title": "Ideology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4238, 
+                    "end": 4246, 
+                    "score": 0.047599636018276215, 
+                    "spot": "decision"
+                }
+            ], 
+            "wiki_id": 161977, 
+            "wiki_title": "Judgment (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5714, 
+                    "end": 5724, 
+                    "score": 0.34446871280670166, 
+                    "spot": "republican"
+                }
+            ], 
+            "wiki_id": 32070, 
+            "wiki_title": "Republican Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3554, 
+                    "end": 3558, 
+                    "score": 0.0564890094101429, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1942, 
+                    "end": 1950, 
+                    "score": 0.2132653146982193, 
+                    "spot": "rejected"
+                }
+            ], 
+            "wiki_id": 3006497, 
+            "wiki_title": "Social rejection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6026, 
+                    "end": 6032, 
+                    "score": 0.09306006878614426, 
+                    "spot": "States"
+                }
+            ], 
+            "wiki_id": 2860948, 
+            "wiki_title": "States of Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 563, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 14644098, 
+            "wiki_title": "J. Peter May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2315, 
+                    "end": 2321, 
+                    "score": 0.10033205151557922, 
+                    "spot": "office"
+                }, 
+                {
+                    "begin": 6107, 
+                    "end": 6113, 
+                    "score": 0.05561823770403862, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 382507, 
+            "wiki_title": "Office"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7007, 
+                    "end": 7022, 
+                    "score": 0.28505048155784607, 
+                    "spot": "Washington, D.C"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4218, 
+                    "end": 4224, 
+                    "score": 0.10872451215982437, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 427, 
+                    "end": 433, 
+                    "score": 0.137428417801857, 
+                    "spot": "tenure"
+                }
+            ], 
+            "wiki_id": 3153225, 
+            "wiki_title": "Academic tenure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3524, 
+                    "end": 3530, 
+                    "score": 0.020288944244384766, 
+                    "spot": "leaves"
+                }
+            ], 
+            "wiki_id": 3295384, 
+            "wiki_title": "The Leaves"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6911, 
+                    "end": 6919, 
+                    "score": 0.16912885010242462, 
+                    "spot": "surprise"
+                }
+            ], 
+            "wiki_id": 4656210, 
+            "wiki_title": "Surprise (emotion)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3279, 
+                    "end": 3290, 
+                    "score": 0.18124715983867645, 
+                    "spot": "citizenship"
+                }, 
+                {
+                    "begin": 3680, 
+                    "end": 3691, 
+                    "score": 0.12219366431236267, 
+                    "spot": "citizenship"
+                }
+            ], 
+            "wiki_id": 25151566, 
+            "wiki_title": "Citizenship in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 697, 
+                    "end": 707, 
+                    "score": 0.2615494132041931, 
+                    "spot": "initiative"
+                }
+            ], 
+            "wiki_id": 159500, 
+            "wiki_title": "Initiative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4043, 
+                    "end": 4047, 
+                    "score": 0.13073843717575073, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 1439850, 
+            "wiki_title": "Janice Long"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4247, 
+                    "end": 4262, 
+                    "score": 0.5, 
+                    "spot": "Storer\nv. Brown"
+                }
+            ], 
+            "wiki_id": 2920848, 
+            "wiki_title": "Storer v. Brown"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 479, 
+                    "end": 486, 
+                    "score": 0.0011076045921072364, 
+                    "spot": "not yet"
+                }
+            ], 
+            "wiki_id": 30787450, 
+            "wiki_title": "Not Yet (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5649, 
+                    "end": 5654, 
+                    "score": 0.0685252919793129, 
+                    "spot": "basis"
+                }
+            ], 
+            "wiki_id": 5036061, 
+            "wiki_title": "Cost basis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2728, 
+                    "end": 2741, 
+                    "score": 0.192592591047287, 
+                    "spot": "ballot access"
+                }, 
+                {
+                    "begin": 2838, 
+                    "end": 2851, 
+                    "score": 0.192592591047287, 
+                    "spot": "ballot access"
+                }, 
+                {
+                    "begin": 3133, 
+                    "end": 3146, 
+                    "score": 0.192592591047287, 
+                    "spot": "ballot access"
+                }, 
+                {
+                    "begin": 5866, 
+                    "end": 5879, 
+                    "score": 0.3473631739616394, 
+                    "spot": "ballot access"
+                }
+            ], 
+            "wiki_id": 361354, 
+            "wiki_title": "Ballot access"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3291, 
+                    "end": 3303, 
+                    "score": 0.0009671180159784853, 
+                    "spot": "requirements"
+                }, 
+                {
+                    "begin": 3692, 
+                    "end": 3704, 
+                    "score": 0.08689893037080765, 
+                    "spot": "requirements"
+                }
+            ], 
+            "wiki_id": 55940, 
+            "wiki_title": "Nulla poena sine lege"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5091, 
+                    "end": 5099, 
+                    "score": 0.14695315062999725, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21748, 
+            "wiki_title": "Nationalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4545, 
+                    "end": 4550, 
+                    "score": 0.21263815462589264, 
+                    "spot": "valid"
+                }
+            ], 
+            "wiki_id": 239140, 
+            "wiki_title": "Validity (statistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 837, 
+                    "end": 848, 
+                    "score": 0.3956044018268585, 
+                    "spot": "Larry Smith"
+                }
+            ], 
+            "wiki_id": 5780651, 
+            "wiki_title": "Larry Smith (American football coach)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 516, 
+                    "end": 533, 
+                    "score": 0.30661383271217346, 
+                    "spot": "constitutionality"
+                }
+            ], 
+            "wiki_id": 609283, 
+            "wiki_title": "Constitutionality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 502, 
+                    "end": 507, 
+                    "score": 0.2369631975889206, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 879, 
+                    "end": 884, 
+                    "score": 0.3107970356941223, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 933, 
+                    "end": 938, 
+                    "score": 0.35424506664276123, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 1118, 
+                    "end": 1123, 
+                    "score": 0.3466155230998993, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 1318, 
+                    "end": 1323, 
+                    "score": 0.1879158616065979, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 4615, 
+                    "end": 4620, 
+                    "score": 0.09133303910493851, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 5000, 
+                    "end": 5005, 
+                    "score": 0.07991965860128403, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 5216, 
+                    "end": 5221, 
+                    "score": 0.1646089255809784, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 5805, 
+                    "end": 5810, 
+                    "score": 0.3696688115596771, 
+                    "spot": "court"
+                }, 
+                {
+                    "begin": 6774, 
+                    "end": 6780, 
+                    "score": 0.23896095156669617, 
+                    "spot": "courts"
+                }
+            ], 
+            "wiki_id": 75358, 
+            "wiki_title": "Court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 460, 
+                    "end": 473, 
+                    "score": 0.08269425481557846, 
+                    "spot": "officeholders"
+                }, 
+                {
+                    "begin": 1389, 
+                    "end": 1402, 
+                    "score": 0.09978251904249191, 
+                    "spot": "officeholders"
+                }, 
+                {
+                    "begin": 1532, 
+                    "end": 1542, 
+                    "score": 0.02833438664674759, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 1843, 
+                    "end": 1853, 
+                    "score": 0.007848315872251987, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 3510, 
+                    "end": 3519, 
+                    "score": 0.11697880923748016, 
+                    "spot": "incumbent"
+                }, 
+                {
+                    "begin": 5318, 
+                    "end": 5328, 
+                    "score": 0.14721156656742096, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 5379, 
+                    "end": 5389, 
+                    "score": 0.10593671351671219, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 5458, 
+                    "end": 5467, 
+                    "score": 0.061881788074970245, 
+                    "spot": "incumbent"
+                }, 
+                {
+                    "begin": 5579, 
+                    "end": 5589, 
+                    "score": 0.06546439975500107, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 5992, 
+                    "end": 6002, 
+                    "score": 0.0760863870382309, 
+                    "spot": "incumbents"
+                }, 
+                {
+                    "begin": 6048, 
+                    "end": 6057, 
+                    "score": 0.103163942694664, 
+                    "spot": "incumbent"
+                }, 
+                {
+                    "begin": 6182, 
+                    "end": 6191, 
+                    "score": 0.02803754433989525, 
+                    "spot": "incumbent"
+                }, 
+                {
+                    "begin": 6345, 
+                    "end": 6355, 
+                    "score": 0.15975691378116608, 
+                    "spot": "Incumbents"
+                }
+            ], 
+            "wiki_id": 364022, 
+            "wiki_title": "Incumbent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1609, 
+                    "end": 1622, 
+                    "score": 0.1324540376663208, 
+                    "spot": "public office"
+                }
+            ], 
+            "wiki_id": 587618, 
+            "wiki_title": "Public administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1204, 
+                    "score": 0.10192809998989105, 
+                    "spot": "dynastic"
+                }
+            ], 
+            "wiki_id": 1977418, 
+            "wiki_title": "Dynastic order of knighthood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 944, 
+                    "end": 948, 
+                    "score": 0.07167240232229233, 
+                    "spot": "hear"
+                }
+            ], 
+            "wiki_id": 1097011, 
+            "wiki_title": "Hearing (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 606, 
+                    "end": 622, 
+                    "score": 0.5395451188087463, 
+                    "spot": "attorney general"
+                }
+            ], 
+            "wiki_id": 6065438, 
+            "wiki_title": "State attorney general"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2802, 
+                    "end": 2814, 
+                    "score": 0.1711229830980301, 
+                    "spot": "restrictions"
+                }, 
+                {
+                    "begin": 2905, 
+                    "end": 2917, 
+                    "score": 0.10796434432268143, 
+                    "spot": "restrictions"
+                }, 
+                {
+                    "begin": 3147, 
+                    "end": 3159, 
+                    "score": 0.22766107320785522, 
+                    "spot": "restrictions"
+                }, 
+                {
+                    "begin": 4666, 
+                    "end": 4676, 
+                    "score": 0.18661576509475708, 
+                    "spot": "regulation"
+                }, 
+                {
+                    "begin": 4961, 
+                    "end": 4969, 
+                    "score": 0.1052652895450592, 
+                    "spot": "regulate"
+                }, 
+                {
+                    "begin": 5145, 
+                    "end": 5155, 
+                    "score": 0.2352338433265686, 
+                    "spot": "regulation"
+                }, 
+                {
+                    "begin": 5880, 
+                    "end": 5892, 
+                    "score": 0.19217395782470703, 
+                    "spot": "restrictions"
+                }, 
+                {
+                    "begin": 6737, 
+                    "end": 6749, 
+                    "score": 0.2797878384590149, 
+                    "spot": "restrictions"
+                }
+            ], 
+            "wiki_id": 153149, 
+            "wiki_title": "Regulation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1326, 
+                    "end": 1334, 
+                    "score": 0.2520504891872406, 
+                    "spot": "decision"
+                }
+            ], 
+            "wiki_id": 11536778, 
+            "wiki_title": "Judicial opinion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6592, 
+                    "end": 6598, 
+                    "score": 0.001040999311953783, 
+                    "spot": "adhere"
+                }
+            ], 
+            "wiki_id": 835157, 
+            "wiki_title": "Adhesion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6982, 
+                    "end": 7003, 
+                    "score": 0.3449999988079071, 
+                    "spot": "Institute for Justice"
+                }
+            ], 
+            "wiki_id": 604273, 
+            "wiki_title": "Institute for Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6299, 
+                    "end": 6302, 
+                    "score": 0.0008345537935383618, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 372769, 
+            "wiki_title": "Treaty of K\u00fc\u00e7\u00fck Kaynarca"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6698, 
+                    "end": 6703, 
+                    "score": 0.0005428571603260934, 
+                    "spot": "views"
+                }
+            ], 
+            "wiki_id": 1960226, 
+            "wiki_title": "View (SQL)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 368, 
+                    "end": 380, 
+                    "score": 0.09843660145998001, 
+                    "spot": "registration"
+                }
+            ], 
+            "wiki_id": 3182956, 
+            "wiki_title": "Land registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2393, 
+                    "end": 2407, 
+                    "score": 0.022131146863102913, 
+                    "spot": "waiting period"
+                }
+            ], 
+            "wiki_id": 5944784, 
+            "wiki_title": "Waiting period"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5374, 
+                    "end": 5378, 
+                    "score": 0.0011882357066497207, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 28952356, 
+            "wiki_title": "Channel 5 (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5390, 
+                    "end": 5393, 
+                    "score": 0.16621367633342743, 
+                    "spot": "ran"
+                }
+            ], 
+            "wiki_id": 26044379, 
+            "wiki_title": "New Mexico gubernatorial election, 2002"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1876, 
+                    "end": 1901, 
+                    "score": 0.046296294778585434, 
+                    "spot": "right to equal protection"
+                }
+            ], 
+            "wiki_id": 11224741, 
+            "wiki_title": "Right to equal protection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6381, 
+                    "end": 6390, 
+                    "score": 0.14844505488872528, 
+                    "spot": "resources"
+                }
+            ], 
+            "wiki_id": 46053, 
+            "wiki_title": "Human resources"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5414, 
+                    "end": 5424, 
+                    "score": 0.23530615866184235, 
+                    "spot": "opposition"
+                }
+            ], 
+            "wiki_id": 6064874, 
+            "wiki_title": "Opposition Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3647, 
+                    "end": 3650, 
+                    "score": 0.16844262182712555, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 3979796, 
+            "wiki_title": "By the Way (Red Hot Chili Peppers song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 861, 
+                    "end": 867, 
+                    "score": 0.26067090034484863, 
+                    "spot": "briefs"
+                }
+            ], 
+            "wiki_id": 5544594, 
+            "wiki_title": "Papal brief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3489, 
+                    "end": 3492, 
+                    "score": 0.02060924470424652, 
+                    "spot": "Nor"
+                }
+            ], 
+            "wiki_id": 21241, 
+            "wiki_title": "Norway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6890, 
+                    "end": 6893, 
+                    "score": 0.07029788941144943, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 311205, 
+            "wiki_title": "May 1968 events in France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2874, 
+                    "end": 2904, 
+                    "score": 0.06756756454706192, 
+                    "spot": "reasonable,\nnon-discriminatory"
+                }
+            ], 
+            "wiki_id": 657137, 
+            "wiki_title": "Reasonable and non-discriminatory licensing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1184, 
+                    "end": 1194, 
+                    "score": 0.08475865423679352, 
+                    "spot": "entrenched"
+                }
+            ], 
+            "wiki_id": 756290, 
+            "wiki_title": "Entrenched clause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 656, 
+                    "score": 0.3432285785675049, 
+                    "spot": "state Supreme Court"
+                }, 
+                {
+                    "begin": 1928, 
+                    "end": 1941, 
+                    "score": 0.09965375810861588, 
+                    "spot": "highest court"
+                }
+            ], 
+            "wiki_id": 28945, 
+            "wiki_title": "State supreme court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 828, 
+                    "end": 836, 
+                    "score": 0.1993929147720337, 
+                    "spot": "Democrat"
+                }
+            ], 
+            "wiki_id": 5043544, 
+            "wiki_title": "Democratic Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3185, 
+                    "end": 3189, 
+                    "score": 0.17002448439598083, 
+                    "spot": "poor"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 188, 
+                    "score": 0.049119167029857635, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 4982820, 
+            "wiki_title": "HMS Example (P165)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 67, 
+                    "end": 75, 
+                    "score": 0.17577539384365082, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 446, 
+                    "end": 459, 
+                    "score": 0.1267610341310501, 
+                    "spot": "congressional"
+                }, 
+                {
+                    "begin": 801, 
+                    "end": 811, 
+                    "score": 0.29686999320983887, 
+                    "spot": "U.S.\nHouse"
+                }, 
+                {
+                    "begin": 3367, 
+                    "end": 3375, 
+                    "score": 0.1606513112783432, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 4364, 
+                    "end": 4372, 
+                    "score": 0.24896207451820374, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 5312, 
+                    "end": 5317, 
+                    "score": 0.1115194782614708, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 6280, 
+                    "end": 6290, 
+                    "score": 0.15565170347690582, 
+                    "spot": "U.S. House"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 254, 
+                    "end": 257, 
+                    "score": 0.16168566048145294, 
+                    "spot": "law"
+                }, 
+                {
+                    "begin": 975, 
+                    "end": 979, 
+                    "score": 0.06184620410203934, 
+                    "spot": "rule"
+                }
+            ], 
+            "wiki_id": 18949668, 
+            "wiki_title": "Law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3958, 
+                    "end": 3961, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 918901, 
+            "wiki_title": "By the Way"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1205, 
+                    "end": 1216, 
+                    "score": 0.24717311561107635, 
+                    "spot": "legislative"
+                }, 
+                {
+                    "begin": 1775, 
+                    "end": 1785, 
+                    "score": 0.31049835681915283, 
+                    "spot": "legislator"
+                }
+            ], 
+            "wiki_id": 44421, 
+            "wiki_title": "Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 10, 
+                    "end": 18, 
+                    "score": 0.24730131030082703, 
+                    "spot": "statutes"
+                }, 
+                {
+                    "begin": 396, 
+                    "end": 404, 
+                    "score": 0.2161100208759308, 
+                    "spot": "statutes"
+                }
+            ], 
+            "wiki_id": 26783, 
+            "wiki_title": "Statute"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4762, 
+                    "end": 4767, 
+                    "score": 0.08361642807722092, 
+                    "spot": "order"
+                }
+            ], 
+            "wiki_id": 153237, 
+            "wiki_title": "Court order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4754, 
+                    "end": 4758, 
+                    "score": 0.001504387822933495, 
+                    "spot": "sort"
+                }
+            ], 
+            "wiki_id": 4098234, 
+            "wiki_title": "Sort (Unix)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6525, 
+                    "end": 6530, 
+                    "score": 0.0006812706706114113, 
+                    "spot": "names"
+                }
+            ], 
+            "wiki_id": 164226, 
+            "wiki_title": "Name"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3216, 
+                    "end": 3233, 
+                    "score": 0.31693869829177856, 
+                    "spot": "independent party"
+                }, 
+                {
+                    "begin": 4325, 
+                    "end": 4346, 
+                    "score": 0.09675678610801697, 
+                    "spot": "independent candidate"
+                }, 
+                {
+                    "begin": 4416, 
+                    "end": 4427, 
+                    "score": 0.2539627254009247, 
+                    "spot": "Independent"
+                }
+            ], 
+            "wiki_id": 2172378, 
+            "wiki_title": "Independent politician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 939, 
+                    "end": 943, 
+                    "score": 0.20320262014865875, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 5617, 
+                    "end": 5621, 
+                    "score": 0.0587218776345253, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 5893, 
+                    "end": 5897, 
+                    "score": 0.2897971570491791, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3260, 
+                    "end": 3263, 
+                    "score": 0.022142579779028893, 
+                    "spot": "age"
+                }, 
+                {
+                    "begin": 3662, 
+                    "end": 3665, 
+                    "score": 0.0028180181980133057, 
+                    "spot": "age"
+                }
+            ], 
+            "wiki_id": 16413778, 
+            "wiki_title": "Ageing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2015, 
+                    "end": 2028, 
+                    "score": 0.24633868038654327, 
+                    "spot": "right to vote"
+                }, 
+                {
+                    "begin": 2952, 
+                    "end": 2965, 
+                    "score": 0.2465759962797165, 
+                    "spot": "right to vote"
+                }
+            ], 
+            "wiki_id": 70322, 
+            "wiki_title": "Suffrage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1909, 
+                    "end": 1925, 
+                    "score": 0.3239859640598297, 
+                    "spot": "laws.\nCalifornia"
+                }
+            ], 
+            "wiki_id": 5911172, 
+            "wiki_title": "Laws, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4898, 
+                    "end": 4906, 
+                    "score": 0.16177165508270264, 
+                    "spot": "reserved"
+                }
+            ], 
+            "wiki_id": 537518, 
+            "wiki_title": "Indian reserve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6203, 
+                    "end": 6212, 
+                    "score": 0.010664129629731178, 
+                    "spot": "effective"
+                }
+            ], 
+            "wiki_id": 782824, 
+            "wiki_title": "Tax rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2748, 
+                    "end": 2751, 
+                    "score": 0.10939781367778778, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 704498, 
+            "wiki_title": "Bank run"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 812, 
+                    "end": 819, 
+                    "score": 0.10570389777421951, 
+                    "spot": "members"
+                }, 
+                {
+                    "begin": 6291, 
+                    "end": 6298, 
+                    "score": 0.135832741856575, 
+                    "spot": "Members"
+                }
+            ], 
+            "wiki_id": 223225, 
+            "wiki_title": "Member of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3207, 
+                    "end": 3212, 
+                    "score": 0.1438373476266861, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 276495, 
+            "wiki_title": "Small business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5970, 
+                    "end": 5976, 
+                    "score": 0.005304585676640272, 
+                    "spot": "option"
+                }
+            ], 
+            "wiki_id": 9272073, 
+            "wiki_title": "Option (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1364, 
+                    "end": 1369, 
+                    "score": 0.1937381625175476, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 303, 
+            "wiki_title": "Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4193, 
+                    "end": 4202, 
+                    "score": 0.18671074509620667, 
+                    "spot": "elections"
+                }, 
+                {
+                    "begin": 4459, 
+                    "end": 4467, 
+                    "score": 0.2108476758003235, 
+                    "spot": "election"
+                }, 
+                {
+                    "begin": 4680, 
+                    "end": 4689, 
+                    "score": 0.16675981879234314, 
+                    "spot": "elections"
+                }, 
+                {
+                    "begin": 4970, 
+                    "end": 4979, 
+                    "score": 0.11494938284158707, 
+                    "spot": "elections"
+                }, 
+                {
+                    "begin": 5508, 
+                    "end": 5516, 
+                    "score": 0.13069401681423187, 
+                    "spot": "election"
+                }, 
+                {
+                    "begin": 5684, 
+                    "end": 5697, 
+                    "score": 0.4534991383552551, 
+                    "spot": "fair election"
+                }, 
+                {
+                    "begin": 5689, 
+                    "end": 5697, 
+                    "score": 0.46448343992233276, 
+                    "spot": "election"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2764, 
+                    "end": 2778, 
+                    "score": 0.2211979478597641, 
+                    "spot": "Federal courts"
+                }
+            ], 
+            "wiki_id": 1636627, 
+            "wiki_title": "Federal judiciary of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3596, 
+                    "end": 3603, 
+                    "score": 0.027236834168434143, 
+                    "spot": "running"
+                }
+            ], 
+            "wiki_id": 194904, 
+            "wiki_title": "Track and field"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6840, 
+                    "end": 6846, 
+                    "score": 0.0930461511015892, 
+                    "spot": "courts"
+                }
+            ], 
+            "wiki_id": 229718, 
+            "wiki_title": "Court (royal)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4706, 
+                    "end": 4708, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }, 
+                {
+                    "begin": 4746, 
+                    "end": 4748, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3544, 
+                    "end": 3550, 
+                    "score": 0.05996442213654518, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 38203, 
+            "wiki_title": "Menstruation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3651, 
+                    "end": 3657, 
+                    "score": 0.0010291595244780183, 
+                    "spot": "modify"
+                }
+            ], 
+            "wiki_id": 407326, 
+            "wiki_title": "Mod (video gaming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4985, 
+                    "end": 4994, 
+                    "score": 0.0012247728882357478, 
+                    "spot": "Elsewhere"
+                }
+            ], 
+            "wiki_id": 6714260, 
+            "wiki_title": "Elsewhere (anthology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6018, 
+                    "end": 6024, 
+                    "score": 0.16832277178764343, 
+                    "spot": "ballot"
+                }, 
+                {
+                    "begin": 6730, 
+                    "end": 6736, 
+                    "score": 0.19495177268981934, 
+                    "spot": "ballot"
+                }
+            ], 
+            "wiki_id": 193553, 
+            "wiki_title": "Ballot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5966, 
+                    "end": 5969, 
+                    "score": 0.05884312838315964, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3265, 
+                    "end": 3274, 
+                    "score": 0.12038679420948029, 
+                    "spot": "residency"
+                }, 
+                {
+                    "begin": 3667, 
+                    "end": 3676, 
+                    "score": 0.12038679420948029, 
+                    "spot": "residency"
+                }
+            ], 
+            "wiki_id": 1284324, 
+            "wiki_title": "Permanent residency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 124, 
+                    "end": 129, 
+                    "score": 0.0074747405014932156, 
+                    "spot": "forth"
+                }
+            ], 
+            "wiki_id": 18110273, 
+            "wiki_title": "Forth (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4930, 
+                    "end": 4945, 
+                    "score": 0.46542519330978394, 
+                    "spot": "Tenth\nAmendment"
+                }, 
+                {
+                    "begin": 5194, 
+                    "end": 5209, 
+                    "score": 0.31609195470809937, 
+                    "spot": "Tenth Amendment"
+                }
+            ], 
+            "wiki_id": 31662, 
+            "wiki_title": "Tenth Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5689, 
+                    "end": 5704, 
+                    "score": 0.4016958475112915, 
+                    "spot": "election system"
+                }
+            ], 
+            "wiki_id": 29066482, 
+            "wiki_title": "Voting system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 971, 
+                    "end": 974, 
+                    "score": 0.07761549204587936, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 12532320, 
+            "wiki_title": "Maius"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 304, 
+                    "end": 311, 
+                    "score": 0.12189211696386337, 
+                    "spot": "primary"
+                }
+            ], 
+            "wiki_id": 169131, 
+            "wiki_title": "Primary election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1284, 
+                    "end": 1290, 
+                    "score": 0.2262047529220581, 
+                    "spot": "choice"
+                }
+            ], 
+            "wiki_id": 45479, 
+            "wiki_title": "Utility"
+        }
+    ]
+}

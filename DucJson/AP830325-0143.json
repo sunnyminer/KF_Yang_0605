@@ -1,0 +1,5032 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3896, 
+                    "end": 3900, 
+                    "score": 0.004206594079732895, 
+                    "spot": "Alan"
+                }
+            ], 
+            "wiki_id": 45121, 
+            "wiki_title": "Alans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2059, 
+                    "end": 2066, 
+                    "score": 0.06658966094255447, 
+                    "spot": "leaking"
+                }
+            ], 
+            "wiki_id": 3074923, 
+            "wiki_title": "Leak"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 166, 
+                    "end": 173, 
+                    "score": 0.0058610388077795506, 
+                    "spot": "officer"
+                }
+            ], 
+            "wiki_id": 310240, 
+            "wiki_title": "Police officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5060, 
+                    "end": 5064, 
+                    "score": 0.0017701033502817154, 
+                    "spot": "calm"
+                }
+            ], 
+            "wiki_id": 155110, 
+            "wiki_title": "Beaufort scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1302, 
+                    "end": 1309, 
+                    "score": 0.22672007977962494, 
+                    "spot": "reduced"
+                }
+            ], 
+            "wiki_id": 66313, 
+            "wiki_title": "Redox"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6702, 
+                    "end": 6713, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 508151, 
+            "wiki_title": "Her Majesty's Coastguard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7125, 
+                    "end": 7129, 
+                    "score": 0.25990137457847595, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 724, 
+                    "end": 744, 
+                    "score": 0.46097472310066223, 
+                    "spot": "Alaska's North Slope"
+                }, 
+                {
+                    "begin": 733, 
+                    "end": 744, 
+                    "score": 0.32126688957214355, 
+                    "spot": "North Slope"
+                }, 
+                {
+                    "begin": 5342, 
+                    "end": 5353, 
+                    "score": 0.06830985844135284, 
+                    "spot": "North\nSlope"
+                }
+            ], 
+            "wiki_id": 500309, 
+            "wiki_title": "Alaska North Slope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3131, 
+                    "end": 3135, 
+                    "score": 0.0020556426607072353, 
+                    "spot": "miss"
+                }
+            ], 
+            "wiki_id": 1288291, 
+            "wiki_title": "Man in Space Soonest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4524, 
+                    "end": 4532, 
+                    "score": 0.08850889652967453, 
+                    "spot": "business"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4801, 
+                    "end": 4805, 
+                    "score": 0.03520389646291733, 
+                    "spot": "feel"
+                }
+            ], 
+            "wiki_id": 3370756, 
+            "wiki_title": "Feel (Kumi Koda song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2291, 
+                    "end": 2294, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }, 
+                {
+                    "begin": 3127, 
+                    "end": 3130, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "You"
+                }
+            ], 
+            "wiki_id": 8944898, 
+            "wiki_title": "The Mail on Sunday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5770, 
+                    "end": 5772, 
+                    "score": 0.06524050980806351, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5955, 
+                    "end": 5964, 
+                    "score": 0.07897616177797318, 
+                    "spot": "conducted"
+                }
+            ], 
+            "wiki_id": 199162, 
+            "wiki_title": "Conducting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5635, 
+                    "end": 5643, 
+                    "score": 0.2538759410381317, 
+                    "spot": "icebergs"
+                }
+            ], 
+            "wiki_id": 146230, 
+            "wiki_title": "Iceberg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 791, 
+                    "end": 803, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }, 
+                {
+                    "begin": 1929, 
+                    "end": 1941, 
+                    "score": 0.5426754951477051, 
+                    "spot": "Exxon\nValdez"
+                }, 
+                {
+                    "begin": 2517, 
+                    "end": 2529, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }, 
+                {
+                    "begin": 5019, 
+                    "end": 5025, 
+                    "score": 0.14933812618255615, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 5449, 
+                    "end": 5455, 
+                    "score": 0.1372576355934143, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 5542, 
+                    "end": 5554, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }
+            ], 
+            "wiki_id": 189482, 
+            "wiki_title": "Exxon Valdez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 137, 
+                    "end": 143, 
+                    "score": 0.3256659507751465, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 604, 
+                    "end": 610, 
+                    "score": 0.3207654356956482, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 724, 
+                    "end": 730, 
+                    "score": 0.5750235319137573, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 3247, 
+                    "end": 3253, 
+                    "score": 0.4144788980484009, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 4785, 
+                    "end": 4791, 
+                    "score": 0.37008970975875854, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 5506, 
+                    "end": 5512, 
+                    "score": 0.4537472724914551, 
+                    "spot": "Alaska"
+                }
+            ], 
+            "wiki_id": 624, 
+            "wiki_title": "Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1884, 
+                    "end": 1889, 
+                    "score": 0.06513520330190659, 
+                    "spot": "begin"
+                }
+            ], 
+            "wiki_id": 1872322, 
+            "wiki_title": "Begin (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6096, 
+                    "end": 6102, 
+                    "score": 0.13987916707992554, 
+                    "spot": "McCall"
+                }
+            ], 
+            "wiki_id": 3300469, 
+            "wiki_title": "USS McCall (DD-400)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3140, 
+                    "end": 3151, 
+                    "score": 0.07026161253452301, 
+                    "spot": "opportunity"
+                }
+            ], 
+            "wiki_id": 355849, 
+            "wiki_title": "Equal opportunity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3729, 
+                    "end": 3734, 
+                    "score": 0.051029980182647705, 
+                    "spot": "catch"
+                }
+            ], 
+            "wiki_id": 363336, 
+            "wiki_title": "Bycatch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1621, 
+                    "end": 1633, 
+                    "score": 0.1030644029378891, 
+                    "spot": "contaminated"
+                }, 
+                {
+                    "begin": 3821, 
+                    "end": 3829, 
+                    "score": 0.15660078823566437, 
+                    "spot": "polluted"
+                }, 
+                {
+                    "begin": 5050, 
+                    "end": 5055, 
+                    "score": 0.030671197921037674, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 312266, 
+            "wiki_title": "Water pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3901, 
+                    "end": 3909, 
+                    "score": 0.08715596050024033, 
+                    "spot": "Reichman"
+                }
+            ], 
+            "wiki_id": 33849956, 
+            "wiki_title": "Davina Reichman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3945, 
+                    "end": 3964, 
+                    "score": 0.3437093496322632, 
+                    "spot": "environmental\ngroup"
+                }
+            ], 
+            "wiki_id": 45434, 
+            "wiki_title": "Environmental movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4871, 
+                    "end": 4876, 
+                    "score": 0.2770792841911316, 
+                    "spot": "clean"
+                }
+            ], 
+            "wiki_id": 1055890, 
+            "wiki_title": "Sustainable energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2780, 
+                    "end": 2783, 
+                    "score": 0.08908024430274963, 
+                    "spot": "rig"
+                }
+            ], 
+            "wiki_id": 51011, 
+            "wiki_title": "Rigging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 498, 
+                    "end": 507, 
+                    "score": 0.12432365119457245, 
+                    "spot": "nightmare"
+                }
+            ], 
+            "wiki_id": 46262, 
+            "wiki_title": "Nightmare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1406, 
+                    "score": 0.02698003314435482, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 994887, 
+            "wiki_title": "Petroleum industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1000, 
+                    "end": 1004, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4555, 
+                    "end": 4562, 
+                    "score": 0.010224687866866589, 
+                    "spot": "station"
+                }
+            ], 
+            "wiki_id": 2839690, 
+            "wiki_title": "Television station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3091, 
+                    "end": 3101, 
+                    "score": 0.0016048501711338758, 
+                    "spot": "five hours"
+                }, 
+                {
+                    "begin": 3309, 
+                    "end": 3319, 
+                    "score": 0.0016048501711338758, 
+                    "spot": "five hours"
+                }
+            ], 
+            "wiki_id": 43473244, 
+            "wiki_title": "Five Hours"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 366, 
+                    "end": 370, 
+                    "score": 0.28570473194122314, 
+                    "spot": "Reef"
+                }
+            ], 
+            "wiki_id": 240844, 
+            "wiki_title": "Reef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2217, 
+                    "end": 2224, 
+                    "score": 0.03286311775445938, 
+                    "spot": "removal"
+                }
+            ], 
+            "wiki_id": 15080, 
+            "wiki_title": "Indian removal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6259, 
+                    "end": 6264, 
+                    "score": 0.06717494875192642, 
+                    "spot": "tests"
+                }, 
+                {
+                    "begin": 6396, 
+                    "end": 6401, 
+                    "score": 0.09219876676797867, 
+                    "spot": "tests"
+                }
+            ], 
+            "wiki_id": 30863, 
+            "wiki_title": "Test cricket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 117, 
+                    "end": 122, 
+                    "score": 0.10078156739473343, 
+                    "spot": "ocean"
+                }
+            ], 
+            "wiki_id": 23070, 
+            "wiki_title": "Pacific Ocean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5092, 
+                    "end": 5100, 
+                    "score": 0.19865907728672028, 
+                    "spot": "polluted"
+                }
+            ], 
+            "wiki_id": 10934212, 
+            "wiki_title": "Air pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6778, 
+                    "end": 6784, 
+                    "score": 0.1798953115940094, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 7025, 
+                    "end": 7031, 
+                    "score": 0.07387559860944748, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 2506366, 
+            "wiki_title": "Tanker (ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2425, 
+                    "end": 2433, 
+                    "score": 0.0010875476291403174, 
+                    "spot": "endanger"
+                }
+            ], 
+            "wiki_id": 3722991, 
+            "wiki_title": "Endangerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5555, 
+                    "end": 5561, 
+                    "score": 0.08668442815542221, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 5016402, 
+            "wiki_title": "Landfall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5487, 
+                    "end": 5497, 
+                    "score": 0.19910404086112976, 
+                    "spot": "refineries"
+                }
+            ], 
+            "wiki_id": 339530, 
+            "wiki_title": "Refinery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 851, 
+                    "end": 858, 
+                    "score": 0.09754898399114609, 
+                    "spot": "outside"
+                }, 
+                {
+                    "begin": 5498, 
+                    "end": 5505, 
+                    "score": 0.07404862344264984, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 24568907, 
+            "wiki_title": "Outside (Alaska)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2413, 
+                    "end": 2424, 
+                    "score": 0.11794871836900711, 
+                    "spot": "not ... you"
+                }
+            ], 
+            "wiki_id": 5166327, 
+            "wiki_title": "Not for You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1322, 
+                    "end": 1328, 
+                    "score": 0.14688707888126373, 
+                    "spot": "impact"
+                }, 
+                {
+                    "begin": 7214, 
+                    "end": 7223, 
+                    "score": 0.12680906057357788, 
+                    "spot": "collision"
+                }
+            ], 
+            "wiki_id": 63794, 
+            "wiki_title": "Impact event"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1344, 
+                    "end": 1352, 
+                    "score": 0.258571982383728, 
+                    "spot": "enclosed"
+                }
+            ], 
+            "wiki_id": 318980, 
+            "wiki_title": "Endorheic basin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1532, 
+                    "end": 1540, 
+                    "score": 0.1487271636724472, 
+                    "spot": "channels"
+                }
+            ], 
+            "wiki_id": 5623, 
+            "wiki_title": "Canal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5916, 
+                    "end": 5920, 
+                    "score": 0.09230899810791016, 
+                    "spot": "test"
+                }
+            ], 
+            "wiki_id": 10086055, 
+            "wiki_title": "Test (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2438, 
+                    "end": 2447, 
+                    "score": 0.09938386082649231, 
+                    "spot": "stability"
+                }
+            ], 
+            "wiki_id": 10675964, 
+            "wiki_title": "Ship stability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2646, 
+                    "end": 2665, 
+                    "score": 0.5, 
+                    "spot": "Pacific Strike\nTeam"
+                }
+            ], 
+            "wiki_id": 24167777, 
+            "wiki_title": "Deployable Operations Group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1237, 
+                    "end": 1242, 
+                    "score": 0.14579172432422638, 
+                    "spot": "ideal"
+                }
+            ], 
+            "wiki_id": 65905, 
+            "wiki_title": "Ideal gas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6182, 
+                    "end": 6188, 
+                    "score": 0.09908998757600784, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 1979839, 
+            "wiki_title": "Sunday strip"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4540, 
+                    "end": 4546, 
+                    "score": 0.021119486540555954, 
+                    "spot": "animal"
+                }
+            ], 
+            "wiki_id": 11039790, 
+            "wiki_title": "Animal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5212, 
+                    "end": 5221, 
+                    "score": 0.14757713675498962, 
+                    "spot": "Last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5775, 
+                    "end": 5780, 
+                    "score": 0.10208947956562042, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 396572, 
+            "wiki_title": "Television pilot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3295, 
+                    "end": 3301, 
+                    "score": 0.009660933166742325, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 366027, 
+            "wiki_title": "Action (Canadian TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5026, 
+                    "end": 5032, 
+                    "score": 0.16287067532539368, 
+                    "spot": "marine"
+                }, 
+                {
+                    "begin": 6432, 
+                    "end": 6438, 
+                    "score": 0.1247815191745758, 
+                    "spot": "marine"
+                }
+            ], 
+            "wiki_id": 17349325, 
+            "wiki_title": "United States Marine Corps"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6509, 
+                    "end": 6518, 
+                    "score": 0.0016476957825943828, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3703, 
+                    "end": 3709, 
+                    "score": 0.000514304090756923, 
+                    "spot": "depend"
+                }
+            ], 
+            "wiki_id": 47827622, 
+            "wiki_title": "Depend (undergarment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1816, 
+                    "end": 1820, 
+                    "score": 0.13781973719596863, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4425, 
+                    "end": 4432, 
+                    "score": 0.07858884334564209, 
+                    "spot": "sailing"
+                }, 
+                {
+                    "begin": 4516, 
+                    "end": 4523, 
+                    "score": 0.2006964385509491, 
+                    "spot": "sailing"
+                }
+            ], 
+            "wiki_id": 27672, 
+            "wiki_title": "Sailing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5124, 
+                    "end": 5131, 
+                    "score": 0.23099294304847717, 
+                    "spot": "primary"
+                }
+            ], 
+            "wiki_id": 11253941, 
+            "wiki_title": "Flight feather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3573, 
+                    "end": 3579, 
+                    "score": 0.1882951259613037, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 6345, 
+                    "end": 6351, 
+                    "score": 0.09123019129037857, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3348, 
+                    "end": 3353, 
+                    "score": 0.11129558831453323, 
+                    "spot": "hours"
+                }
+            ], 
+            "wiki_id": 3326435, 
+            "wiki_title": "The Hours (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 277, 
+                    "end": 282, 
+                    "score": 0.0016137325437739491, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 666863, 
+            "wiki_title": "Kevin Thorn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3174, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 22739770, 
+            "wiki_title": "In the Beginning (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2321, 
+                    "end": 2327, 
+                    "score": 0.1709747612476349, 
+                    "spot": "vessel"
+                }
+            ], 
+            "wiki_id": 568715, 
+            "wiki_title": "Packaging and labeling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2654, 
+                    "end": 2665, 
+                    "score": 0.04058855026960373, 
+                    "spot": "Strike\nTeam"
+                }
+            ], 
+            "wiki_id": 407897, 
+            "wiki_title": "Wing Commander (franchise)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2130, 
+                    "end": 2133, 
+                    "score": 0.11443328857421875, 
+                    "spot": "lie"
+                }
+            ], 
+            "wiki_id": 229723, 
+            "wiki_title": "Lie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 859, 
+                    "end": 865, 
+                    "score": 0.17119237780570984, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 4616, 
+                    "end": 4622, 
+                    "score": 0.14230355620384216, 
+                    "spot": "Valdez"
+                }, 
+                {
+                    "begin": 5292, 
+                    "end": 5306, 
+                    "score": 0.3214285671710968, 
+                    "spot": "Port of Valdez"
+                }, 
+                {
+                    "begin": 5300, 
+                    "end": 5306, 
+                    "score": 0.3778304159641266, 
+                    "spot": "Valdez"
+                }
+            ], 
+            "wiki_id": 105697, 
+            "wiki_title": "Valdez, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1385, 
+                    "end": 1393, 
+                    "score": 0.0025100400671362877, 
+                    "spot": "only way"
+                }
+            ], 
+            "wiki_id": 31189608, 
+            "wiki_title": "The Only Way (1927 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3540, 
+                    "end": 3547, 
+                    "score": 0.11960406601428986, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 7485, 
+            "wiki_title": "Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3387, 
+                    "end": 3392, 
+                    "score": 0.11135932058095932, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 206818, 
+            "wiki_title": "Seven (1995 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4228, 
+                    "end": 4231, 
+                    "score": 0.08586609363555908, 
+                    "spot": "try"
+                }
+            ], 
+            "wiki_id": 36685709, 
+            "wiki_title": "Try (Pink song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 152, 
+                    "end": 165, 
+                    "score": 0.12503217160701752, 
+                    "spot": "environmental"
+                }
+            ], 
+            "wiki_id": 64919, 
+            "wiki_title": "Environmental science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4009, 
+                    "end": 4022, 
+                    "score": 0.12866486608982086, 
+                    "spot": "concentration"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1864, 
+                    "end": 1868, 
+                    "score": 0.2709400951862335, 
+                    "spot": "reef"
+                }, 
+                {
+                    "begin": 5566, 
+                    "end": 5570, 
+                    "score": 0.16617605090141296, 
+                    "spot": "reef"
+                }
+            ], 
+            "wiki_id": 87410, 
+            "wiki_title": "Coral reef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3012, 
+                    "end": 3027, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5590, 
+                    "end": 5597, 
+                    "score": 0.001071595004759729, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 15602770, 
+            "wiki_title": "Outside (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4336, 
+                    "end": 4342, 
+                    "score": 0.1786336600780487, 
+                    "spot": "Whales"
+                }
+            ], 
+            "wiki_id": 33777, 
+            "wiki_title": "Whale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7075, 
+                    "end": 7088, 
+                    "score": 0.7775411605834961, 
+                    "spot": "Galveston\nBay"
+                }, 
+                {
+                    "begin": 7075, 
+                    "end": 7095, 
+                    "score": 0.7307692170143127, 
+                    "spot": "Galveston\nBay, Texas"
+                }
+            ], 
+            "wiki_id": 593579, 
+            "wiki_title": "Galveston Bay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6737, 
+                    "end": 6744, 
+                    "score": 0.0009618648909963667, 
+                    "spot": "routine"
+                }
+            ], 
+            "wiki_id": 32177451, 
+            "wiki_title": "Subroutine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 146, 
+                    "end": 151, 
+                    "score": 0.09007291495800018, 
+                    "spot": "chief"
+                }
+            ], 
+            "wiki_id": 524622, 
+            "wiki_title": "Chief petty officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2617, 
+                    "end": 2624, 
+                    "score": 0.07855134457349777, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 223225, 
+            "wiki_title": "Member of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2408, 
+                    "end": 2424, 
+                    "score": 0.09859155118465424, 
+                    "spot": "it's\nnot ... you"
+                }
+            ], 
+            "wiki_id": 43310054, 
+            "wiki_title": "It's Not You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 824, 
+                    "end": 834, 
+                    "score": 0.5, 
+                    "spot": "Bligh Reef"
+                }
+            ], 
+            "wiki_id": 197930, 
+            "wiki_title": "Bligh Reef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2156, 
+                    "end": 2164, 
+                    "score": 0.2034899890422821, 
+                    "spot": "masthead"
+                }
+            ], 
+            "wiki_id": 917817, 
+            "wiki_title": "Mast (sailing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 344, 
+                    "end": 355, 
+                    "score": 0.24850594997406006, 
+                    "spot": "Coast Guard"
+                }, 
+                {
+                    "begin": 2632, 
+                    "end": 2643, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }, 
+                {
+                    "begin": 5521, 
+                    "end": 5532, 
+                    "score": 0.3255942463874817, 
+                    "spot": "Coast Guard"
+                }, 
+                {
+                    "begin": 6071, 
+                    "end": 6082, 
+                    "score": 0.21918538212776184, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 32223, 
+            "wiki_title": "United States Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3183, 
+                    "end": 3185, 
+                    "score": 0.01462466735392809, 
+                    "spot": "ve"
+                }
+            ], 
+            "wiki_id": 153895, 
+            "wiki_title": "Gender-specific and gender-neutral pronouns"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 625, 
+                    "end": 651, 
+                    "score": 0.037931036204099655, 
+                    "spot": "Environmental\nConservation"
+                }
+            ], 
+            "wiki_id": 375743, 
+            "wiki_title": "Environmental protection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1711, 
+                    "end": 1717, 
+                    "score": 0.17088547348976135, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 1828, 
+                    "end": 1834, 
+                    "score": 0.15032809972763062, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 2455, 
+                    "end": 2461, 
+                    "score": 0.21955588459968567, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 5652, 
+                    "end": 5658, 
+                    "score": 0.2516716718673706, 
+                    "spot": "vessel"
+                }, 
+                {
+                    "begin": 7067, 
+                    "end": 7071, 
+                    "score": 0.10250810533761978, 
+                    "spot": "ship"
+                }
+            ], 
+            "wiki_id": 27008, 
+            "wiki_title": "Ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2490, 
+                    "end": 2494, 
+                    "score": 0.10916716605424881, 
+                    "spot": "boom"
+                }
+            ], 
+            "wiki_id": 1658669, 
+            "wiki_title": "Boom (sailing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2149, 
+                    "end": 2153, 
+                    "score": 0.13133467733860016, 
+                    "spot": "ship"
+                }
+            ], 
+            "wiki_id": 1138566, 
+            "wiki_title": "Full-rigged ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 333, 
+                    "end": 338, 
+                    "score": 0.1610373854637146, 
+                    "spot": "Sound"
+                }
+            ], 
+            "wiki_id": 55268, 
+            "wiki_title": "\u00d8resund"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1072, 
+                    "end": 1079, 
+                    "score": 0.050289928913116455, 
+                    "spot": "Richard"
+                }
+            ], 
+            "wiki_id": 25473, 
+            "wiki_title": "Richard Nixon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 394, 
+                    "end": 398, 
+                    "score": 0.10504159331321716, 
+                    "spot": "edge"
+                }
+            ], 
+            "wiki_id": 181601, 
+            "wiki_title": "The Edge (1997 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6331, 
+                    "end": 6339, 
+                    "score": 0.00440383143723011, 
+                    "spot": "know how"
+                }
+            ], 
+            "wiki_id": 4707950, 
+            "wiki_title": "Know-how"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4862, 
+                    "end": 4867, 
+                    "score": 0.17365141212940216, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 556, 
+                    "end": 561, 
+                    "score": 0.06350168585777283, 
+                    "spot": "sound"
+                }, 
+                {
+                    "begin": 3717, 
+                    "end": 3722, 
+                    "score": 0.05025126785039902, 
+                    "spot": "sound"
+                }, 
+                {
+                    "begin": 4495, 
+                    "end": 4500, 
+                    "score": 0.13206326961517334, 
+                    "spot": "sound"
+                }
+            ], 
+            "wiki_id": 18994087, 
+            "wiki_title": "Sound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3638, 
+                    "end": 3646, 
+                    "score": 0.1796872317790985, 
+                    "spot": "wildlife"
+                }
+            ], 
+            "wiki_id": 144219, 
+            "wiki_title": "Wildlife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4948, 
+                    "end": 4951, 
+                    "score": 0.0006853084196336567, 
+                    "spot": "She"
+                }
+            ], 
+            "wiki_id": 4967070, 
+            "wiki_title": "She (1965 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4004, 
+                    "end": 4008, 
+                    "score": 0.14772292971611023, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 1481886, 
+            "wiki_title": "Cannabis (drug)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6994, 
+                    "end": 6998, 
+                    "score": 0.015550807118415833, 
+                    "spot": "lost"
+                }, 
+                {
+                    "begin": 7358, 
+                    "end": 7362, 
+                    "score": 0.019637787714600563, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 456, 
+                    "end": 465, 
+                    "score": 0.034045323729515076, 
+                    "spot": "situation"
+                }
+            ], 
+            "wiki_id": 20913980, 
+            "wiki_title": "Sitcom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1523, 
+                    "end": 1527, 
+                    "score": 0.26716670393943787, 
+                    "spot": "bays"
+                }
+            ], 
+            "wiki_id": 3935892, 
+            "wiki_title": "Bay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3179, 
+                    "end": 3182, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 14148802, 
+            "wiki_title": "With You (Chris Brown song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2258, 
+                    "end": 2260, 
+                    "score": 0.0028638376388698816, 
+                    "spot": "Ed"
+                }
+            ], 
+            "wiki_id": 18005849, 
+            "wiki_title": "Efficiency Decoration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1437, 
+                    "end": 1447, 
+                    "score": 0.0015663070371374488, 
+                    "spot": "traversing"
+                }
+            ], 
+            "wiki_id": 4472911, 
+            "wiki_title": "Traverse (surveying)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4929, 
+                    "end": 4936, 
+                    "score": 0.15595103800296783, 
+                    "spot": "habitat"
+                }
+            ], 
+            "wiki_id": 1596317, 
+            "wiki_title": "Habitat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2612, 
+                    "end": 2624, 
+                    "score": 0.0009130335529334843, 
+                    "spot": "four members"
+                }
+            ], 
+            "wiki_id": 28476841, 
+            "wiki_title": "Four Members"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 845, 
+                    "end": 850, 
+                    "score": 0.039103783667087555, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 5379, 
+                    "end": 5384, 
+                    "score": 0.03740744665265083, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 208, 
+                    "end": 212, 
+                    "score": 0.1419798582792282, 
+                    "spot": "slow"
+                }
+            ], 
+            "wiki_id": 2438941, 
+            "wiki_title": "Slow movement (culture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 808, 
+                    "end": 812, 
+                    "score": 0.0018001369899138808, 
+                    "spot": "hard"
+                }
+            ], 
+            "wiki_id": 124802, 
+            "wiki_title": "Hard rock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2204, 
+                    "end": 2211, 
+                    "score": 0.001091905520297587, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 4080078, 
+            "wiki_title": "Worry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6060, 
+                    "end": 6066, 
+                    "score": 0.15533283352851868, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 7115, 
+                    "end": 7121, 
+                    "score": 0.1775306910276413, 
+                    "spot": "burned"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 669, 
+                    "end": 676, 
+                    "score": 0.32089993357658386, 
+                    "spot": "barrels"
+                }, 
+                {
+                    "begin": 918, 
+                    "end": 925, 
+                    "score": 0.1854621022939682, 
+                    "spot": "barrels"
+                }, 
+                {
+                    "begin": 961, 
+                    "end": 968, 
+                    "score": 0.16575931012630463, 
+                    "spot": "barrels"
+                }
+            ], 
+            "wiki_id": 594043, 
+            "wiki_title": "Barrel (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5410, 
+                    "end": 5422, 
+                    "score": 0.14216360449790955, 
+                    "spot": "oil\npipeline"
+                }
+            ], 
+            "wiki_id": 51111, 
+            "wiki_title": "Pipeline transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6690, 
+                    "end": 6696, 
+                    "score": 0.042064182460308075, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 3613092, 
+            "wiki_title": "NBC Sunday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4155, 
+                    "end": 4165, 
+                    "score": 0.2079169899225235, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 11968, 
+            "wiki_title": "George Washington"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4579, 
+                    "end": 4587, 
+                    "score": 0.0569729208946228, 
+                    "spot": "building"
+                }
+            ], 
+            "wiki_id": 239038, 
+            "wiki_title": "Construction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2928, 
+                    "end": 2933, 
+                    "score": 0.004960541147738695, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 3325, 
+                    "end": 3330, 
+                    "score": 0.004960541147738695, 
+                    "spot": "spill"
+                }
+            ], 
+            "wiki_id": 31486263, 
+            "wiki_title": "Spill (audio)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4095, 
+                    "end": 4110, 
+                    "score": 0.10227272659540176, 
+                    "spot": "Steve Goldstein"
+                }
+            ], 
+            "wiki_id": 38105737, 
+            "wiki_title": "Steve Goldstein"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3735, 
+                    "end": 3740, 
+                    "score": 0.08748086541891098, 
+                    "spot": "worth"
+                }
+            ], 
+            "wiki_id": 405981, 
+            "wiki_title": "Net worth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2361, 
+                    "end": 2371, 
+                    "score": 0.23565548658370972, 
+                    "spot": "controlled"
+                }
+            ], 
+            "wiki_id": 1640288, 
+            "wiki_title": "Scientific control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3419, 
+                    "end": 3435, 
+                    "score": 0.2579461336135864, 
+                    "spot": "Alyeska\nPipeline"
+                }
+            ], 
+            "wiki_id": 197732, 
+            "wiki_title": "Trans-Alaska Pipeline System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4732, 
+                    "end": 4736, 
+                    "score": 0.07077935338020325, 
+                    "spot": "drew"
+                }
+            ], 
+            "wiki_id": 8544, 
+            "wiki_title": "Drawing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5938, 
+                    "end": 5944, 
+                    "score": 0.06471584737300873, 
+                    "spot": "method"
+                }
+            ], 
+            "wiki_id": 5403612, 
+            "wiki_title": "Method (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1720, 
+                    "end": 1724, 
+                    "score": 0.23308992385864258, 
+                    "spot": "hull"
+                }
+            ], 
+            "wiki_id": 13755, 
+            "wiki_title": "Hull (watercraft)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3980, 
+                    "end": 3987, 
+                    "score": 0.276020348072052, 
+                    "spot": "Seattle"
+                }
+            ], 
+            "wiki_id": 11388236, 
+            "wiki_title": "Seattle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1095, 
+                    "score": 0.1717103123664856, 
+                    "spot": "Boston"
+                }
+            ], 
+            "wiki_id": 24437894, 
+            "wiki_title": "Boston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7283, 
+                    "end": 7290, 
+                    "score": 0.2584410309791565, 
+                    "spot": "Captain"
+                }
+            ], 
+            "wiki_id": 9320627, 
+            "wiki_title": "Captain (naval)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3436, 
+                    "end": 3443, 
+                    "score": 0.0904320552945137, 
+                    "spot": "Service"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4174, 
+                    "end": 4179, 
+                    "score": 0.11161594092845917, 
+                    "spot": "birds"
+                }
+            ], 
+            "wiki_id": 304428, 
+            "wiki_title": "The Birds (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6870, 
+                    "end": 6876, 
+                    "score": 0.2103375345468521, 
+                    "spot": "shoals"
+                }
+            ], 
+            "wiki_id": 295148, 
+            "wiki_title": "Shoal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4571, 
+                    "end": 4573, 
+                    "score": 0.023638326674699783, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5316, 
+                    "end": 5322, 
+                    "score": 0.0880521833896637, 
+                    "spot": "closed"
+                }
+            ], 
+            "wiki_id": 4695, 
+            "wiki_title": "Bankruptcy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2256, 
+                    "score": 0.005863991100341082, 
+                    "spot": "Lt"
+                }
+            ], 
+            "wiki_id": 5587977, 
+            "wiki_title": "Tackle (gridiron football position)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7228, 
+                    "end": 7234, 
+                    "score": 0.11549422144889832, 
+                    "spot": "Tobago"
+                }
+            ], 
+            "wiki_id": 162070, 
+            "wiki_title": "Tobago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5598, 
+                    "end": 5604, 
+                    "score": 0.004796805325895548, 
+                    "spot": "normal"
+                }
+            ], 
+            "wiki_id": 173224, 
+            "wiki_title": "Normal (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2559, 
+                    "end": 2563, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 2117829, 
+            "wiki_title": "Help! (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1794, 
+                    "end": 1802, 
+                    "score": 0.15689605474472046, 
+                    "spot": "Shipping"
+                }, 
+                {
+                    "begin": 5367, 
+                    "end": 5374, 
+                    "score": 0.1160249263048172, 
+                    "spot": "shipped"
+                }, 
+                {
+                    "begin": 5460, 
+                    "end": 5468, 
+                    "score": 0.14134298264980316, 
+                    "spot": "shipment"
+                }
+            ], 
+            "wiki_id": 28362, 
+            "wiki_title": "Freight transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1603, 
+                    "end": 1612, 
+                    "score": 0.0994962751865387, 
+                    "spot": "shoreline"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5796, 
+                    "end": 5808, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }
+            ], 
+            "wiki_id": 10243, 
+            "wiki_title": "Exxon Valdez oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1803, 
+                    "end": 1805, 
+                    "score": 0.12451884895563126, 
+                    "spot": "Co"
+                }
+            ], 
+            "wiki_id": 6136, 
+            "wiki_title": "Carbon monoxide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5879, 
+                    "end": 5888, 
+                    "score": 0.12725311517715454, 
+                    "spot": "chemicals"
+                }
+            ], 
+            "wiki_id": 9722260, 
+            "wiki_title": "Chemical substance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 304, 
+                    "end": 309, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 15650187, 
+            "wiki_title": "Miles Straume"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1353, 
+                    "end": 1366, 
+                    "score": 0.018386291339993477, 
+                    "spot": "body of water"
+                }
+            ], 
+            "wiki_id": 875900, 
+            "wiki_title": "Body of water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5994, 
+                    "end": 5998, 
+                    "score": 0.060138531029224396, 
+                    "spot": "test"
+                }
+            ], 
+            "wiki_id": 337775, 
+            "wiki_title": "Nuclear weapons testing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4443, 
+                    "end": 4446, 
+                    "score": 0.09046453982591629, 
+                    "spot": "zoo"
+                }
+            ], 
+            "wiki_id": 9096372, 
+            "wiki_title": "Zoo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1698, 
+                    "end": 1703, 
+                    "score": 0.07545638084411621, 
+                    "spot": "holes"
+                }
+            ], 
+            "wiki_id": 172078, 
+            "wiki_title": "Whitewater"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3444, 
+                    "end": 3446, 
+                    "score": 0.12469354271888733, 
+                    "spot": "Co"
+                }
+            ], 
+            "wiki_id": 5399, 
+            "wiki_title": "Colorado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6586, 
+                    "end": 6598, 
+                    "score": 0.32591816782951355, 
+                    "spot": "crew members"
+                }
+            ], 
+            "wiki_id": 1600248, 
+            "wiki_title": "Crewman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 185, 
+                    "end": 192, 
+                    "score": 0.19425341486930847, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 1154, 
+                    "end": 1161, 
+                    "score": 0.08774055540561676, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 1257, 
+                    "end": 1264, 
+                    "score": 0.1866425722837448, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 4547, 
+                    "end": 4554, 
+                    "score": 0.03875255584716797, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 4871, 
+                    "end": 4879, 
+                    "score": 0.285116046667099, 
+                    "spot": "clean up"
+                }
+            ], 
+            "wiki_id": 406260, 
+            "wiki_title": "Environmental remediation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4662, 
+                    "end": 4669, 
+                    "score": 0.009862115606665611, 
+                    "spot": "animals"
+                }
+            ], 
+            "wiki_id": 77003, 
+            "wiki_title": "The Animals"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 283, 
+                    "end": 293, 
+                    "score": 0.0037485582288354635, 
+                    "spot": "miles long"
+                }
+            ], 
+            "wiki_id": 26088970, 
+            "wiki_title": "Miles Long"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2119, 
+                    "end": 2124, 
+                    "score": 0.06564885377883911, 
+                    "spot": "tanks"
+                }
+            ], 
+            "wiki_id": 1559537, 
+            "wiki_title": "Armoured warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1459, 
+                    "end": 1465, 
+                    "score": 0.05430375412106514, 
+                    "spot": "length"
+                }
+            ], 
+            "wiki_id": 5090199, 
+            "wiki_title": "Length overall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7032, 
+                    "end": 7044, 
+                    "score": 0.375, 
+                    "spot": "Burmah Agate"
+                }
+            ], 
+            "wiki_id": 27611324, 
+            "wiki_title": "Burmah Agate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3502, 
+                    "end": 3508, 
+                    "score": 0.5, 
+                    "spot": "Donnel"
+                }
+            ], 
+            "wiki_id": 38080750, 
+            "wiki_title": "Frank A. O'Donnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6108, 
+                    "end": 6144, 
+                    "score": 0.5, 
+                    "spot": "National Transportation\nSafety Board"
+                }, 
+                {
+                    "begin": 6662, 
+                    "end": 6666, 
+                    "score": 0.355427086353302, 
+                    "spot": "NTSB"
+                }
+            ], 
+            "wiki_id": 21840, 
+            "wiki_title": "National Transportation Safety Board"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1162, 
+                    "end": 1171, 
+                    "score": 0.23651188611984253, 
+                    "spot": "equipment"
+                }, 
+                {
+                    "begin": 2803, 
+                    "end": 2812, 
+                    "score": 0.2751601040363312, 
+                    "spot": "equipment"
+                }
+            ], 
+            "wiki_id": 51462, 
+            "wiki_title": "Machine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2372, 
+                    "end": 2378, 
+                    "score": 0.15351857244968414, 
+                    "spot": "manner"
+                }
+            ], 
+            "wiki_id": 620667, 
+            "wiki_title": "Methodology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 402, 
+                    "end": 407, 
+                    "score": 0.1888619065284729, 
+                    "spot": "Bligh"
+                }
+            ], 
+            "wiki_id": 33900, 
+            "wiki_title": "William Bligh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7173, 
+                    "end": 7180, 
+                    "score": 0.10224214196205139, 
+                    "spot": "history"
+                }
+            ], 
+            "wiki_id": 748853, 
+            "wiki_title": "History (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 537, 
+                    "end": 540, 
+                    "score": 0.1415402889251709, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2232, 
+                    "end": 2235, 
+                    "score": 0.07313176244497299, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2310, 
+                    "end": 2313, 
+                    "score": 0.14241565763950348, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2572, 
+                    "end": 2575, 
+                    "score": 0.08264943957328796, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2832, 
+                    "end": 2835, 
+                    "score": 0.18345923721790314, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 7111, 
+                    "end": 7114, 
+                    "score": 0.1928257793188095, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 4207510, 
+            "wiki_title": "Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3798, 
+                    "end": 3806, 
+                    "score": 0.201015442609787, 
+                    "spot": "spawning"
+                }, 
+                {
+                    "begin": 5140, 
+                    "end": 5148, 
+                    "score": 0.2724449932575226, 
+                    "spot": "spawning"
+                }
+            ], 
+            "wiki_id": 19653966, 
+            "wiki_title": "Spawn (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 82, 
+                    "score": 0.10945723205804825, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 145698, 
+            "wiki_title": "Seafloor spreading"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1613, 
+                    "end": 1617, 
+                    "score": 0.05671337991952896, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5965, 
+                    "end": 5983, 
+                    "score": 0.0011867088032886386, 
+                    "spot": "Saturday afternoon"
+                }
+            ], 
+            "wiki_id": 48435671, 
+            "wiki_title": "Turning Point (Chuck Wicks album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2333, 
+                    "end": 2337, 
+                    "score": 0.28932690620422363, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 1776839, 
+            "wiki_title": "Sample size determination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5428, 
+                    "end": 5439, 
+                    "score": 0.39423078298568726, 
+                    "spot": "Prudhoe Bay"
+                }
+            ], 
+            "wiki_id": 12185824, 
+            "wiki_title": "Prudhoe Bay Oil Field"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1890, 
+                    "end": 1897, 
+                    "score": 0.004667345434427261, 
+                    "spot": "pumping"
+                }
+            ], 
+            "wiki_id": 35888668, 
+            "wiki_title": "Pumping (audio)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6083, 
+                    "end": 6087, 
+                    "score": 0.1480943262577057, 
+                    "spot": "Cmdr"
+                }
+            ], 
+            "wiki_id": 14157109, 
+            "wiki_title": "Commander (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1973, 
+                    "end": 1984, 
+                    "score": 0.2639053463935852, 
+                    "spot": "Baton Rouge"
+                }, 
+                {
+                    "begin": 2544, 
+                    "end": 2555, 
+                    "score": 0.24180564284324646, 
+                    "spot": "Baton Rouge"
+                }, 
+                {
+                    "begin": 2843, 
+                    "end": 2854, 
+                    "score": 0.349802702665329, 
+                    "spot": "Baton Rouge"
+                }
+            ], 
+            "wiki_id": 57835, 
+            "wiki_title": "Baton Rouge, Louisiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1010, 
+                    "end": 1015, 
+                    "score": 0.010060809552669525, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 1506950, 
+            "wiki_title": "Men's major golf championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6860, 
+                    "end": 6869, 
+                    "score": 0.47718891501426697, 
+                    "spot": "Nantucket"
+                }
+            ], 
+            "wiki_id": 62254, 
+            "wiki_title": "Nantucket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5155, 
+                    "end": 5164, 
+                    "score": 0.2636479437351227, 
+                    "spot": "Fishermen"
+                }
+            ], 
+            "wiki_id": 36581, 
+            "wiki_title": "Fishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 386, 
+                    "end": 393, 
+                    "score": 0.057114455848932266, 
+                    "spot": "western"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 64, 
+                    "end": 75, 
+                    "score": 0.013894325122237206, 
+                    "spot": "ran aground"
+                }, 
+                {
+                    "begin": 813, 
+                    "end": 820, 
+                    "score": 0.0026091081090271473, 
+                    "spot": "aground"
+                }
+            ], 
+            "wiki_id": 14396096, 
+            "wiki_title": "Ship grounding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3790, 
+                    "end": 3797, 
+                    "score": 0.32773756980895996, 
+                    "spot": "herring"
+                }, 
+                {
+                    "begin": 5132, 
+                    "end": 5139, 
+                    "score": 0.43556690216064453, 
+                    "spot": "herring"
+                }
+            ], 
+            "wiki_id": 49890, 
+            "wiki_title": "Herring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1656, 
+                    "end": 1664, 
+                    "score": 0.07756233215332031, 
+                    "spot": "Saturday"
+                }, 
+                {
+                    "begin": 5852, 
+                    "end": 5860, 
+                    "score": 0.0024017111863940954, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 54631, 
+            "wiki_title": "Saturday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2018, 
+                    "end": 2029, 
+                    "score": 0.04230235517024994, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6215, 
+                    "end": 6220, 
+                    "score": 0.057130616158246994, 
+                    "spot": "probe"
+                }
+            ], 
+            "wiki_id": 58957, 
+            "wiki_title": "Robotic spacecraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6233, 
+                    "end": 6236, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 23385833, 
+            "wiki_title": "Neoplatonism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4468, 
+                    "end": 4471, 
+                    "score": 0.027491560205817223, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5840, 
+                    "end": 5851, 
+                    "score": 0.26498526334762573, 
+                    "spot": "no decision"
+                }
+            ], 
+            "wiki_id": 300785, 
+            "wiki_title": "Win\u2013loss record (pitching)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 541, 
+                    "end": 548, 
+                    "score": 0.10932056605815887, 
+                    "spot": "traffic"
+                }, 
+                {
+                    "begin": 5333, 
+                    "end": 5340, 
+                    "score": 0.085942842066288, 
+                    "spot": "traffic"
+                }, 
+                {
+                    "begin": 5612, 
+                    "end": 5625, 
+                    "score": 0.2540639638900757, 
+                    "spot": "traffic lanes"
+                }
+            ], 
+            "wiki_id": 43081, 
+            "wiki_title": "Traffic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3911, 
+                    "end": 3924, 
+                    "score": 0.1924169659614563, 
+                    "spot": "ocean ecology"
+                }
+            ], 
+            "wiki_id": 20021, 
+            "wiki_title": "Marine biology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6439, 
+                    "end": 6448, 
+                    "score": 0.08436679095029831, 
+                    "spot": "accidents"
+                }
+            ], 
+            "wiki_id": 24462937, 
+            "wiki_title": "Accident"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4914, 
+                    "end": 4926, 
+                    "score": 0.11310601234436035, 
+                    "spot": "organization"
+                }
+            ], 
+            "wiki_id": 105070, 
+            "wiki_title": "Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2295, 
+                    "end": 2300, 
+                    "score": 0.05245288833975792, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 430699, 
+            "wiki_title": "START I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4026, 
+                    "end": 4035, 
+                    "score": 0.6228029727935791, 
+                    "spot": "sea otter"
+                }
+            ], 
+            "wiki_id": 567471, 
+            "wiki_title": "Sea otter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3917, 
+                    "end": 3924, 
+                    "score": 0.3590574860572815, 
+                    "spot": "ecology"
+                }
+            ], 
+            "wiki_id": 9630, 
+            "wiki_title": "Ecology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6357, 
+                    "end": 6363, 
+                    "score": 0.0012513234978541732, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 42372632, 
+            "wiki_title": "Tested (Glee)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2784, 
+                    "end": 2789, 
+                    "score": 0.19182784855365753, 
+                    "spot": "pumps"
+                }
+            ], 
+            "wiki_id": 23617, 
+            "wiki_title": "Pump"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5006, 
+                    "end": 5011, 
+                    "score": 0.0661737471818924, 
+                    "spot": "close"
+                }
+            ], 
+            "wiki_id": 255597, 
+            "wiki_title": "Alley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6488, 
+                    "end": 6499, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 146790, 
+            "wiki_title": "Coast guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3217, 
+                    "end": 3229, 
+                    "score": 0.009860890917479992, 
+                    "spot": "do something"
+                }
+            ], 
+            "wiki_id": 2327298, 
+            "wiki_title": "Do Something"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4062, 
+                    "end": 4073, 
+                    "score": 0.3484848439693451, 
+                    "spot": "pink salmon"
+                }
+            ], 
+            "wiki_id": 1880230, 
+            "wiki_title": "Pink salmon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2186, 
+                    "end": 2194, 
+                    "score": 0.05485433340072632, 
+                    "spot": "accident"
+                }, 
+                {
+                    "begin": 6206, 
+                    "end": 6214, 
+                    "score": 0.11711575090885162, 
+                    "spot": "accident"
+                }
+            ], 
+            "wiki_id": 19740545, 
+            "wiki_title": "Traffic collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2876, 
+                    "end": 2884, 
+                    "score": 0.0008062096894718707, 
+                    "spot": "critical"
+                }
+            ], 
+            "wiki_id": 317947, 
+            "wiki_title": "Music journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2587, 
+                    "end": 2594, 
+                    "score": 0.0596320703625679, 
+                    "spot": "vessels"
+                }
+            ], 
+            "wiki_id": 301664, 
+            "wiki_title": "Watercraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6831, 
+                    "end": 6844, 
+                    "score": 0.5, 
+                    "spot": "Argo Merchant"
+                }
+            ], 
+            "wiki_id": 4240139, 
+            "wiki_title": "MV Argo Merchant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3807, 
+                    "end": 3811, 
+                    "score": 0.047215912491083145, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 4082, 
+                    "end": 4086, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 4278, 
+                    "end": 4282, 
+                    "score": 0.03979463875293732, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 5149, 
+                    "end": 5153, 
+                    "score": 0.036324258893728256, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6586, 
+                    "end": 6590, 
+                    "score": 0.31169188022613525, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 6801, 
+            "wiki_title": "Crew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 880, 
+                    "end": 885, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 721481, 
+            "wiki_title": "Taken (miniseries)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3285, 
+                    "end": 3290, 
+                    "score": 0.000768016092479229, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 369978, 
+            "wiki_title": "Bird vocalization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 987, 
+                    "end": 999, 
+                    "score": 0.0017241379246115685, 
+                    "spot": "What we have"
+                }
+            ], 
+            "wiki_id": 47598811, 
+            "wiki_title": "What We Have"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5965, 
+                    "end": 5973, 
+                    "score": 0.04408557340502739, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 31521466, 
+            "wiki_title": "Samstag aus Licht"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1851, 
+                    "end": 1856, 
+                    "score": 0.18771883845329285, 
+                    "spot": "shelf"
+                }
+            ], 
+            "wiki_id": 416651, 
+            "wiki_title": "Continental shelf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 927, 
+                    "end": 934, 
+                    "score": 0.13659904897212982, 
+                    "spot": "Initial"
+                }, 
+                {
+                    "begin": 2944, 
+                    "end": 2951, 
+                    "score": 0.06446681171655655, 
+                    "spot": "initial"
+                }
+            ], 
+            "wiki_id": 1052571, 
+            "wiki_title": "Acronym"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3484, 
+                    "end": 3493, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 4114, 
+                    "end": 4123, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1741, 
+                    "end": 1745, 
+                    "score": 0.07727119326591492, 
+                    "spot": "swim"
+                }
+            ], 
+            "wiki_id": 27999, 
+            "wiki_title": "Human swimming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2082, 
+                    "end": 2091, 
+                    "score": 0.14076673984527588, 
+                    "spot": "operation"
+                }
+            ], 
+            "wiki_id": 666301, 
+            "wiki_title": "Military operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4037, 
+                    "end": 4046, 
+                    "score": 0.48803216218948364, 
+                    "spot": "waterfowl"
+                }
+            ], 
+            "wiki_id": 158885, 
+            "wiki_title": "Waterfowl"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6145, 
+                    "end": 6158, 
+                    "score": 0.19492124021053314, 
+                    "spot": "investigators"
+                }, 
+                {
+                    "begin": 6667, 
+                    "end": 6680, 
+                    "score": 0.16112422943115234, 
+                    "spot": "investigators"
+                }
+            ], 
+            "wiki_id": 118576, 
+            "wiki_title": "Detective"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4244, 
+                    "end": 4248, 
+                    "score": 0.17003709077835083, 
+                    "spot": "fish"
+                }
+            ], 
+            "wiki_id": 4699587, 
+            "wiki_title": "Fish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5440, 
+                    "end": 5445, 
+                    "score": 0.10682183504104614, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4455, 
+                    "end": 4458, 
+                    "score": 0.0031762123107910156, 
+                    "spot": "Jim"
+                }
+            ], 
+            "wiki_id": 2043917, 
+            "wiki_title": "Jim Reid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5928, 
+                    "end": 5937, 
+                    "score": 0.1729910671710968, 
+                    "spot": "dispersal"
+                }
+            ], 
+            "wiki_id": 1677930, 
+            "wiki_title": "Seed dispersal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3597, 
+                    "end": 3600, 
+                    "score": 0.19095651805400848, 
+                    "spot": "job"
+                }, 
+                {
+                    "begin": 4673, 
+                    "end": 4677, 
+                    "score": 0.16781575977802277, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3965, 
+                    "end": 3975, 
+                    "score": 0.6544930338859558, 
+                    "spot": "Greenpeace"
+                }
+            ], 
+            "wiki_id": 12233, 
+            "wiki_title": "Greenpeace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 27, 
+                    "end": 36, 
+                    "score": 0.47160476446151733, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 709, 
+                    "end": 718, 
+                    "score": 0.39654991030693054, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 1917, 
+                    "end": 1920, 
+                    "score": 0.2517862021923065, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 2043, 
+                    "end": 2046, 
+                    "score": 0.1308709681034088, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 4267, 
+                    "end": 4270, 
+                    "score": 0.12221662700176239, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 5354, 
+                    "end": 5363, 
+                    "score": 0.1959225982427597, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 6041, 
+                    "end": 6050, 
+                    "score": 0.37841808795928955, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 6928, 
+                    "end": 6931, 
+                    "score": 0.2308347076177597, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 6986, 
+                    "end": 6989, 
+                    "score": 0.1471146196126938, 
+                    "spot": "oil"
+                }, 
+                {
+                    "begin": 7350, 
+                    "end": 7353, 
+                    "score": 0.13885541260242462, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 23195, 
+            "wiki_title": "Petroleum"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5033, 
+                    "end": 5041, 
+                    "score": 0.04901283606886864, 
+                    "spot": "terminal"
+                }
+            ], 
+            "wiki_id": 423849, 
+            "wiki_title": "Airport terminal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4567, 
+                    "end": 4573, 
+                    "score": 0.0006567189702764153, 
+                    "spot": "set up"
+                }
+            ], 
+            "wiki_id": 40623398, 
+            "wiki_title": "The Music of Grand Theft Auto V"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7276, 
+                    "end": 7282, 
+                    "score": 0.1899288296699524, 
+                    "spot": "Aegean"
+                }
+            ], 
+            "wiki_id": 842, 
+            "wiki_title": "Aegean Sea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3494, 
+                    "end": 3499, 
+                    "score": 0.02185525745153427, 
+                    "spot": "Chuck"
+                }
+            ], 
+            "wiki_id": 9966036, 
+            "wiki_title": "Chuck (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5175, 
+                    "end": 5181, 
+                    "score": 0.34820589423179626, 
+                    "spot": "salmon"
+                }
+            ], 
+            "wiki_id": 36984, 
+            "wiki_title": "Salmon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 265, 
+                    "end": 270, 
+                    "score": 0.0139967305585742, 
+                    "spot": "slick"
+                }, 
+                {
+                    "begin": 439, 
+                    "end": 444, 
+                    "score": 0.04744341969490051, 
+                    "spot": "slick"
+                }
+            ], 
+            "wiki_id": 1221140, 
+            "wiki_title": "Birds of Prey (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 577, 
+                    "end": 582, 
+                    "score": 0.2446422576904297, 
+                    "spot": "Kelso"
+                }, 
+                {
+                    "begin": 3236, 
+                    "end": 3241, 
+                    "score": 0.2691443860530853, 
+                    "spot": "Kelso"
+                }
+            ], 
+            "wiki_id": 137887, 
+            "wiki_title": "Kelso, Washington"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 57, 
+                    "end": 63, 
+                    "score": 0.38010522723197937, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 790, 
+                    "score": 0.23551946878433228, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 1955, 
+                    "end": 1961, 
+                    "score": 0.21747907996177673, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 5326, 
+                    "end": 5332, 
+                    "score": 0.2286166250705719, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 5476, 
+                    "end": 5483, 
+                    "score": 0.3266545832157135, 
+                    "spot": "tankers"
+                }, 
+                {
+                    "begin": 6845, 
+                    "end": 6851, 
+                    "score": 0.3255155086517334, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 7157, 
+                    "end": 7163, 
+                    "score": 0.3915013372898102, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 7242, 
+                    "end": 7254, 
+                    "score": 0.3079390227794647, 
+                    "spot": "supertankers"
+                }
+            ], 
+            "wiki_id": 15923603, 
+            "wiki_title": "Oil tanker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1130, 
+                    "end": 1138, 
+                    "score": 0.01519686821848154, 
+                    "spot": "Bulletin"
+                }
+            ], 
+            "wiki_id": 20719927, 
+            "wiki_title": "The Bulletin (Bend)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1967, 
+                    "end": 1972, 
+                    "score": 0.38195982575416565, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2538, 
+                    "end": 2543, 
+                    "score": 0.33077555894851685, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 5703, 
+                    "end": 5708, 
+                    "score": 0.4103606939315796, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 10239, 
+            "wiki_title": "Exxon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4567, 
+                    "end": 4570, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4373, 
+                    "end": 4379, 
+                    "score": 0.34598851203918457, 
+                    "spot": "common"
+                }
+            ], 
+            "wiki_id": 370608, 
+            "wiki_title": "Common dolphin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4772, 
+                    "end": 4781, 
+                    "score": 0.15911231935024261, 
+                    "spot": "Fishermen"
+                }
+            ], 
+            "wiki_id": 242592, 
+            "wiki_title": "Fisherman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5275, 
+                    "end": 5283, 
+                    "score": 0.00160633132327348, 
+                    "spot": "she said"
+                }
+            ], 
+            "wiki_id": 26449392, 
+            "wiki_title": "She Said"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6524, 
+                    "end": 6532, 
+                    "score": 0.0024017111863940954, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 2782051, 
+            "wiki_title": "Jeff Saturday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 424, 
+                    "end": 431, 
+                    "score": 0.00198494759388268, 
+                    "spot": "touched"
+                }
+            ], 
+            "wiki_id": 2285492, 
+            "wiki_title": "Touched (Buffy the Vampire Slayer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4344, 
+                    "end": 4353, 
+                    "score": 0.33395493030548096, 
+                    "spot": "porpoises"
+                }
+            ], 
+            "wiki_id": 46037, 
+            "wiki_title": "Porpoise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1416, 
+                    "end": 1419, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 845825, 
+            "wiki_title": "Out (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 480, 
+                    "end": 488, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2106, 
+                    "end": 2112, 
+                    "score": 0.03518551588058472, 
+                    "spot": "Eleven"
+                }
+            ], 
+            "wiki_id": 31663216, 
+            "wiki_title": "Apostle (Christian)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5892, 
+                    "end": 5900, 
+                    "score": 0.08282629400491714, 
+                    "spot": "disperse"
+                }
+            ], 
+            "wiki_id": 4855071, 
+            "wiki_title": "Dispersion (chemistry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3651, 
+                    "end": 3658, 
+                    "score": 0.0011076045921072364, 
+                    "spot": "not yet"
+                }
+            ], 
+            "wiki_id": 30787450, 
+            "wiki_title": "Not Yet (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 759, 
+                    "end": 765, 
+                    "score": 0.006413811352103949, 
+                    "spot": "Friday"
+                }
+            ], 
+            "wiki_id": 169788, 
+            "wiki_title": "Friday (1995 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2170, 
+                    "end": 2178, 
+                    "score": 0.05125756934285164, 
+                    "spot": "ruptured"
+                }
+            ], 
+            "wiki_id": 5811552, 
+            "wiki_title": "Anterior cruciate ligament injury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6089, 
+                    "end": 6095, 
+                    "score": 0.0018042278243228793, 
+                    "spot": "Steven"
+                }
+            ], 
+            "wiki_id": 26940, 
+            "wiki_title": "Steven Spielberg"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1760, 
+                    "end": 1765, 
+                    "score": 0.03708750009536743, 
+                    "spot": "Frank"
+                }
+            ], 
+            "wiki_id": 11181, 
+            "wiki_title": "Frank Sinatra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5670, 
+                    "end": 5686, 
+                    "score": 0.7614591717720032, 
+                    "spot": "Joseph Hazelwood"
+                }
+            ], 
+            "wiki_id": 1602698, 
+            "wiki_title": "Joseph Hazelwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4412, 
+                    "end": 4416, 
+                    "score": 0.0005715259467251599, 
+                    "spot": "kind"
+                }
+            ], 
+            "wiki_id": 3624256, 
+            "wiki_title": "In kind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1064, 
+                    "end": 1070, 
+                    "score": 0.0036862632259726524, 
+                    "spot": "expert"
+                }
+            ], 
+            "wiki_id": 26221250, 
+            "wiki_title": "Dungeons &amp; Dragons Expert Set"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1775, 
+                    "end": 1784, 
+                    "score": 0.14620859920978546, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24110, 
+            "wiki_title": "President"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6245, 
+                    "end": 6258, 
+                    "score": 0.004332755692303181, 
+                    "spot": "blood-alcohol"
+                }
+            ], 
+            "wiki_id": 4845, 
+            "wiki_title": "Blood alcohol content"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2696, 
+                    "end": 2703, 
+                    "score": 0.07064589858055115, 
+                    "spot": "trained"
+                }
+            ], 
+            "wiki_id": 1018652, 
+            "wiki_title": "Breakwater (structure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 123, 
+                    "end": 131, 
+                    "score": 0.010347845032811165, 
+                    "spot": "Saturday"
+                }, 
+                {
+                    "begin": 2004, 
+                    "end": 2012, 
+                    "score": 0.0040861088782548904, 
+                    "spot": "Saturday"
+                }, 
+                {
+                    "begin": 2751, 
+                    "end": 2759, 
+                    "score": 0.0024017111863940954, 
+                    "spot": "Saturday"
+                }, 
+                {
+                    "begin": 3028, 
+                    "end": 3036, 
+                    "score": 0.0024017111863940954, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 28809, 
+            "wiki_title": "Shabbat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4888, 
+                    "end": 4896, 
+                    "score": 0.5, 
+                    "spot": "Riki Ott"
+                }, 
+                {
+                    "begin": 5069, 
+                    "end": 5072, 
+                    "score": 0.17265334725379944, 
+                    "spot": "Ott"
+                }
+            ], 
+            "wiki_id": 37905890, 
+            "wiki_title": "Riki Ott"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5974, 
+                    "end": 5983, 
+                    "score": 0.002372191986069083, 
+                    "spot": "afternoon"
+                }
+            ], 
+            "wiki_id": 1569790, 
+            "wiki_title": "Monthly Afternoon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 611, 
+                    "end": 651, 
+                    "score": 0.07870370149612427, 
+                    "spot": "Department of Environmental\nConservation"
+                }, 
+                {
+                    "begin": 6799, 
+                    "end": 6802, 
+                    "score": 0.08433452993631363, 
+                    "spot": "Dec"
+                }
+            ], 
+            "wiki_id": 6585153, 
+            "wiki_title": "New York State Department of Environmental Conservation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 804, 
+                    "end": 807, 
+                    "score": 0.08275894075632095, 
+                    "spot": "ran"
+                }
+            ], 
+            "wiki_id": 26327, 
+            "wiki_title": "Royal Australian Navy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4235, 
+                    "end": 4239, 
+                    "score": 0.055946722626686096, 
+                    "spot": "save"
+                }
+            ], 
+            "wiki_id": 3290910, 
+            "wiki_title": "Save River (Africa)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1788, 
+                    "end": 1793, 
+                    "score": 0.35064420104026794, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 18848197, 
+            "wiki_title": "ExxonMobil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6799, 
+                    "end": 6806, 
+                    "score": 0.006000000052154064, 
+                    "spot": "Dec. 15"
+                }, 
+                {
+                    "begin": 7002, 
+                    "end": 7008, 
+                    "score": 0.0047961631789803505, 
+                    "spot": "Nov. 1"
+                }
+            ], 
+            "wiki_id": 21460, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3846, 
+                    "end": 3856, 
+                    "score": 0.14211171865463257, 
+                    "spot": "food chain"
+                }
+            ], 
+            "wiki_id": 32077676, 
+            "wiki_title": "Food chain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1692, 
+                    "end": 1697, 
+                    "score": 0.11478982120752335, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 208174, 
+            "wiki_title": "8 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4898, 
+                    "end": 4906, 
+                    "score": 0.12444404512643814, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2671, 
+                    "end": 2684, 
+                    "score": 0.26006704568862915, 
+                    "spot": "San Francisco"
+                }
+            ], 
+            "wiki_id": 49728, 
+            "wiki_title": "San Francisco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7255, 
+                    "end": 7271, 
+                    "score": 0.6918544769287109, 
+                    "spot": "Atlantic Empress"
+                }
+            ], 
+            "wiki_id": 2612691, 
+            "wiki_title": "SS Atlantic Empress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4322, 
+                    "end": 4326, 
+                    "score": 0.03747323155403137, 
+                    "spot": "skim"
+                }
+            ], 
+            "wiki_id": 3112173, 
+            "wiki_title": "Skimmed milk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6336, 
+                    "end": 6351, 
+                    "score": 0.0012285012053325772, 
+                    "spot": "how many people"
+                }
+            ], 
+            "wiki_id": 2478380, 
+            "wiki_title": "Flowers in the Dirt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3260, 
+                    "end": 3264, 
+                    "score": 0.15680696070194244, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 20284924, 
+            "wiki_title": "Multiview orthographic projection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 371, 
+                    "end": 377, 
+                    "score": 0.16173774003982544, 
+                    "spot": "Island"
+                }, 
+                {
+                    "begin": 408, 
+                    "end": 414, 
+                    "score": 0.06176573410630226, 
+                    "spot": "Island"
+                }, 
+                {
+                    "begin": 1503, 
+                    "end": 1510, 
+                    "score": 0.31019750237464905, 
+                    "spot": "islands"
+                }
+            ], 
+            "wiki_id": 14587, 
+            "wiki_title": "Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3476, 
+                    "end": 3483, 
+                    "score": 0.13454003632068634, 
+                    "spot": "Alyeska"
+                }
+            ], 
+            "wiki_id": 2590028, 
+            "wiki_title": "Alyeska Resort"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1649, 
+                    "end": 1655, 
+                    "score": 0.0742681473493576, 
+                    "spot": "Divers"
+                }
+            ], 
+            "wiki_id": 1266475, 
+            "wiki_title": "Scuba diving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 242, 
+                    "end": 254, 
+                    "score": 0.028637059032917023, 
+                    "spot": "U.S. history"
+                }
+            ], 
+            "wiki_id": 63876, 
+            "wiki_title": "History of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1080, 
+                    "end": 1085, 
+                    "score": 0.43478259444236755, 
+                    "spot": "Golob"
+                }, 
+                {
+                    "begin": 1110, 
+                    "end": 1115, 
+                    "score": 0.43478259444236755, 
+                    "spot": "Golob"
+                }, 
+                {
+                    "begin": 1143, 
+                    "end": 1148, 
+                    "score": 0.43478259444236755, 
+                    "spot": "Golob"
+                }, 
+                {
+                    "begin": 6941, 
+                    "end": 6946, 
+                    "score": 0.43478259444236755, 
+                    "spot": "Golob"
+                }
+            ], 
+            "wiki_id": 48594326, 
+            "wiki_title": "Mari\u0161a Golob"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5905, 
+                    "end": 5908, 
+                    "score": 0.10776349902153015, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 47862666, 
+            "wiki_title": "Cooking oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3786, 
+                    "end": 3789, 
+                    "score": 0.07127577066421509, 
+                    "spot": "key"
+                }
+            ], 
+            "wiki_id": 966716, 
+            "wiki_title": "Key (lock)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6380, 
+                    "end": 6386, 
+                    "score": 0.07265788316726685, 
+                    "spot": "McCall"
+                }, 
+                {
+                    "begin": 6538, 
+                    "end": 6544, 
+                    "score": 0.11153893172740936, 
+                    "spot": "McCall"
+                }
+            ], 
+            "wiki_id": 262806, 
+            "wiki_title": "Davina McCall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4220, 
+                    "end": 4224, 
+                    "score": 0.1032048761844635, 
+                    "spot": "best"
+                }
+            ], 
+            "wiki_id": 5519593, 
+            "wiki_title": "The Best (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2074, 
+                    "end": 2081, 
+                    "score": 0.004667345434427261, 
+                    "spot": "pumping"
+                }
+            ], 
+            "wiki_id": 3245664, 
+            "wiki_title": "Laser pumping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4132, 
+                    "end": 4151, 
+                    "score": 0.16059602797031403, 
+                    "spot": "Interior Department"
+                }
+            ], 
+            "wiki_id": 70904, 
+            "wiki_title": "United States Department of the Interior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4737, 
+                    "end": 4741, 
+                    "score": 0.15542703866958618, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 11145, 
+            "wiki_title": "Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3753, 
+                    "end": 3760, 
+                    "score": 0.1516246646642685, 
+                    "spot": "dollars"
+                }, 
+                {
+                    "begin": 6773, 
+                    "end": 6776, 
+                    "score": 0.06377216428518295, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6881, 
+                    "end": 6894, 
+                    "score": 0.27362680435180664, 
+                    "spot": "Massachusetts"
+                }
+            ], 
+            "wiki_id": 1645518, 
+            "wiki_title": "Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4203, 
+                    "end": 4205, 
+                    "score": 0.09253333508968353, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 4798, 
+                    "end": 4800, 
+                    "score": 0.034210413694381714, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3550, 
+                    "end": 3557, 
+                    "score": 0.19300201535224915, 
+                    "spot": "actions"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7326, 
+                    "end": 7336, 
+                    "score": 0.0017097264062613249, 
+                    "spot": "80 million"
+                }
+            ], 
+            "wiki_id": 36936702, 
+            "wiki_title": "80 Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2405, 
+                    "end": 2407, 
+                    "score": 0.07415895909070969, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 658808, 
+            "wiki_title": "Material conditional"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3521, 
+                    "end": 3530, 
+                    "score": 0.003095363499596715, 
+                    "spot": "satisfied"
+                }
+            ], 
+            "wiki_id": 8284659, 
+            "wiki_title": "Satisfied (Richard Marx song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2823, 
+                    "end": 2831, 
+                    "score": 0.193137526512146, 
+                    "spot": "transfer"
+                }
+            ], 
+            "wiki_id": 315952, 
+            "wiki_title": "Technology transfer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 113, 
+                    "score": 0.003348075784742832, 
+                    "spot": "stretch"
+                }, 
+                {
+                    "begin": 1592, 
+                    "end": 1599, 
+                    "score": 0.003348075784742832, 
+                    "spot": "stretch"
+                }
+            ], 
+            "wiki_id": 5925708, 
+            "wiki_title": "Stretch (rapper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2717, 
+                    "end": 2726, 
+                    "score": 0.2894020974636078, 
+                    "spot": "pollution"
+                }
+            ], 
+            "wiki_id": 24872, 
+            "wiki_title": "Pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3152, 
+                    "end": 3157, 
+                    "score": 0.07035234570503235, 
+                    "spot": "right"
+                }
+            ], 
+            "wiki_id": 2298740, 
+            "wiki_title": "Conservatism in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3202, 
+                    "end": 3213, 
+                    "score": 0.0013661723351106048, 
+                    "spot": "opportunity"
+                }
+            ], 
+            "wiki_id": 421051, 
+            "wiki_title": "Opportunity (rover)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1484, 
+                    "end": 1489, 
+                    "score": 0.3554903566837311, 
+                    "spot": "Sound"
+                }, 
+                {
+                    "begin": 5205, 
+                    "end": 5210, 
+                    "score": 0.13314613699913025, 
+                    "spot": "sound"
+                }
+            ], 
+            "wiki_id": 385319, 
+            "wiki_title": "Sound (geography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2242, 
+                    "end": 2253, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 1078371, 
+            "wiki_title": "Icelandic Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7045, 
+                    "end": 7053, 
+                    "score": 0.006262260489165783, 
+                    "spot": "collided"
+                }
+            ], 
+            "wiki_id": 2076436, 
+            "wiki_title": "Continental collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1563, 
+                    "end": 1570, 
+                    "score": 0.1457018405199051, 
+                    "spot": "transit"
+                }
+            ], 
+            "wiki_id": 18580879, 
+            "wiki_title": "Transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4937, 
+                    "end": 4946, 
+                    "score": 0.08178198337554932, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5186, 
+                    "end": 5195, 
+                    "score": 0.4202123284339905, 
+                    "spot": "shellfish"
+                }
+            ], 
+            "wiki_id": 55037, 
+            "wiki_title": "Shellfish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5661, 
+                    "end": 5668, 
+                    "score": 0.30696946382522583, 
+                    "spot": "captain"
+                }, 
+                {
+                    "begin": 5740, 
+                    "end": 5753, 
+                    "score": 0.22859053313732147, 
+                    "spot": "ship's master"
+                }, 
+                {
+                    "begin": 6564, 
+                    "end": 6577, 
+                    "score": 0.2001197785139084, 
+                    "spot": "ship's master"
+                }
+            ], 
+            "wiki_id": 6392374, 
+            "wiki_title": "Sea captain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4845, 
+                    "end": 4854, 
+                    "score": 0.12127659469842911, 
+                    "spot": "oil spill"
+                }
+            ], 
+            "wiki_id": 27046954, 
+            "wiki_title": "Deepwater Horizon oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3393, 
+                    "end": 3401, 
+                    "score": 0.05521472543478012, 
+                    "spot": "skimmers"
+                }
+            ], 
+            "wiki_id": 8743336, 
+            "wiki_title": "Skimmer (machine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6459, 
+                    "end": 6479, 
+                    "score": 0.18167376518249512, 
+                    "spot": "federal jurisdiction"
+                }
+            ], 
+            "wiki_id": 616255, 
+            "wiki_title": "Government of Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1420, 
+                    "end": 1430, 
+                    "score": 0.16785183548927307, 
+                    "spot": "to the sea"
+                }, 
+                {
+                    "begin": 1427, 
+                    "end": 1430, 
+                    "score": 0.1701141893863678, 
+                    "spot": "sea"
+                }
+            ], 
+            "wiki_id": 26792825, 
+            "wiki_title": "To the Sea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5605, 
+                    "end": 5611, 
+                    "score": 0.15293589234352112, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 2863776, 
+            "wiki_title": "Tank truck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4203, 
+                    "end": 4209, 
+                    "score": 0.0010089363204315305, 
+                    "spot": "we are"
+                }
+            ], 
+            "wiki_id": 4444245, 
+            "wiki_title": "We Are (Ana Johnsson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7309, 
+                    "end": 7313, 
+                    "score": 0.1404566913843155, 
+                    "spot": "tons"
+                }
+            ], 
+            "wiki_id": 363218, 
+            "wiki_title": "Long ton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 42, 
+                    "end": 49, 
+                    "score": 0.29133230447769165, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 229, 
+                    "end": 238, 
+                    "score": 0.2814405560493469, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 745, 
+                    "end": 752, 
+                    "score": 0.1660679578781128, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 973, 
+                    "end": 980, 
+                    "score": 0.14573055505752563, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 1054, 
+                    "end": 1063, 
+                    "score": 0.12127659469842911, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 1116, 
+                    "end": 1129, 
+                    "score": 0.05213269963860512, 
+                    "spot": "Oil Pollution"
+                }, 
+                {
+                    "begin": 1314, 
+                    "end": 1319, 
+                    "score": 0.13886308670043945, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 2731, 
+                    "end": 2741, 
+                    "score": 0.03228476643562317, 
+                    "spot": "oil spills"
+                }, 
+                {
+                    "begin": 3269, 
+                    "end": 3279, 
+                    "score": 0.26494842767715454, 
+                    "spot": "oil spills"
+                }, 
+                {
+                    "begin": 3620, 
+                    "end": 3625, 
+                    "score": 0.141599640250206, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 3882, 
+                    "end": 3887, 
+                    "score": 0.16762998700141907, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 4721, 
+                    "end": 4726, 
+                    "score": 0.05293343961238861, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 4967, 
+                    "end": 4972, 
+                    "score": 0.08278238773345947, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 5082, 
+                    "end": 5087, 
+                    "score": 0.29115864634513855, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 6785, 
+                    "end": 6790, 
+                    "score": 0.1379336416721344, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 6932, 
+                    "end": 6939, 
+                    "score": 0.17324267327785492, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 7133, 
+                    "end": 7140, 
+                    "score": 0.2912193238735199, 
+                    "spot": "spilled"
+                }, 
+                {
+                    "begin": 7164, 
+                    "end": 7169, 
+                    "score": 0.2807616889476776, 
+                    "spot": "spill"
+                }
+            ], 
+            "wiki_id": 158705, 
+            "wiki_title": "Oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6293, 
+                    "end": 6302, 
+                    "score": 0.01348356157541275, 
+                    "spot": "grounding"
+                }, 
+                {
+                    "begin": 6814, 
+                    "end": 6823, 
+                    "score": 0.01348356157541275, 
+                    "spot": "grounding"
+                }
+            ], 
+            "wiki_id": 41215, 
+            "wiki_title": "Ground (electricity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 902, 
+                    "score": 0.010309278033673763, 
+                    "spot": "total cargo"
+                }
+            ], 
+            "wiki_id": 2113417, 
+            "wiki_title": "Total Linhas A\u00e9reas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4628, 
+                    "end": 4638, 
+                    "score": 0.07585550844669342, 
+                    "spot": "volunteers"
+                }
+            ], 
+            "wiki_id": 30874303, 
+            "wiki_title": "Volunteering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2859, 
+                    "end": 2864, 
+                    "score": 0.1956380158662796, 
+                    "spot": "Kelso"
+                }, 
+                {
+                    "begin": 3038, 
+                    "end": 3043, 
+                    "score": 0.1956380158662796, 
+                    "spot": "Kelso"
+                }
+            ], 
+            "wiki_id": 1533833, 
+            "wiki_title": "Kelso, Scottish Borders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3840, 
+                    "end": 3850, 
+                    "score": 0.24264705181121826, 
+                    "spot": "whole food"
+                }
+            ], 
+            "wiki_id": 30871513, 
+            "wiki_title": "Whole food"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2707, 
+                    "end": 2711, 
+                    "score": 0.09533589333295822, 
+                    "spot": "deal"
+                }
+            ], 
+            "wiki_id": 19280537, 
+            "wiki_title": "Contract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1041, 
+                    "score": 0.04054053872823715, 
+                    "spot": "environmental catastrophe"
+                }
+            ], 
+            "wiki_id": 569415, 
+            "wiki_title": "Environmental disaster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6956, 
+                    "end": 6958, 
+                    "score": 0.04629001021385193, 
+                    "spot": "Up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 842, 
+                    "end": 850, 
+                    "score": 0.0019480519695207477, 
+                    "spot": "25 miles"
+                }
+            ], 
+            "wiki_id": 23811985, 
+            "wiki_title": "Twenty-Five Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2794, 
+                    "end": 2802, 
+                    "score": 0.10298416763544083, 
+                    "spot": "assemble"
+                }
+            ], 
+            "wiki_id": 1368, 
+            "wiki_title": "Assembly language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6270, 
+                    "end": 6282, 
+                    "score": 0.0494331456720829, 
+                    "spot": "administered"
+                }, 
+                {
+                    "begin": 6416, 
+                    "end": 6428, 
+                    "score": 0.0494331456720829, 
+                    "spot": "administered"
+                }
+            ], 
+            "wiki_id": 37595609, 
+            "wiki_title": "Company rule in Rhodesia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5817, 
+                    "end": 5825, 
+                    "score": 0.12312329560518265, 
+                    "spot": "grounded"
+                }
+            ], 
+            "wiki_id": 1010687, 
+            "wiki_title": "Batted ball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 570, 
+                    "end": 576, 
+                    "score": 0.009404863230884075, 
+                    "spot": "Dennis"
+                }
+            ], 
+            "wiki_id": 314563, 
+            "wiki_title": "Dennis Quaid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4483, 
+                    "end": 4487, 
+                    "score": 0.11003488302230835, 
+                    "spot": "boat"
+                }
+            ], 
+            "wiki_id": 3996, 
+            "wiki_title": "Boat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 897, 
+                    "end": 902, 
+                    "score": 0.15581099689006805, 
+                    "spot": "cargo"
+                }
+            ], 
+            "wiki_id": 396550, 
+            "wiki_title": "Cargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4595, 
+                    "end": 4612, 
+                    "score": 0.20334210991859436, 
+                    "spot": "community college"
+                }
+            ], 
+            "wiki_id": 19207800, 
+            "wiki_title": "Community colleges in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1097, 
+                    "end": 1106, 
+                    "score": 0.04826675355434418, 
+                    "spot": "publisher"
+                }
+            ], 
+            "wiki_id": 68761, 
+            "wiki_title": "Publishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5266, 
+                    "end": 5273, 
+                    "score": 0.019190751016139984, 
+                    "spot": "catches"
+                }
+            ], 
+            "wiki_id": 1042416, 
+            "wiki_title": "Caught"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2134, 
+                    "end": 2141, 
+                    "score": 0.10391570627689362, 
+                    "spot": "forward"
+                }
+            ], 
+            "wiki_id": 196327, 
+            "wiki_title": "The Forward"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1050, 
+                    "end": 1053, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 19969891, 
+            "wiki_title": "One (Australian TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1512, 
+                    "end": 1518, 
+                    "score": 0.34550419449806213, 
+                    "spot": "fjords"
+                }
+            ], 
+            "wiki_id": 43598, 
+            "wiki_title": "Fjord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4991, 
+                    "end": 5005, 
+                    "score": 0.2813315987586975, 
+                    "spot": "protected area"
+                }
+            ], 
+            "wiki_id": 100406, 
+            "wiki_title": "Protected area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 491, 
+                    "end": 497, 
+                    "score": 0.055475592613220215, 
+                    "spot": "secret"
+                }
+            ], 
+            "wiki_id": 164143, 
+            "wiki_title": "Secret society"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 596, 
+                    "score": 0.1198120191693306, 
+                    "spot": "commissioner"
+                }
+            ], 
+            "wiki_id": 431272, 
+            "wiki_title": "Commissioner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3678, 
+                    "end": 3698, 
+                    "score": 0.05056179687380791, 
+                    "spot": "commercial fishermen"
+                }
+            ], 
+            "wiki_id": 491120, 
+            "wiki_title": "Fishing industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 12, 
+                    "score": 0.1697012335062027, 
+                    "spot": "Millions"
+                }, 
+                {
+                    "begin": 910, 
+                    "end": 917, 
+                    "score": 0.15311859548091888, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3741, 
+                    "end": 3749, 
+                    "score": 0.2185438573360443, 
+                    "spot": "millions"
+                }, 
+                {
+                    "begin": 6909, 
+                    "end": 6916, 
+                    "score": 0.12290427088737488, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 6967, 
+                    "end": 6974, 
+                    "score": 0.11224101483821869, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3084, 
+                    "end": 3087, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 918901, 
+            "wiki_title": "By the Way"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4358, 
+                    "end": 4363, 
+                    "score": 0.3975008428096771, 
+                    "spot": "seals"
+                }
+            ], 
+            "wiki_id": 60261, 
+            "wiki_title": "Pinniped"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 298, 
+                    "end": 303, 
+                    "score": 0.0016137325437739491, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 208159, 
+            "wiki_title": "7 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5248, 
+                    "end": 5255, 
+                    "score": 0.14375106990337372, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 38834493, 
+            "wiki_title": "O mie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3197, 
+                    "end": 3201, 
+                    "score": 0.000726073223631829, 
+                    "spot": "best"
+                }
+            ], 
+            "wiki_id": 426381, 
+            "wiki_title": "George Best"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 318, 
+                    "end": 338, 
+                    "score": 0.5, 
+                    "spot": "Prince William Sound"
+                }, 
+                {
+                    "begin": 1469, 
+                    "end": 1489, 
+                    "score": 0.5, 
+                    "spot": "Prince William Sound"
+                }, 
+                {
+                    "begin": 4383, 
+                    "end": 4403, 
+                    "score": 0.5, 
+                    "spot": "Prince William\nSound"
+                }, 
+                {
+                    "begin": 5101, 
+                    "end": 5121, 
+                    "score": 1.0, 
+                    "spot": "Prince William Sound"
+                }, 
+                {
+                    "begin": 5101, 
+                    "end": 5123, 
+                    "score": 0.6666666865348816, 
+                    "spot": "Prince William Sound's"
+                }
+            ], 
+            "wiki_id": 197927, 
+            "wiki_title": "Prince William Sound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 469, 
+                    "end": 474, 
+                    "score": 0.0019739822018891573, 
+                    "spot": "think"
+                }, 
+                {
+                    "begin": 3563, 
+                    "end": 3568, 
+                    "score": 0.20853210985660553, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3699, 
+                    "end": 3702, 
+                    "score": 0.07476315647363663, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4048, 
+                    "end": 4057, 
+                    "score": 0.4084264039993286, 
+                    "spot": "sea\nbirds"
+                }
+            ], 
+            "wiki_id": 147019, 
+            "wiki_title": "Seabird"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2907, 
+                    "end": 2911, 
+                    "score": 0.040265098214149475, 
+                    "spot": "slow"
+                }
+            ], 
+            "wiki_id": 28748, 
+            "wiki_title": "Speed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 23, 
+                    "score": 0.20789635181427002, 
+                    "spot": "gallons"
+                }, 
+                {
+                    "begin": 696, 
+                    "end": 703, 
+                    "score": 0.27556461095809937, 
+                    "spot": "gallons"
+                }, 
+                {
+                    "begin": 1906, 
+                    "end": 1913, 
+                    "score": 0.0761229619383812, 
+                    "spot": "gallons"
+                }, 
+                {
+                    "begin": 6917, 
+                    "end": 6924, 
+                    "score": 0.15839356184005737, 
+                    "spot": "gallons"
+                }, 
+                {
+                    "begin": 6975, 
+                    "end": 6982, 
+                    "score": 0.14183534681797028, 
+                    "spot": "gallons"
+                }, 
+                {
+                    "begin": 7337, 
+                    "end": 7344, 
+                    "score": 0.1093277782201767, 
+                    "spot": "gallons"
+                }
+            ], 
+            "wiki_id": 12882, 
+            "wiki_title": "Gallon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6549, 
+                    "end": 6559, 
+                    "score": 0.056477852165699005, 
+                    "spot": "subpoenaed"
+                }, 
+                {
+                    "begin": 6607, 
+                    "end": 6616, 
+                    "score": 0.09366516023874283, 
+                    "spot": "subpoenas"
+                }
+            ], 
+            "wiki_id": 223929, 
+            "wiki_title": "Subpoena"
+        }
+    ]
+}

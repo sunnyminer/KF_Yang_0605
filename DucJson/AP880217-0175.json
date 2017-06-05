@@ -1,0 +1,946 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 684, 
+                    "end": 689, 
+                    "score": 0.027830349281430244, 
+                    "spot": "count"
+                }, 
+                {
+                    "begin": 1269, 
+                    "end": 1274, 
+                    "score": 0.016335295513272285, 
+                    "spot": "count"
+                }
+            ], 
+            "wiki_id": 196470, 
+            "wiki_title": "Count"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 876, 
+                    "end": 882, 
+                    "score": 0.23385539650917053, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 406, 
+                    "end": 411, 
+                    "score": 0.07196107506752014, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1516, 
+                    "score": 0.005052987020462751, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 502038, 
+            "wiki_title": "Question"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 192, 
+                    "end": 199, 
+                    "score": 0.013002809137105942, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 286413, 
+            "wiki_title": "Councillor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 690, 
+                    "end": 698, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }, 
+                {
+                    "begin": 1275, 
+                    "end": 1283, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1033, 
+                    "end": 1042, 
+                    "score": 0.30000001192092896, 
+                    "spot": "Dan Stein"
+                }
+            ], 
+            "wiki_id": 3536228, 
+            "wiki_title": "DJ Fresh"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 582, 
+                    "score": 0.13276636600494385, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 596, 
+                    "end": 602, 
+                    "score": 0.04583960399031639, 
+                    "spot": "shifts"
+                }
+            ], 
+            "wiki_id": 1051985, 
+            "wiki_title": "Shift work"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1466, 
+                    "end": 1476, 
+                    "score": 0.7147321105003357, 
+                    "spot": "Jan Meyers"
+                }
+            ], 
+            "wiki_id": 8831090, 
+            "wiki_title": "Jan Meyers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1313, 
+                    "end": 1319, 
+                    "score": 0.048326730728149414, 
+                    "spot": "method"
+                }
+            ], 
+            "wiki_id": 26833, 
+            "wiki_title": "Scientific method"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 322, 
+                    "end": 341, 
+                    "score": 0.09605348855257034, 
+                    "spot": "U.S. District Court"
+                }
+            ], 
+            "wiki_id": 70235, 
+            "wiki_title": "United States district court"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1069, 
+                    "end": 1079, 
+                    "score": 0.24662137031555176, 
+                    "spot": "federation"
+                }
+            ], 
+            "wiki_id": 11542, 
+            "wiki_title": "Federalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 142, 
+                    "end": 156, 
+                    "score": 0.13725490868091583, 
+                    "spot": "illegal aliens"
+                }, 
+                {
+                    "begin": 1095, 
+                    "end": 1109, 
+                    "score": 0.36304253339767456, 
+                    "spot": "illegal aliens"
+                }
+            ], 
+            "wiki_id": 1703155, 
+            "wiki_title": "Alien (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 224, 
+                    "end": 266, 
+                    "score": 0.5, 
+                    "spot": "Federation for American\nImmigration Reform"
+                }
+            ], 
+            "wiki_id": 1499415, 
+            "wiki_title": "Federation for American Immigration Reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 589, 
+                    "end": 595, 
+                    "score": 0.06570537388324738, 
+                    "spot": "unfair"
+                }
+            ], 
+            "wiki_id": 125907, 
+            "wiki_title": "Distributive justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 617, 
+                    "end": 620, 
+                    "score": 0.07854220271110535, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 706, 
+                    "end": 723, 
+                    "score": 0.24254214763641357, 
+                    "spot": "U.S. Constitution"
+                }
+            ], 
+            "wiki_id": 31644, 
+            "wiki_title": "United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 545, 
+                    "end": 557, 
+                    "score": 0.009036033414304256, 
+                    "spot": "in the House"
+                }
+            ], 
+            "wiki_id": 3577274, 
+            "wiki_title": "Legislature broadcasters in New Zealand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 452, 
+                    "end": 459, 
+                    "score": 0.07833055406808853, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 355, 
+                    "score": 0.18231157958507538, 
+                    "spot": "Pittsburgh"
+                }
+            ], 
+            "wiki_id": 7958214, 
+            "wiki_title": "Pittsburgh Panthers football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1531, 
+                    "end": 1535, 
+                    "score": 0.16108569502830505, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 169191, 
+            "wiki_title": "Shape"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 377, 
+                    "end": 392, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 490, 
+                    "end": 498, 
+                    "score": 0.0013503481168299913, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 499, 
+                    "end": 509, 
+                    "score": 0.056603774428367615, 
+                    "spot": "head count"
+                }
+            ], 
+            "wiki_id": 2591218, 
+            "wiki_title": "Interchange (Australian rules football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 266, 
+                    "score": 0.26148441433906555, 
+                    "spot": "Immigration Reform"
+                }, 
+                {
+                    "begin": 967, 
+                    "end": 985, 
+                    "score": 0.18420326709747314, 
+                    "spot": "immigration reform"
+                }
+            ], 
+            "wiki_id": 1580293, 
+            "wiki_title": "Immigration reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 528, 
+                    "end": 538, 
+                    "score": 0.07999248057603836, 
+                    "spot": "distribute"
+                }
+            ], 
+            "wiki_id": 8889074, 
+            "wiki_title": "Distribution (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 166, 
+                    "end": 171, 
+                    "score": 0.016335295513272285, 
+                    "spot": "count"
+                }
+            ], 
+            "wiki_id": 239794, 
+            "wiki_title": "Count von Count"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 649, 
+                    "end": 658, 
+                    "score": 0.08052743971347809, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 1092507, 
+            "wiki_title": "Offices in the Polish\u2013Lithuanian Commonwealth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 212, 
+                    "score": 0.10909438133239746, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 552, 
+                    "end": 576, 
+                    "score": 0.09825174510478973, 
+                    "spot": "House of Representatives"
+                }, 
+                {
+                    "begin": 788, 
+                    "end": 793, 
+                    "score": 0.15456156432628632, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 1207, 
+                    "end": 1210, 
+                    "score": 0.16406409442424774, 
+                    "spot": "Rep"
+                }, 
+                {
+                    "begin": 1461, 
+                    "end": 1464, 
+                    "score": 0.25887030363082886, 
+                    "spot": "Rep"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 826, 
+                    "end": 838, 
+                    "score": 0.09184262156486511, 
+                    "spot": "whole\nnumber"
+                }
+            ], 
+            "wiki_id": 14563, 
+            "wiki_title": "Integer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 49, 
+                    "end": 58, 
+                    "score": 0.04440946877002716, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 1822923, 
+            "wiki_title": "Wednesday Night Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 310, 
+                    "end": 318, 
+                    "score": 0.09690257906913757, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 7634921, 
+            "wiki_title": "Thursday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1004, 
+                    "end": 1015, 
+                    "score": 0.21955719590187073, 
+                    "spot": "1980 Census"
+                }
+            ], 
+            "wiki_id": 3748248, 
+            "wiki_title": "1980 United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 336, 
+                    "end": 344, 
+                    "score": 0.0012062726309522986, 
+                    "spot": "Court in"
+                }, 
+                {
+                    "begin": 922, 
+                    "end": 930, 
+                    "score": 0.1423376500606537, 
+                    "spot": "court in"
+                }
+            ], 
+            "wiki_id": 63833, 
+            "wiki_title": "Government of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 659, 
+                    "end": 662, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 539, 
+                    "end": 544, 
+                    "score": 0.12415226548910141, 
+                    "spot": "seats"
+                }, 
+                {
+                    "begin": 606, 
+                    "end": 611, 
+                    "score": 0.1714256852865219, 
+                    "spot": "seats"
+                }
+            ], 
+            "wiki_id": 44421, 
+            "wiki_title": "Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 794, 
+                    "end": 807, 
+                    "score": 0.20566533505916595, 
+                    "spot": "apportionment"
+                }, 
+                {
+                    "begin": 1433, 
+                    "end": 1447, 
+                    "score": 0.1358357071876526, 
+                    "spot": "reapportioning"
+                }
+            ], 
+            "wiki_id": 3191896, 
+            "wiki_title": "Apportionment (politics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 85, 
+                    "end": 91, 
+                    "score": 0.24810200929641724, 
+                    "spot": "Census"
+                }, 
+                {
+                    "begin": 642, 
+                    "end": 648, 
+                    "score": 0.2498280107975006, 
+                    "spot": "Census"
+                }, 
+                {
+                    "begin": 1239, 
+                    "end": 1245, 
+                    "score": 0.13654732704162598, 
+                    "spot": "Census"
+                }, 
+                {
+                    "begin": 1524, 
+                    "end": 1530, 
+                    "score": 0.14973405003547668, 
+                    "spot": "Census"
+                }
+            ], 
+            "wiki_id": 6889, 
+            "wiki_title": "Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 77, 
+                    "end": 80, 
+                    "score": 0.06408151239156723, 
+                    "spot": "sue"
+                }
+            ], 
+            "wiki_id": 56125, 
+            "wiki_title": "Sioux"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1227, 
+                    "score": 0.24505436420440674, 
+                    "spot": "R-Pa"
+                }
+            ], 
+            "wiki_id": 5262364, 
+            "wiki_title": "Republican State Committee of Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 327, 
+                    "end": 341, 
+                    "score": 0.2141590416431427, 
+                    "spot": "District Court"
+                }
+            ], 
+            "wiki_id": 891692, 
+            "wiki_title": "United States District Court for the Northern District of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 357, 
+                    "end": 366, 
+                    "score": 0.1374025195837021, 
+                    "spot": "spokesmen"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1400, 
+                    "end": 1406, 
+                    "score": 0.049656942486763, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 49171, 
+            "wiki_title": "Interval (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 15, 
+                    "score": 0.1577104926109314, 
+                    "spot": "coalition"
+                }
+            ], 
+            "wiki_id": 102512, 
+            "wiki_title": "Coalition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1050, 
+                    "end": 1068, 
+                    "score": 0.10692212730646133, 
+                    "spot": "immigration reform"
+                }
+            ], 
+            "wiki_id": 15051, 
+            "wiki_title": "Immigration to the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1189, 
+                    "end": 1202, 
+                    "score": 0.18790748715400696, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 842, 
+                    "end": 849, 
+                    "score": 0.2084863781929016, 
+                    "spot": "persons"
+                }, 
+                {
+                    "begin": 1342, 
+                    "end": 1348, 
+                    "score": 0.1665387600660324, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 979, 
+                    "end": 991, 
+                    "score": 0.030434781685471535, 
+                    "spot": "reform group"
+                }
+            ], 
+            "wiki_id": 1969429, 
+            "wiki_title": "The Reform Group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 482, 
+                    "score": 0.33241182565689087, 
+                    "spot": "illegal aliens"
+                }, 
+                {
+                    "begin": 1353, 
+                    "end": 1362, 
+                    "score": 0.17536745965480804, 
+                    "spot": "illegally"
+                }
+            ], 
+            "wiki_id": 7124412, 
+            "wiki_title": "Illegal immigration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1212, 
+                    "end": 1221, 
+                    "score": 0.6995252370834351, 
+                    "spot": "Tom Ridge"
+                }
+            ], 
+            "wiki_id": 211384, 
+            "wiki_title": "Tom Ridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 125, 
+                    "end": 131, 
+                    "score": 0.15417373180389404, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 716672, 
+            "wiki_title": "Agency (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1416, 
+                    "end": 1423, 
+                    "score": 0.0006724384147673845, 
+                    "spot": "figures"
+                }
+            ], 
+            "wiki_id": 77691, 
+            "wiki_title": "Figure of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 927, 
+                    "score": 0.21979312598705292, 
+                    "spot": "federal court"
+                }
+            ], 
+            "wiki_id": 1636627, 
+            "wiki_title": "Federal judiciary of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1162, 
+                    "end": 1181, 
+                    "score": 0.013529411517083645, 
+                    "spot": "political structure"
+                }
+            ], 
+            "wiki_id": 5492996, 
+            "wiki_title": "Political structure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1388, 
+                    "end": 1394, 
+                    "score": 0.07306457310914993, 
+                    "spot": "deduct"
+                }
+            ], 
+            "wiki_id": 299485, 
+            "wiki_title": "Tax deduction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 583, 
+                    "end": 588, 
+                    "score": 0.09712815284729004, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 2203607, 
+            "wiki_title": "Just cause"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 621, 
+                    "end": 626, 
+                    "score": 0.11809006333351135, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 115, 
+                    "end": 120, 
+                    "score": 0.10365276038646698, 
+                    "spot": "force"
+                }
+            ], 
+            "wiki_id": 10902, 
+            "wiki_title": "Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 748, 
+                    "end": 759, 
+                    "score": 0.19435898959636688, 
+                    "spot": "citizenship"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 135, 
+                    "end": 141, 
+                    "score": 0.012538580223917961, 
+                    "spot": "delete"
+                }
+            ], 
+            "wiki_id": 13443, 
+            "wiki_title": "Hypertext Transfer Protocol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 290, 
+                    "end": 294, 
+                    "score": 0.19874131679534912, 
+                    "spot": "suit"
+                }, 
+                {
+                    "begin": 941, 
+                    "end": 945, 
+                    "score": 0.15064148604869843, 
+                    "spot": "suit"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1333, 
+                    "end": 1348, 
+                    "score": 0.0012285012053325772, 
+                    "spot": "how\nmany people"
+                }
+            ], 
+            "wiki_id": 2478380, 
+            "wiki_title": "Flowers in the Dirt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1478, 
+                    "end": 1483, 
+                    "score": 0.25, 
+                    "spot": "R-Kan"
+                }
+            ], 
+            "wiki_id": 22129270, 
+            "wiki_title": "Aasmund Bj\u00f8rkan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1303, 
+                    "end": 1310, 
+                    "score": 0.046534061431884766, 
+                    "spot": "develop"
+                }
+            ], 
+            "wiki_id": 248932, 
+            "wiki_title": "Software development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 19, 
+                    "end": 38, 
+                    "score": 0.3128873407840729, 
+                    "spot": "members of Congress"
+                }, 
+                {
+                    "begin": 30, 
+                    "end": 38, 
+                    "score": 0.23173978924751282, 
+                    "spot": "Congress"
+                }, 
+                {
+                    "begin": 1448, 
+                    "end": 1456, 
+                    "score": 0.21980729699134827, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1370, 
+                    "end": 1377, 
+                    "score": 0.16857732832431793, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 69, 
+                    "end": 73, 
+                    "score": 0.07229598611593246, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 31823660, 
+            "wiki_title": "Plan, Aragon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 393, 
+                    "end": 397, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 6043445, 
+            "wiki_title": "Football League play-offs"
+        }
+    ]
+}

@@ -1,0 +1,2284 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3298, 
+                    "end": 3308, 
+                    "score": 0.36628785729408264, 
+                    "spot": "securities"
+                }
+            ], 
+            "wiki_id": 42162, 
+            "wiki_title": "Security (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2644, 
+                    "end": 2650, 
+                    "score": 0.002102607162669301, 
+                    "spot": "lagged"
+                }
+            ], 
+            "wiki_id": 20646089, 
+            "wiki_title": "Lag"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2127, 
+                    "end": 2134, 
+                    "score": 0.14063864946365356, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 949880, 
+            "wiki_title": "Long and short scales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2894, 
+                    "end": 2898, 
+                    "score": 0.039777982980012894, 
+                    "spot": "pare"
+                }
+            ], 
+            "wiki_id": 17323438, 
+            "wiki_title": "Pare language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1359, 
+                    "end": 1365, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 54407, 
+            "wiki_title": "Sunday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2502, 
+                    "score": 0.16754499077796936, 
+                    "spot": "Middle East"
+                }
+            ], 
+            "wiki_id": 19323, 
+            "wiki_title": "Middle East"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3348, 
+                    "end": 3351, 
+                    "score": 0.1011914387345314, 
+                    "spot": "net"
+                }
+            ], 
+            "wiki_id": 14539, 
+            "wiki_title": "Internet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2427, 
+                    "end": 2431, 
+                    "score": 0.16549602150917053, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2387, 
+                    "end": 2392, 
+                    "score": 0.20521575212478638, 
+                    "spot": "heavy"
+                }
+            ], 
+            "wiki_id": 1608478, 
+            "wiki_title": "Heavy industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2571, 
+                    "end": 2578, 
+                    "score": 0.2703244686126709, 
+                    "spot": "consume"
+                }
+            ], 
+            "wiki_id": 7818, 
+            "wiki_title": "Consumer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1872, 
+                    "end": 1877, 
+                    "score": 0.07551093399524689, 
+                    "spot": "Still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1304, 
+                    "end": 1310, 
+                    "score": 0.18328486382961273, 
+                    "spot": "burden"
+                }, 
+                {
+                    "begin": 1932, 
+                    "end": 1938, 
+                    "score": 0.13928191363811493, 
+                    "spot": "burden"
+                }
+            ], 
+            "wiki_id": 3134763, 
+            "wiki_title": "Tax incidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2507, 
+                    "end": 2526, 
+                    "score": 0.2765214443206787, 
+                    "spot": "sub-Saharan \nAfrica"
+                }
+            ], 
+            "wiki_id": 27067, 
+            "wiki_title": "Sub-Saharan Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2755, 
+                    "end": 2768, 
+                    "score": 0.07274828851222992, 
+                    "spot": "deterioration"
+                }
+            ], 
+            "wiki_id": 366023, 
+            "wiki_title": "Wear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 760, 
+                    "end": 765, 
+                    "score": 0.1752501279115677, 
+                    "spot": "Asian"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 360, 
+                    "end": 364, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 4743708, 
+            "wiki_title": "Here TV"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 65, 
+                    "score": 0.16818317770957947, 
+                    "spot": "service"
+                }
+            ], 
+            "wiki_id": 181586, 
+            "wiki_title": "Service (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3784, 
+                    "end": 3797, 
+                    "score": 0.267657607793808, 
+                    "spot": "environmental"
+                }
+            ], 
+            "wiki_id": 47763, 
+            "wiki_title": "Environmental economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 316, 
+                    "score": 0.21217656135559082, 
+                    "spot": "annual report"
+                }
+            ], 
+            "wiki_id": 1272420, 
+            "wiki_title": "Annual report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2091, 
+                    "end": 2100, 
+                    "score": 0.19411611557006836, 
+                    "spot": "principal"
+                }, 
+                {
+                    "begin": 2910, 
+                    "end": 2914, 
+                    "score": 0.0415702722966671, 
+                    "spot": "debt"
+                }
+            ], 
+            "wiki_id": 60737, 
+            "wiki_title": "Bond (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3073, 
+                    "end": 3083, 
+                    "score": 0.5, 
+                    "spot": "Brady plan"
+                }
+            ], 
+            "wiki_id": 1129902, 
+            "wiki_title": "Brady Bonds"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 647, 
+                    "score": 0.1556936502456665, 
+                    "spot": "industrial"
+                }, 
+                {
+                    "begin": 2840, 
+                    "end": 2850, 
+                    "score": 0.05918705835938454, 
+                    "spot": "industrial"
+                }
+            ], 
+            "wiki_id": 14543, 
+            "wiki_title": "Industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1506, 
+                    "end": 1515, 
+                    "score": 0.13549421727657318, 
+                    "spot": "situation"
+                }, 
+                {
+                    "begin": 2781, 
+                    "end": 2790, 
+                    "score": 0.021131154149770737, 
+                    "spot": "situation"
+                }
+            ], 
+            "wiki_id": 20913980, 
+            "wiki_title": "Sitcom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2321, 
+                    "end": 2329, 
+                    "score": 0.003234501462429762, 
+                    "spot": "sensible"
+                }
+            ], 
+            "wiki_id": 20059345, 
+            "wiki_title": "French frigate Sensible (1788)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 260, 
+                    "end": 265, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 545, 
+                    "end": 550, 
+                    "score": 0.15198667347431183, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 817, 
+                    "end": 822, 
+                    "score": 0.01096988096833229, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1107, 
+                    "end": 1112, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1352, 
+                    "end": 1357, 
+                    "score": 0.04953921213746071, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1592, 
+                    "end": 1597, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1865, 
+                    "end": 1870, 
+                    "score": 0.1383674293756485, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2146, 
+                    "end": 2151, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2436, 
+                    "end": 2441, 
+                    "score": 0.061096880584955215, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2719, 
+                    "end": 2724, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3000, 
+                    "end": 3005, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3337, 
+                    "end": 3342, 
+                    "score": 0.03985576331615448, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3547, 
+                    "end": 3552, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 954, 
+                    "end": 961, 
+                    "score": 0.18489685654640198, 
+                    "spot": "current"
+                }
+            ], 
+            "wiki_id": 772, 
+            "wiki_title": "Ampere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1226, 
+                    "end": 1237, 
+                    "score": 0.03089887648820877, 
+                    "spot": "mushrooming"
+                }
+            ], 
+            "wiki_id": 37119122, 
+            "wiki_title": "Mushrooming (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2959, 
+                    "end": 2967, 
+                    "score": 0.22650204598903656, 
+                    "spot": "Treasury"
+                }
+            ], 
+            "wiki_id": 53667, 
+            "wiki_title": "United States Department of the Treasury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 359, 
+                    "score": 0.002628571353852749, 
+                    "spot": "annual meeting"
+                }
+            ], 
+            "wiki_id": 528785, 
+            "wiki_title": "Annual general meeting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2472, 
+                    "end": 2485, 
+                    "score": 0.29674792289733887, 
+                    "spot": "Latin America"
+                }
+            ], 
+            "wiki_id": 18524, 
+            "wiki_title": "Latin America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2926, 
+                    "end": 2929, 
+                    "score": 0.12439528107643127, 
+                    "spot": "aim"
+                }
+            ], 
+            "wiki_id": 1785058, 
+            "wiki_title": "Invesco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1402, 
+                    "end": 1408, 
+                    "score": 0.1042977124452591, 
+                    "spot": "higher"
+                }
+            ], 
+            "wiki_id": 14423, 
+            "wiki_title": "Higher education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2072, 
+                    "end": 2077, 
+                    "score": 0.006469025742262602, 
+                    "spot": "cover"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1638, 
+                    "end": 1644, 
+                    "score": 0.06454850733280182, 
+                    "spot": "reason"
+                }
+            ], 
+            "wiki_id": 334146, 
+            "wiki_title": "Reason (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2447, 
+                    "end": 2453, 
+                    "score": 0.03416339308023453, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 284598, 
+            "wiki_title": "Ministry of Magic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1276, 
+                    "end": 1282, 
+                    "score": 0.18256384134292603, 
+                    "spot": "strain"
+                }
+            ], 
+            "wiki_id": 2843057, 
+            "wiki_title": "Strain (injury)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1251, 
+                    "end": 1258, 
+                    "score": 0.005789909046143293, 
+                    "spot": "measure"
+                }
+            ], 
+            "wiki_id": 19873, 
+            "wiki_title": "Measure (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 612, 
+                    "end": 627, 
+                    "score": 0.3259505331516266, 
+                    "spot": "economic growth"
+                }, 
+                {
+                    "begin": 2209, 
+                    "end": 2221, 
+                    "score": 0.0027301092632114887, 
+                    "spot": "growth rates"
+                }
+            ], 
+            "wiki_id": 69415, 
+            "wiki_title": "Economic growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1908, 
+                    "end": 1915, 
+                    "score": 0.16733035445213318, 
+                    "spot": "measure"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 120, 
+                    "end": 129, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1718, 
+                    "end": 1729, 
+                    "score": 0.4917830526828766, 
+                    "spot": "South Korea"
+                }
+            ], 
+            "wiki_id": 27019, 
+            "wiki_title": "South Korea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3396, 
+                    "end": 3402, 
+                    "score": 0.004722414072602987, 
+                    "spot": "richer"
+                }
+            ], 
+            "wiki_id": 15659091, 
+            "wiki_title": "Richer, Manitoba"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3538, 
+                    "end": 3542, 
+                    "score": 0.000545203045476228, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 1997737, 
+            "wiki_title": "George Back"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3226, 
+                    "end": 3233, 
+                    "score": 0.013696849346160889, 
+                    "spot": "critics"
+                }
+            ], 
+            "wiki_id": 317947, 
+            "wiki_title": "Music journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1201, 
+                    "end": 1209, 
+                    "score": 0.119410440325737, 
+                    "spot": "parlance"
+                }
+            ], 
+            "wiki_id": 47563, 
+            "wiki_title": "Idiom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3312, 
+                    "end": 3315, 
+                    "score": 0.08435489237308502, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 10597528, 
+            "wiki_title": "George May, 1st Baron May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 425, 
+                    "end": 428, 
+                    "score": 0.12355208396911621, 
+                    "spot": "net"
+                }
+            ], 
+            "wiki_id": 33564869, 
+            "wiki_title": "TV Asahi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 709, 
+                    "end": 720, 
+                    "score": 0.002497296314686537, 
+                    "spot": "performance"
+                }
+            ], 
+            "wiki_id": 224515, 
+            "wiki_title": "Performance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 648, 
+                    "end": 657, 
+                    "score": 0.074506476521492, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 1689, 
+                    "end": 1698, 
+                    "score": 0.06872530281543732, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 2851, 
+                    "end": 2860, 
+                    "score": 0.05037982761859894, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 2554950, 
+            "wiki_title": "Constituent country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 211, 
+                    "end": 220, 
+                    "score": 0.2014998495578766, 
+                    "spot": "economies"
+                }, 
+                {
+                    "begin": 1338, 
+                    "end": 1347, 
+                    "score": 0.005907340906560421, 
+                    "spot": "economies"
+                }, 
+                {
+                    "begin": 2557, 
+                    "end": 2566, 
+                    "score": 0.24281691014766693, 
+                    "spot": "economies"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2595, 
+                    "end": 2602, 
+                    "score": 0.2921345829963684, 
+                    "spot": "produce"
+                }
+            ], 
+            "wiki_id": 13228814, 
+            "wiki_title": "Production (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2302, 
+                    "end": 2313, 
+                    "score": 0.06907573342323303, 
+                    "spot": "governments"
+                }, 
+                {
+                    "begin": 2882, 
+                    "end": 2893, 
+                    "score": 0.10145530104637146, 
+                    "spot": "governments"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 465, 
+                    "end": 469, 
+                    "score": 0.1450769305229187, 
+                    "spot": "cash"
+                }, 
+                {
+                    "begin": 1133, 
+                    "end": 1137, 
+                    "score": 0.07954852283000946, 
+                    "spot": "cash"
+                }, 
+                {
+                    "begin": 1778, 
+                    "end": 1781, 
+                    "score": 0.1049148291349411, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 2937, 
+                    "end": 2940, 
+                    "score": 0.10907594859600067, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 3352, 
+                    "end": 3356, 
+                    "score": 0.05668755993247032, 
+                    "spot": "cash"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 173, 
+                    "score": 0.09394659847021103, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 526101, 
+            "wiki_title": "Major (academic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3139, 
+                    "end": 3148, 
+                    "score": 0.1428205519914627, 
+                    "spot": "cautioned"
+                }
+            ], 
+            "wiki_id": 3090014, 
+            "wiki_title": "Fouls and misconduct (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2791, 
+                    "end": 2802, 
+                    "score": 0.0019973369780927896, 
+                    "spot": "underscores"
+                }
+            ], 
+            "wiki_id": 477081, 
+            "wiki_title": "Underscore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2314, 
+                    "end": 2320, 
+                    "score": 0.001891451422125101, 
+                    "spot": "follow"
+                }
+            ], 
+            "wiki_id": 1061842, 
+            "wiki_title": "Follow-on"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 17, 
+                    "end": 24, 
+                    "score": 0.13345149159431458, 
+                    "spot": "debtors"
+                }, 
+                {
+                    "begin": 3275, 
+                    "end": 3282, 
+                    "score": 0.08863901346921921, 
+                    "spot": "debtors"
+                }, 
+                {
+                    "begin": 3372, 
+                    "end": 3378, 
+                    "score": 0.11964006721973419, 
+                    "spot": "debtor"
+                }
+            ], 
+            "wiki_id": 934442, 
+            "wiki_title": "Debtor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1606, 
+                    "end": 1615, 
+                    "score": 0.09301848709583282, 
+                    "spot": "spokesman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1574, 
+                    "end": 1582, 
+                    "score": 0.06538967043161392, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2899, 
+                    "end": 2903, 
+                    "score": 0.000545203045476228, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 168041, 
+            "wiki_title": "Anatomical terms of location"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 99, 
+                    "score": 0.21096156537532806, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 42, 
+                    "end": 49, 
+                    "score": 0.14266376197338104, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 452, 
+                    "end": 459, 
+                    "score": 0.0868985578417778, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 533, 
+                    "end": 540, 
+                    "score": 0.006107270251959562, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 939, 
+                    "end": 946, 
+                    "score": 0.18069599568843842, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 990, 
+                    "end": 997, 
+                    "score": 0.1263907253742218, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1095, 
+                    "end": 1102, 
+                    "score": 0.05156530812382698, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1394, 
+                    "end": 1401, 
+                    "score": 0.16342803835868835, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1445, 
+                    "end": 1452, 
+                    "score": 0.15704001486301422, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 2002, 
+                    "end": 2009, 
+                    "score": 0.1964370310306549, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1926, 
+                    "score": 0.1328355222940445, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 30330, 
+            "wiki_title": "Total order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 604, 
+                    "end": 611, 
+                    "score": 0.14554035663604736, 
+                    "spot": "buoyant"
+                }
+            ], 
+            "wiki_id": 245982, 
+            "wiki_title": "Buoyancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 556, 
+                    "end": 560, 
+                    "score": 0.13933449983596802, 
+                    "spot": "bank"
+                }
+            ], 
+            "wiki_id": 9094822, 
+            "wiki_title": "Ocean bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3234, 
+                    "end": 3241, 
+                    "score": 0.05872631445527077, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 692, 
+                    "end": 701, 
+                    "score": 0.002669830806553364, 
+                    "spot": "decidedly"
+                }
+            ], 
+            "wiki_id": 19441211, 
+            "wiki_title": "Decidedly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2360, 
+                    "end": 2369, 
+                    "score": 0.10239412635564804, 
+                    "spot": "East Asia"
+                }
+            ], 
+            "wiki_id": 19605700, 
+            "wiki_title": "East Asia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 152, 
+                    "end": 161, 
+                    "score": 0.008196720853447914, 
+                    "spot": "new loans"
+                }, 
+                {
+                    "begin": 888, 
+                    "end": 897, 
+                    "score": 0.008196720853447914, 
+                    "spot": "new loans"
+                }, 
+                {
+                    "begin": 3478, 
+                    "end": 3487, 
+                    "score": 0.008196720853447914, 
+                    "spot": "new loans"
+                }
+            ], 
+            "wiki_id": 3641072, 
+            "wiki_title": "Loan origination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1052, 
+                    "end": 1057, 
+                    "score": 0.1533302217721939, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3725, 
+                    "end": 3736, 
+                    "score": 0.17892226576805115, 
+                    "spot": "development"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1292, 
+                    "end": 1303, 
+                    "score": 0.095238097012043, 
+                    "spot": "global debt"
+                }
+            ], 
+            "wiki_id": 1358466, 
+            "wiki_title": "Debt levels and flows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1735, 
+                    "end": 1745, 
+                    "score": 0.02638406865298748, 
+                    "spot": "paying off"
+                }
+            ], 
+            "wiki_id": 60925, 
+            "wiki_title": "Ship commissioning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1883, 
+                    "end": 1889, 
+                    "score": 0.1376727670431137, 
+                    "spot": "figure"
+                }
+            ], 
+            "wiki_id": 169191, 
+            "wiki_title": "Shape"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3403, 
+                    "end": 3407, 
+                    "score": 0.0005077144596725702, 
+                    "spot": "ones"
+                }
+            ], 
+            "wiki_id": 22553150, 
+            "wiki_title": "The Ones (30 Rock)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 872, 
+                    "end": 883, 
+                    "score": 0.07310701906681061, 
+                    "spot": "commitments"
+                }
+            ], 
+            "wiki_id": 638369, 
+            "wiki_title": "Promise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2261, 
+                    "score": 0.10511714965105057, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 388, 
+                    "end": 393, 
+                    "score": 0.11800271272659302, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 565176, 
+            "wiki_title": "Narration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2700, 
+                    "end": 2707, 
+                    "score": 0.019538935273885727, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 181337, 
+            "wiki_title": "Capital city"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3763, 
+                    "end": 3770, 
+                    "score": 0.03485877811908722, 
+                    "spot": "step up"
+                }
+            ], 
+            "wiki_id": 5429993, 
+            "wiki_title": "Step Up (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1210, 
+                    "end": 1215, 
+                    "score": 0.08777686208486557, 
+                    "spot": "terms"
+                }
+            ], 
+            "wiki_id": 49607, 
+            "wiki_title": "Jargon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1163, 
+                    "end": 1166, 
+                    "score": 0.08220385015010834, 
+                    "spot": "net"
+                }
+            ], 
+            "wiki_id": 1137395, 
+            "wiki_title": "Fishing net"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2397, 
+                    "end": 2407, 
+                    "score": 0.20576514303684235, 
+                    "spot": "investment"
+                }, 
+                {
+                    "begin": 2629, 
+                    "end": 2639, 
+                    "score": 0.19399292767047882, 
+                    "spot": "investment"
+                }
+            ], 
+            "wiki_id": 63121, 
+            "wiki_title": "Investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3648, 
+                    "end": 3656, 
+                    "score": 0.06088884919881821, 
+                    "spot": "emphasis"
+                }
+            ], 
+            "wiki_id": 219805, 
+            "wiki_title": "Emphasis (typography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 110, 
+                    "end": 119, 
+                    "score": 0.013007055036723614, 
+                    "spot": "creditors"
+                }
+            ], 
+            "wiki_id": 601598, 
+            "wiki_title": "Creditor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1893, 
+                    "end": 1900, 
+                    "score": 0.04671585187315941, 
+                    "spot": "massive"
+                }
+            ], 
+            "wiki_id": 172987, 
+            "wiki_title": "Solar mass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 174, 
+                    "end": 179, 
+                    "score": 0.11452930420637131, 
+                    "spot": "drain"
+                }, 
+                {
+                    "begin": 1138, 
+                    "end": 1143, 
+                    "score": 0.114679716527462, 
+                    "spot": "drain"
+                }
+            ], 
+            "wiki_id": 46596, 
+            "wiki_title": "Drainage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3251, 
+                    "end": 3255, 
+                    "score": 0.05608931556344032, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 46212943, 
+            "wiki_title": "Urban planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 249, 
+                    "end": 255, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 1979839, 
+            "wiki_title": "Sunday strip"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1791, 
+                    "end": 1795, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 17081364, 
+            "wiki_title": "Help (command)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2015, 
+                    "end": 2027, 
+                    "score": 0.2937614917755127, 
+                    "spot": "debt service"
+                }
+            ], 
+            "wiki_id": 695460, 
+            "wiki_title": "Government debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3618, 
+                    "end": 3629, 
+                    "score": 0.05010422319173813, 
+                    "spot": "institution"
+                }
+            ], 
+            "wiki_id": 294833, 
+            "wiki_title": "Institution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2078, 
+                    "end": 2086, 
+                    "score": 0.2243495136499405, 
+                    "spot": "interest"
+                }
+            ], 
+            "wiki_id": 146738, 
+            "wiki_title": "Interest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 16, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 902, 
+                    "end": 913, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 1325, 
+                    "end": 1336, 
+                    "score": 0.37287217378616333, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 1524, 
+                    "end": 1535, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 1942, 
+                    "end": 1954, 
+                    "score": 0.30706727504730225, 
+                    "spot": "Third \nWorld"
+                }, 
+                {
+                    "begin": 2869, 
+                    "end": 2880, 
+                    "score": 0.2778662145137787, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 3491, 
+                    "end": 3502, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }
+            ], 
+            "wiki_id": 30305, 
+            "wiki_title": "Third World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1001, 
+                    "end": 1007, 
+                    "score": 0.24133887887001038, 
+                    "spot": "fiscal"
+                }
+            ], 
+            "wiki_id": 11162, 
+            "wiki_title": "Finance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2968, 
+                    "end": 2986, 
+                    "score": 0.024390242993831635, 
+                    "spot": "Secretary Nicholas"
+                }
+            ], 
+            "wiki_id": 395617, 
+            "wiki_title": "Edward Nicholas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2169, 
+                    "end": 2176, 
+                    "score": 0.050179027020931244, 
+                    "spot": "variety"
+                }
+            ], 
+            "wiki_id": 255928, 
+            "wiki_title": "Variety (linguistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3607, 
+                    "end": 3613, 
+                    "score": 0.0042143939062952995, 
+                    "spot": "prompt"
+                }
+            ], 
+            "wiki_id": 28338635, 
+            "wiki_title": "Command-line interface"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3129, 
+                    "end": 3138, 
+                    "score": 0.1018572524189949, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 3565, 
+                    "end": 3574, 
+                    "score": 0.1018572524189949, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1118, 
+                    "end": 1125, 
+                    "score": 0.03022565320134163, 
+                    "spot": "figures"
+                }
+            ], 
+            "wiki_id": 174074, 
+            "wiki_title": "Action figure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3634, 
+                    "end": 3643, 
+                    "score": 0.002223210409283638, 
+                    "spot": "intensify"
+                }
+            ], 
+            "wiki_id": 49257982, 
+            "wiki_title": "Intensify"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 438, 
+                    "end": 445, 
+                    "score": 0.0013357822317630053, 
+                    "spot": "totaled"
+                }
+            ], 
+            "wiki_id": 8054500, 
+            "wiki_title": "Total loss"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1667, 
+                    "end": 1674, 
+                    "score": 0.012552356347441673, 
+                    "spot": "bloated"
+                }
+            ], 
+            "wiki_id": 2200874, 
+            "wiki_title": "Bloating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3660, 
+                    "end": 3668, 
+                    "score": 0.0606943741440773, 
+                    "spot": "programs"
+                }
+            ], 
+            "wiki_id": 5783, 
+            "wiki_title": "Computer program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 975, 
+                    "end": 977, 
+                    "score": 0.17076025903224945, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1783, 
+                    "end": 1787, 
+                    "score": 0.1155388131737709, 
+                    "spot": "plan"
+                }, 
+                {
+                    "begin": 2330, 
+                    "end": 2347, 
+                    "score": 0.01054650079458952, 
+                    "spot": "economic policies"
+                }, 
+                {
+                    "begin": 2942, 
+                    "end": 2946, 
+                    "score": 0.11544493585824966, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 210522, 
+            "wiki_title": "Economic policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 228, 
+                    "end": 238, 
+                    "score": 0.42698341608047485, 
+                    "spot": "World Bank"
+                }, 
+                {
+                    "begin": 3117, 
+                    "end": 3128, 
+                    "score": 0.42698341608047485, 
+                    "spot": "World \nBank"
+                }, 
+                {
+                    "begin": 3554, 
+                    "end": 3564, 
+                    "score": 0.42698341608047485, 
+                    "spot": "World Bank"
+                }
+            ], 
+            "wiki_id": 45358446, 
+            "wiki_title": "World Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1167, 
+                    "end": 1175, 
+                    "score": 0.18563419580459595, 
+                    "spot": "resource"
+                }
+            ], 
+            "wiki_id": 21675, 
+            "wiki_title": "Natural resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 271, 
+                    "end": 277, 
+                    "score": 0.09225626289844513, 
+                    "spot": "figure"
+                }
+            ], 
+            "wiki_id": 2361047, 
+            "wiki_title": "Page layout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 77, 
+                    "score": 0.14070521295070648, 
+                    "spot": "debts"
+                }, 
+                {
+                    "begin": 1752, 
+                    "end": 1757, 
+                    "score": 0.13631980121135712, 
+                    "spot": "debts"
+                }, 
+                {
+                    "begin": 1819, 
+                    "end": 1824, 
+                    "score": 0.14427921175956726, 
+                    "spot": "debts"
+                }, 
+                {
+                    "begin": 1927, 
+                    "end": 1931, 
+                    "score": 0.19412849843502045, 
+                    "spot": "debt"
+                }, 
+                {
+                    "begin": 2015, 
+                    "end": 2019, 
+                    "score": 0.3048713207244873, 
+                    "spot": "debt"
+                }, 
+                {
+                    "begin": 2776, 
+                    "end": 2780, 
+                    "score": 0.13120533525943756, 
+                    "spot": "debt"
+                }, 
+                {
+                    "begin": 3289, 
+                    "end": 3293, 
+                    "score": 0.35896390676498413, 
+                    "spot": "debt"
+                }
+            ], 
+            "wiki_id": 152835, 
+            "wiki_title": "Debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3284, 
+                    "end": 3288, 
+                    "score": 0.19016309082508087, 
+                    "spot": "swap"
+                }
+            ], 
+            "wiki_id": 502071, 
+            "wiki_title": "Swap (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1051, 
+                    "score": 0.26673173904418945, 
+                    "spot": "loan"
+                }
+            ], 
+            "wiki_id": 208852, 
+            "wiki_title": "Loan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 806, 
+                    "end": 812, 
+                    "score": 0.1666879951953888, 
+                    "spot": "Africa"
+                }
+            ], 
+            "wiki_id": 5334607, 
+            "wiki_title": "Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3690, 
+                    "end": 3707, 
+                    "score": 0.1080864891409874, 
+                    "spot": "alleviate poverty"
+                }
+            ], 
+            "wiki_id": 2301052, 
+            "wiki_title": "Poverty reduction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2545, 
+                    "end": 2556, 
+                    "score": 0.1922895610332489, 
+                    "spot": "state-owned"
+                }
+            ], 
+            "wiki_id": 419202, 
+            "wiki_title": "State ownership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1428, 
+                    "end": 1436, 
+                    "score": 0.10161221027374268, 
+                    "spot": "estimate"
+                }
+            ], 
+            "wiki_id": 336271, 
+            "wiki_title": "Approximation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 962, 
+                    "end": 973, 
+                    "score": 0.2757701575756073, 
+                    "spot": "fiscal year"
+                }
+            ], 
+            "wiki_id": 5752099, 
+            "wiki_title": "Fiscal year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3179, 
+                    "end": 3181, 
+                    "score": 0.04057160019874573, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 11659396, 
+            "wiki_title": "Up (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1392, 
+                    "end": 1401, 
+                    "score": 0.0809284970164299, 
+                    "spot": "7 billion"
+                }
+            ], 
+            "wiki_id": 32164052, 
+            "wiki_title": "7 Billion Actions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2674, 
+                    "end": 2683, 
+                    "score": 0.08029253035783768, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1539, 
+                    "end": 1546, 
+                    "score": 0.021514274179935455, 
+                    "spot": "getting"
+                }
+            ], 
+            "wiki_id": 40224738, 
+            "wiki_title": "Getting On (U.S. TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1476, 
+                    "end": 1485, 
+                    "score": 0.06110811233520508, 
+                    "spot": "published"
+                }
+            ], 
+            "wiki_id": 68761, 
+            "wiki_title": "Publishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2817, 
+                    "end": 2832, 
+                    "score": 0.005576208233833313, 
+                    "spot": "further efforts"
+                }
+            ], 
+            "wiki_id": 12104115, 
+            "wiki_title": "Further Efforts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 332, 
+                    "score": 0.1820039600133896, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 262293, 
+            "wiki_title": "Public company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 470, 
+                    "end": 475, 
+                    "score": 0.10068996995687485, 
+                    "spot": "drain"
+                }, 
+                {
+                    "begin": 3016, 
+                    "end": 3021, 
+                    "score": 0.008291511796414852, 
+                    "spot": "Drain"
+                }
+            ], 
+            "wiki_id": 41228216, 
+            "wiki_title": "Field-effect transistor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 680, 
+                    "end": 686, 
+                    "score": 0.0005411591264419258, 
+                    "spot": "turned"
+                }
+            ], 
+            "wiki_id": 28036423, 
+            "wiki_title": "Turned On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3771, 
+                    "end": 3778, 
+                    "score": 0.14952906966209412, 
+                    "spot": "lending"
+                }
+            ], 
+            "wiki_id": 1698417, 
+            "wiki_title": "Credit (finance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1368, 
+                    "end": 1373, 
+                    "score": 0.08181143552064896, 
+                    "spot": "total"
+                }, 
+                {
+                    "begin": 1850, 
+                    "end": 1855, 
+                    "score": 0.04447519779205322, 
+                    "spot": "total"
+                }, 
+                {
+                    "begin": 2038, 
+                    "end": 2043, 
+                    "score": 0.10669443756341934, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1841, 
+                    "end": 1845, 
+                    "score": 0.02633078768849373, 
+                    "spot": "trim"
+                }
+            ], 
+            "wiki_id": 9223115, 
+            "wiki_title": "Draft (hull)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3166, 
+                    "end": 3169, 
+                    "score": 0.09175657480955124, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1796193, 
+            "wiki_title": "David May (footballer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2864, 
+                    "end": 2868, 
+                    "score": 0.051699019968509674, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1806, 
+                    "end": 1812, 
+                    "score": 0.08196254819631577, 
+                    "spot": "reduce"
+                }
+            ], 
+            "wiki_id": 3325618, 
+            "wiki_title": "Tax shelter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 923, 
+                    "score": 0.05807158350944519, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 1796, 
+                    "end": 1805, 
+                    "score": 0.06891820579767227, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 2240, 
+                    "end": 2249, 
+                    "score": 0.1659664511680603, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 2660, 
+                    "end": 2669, 
+                    "score": 0.12527264654636383, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 3447, 
+                    "end": 3456, 
+                    "score": 0.002126530045643449, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 3504, 
+                    "end": 3511, 
+                    "score": 0.3692544102668762, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 3523, 
+                    "end": 3532, 
+                    "score": 0.252126544713974, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 788, 
+                    "end": 802, 
+                    "score": 0.08782652020454407, 
+                    "spot": "impoverishment"
+                }, 
+                {
+                    "begin": 3700, 
+                    "end": 3707, 
+                    "score": 0.14828817546367645, 
+                    "spot": "poverty"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2196, 
+                    "end": 2205, 
+                    "score": 0.003044871846213937, 
+                    "spot": "disparity"
+                }
+            ], 
+            "wiki_id": 9170159, 
+            "wiki_title": "Binocular disparity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1030, 
+                    "end": 1043, 
+                    "score": 0.28144872188568115, 
+                    "spot": "disbursements"
+                }, 
+                {
+                    "begin": 2060, 
+                    "end": 2068, 
+                    "score": 0.000617055397015065, 
+                    "spot": "payments"
+                }
+            ], 
+            "wiki_id": 3648961, 
+            "wiki_title": "Payment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 296, 
+                    "end": 300, 
+                    "score": 0.07610487937927246, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 828, 
+                    "end": 832, 
+                    "score": 0.1185305044054985, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 1196, 
+                    "end": 1200, 
+                    "score": 0.1722862273454666, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 1471, 
+                    "end": 1475, 
+                    "score": 0.12582306563854218, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 1569, 
+                    "end": 1573, 
+                    "score": 0.053972482681274414, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 1601, 
+                    "end": 1605, 
+                    "score": 0.03904211148619652, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 2157, 
+                    "end": 2161, 
+                    "score": 0.08257908374071121, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 2730, 
+                    "end": 2734, 
+                    "score": 0.010931241326034069, 
+                    "spot": "bank"
+                }, 
+                {
+                    "begin": 3742, 
+                    "end": 3746, 
+                    "score": 0.0742553249001503, 
+                    "spot": "bank"
+                }
+            ], 
+            "wiki_id": 19360669, 
+            "wiki_title": "Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1185, 
+                    "score": 0.16737164556980133, 
+                    "spot": "transfers"
+                }
+            ], 
+            "wiki_id": 564810, 
+            "wiki_title": "Transfer payment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3379, 
+                    "end": 3388, 
+                    "score": 0.03620395436882973, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 5165, 
+            "wiki_title": "Country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3719, 
+                    "end": 3724, 
+                    "score": 0.05073435604572296, 
+                    "spot": "speed"
+                }
+            ], 
+            "wiki_id": 11038318, 
+            "wiki_title": "Methamphetamine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3174, 
+                    "end": 3178, 
+                    "score": 0.04101371392607689, 
+                    "spot": "show"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1654, 
+                    "end": 1660, 
+                    "score": 0.0008206114289350808, 
+                    "spot": "figure"
+                }
+            ], 
+            "wiki_id": 77691, 
+            "wiki_title": "Figure of speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 702, 
+                    "end": 707, 
+                    "score": 0.00764890993013978, 
+                    "spot": "mixed"
+                }
+            ], 
+            "wiki_id": 243749, 
+            "wiki_title": "Multiracial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3357, 
+                    "end": 3362, 
+                    "score": 0.008291511796414852, 
+                    "spot": "drain"
+                }
+            ], 
+            "wiki_id": 191162, 
+            "wiki_title": "Drainage basin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1267, 
+                    "end": 1275, 
+                    "score": 0.10016775131225586, 
+                    "spot": "mounting"
+                }
+            ], 
+            "wiki_id": 2867119, 
+            "wiki_title": "Mount (grappling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3798, 
+                    "end": 3806, 
+                    "score": 0.11448045074939728, 
+                    "spot": "projects"
+                }
+            ], 
+            "wiki_id": 160483, 
+            "wiki_title": "Project"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2920, 
+                    "end": 2925, 
+                    "score": 0.03223532438278198, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 201920, 
+            "wiki_title": "Major"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2978, 
+                    "end": 2995, 
+                    "score": 0.5, 
+                    "spot": "Nicholas F. Brady"
+                }
+            ], 
+            "wiki_id": 542839, 
+            "wiki_title": "Nicholas F. Brady"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 429, 
+                    "end": 437, 
+                    "score": 0.19038301706314087, 
+                    "spot": "pay-back"
+                }
+            ], 
+            "wiki_id": 438269, 
+            "wiki_title": "Batman Beyond"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1486, 
+                    "end": 1490, 
+                    "score": 0.06622476130723953, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 47148916, 
+            "wiki_title": "Last (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 365, 
+                    "end": 373, 
+                    "score": 0.013605441898107529, 
+                    "spot": "Sept. 23"
+                }
+            ], 
+            "wiki_id": 27651, 
+            "wiki_title": null
+        }
+    ]
+}

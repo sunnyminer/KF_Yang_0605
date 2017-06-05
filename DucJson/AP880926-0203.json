@@ -1,0 +1,1948 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1722, 
+                    "end": 1725, 
+                    "score": 0.0073289042338728905, 
+                    "spot": "key"
+                }
+            ], 
+            "wiki_id": 70640, 
+            "wiki_title": "Key (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1818, 
+                    "end": 1824, 
+                    "score": 0.42953041195869446, 
+                    "spot": "Canada"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1543, 
+                    "end": 1549, 
+                    "score": 0.009564803913235664, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 18213, 
+            "wiki_title": "Los Angeles Dodgers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 465, 
+                    "end": 470, 
+                    "score": 0.135202556848526, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 190009, 
+            "wiki_title": "And All That Could Have Been"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 686, 
+                    "end": 697, 
+                    "score": 0.4344262182712555, 
+                    "spot": "West Berlin"
+                }
+            ], 
+            "wiki_id": 33170, 
+            "wiki_title": "West Berlin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2506, 
+                    "end": 2510, 
+                    "score": 0.340939462184906, 
+                    "spot": "debt"
+                }
+            ], 
+            "wiki_id": 666269, 
+            "wiki_title": "Debt of developing countries"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 26, 
+                    "end": 29, 
+                    "score": 0.023731593042612076, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1440, 
+                    "end": 1452, 
+                    "score": 0.0187601950019598, 
+                    "spot": "market place"
+                }
+            ], 
+            "wiki_id": 9801859, 
+            "wiki_title": "Market (place)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2000, 
+                    "end": 2009, 
+                    "score": 0.3246081471443176, 
+                    "spot": "Argentina"
+                }, 
+                {
+                    "begin": 2139, 
+                    "end": 2148, 
+                    "score": 0.3815270662307739, 
+                    "spot": "Argentina"
+                }
+            ], 
+            "wiki_id": 18951905, 
+            "wiki_title": "Argentina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1268, 
+                    "end": 1276, 
+                    "score": 0.1280868649482727, 
+                    "spot": "appealed"
+                }
+            ], 
+            "wiki_id": 35925403, 
+            "wiki_title": "Appeal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 186, 
+                    "score": 0.09041841328144073, 
+                    "spot": "Foreign Minister"
+                }
+            ], 
+            "wiki_id": 9473033, 
+            "wiki_title": "Ministry of Foreign Affairs (Netherlands)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1411, 
+                    "end": 1428, 
+                    "score": 0.016949152573943138, 
+                    "spot": "African economies"
+                }
+            ], 
+            "wiki_id": 1055517, 
+            "wiki_title": "Economy of Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2417, 
+                    "end": 2420, 
+                    "score": 0.047264423221349716, 
+                    "spot": "She"
+                }
+            ], 
+            "wiki_id": 496958, 
+            "wiki_title": "She people"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 15, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 284, 
+                    "end": 295, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 805, 
+                    "end": 816, 
+                    "score": 0.1287895143032074, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 933, 
+                    "end": 944, 
+                    "score": 0.2940909266471863, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 1201, 
+                    "end": 1212, 
+                    "score": 0.3791014850139618, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 2523, 
+                    "end": 2534, 
+                    "score": 0.4921950399875641, 
+                    "spot": "Third World"
+                }, 
+                {
+                    "begin": 2644, 
+                    "end": 2655, 
+                    "score": 0.3892383873462677, 
+                    "spot": "Third World"
+                }
+            ], 
+            "wiki_id": 30305, 
+            "wiki_title": "Third World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1939, 
+                    "score": 0.513940691947937, 
+                    "spot": "sub-Saharan Africa"
+                }
+            ], 
+            "wiki_id": 27067, 
+            "wiki_title": "Sub-Saharan Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 552, 
+                    "end": 561, 
+                    "score": 0.001662971219047904, 
+                    "spot": "forebears"
+                }
+            ], 
+            "wiki_id": 305561, 
+            "wiki_title": "Varg Vikernes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 440, 
+                    "end": 445, 
+                    "score": 0.28053516149520874, 
+                    "spot": "Asian"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 45, 
+                    "end": 50, 
+                    "score": 0.17839062213897705, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1886, 
+                    "end": 1891, 
+                    "score": 0.09567952156066895, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 66, 
+                    "score": 0.13338737189769745, 
+                    "spot": "indebted"
+                }, 
+                {
+                    "begin": 850, 
+                    "end": 855, 
+                    "score": 0.1471375674009323, 
+                    "spot": "debts"
+                }, 
+                {
+                    "begin": 1308, 
+                    "end": 1313, 
+                    "score": 0.14516916871070862, 
+                    "spot": "debts"
+                }
+            ], 
+            "wiki_id": 152835, 
+            "wiki_title": "Debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 230, 
+                    "end": 237, 
+                    "score": 0.0054475003853440285, 
+                    "spot": "opening"
+                }
+            ], 
+            "wiki_id": 6117426, 
+            "wiki_title": "Opening act"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1374, 
+                    "end": 1379, 
+                    "score": 0.14772453904151917, 
+                    "spot": "raise"
+                }
+            ], 
+            "wiki_id": 610452, 
+            "wiki_title": "Salary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1243, 
+                    "end": 1247, 
+                    "score": 0.13097244501113892, 
+                    "spot": "Obed"
+                }
+            ], 
+            "wiki_id": 34831513, 
+            "wiki_title": "Rhema Obed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2184, 
+                    "end": 2198, 
+                    "score": 0.11108189821243286, 
+                    "spot": "Prime Minister"
+                }
+            ], 
+            "wiki_id": 24150, 
+            "wiki_title": "Prime Minister of the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2353, 
+                    "end": 2358, 
+                    "score": 0.0005953370127826929, 
+                    "spot": "above"
+                }
+            ], 
+            "wiki_id": 361058, 
+            "wiki_title": "Finger Eleven"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2037, 
+                    "end": 2056, 
+                    "score": 0.5, 
+                    "spot": "Susana Ruiz Cerutti"
+                }
+            ], 
+            "wiki_id": 47824476, 
+            "wiki_title": "Susana Ruiz Cerutti"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1251, 
+                    "end": 1258, 
+                    "score": 0.12481716275215149, 
+                    "spot": "Asamoah"
+                }
+            ], 
+            "wiki_id": 9112554, 
+            "wiki_title": "Obed Asamoah"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 296, 
+                    "end": 312, 
+                    "score": 0.05000000074505806, 
+                    "spot": "economic picture"
+                }
+            ], 
+            "wiki_id": 21775229, 
+            "wiki_title": "Tableau \u00e9conomique"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 253, 
+                    "end": 257, 
+                    "score": 0.0701560452580452, 
+                    "spot": "42nd"
+                }
+            ], 
+            "wiki_id": 33410551, 
+            "wiki_title": "42nd New York State Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 416, 
+                    "end": 420, 
+                    "score": 0.030363772064447403, 
+                    "spot": "note"
+                }
+            ], 
+            "wiki_id": 330432, 
+            "wiki_title": "Note (typography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1005, 
+                    "end": 1018, 
+                    "score": 0.010074385441839695, 
+                    "spot": "comprehensive"
+                }
+            ], 
+            "wiki_id": 699350, 
+            "wiki_title": "Comprehensive school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1945, 
+                    "end": 1959, 
+                    "score": 0.25520703196525574, 
+                    "spot": "Latin\nAmerican"
+                }
+            ], 
+            "wiki_id": 18524, 
+            "wiki_title": "Latin America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1509, 
+                    "end": 1514, 
+                    "score": 0.09033481031656265, 
+                    "spot": "wares"
+                }
+            ], 
+            "wiki_id": 240410, 
+            "wiki_title": "Product (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1556, 
+                    "score": 0.06666667014360428, 
+                    "spot": "dearly"
+                }
+            ], 
+            "wiki_id": 31299905, 
+            "wiki_title": "Max Dearly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2012, 
+                    "end": 2018, 
+                    "score": 0.3116118013858795, 
+                    "spot": "deputy"
+                }
+            ], 
+            "wiki_id": 751124, 
+            "wiki_title": "Argentine Chamber of Deputies"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 97, 
+                    "end": 111, 
+                    "score": 0.09858492761850357, 
+                    "spot": "industrialized"
+                }, 
+                {
+                    "begin": 1726, 
+                    "end": 1740, 
+                    "score": 0.09858492761850357, 
+                    "spot": "industrialized"
+                }, 
+                {
+                    "begin": 2433, 
+                    "end": 2447, 
+                    "score": 0.18041275441646576, 
+                    "spot": "industrialized"
+                }, 
+                {
+                    "begin": 2552, 
+                    "end": 2566, 
+                    "score": 0.25036928057670593, 
+                    "spot": "industrialized"
+                }
+            ], 
+            "wiki_id": 210545, 
+            "wiki_title": "Industrialisation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2595, 
+                    "end": 2598, 
+                    "score": 0.060383107513189316, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 205, 
+                    "end": 210, 
+                    "score": 0.26252734661102295, 
+                    "spot": "Sodre"
+                }
+            ], 
+            "wiki_id": 23402195, 
+            "wiki_title": "Mimi Sodr\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1088, 
+                    "end": 1096, 
+                    "score": 0.09175822883844376, 
+                    "spot": "critical"
+                }
+            ], 
+            "wiki_id": 317947, 
+            "wiki_title": "Music journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1809, 
+                    "score": 0.35577836632728577, 
+                    "spot": "West Germany"
+                }
+            ], 
+            "wiki_id": 33166, 
+            "wiki_title": "West Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1041, 
+                    "end": 1050, 
+                    "score": 0.07213690876960754, 
+                    "spot": "last\nweek"
+                }
+            ], 
+            "wiki_id": 41923028, 
+            "wiki_title": "Last Week Tonight with John Oliver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 471, 
+                    "end": 477, 
+                    "score": 0.001330770319327712, 
+                    "spot": "suffer"
+                }
+            ], 
+            "wiki_id": 197514, 
+            "wiki_title": "Suffer (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2199, 
+                    "end": 2220, 
+                    "score": 0.5, 
+                    "spot": "Gro Harlem Brundtland"
+                }
+            ], 
+            "wiki_id": 13171, 
+            "wiki_title": "Gro Harlem Brundtland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1826, 
+                    "end": 1832, 
+                    "score": 0.4486362934112549, 
+                    "spot": "France"
+                }
+            ], 
+            "wiki_id": 5843419, 
+            "wiki_title": "France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1119, 
+                    "end": 1125, 
+                    "score": 0.001856324844993651, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 49622191, 
+            "wiki_title": "Strong (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1669, 
+                    "end": 1678, 
+                    "score": 0.14027613401412964, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2265, 
+                    "end": 2272, 
+                    "score": 0.08838659524917603, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 2376, 
+                    "end": 2383, 
+                    "score": 0.12948481738567352, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 788, 
+                    "end": 794, 
+                    "score": 0.09217748045921326, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 43564, 
+            "wiki_title": "Action film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 238, 
+                    "end": 245, 
+                    "score": 0.08937977999448776, 
+                    "spot": "session"
+                }
+            ], 
+            "wiki_id": 4927404, 
+            "wiki_title": "Legislative session"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 372, 
+                    "end": 380, 
+                    "score": 0.14357852935791016, 
+                    "spot": "economic"
+                }, 
+                {
+                    "begin": 1126, 
+                    "end": 1134, 
+                    "score": 0.21318231523036957, 
+                    "spot": "economic"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1233, 
+                    "end": 1242, 
+                    "score": 0.08979722112417221, 
+                    "spot": "Secretary"
+                }
+            ], 
+            "wiki_id": 32293, 
+            "wiki_title": "United States Secretary of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 838, 
+                    "end": 846, 
+                    "score": 0.1074419692158699, 
+                    "spot": "trillion"
+                }
+            ], 
+            "wiki_id": 260914, 
+            "wiki_title": "Orders of magnitude (numbers)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2236, 
+                    "end": 2247, 
+                    "score": 0.09450136125087738, 
+                    "spot": "her country"
+                }
+            ], 
+            "wiki_id": 5791147, 
+            "wiki_title": "New Zealand women's national football team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1591, 
+                    "end": 1595, 
+                    "score": 0.12000720947980881, 
+                    "spot": "weak"
+                }
+            ], 
+            "wiki_id": 6450414, 
+            "wiki_title": "Weak (Skunk Anansie song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 923, 
+                    "end": 932, 
+                    "score": 0.0057032229378819466, 
+                    "spot": "strongest"
+                }
+            ], 
+            "wiki_id": 3630320, 
+            "wiki_title": "The Strongest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2316, 
+                    "end": 2322, 
+                    "score": 0.24650515615940094, 
+                    "spot": "grants"
+                }
+            ], 
+            "wiki_id": 1980975, 
+            "wiki_title": "Grant (money)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2363, 
+                    "end": 2370, 
+                    "score": 0.11038129776716232, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2672, 
+                    "end": 2681, 
+                    "score": 0.0039036329835653305, 
+                    "spot": "challenge"
+                }
+            ], 
+            "wiki_id": 946966, 
+            "wiki_title": "Challenge (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1262, 
+                    "end": 1267, 
+                    "score": 0.5217268466949463, 
+                    "spot": "Ghana"
+                }, 
+                {
+                    "begin": 1633, 
+                    "end": 1638, 
+                    "score": 0.4940551519393921, 
+                    "spot": "Ghana"
+                }
+            ], 
+            "wiki_id": 12067, 
+            "wiki_title": "Ghana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1150, 
+                    "end": 1169, 
+                    "score": 0.0006949270609766245, 
+                    "spot": "developed countries"
+                }, 
+                {
+                    "begin": 2393, 
+                    "end": 2412, 
+                    "score": 0.0006949270609766245, 
+                    "spot": "developed countries"
+                }
+            ], 
+            "wiki_id": 22413685, 
+            "wiki_title": "The World Factbook list of developed countries"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2089, 
+                    "end": 2107, 
+                    "score": 0.22210098803043365, 
+                    "spot": "global development"
+                }
+            ], 
+            "wiki_id": 385745, 
+            "wiki_title": "International development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1878, 
+                    "end": 1881, 
+                    "score": 0.15862330794334412, 
+                    "spot": "aid"
+                }
+            ], 
+            "wiki_id": 434679, 
+            "wiki_title": "Humanitarian aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 430, 
+                    "end": 438, 
+                    "score": 0.17485597729682922, 
+                    "spot": "American"
+                }, 
+                {
+                    "begin": 1782, 
+                    "end": 1795, 
+                    "score": 0.2106386423110962, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 878, 
+                    "end": 885, 
+                    "score": 0.1620122641324997, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 1687, 
+                    "end": 1694, 
+                    "score": 0.099109947681427, 
+                    "spot": "billion"
+                }, 
+                {
+                    "begin": 2159, 
+                    "end": 2166, 
+                    "score": 0.15013843774795532, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1558, 
+                    "end": 1568, 
+                    "score": 0.11949385702610016, 
+                    "spot": "protection"
+                }
+            ], 
+            "wiki_id": 14033992, 
+            "wiki_title": "Protection (Massive Attack song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 381, 
+                    "end": 390, 
+                    "score": 0.07801908254623413, 
+                    "spot": "relations"
+                }
+            ], 
+            "wiki_id": 82533, 
+            "wiki_title": "International relations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 945, 
+                    "end": 954, 
+                    "score": 0.22170870006084442, 
+                    "spot": "lobbyists"
+                }
+            ], 
+            "wiki_id": 48934, 
+            "wiki_title": "Lobbying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 729, 
+                    "end": 738, 
+                    "score": 0.11350127309560776, 
+                    "spot": "developed"
+                }, 
+                {
+                    "begin": 2490, 
+                    "end": 2501, 
+                    "score": 0.29047977924346924, 
+                    "spot": "development"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1527, 
+                    "end": 1533, 
+                    "score": 0.09621091932058334, 
+                    "spot": "buying"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1472, 
+                    "end": 1481, 
+                    "score": 0.1255865842103958, 
+                    "spot": "operators"
+                }
+            ], 
+            "wiki_id": 18102, 
+            "wiki_title": "Linear map"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1951, 
+                    "end": 1959, 
+                    "score": 0.16945762932300568, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2468, 
+                    "end": 2481, 
+                    "score": 0.2171909660100937, 
+                    "spot": "financial\naid"
+                }
+            ], 
+            "wiki_id": 247817, 
+            "wiki_title": "Welfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1811, 
+                    "end": 1816, 
+                    "score": 0.46028822660446167, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 15573, 
+            "wiki_title": "Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2077, 
+                    "end": 2085, 
+                    "score": 0.21769876778125763, 
+                    "spot": "strategy"
+                }
+            ], 
+            "wiki_id": 239450, 
+            "wiki_title": "Strategic management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1357, 
+                    "end": 1361, 
+                    "score": 0.2002802938222885, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 635, 
+                    "end": 645, 
+                    "score": 0.1297517865896225, 
+                    "spot": "continents"
+                }
+            ], 
+            "wiki_id": 19630739, 
+            "wiki_title": "Continent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 33, 
+                    "end": 39, 
+                    "score": 0.4603064954280853, 
+                    "spot": "Brazil"
+                }, 
+                {
+                    "begin": 214, 
+                    "end": 220, 
+                    "score": 0.46104320883750916, 
+                    "spot": "Brazil"
+                }, 
+                {
+                    "begin": 860, 
+                    "end": 866, 
+                    "score": 0.474287211894989, 
+                    "spot": "Brazil"
+                }
+            ], 
+            "wiki_id": 3383, 
+            "wiki_title": "Brazil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 513, 
+                    "end": 523, 
+                    "score": 0.005673222243785858, 
+                    "spot": "desolation"
+                }
+            ], 
+            "wiki_id": 36045014, 
+            "wiki_title": "Desolation (Llimona)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1068, 
+                    "end": 1077, 
+                    "score": 0.013007055036723614, 
+                    "spot": "creditors"
+                }, 
+                {
+                    "begin": 1280, 
+                    "end": 1289, 
+                    "score": 0.2334510236978531, 
+                    "spot": "creditors"
+                }
+            ], 
+            "wiki_id": 601598, 
+            "wiki_title": "Creditor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2685, 
+                    "end": 2693, 
+                    "score": 0.11965203285217285, 
+                    "spot": "she said"
+                }
+            ], 
+            "wiki_id": 14702622, 
+            "wiki_title": "She Said (The Pharcyde song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 92, 
+                    "score": 0.11277171224355698, 
+                    "spot": "blamed"
+                }
+            ], 
+            "wiki_id": 1150894, 
+            "wiki_title": "Victim blaming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2280, 
+                    "end": 2302, 
+                    "score": 0.5409454107284546, 
+                    "spot": "gross national product"
+                }
+            ], 
+            "wiki_id": 49808, 
+            "wiki_title": "Measures of national income and output"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 317, 
+                    "end": 324, 
+                    "score": 0.00764818349853158, 
+                    "spot": "dimming"
+                }
+            ], 
+            "wiki_id": 514135, 
+            "wiki_title": "Dimmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1188, 
+                    "score": 0.0782608687877655, 
+                    "spot": "trickle down"
+                }
+            ], 
+            "wiki_id": 735201, 
+            "wiki_title": "Trickle-down economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2584, 
+                    "end": 2589, 
+                    "score": 0.13772642612457275, 
+                    "spot": "North"
+                }
+            ], 
+            "wiki_id": 2155325, 
+            "wiki_title": "Northern Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1699, 
+                    "end": 1708, 
+                    "score": 0.017594892531633377, 
+                    "spot": "Officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1463, 
+                    "end": 1468, 
+                    "score": 0.18703509867191315, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 19447, 
+            "wiki_title": "Group (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1362, 
+                    "end": 1370, 
+                    "score": 0.0007516181794926524, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 3238999, 
+            "wiki_title": "Together (S Club Juniors album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2665, 
+                    "end": 2671, 
+                    "score": 0.09217938780784607, 
+                    "spot": "common"
+                }
+            ], 
+            "wiki_id": 210469, 
+            "wiki_title": "Common (rapper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 800, 
+                    "end": 804, 
+                    "score": 0.14517229795455933, 
+                    "spot": "help"
+                }, 
+                {
+                    "begin": 1192, 
+                    "end": 1196, 
+                    "score": 0.15108348429203033, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2348, 
+                    "end": 2352, 
+                    "score": 0.05208992585539818, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 499, 
+                    "score": 0.1222456693649292, 
+                    "spot": "horrors"
+                }
+            ], 
+            "wiki_id": 6346766, 
+            "wiki_title": "The Horrors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 409, 
+                    "end": 412, 
+                    "score": 0.003082043956965208, 
+                    "spot": "sad"
+                }
+            ], 
+            "wiki_id": 234796, 
+            "wiki_title": "Sadness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2019, 
+                    "end": 2035, 
+                    "score": 0.3226417005062103, 
+                    "spot": "foreign minister"
+                }
+            ], 
+            "wiki_id": 18478549, 
+            "wiki_title": "Ministry of Foreign Affairs and Worship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 676, 
+                    "end": 682, 
+                    "score": 0.050580885261297226, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1150, 
+                    "end": 1159, 
+                    "score": 0.08554791659116745, 
+                    "spot": "developed"
+                }
+            ], 
+            "wiki_id": 3154278, 
+            "wiki_title": "Development theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 187, 
+                    "end": 194, 
+                    "score": 0.10143719613552094, 
+                    "spot": "Roberto"
+                }
+            ], 
+            "wiki_id": 8295662, 
+            "wiki_title": "Z\u00e9 Roberto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2393, 
+                    "end": 2402, 
+                    "score": 0.07295049726963043, 
+                    "spot": "developed"
+                }
+            ], 
+            "wiki_id": 204408, 
+            "wiki_title": "Photographic processing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2306, 
+                    "end": 2311, 
+                    "score": 0.2925225496292114, 
+                    "spot": "loans"
+                }
+            ], 
+            "wiki_id": 208852, 
+            "wiki_title": "Loan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1104, 
+                    "end": 1107, 
+                    "score": 0.11356046795845032, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1611, 
+                    "end": 1620, 
+                    "score": 0.00374531839042902, 
+                    "spot": "operators"
+                }
+            ], 
+            "wiki_id": 22213, 
+            "wiki_title": "Operator (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 977, 
+                    "score": 0.16079294681549072, 
+                    "spot": "debt restructuring"
+                }
+            ], 
+            "wiki_id": 446945, 
+            "wiki_title": "Debt restructuring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2599, 
+                    "end": 2610, 
+                    "score": 0.12475023418664932, 
+                    "spot": "demonstrate"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1032, 
+                    "end": 1040, 
+                    "score": 0.05263157933950424, 
+                    "spot": "agrement"
+                }
+            ], 
+            "wiki_id": 66614, 
+            "wiki_title": "Ornament (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1329, 
+                    "end": 1335, 
+                    "score": 0.056581344455480576, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 4297324, 
+            "wiki_title": "Religion in Pakistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 358, 
+                    "end": 371, 
+                    "score": 0.19649720191955566, 
+                    "spot": "international"
+                }
+            ], 
+            "wiki_id": 8195726, 
+            "wiki_title": "International law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2535, 
+                    "end": 2541, 
+                    "score": 0.23365667462348938, 
+                    "spot": "crises"
+                }
+            ], 
+            "wiki_id": 2878852, 
+            "wiki_title": "Financial crisis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1834, 
+                    "end": 1839, 
+                    "score": 0.49753206968307495, 
+                    "spot": "Italy"
+                }
+            ], 
+            "wiki_id": 14532, 
+            "wiki_title": "Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 705, 
+                    "end": 712, 
+                    "score": 0.019572673365473747, 
+                    "spot": "finance"
+                }
+            ], 
+            "wiki_id": 6081332, 
+            "wiki_title": "Ministry of Public Finance (Romania)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1113, 
+                    "score": 0.039146460592746735, 
+                    "spot": "view"
+                }
+            ], 
+            "wiki_id": 175599, 
+            "wiki_title": "Panorama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 705, 
+                    "end": 722, 
+                    "score": 0.008389261551201344, 
+                    "spot": "finance\nministers"
+                }
+            ], 
+            "wiki_id": 800286, 
+            "wiki_title": "Minister of Finance (Pakistan)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1019, 
+                    "end": 1031, 
+                    "score": 0.007062146905809641, 
+                    "spot": "rescheduling"
+                }
+            ], 
+            "wiki_id": 615059, 
+            "wiki_title": "ESPY Award"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 667, 
+                    "score": 0.10364506393671036, 
+                    "spot": "theme"
+                }
+            ], 
+            "wiki_id": 146939, 
+            "wiki_title": "Theme (Byzantine district)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1991, 
+                    "end": 2009, 
+                    "score": 0.1111111119389534, 
+                    "spot": "help.\n   Argentina"
+                }
+            ], 
+            "wiki_id": 7182380, 
+            "wiki_title": "HelpArgentina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1041, 
+                    "end": 1045, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2224, 
+                    "end": 2230, 
+                    "score": 0.3904123604297638, 
+                    "spot": "Norway"
+                }
+            ], 
+            "wiki_id": 21241, 
+            "wiki_title": "Norway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2240, 
+                    "end": 2247, 
+                    "score": 0.12007153779268265, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 32374, 
+            "wiki_title": "Venezuela"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1459, 
+                    "end": 1462, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 25219450, 
+            "wiki_title": "The ONE"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 25, 
+                    "score": 0.04098951816558838, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 78, 
+                    "end": 84, 
+                    "score": 0.22306814789772034, 
+                    "spot": "nation"
+                }, 
+                {
+                    "begin": 112, 
+                    "end": 119, 
+                    "score": 0.15305975079536438, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 753, 
+                    "end": 762, 
+                    "score": 0.07718823105096817, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 817, 
+                    "end": 826, 
+                    "score": 0.1023140400648117, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 1160, 
+                    "end": 1169, 
+                    "score": 0.15652410686016083, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 1346, 
+                    "end": 1353, 
+                    "score": 0.13093671202659607, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 1741, 
+                    "end": 1748, 
+                    "score": 0.17522139847278595, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 1902, 
+                    "end": 1909, 
+                    "score": 0.2258312851190567, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 2337, 
+                    "end": 2346, 
+                    "score": 0.16785220801830292, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 2403, 
+                    "end": 2412, 
+                    "score": 0.06423202157020569, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 2448, 
+                    "end": 2455, 
+                    "score": 0.2077748328447342, 
+                    "spot": "nations"
+                }, 
+                {
+                    "begin": 2567, 
+                    "end": 2576, 
+                    "score": 0.2354392409324646, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 158, 
+                    "end": 165, 
+                    "score": 0.10265284776687622, 
+                    "spot": "poverty"
+                }, 
+                {
+                    "begin": 1894, 
+                    "end": 1901, 
+                    "score": 0.20314815640449524, 
+                    "spot": "poorest"
+                }, 
+                {
+                    "begin": 2629, 
+                    "end": 2636, 
+                    "score": 0.22016066312789917, 
+                    "spot": "poverty"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1217, 
+                    "end": 1232, 
+                    "score": 0.15131567418575287, 
+                    "spot": "Foreign Affairs"
+                }
+            ], 
+            "wiki_id": 233404, 
+            "wiki_title": "Foreign policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 346, 
+                    "end": 354, 
+                    "score": 0.10812939703464508, 
+                    "spot": "progress"
+                }
+            ], 
+            "wiki_id": 2118843, 
+            "wiki_title": "Social progress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2590, 
+                    "end": 2594, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 1178382, 
+            "wiki_title": "English modal verbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 274, 
+                    "score": 0.16722816228866577, 
+                    "spot": "General Assembly"
+                }
+            ], 
+            "wiki_id": 44421, 
+            "wiki_title": "Legislature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1716, 
+                    "end": 1721, 
+                    "score": 0.07123105973005295, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 208159, 
+            "wiki_title": "7 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1380, 
+                    "end": 1389, 
+                    "score": 0.39794468879699707, 
+                    "spot": "commodity"
+                }, 
+                {
+                    "begin": 1380, 
+                    "end": 1396, 
+                    "score": 0.376067578792572, 
+                    "spot": "commodity prices"
+                }
+            ], 
+            "wiki_id": 48218, 
+            "wiki_title": "Commodity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1945, 
+                    "end": 1950, 
+                    "score": 0.29344773292541504, 
+                    "spot": "Latin"
+                }
+            ], 
+            "wiki_id": 58895, 
+            "wiki_title": "Music of Latin America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 463, 
+                    "score": 0.34375, 
+                    "spot": "African\nbrothers"
+                }
+            ], 
+            "wiki_id": 24236592, 
+            "wiki_title": "The African Brothers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1600, 
+                    "end": 1610, 
+                    "score": 0.03040444292128086, 
+                    "spot": "vulnerable"
+                }
+            ], 
+            "wiki_id": 36648147, 
+            "wiki_title": "Vulnerability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1870, 
+                    "end": 1874, 
+                    "score": 0.112782321870327, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 3527100, 
+            "wiki_title": "Plan (aid organisation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1046, 
+                    "end": 1050, 
+                    "score": 0.09012060612440109, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 128, 
+                    "end": 134, 
+                    "score": 0.014672057703137398, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 440467, 
+            "wiki_title": "WWE Raw"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 590, 
+                    "score": 0.09943362325429916, 
+                    "spot": "hunger"
+                }
+            ], 
+            "wiki_id": 258979, 
+            "wiki_title": "Malnutrition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1060, 
+                    "end": 1067, 
+                    "score": 0.10085901618003845, 
+                    "spot": "Western"
+                }
+            ], 
+            "wiki_id": 21208262, 
+            "wiki_title": "Western culture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1135, 
+                    "end": 1146, 
+                    "score": 0.11491550505161285, 
+                    "spot": "performance"
+                }
+            ], 
+            "wiki_id": 41501, 
+            "wiki_title": "Performance management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2121, 
+                    "end": 2137, 
+                    "score": 0.125, 
+                    "spot": "debt\nforgiveness"
+                }
+            ], 
+            "wiki_id": 178748, 
+            "wiki_title": "Debt relief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 426, 
+                    "end": 428, 
+                    "score": 0.006804673001170158, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 27947883, 
+            "wiki_title": "W.E."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1293, 
+                    "end": 1302, 
+                    "score": 0.1713484525680542, 
+                    "spot": "write off"
+                }
+            ], 
+            "wiki_id": 30876068, 
+            "wiki_title": "Write-off"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 889, 
+                    "end": 902, 
+                    "score": 0.14921022951602936, 
+                    "spot": "foreign loans"
+                }, 
+                {
+                    "begin": 1656, 
+                    "end": 1668, 
+                    "score": 0.17048919200897217, 
+                    "spot": "foreign debt"
+                }, 
+                {
+                    "begin": 2167, 
+                    "end": 2179, 
+                    "score": 0.2941834628582001, 
+                    "spot": "foreign debt"
+                }
+            ], 
+            "wiki_id": 535650, 
+            "wiki_title": "External debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 779, 
+                    "end": 787, 
+                    "score": 0.0006474587135016918, 
+                    "spot": "forceful"
+                }
+            ], 
+            "wiki_id": 16494955, 
+            "wiki_title": "Forceful (tugboat)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1851, 
+                    "score": 0.22533872723579407, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 31717, 
+            "wiki_title": "United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1770, 
+                    "end": 1775, 
+                    "score": 0.18497365713119507, 
+                    "spot": "realm"
+                }
+            ], 
+            "wiki_id": 10158, 
+            "wiki_title": "Empire"
+        }
+    ]
+}

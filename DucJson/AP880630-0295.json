@@ -1,0 +1,4408 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 4244, 
+                    "end": 4255, 
+                    "score": 0.28168049454689026, 
+                    "spot": "White House"
+                }
+            ], 
+            "wiki_id": 33057, 
+            "wiki_title": "White House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1572, 
+                    "end": 1580, 
+                    "score": 0.0008508224855177104, 
+                    "spot": "April\n22"
+                }
+            ], 
+            "wiki_id": 1667625, 
+            "wiki_title": "April 22 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4761, 
+                    "end": 4772, 
+                    "score": 0.07654431462287903, 
+                    "spot": "projections"
+                }
+            ], 
+            "wiki_id": 51784, 
+            "wiki_title": "Map projection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4009, 
+                    "end": 4019, 
+                    "score": 0.12729547917842865, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2956, 
+                    "end": 2966, 
+                    "score": 0.05211567506194115, 
+                    "spot": "authorized"
+                }
+            ], 
+            "wiki_id": 8214930, 
+            "wiki_title": "Ijazah"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 149, 
+                    "end": 156, 
+                    "score": 0.0019169328734278679, 
+                    "spot": "callers"
+                }
+            ], 
+            "wiki_id": 890709, 
+            "wiki_title": "Caller (dancing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4327, 
+                    "end": 4331, 
+                    "score": 0.012174075469374657, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3668, 
+                    "end": 3673, 
+                    "score": 0.04658825322985649, 
+                    "spot": "forms"
+                }
+            ], 
+            "wiki_id": 22926, 
+            "wiki_title": "Poetry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4890, 
+                    "end": 4901, 
+                    "score": 0.1854838728904724, 
+                    "spot": "ground beef"
+                }
+            ], 
+            "wiki_id": 574518, 
+            "wiki_title": "Ground beef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 85, 
+                    "end": 95, 
+                    "score": 0.0036621177569031715, 
+                    "spot": "monitoring"
+                }
+            ], 
+            "wiki_id": 87231, 
+            "wiki_title": "Surveillance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1690, 
+                    "end": 1696, 
+                    "score": 0.004787843208760023, 
+                    "spot": "secret"
+                }
+            ], 
+            "wiki_id": 12032960, 
+            "wiki_title": "Secret (2007 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3097, 
+                    "end": 3100, 
+                    "score": 0.0764525979757309, 
+                    "spot": "CRP"
+                }, 
+                {
+                    "begin": 3389, 
+                    "end": 3392, 
+                    "score": 0.0764525979757309, 
+                    "spot": "CRP"
+                }, 
+                {
+                    "begin": 5164, 
+                    "end": 5167, 
+                    "score": 0.0764525979757309, 
+                    "spot": "CRP"
+                }
+            ], 
+            "wiki_id": 307809, 
+            "wiki_title": "C-reactive protein"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2540, 
+                    "end": 2543, 
+                    "score": 0.023565862327814102, 
+                    "spot": "Sen"
+                }
+            ], 
+            "wiki_id": 33415439, 
+            "wiki_title": "Thai units of measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4374, 
+                    "end": 4383, 
+                    "score": 0.10645869374275208, 
+                    "spot": "operation"
+                }
+            ], 
+            "wiki_id": 666301, 
+            "wiki_title": "Military operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1151, 
+                    "end": 1163, 
+                    "score": 0.003076923079788685, 
+                    "spot": "chairmanship"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5296, 
+                    "end": 5301, 
+                    "score": 0.17735303938388824, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 30305, 
+            "wiki_title": "Third World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 190, 
+                    "end": 195, 
+                    "score": 0.017651040107011795, 
+                    "spot": "paper"
+                }
+            ], 
+            "wiki_id": 324570, 
+            "wiki_title": "Academic publishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 998, 
+                    "end": 1007, 
+                    "score": 0.0010877648601308465, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 2737868, 
+            "wiki_title": "Pre-Madonna"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2072, 
+                    "end": 2080, 
+                    "score": 0.1337675005197525, 
+                    "spot": "Standing"
+                }
+            ], 
+            "wiki_id": 4938757, 
+            "wiki_title": "Stud farm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 677, 
+                    "end": 684, 
+                    "score": 0.03348909690976143, 
+                    "spot": "lean on"
+                }
+            ], 
+            "wiki_id": 45657074, 
+            "wiki_title": "Lean On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 211, 
+                    "score": 0.17622271180152893, 
+                    "spot": "bird"
+                }
+            ], 
+            "wiki_id": 3410, 
+            "wiki_title": "Bird"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4537, 
+                    "end": 4546, 
+                    "score": 0.18591506779193878, 
+                    "spot": "first day"
+                }
+            ], 
+            "wiki_id": 41113, 
+            "wiki_title": "Epoch (reference date)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4194, 
+                    "end": 4210, 
+                    "score": 0.25543156266212463, 
+                    "spot": "emergency relief"
+                }
+            ], 
+            "wiki_id": 1455589, 
+            "wiki_title": "Emergency management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1096, 
+                    "score": 0.15418346226215363, 
+                    "spot": "Richard"
+                }
+            ], 
+            "wiki_id": 25473, 
+            "wiki_title": "Richard Nixon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1484, 
+                    "end": 1490, 
+                    "score": 0.05124826729297638, 
+                    "spot": "set up"
+                }
+            ], 
+            "wiki_id": 1570532, 
+            "wiki_title": "The Set-Up (1949 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1494, 
+                    "end": 1498, 
+                    "score": 0.15060241520404816, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 3348, 
+                    "end": 3352, 
+                    "score": 0.15060241520404816, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 4438, 
+                    "end": 4442, 
+                    "score": 0.15060241520404816, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 5015, 
+                    "end": 5019, 
+                    "score": 0.15060241520404816, 
+                    "spot": "Lyng"
+                }
+            ], 
+            "wiki_id": 6417179, 
+            "wiki_title": "Lyng, Somerset"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4968, 
+                    "end": 4974, 
+                    "score": 0.07747490704059601, 
+                    "spot": "cattle"
+                }
+            ], 
+            "wiki_id": 26051975, 
+            "wiki_title": "Cattle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 246, 
+                    "end": 259, 
+                    "score": 0.0013236267259344459, 
+                    "spot": "informational"
+                }
+            ], 
+            "wiki_id": 25540, 
+            "wiki_title": "Request for Comments"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4975, 
+                    "end": 4984, 
+                    "score": 0.015401339158415794, 
+                    "spot": "producers"
+                }
+            ], 
+            "wiki_id": 53207, 
+            "wiki_title": "Record producer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2690, 
+                    "end": 2692, 
+                    "score": 0.13638605177402496, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 164671, 
+            "wiki_title": "Union Pacific Railroad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 849, 
+                    "end": 853, 
+                    "score": 0.007088040933012962, 
+                    "spot": "sale"
+                }
+            ], 
+            "wiki_id": 367154, 
+            "wiki_title": "Sale, Greater Manchester"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 627, 
+                    "end": 638, 
+                    "score": 0.055855993181467056, 
+                    "spot": "questioning"
+                }
+            ], 
+            "wiki_id": 220414, 
+            "wiki_title": "Interrogation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2177, 
+                    "end": 2187, 
+                    "score": 0.10283106565475464, 
+                    "spot": "reasonable"
+                }
+            ], 
+            "wiki_id": 299168, 
+            "wiki_title": "Reasonable person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5191, 
+                    "end": 5200, 
+                    "score": 0.0015093580586835742, 
+                    "spot": "immediate"
+                }
+            ], 
+            "wiki_id": 1057256, 
+            "wiki_title": "Imperial immediacy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 212, 
+                    "end": 217, 
+                    "score": 0.07234727591276169, 
+                    "spot": "cages"
+                }
+            ], 
+            "wiki_id": 2262599, 
+            "wiki_title": "Cage (enclosure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2889, 
+                    "end": 2893, 
+                    "score": 0.18703341484069824, 
+                    "spot": "Lyng"
+                }
+            ], 
+            "wiki_id": 4083777, 
+            "wiki_title": "Lyng, Norfolk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2386, 
+                    "end": 2393, 
+                    "score": 0.0005519982078112662, 
+                    "spot": "June 14"
+                }
+            ], 
+            "wiki_id": 2038940, 
+            "wiki_title": "June 14 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2000, 
+                    "end": 2002, 
+                    "score": 0.11342291533946991, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 1096360, 
+            "wiki_title": "Oxygen saturation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2188, 
+                    "end": 2192, 
+                    "score": 0.0016789959045127034, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 52033, 
+            "wiki_title": "Mathematical optimization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2730, 
+                    "end": 2744, 
+                    "score": 0.22984053194522858, 
+                    "spot": "Vice\nPresident"
+                }
+            ], 
+            "wiki_id": 612455, 
+            "wiki_title": "Vice President of India"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2307, 
+                    "end": 2314, 
+                    "score": 0.11717015504837036, 
+                    "spot": "Service"
+                }
+            ], 
+            "wiki_id": 181586, 
+            "wiki_title": "Service (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4256, 
+                    "end": 4263, 
+                    "score": 0.16536398231983185, 
+                    "spot": "meeting"
+                }
+            ], 
+            "wiki_id": 366312, 
+            "wiki_title": "Town meeting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2263, 
+                    "end": 2314, 
+                    "score": 0.5, 
+                    "spot": "Agricultural Stabilization and Conservation Service"
+                }
+            ], 
+            "wiki_id": 2645920, 
+            "wiki_title": "Agricultural Stabilization and Conservation Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2331, 
+                    "end": 2338, 
+                    "score": 0.04244333133101463, 
+                    "spot": "release"
+                }
+            ], 
+            "wiki_id": 394815, 
+            "wiki_title": "Introduced species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3172, 
+                    "score": 0.0006020140135660768, 
+                    "spot": "June 20"
+                }, 
+                {
+                    "begin": 3245, 
+                    "end": 3252, 
+                    "score": 0.0006020140135660768, 
+                    "spot": "June 20"
+                }
+            ], 
+            "wiki_id": 2053976, 
+            "wiki_title": "June 20 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4211, 
+                    "end": 4219, 
+                    "score": 0.013221128843724728, 
+                    "spot": "measures"
+                }
+            ], 
+            "wiki_id": 21347678, 
+            "wiki_title": "Units of measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3273, 
+                    "end": 3278, 
+                    "score": 0.04067649319767952, 
+                    "spot": "daily"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 100, 
+                    "end": 109, 
+                    "score": 0.10733860731124878, 
+                    "spot": "situation"
+                }
+            ], 
+            "wiki_id": 20913980, 
+            "wiki_title": "Sitcom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3877, 
+                    "end": 3881, 
+                    "score": 0.18165336549282074, 
+                    "spot": "Lyng"
+                }
+            ], 
+            "wiki_id": 3854271, 
+            "wiki_title": "Ciar\u00e1n Lyng"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5168, 
+                    "end": 5172, 
+                    "score": 0.05084875971078873, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 250515, 
+            "wiki_title": "Landform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 260, 
+                    "end": 268, 
+                    "score": 0.014440433122217655, 
+                    "spot": "gimmicks"
+                }
+            ], 
+            "wiki_id": 557710, 
+            "wiki_title": "Gimmick (professional wrestling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1429, 
+                    "end": 1436, 
+                    "score": 0.5, 
+                    "spot": "not its"
+                }
+            ], 
+            "wiki_id": 21689916, 
+            "wiki_title": "The Not-Its!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 726, 
+                    "score": 0.12009082734584808, 
+                    "spot": "aid"
+                }
+            ], 
+            "wiki_id": 1908551, 
+            "wiki_title": "Aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5685, 
+                    "end": 5689, 
+                    "score": 0.06309080123901367, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 2252141, 
+            "wiki_title": "Help! (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 62, 
+                    "end": 69, 
+                    "score": 0.13225924968719482, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 715, 
+                    "end": 722, 
+                    "score": 0.19500063359737396, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 955, 
+                    "end": 962, 
+                    "score": 0.2385844886302948, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 1122, 
+                    "end": 1129, 
+                    "score": 0.18210923671722412, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 1295, 
+                    "end": 1302, 
+                    "score": 0.13050882518291473, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 1466, 
+                    "end": 1473, 
+                    "score": 0.11618366837501526, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 1840, 
+                    "end": 1847, 
+                    "score": 0.12377442419528961, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 2219, 
+                    "end": 2226, 
+                    "score": 0.2592712342739105, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 2454, 
+                    "end": 2461, 
+                    "score": 0.16457661986351013, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 2660, 
+                    "end": 2667, 
+                    "score": 0.22296491265296936, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 2931, 
+                    "end": 2938, 
+                    "score": 0.16125893592834473, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 3190, 
+                    "end": 3197, 
+                    "score": 0.18886449933052063, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 3488, 
+                    "end": 3495, 
+                    "score": 0.17160046100616455, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 3544, 
+                    "end": 3551, 
+                    "score": 0.28842777013778687, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 3544, 
+                    "end": 3558, 
+                    "score": 0.3653571307659149, 
+                    "spot": "Drought Relief"
+                }, 
+                {
+                    "begin": 3968, 
+                    "end": 3975, 
+                    "score": 0.27225562930107117, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 4073, 
+                    "end": 4080, 
+                    "score": 0.19306671619415283, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 4281, 
+                    "end": 4288, 
+                    "score": 0.2266685962677002, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 4993, 
+                    "end": 5000, 
+                    "score": 0.0840720385313034, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 5066, 
+                    "end": 5073, 
+                    "score": 0.14029881358146667, 
+                    "spot": "drought"
+                }, 
+                {
+                    "begin": 5257, 
+                    "end": 5264, 
+                    "score": 0.2859586477279663, 
+                    "spot": "Drought"
+                }, 
+                {
+                    "begin": 5729, 
+                    "end": 5736, 
+                    "score": 0.23618069291114807, 
+                    "spot": "drought"
+                }
+            ], 
+            "wiki_id": 37335, 
+            "wiki_title": "Drought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5716, 
+                    "end": 5725, 
+                    "score": 0.22848428785800934, 
+                    "spot": "depressed"
+                }
+            ], 
+            "wiki_id": 38289, 
+            "wiki_title": "Depression (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5737, 
+                    "end": 5748, 
+                    "score": 0.18058475852012634, 
+                    "spot": "liquidation"
+                }
+            ], 
+            "wiki_id": 565034, 
+            "wiki_title": "Liquidation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5121, 
+                    "end": 5130, 
+                    "score": 0.0020384390372782946, 
+                    "spot": "to anyone"
+                }
+            ], 
+            "wiki_id": 28673799, 
+            "wiki_title": "To Anyone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1874, 
+                    "end": 1880, 
+                    "score": 0.2125072479248047, 
+                    "spot": "haying"
+                }, 
+                {
+                    "begin": 1981, 
+                    "end": 1987, 
+                    "score": 0.23500438034534454, 
+                    "spot": "haying"
+                }, 
+                {
+                    "begin": 2081, 
+                    "end": 2084, 
+                    "score": 0.2177847921848297, 
+                    "spot": "hay"
+                }, 
+                {
+                    "begin": 2362, 
+                    "end": 2368, 
+                    "score": 0.2125072479248047, 
+                    "spot": "haying"
+                }, 
+                {
+                    "begin": 2978, 
+                    "end": 2981, 
+                    "score": 0.20677220821380615, 
+                    "spot": "hay"
+                }, 
+                {
+                    "begin": 3029, 
+                    "end": 3035, 
+                    "score": 0.19927667081356049, 
+                    "spot": "Haying"
+                }, 
+                {
+                    "begin": 3363, 
+                    "end": 3369, 
+                    "score": 0.10990381240844727, 
+                    "spot": "haying"
+                }, 
+                {
+                    "begin": 3442, 
+                    "end": 3448, 
+                    "score": 0.2352237105369568, 
+                    "spot": "haying"
+                }, 
+                {
+                    "begin": 5117, 
+                    "end": 5120, 
+                    "score": 0.19470323622226715, 
+                    "spot": "hay"
+                }
+            ], 
+            "wiki_id": 46593, 
+            "wiki_title": "Hay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4672, 
+                    "end": 4677, 
+                    "score": 0.0425727441906929, 
+                    "spot": "steps"
+                }
+            ], 
+            "wiki_id": 256015, 
+            "wiki_title": "Stairs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1802, 
+                    "score": 0.0006831319187767804, 
+                    "spot": "May 31"
+                }
+            ], 
+            "wiki_id": 1864764, 
+            "wiki_title": "May 31 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1624, 
+                    "end": 1628, 
+                    "score": 0.08638706803321838, 
+                    "spot": "time"
+                }, 
+                {
+                    "begin": 1975, 
+                    "end": 1979, 
+                    "score": 0.00507361302152276, 
+                    "spot": "time"
+                }, 
+                {
+                    "begin": 3235, 
+                    "end": 3239, 
+                    "score": 0.051147155463695526, 
+                    "spot": "time"
+                }, 
+                {
+                    "begin": 5302, 
+                    "end": 5306, 
+                    "score": 0.1536901742219925, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4419, 
+                    "end": 4424, 
+                    "score": 0.000768016092479229, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 406703, 
+            "wiki_title": "Telephone call"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1038, 
+                    "end": 1043, 
+                    "score": 0.1122346892952919, 
+                    "spot": "First"
+                }
+            ], 
+            "wiki_id": 25395149, 
+            "wiki_title": "First-person shooter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 540, 
+                    "end": 551, 
+                    "score": 0.07004643976688385, 
+                    "spot": "information"
+                }
+            ], 
+            "wiki_id": 36674345, 
+            "wiki_title": "Information technology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4320, 
+                    "end": 4331, 
+                    "score": 0.001030965824611485, 
+                    "spot": "second time"
+                }
+            ], 
+            "wiki_id": 661042, 
+            "wiki_title": "Same-sex marriage in Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2495, 
+                    "end": 2508, 
+                    "score": 0.13434205949306488, 
+                    "spot": "Congressional"
+                }, 
+                {
+                    "begin": 3530, 
+                    "end": 3543, 
+                    "score": 0.1401517391204834, 
+                    "spot": "Congressional"
+                }, 
+                {
+                    "begin": 4120, 
+                    "end": 4131, 
+                    "score": 0.2374005764722824, 
+                    "spot": "congressmen"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5321, 
+                    "end": 5328, 
+                    "score": 0.17252019047737122, 
+                    "spot": "Federal"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2037, 
+                    "end": 2044, 
+                    "score": 0.05088621377944946, 
+                    "spot": "Program"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1077, 
+                    "end": 1088, 
+                    "score": 0.18197941780090332, 
+                    "spot": "Agriculture"
+                }, 
+                {
+                    "begin": 2424, 
+                    "end": 2435, 
+                    "score": 0.2114822119474411, 
+                    "spot": "Agriculture"
+                }, 
+                {
+                    "begin": 2909, 
+                    "end": 2916, 
+                    "score": 0.12223801016807556, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 3067, 
+                    "end": 3074, 
+                    "score": 0.046015262603759766, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 4631, 
+                    "end": 4635, 
+                    "score": 0.19043247401714325, 
+                    "spot": "crop"
+                }, 
+                {
+                    "begin": 4727, 
+                    "end": 4731, 
+                    "score": 0.05166720598936081, 
+                    "spot": "crop"
+                }, 
+                {
+                    "begin": 5521, 
+                    "end": 5525, 
+                    "score": 0.05166720598936081, 
+                    "spot": "crop"
+                }
+            ], 
+            "wiki_id": 627, 
+            "wiki_title": "Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 916, 
+                    "end": 925, 
+                    "score": 0.0012649353593587875, 
+                    "spot": "two weeks"
+                }
+            ], 
+            "wiki_id": 39643862, 
+            "wiki_title": "Two Weeks (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2880, 
+                    "end": 2887, 
+                    "score": 0.0006531678372994065, 
+                    "spot": "June 16"
+                }
+            ], 
+            "wiki_id": 2053746, 
+            "wiki_title": "June 16 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2145, 
+                    "end": 2159, 
+                    "score": 0.07663595676422119, 
+                    "spot": "Administration"
+                }
+            ], 
+            "wiki_id": 19881, 
+            "wiki_title": "Management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 569, 
+                    "end": 573, 
+                    "score": 0.004822245333343744, 
+                    "spot": "keep"
+                }
+            ], 
+            "wiki_id": 1401046, 
+            "wiki_title": "The Keep (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2607, 
+                    "end": 2614, 
+                    "score": 0.0006130340625531971, 
+                    "spot": "June 15"
+                }
+            ], 
+            "wiki_id": 2039060, 
+            "wiki_title": "June 15 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 894, 
+                    "end": 898, 
+                    "score": 0.020494544878602028, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4678, 
+                    "end": 4682, 
+                    "score": 0.05110686272382736, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 5466, 
+                    "end": 5470, 
+                    "score": 0.08065836131572723, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5371, 
+                    "end": 5390, 
+                    "score": 0.2535860538482666, 
+                    "spot": "information network"
+                }, 
+                {
+                    "begin": 5383, 
+                    "end": 5390, 
+                    "score": 0.2561192214488983, 
+                    "spot": "network"
+                }
+            ], 
+            "wiki_id": 4122592, 
+            "wiki_title": "Computer network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 521, 
+                    "end": 527, 
+                    "score": 0.0040131318382918835, 
+                    "spot": "deputy"
+                }
+            ], 
+            "wiki_id": 7937756, 
+            "wiki_title": "The Deputy (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3588, 
+                    "end": 3597, 
+                    "score": 0.0016476957825943828, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 30977, 
+            "wiki_title": "Theorem"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3922, 
+                    "end": 3931, 
+                    "score": 0.12609398365020752, 
+                    "spot": "questions"
+                }
+            ], 
+            "wiki_id": 502038, 
+            "wiki_title": "Question"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4623, 
+                    "end": 4630, 
+                    "score": 0.1947454959154129, 
+                    "spot": "special"
+                }
+            ], 
+            "wiki_id": 436831, 
+            "wiki_title": "Special education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5551, 
+                    "end": 5562, 
+                    "score": 0.019051529467105865, 
+                    "spot": "projections"
+                }
+            ], 
+            "wiki_id": 299609, 
+            "wiki_title": "Psychological projection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2702, 
+                    "end": 2710, 
+                    "score": 0.22660864889621735, 
+                    "spot": "Interior"
+                }
+            ], 
+            "wiki_id": 70904, 
+            "wiki_title": "United States Department of the Interior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1273, 
+                    "end": 1280, 
+                    "score": 0.08294090628623962, 
+                    "spot": "monitor"
+                }
+            ], 
+            "wiki_id": 334411, 
+            "wiki_title": "Monitor lizard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2102, 
+                    "end": 2111, 
+                    "score": 0.12950074672698975, 
+                    "spot": "inventory"
+                }
+            ], 
+            "wiki_id": 182655, 
+            "wiki_title": "Inventory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2248, 
+                    "end": 2255, 
+                    "score": 0.0743560642004013, 
+                    "spot": "offices"
+                }
+            ], 
+            "wiki_id": 364022, 
+            "wiki_title": "Incumbent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4400, 
+                    "end": 4404, 
+                    "score": 0.0680341124534607, 
+                    "spot": "logs"
+                }
+            ], 
+            "wiki_id": 68110, 
+            "wiki_title": "Logging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1544, 
+                    "end": 1550, 
+                    "score": 0.009660933166742325, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 43564, 
+            "wiki_title": "Action film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1323, 
+                    "end": 1328, 
+                    "score": 0.10530191659927368, 
+                    "spot": "blurb"
+                }
+            ], 
+            "wiki_id": 907227, 
+            "wiki_title": "Blurb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4392, 
+                    "end": 4399, 
+                    "score": 0.11801137775182724, 
+                    "spot": "hotline"
+                }
+            ], 
+            "wiki_id": 3628041, 
+            "wiki_title": "Moscow\u2013Washington hotline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1184, 
+                    "end": 1198, 
+                    "score": 0.5, 
+                    "spot": "Peter C. Myers"
+                }
+            ], 
+            "wiki_id": 20947278, 
+            "wiki_title": "Peter C. Myers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2576, 
+                    "end": 2592, 
+                    "score": 0.4852941036224365, 
+                    "spot": "Kika de\nla Garza"
+                }
+            ], 
+            "wiki_id": 2519361, 
+            "wiki_title": "Kika de la Garza"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4556, 
+                    "end": 4560, 
+                    "score": 0.33826905488967896, 
+                    "spot": "Iowa"
+                }
+            ], 
+            "wiki_id": 26810748, 
+            "wiki_title": "Iowa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3064, 
+                    "end": 3066, 
+                    "score": 0.041725676506757736, 
+                    "spot": "if"
+                }, 
+                {
+                    "begin": 3398, 
+                    "end": 3400, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5349, 
+                    "end": 5352, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 26691, 
+            "wiki_title": "Set (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 763, 
+                    "end": 766, 
+                    "score": 0.04573696106672287, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4950, 
+                    "end": 4958, 
+                    "score": 0.02714015729725361, 
+                    "spot": "programs"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1784, 
+                    "end": 1790, 
+                    "score": 0.0011830201838165522, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 6620428, 
+            "wiki_title": "Muzzle flash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2400, 
+                    "end": 2406, 
+                    "score": 0.12117567658424377, 
+                    "spot": "briefs"
+                }, 
+                {
+                    "begin": 4026, 
+                    "end": 4032, 
+                    "score": 0.08870775252580643, 
+                    "spot": "briefs"
+                }
+            ], 
+            "wiki_id": 425202, 
+            "wiki_title": "Brief (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 48, 
+                    "end": 54, 
+                    "score": 0.25061655044555664, 
+                    "spot": "on\ntop"
+                }, 
+                {
+                    "begin": 51, 
+                    "end": 54, 
+                    "score": 0.16763386130332947, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 30915624, 
+            "wiki_title": "On Top (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3075, 
+                    "end": 3082, 
+                    "score": 0.001481780782341957, 
+                    "spot": "give up"
+                }
+            ], 
+            "wiki_id": 447416, 
+            "wiki_title": "Give Up"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5020, 
+                    "end": 5030, 
+                    "score": 0.0026525198481976986, 
+                    "spot": "authorizes"
+                }
+            ], 
+            "wiki_id": 16398065, 
+            "wiki_title": "Authorization bill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 692, 
+                    "end": 699, 
+                    "score": 0.0977398082613945, 
+                    "spot": "dollars"
+                }, 
+                {
+                    "begin": 747, 
+                    "end": 753, 
+                    "score": 0.10388891398906708, 
+                    "spot": "dollar"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4320, 
+                    "end": 4326, 
+                    "score": 0.19496800005435944, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 841944, 
+            "wiki_title": "Second (parliamentary procedure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4743, 
+                    "end": 4760, 
+                    "score": 0.06306598335504532, 
+                    "spot": "supply-and-demand"
+                }, 
+                {
+                    "begin": 5537, 
+                    "end": 5550, 
+                    "score": 0.06799131631851196, 
+                    "spot": "supply-demand"
+                }
+            ], 
+            "wiki_id": 29664, 
+            "wiki_title": "Supply and demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3827, 
+                    "end": 3844, 
+                    "score": 0.03031761385500431, 
+                    "spot": "Rural\nDevelopment"
+                }
+            ], 
+            "wiki_id": 8417961, 
+            "wiki_title": "Rural development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 453, 
+                    "end": 456, 
+                    "score": 0.01773049682378769, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5349, 
+                    "end": 5355, 
+                    "score": 0.0006567189702764153, 
+                    "spot": "set up"
+                }, 
+                {
+                    "begin": 5406, 
+                    "end": 5412, 
+                    "score": 0.004788680002093315, 
+                    "spot": "assist"
+                }
+            ], 
+            "wiki_id": 1167721, 
+            "wiki_title": "Assist (football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 339, 
+                    "end": 346, 
+                    "score": 0.04721188172698021, 
+                    "spot": "actions"
+                }, 
+                {
+                    "begin": 1763, 
+                    "end": 1770, 
+                    "score": 0.021175788715481758, 
+                    "spot": "actions"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2620, 
+                    "end": 2631, 
+                    "score": 0.4033881425857544, 
+                    "spot": "White House"
+                }
+            ], 
+            "wiki_id": 44029, 
+            "wiki_title": "Executive Office of the President"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2196, 
+                    "end": 2200, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 3869329, 
+            "wiki_title": "Help! (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5604, 
+                    "end": 5609, 
+                    "score": 0.15101729333400726, 
+                    "spot": "worth"
+                }
+            ], 
+            "wiki_id": 405981, 
+            "wiki_title": "Net worth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 795, 
+                    "end": 801, 
+                    "score": 0.13847452402114868, 
+                    "spot": "school"
+                }, 
+                {
+                    "begin": 4918, 
+                    "end": 4925, 
+                    "score": 0.16582337021827698, 
+                    "spot": "schools"
+                }
+            ], 
+            "wiki_id": 28022, 
+            "wiki_title": "School"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5225, 
+                    "end": 5231, 
+                    "score": 0.5407094955444336, 
+                    "spot": "silage"
+                }
+            ], 
+            "wiki_id": 246507, 
+            "wiki_title": "Silage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2113, 
+                    "end": 2118, 
+                    "score": 0.10237982869148254, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 144089, 
+            "wiki_title": "Eminent domain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1210, 
+                    "end": 1216, 
+                    "score": 0.004213638603687286, 
+                    "spot": "agency"
+                }
+            ], 
+            "wiki_id": 489670, 
+            "wiki_title": "Law of agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4636, 
+                    "end": 4643, 
+                    "score": 0.11951305717229843, 
+                    "spot": "surveys"
+                }
+            ], 
+            "wiki_id": 60891, 
+            "wiki_title": "Surveying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2822, 
+                    "end": 2850, 
+                    "score": 0.5, 
+                    "spot": "Council of Economic Advisers"
+                }
+            ], 
+            "wiki_id": 240258, 
+            "wiki_title": "Council of Economic Advisers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2201, 
+                    "end": 2205, 
+                    "score": 0.19640517234802246, 
+                    "spot": "feed"
+                }
+            ], 
+            "wiki_id": 634526, 
+            "wiki_title": "Fodder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5333, 
+                    "end": 5338, 
+                    "score": 0.1992582231760025, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 31975, 
+            "wiki_title": "United States Department of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4481, 
+                    "end": 4488, 
+                    "score": 0.0009460406727157533, 
+                    "spot": "raising"
+                }
+            ], 
+            "wiki_id": 22498, 
+            "wiki_title": "Orbit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3622, 
+                    "end": 3629, 
+                    "score": 0.1690787971019745, 
+                    "spot": "calling"
+                }, 
+                {
+                    "begin": 3622, 
+                    "end": 3632, 
+                    "score": 0.16722387075424194, 
+                    "spot": "calling\non"
+                }
+            ], 
+            "wiki_id": 28081613, 
+            "wiki_title": "Calling On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 443, 
+                    "end": 452, 
+                    "score": 0.1257309913635254, 
+                    "spot": "my memory"
+                }
+            ], 
+            "wiki_id": 6963423, 
+            "wiki_title": "In My Memory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3798, 
+                    "end": 3844, 
+                    "score": 0.4080459773540497, 
+                    "spot": "Committee on Agriculture and Rural\nDevelopment"
+                }
+            ], 
+            "wiki_id": 2344178, 
+            "wiki_title": "European Parliament Committee on Agriculture and Rural Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1425, 
+                    "end": 1432, 
+                    "score": 0.46666666865348816, 
+                    "spot": "but not"
+                }
+            ], 
+            "wiki_id": 26600080, 
+            "wiki_title": "For but not with"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1236, 
+                    "end": 1239, 
+                    "score": 0.0073289042338728905, 
+                    "spot": "key"
+                }
+            ], 
+            "wiki_id": 53039, 
+            "wiki_title": "Key (cryptography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4489, 
+                    "end": 4494, 
+                    "score": 0.0009600822231732309, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 30330, 
+            "wiki_title": "Total order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 521, 
+                    "end": 536, 
+                    "score": 0.06893588602542877, 
+                    "spot": "deputy director"
+                }
+            ], 
+            "wiki_id": 100462, 
+            "wiki_title": "Defense Intelligence Agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2016, 
+                    "end": 2044, 
+                    "score": 0.47058823704719543, 
+                    "spot": "Conservation Reserve Program"
+                }, 
+                {
+                    "begin": 2999, 
+                    "end": 3027, 
+                    "score": 0.47058823704719543, 
+                    "spot": "Conservation Reserve Program"
+                }, 
+                {
+                    "begin": 3132, 
+                    "end": 3135, 
+                    "score": 0.22913557291030884, 
+                    "spot": "CRP"
+                }
+            ], 
+            "wiki_id": 4632770, 
+            "wiki_title": "Conservation Reserve Program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3229, 
+                    "end": 3239, 
+                    "score": 0.09344761073589325, 
+                    "spot": "first time"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 495, 
+                    "end": 502, 
+                    "score": 0.0055192033760249615, 
+                    "spot": "Michael"
+                }, 
+                {
+                    "begin": 605, 
+                    "end": 612, 
+                    "score": 0.03720339387655258, 
+                    "spot": "Michael"
+                }
+            ], 
+            "wiki_id": 14995351, 
+            "wiki_title": "Michael Jackson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1904, 
+                    "end": 1916, 
+                    "score": 0.07898502796888351, 
+                    "spot": "Conservation"
+                }, 
+                {
+                    "begin": 1935, 
+                    "end": 1947, 
+                    "score": 0.05878428369760513, 
+                    "spot": "Conservation"
+                }
+            ], 
+            "wiki_id": 100089, 
+            "wiki_title": "Conservation (ethic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3432, 
+                    "end": 3441, 
+                    "score": 0.048460084944963455, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 177165, 
+            "wiki_title": "Malayan Emergency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2587, 
+                    "end": 2592, 
+                    "score": 0.04685990512371063, 
+                    "spot": "Garza"
+                }
+            ], 
+            "wiki_id": 4620958, 
+            "wiki_title": "Emilio A. De La Garza"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 228, 
+                    "end": 231, 
+                    "score": 0.10643090307712555, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 2233309, 
+            "wiki_title": "One (U2 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4431, 
+                    "end": 4436, 
+                    "score": 0.0015500003937631845, 
+                    "spot": "hours"
+                }
+            ], 
+            "wiki_id": 552168, 
+            "wiki_title": "Working time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4508, 
+                    "end": 4516, 
+                    "score": 0.23238536715507507, 
+                    "spot": "Greatest"
+                }
+            ], 
+            "wiki_id": 663041, 
+            "wiki_title": "Greatest element"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4881, 
+                    "end": 4884, 
+                    "score": 0.07241475582122803, 
+                    "spot": "buy"
+                }, 
+                {
+                    "begin": 5588, 
+                    "end": 5591, 
+                    "score": 0.08707281947135925, 
+                    "spot": "buy"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4777, 
+                    "end": 4781, 
+                    "score": 0.061810705810785294, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 3049, 
+            "wiki_title": "Autumn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2242, 
+                    "end": 2247, 
+                    "score": 0.16975069046020508, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 862851, 
+            "wiki_title": "State government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3904, 
+                    "end": 3911, 
+                    "score": 0.16609594225883484, 
+                    "spot": "hotline"
+                }
+            ], 
+            "wiki_id": 41243, 
+            "wiki_title": "Hotline"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 528, 
+                    "end": 536, 
+                    "score": 0.06675264239311218, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1474, 
+                    "end": 1479, 
+                    "score": 0.04645694047212601, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 2436, 
+                    "end": 2446, 
+                    "score": 0.16213662922382355, 
+                    "spot": "Committees"
+                }, 
+                {
+                    "begin": 2668, 
+                    "end": 2684, 
+                    "score": 0.11967840790748596, 
+                    "spot": "Policy Committee"
+                }, 
+                {
+                    "begin": 3198, 
+                    "end": 3214, 
+                    "score": 0.18390166759490967, 
+                    "spot": "Policy Committee"
+                }, 
+                {
+                    "begin": 4289, 
+                    "end": 4305, 
+                    "score": 0.18390166759490967, 
+                    "spot": "Policy Committee"
+                }, 
+                {
+                    "begin": 5265, 
+                    "end": 5281, 
+                    "score": 0.18390166759490967, 
+                    "spot": "Policy Committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3393, 
+                    "end": 3397, 
+                    "score": 0.11406055092811584, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 47707505, 
+            "wiki_title": "Real property"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1245, 
+                    "end": 1254, 
+                    "score": 0.10907678306102753, 
+                    "spot": "personnel"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1343, 
+                    "end": 1349, 
+                    "score": 0.06061990559101105, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 19630739, 
+            "wiki_title": "Continent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 644, 
+                    "end": 652, 
+                    "score": 0.0676468014717102, 
+                    "spot": "reporter"
+                }
+            ], 
+            "wiki_id": 50100, 
+            "wiki_title": "Journalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 574, 
+                    "end": 579, 
+                    "score": 0.0041878302581608295, 
+                    "spot": "track"
+                }
+            ], 
+            "wiki_id": 125371, 
+            "wiki_title": "Continuous track"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4801, 
+                    "end": 4805, 
+                    "score": 0.2437816560268402, 
+                    "spot": "corn"
+                }
+            ], 
+            "wiki_id": 20656228, 
+            "wiki_title": "Maize"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3946, 
+                    "end": 3954, 
+                    "score": 0.09673839807510376, 
+                    "spot": "services"
+                }
+            ], 
+            "wiki_id": 1855357, 
+            "wiki_title": "Ecosystem services"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1585, 
+                    "end": 1595, 
+                    "score": 0.11016831547021866, 
+                    "spot": "Department"
+                }
+            ], 
+            "wiki_id": 274238, 
+            "wiki_title": "United States federal executive departments"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3894, 
+                    "end": 3903, 
+                    "score": 0.14441214501857758, 
+                    "spot": "toll-free"
+                }
+            ], 
+            "wiki_id": 406726, 
+            "wiki_title": "Toll-free telephone number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 8, 
+                    "end": 19, 
+                    "score": 0.3059447109699249, 
+                    "spot": "Agriculture"
+                }, 
+                {
+                    "begin": 8, 
+                    "end": 30, 
+                    "score": 0.2631579041481018, 
+                    "spot": "Agriculture Department"
+                }, 
+                {
+                    "begin": 276, 
+                    "end": 280, 
+                    "score": 0.18459223210811615, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 978, 
+                    "end": 982, 
+                    "score": 0.20368053019046783, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 1064, 
+                    "end": 1088, 
+                    "score": 0.18686465919017792, 
+                    "spot": "Secretary of Agriculture"
+                }, 
+                {
+                    "begin": 1117, 
+                    "end": 1121, 
+                    "score": 0.3119456171989441, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 1240, 
+                    "end": 1244, 
+                    "score": 0.20443673431873322, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 1357, 
+                    "end": 1361, 
+                    "score": 0.2535020112991333, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 1758, 
+                    "end": 1762, 
+                    "score": 0.22991633415222168, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 2696, 
+                    "end": 2700, 
+                    "score": 0.3571576476097107, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 3254, 
+                    "end": 3258, 
+                    "score": 0.21167905628681183, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 3726, 
+                    "end": 3730, 
+                    "score": 0.3010212779045105, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 4335, 
+                    "end": 4339, 
+                    "score": 0.2169029414653778, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 4385, 
+                    "end": 4389, 
+                    "score": 0.18459223210811615, 
+                    "spot": "USDA"
+                }, 
+                {
+                    "begin": 4603, 
+                    "end": 4607, 
+                    "score": 0.3868491053581238, 
+                    "spot": "USDA"
+                }
+            ], 
+            "wiki_id": 70896, 
+            "wiki_title": "United States Department of Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 566, 
+                    "end": 568, 
+                    "score": 0.0013102019438520074, 
+                    "spot": "me"
+                }
+            ], 
+            "wiki_id": 50711, 
+            "wiki_title": "Middle English"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 668, 
+                    "score": 0.02434506267309189, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 232680, 
+            "wiki_title": "Action (fiction)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5627, 
+                    "end": 5634, 
+                    "score": 0.032924871891736984, 
+                    "spot": "amended"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4885, 
+                    "end": 4889, 
+                    "score": 0.07394426316022873, 
+                    "spot": "bulk"
+                }
+            ], 
+            "wiki_id": 2289440, 
+            "wiki_title": "Bulk cargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5358, 
+                    "end": 5366, 
+                    "score": 0.037320006638765335, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21818, 
+            "wiki_title": "National park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 669, 
+                    "end": 673, 
+                    "score": 0.00369856390170753, 
+                    "spot": "list"
+                }
+            ], 
+            "wiki_id": 301257, 
+            "wiki_title": "A-list"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 81, 
+                    "score": 0.049354977905750275, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 960242, 
+            "wiki_title": "Morava (river)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4719, 
+                    "end": 4726, 
+                    "score": 0.0005125868483446538, 
+                    "spot": "July 12"
+                }, 
+                {
+                    "begin": 5492, 
+                    "end": 5499, 
+                    "score": 0.0005125868483446538, 
+                    "spot": "July 12"
+                }
+            ], 
+            "wiki_id": 2220638, 
+            "wiki_title": "July 12 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3915, 
+                    "end": 3921, 
+                    "score": 0.1295681595802307, 
+                    "spot": "answer"
+                }
+            ], 
+            "wiki_id": 642, 
+            "wiki_title": "Answer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1437, 
+                    "end": 1441, 
+                    "score": 0.09389547258615494, 
+                    "spot": "date"
+                }
+            ], 
+            "wiki_id": 9919443, 
+            "wiki_title": "Dating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 387, 
+                    "end": 394, 
+                    "score": 0.0007177720544859767, 
+                    "spot": "roaring"
+                }
+            ], 
+            "wiki_id": 18298753, 
+            "wiki_title": "Roar (utterance)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2320, 
+                    "end": 2330, 
+                    "score": 0.06578535586595535, 
+                    "spot": "authorized"
+                }
+            ], 
+            "wiki_id": 151617, 
+            "wiki_title": "Authorization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1707, 
+                    "end": 1712, 
+                    "score": 0.025467172265052795, 
+                    "spot": "weeks"
+                }
+            ], 
+            "wiki_id": 33538, 
+            "wiki_title": "Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2842, 
+                    "end": 2850, 
+                    "score": 0.0005323868826963007, 
+                    "spot": "Advisers"
+                }
+            ], 
+            "wiki_id": 12466673, 
+            "wiki_title": "Adviser"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1446, 
+                    "end": 1453, 
+                    "score": 0.011414662003517151, 
+                    "spot": "reality"
+                }
+            ], 
+            "wiki_id": 38539, 
+            "wiki_title": "Reality television"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4942, 
+                    "end": 4949, 
+                    "score": 0.21264246106147766, 
+                    "spot": "feeding"
+                }, 
+                {
+                    "begin": 5201, 
+                    "end": 5208, 
+                    "score": 0.06348904967308044, 
+                    "spot": "feeding"
+                }
+            ], 
+            "wiki_id": 212818, 
+            "wiki_title": "Eating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1864, 
+                    "end": 1873, 
+                    "score": 0.05204825475811958, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 1660219, 
+            "wiki_title": "The Emergency (India)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5476, 
+                    "end": 5491, 
+                    "score": 0.035247091203927994, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4926, 
+                    "end": 4931, 
+                    "score": 0.19151321053504944, 
+                    "spot": "lunch"
+                }
+            ], 
+            "wiki_id": 18589377, 
+            "wiki_title": "Lunch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2088, 
+                    "end": 2093, 
+                    "score": 0.17679519951343536, 
+                    "spot": "farms"
+                }, 
+                {
+                    "begin": 4143, 
+                    "end": 4147, 
+                    "score": 0.09613924473524094, 
+                    "spot": "farm"
+                }
+            ], 
+            "wiki_id": 59790, 
+            "wiki_title": "Farm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4655, 
+                    "end": 4661, 
+                    "score": 0.08796539157629013, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4148, 
+                    "end": 4154, 
+                    "score": 0.0615619532763958, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4906, 
+                    "end": 4914, 
+                    "score": 0.09361814707517624, 
+                    "spot": "donation"
+                }
+            ], 
+            "wiki_id": 367725, 
+            "wiki_title": "Donation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4695, 
+                    "end": 4701, 
+                    "score": 0.002216906752437353, 
+                    "spot": "update"
+                }
+            ], 
+            "wiki_id": 1220573, 
+            "wiki_title": "Update (SQL)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2160, 
+                    "end": 2163, 
+                    "score": 0.10298855602741241, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 1178382, 
+            "wiki_title": "English modal verbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1596, 
+                    "end": 1605, 
+                    "score": 0.0938442051410675, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1825, 
+                    "end": 1834, 
+                    "score": 0.056908078491687775, 
+                    "spot": "suffering"
+                }
+            ], 
+            "wiki_id": 206583, 
+            "wiki_title": "Suffering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4872, 
+                    "end": 4877, 
+                    "score": 0.0053415801376104355, 
+                    "spot": "aside"
+                }
+            ], 
+            "wiki_id": 156541, 
+            "wiki_title": "A-side and B-side"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3677, 
+                    "end": 3685, 
+                    "score": 0.04057629406452179, 
+                    "spot": "disaster"
+                }
+            ], 
+            "wiki_id": 209493, 
+            "wiki_title": "Disaster film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1362, 
+                    "end": 1375, 
+                    "score": 0.026242127642035484, 
+                    "spot": "press release"
+                }, 
+                {
+                    "begin": 1515, 
+                    "end": 1528, 
+                    "score": 0.11935558170080185, 
+                    "spot": "press release"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2064, 
+                    "end": 2070, 
+                    "score": 0.0006294346530921757, 
+                    "spot": "June 9"
+                }
+            ], 
+            "wiki_id": 1906241, 
+            "wiki_title": "June 9 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1415, 
+                    "end": 1423, 
+                    "score": 0.004746593069285154, 
+                    "spot": "creation"
+                }
+            ], 
+            "wiki_id": 7322, 
+            "wiki_title": "Creation myth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4686, 
+                    "end": 4691, 
+                    "score": 0.0803551971912384, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3136, 
+                    "end": 3140, 
+                    "score": 0.08398468792438507, 
+                    "spot": "land"
+                }, 
+                {
+                    "begin": 3476, 
+                    "end": 3480, 
+                    "score": 0.08904124796390533, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 40083369, 
+            "wiki_title": "Land"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4576, 
+                    "end": 4588, 
+                    "score": 0.5746806859970093, 
+                    "spot": "North Dakota"
+                }
+            ], 
+            "wiki_id": 21651, 
+            "wiki_title": "North Dakota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1285, 
+                    "end": 1294, 
+                    "score": 0.04804808646440506, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 23703, 
+            "wiki_title": "Potential energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1303, 
+                    "end": 1312, 
+                    "score": 0.05547455698251724, 
+                    "spot": "situation"
+                }
+            ], 
+            "wiki_id": 8231921, 
+            "wiki_title": "Albanian rebellion of 1997"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4458, 
+                    "end": 4469, 
+                    "score": 0.017094017937779427, 
+                    "spot": "eight lines"
+                }
+            ], 
+            "wiki_id": 16788336, 
+            "wiki_title": "Eight Lines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3056, 
+                    "end": 3063, 
+                    "score": 0.009199917316436768, 
+                    "spot": "30 days"
+                }
+            ], 
+            "wiki_id": 1694566, 
+            "wiki_title": "30 Days (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1484, 
+                    "end": 1487, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 3564116, 
+            "wiki_title": "Setting (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 836, 
+                    "end": 840, 
+                    "score": 0.07104933261871338, 
+                    "spot": "deal"
+                }, 
+                {
+                    "begin": 3609, 
+                    "end": 3619, 
+                    "score": 0.03232540562748909, 
+                    "spot": "agreements"
+                }
+            ], 
+            "wiki_id": 19280537, 
+            "wiki_title": "Contract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 590, 
+                    "score": 0.036059193313121796, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 231184, 
+            "wiki_title": "WE tv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2553, 
+                    "end": 2558, 
+                    "score": 0.2562890946865082, 
+                    "spot": "Leahy"
+                }
+            ], 
+            "wiki_id": 367103, 
+            "wiki_title": "Patrick Leahy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3731, 
+                    "end": 3740, 
+                    "score": 0.08805333077907562, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 5339, 
+                    "end": 5348, 
+                    "score": 0.07543372362852097, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3323, 
+                    "end": 3333, 
+                    "score": 0.15659397840499878, 
+                    "spot": "news media"
+                }
+            ], 
+            "wiki_id": 19641, 
+            "wiki_title": "Mass media"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 372, 
+                    "end": 380, 
+                    "score": 0.05481532961130142, 
+                    "spot": "furnaces"
+                }
+            ], 
+            "wiki_id": 297203, 
+            "wiki_title": "Blast furnace"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 829, 
+                    "end": 835, 
+                    "score": 0.11908382177352905, 
+                    "spot": "credit"
+                }
+            ], 
+            "wiki_id": 17182301, 
+            "wiki_title": "Credit card"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3302, 
+                    "end": 3309, 
+                    "score": 0.14116248488426208, 
+                    "spot": "updates"
+                }
+            ], 
+            "wiki_id": 475153, 
+            "wiki_title": "Patch (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2560, 
+                    "end": 2564, 
+                    "score": 0.2390449345111847, 
+                    "spot": "D-Vt"
+                }
+            ], 
+            "wiki_id": 9428868, 
+            "wiki_title": "Vermont Democratic Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1904, 
+                    "end": 1924, 
+                    "score": 0.016129031777381897, 
+                    "spot": "Conservation\nReserve"
+                }
+            ], 
+            "wiki_id": 19323590, 
+            "wiki_title": "Conservation reserve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1167, 
+                    "end": 1183, 
+                    "score": 0.008763227611780167, 
+                    "spot": "Deputy Secretary"
+                }
+            ], 
+            "wiki_id": 13437747, 
+            "wiki_title": "United States Deputy Secretary of Homeland Security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3637, 
+                    "end": 3646, 
+                    "score": 0.033840782940387726, 
+                    "spot": "secretary"
+                }
+            ], 
+            "wiki_id": 214196, 
+            "wiki_title": "Secretary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5425, 
+                    "end": 5431, 
+                    "score": 0.06133562698960304, 
+                    "spot": "forage"
+                }
+            ], 
+            "wiki_id": 246828, 
+            "wiki_title": "Forage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2716, 
+                    "end": 2744, 
+                    "score": 0.02631578966975212, 
+                    "spot": "Office of the Vice\nPresident"
+                }
+            ], 
+            "wiki_id": 21983007, 
+            "wiki_title": "Office of the Vice President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 942, 
+                    "score": 0.04165729135274887, 
+                    "spot": "lists"
+                }
+            ], 
+            "wiki_id": 1695, 
+            "wiki_title": "Amazons"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2970, 
+                    "end": 2977, 
+                    "score": 0.16836771368980408, 
+                    "spot": "harvest"
+                }
+            ], 
+            "wiki_id": 772405, 
+            "wiki_title": "Harvest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3766, 
+                    "end": 3797, 
+                    "score": 0.5453191995620728, 
+                    "spot": "National Governors' Association"
+                }
+            ], 
+            "wiki_id": 1216900, 
+            "wiki_title": "National Governors Association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4517, 
+                    "end": 4523, 
+                    "score": 0.16432425379753113, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 21690, 
+            "wiki_title": "Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 111, 
+                    "end": 118, 
+                    "score": 0.15995706617832184, 
+                    "spot": "setting"
+                }
+            ], 
+            "wiki_id": 2655089, 
+            "wiki_title": "SpongeBob SquarePants"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4963, 
+                    "end": 4967, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 17081364, 
+            "wiki_title": "Help (command)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 308, 
+                    "end": 320, 
+                    "score": 0.013978682458400726, 
+                    "spot": "department's"
+                }, 
+                {
+                    "begin": 508, 
+                    "end": 520, 
+                    "score": 0.013978682458400726, 
+                    "spot": "department's"
+                }, 
+                {
+                    "begin": 4706, 
+                    "end": 4718, 
+                    "score": 0.013978682458400726, 
+                    "spot": "department's"
+                }
+            ], 
+            "wiki_id": 2289806, 
+            "wiki_title": "Department S (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1055, 
+                    "end": 1060, 
+                    "score": 0.02555016800761223, 
+                    "spot": "March"
+                }, 
+                {
+                    "begin": 1502, 
+                    "end": 1507, 
+                    "score": 0.12138708680868149, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 121, 
+                    "score": 0.08987024426460266, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 11659396, 
+            "wiki_title": "Up (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 965, 
+                    "end": 972, 
+                    "score": 0.049447204917669296, 
+                    "spot": "actions"
+                }
+            ], 
+            "wiki_id": 40678568, 
+            "wiki_title": "Direct action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5136, 
+                    "end": 5147, 
+                    "score": 0.5, 
+                    "spot": "the harvest"
+                }
+            ], 
+            "wiki_id": 7938633, 
+            "wiki_title": "The Harvest (Buffy the Vampire Slayer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2132, 
+                    "end": 2159, 
+                    "score": 0.4444444477558136, 
+                    "spot": "Farmers Home Administration"
+                }
+            ], 
+            "wiki_id": 25566923, 
+            "wiki_title": "Farmers Home Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5635, 
+                    "end": 5641, 
+                    "score": 0.06122974678874016, 
+                    "spot": "credit"
+                }
+            ], 
+            "wiki_id": 1698415, 
+            "wiki_title": "Credit (creative arts)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2294, 
+                    "end": 2306, 
+                    "score": 0.09576792269945145, 
+                    "spot": "Conservation"
+                }
+            ], 
+            "wiki_id": 320033, 
+            "wiki_title": "Habitat conservation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2342, 
+                    "end": 2351, 
+                    "score": 0.0015860428102314472, 
+                    "spot": "set-aside"
+                }, 
+                {
+                    "begin": 4868, 
+                    "end": 4877, 
+                    "score": 0.0023142024874687195, 
+                    "spot": "set aside"
+                }
+            ], 
+            "wiki_id": 2372712, 
+            "wiki_title": "Set-aside"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2476, 
+                    "end": 2485, 
+                    "score": 0.01756383292376995, 
+                    "spot": "cooperate"
+                }
+            ], 
+            "wiki_id": 511556, 
+            "wiki_title": "Cooperation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1217, 
+                    "end": 1231, 
+                    "score": 0.03644019365310669, 
+                    "spot": "administrators"
+                }
+            ], 
+            "wiki_id": 587618, 
+            "wiki_title": "Public administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3749, 
+                    "end": 3756, 
+                    "score": 0.24053707718849182, 
+                    "spot": "Chicago"
+                }, 
+                {
+                    "begin": 3868, 
+                    "end": 3875, 
+                    "score": 0.19057755172252655, 
+                    "spot": "Chicago"
+                }
+            ], 
+            "wiki_id": 6886, 
+            "wiki_title": "Chicago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1896, 
+                    "end": 1903, 
+                    "score": 0.10427071899175644, 
+                    "spot": "Acreage"
+                }, 
+                {
+                    "begin": 1952, 
+                    "end": 1959, 
+                    "score": 0.10599479079246521, 
+                    "spot": "Acreage"
+                }, 
+                {
+                    "begin": 2051, 
+                    "end": 2058, 
+                    "score": 0.09981342405080795, 
+                    "spot": "acreage"
+                }, 
+                {
+                    "begin": 2352, 
+                    "end": 2357, 
+                    "score": 0.09956900030374527, 
+                    "spot": "acres"
+                }
+            ], 
+            "wiki_id": 1797, 
+            "wiki_title": "Acre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2798, 
+                    "end": 2812, 
+                    "score": 0.26301270723342896, 
+                    "spot": "Transportation"
+                }
+            ], 
+            "wiki_id": 32024, 
+            "wiki_title": "Transportation in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2407, 
+                    "end": 2413, 
+                    "score": 0.26701223850250244, 
+                    "spot": "Senate"
+                }, 
+                {
+                    "begin": 4133, 
+                    "end": 4141, 
+                    "score": 0.210537388920784, 
+                    "spot": "senators"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 134, 
+                    "end": 140, 
+                    "score": 0.1030985563993454, 
+                    "spot": "handle"
+                }
+            ], 
+            "wiki_id": 229292, 
+            "wiki_title": "Reference (computer science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5471, 
+                    "end": 5475, 
+                    "score": 0.08149990439414978, 
+                    "spot": "hold"
+                }
+            ], 
+            "wiki_id": 5469400, 
+            "wiki_title": "Hold On (Wilson Phillips song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5176, 
+                    "end": 5181, 
+                    "score": 0.06365131586790085, 
+                    "spot": "green"
+                }
+            ], 
+            "wiki_id": 1866009, 
+            "wiki_title": "Environmentalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3149, 
+                    "end": 3159, 
+                    "score": 0.0012107955990359187, 
+                    "spot": "authorized"
+                }
+            ], 
+            "wiki_id": 16767, 
+            "wiki_title": "King James Version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1261, 
+                    "score": 0.1386929303407669, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2668, 
+                    "end": 2674, 
+                    "score": 0.19524504244327545, 
+                    "spot": "Policy"
+                }, 
+                {
+                    "begin": 3198, 
+                    "end": 3204, 
+                    "score": 0.13113822042942047, 
+                    "spot": "Policy"
+                }, 
+                {
+                    "begin": 4289, 
+                    "end": 4295, 
+                    "score": 0.20164762437343597, 
+                    "spot": "Policy"
+                }, 
+                {
+                    "begin": 5265, 
+                    "end": 5271, 
+                    "score": 0.13113822042942047, 
+                    "spot": "Policy"
+                }
+            ], 
+            "wiki_id": 375091, 
+            "wiki_title": "Policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5042, 
+                    "end": 5062, 
+                    "score": 0.019736841320991516, 
+                    "spot": "emergency provisions"
+                }
+            ], 
+            "wiki_id": 13961369, 
+            "wiki_title": "Northern Ireland (Emergency Provisions) Act 1973"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1100, 
+                    "end": 1104, 
+                    "score": 0.294474720954895, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 2395, 
+                    "end": 2399, 
+                    "score": 0.2112642079591751, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 3510, 
+                    "end": 3514, 
+                    "score": 0.20520295202732086, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 3711, 
+                    "end": 3715, 
+                    "score": 0.21259765326976776, 
+                    "spot": "Lyng"
+                }, 
+                {
+                    "begin": 4021, 
+                    "end": 4025, 
+                    "score": 0.15060241520404816, 
+                    "spot": "Lyng"
+                }
+            ], 
+            "wiki_id": 755232, 
+            "wiki_title": "Richard Edmund Lyng"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5367, 
+                    "end": 5370, 
+                    "score": 0.0996144711971283, 
+                    "spot": "hay"
+                }
+            ], 
+            "wiki_id": 613807, 
+            "wiki_title": "Hay, New South Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 176, 
+                    "end": 186, 
+                    "score": 0.001537118572741747, 
+                    "spot": "statements"
+                }
+            ], 
+            "wiki_id": 938656, 
+            "wiki_title": "Statement (computer science)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 737, 
+                    "end": 742, 
+                    "score": 0.033091843128204346, 
+                    "spot": "items"
+                }
+            ], 
+            "wiki_id": 6040376, 
+            "wiki_title": "Gameplay of Pok\u00e9mon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4732, 
+                    "end": 4738, 
+                    "score": 0.0325389988720417, 
+                    "spot": "report"
+                }, 
+                {
+                    "begin": 5526, 
+                    "end": 5532, 
+                    "score": 0.0325389988720417, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 18993857, 
+            "wiki_title": "Explosion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4810, 
+                    "end": 4818, 
+                    "score": 0.2884741723537445, 
+                    "spot": "soybeans"
+                }
+            ], 
+            "wiki_id": 62784, 
+            "wiki_title": "Soybean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4851, 
+                    "end": 4858, 
+                    "score": 0.06590171158313751, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 5596, 
+                    "end": 5603, 
+                    "score": 0.15171319246292114, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 489, 
+                    "end": 494, 
+                    "score": 0.012239944189786911, 
+                    "spot": "Sally"
+                }
+            ], 
+            "wiki_id": 827329, 
+            "wiki_title": "Sortie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2773, 
+                    "end": 2793, 
+                    "score": 0.04113924130797386, 
+                    "spot": "Departments of State"
+                }
+            ], 
+            "wiki_id": 3204595, 
+            "wiki_title": "Department of State (Ireland)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 414, 
+                    "end": 420, 
+                    "score": 0.1011296957731247, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1488, 
+                    "end": 1490, 
+                    "score": 0.07668696343898773, 
+                    "spot": "up"
+                }, 
+                {
+                    "begin": 5353, 
+                    "end": 5355, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3294, 
+                    "end": 3301, 
+                    "score": 0.09360694885253906, 
+                    "spot": "weather"
+                }
+            ], 
+            "wiki_id": 33978, 
+            "wiki_title": "Weather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5690, 
+                    "end": 5697, 
+                    "score": 0.006068601738661528, 
+                    "spot": "bolster"
+                }
+            ], 
+            "wiki_id": 8217922, 
+            "wiki_title": "Bolster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5752, 
+                    "end": 5757, 
+                    "score": 0.06792164593935013, 
+                    "spot": "herds"
+                }
+            ], 
+            "wiki_id": 969684, 
+            "wiki_title": "Herd"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2763, 
+                    "end": 2771, 
+                    "score": 0.16467823088169098, 
+                    "spot": "agencies"
+                }, 
+                {
+                    "begin": 5455, 
+                    "end": 5465, 
+                    "score": 0.001725087291561067, 
+                    "spot": "Department"
+                }
+            ], 
+            "wiki_id": 489674, 
+            "wiki_title": "Government agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2418, 
+                    "end": 2423, 
+                    "score": 0.2250228226184845, 
+                    "spot": "House"
+                }, 
+                {
+                    "begin": 2571, 
+                    "end": 2574, 
+                    "score": 0.24025611579418182, 
+                    "spot": "Rep"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2920, 
+                    "end": 2930, 
+                    "score": 0.0028057119343429804, 
+                    "spot": "designated"
+                }
+            ], 
+            "wiki_id": 25650674, 
+            "wiki_title": "Cultural Property (Japan)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1044, 
+                    "end": 1048, 
+                    "score": 0.08623964339494705, 
+                    "spot": "item"
+                }
+            ], 
+            "wiki_id": 13975629, 
+            "wiki_title": "Item (gaming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4501, 
+                    "end": 4506, 
+                    "score": 0.0014041255926713347, 
+                    "spot": "lines"
+                }
+            ], 
+            "wiki_id": 17839, 
+            "wiki_title": "London Underground"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3101, 
+                    "end": 3109, 
+                    "score": 0.000617055397015065, 
+                    "spot": "payments"
+                }
+            ], 
+            "wiki_id": 3648961, 
+            "wiki_title": "Payment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 931, 
+                    "end": 936, 
+                    "score": 0.07109668850898743, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 28163575, 
+            "wiki_title": "Solomon's Temple"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3601, 
+                    "end": 3608, 
+                    "score": 0.016886230558156967, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3279, 
+                    "end": 3290, 
+                    "score": 0.12908664345741272, 
+                    "spot": "audio tapes"
+                }
+            ], 
+            "wiki_id": 70912, 
+            "wiki_title": "Tape recorder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4104, 
+                    "end": 4113, 
+                    "score": 0.17699697613716125, 
+                    "spot": "agreement"
+                }
+            ], 
+            "wiki_id": 30432, 
+            "wiki_title": "Treaty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4985, 
+                    "end": 4989, 
+                    "score": 0.030364688485860825, 
+                    "spot": "hurt"
+                }
+            ], 
+            "wiki_id": 164390, 
+            "wiki_title": "John Hurt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4527, 
+                    "end": 4532, 
+                    "score": 0.12381178140640259, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 32177451, 
+            "wiki_title": "Subroutine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 776, 
+                    "end": 780, 
+                    "score": 0.12966328859329224, 
+                    "spot": "meat"
+                }, 
+                {
+                    "begin": 857, 
+                    "end": 861, 
+                    "score": 0.06138031184673309, 
+                    "spot": "meat"
+                }
+            ], 
+            "wiki_id": 18940, 
+            "wiki_title": "Meat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5182, 
+                    "end": 5186, 
+                    "score": 0.03062283806502819, 
+                    "spot": "chop"
+                }
+            ], 
+            "wiki_id": 1435033, 
+            "wiki_title": "Seal (East Asia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1848, 
+                    "end": 1852, 
+                    "score": 0.12572142481803894, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2948, 
+                    "end": 2952, 
+                    "score": 0.10748825967311859, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3036, 
+                    "end": 3040, 
+                    "score": 0.0688490942120552, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3370, 
+                    "end": 3374, 
+                    "score": 0.0465058833360672, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3339, 
+                    "end": 3346, 
+                    "score": 0.0005061867414042354, 
+                    "spot": "June 21"
+                }
+            ], 
+            "wiki_id": 2069158, 
+            "wiki_title": "June 21 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4051, 
+                    "end": 4065, 
+                    "score": 0.040172379463911057, 
+                    "spot": "vice president"
+                }
+            ], 
+            "wiki_id": 32759, 
+            "wiki_title": "Vice President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1926, 
+                    "end": 1929, 
+                    "score": 0.020642202347517014, 
+                    "spot": "ACR"
+                }, 
+                {
+                    "begin": 3464, 
+                    "end": 3467, 
+                    "score": 0.020642202347517014, 
+                    "spot": "ACR"
+                }, 
+                {
+                    "begin": 5151, 
+                    "end": 5154, 
+                    "score": 0.020642202347517014, 
+                    "spot": "ACR"
+                }
+            ], 
+            "wiki_id": 2391659, 
+            "wiki_title": "Advanced Combat Rifle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5510, 
+                    "end": 5517, 
+                    "score": 0.0008993230294436216, 
+                    "spot": "release"
+                }
+            ], 
+            "wiki_id": 1684181, 
+            "wiki_title": "Free transfer (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2509, 
+                    "end": 2515, 
+                    "score": 0.10378403961658478, 
+                    "spot": "Relief"
+                }, 
+                {
+                    "begin": 4204, 
+                    "end": 4210, 
+                    "score": 0.20910678803920746, 
+                    "spot": "relief"
+                }
+            ], 
+            "wiki_id": 434679, 
+            "wiki_title": "Humanitarian aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4159, 
+                    "end": 4168, 
+                    "score": 0.09387583285570145, 
+                    "spot": "governors"
+                }
+            ], 
+            "wiki_id": 56231, 
+            "wiki_title": "Governor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5708, 
+                    "end": 5715, 
+                    "score": 0.16196274757385254, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 3736784, 
+            "wiki_title": "Market (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4361, 
+                    "end": 4370, 
+                    "score": 0.0027659127954393625, 
+                    "spot": "first day"
+                }
+            ], 
+            "wiki_id": 1026131, 
+            "wiki_title": "First day on the Somme"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1200, 
+                    "end": 1207, 
+                    "score": 0.08235485106706619, 
+                    "spot": "Members"
+                }
+            ], 
+            "wiki_id": 223225, 
+            "wiki_title": "Member of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2516, 
+                    "end": 2526, 
+                    "score": 0.019807174801826477, 
+                    "spot": "Task Force"
+                }
+            ], 
+            "wiki_id": 2869016, 
+            "wiki_title": "Task Force (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 219, 
+                    "end": 223, 
+                    "score": 0.10848482698202133, 
+                    "spot": "easy"
+                }
+            ], 
+            "wiki_id": 3066340, 
+            "wiki_title": "Easy (Commodores song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5642, 
+                    "end": 5653, 
+                    "score": 0.13280026614665985, 
+                    "spot": "arrangement"
+                }
+            ], 
+            "wiki_id": 2414, 
+            "wiki_title": "Arrangement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2987, 
+                    "end": 2991, 
+                    "score": 0.21471631526947021, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 1082450, 
+            "wiki_title": "Land law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 565, 
+                    "score": 0.050632912665605545, 
+                    "spot": "helps"
+                }
+            ], 
+            "wiki_id": 386448, 
+            "wiki_title": "Arthur Helps"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4562, 
+                    "end": 4571, 
+                    "score": 0.5052248239517212, 
+                    "spot": "Wisconsin"
+                }
+            ], 
+            "wiki_id": 33127, 
+            "wiki_title": "Wisconsin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 986, 
+                    "end": 996, 
+                    "score": 0.05371704325079918, 
+                    "spot": "its people"
+                }
+            ], 
+            "wiki_id": 459375, 
+            "wiki_title": "Lithuanians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3938, 
+                    "end": 3945, 
+                    "score": 0.11592240631580353, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 1636627, 
+            "wiki_title": "Federal judiciary of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1804, 
+                    "end": 1812, 
+                    "score": 0.05450570583343506, 
+                    "spot": "Counties"
+                }, 
+                {
+                    "begin": 2227, 
+                    "end": 2235, 
+                    "score": 0.11348924040794373, 
+                    "spot": "counties"
+                }, 
+                {
+                    "begin": 2939, 
+                    "end": 2947, 
+                    "score": 0.07485389709472656, 
+                    "spot": "counties"
+                }, 
+                {
+                    "begin": 3403, 
+                    "end": 3409, 
+                    "score": 0.10535919666290283, 
+                    "spot": "county"
+                }, 
+                {
+                    "begin": 5074, 
+                    "end": 5082, 
+                    "score": 0.11598651111125946, 
+                    "spot": "counties"
+                }
+            ], 
+            "wiki_id": 88366, 
+            "wiki_title": "County (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5584, 
+                    "end": 5587, 
+                    "score": 0.09073422849178314, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 122, 
+                    "end": 130, 
+                    "score": 0.02793296054005623, 
+                    "spot": "hotlines"
+                }
+            ], 
+            "wiki_id": 7286355, 
+            "wiki_title": "Hotlines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1130, 
+                    "end": 1140, 
+                    "score": 0.08629201352596283, 
+                    "spot": "Task Force"
+                }, 
+                {
+                    "begin": 1404, 
+                    "end": 1414, 
+                    "score": 0.019807174801826477, 
+                    "spot": "task force"
+                }, 
+                {
+                    "begin": 1679, 
+                    "end": 1689, 
+                    "score": 0.019807174801826477, 
+                    "spot": "task force"
+                }, 
+                {
+                    "begin": 3559, 
+                    "end": 3569, 
+                    "score": 0.019807174801826477, 
+                    "spot": "Task\nForce"
+                }
+            ], 
+            "wiki_id": 205394, 
+            "wiki_title": "Task force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2215, 
+                    "score": 0.2962762713432312, 
+                    "spot": "livestock"
+                }, 
+                {
+                    "begin": 3111, 
+                    "end": 3120, 
+                    "score": 0.06774473190307617, 
+                    "spot": "Livestock"
+                }, 
+                {
+                    "begin": 5212, 
+                    "end": 5221, 
+                    "score": 0.22548548877239227, 
+                    "spot": "livestock"
+                }, 
+                {
+                    "begin": 5698, 
+                    "end": 5707, 
+                    "score": 0.12643170356750488, 
+                    "spot": "livestock"
+                }
+            ], 
+            "wiki_id": 25160767, 
+            "wiki_title": "Livestock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1018, 
+                    "end": 1033, 
+                    "score": 0.23728813230991364, 
+                    "spot": "four months ago"
+                }
+            ], 
+            "wiki_id": 13753346, 
+            "wiki_title": "Four Months Ago..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 865, 
+                    "end": 871, 
+                    "score": 0.24943658709526062, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 5577, 
+                    "end": 5583, 
+                    "score": 0.3073289096355438, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4470, 
+                    "end": 4479, 
+                    "score": 0.0013533883029595017, 
+                    "spot": "installed"
+                }
+            ], 
+            "wiki_id": 1807200, 
+            "wiki_title": "Enthronement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 441, 
+                    "score": 0.12604600191116333, 
+                    "spot": "idea"
+                }
+            ], 
+            "wiki_id": 161999, 
+            "wiki_title": "Idea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5613, 
+                    "end": 5617, 
+                    "score": 0.06378612667322159, 
+                    "spot": "meat"
+                }
+            ], 
+            "wiki_id": 36968, 
+            "wiki_title": "Beef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1885, 
+                    "end": 1892, 
+                    "score": 0.22617122530937195, 
+                    "spot": "grazing"
+                }, 
+                {
+                    "begin": 1992, 
+                    "end": 1999, 
+                    "score": 0.3041219115257263, 
+                    "spot": "grazing"
+                }, 
+                {
+                    "begin": 2373, 
+                    "end": 2380, 
+                    "score": 0.1515466421842575, 
+                    "spot": "grazing"
+                }, 
+                {
+                    "begin": 3121, 
+                    "end": 3128, 
+                    "score": 0.3368440866470337, 
+                    "spot": "grazing"
+                }, 
+                {
+                    "begin": 3453, 
+                    "end": 3460, 
+                    "score": 0.1515466421842575, 
+                    "spot": "grazing"
+                }
+            ], 
+            "wiki_id": 854453, 
+            "wiki_title": "Grazing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 591, 
+                    "end": 593, 
+                    "score": 0.01462466735392809, 
+                    "spot": "ve"
+                }
+            ], 
+            "wiki_id": 153895, 
+            "wiki_title": "Gender-specific and gender-neutral pronouns"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1961, 
+                    "end": 1964, 
+                    "score": 0.17554691433906555, 
+                    "spot": "CUA"
+                }, 
+                {
+                    "begin": 3472, 
+                    "end": 3475, 
+                    "score": 0.06703297048807144, 
+                    "spot": "CUA"
+                }, 
+                {
+                    "begin": 5156, 
+                    "end": 5159, 
+                    "score": 0.06703297048807144, 
+                    "spot": "CUA"
+                }
+            ], 
+            "wiki_id": 604198, 
+            "wiki_title": "Catholic University of America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2046, 
+                    "end": 2049, 
+                    "score": 0.12569594383239746, 
+                    "spot": "CRP"
+                }
+            ], 
+            "wiki_id": 301140, 
+            "wiki_title": "Corpus Christi International Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1701, 
+                    "end": 1706, 
+                    "score": 0.09043893963098526, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 1065956, 
+            "wiki_title": "Seventh grade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1651, 
+                    "end": 1663, 
+                    "score": 0.054343920201063156, 
+                    "spot": "significance"
+                }
+            ], 
+            "wiki_id": 160995, 
+            "wiki_title": "Statistical significance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4443, 
+                    "end": 4449, 
+                    "score": 0.004283920396119356, 
+                    "spot": "orders"
+                }
+            ], 
+            "wiki_id": 1088817, 
+            "wiki_title": "Catholic religious order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 802, 
+                    "end": 812, 
+                    "score": 0.1640750914812088, 
+                    "spot": "cafeterias"
+                }
+            ], 
+            "wiki_id": 554471, 
+            "wiki_title": "Cafeteria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3577, 
+                    "end": 3583, 
+                    "score": 0.0009193437872454524, 
+                    "spot": "issues"
+                }
+            ], 
+            "wiki_id": 37085, 
+            "wiki_title": "Software bug"
+        }
+    ]
+}

@@ -1,0 +1,3088 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 2082, 
+                    "end": 2093, 
+                    "score": 0.19949214160442352, 
+                    "spot": "Mississippi"
+                }
+            ], 
+            "wiki_id": 16949861, 
+            "wiki_title": "Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1234, 
+                    "end": 1242, 
+                    "score": 0.24134081602096558, 
+                    "spot": "Richmond"
+                }
+            ], 
+            "wiki_id": 53274, 
+            "wiki_title": "Richmond, Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 587, 
+                    "end": 597, 
+                    "score": 0.14336805045604706, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3954, 
+                    "end": 3965, 
+                    "score": 0.026119403541088104, 
+                    "spot": "power lines"
+                }
+            ], 
+            "wiki_id": 38824, 
+            "wiki_title": "Electric power transmission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1876, 
+                    "end": 1887, 
+                    "score": 0.13324221968650818, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3416, 
+                    "end": 3429, 
+                    "score": 0.13760194182395935, 
+                    "spot": "north-central"
+                }
+            ], 
+            "wiki_id": 6260196, 
+            "wiki_title": "North Central West Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 482, 
+                    "end": 489, 
+                    "score": 0.22829359769821167, 
+                    "spot": "eastern"
+                }
+            ], 
+            "wiki_id": 509486, 
+            "wiki_title": "Eastern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1199, 
+                    "end": 1206, 
+                    "score": 0.007983780466020107, 
+                    "spot": "spotted"
+                }
+            ], 
+            "wiki_id": 176945, 
+            "wiki_title": "Film score"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 388, 
+                    "end": 396, 
+                    "score": 0.14487777650356293, 
+                    "spot": "homeless"
+                }
+            ], 
+            "wiki_id": 19394651, 
+            "wiki_title": "Homelessness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1005, 
+                    "score": 0.001856324844993651, 
+                    "spot": "Strong"
+                }
+            ], 
+            "wiki_id": 27939728, 
+            "wiki_title": "Robert C. Strong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3277, 
+                    "end": 3283, 
+                    "score": 0.09335935860872269, 
+                    "spot": "vacant"
+                }
+            ], 
+            "wiki_id": 4872994, 
+            "wiki_title": "Occupancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1112, 
+                    "end": 1120, 
+                    "score": 0.17783044278621674, 
+                    "spot": "Illinois"
+                }
+            ], 
+            "wiki_id": 14849, 
+            "wiki_title": "Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1390, 
+                    "end": 1395, 
+                    "score": 0.11057980358600616, 
+                    "spot": "storm"
+                }
+            ], 
+            "wiki_id": 182000, 
+            "wiki_title": "Gulf War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1332, 
+                    "end": 1337, 
+                    "score": 0.05537576228380203, 
+                    "spot": "ditch"
+                }
+            ], 
+            "wiki_id": 5002284, 
+            "wiki_title": "Water landing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2299, 
+                    "end": 2309, 
+                    "score": 0.3591696321964264, 
+                    "spot": "High winds"
+                }, 
+                {
+                    "begin": 3342, 
+                    "end": 3352, 
+                    "score": 0.264239639043808, 
+                    "spot": "High winds"
+                }, 
+                {
+                    "begin": 3653, 
+                    "end": 3663, 
+                    "score": 0.1973244696855545, 
+                    "spot": "High winds"
+                }, 
+                {
+                    "begin": 4050, 
+                    "end": 4060, 
+                    "score": 0.3591696321964264, 
+                    "spot": "High winds"
+                }
+            ], 
+            "wiki_id": 155110, 
+            "wiki_title": "Beaufort scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3097, 
+                    "end": 3106, 
+                    "score": 0.07027861475944519, 
+                    "spot": "apartment"
+                }
+            ], 
+            "wiki_id": 265567, 
+            "wiki_title": "Apartment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1183, 
+                    "score": 0.27414464950561523, 
+                    "spot": "Indiana"
+                }
+            ], 
+            "wiki_id": 21883857, 
+            "wiki_title": "Indiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4176, 
+                    "end": 4189, 
+                    "score": 0.196838840842247, 
+                    "spot": "Frederick, Md"
+                }
+            ], 
+            "wiki_id": 51177, 
+            "wiki_title": "Frederick, Maryland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3981, 
+                    "end": 3987, 
+                    "score": 0.0703677162528038, 
+                    "spot": "houses"
+                }
+            ], 
+            "wiki_id": 204299, 
+            "wiki_title": "Bicameralism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1707, 
+                    "end": 1712, 
+                    "score": 0.10285394638776779, 
+                    "spot": "Heavy"
+                }
+            ], 
+            "wiki_id": 17647086, 
+            "wiki_title": "The Heavy (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1070, 
+                    "end": 1075, 
+                    "score": 0.002211466897279024, 
+                    "spot": "woman"
+                }, 
+                {
+                    "begin": 3022, 
+                    "end": 3027, 
+                    "score": 0.14258922636508942, 
+                    "spot": "woman"
+                }
+            ], 
+            "wiki_id": 33183, 
+            "wiki_title": "Woman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3993, 
+                    "end": 4002, 
+                    "score": 0.15065020322799683, 
+                    "spot": "Greenwood"
+                }
+            ], 
+            "wiki_id": 134512, 
+            "wiki_title": "Greenwood, South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 889, 
+                    "end": 900, 
+                    "score": 0.5066448450088501, 
+                    "spot": "mobile home"
+                }, 
+                {
+                    "begin": 3520, 
+                    "end": 3533, 
+                    "score": 0.1691482663154602, 
+                    "spot": "trailer\nhomes"
+                }, 
+                {
+                    "begin": 4119, 
+                    "end": 4126, 
+                    "score": 0.10780744254589081, 
+                    "spot": "trailer"
+                }
+            ], 
+            "wiki_id": 625015, 
+            "wiki_title": "Mobile home"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 730, 
+                    "score": 0.10243276506662369, 
+                    "spot": "suburbs"
+                }
+            ], 
+            "wiki_id": 28908, 
+            "wiki_title": "Suburb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1343, 
+                    "end": 1349, 
+                    "score": 0.05256642401218414, 
+                    "spot": "driver"
+                }
+            ], 
+            "wiki_id": 7393735, 
+            "wiki_title": "Driver, Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2637, 
+                    "end": 2644, 
+                    "score": 0.2254401445388794, 
+                    "spot": "tractor"
+                }
+            ], 
+            "wiki_id": 152692, 
+            "wiki_title": "Tractor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4035, 
+                    "end": 4048, 
+                    "score": 0.4488071799278259, 
+                    "spot": "West Virginia"
+                }
+            ], 
+            "wiki_id": 32905, 
+            "wiki_title": "West Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 139, 
+                    "end": 143, 
+                    "score": 0.10421358793973923, 
+                    "spot": "left"
+                }, 
+                {
+                    "begin": 383, 
+                    "end": 387, 
+                    "score": 0.15290296077728271, 
+                    "spot": "left"
+                }, 
+                {
+                    "begin": 1406, 
+                    "end": 1410, 
+                    "score": 0.03715743124485016, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 635, 
+                    "score": 0.020202020183205605, 
+                    "spot": "morning\nrush"
+                }
+            ], 
+            "wiki_id": 2653491, 
+            "wiki_title": "The Morning Rush"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1805, 
+                    "score": 0.13448087871074677, 
+                    "spot": "buildings"
+                }
+            ], 
+            "wiki_id": 45995, 
+            "wiki_title": "Building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1697, 
+                    "end": 1705, 
+                    "score": 0.2938854992389679, 
+                    "spot": "Delaware"
+                }
+            ], 
+            "wiki_id": 7930, 
+            "wiki_title": "Delaware"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 763, 
+                    "end": 774, 
+                    "score": 0.17003315687179565, 
+                    "spot": "Georgia: 19"
+                }
+            ], 
+            "wiki_id": 7806144, 
+            "wiki_title": "Georgia State Route 19"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3083, 
+                    "end": 3088, 
+                    "score": 0.05394108593463898, 
+                    "spot": "blown"
+                }
+            ], 
+            "wiki_id": 7493486, 
+            "wiki_title": "Supercharger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3590, 
+                    "end": 3595, 
+                    "score": 0.002211466897279024, 
+                    "spot": "woman"
+                }
+            ], 
+            "wiki_id": 14145525, 
+            "wiki_title": "Woman (Paul McCartney song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 914, 
+                    "end": 932, 
+                    "score": 0.2875590920448303, 
+                    "spot": "interstate highway"
+                }
+            ], 
+            "wiki_id": 43950, 
+            "wiki_title": "Interstate Highway System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3567, 
+                    "end": 3583, 
+                    "score": 0.21148625016212463, 
+                    "spot": "lightning strike"
+                }
+            ], 
+            "wiki_id": 61344, 
+            "wiki_title": "Lightning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1663, 
+                    "end": 1672, 
+                    "score": 0.47001051902770996, 
+                    "spot": "Pendleton"
+                }, 
+                {
+                    "begin": 1663, 
+                    "end": 1681, 
+                    "score": 0.39661887288093567, 
+                    "spot": "Pendleton counties"
+                }
+            ], 
+            "wiki_id": 91022, 
+            "wiki_title": "Pendleton County, West Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2495, 
+                    "end": 2500, 
+                    "score": 0.00605366937816143, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 4370892, 
+            "wiki_title": "House (1986 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 693, 
+                    "end": 698, 
+                    "score": 0.12038137763738632, 
+                    "spot": "power"
+                }, 
+                {
+                    "begin": 3900, 
+                    "end": 3905, 
+                    "score": 0.10891807824373245, 
+                    "spot": "power"
+                }
+            ], 
+            "wiki_id": 3270043, 
+            "wiki_title": "Electric power"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2620, 
+                    "end": 2626, 
+                    "score": 0.104732945561409, 
+                    "spot": "closed"
+                }
+            ], 
+            "wiki_id": 47279, 
+            "wiki_title": "Closed set"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 563, 
+                    "end": 568, 
+                    "score": 0.09579148143529892, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 999, 
+                    "end": 1011, 
+                    "score": 0.16818355023860931, 
+                    "spot": "Strong winds"
+                }, 
+                {
+                    "begin": 1006, 
+                    "end": 1011, 
+                    "score": 0.13068757951259613, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 1713, 
+                    "end": 1718, 
+                    "score": 0.03296595439314842, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 2304, 
+                    "end": 2309, 
+                    "score": 0.35827726125717163, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 2674, 
+                    "end": 2679, 
+                    "score": 0.13894332945346832, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 3347, 
+                    "end": 3352, 
+                    "score": 0.21360954642295837, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 3658, 
+                    "end": 3663, 
+                    "score": 0.30632349848747253, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 4055, 
+                    "end": 4060, 
+                    "score": 0.29951441287994385, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2685, 
+                    "end": 2697, 
+                    "score": 0.05180608481168747, 
+                    "spot": "truck driver"
+                }
+            ], 
+            "wiki_id": 1580910, 
+            "wiki_title": "Truck driver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 688, 
+                    "end": 698, 
+                    "score": 0.20265185832977295, 
+                    "spot": "lost\npower"
+                }, 
+                {
+                    "begin": 2116, 
+                    "end": 2129, 
+                    "score": 0.21902373433113098, 
+                    "spot": "power outages"
+                }, 
+                {
+                    "begin": 2400, 
+                    "end": 2413, 
+                    "score": 0.22681084275245667, 
+                    "spot": "power outages"
+                }, 
+                {
+                    "begin": 3895, 
+                    "end": 3905, 
+                    "score": 0.19950370490550995, 
+                    "spot": "lost power"
+                }
+            ], 
+            "wiki_id": 296636, 
+            "wiki_title": "Power outage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2886, 
+                    "end": 2894, 
+                    "score": 0.3865225315093994, 
+                    "spot": "Newburgh"
+                }
+            ], 
+            "wiki_id": 259964, 
+            "wiki_title": "Newburgh (city), New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1809, 
+                    "end": 1818, 
+                    "score": 0.16055332124233246, 
+                    "spot": "Baltimore"
+                }
+            ], 
+            "wiki_id": 26997138, 
+            "wiki_title": "Baltimore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4201, 
+                    "end": 4213, 
+                    "score": 0.0009130335529334843, 
+                    "spot": "four members"
+                }
+            ], 
+            "wiki_id": 28476841, 
+            "wiki_title": "Four Members"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 997, 
+                    "score": 0.3181818127632141, 
+                    "spot": "Atlanta.\n   _Illinois"
+                }
+            ], 
+            "wiki_id": 111530, 
+            "wiki_title": "Atlanta, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 398, 
+                    "end": 409, 
+                    "score": 0.15662281215190887, 
+                    "spot": "authorities"
+                }, 
+                {
+                    "begin": 2984, 
+                    "end": 2995, 
+                    "score": 0.15540280938148499, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2287, 
+                    "end": 2297, 
+                    "score": 0.3321770429611206, 
+                    "spot": "New Jersey"
+                }
+            ], 
+            "wiki_id": 21648, 
+            "wiki_title": "New Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 957, 
+                    "end": 962, 
+                    "score": 0.05916283279657364, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 229, 
+                    "end": 235, 
+                    "score": 0.06102609261870384, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 1059, 
+                    "end": 1065, 
+                    "score": 0.13507694005966187, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 7746616, 
+            "wiki_title": "Death of Osama bin Laden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1143, 
+                    "end": 1148, 
+                    "score": 0.0008482187404297292, 
+                    "spot": "at $3"
+                }
+            ], 
+            "wiki_id": 2143835, 
+            "wiki_title": "9M14 Malyutka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2221, 
+                    "end": 2233, 
+                    "score": 0.19509422779083252, 
+                    "spot": "east-central"
+                }
+            ], 
+            "wiki_id": 6326769, 
+            "wiki_title": "East-Central Kansas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2105, 
+                    "end": 2111, 
+                    "score": 0.11201730370521545, 
+                    "spot": "damage"
+                }, 
+                {
+                    "begin": 2389, 
+                    "end": 2395, 
+                    "score": 0.0755087360739708, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 1537950, 
+            "wiki_title": "Damage (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2523, 
+                    "end": 2529, 
+                    "score": 0.08896520733833313, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 623456, 
+            "wiki_title": "The Others (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3539, 
+                    "end": 3542, 
+                    "score": 0.06662804633378983, 
+                    "spot": "man"
+                }
+            ], 
+            "wiki_id": 15822899, 
+            "wiki_title": "Man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2768, 
+                    "end": 2781, 
+                    "score": 0.36997726559638977, 
+                    "spot": "Bergen County"
+                }
+            ], 
+            "wiki_id": 93451, 
+            "wiki_title": "Bergen County, New Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2160, 
+                    "end": 2165, 
+                    "score": 0.3086724281311035, 
+                    "spot": "radar"
+                }
+            ], 
+            "wiki_id": 675776, 
+            "wiki_title": "Weather radar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3788, 
+                    "end": 3799, 
+                    "score": 0.07883191108703613, 
+                    "spot": "skyscrapers"
+                }
+            ], 
+            "wiki_id": 29485, 
+            "wiki_title": "Skyscraper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1636, 
+                    "end": 1643, 
+                    "score": 0.5029259920120239, 
+                    "spot": "Bullitt"
+                }
+            ], 
+            "wiki_id": 95627, 
+            "wiki_title": "Bullitt County, Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2198, 
+                    "end": 2204, 
+                    "score": 0.28674936294555664, 
+                    "spot": "Kemper"
+                }
+            ], 
+            "wiki_id": 94813, 
+            "wiki_title": "Kemper County, Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4206, 
+                    "end": 4213, 
+                    "score": 0.0009448592900298536, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 6414969, 
+            "wiki_title": "Children of the Vault"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2329, 
+                    "end": 2335, 
+                    "score": 0.0012042984599247575, 
+                    "spot": "blamed"
+                }
+            ], 
+            "wiki_id": 1150894, 
+            "wiki_title": "Victim blaming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 467, 
+                    "end": 478, 
+                    "score": 0.36990460753440857, 
+                    "spot": "Clay County"
+                }
+            ], 
+            "wiki_id": 57774, 
+            "wiki_title": "Clay County, Minnesota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 290, 
+                    "score": 0.0040241447277367115, 
+                    "spot": "touched down"
+                }, 
+                {
+                    "begin": 2434, 
+                    "end": 2446, 
+                    "score": 0.3103911876678467, 
+                    "spot": "touched down"
+                }
+            ], 
+            "wiki_id": 9274575, 
+            "wiki_title": "2007 Groundhog Day tornado outbreak"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3547, 
+                    "end": 3559, 
+                    "score": 0.09140197187662125, 
+                    "spot": "hospitalized"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2095, 
+                    "end": 2104, 
+                    "score": 0.002106713131070137, 
+                    "spot": "Scattered"
+                }
+            ], 
+            "wiki_id": 26176, 
+            "wiki_title": "Rayleigh scattering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3149, 
+                    "end": 3158, 
+                    "score": 0.36434298753738403, 
+                    "spot": "Peekskill"
+                }
+            ], 
+            "wiki_id": 127579, 
+            "wiki_title": "Peekskill, New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1836, 
+                    "end": 1840, 
+                    "score": 0.0013125513214617968, 
+                    "spot": "tens"
+                }
+            ], 
+            "wiki_id": 24747860, 
+            "wiki_title": "Rugby tens"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 33, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 5557770, 
+            "wiki_title": "Look (American magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 328, 
+                    "end": 334, 
+                    "score": 0.07853526622056961, 
+                    "spot": "damage"
+                }, 
+                {
+                    "begin": 1122, 
+                    "end": 1128, 
+                    "score": 0.057854752987623215, 
+                    "spot": "Damage"
+                }, 
+                {
+                    "begin": 1439, 
+                    "end": 1445, 
+                    "score": 0.05071120709180832, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2531, 
+                    "end": 2534, 
+                    "score": 0.11837777495384216, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 545933, 
+            "wiki_title": "The One (2001 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2709, 
+                    "end": 2718, 
+                    "score": 0.10083194822072983, 
+                    "spot": "passenger"
+                }
+            ], 
+            "wiki_id": 30598, 
+            "wiki_title": "Train"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 714, 
+                    "end": 722, 
+                    "score": 0.30886131525039673, 
+                    "spot": "Maryland"
+                }, 
+                {
+                    "begin": 1687, 
+                    "end": 1695, 
+                    "score": 0.34950488805770874, 
+                    "spot": "Maryland"
+                }, 
+                {
+                    "begin": 1773, 
+                    "end": 1775, 
+                    "score": 0.0920417383313179, 
+                    "spot": "Md"
+                }, 
+                {
+                    "begin": 1943, 
+                    "end": 1945, 
+                    "score": 0.21900153160095215, 
+                    "spot": "Md"
+                }
+            ], 
+            "wiki_id": 18858, 
+            "wiki_title": "Maryland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3366, 
+                    "end": 3383, 
+                    "score": 0.025303643196821213, 
+                    "spot": "local authorities"
+                }
+            ], 
+            "wiki_id": 52786, 
+            "wiki_title": "Local government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2587, 
+                    "end": 2596, 
+                    "score": 0.0735560804605484, 
+                    "spot": "Elizabeth"
+                }
+            ], 
+            "wiki_id": 125778, 
+            "wiki_title": "Elizabeth, New Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1029, 
+                    "score": 0.1000947430729866, 
+                    "spot": "morning"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3668, 
+                    "end": 3674, 
+                    "score": 0.2455066740512848, 
+                    "spot": "funnel"
+                }
+            ], 
+            "wiki_id": 431773, 
+            "wiki_title": "Funnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 185, 
+                    "score": 0.03759827837347984, 
+                    "spot": "TEXT"
+                }
+            ], 
+            "wiki_id": 305854, 
+            "wiki_title": "Text messaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3710, 
+                    "end": 3715, 
+                    "score": 0.07820872962474823, 
+                    "spot": "trees"
+                }
+            ], 
+            "wiki_id": 33908941, 
+            "wiki_title": "Aspen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4217, 
+                    "end": 4220, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2602, 
+                    "end": 2615, 
+                    "score": 0.48473358154296875, 
+                    "spot": "New\nYork City"
+                }, 
+                {
+                    "begin": 2920, 
+                    "end": 2933, 
+                    "score": 0.44454407691955566, 
+                    "spot": "New York City"
+                }, 
+                {
+                    "begin": 3005, 
+                    "end": 3018, 
+                    "score": 0.3378724455833435, 
+                    "spot": "New York City"
+                }
+            ], 
+            "wiki_id": 645042, 
+            "wiki_title": "New York City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1066, 
+                    "end": 1075, 
+                    "score": 0.001013427972793579, 
+                    "spot": "one woman"
+                }
+            ], 
+            "wiki_id": 27415751, 
+            "wiki_title": "One Woman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 901, 
+                    "end": 906, 
+                    "score": 0.20447494089603424, 
+                    "spot": "parks"
+                }
+            ], 
+            "wiki_id": 166459, 
+            "wiki_title": "Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 144, 
+                    "end": 152, 
+                    "score": 0.0025398668367415667, 
+                    "spot": "hundreds"
+                }
+            ], 
+            "wiki_id": 1671458, 
+            "wiki_title": "Century (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2475, 
+                    "end": 2479, 
+                    "score": 0.010558613575994968, 
+                    "spot": "noon"
+                }
+            ], 
+            "wiki_id": 209005, 
+            "wiki_title": "Noon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 525, 
+                    "end": 530, 
+                    "score": 0.28004202246665955, 
+                    "spot": "Heavy"
+                }
+            ], 
+            "wiki_id": 1608478, 
+            "wiki_title": "Heavy industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3620, 
+                    "end": 3626, 
+                    "score": 0.07835540175437927, 
+                    "spot": "flying"
+                }
+            ], 
+            "wiki_id": 58422, 
+            "wiki_title": "Aviation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1606, 
+                    "score": 0.3730158805847168, 
+                    "spot": "Meade County"
+                }
+            ], 
+            "wiki_id": 91797, 
+            "wiki_title": "Meade County, South Dakota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3668, 
+                    "end": 3681, 
+                    "score": 0.3704787492752075, 
+                    "spot": "funnel clouds"
+                }
+            ], 
+            "wiki_id": 1499520, 
+            "wiki_title": "Funnel cloud"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3206, 
+                    "end": 3210, 
+                    "score": 0.08964834362268448, 
+                    "spot": "pair"
+                }
+            ], 
+            "wiki_id": 34022823, 
+            "wiki_title": "Binary black hole"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1993, 
+                    "end": 2002, 
+                    "score": 0.13041579723358154, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2835, 
+                    "end": 2839, 
+                    "score": 0.07542434334754944, 
+                    "spot": "tree"
+                }, 
+                {
+                    "begin": 4074, 
+                    "end": 4079, 
+                    "score": 0.0808992013335228, 
+                    "spot": "trees"
+                }
+            ], 
+            "wiki_id": 18955875, 
+            "wiki_title": "Tree"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1079, 
+                    "end": 1095, 
+                    "score": 0.4360986649990082, 
+                    "spot": "St. Clair County"
+                }
+            ], 
+            "wiki_id": 95035, 
+            "wiki_title": "St. Clair County, Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1785, 
+                    "end": 1790, 
+                    "score": 0.14261355996131897, 
+                    "spot": "roofs"
+                }, 
+                {
+                    "begin": 2878, 
+                    "end": 2882, 
+                    "score": 0.08292592316865921, 
+                    "spot": "roof"
+                }, 
+                {
+                    "begin": 3457, 
+                    "end": 3462, 
+                    "score": 0.09775905311107635, 
+                    "spot": "roofs"
+                }, 
+                {
+                    "begin": 3693, 
+                    "end": 3698, 
+                    "score": 0.0010600312380120158, 
+                    "spot": "roofs"
+                }, 
+                {
+                    "begin": 4088, 
+                    "end": 4093, 
+                    "score": 0.17483970522880554, 
+                    "spot": "roofs"
+                }
+            ], 
+            "wiki_id": 26118, 
+            "wiki_title": "Roof"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 569, 
+                    "end": 574, 
+                    "score": 0.12883985042572021, 
+                    "spot": "swept"
+                }
+            ], 
+            "wiki_id": 246851, 
+            "wiki_title": "Swept wing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1541, 
+                    "end": 1546, 
+                    "score": 0.01409090869128704, 
+                    "spot": "swath"
+                }
+            ], 
+            "wiki_id": 1187327, 
+            "wiki_title": "Small-waterplane-area twin hull"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 92, 
+                    "score": 0.10674575716257095, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3438, 
+                    "end": 3447, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 13273843, 
+            "wiki_title": "Wednesday (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1574, 
+                    "end": 1578, 
+                    "score": 0.060216885060071945, 
+                    "spot": "town"
+                }
+            ], 
+            "wiki_id": 605826, 
+            "wiki_title": "On the Town (musical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3911, 
+                    "end": 3925, 
+                    "score": 0.2099781632423401, 
+                    "spot": "South Carolina"
+                }
+            ], 
+            "wiki_id": 489586, 
+            "wiki_title": "Province of South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3501, 
+                    "end": 3506, 
+                    "score": 0.23463529348373413, 
+                    "spot": "sheds"
+                }
+            ], 
+            "wiki_id": 264502, 
+            "wiki_title": "Shed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3869, 
+                    "end": 3894, 
+                    "score": 0.16906264424324036, 
+                    "spot": "southeastern\nPennsylvania"
+                }
+            ], 
+            "wiki_id": 420910, 
+            "wiki_title": "Delaware Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4109, 
+                    "end": 4116, 
+                    "score": 0.002067064866423607, 
+                    "spot": "toppled"
+                }
+            ], 
+            "wiki_id": 21134787, 
+            "wiki_title": "1963 Syrian coup d'\u00e9tat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2668, 
+                    "end": 2673, 
+                    "score": 0.11513730138540268, 
+                    "spot": "heavy"
+                }
+            ], 
+            "wiki_id": 33931, 
+            "wiki_title": "Weight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 422, 
+                    "end": 428, 
+                    "score": 0.1394938826560974, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1423, 
+                    "end": 1429, 
+                    "score": 0.10044801235198975, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 878, 
+                    "end": 884, 
+                    "score": 0.19457758963108063, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 5016402, 
+            "wiki_title": "Landfall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3970, 
+                    "end": 3977, 
+                    "score": 0.08440898358821869, 
+                    "spot": "damaged"
+                }
+            ], 
+            "wiki_id": 304588, 
+            "wiki_title": "Brain damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3627, 
+                    "end": 3633, 
+                    "score": 0.09127969294786453, 
+                    "spot": "debris"
+                }
+            ], 
+            "wiki_id": 26111059, 
+            "wiki_title": "Road debris"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2911, 
+                    "end": 2916, 
+                    "score": 0.133524551987648, 
+                    "spot": "north"
+                }, 
+                {
+                    "begin": 3165, 
+                    "end": 3170, 
+                    "score": 0.10882138460874557, 
+                    "spot": "north"
+                }, 
+                {
+                    "begin": 3188, 
+                    "end": 3202, 
+                    "score": 0.189522385597229, 
+                    "spot": "North Carolina"
+                }
+            ], 
+            "wiki_id": 21650, 
+            "wiki_title": "North Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3535, 
+                    "end": 3542, 
+                    "score": 0.001746863592416048, 
+                    "spot": "One man"
+                }
+            ], 
+            "wiki_id": 29820314, 
+            "wiki_title": "One Man (horse)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 217, 
+                    "end": 223, 
+                    "score": 0.14249275624752045, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 775, 
+                    "end": 781, 
+                    "score": 0.03922067955136299, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 763, 
+                    "end": 770, 
+                    "score": 0.3536143898963928, 
+                    "spot": "Georgia"
+                }
+            ], 
+            "wiki_id": 48830, 
+            "wiki_title": "Georgia (U.S. state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2249, 
+                    "end": 2254, 
+                    "score": 0.26925620436668396, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3467, 
+                    "end": 3472, 
+                    "score": 0.19454920291900635, 
+                    "spot": "barns"
+                }
+            ], 
+            "wiki_id": 118737, 
+            "wiki_title": "Barn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2935, 
+                    "end": 2942, 
+                    "score": 0.15617164969444275, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 253, 
+                    "end": 262, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 852, 
+                    "end": 861, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 1207, 
+                    "end": 1216, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 3238, 
+                    "end": 3247, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 177538, 
+            "wiki_title": "Sheffield Wednesday F.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1827, 
+                    "end": 1832, 
+                    "score": 0.12477407604455948, 
+                    "spot": "power"
+                }
+            ], 
+            "wiki_id": 9550, 
+            "wiki_title": "Electricity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3764, 
+                    "end": 3771, 
+                    "score": 0.10105699300765991, 
+                    "spot": "windows"
+                }
+            ], 
+            "wiki_id": 18890, 
+            "wiki_title": "Microsoft Windows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 889, 
+                    "end": 906, 
+                    "score": 0.4491468369960785, 
+                    "spot": "mobile home parks"
+                }
+            ], 
+            "wiki_id": 89690, 
+            "wiki_title": "Trailer park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2952, 
+                    "end": 2957, 
+                    "score": 0.07784494757652283, 
+                    "spot": "seven"
+                }
+            ], 
+            "wiki_id": 206818, 
+            "wiki_title": "Seven (1995 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3109, 
+                    "end": 3120, 
+                    "score": 0.28759288787841797, 
+                    "spot": "water\ntower"
+                }
+            ], 
+            "wiki_id": 44958, 
+            "wiki_title": "Water tower"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1487, 
+                    "end": 1492, 
+                    "score": 0.017770271748304367, 
+                    "spot": "storm"
+                }, 
+                {
+                    "begin": 4282, 
+                    "end": 4287, 
+                    "score": 0.3591620624065399, 
+                    "spot": "storm"
+                }
+            ], 
+            "wiki_id": 130312, 
+            "wiki_title": "Storm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3353, 
+                    "end": 3362, 
+                    "score": 0.02386469580233097, 
+                    "spot": "described"
+                }
+            ], 
+            "wiki_id": 24405429, 
+            "wiki_title": "Species description"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2559, 
+                    "end": 2565, 
+                    "score": 0.08280761539936066, 
+                    "spot": "injury"
+                }
+            ], 
+            "wiki_id": 491353, 
+            "wiki_title": "Occupational injury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1303, 
+                    "end": 1309, 
+                    "score": 0.08002910763025284, 
+                    "spot": "tipped"
+                }
+            ], 
+            "wiki_id": 1864482, 
+            "wiki_title": "Wing tip"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2340, 
+                    "end": 2343, 
+                    "score": 0.09997701644897461, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 995724, 
+            "wiki_title": "One (Metallica song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3703, 
+                    "end": 3709, 
+                    "score": 0.0005062009440734982, 
+                    "spot": "downed"
+                }, 
+                {
+                    "begin": 3947, 
+                    "end": 3953, 
+                    "score": 0.0005062009440734982, 
+                    "spot": "downed"
+                }
+            ], 
+            "wiki_id": 962449, 
+            "wiki_title": "Down (gridiron football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3753, 
+                    "end": 3763, 
+                    "score": 0.06130598485469818, 
+                    "spot": "shattering"
+                }
+            ], 
+            "wiki_id": 43405370, 
+            "wiki_title": "LawBreakers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 312, 
+                    "score": 0.15867158770561218, 
+                    "spot": "rush hour"
+                }, 
+                {
+                    "begin": 631, 
+                    "end": 640, 
+                    "score": 0.3513541519641876, 
+                    "spot": "rush hour"
+                }
+            ], 
+            "wiki_id": 449743, 
+            "wiki_title": "Rush hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3496, 
+                    "end": 3500, 
+                    "score": 0.2376091182231903, 
+                    "spot": "farm"
+                }
+            ], 
+            "wiki_id": 59790, 
+            "wiki_title": "Farm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3032, 
+                    "end": 3038, 
+                    "score": 0.13736188411712646, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 9045538, 
+            "wiki_title": "Death of Joseph Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 55, 
+                    "end": 75, 
+                    "score": 0.36619260907173157, 
+                    "spot": "severe\nthunderstorms"
+                }, 
+                {
+                    "begin": 62, 
+                    "end": 75, 
+                    "score": 0.2569466531276703, 
+                    "spot": "thunderstorms"
+                }, 
+                {
+                    "begin": 531, 
+                    "end": 544, 
+                    "score": 0.20872725546360016, 
+                    "spot": "thunderstorms"
+                }, 
+                {
+                    "begin": 2799, 
+                    "end": 2818, 
+                    "score": 0.4495506286621094, 
+                    "spot": "severe thunderstorm"
+                }, 
+                {
+                    "begin": 2806, 
+                    "end": 2818, 
+                    "score": 0.4437846541404724, 
+                    "spot": "thunderstorm"
+                }
+            ], 
+            "wiki_id": 70807, 
+            "wiki_title": "Thunderstorm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1030, 
+                    "end": 1039, 
+                    "score": 0.09026561677455902, 
+                    "spot": "destroyed"
+                }
+            ], 
+            "wiki_id": 45527641, 
+            "wiki_title": "Destruction of cultural heritage by ISIL"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 216, 
+                    "score": 0.18416821956634521, 
+                    "spot": "Seventeen"
+                }
+            ], 
+            "wiki_id": 353303, 
+            "wiki_title": "Seventeen (American magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1217, 
+                    "end": 1226, 
+                    "score": 0.002372191986069083, 
+                    "spot": "afternoon"
+                }
+            ], 
+            "wiki_id": 1569790, 
+            "wiki_title": "Monthly Afternoon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1722, 
+                    "end": 1730, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }, 
+                {
+                    "begin": 2414, 
+                    "end": 2422, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }, 
+                {
+                    "begin": 2819, 
+                    "end": 2827, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 266139, 
+            "wiki_title": "Thursday (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1645, 
+                    "end": 1650, 
+                    "score": 0.399637371301651, 
+                    "spot": "LaRue"
+                }
+            ], 
+            "wiki_id": 95578, 
+            "wiki_title": "LaRue County, Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2840, 
+                    "end": 2856, 
+                    "score": 0.008992806077003479, 
+                    "spot": "crashing\nthrough"
+                }
+            ], 
+            "wiki_id": 2668927, 
+            "wiki_title": "Crashing Through"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3052, 
+                    "end": 3057, 
+                    "score": 0.17668384313583374, 
+                    "spot": "steel"
+                }
+            ], 
+            "wiki_id": 27058, 
+            "wiki_title": "Steel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1257, 
+                    "end": 1261, 
+                    "score": 0.25905269384384155, 
+                    "spot": "Ohio"
+                }, 
+                {
+                    "begin": 3336, 
+                    "end": 3340, 
+                    "score": 0.2553275525569916, 
+                    "spot": "Ohio"
+                }, 
+                {
+                    "begin": 3430, 
+                    "end": 3434, 
+                    "score": 0.3322584629058838, 
+                    "spot": "Ohio"
+                }
+            ], 
+            "wiki_id": 22388, 
+            "wiki_title": "Ohio River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1778, 
+                    "end": 1784, 
+                    "score": 0.07033321261405945, 
+                    "spot": "lifted"
+                }
+            ], 
+            "wiki_id": 1415891, 
+            "wiki_title": "Tectonic uplift"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3639, 
+                    "end": 3651, 
+                    "score": 0.23794525861740112, 
+                    "spot": "Pennsylvania"
+                }, 
+                {
+                    "begin": 3727, 
+                    "end": 3739, 
+                    "score": 0.660950243473053, 
+                    "spot": "Pennslyvania"
+                }, 
+                {
+                    "begin": 3882, 
+                    "end": 3894, 
+                    "score": 0.3168140649795532, 
+                    "spot": "Pennsylvania"
+                }
+            ], 
+            "wiki_id": 23332, 
+            "wiki_title": "Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1525, 
+                    "end": 1528, 
+                    "score": 0.0032156745437532663, 
+                    "spot": "cut"
+                }, 
+                {
+                    "begin": 1823, 
+                    "end": 1826, 
+                    "score": 0.06369830667972565, 
+                    "spot": "cut"
+                }
+            ], 
+            "wiki_id": 338154, 
+            "wiki_title": "Wound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2958, 
+                    "end": 2966, 
+                    "score": 0.1768098771572113, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2186, 
+                    "end": 2193, 
+                    "score": 0.4960457682609558, 
+                    "spot": "Neshoba"
+                }
+            ], 
+            "wiki_id": 94772, 
+            "wiki_title": "Neshoba County, Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4145, 
+                    "end": 4161, 
+                    "score": 0.31714048981666565, 
+                    "spot": "Jefferson County"
+                }
+            ], 
+            "wiki_id": 91724, 
+            "wiki_title": "Jefferson County, Tennessee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 105, 
+                    "end": 111, 
+                    "score": 0.05096598342061043, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 376, 
+                    "end": 382, 
+                    "score": 0.18985463678836823, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 2535, 
+                    "end": 2541, 
+                    "score": 0.09590601921081543, 
+                    "spot": "person"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 963, 
+                    "end": 972, 
+                    "score": 0.08689294010400772, 
+                    "spot": "southeast"
+                }
+            ], 
+            "wiki_id": 816925, 
+            "wiki_title": "Southeastern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 954, 
+                    "end": 962, 
+                    "score": 0.0019480519695207477, 
+                    "spot": "25\nmiles"
+                }
+            ], 
+            "wiki_id": 23811985, 
+            "wiki_title": "Twenty-Five Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3719, 
+                    "end": 3726, 
+                    "score": 0.1494627594947815, 
+                    "spot": "eastern"
+                }
+            ], 
+            "wiki_id": 496028, 
+            "wiki_title": "Eastern Time Zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2531, 
+                    "end": 2541, 
+                    "score": 0.0007886435487307608, 
+                    "spot": "One person"
+                }
+            ], 
+            "wiki_id": 35836864, 
+            "wiki_title": "In One Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2481, 
+                    "end": 2491, 
+                    "score": 0.0009770395699888468, 
+                    "spot": "collapsing"
+                }
+            ], 
+            "wiki_id": 637197, 
+            "wiki_title": "Collapse of the World Trade Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1582, 
+                    "end": 1590, 
+                    "score": 0.05522209033370018, 
+                    "spot": "Flaherty"
+                }
+            ], 
+            "wiki_id": 25746668, 
+            "wiki_title": "Flaherty, Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4221, 
+                    "end": 4227, 
+                    "score": 0.02909783087670803, 
+                    "spot": "family"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1608, 
+                    "end": 1614, 
+                    "score": 0.0024916050024330616, 
+                    "spot": "Damage"
+                }
+            ], 
+            "wiki_id": 46698, 
+            "wiki_title": "Property damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3477, 
+                    "end": 3483, 
+                    "score": 0.2853154242038727, 
+                    "spot": "houses"
+                }, 
+                {
+                    "begin": 4098, 
+                    "end": 4104, 
+                    "score": 0.12281537801027298, 
+                    "spot": "houses"
+                }
+            ], 
+            "wiki_id": 13590, 
+            "wiki_title": "House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 503, 
+                    "end": 523, 
+                    "score": 0.25466907024383545, 
+                    "spot": "District of Columbia"
+                }
+            ], 
+            "wiki_id": 108956, 
+            "wiki_title": "Washington, D.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3058, 
+                    "end": 3062, 
+                    "score": 0.18307173252105713, 
+                    "spot": "beam"
+                }
+            ], 
+            "wiki_id": 630099, 
+            "wiki_title": "Beam (structure)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 153, 
+                    "end": 161, 
+                    "score": 0.03836452215909958, 
+                    "spot": "homeless"
+                }
+            ], 
+            "wiki_id": 667980, 
+            "wiki_title": "Homelessness in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2787, 
+                    "end": 2795, 
+                    "score": 0.24059757590293884, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2030, 
+                    "end": 2037, 
+                    "score": 0.10697008669376373, 
+                    "spot": "confirm"
+                }
+            ], 
+            "wiki_id": 2610287, 
+            "wiki_title": "Advice and consent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 842, 
+                    "end": 851, 
+                    "score": 0.12600183486938477, 
+                    "spot": "evacuated"
+                }
+            ], 
+            "wiki_id": 1536572, 
+            "wiki_title": "Emergency evacuation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 559, 
+                    "end": 562, 
+                    "score": 0.0913734883069992, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1561, 
+                    "score": 0.04607883840799332, 
+                    "spot": "destruction"
+                }
+            ], 
+            "wiki_id": 5058690, 
+            "wiki_title": "September 11 attacks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 8, 
+                    "score": 0.053599435836076736, 
+                    "spot": "Here"
+                }
+            ], 
+            "wiki_id": 11697550, 
+            "wiki_title": "Alabama Register of Landmarks and Heritage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3775, 
+                    "end": 3787, 
+                    "score": 0.22594624757766724, 
+                    "spot": "Philadelphia"
+                }
+            ], 
+            "wiki_id": 50585, 
+            "wiki_title": "Philadelphia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1741, 
+                    "end": 1756, 
+                    "score": 0.021401774138212204, 
+                    "spot": "church\nbuilding"
+                }
+            ], 
+            "wiki_id": 6325, 
+            "wiki_title": "Church (building)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2654, 
+                    "end": 2664, 
+                    "score": 0.0007504288223572075, 
+                    "spot": "overturned"
+                }
+            ], 
+            "wiki_id": 2342619, 
+            "wiki_title": "Rescission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 642, 
+                    "end": 650, 
+                    "score": 0.01651337742805481, 
+                    "spot": "flooding"
+                }
+            ], 
+            "wiki_id": 50482, 
+            "wiki_title": "Flood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1760, 
+                    "end": 1771, 
+                    "score": 0.6839052438735962, 
+                    "spot": "Kent County"
+                }, 
+                {
+                    "begin": 1760, 
+                    "end": 1775, 
+                    "score": 0.625, 
+                    "spot": "Kent County, Md"
+                }, 
+                {
+                    "begin": 1930, 
+                    "end": 1941, 
+                    "score": 0.6839052438735962, 
+                    "spot": "Kent County"
+                }, 
+                {
+                    "begin": 1930, 
+                    "end": 1945, 
+                    "score": 0.625, 
+                    "spot": "Kent County,\nMd"
+                }
+            ], 
+            "wiki_id": 59382, 
+            "wiki_title": "Kent County, Maryland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2860, 
+                    "end": 2877, 
+                    "score": 0.03823024034500122, 
+                    "spot": "elementary school"
+                }
+            ], 
+            "wiki_id": 23210292, 
+            "wiki_title": "Elementary school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1244, 
+                    "end": 1249, 
+                    "score": 0.11468115448951721, 
+                    "spot": "close"
+                }
+            ], 
+            "wiki_id": 390697, 
+            "wiki_title": "Cul-de-sac"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1517, 
+                    "end": 1524, 
+                    "score": 0.2686636447906494, 
+                    "spot": "tornado"
+                }
+            ], 
+            "wiki_id": 196241, 
+            "wiki_title": "Tornado (sailboat)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1284, 
+                    "end": 1287, 
+                    "score": 0.06690524518489838, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 14761570, 
+            "wiki_title": "Top (clothing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1652, 
+                    "end": 1658, 
+                    "score": 0.3080131411552429, 
+                    "spot": "Hardin"
+                }
+            ], 
+            "wiki_id": 91566, 
+            "wiki_title": "Hardin County, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 41, 
+                    "end": 50, 
+                    "score": 0.30450892448425293, 
+                    "spot": "tornadoes"
+                }, 
+                {
+                    "begin": 270, 
+                    "end": 277, 
+                    "score": 0.32447290420532227, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 456, 
+                    "end": 463, 
+                    "score": 0.3497852683067322, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 870, 
+                    "end": 877, 
+                    "score": 0.3754790425300598, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 1187, 
+                    "end": 1194, 
+                    "score": 0.24481528997421265, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 1905, 
+                    "end": 1912, 
+                    "score": 0.17128939926624298, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 2173, 
+                    "end": 2182, 
+                    "score": 0.29112714529037476, 
+                    "spot": "tornadoes"
+                }, 
+                {
+                    "begin": 2314, 
+                    "end": 2323, 
+                    "score": 0.25945794582366943, 
+                    "spot": "tornadoes"
+                }, 
+                {
+                    "begin": 2426, 
+                    "end": 2433, 
+                    "score": 0.32447290420532227, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 3122, 
+                    "end": 3131, 
+                    "score": 0.22813153266906738, 
+                    "spot": "Tornadoes"
+                }, 
+                {
+                    "begin": 3214, 
+                    "end": 3223, 
+                    "score": 0.12060247361660004, 
+                    "spot": "tornadoes"
+                }, 
+                {
+                    "begin": 3389, 
+                    "end": 3396, 
+                    "score": 0.2509145140647888, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 3929, 
+                    "end": 3936, 
+                    "score": 0.2615656554698944, 
+                    "spot": "tornado"
+                }, 
+                {
+                    "begin": 4303, 
+                    "end": 4310, 
+                    "score": 0.5126811861991882, 
+                    "spot": "tornado"
+                }
+            ], 
+            "wiki_id": 37530, 
+            "wiki_title": "Tornado"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1149, 
+                    "end": 1156, 
+                    "score": 0.021654928103089333, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 1468, 
+                    "end": 1475, 
+                    "score": 0.04911794140934944, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 177, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 19076629, 
+            "wiki_title": "A Wednesday!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1952, 
+                    "end": 1966, 
+                    "score": 0.5, 
+                    "spot": "Hockessin, Del"
+                }
+            ], 
+            "wiki_id": 108921, 
+            "wiki_title": "Hockessin, Delaware"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 688, 
+                    "end": 692, 
+                    "score": 0.06651327759027481, 
+                    "spot": "lost"
+                }, 
+                {
+                    "begin": 3294, 
+                    "end": 3303, 
+                    "score": 0.0009679910726845264, 
+                    "spot": "destroyed"
+                }, 
+                {
+                    "begin": 3895, 
+                    "end": 3899, 
+                    "score": 0.08643259108066559, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 89314, 
+            "wiki_title": "Wiping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2575, 
+                    "score": 0.025525525212287903, 
+                    "spot": "bridge"
+                }
+            ], 
+            "wiki_id": 1663632, 
+            "wiki_title": "Bridge (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2637, 
+                    "end": 2653, 
+                    "score": 0.30552881956100464, 
+                    "spot": "tractor trailers"
+                }
+            ], 
+            "wiki_id": 29381, 
+            "wiki_title": "Semi-trailer truck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1012, 
+                    "end": 1021, 
+                    "score": 0.05732785165309906, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 1396, 
+                    "end": 1405, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 2144, 
+                    "end": 2153, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 3937, 
+                    "end": 3946, 
+                    "score": 0.013679658062756062, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 1822923, 
+            "wiki_title": "Wednesday Night Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 614, 
+                    "end": 622, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }, 
+                {
+                    "begin": 3743, 
+                    "end": 3751, 
+                    "score": 0.12428779900074005, 
+                    "spot": "Thursday"
+                }, 
+                {
+                    "begin": 4133, 
+                    "end": 4141, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 7634921, 
+            "wiki_title": "Thursday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1294, 
+                    "end": 1298, 
+                    "score": 0.13998638093471527, 
+                    "spot": "silo"
+                }
+            ], 
+            "wiki_id": 3246948, 
+            "wiki_title": "Silo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 687, 
+                    "score": 0.0012148991227149963, 
+                    "spot": "customers"
+                }, 
+                {
+                    "begin": 1865, 
+                    "end": 1874, 
+                    "score": 0.14993304014205933, 
+                    "spot": "customers"
+                }, 
+                {
+                    "begin": 3856, 
+                    "end": 3865, 
+                    "score": 0.00512829190120101, 
+                    "spot": "customers"
+                }
+            ], 
+            "wiki_id": 234206, 
+            "wiki_title": "Customer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2450, 
+                    "end": 2460, 
+                    "score": 0.16756756603717804, 
+                    "spot": "Piscataway"
+                }
+            ], 
+            "wiki_id": 125437, 
+            "wiki_title": "Piscataway, New Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1262, 
+                    "end": 1268, 
+                    "score": 0.06672568619251251, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 2817606, 
+            "wiki_title": "Mexico\u2013United States border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2681, 
+                    "end": 2684, 
+                    "score": 0.10221154987812042, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1312, 
+                    "end": 1324, 
+                    "score": 0.23542116582393646, 
+                    "spot": "semi-trailer"
+                }
+            ], 
+            "wiki_id": 6910416, 
+            "wiki_title": "Semi-trailer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2905, 
+                    "end": 2910, 
+                    "score": 0.1069260984659195, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 1291705, 
+            "wiki_title": "Nelson A. Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2344, 
+                    "end": 2349, 
+                    "score": 0.05278051272034645, 
+                    "spot": "death"
+                }
+            ], 
+            "wiki_id": 8233, 
+            "wiki_title": "Death metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1376, 
+                    "end": 1384, 
+                    "score": 0.3033047318458557, 
+                    "spot": "Kentucky"
+                }
+            ], 
+            "wiki_id": 16846, 
+            "wiki_title": "Kentucky"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3284, 
+                    "end": 3289, 
+                    "score": 0.09621140360832214, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 491835, 
+            "wiki_title": "North Carolina House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3174, 
+                    "end": 3182, 
+                    "score": 0.32698845863342285, 
+                    "spot": "the city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3682, 
+                    "end": 3692, 
+                    "score": 0.007343941368162632, 
+                    "spot": "ripped off"
+                }
+            ], 
+            "wiki_id": 12157831, 
+            "wiki_title": "Ripped Off"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 198, 
+                    "end": 205, 
+                    "score": 0.27161794900894165, 
+                    "spot": "Alabama"
+                }, 
+                {
+                    "begin": 490, 
+                    "end": 497, 
+                    "score": 0.4347168803215027, 
+                    "spot": "Alabama"
+                }
+            ], 
+            "wiki_id": 303, 
+            "wiki_title": "Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1095, 
+                    "score": 0.00619577756151557, 
+                    "spot": "County"
+                }, 
+                {
+                    "begin": 2205, 
+                    "end": 2213, 
+                    "score": 0.3242022395133972, 
+                    "spot": "counties"
+                }
+            ], 
+            "wiki_id": 88366, 
+            "wiki_title": "County (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 656, 
+                    "end": 663, 
+                    "score": 0.003419929649680853, 
+                    "spot": "streets"
+                }
+            ], 
+            "wiki_id": 389664, 
+            "wiki_title": "The Streets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3251, 
+                    "end": 3267, 
+                    "score": 0.3395061790943146, 
+                    "spot": "Henderson County"
+                }
+            ], 
+            "wiki_id": 91558, 
+            "wiki_title": "Henderson County, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 239, 
+                    "end": 249, 
+                    "score": 0.14919103682041168, 
+                    "spot": "Huntsville"
+                }
+            ], 
+            "wiki_id": 137206, 
+            "wiki_title": "Huntsville, Utah"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1968, 
+                    "end": 1992, 
+                    "score": 0.48643648624420166, 
+                    "spot": "National Weather Service"
+                }, 
+                {
+                    "begin": 1977, 
+                    "end": 1992, 
+                    "score": 0.06934072077274323, 
+                    "spot": "Weather Service"
+                }, 
+                {
+                    "begin": 4248, 
+                    "end": 4272, 
+                    "score": 0.48643648624420166, 
+                    "spot": "National Weather Service"
+                }
+            ], 
+            "wiki_id": 286989, 
+            "wiki_title": "National Weather Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2553, 
+                    "end": 2558, 
+                    "score": 0.07526155561208725, 
+                    "spot": "minor"
+                }, 
+                {
+                    "begin": 2736, 
+                    "end": 2741, 
+                    "score": 0.005024602171033621, 
+                    "spot": "minor"
+                }
+            ], 
+            "wiki_id": 289505, 
+            "wiki_title": "Minor (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 322, 
+                    "end": 327, 
+                    "score": 0.010060809552669525, 
+                    "spot": "major"
+                }
+            ], 
+            "wiki_id": 1506950, 
+            "wiki_title": "Men's major golf championships"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 938, 
+                    "end": 946, 
+                    "score": 0.11528566479682922, 
+                    "spot": "Palmetto"
+                }
+            ], 
+            "wiki_id": 45715, 
+            "wiki_title": "Arecaceae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 545, 
+                    "end": 552, 
+                    "score": 0.05653730779886246, 
+                    "spot": "packing"
+                }
+            ], 
+            "wiki_id": 1138195, 
+            "wiki_title": "Meat packing industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4168, 
+                    "end": 4172, 
+                    "score": 0.09709547460079193, 
+                    "spot": "west"
+                }
+            ], 
+            "wiki_id": 252507, 
+            "wiki_title": "American frontier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1273, 
+                    "end": 1279, 
+                    "score": 0.0034270049072802067, 
+                    "spot": "ripped"
+                }, 
+                {
+                    "begin": 3449, 
+                    "end": 3456, 
+                    "score": 0.022545089945197105, 
+                    "spot": "ripping"
+                }, 
+                {
+                    "begin": 4081, 
+                    "end": 4087, 
+                    "score": 0.0034270049072802067, 
+                    "spot": "ripped"
+                }
+            ], 
+            "wiki_id": 509070, 
+            "wiki_title": "Ripping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1857, 
+                    "end": 1864, 
+                    "score": 0.14971616864204407, 
+                    "spot": "utility"
+                }
+            ], 
+            "wiki_id": 45479, 
+            "wiki_title": "Utility"
+        }
+    ]
+}

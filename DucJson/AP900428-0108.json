@@ -1,0 +1,2932 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1478, 
+                    "end": 1489, 
+                    "score": 0.08891455084085464, 
+                    "spot": "Union Party"
+                }
+            ], 
+            "wiki_id": 4880465, 
+            "wiki_title": "Union of Puerto Rico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 780, 
+                    "end": 784, 
+                    "score": 0.15026839077472687, 
+                    "spot": "kill"
+                }
+            ], 
+            "wiki_id": 123451, 
+            "wiki_title": "Homicide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3711, 
+                    "end": 3716, 
+                    "score": 0.05477799475193024, 
+                    "spot": "focus"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2766, 
+                    "end": 2779, 
+                    "score": 0.019886363297700882, 
+                    "spot": "Alfonso Lopez"
+                }
+            ], 
+            "wiki_id": 27559721, 
+            "wiki_title": "Alfonso L\u00f3pez III"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1604, 
+                    "end": 1609, 
+                    "score": 0.16215252876281738, 
+                    "spot": "media"
+                }
+            ], 
+            "wiki_id": 19641, 
+            "wiki_title": "Mass media"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 565, 
+                    "end": 571, 
+                    "score": 0.0007501875516027212, 
+                    "spot": "how to"
+                }
+            ], 
+            "wiki_id": 175502, 
+            "wiki_title": "How-to"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1141, 
+                    "end": 1157, 
+                    "score": 0.5, 
+                    "spot": "Bogota's airport"
+                }, 
+                {
+                    "begin": 1519, 
+                    "end": 1533, 
+                    "score": 0.5, 
+                    "spot": "Bogota airport"
+                }
+            ], 
+            "wiki_id": 299434, 
+            "wiki_title": "El Dorado International Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 44, 
+                    "end": 57, 
+                    "score": 0.18841040134429932, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 825, 
+                    "end": 837, 
+                    "score": 0.20345033705234528, 
+                    "spot": "assassinated"
+                }, 
+                {
+                    "begin": 1024, 
+                    "end": 1033, 
+                    "score": 0.2061820924282074, 
+                    "spot": "assassins"
+                }, 
+                {
+                    "begin": 1200, 
+                    "end": 1208, 
+                    "score": 0.25297123193740845, 
+                    "spot": "assassin"
+                }, 
+                {
+                    "begin": 1561, 
+                    "end": 1575, 
+                    "score": 0.2366562932729721, 
+                    "spot": "assassinations"
+                }, 
+                {
+                    "begin": 1833, 
+                    "end": 1846, 
+                    "score": 0.13971978425979614, 
+                    "spot": "assassination"
+                }, 
+                {
+                    "begin": 2630, 
+                    "end": 2638, 
+                    "score": 0.1673850566148758, 
+                    "spot": "assassin"
+                }
+            ], 
+            "wiki_id": 2963, 
+            "wiki_title": "Assassination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1049, 
+                    "end": 1055, 
+                    "score": 0.17145037651062012, 
+                    "spot": "gunman"
+                }
+            ], 
+            "wiki_id": 5785, 
+            "wiki_title": "Crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3617, 
+                    "end": 3628, 
+                    "score": 0.26284605264663696, 
+                    "spot": "triumvirate"
+                }
+            ], 
+            "wiki_id": 217305, 
+            "wiki_title": "Triumvirate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3601, 
+                    "end": 3611, 
+                    "score": 0.0021973068360239267, 
+                    "spot": "suggestion"
+                }
+            ], 
+            "wiki_id": 2481523, 
+            "wiki_title": "Suggestion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 903, 
+                    "end": 920, 
+                    "score": 0.5, 
+                    "spot": "April 19 Movement"
+                }, 
+                {
+                    "begin": 1915, 
+                    "end": 1932, 
+                    "score": 0.5, 
+                    "spot": "April 19 Movement"
+                }
+            ], 
+            "wiki_id": 2327104, 
+            "wiki_title": "April Revolution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2310, 
+                    "end": 2313, 
+                    "score": 0.0026834148447960615, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4039, 
+                    "end": 4044, 
+                    "score": 0.13826414942741394, 
+                    "spot": "party"
+                }
+            ], 
+            "wiki_id": 23996, 
+            "wiki_title": "Political party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1766, 
+                    "end": 1785, 
+                    "score": 0.1691695898771286, 
+                    "spot": "government official"
+                }
+            ], 
+            "wiki_id": 77096, 
+            "wiki_title": "Government of Ghana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1799, 
+                    "end": 1802, 
+                    "score": 0.1007997915148735, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1977, 
+                    "end": 1986, 
+                    "score": 0.10705222934484482, 
+                    "spot": "candidate"
+                }, 
+                {
+                    "begin": 2813, 
+                    "end": 2823, 
+                    "score": 0.07338792830705643, 
+                    "spot": "candidates"
+                }
+            ], 
+            "wiki_id": 615670, 
+            "wiki_title": "Candidate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 864, 
+                    "end": 871, 
+                    "score": 0.14439117908477783, 
+                    "spot": "Pizarro"
+                }
+            ], 
+            "wiki_id": 12276684, 
+            "wiki_title": "Harold Bedoya Pizarro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2920, 
+                    "end": 2929, 
+                    "score": 0.3334487974643707, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 271126, 
+            "wiki_title": "President of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2438, 
+                    "end": 2444, 
+                    "score": 0.0007276217802427709, 
+                    "spot": "pushed"
+                }
+            ], 
+            "wiki_id": 1026021, 
+            "wiki_title": "The Black Seeds"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1308, 
+                    "end": 1317, 
+                    "score": 0.13863924145698547, 
+                    "spot": "elections"
+                }
+            ], 
+            "wiki_id": 1378637, 
+            "wiki_title": "Elections in Colombia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1871, 
+                    "end": 1878, 
+                    "score": 0.10848946869373322, 
+                    "spot": "Navarro"
+                }
+            ], 
+            "wiki_id": 1275156, 
+            "wiki_title": "Carlos Arias Navarro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3641, 
+                    "end": 3653, 
+                    "score": 0.12739403545856476, 
+                    "spot": "armed forces"
+                }
+            ], 
+            "wiki_id": 14705, 
+            "wiki_title": "Italian Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 595, 
+                    "end": 601, 
+                    "score": 0.1378004252910614, 
+                    "spot": "member"
+                }
+            ], 
+            "wiki_id": 263678, 
+            "wiki_title": "Member of the Scottish Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1901, 
+                    "end": 1907, 
+                    "score": 0.08777125179767609, 
+                    "spot": "leader"
+                }, 
+                {
+                    "begin": 3955, 
+                    "end": 3961, 
+                    "score": 0.0028222950641065836, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3153, 
+                    "end": 3165, 
+                    "score": 0.13513512909412384, 
+                    "spot": "Alvaro Gomez"
+                }
+            ], 
+            "wiki_id": 49389697, 
+            "wiki_title": "\u00c1lvaro G\u00f3mez (actor)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2321, 
+                    "end": 2335, 
+                    "score": 0.03531598672270775, 
+                    "spot": "militarization"
+                }
+            ], 
+            "wiki_id": 199160, 
+            "wiki_title": "Militarism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 895, 
+                    "end": 902, 
+                    "score": 0.24134370684623718, 
+                    "spot": "leftist"
+                }, 
+                {
+                    "begin": 1460, 
+                    "end": 1467, 
+                    "score": 0.2775506377220154, 
+                    "spot": "leftist"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2607, 
+                    "end": 2615, 
+                    "score": 0.0022842029575258493, 
+                    "spot": "analysts"
+                }
+            ], 
+            "wiki_id": 782266, 
+            "wiki_title": "Financial analyst"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1526, 
+                    "end": 1549, 
+                    "score": 0.02822580561041832, 
+                    "spot": "airport.\n   Authorities"
+                }
+            ], 
+            "wiki_id": 4360638, 
+            "wiki_title": "Airport authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1709, 
+                    "end": 1713, 
+                    "score": 0.0005596246337518096, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 8612307, 
+            "wiki_title": "The Well (1951 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1319, 
+                    "end": 1322, 
+                    "score": 0.03694172576069832, 
+                    "spot": "Sen"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2850, 
+                    "end": 2862, 
+                    "score": 0.14956936240196228, 
+                    "spot": "armed forces"
+                }
+            ], 
+            "wiki_id": 3637, 
+            "wiki_title": "Brazilian Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 361, 
+                    "end": 370, 
+                    "score": 0.15275458991527557, 
+                    "spot": "El Tiempo"
+                }
+            ], 
+            "wiki_id": 2877379, 
+            "wiki_title": "El Tiempo (Colombia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2383, 
+                    "end": 2389, 
+                    "score": 0.01941540464758873, 
+                    "spot": "nerves"
+                }
+            ], 
+            "wiki_id": 922, 
+            "wiki_title": "Anxiety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3569, 
+                    "end": 3582, 
+                    "score": 0.2827361822128296, 
+                    "spot": "Liberal Party"
+                }
+            ], 
+            "wiki_id": 406013, 
+            "wiki_title": "Colombian Liberal Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3807, 
+                    "end": 3811, 
+                    "score": 0.1907275766134262, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3317, 
+                    "score": 0.0073768445290625095, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 981, 
+                    "end": 985, 
+                    "score": 0.009483897127211094, 
+                    "spot": "lead"
+                }
+            ], 
+            "wiki_id": 624074, 
+            "wiki_title": "Lead vocalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3325, 
+                    "score": 0.0016403221525251865, 
+                    "spot": "lost control"
+                }
+            ], 
+            "wiki_id": 12274933, 
+            "wiki_title": "Lost Control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4035, 
+                    "end": 4044, 
+                    "score": 0.09145160019397736, 
+                    "spot": "his party"
+                }
+            ], 
+            "wiki_id": 2016372, 
+            "wiki_title": "Petro Poroshenko Bloc &quot;Solidarity&quot;"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3468, 
+                    "end": 3473, 
+                    "score": 0.1282624900341034, 
+                    "spot": "image"
+                }
+            ], 
+            "wiki_id": 233009, 
+            "wiki_title": "Reputation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 670, 
+                    "end": 677, 
+                    "score": 0.11463216692209244, 
+                    "spot": "capital"
+                }, 
+                {
+                    "begin": 2416, 
+                    "end": 2421, 
+                    "score": 0.06981925666332245, 
+                    "spot": "death"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 241, 
+                    "end": 250, 
+                    "score": 0.10189836472272873, 
+                    "spot": "newspaper"
+                }
+            ], 
+            "wiki_id": 22112840, 
+            "wiki_title": "Newspaper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 431, 
+                    "end": 440, 
+                    "score": 0.5, 
+                    "spot": "the power"
+                }
+            ], 
+            "wiki_id": 8028602, 
+            "wiki_title": "The Power (Snap! song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2369, 
+                    "end": 2378, 
+                    "score": 0.013179684989154339, 
+                    "spot": "shattered"
+                }
+            ], 
+            "wiki_id": 23468350, 
+            "wiki_title": "Shattered (2010 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1082, 
+                    "end": 1089, 
+                    "score": 0.1800059676170349, 
+                    "spot": "Pizarro"
+                }, 
+                {
+                    "begin": 1159, 
+                    "end": 1166, 
+                    "score": 0.16837483644485474, 
+                    "spot": "Pizarro"
+                }, 
+                {
+                    "begin": 1688, 
+                    "end": 1695, 
+                    "score": 0.07238095253705978, 
+                    "spot": "Pizarro"
+                }, 
+                {
+                    "begin": 1823, 
+                    "end": 1830, 
+                    "score": 0.1663365364074707, 
+                    "spot": "Pizarro"
+                }, 
+                {
+                    "begin": 1958, 
+                    "end": 1965, 
+                    "score": 0.07238095253705978, 
+                    "spot": "Pizarro"
+                }, 
+                {
+                    "begin": 2406, 
+                    "end": 2413, 
+                    "score": 0.14642059803009033, 
+                    "spot": "Pizarro"
+                }
+            ], 
+            "wiki_id": 55271, 
+            "wiki_title": "Francisco Pizarro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3593, 
+                    "end": 3598, 
+                    "score": 0.051725756376981735, 
+                    "spot": "Gomez"
+                }
+            ], 
+            "wiki_id": 3242908, 
+            "wiki_title": "Laureano G\u00f3mez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3532, 
+                    "end": 3550, 
+                    "score": 0.309527188539505, 
+                    "spot": "Conservative\nParty"
+                }
+            ], 
+            "wiki_id": 635592, 
+            "wiki_title": "Conservative Party of New York State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 200, 
+                    "end": 208, 
+                    "score": 0.08018867671489716, 
+                    "spot": "jetliner"
+                }, 
+                {
+                    "begin": 1109, 
+                    "end": 1117, 
+                    "score": 0.3230467736721039, 
+                    "spot": "jetliner"
+                }, 
+                {
+                    "begin": 2668, 
+                    "end": 2676, 
+                    "score": 0.12528759241104126, 
+                    "spot": "jetliner"
+                }
+            ], 
+            "wiki_id": 254128, 
+            "wiki_title": "Jet airliner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2226, 
+                    "end": 2234, 
+                    "score": 0.14244437217712402, 
+                    "spot": "Bombings"
+                }
+            ], 
+            "wiki_id": 47628, 
+            "wiki_title": "Bomb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 209, 
+                    "end": 217, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 14104383, 
+            "wiki_title": "The Features"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4287, 
+                    "end": 4295, 
+                    "score": 0.24805951118469238, 
+                    "spot": "minority"
+                }
+            ], 
+            "wiki_id": 437868, 
+            "wiki_title": "Minority group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3459, 
+                    "end": 3467, 
+                    "score": 0.052557557821273804, 
+                    "spot": "pathetic"
+                }
+            ], 
+            "wiki_id": 1009030, 
+            "wiki_title": "Pathos"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2485, 
+                    "end": 2489, 
+                    "score": 0.16365289688110352, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2133, 
+                    "end": 2137, 
+                    "score": 0.05931366607546806, 
+                    "spot": "halt"
+                }
+            ], 
+            "wiki_id": 4073596, 
+            "wiki_title": "Request stop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1127, 
+                    "end": 1135, 
+                    "score": 0.3110922873020172, 
+                    "spot": "took off"
+                }
+            ], 
+            "wiki_id": 165096, 
+            "wiki_title": "Takeoff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1891, 
+                    "end": 1900, 
+                    "score": 0.28416305780410767, 
+                    "spot": "guerrilla"
+                }
+            ], 
+            "wiki_id": 12720, 
+            "wiki_title": "Guerrilla warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 947, 
+                    "end": 953, 
+                    "score": 0.02157181315124035, 
+                    "spot": "afraid"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 280, 
+                    "end": 292, 
+                    "score": 0.009860890917479992, 
+                    "spot": "do something"
+                }
+            ], 
+            "wiki_id": 2327298, 
+            "wiki_title": "Do Something"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1650, 
+                    "end": 1661, 
+                    "score": 0.0707307681441307, 
+                    "spot": "traffickers"
+                }, 
+                {
+                    "begin": 2005, 
+                    "end": 2016, 
+                    "score": 0.16652776300907135, 
+                    "spot": "Traffickers"
+                }
+            ], 
+            "wiki_id": 19333662, 
+            "wiki_title": "Human trafficking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1235, 
+                    "score": 0.3544415235519409, 
+                    "spot": "presidential"
+                }, 
+                {
+                    "begin": 1223, 
+                    "end": 1246, 
+                    "score": 0.38098278641700745, 
+                    "spot": "presidential candidates"
+                }, 
+                {
+                    "begin": 1991, 
+                    "end": 2000, 
+                    "score": 0.17939305305480957, 
+                    "spot": "president"
+                }, 
+                {
+                    "begin": 3128, 
+                    "end": 3140, 
+                    "score": 0.2478129267692566, 
+                    "spot": "presidential"
+                }, 
+                {
+                    "begin": 3128, 
+                    "end": 3151, 
+                    "score": 0.3071931302547455, 
+                    "spot": "presidential candidates"
+                }, 
+                {
+                    "begin": 4047, 
+                    "end": 4069, 
+                    "score": 0.14927731454372406, 
+                    "spot": "presidential candidate"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3515, 
+                    "end": 3527, 
+                    "score": 0.1321236938238144, 
+                    "spot": "candidate of"
+                }
+            ], 
+            "wiki_id": 2739671, 
+            "wiki_title": "Candidate of Sciences"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 877, 
+                    "end": 886, 
+                    "score": 0.0567830353975296, 
+                    "spot": "candidate"
+                }
+            ], 
+            "wiki_id": 1421234, 
+            "wiki_title": "Prospective parliamentary candidate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1061, 
+                    "end": 1076, 
+                    "score": 0.29614174365997314, 
+                    "spot": "suicide mission"
+                }
+            ], 
+            "wiki_id": 17685363, 
+            "wiki_title": "Suicide mission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1288, 
+                    "end": 1296, 
+                    "score": 0.08897631615400314, 
+                    "spot": "campaign"
+                }, 
+                {
+                    "begin": 2155, 
+                    "end": 2163, 
+                    "score": 0.2745380401611328, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 519775, 
+            "wiki_title": "Political campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4258, 
+                    "end": 4282, 
+                    "score": 0.021374044939875603, 
+                    "spot": "political\nrepresentation"
+                }
+            ], 
+            "wiki_id": 2204161, 
+            "wiki_title": "Representation (politics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 685, 
+                    "end": 693, 
+                    "score": 0.04548102617263794, 
+                    "spot": "declined"
+                }
+            ], 
+            "wiki_id": 1084650, 
+            "wiki_title": "Decline and modernization of the Ottoman Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 750, 
+                    "end": 757, 
+                    "score": 0.0018232648726552725, 
+                    "spot": "angered"
+                }
+            ], 
+            "wiki_id": 3701977, 
+            "wiki_title": "Angered"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2105, 
+                    "end": 2116, 
+                    "score": 0.0031313819345086813, 
+                    "spot": "nine months"
+                }
+            ], 
+            "wiki_id": 699336, 
+            "wiki_title": "Nine Months"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2726, 
+                    "end": 2744, 
+                    "score": 0.25181707739830017, 
+                    "spot": "security personnel"
+                }
+            ], 
+            "wiki_id": 19283898, 
+            "wiki_title": "Security guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3240, 
+                    "end": 3255, 
+                    "score": 0.13935227692127228, 
+                    "spot": "security forces"
+                }
+            ], 
+            "wiki_id": 5844475, 
+            "wiki_title": "Palestinian National Security Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2036, 
+                    "end": 2045, 
+                    "score": 0.21607531607151031, 
+                    "spot": "terrorist"
+                }
+            ], 
+            "wiki_id": 30636, 
+            "wiki_title": "Terrorism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 63, 
+                    "end": 68, 
+                    "score": 0.07219674438238144, 
+                    "spot": "third"
+                }
+            ], 
+            "wiki_id": 227177, 
+            "wiki_title": "French Third Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 607, 
+                    "end": 615, 
+                    "score": 0.18279068171977997, 
+                    "spot": "regional"
+                }
+            ], 
+            "wiki_id": 52786, 
+            "wiki_title": "Local government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 264, 
+                    "end": 274, 
+                    "score": 0.07884350419044495, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 542, 
+                    "end": 552, 
+                    "score": 0.07823999971151352, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 2142, 
+                    "end": 2152, 
+                    "score": 0.20840084552764893, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 2525, 
+                    "end": 2535, 
+                    "score": 0.19548480212688446, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3889, 
+                    "end": 3896, 
+                    "score": 0.08221948891878128, 
+                    "spot": "success"
+                }
+            ], 
+            "wiki_id": 613055, 
+            "wiki_title": "1954 Guatemalan coup d'\u00e9tat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3584, 
+                    "end": 3592, 
+                    "score": 0.0007015237933956087, 
+                    "spot": "rejected"
+                }
+            ], 
+            "wiki_id": 1177776, 
+            "wiki_title": "Rejected"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2282, 
+                    "end": 2289, 
+                    "score": 0.16063238680362701, 
+                    "spot": "dollars"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1180, 
+                    "end": 1195, 
+                    "score": 0.344819575548172, 
+                    "spot": "shot and killed"
+                }
+            ], 
+            "wiki_id": 4924254, 
+            "wiki_title": "Assassination of Abraham Lincoln"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2961, 
+                    "end": 2975, 
+                    "score": 0.09679042547941208, 
+                    "spot": "investigations"
+                }
+            ], 
+            "wiki_id": 309754, 
+            "wiki_title": "Investigative journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3775, 
+                    "end": 3786, 
+                    "score": 0.10999999940395355, 
+                    "spot": "late Friday"
+                }
+            ], 
+            "wiki_id": 3577955, 
+            "wiki_title": "Friday Night Videos"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2364, 
+                    "score": 0.06026822328567505, 
+                    "spot": "cities"
+                }
+            ], 
+            "wiki_id": 214461, 
+            "wiki_title": "Cities of Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2464, 
+                    "end": 2469, 
+                    "score": 0.00621182331815362, 
+                    "spot": "limit"
+                }
+            ], 
+            "wiki_id": 505825, 
+            "wiki_title": "Term limit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 488, 
+                    "end": 495, 
+                    "score": 0.003105590119957924, 
+                    "spot": "gravest"
+                }
+            ], 
+            "wiki_id": 323679, 
+            "wiki_title": "Grave"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2863, 
+                    "end": 2867, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 629, 
+                    "end": 638, 
+                    "score": 0.0017163846641778946, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 3031437, 
+            "wiki_title": "Committee on the Rights of the Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3764, 
+                    "end": 3769, 
+                    "score": 0.1900264024734497, 
+                    "spot": "Barco"
+                }
+            ], 
+            "wiki_id": 914057, 
+            "wiki_title": "Carolina Barco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2952, 
+                    "end": 2960, 
+                    "score": 0.16727900505065918, 
+                    "spot": "Official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 700, 
+                    "end": 710, 
+                    "score": 0.15837447345256805, 
+                    "spot": "identified"
+                }
+            ], 
+            "wiki_id": 16862960, 
+            "wiki_title": "Identified"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3963, 
+                    "end": 3986, 
+                    "score": 0.31578946113586426, 
+                    "spot": "Gonzalo Rodriguez Gacha"
+                }, 
+                {
+                    "begin": 3981, 
+                    "end": 3986, 
+                    "score": 0.0555555559694767, 
+                    "spot": "Gacha"
+                }
+            ], 
+            "wiki_id": 8556147, 
+            "wiki_title": "Jos\u00e9 Gonzalo Rodr\u00edguez Gacha"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3172, 
+                    "end": 3178, 
+                    "score": 0.006413811352103949, 
+                    "spot": "Friday"
+                }
+            ], 
+            "wiki_id": 169788, 
+            "wiki_title": "Friday (1995 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2208, 
+                    "end": 2221, 
+                    "score": 0.20575422048568726, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1349, 
+                    "end": 1355, 
+                    "score": 0.057403985410928726, 
+                    "spot": "ruling"
+                }
+            ], 
+            "wiki_id": 743785, 
+            "wiki_title": "Ruling class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3827, 
+                    "end": 3841, 
+                    "score": 0.13859084248542786, 
+                    "spot": "anti-terrorist"
+                }
+            ], 
+            "wiki_id": 83392, 
+            "wiki_title": "Counter-terrorism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4346, 
+                    "end": 4361, 
+                    "score": 0.002016128972172737, 
+                    "spot": "heavily favored"
+                }
+            ], 
+            "wiki_id": 52900, 
+            "wiki_title": "Spread betting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1264, 
+                    "end": 1276, 
+                    "score": 0.1186007410287857, 
+                    "spot": "assassinated"
+                }, 
+                {
+                    "begin": 2789, 
+                    "end": 2803, 
+                    "score": 0.08400599658489227, 
+                    "spot": "assassinations"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1618, 
+                    "end": 1626, 
+                    "score": 0.07245627790689468, 
+                    "spot": "security"
+                }
+            ], 
+            "wiki_id": 41684, 
+            "wiki_title": "Security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3107, 
+                    "end": 3110, 
+                    "score": 0.23359763622283936, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3378, 
+                    "end": 3385, 
+                    "score": 0.05663459375500679, 
+                    "spot": "written"
+                }
+            ], 
+            "wiki_id": 83597, 
+            "wiki_title": "Screenplay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2030, 
+                    "end": 2033, 
+                    "score": 0.09199737757444382, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1579, 
+                    "end": 1595, 
+                    "score": 0.1479204297065735, 
+                    "spot": "drug traffickers"
+                }, 
+                {
+                    "begin": 2189, 
+                    "end": 2193, 
+                    "score": 0.18767359852790833, 
+                    "spot": "drug"
+                }, 
+                {
+                    "begin": 3044, 
+                    "end": 3060, 
+                    "score": 0.12519752979278564, 
+                    "spot": "drug traffickers"
+                }, 
+                {
+                    "begin": 3905, 
+                    "end": 3921, 
+                    "score": 0.19822242856025696, 
+                    "spot": "drug traffickers"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1671, 
+                    "end": 1675, 
+                    "score": 0.0009427641052752733, 
+                    "spot": "main"
+                }
+            ], 
+            "wiki_id": 19745, 
+            "wiki_title": "Main (river)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1611, 
+                    "end": 1617, 
+                    "score": 0.04957791417837143, 
+                    "spot": "citing"
+                }
+            ], 
+            "wiki_id": 97585, 
+            "wiki_title": "Citation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 180, 
+                    "end": 194, 
+                    "score": 0.17499999701976776, 
+                    "spot": "Carlos Pizarro"
+                }
+            ], 
+            "wiki_id": 11039456, 
+            "wiki_title": "Carlos Pizarro Leong\u00f3mez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 16, 
+                    "end": 21, 
+                    "score": 0.057923972606658936, 
+                    "spot": "month"
+                }, 
+                {
+                    "begin": 1506, 
+                    "end": 1511, 
+                    "score": 0.0008726121159270406, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 931, 
+                    "end": 939, 
+                    "score": 0.0007238243706524372, 
+                    "spot": "admitted"
+                }
+            ], 
+            "wiki_id": 235222, 
+            "wiki_title": "Admission to the bar in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3032, 
+                    "end": 3038, 
+                    "score": 0.19251656532287598, 
+                    "spot": "allied"
+                }
+            ], 
+            "wiki_id": 2198844, 
+            "wiki_title": "Allies of World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 119, 
+                    "end": 124, 
+                    "score": 0.0757882297039032, 
+                    "spot": "brink"
+                }
+            ], 
+            "wiki_id": 16567377, 
+            "wiki_title": "Robert ten Brink"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4200, 
+                    "end": 4208, 
+                    "score": 0.16834762692451477, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 557, 
+                    "end": 564, 
+                    "score": 0.0018968133954331279, 
+                    "spot": "no idea"
+                }
+            ], 
+            "wiki_id": 371478, 
+            "wiki_title": "No Idea Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 331, 
+                    "end": 340, 
+                    "score": 0.289374440908432, 
+                    "spot": "President"
+                }
+            ], 
+            "wiki_id": 233913, 
+            "wiki_title": "President of Iran"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1494, 
+                    "end": 1500, 
+                    "score": 0.08788033574819565, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 2064, 
+                    "end": 2070, 
+                    "score": 0.09255465865135193, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2194, 
+                    "end": 2200, 
+                    "score": 0.052196186035871506, 
+                    "spot": "barons"
+                }
+            ], 
+            "wiki_id": 79915, 
+            "wiki_title": "Baron"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4179, 
+                    "end": 4185, 
+                    "score": 0.1715608686208725, 
+                    "spot": "reform"
+                }
+            ], 
+            "wiki_id": 350685, 
+            "wiki_title": "Reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3349, 
+                    "end": 3354, 
+                    "score": 0.051725756376981735, 
+                    "spot": "Gomez"
+                }
+            ], 
+            "wiki_id": 6844407, 
+            "wiki_title": "Selena Gomez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 69, 
+                    "end": 91, 
+                    "score": 0.011765524744987488, 
+                    "spot": "presidential candidate"
+                }
+            ], 
+            "wiki_id": 1926711, 
+            "wiki_title": "Presidential nominee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3880, 
+                    "end": 3888, 
+                    "score": 0.0014256031718105078, 
+                    "spot": "greatest"
+                }
+            ], 
+            "wiki_id": 2550675, 
+            "wiki_title": "The Greatest (1977 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4225, 
+                    "end": 4240, 
+                    "score": 0.21086400747299194, 
+                    "spot": "judicial system"
+                }
+            ], 
+            "wiki_id": 59564, 
+            "wiki_title": "Judiciary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3364, 
+                    "end": 3372, 
+                    "score": 0.0019847871735692024, 
+                    "spot": "proposal"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3197, 
+                    "end": 3201, 
+                    "score": 0.0005750213749706745, 
+                    "spot": "name"
+                }
+            ], 
+            "wiki_id": 144869, 
+            "wiki_title": "Toponymy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 726, 
+                    "end": 732, 
+                    "score": 0.15894325077533722, 
+                    "spot": "afraid"
+                }
+            ], 
+            "wiki_id": 6717281, 
+            "wiki_title": "V (Vanessa Hudgens album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 496, 
+                    "end": 502, 
+                    "score": 0.006936030928045511, 
+                    "spot": "aspect"
+                }
+            ], 
+            "wiki_id": 12948, 
+            "wiki_title": "Grammatical aspect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1556, 
+                    "score": 0.1614515781402588, 
+                    "spot": "blamed"
+                }
+            ], 
+            "wiki_id": 1150894, 
+            "wiki_title": "Victim blaming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3680, 
+                    "end": 3682, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 5333723, 
+            "wiki_title": "If (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3842, 
+                    "end": 3848, 
+                    "score": 0.17436450719833374, 
+                    "spot": "police"
+                }
+            ], 
+            "wiki_id": 23627, 
+            "wiki_title": "Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3079, 
+                    "end": 3089, 
+                    "score": 0.2758881747722626, 
+                    "spot": "right-wing"
+                }
+            ], 
+            "wiki_id": 56522, 
+            "wiki_title": "Right-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2179, 
+                    "end": 2188, 
+                    "score": 0.18426163494586945, 
+                    "spot": "extradite"
+                }
+            ], 
+            "wiki_id": 239648, 
+            "wiki_title": "Extradition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 971, 
+                    "end": 977, 
+                    "score": 0.03721370920538902, 
+                    "spot": "desire"
+                }
+            ], 
+            "wiki_id": 4212126, 
+            "wiki_title": "Desire (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3318, 
+                    "end": 3325, 
+                    "score": 0.10740555822849274, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 20948, 
+            "wiki_title": "Mind control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 648, 
+                    "end": 656, 
+                    "score": 0.4755818843841553, 
+                    "spot": "Medellin"
+                }, 
+                {
+                    "begin": 1723, 
+                    "end": 1738, 
+                    "score": 0.5, 
+                    "spot": "Medellin cartel"
+                }, 
+                {
+                    "begin": 2242, 
+                    "end": 2257, 
+                    "score": 0.7370971441268921, 
+                    "spot": "Medellin cartel"
+                }, 
+                {
+                    "begin": 2339, 
+                    "end": 2347, 
+                    "score": 0.3410194218158722, 
+                    "spot": "Medellin"
+                }, 
+                {
+                    "begin": 3939, 
+                    "end": 3954, 
+                    "score": 0.7100381851196289, 
+                    "spot": "Medellin cartel"
+                }
+            ], 
+            "wiki_id": 357286, 
+            "wiki_title": "Medell\u00edn Cartel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3267, 
+                    "end": 3280, 
+                    "score": 0.11163080483675003, 
+                    "spot": "military coup"
+                }
+            ], 
+            "wiki_id": 25914154, 
+            "wiki_title": "Coup d'\u00e9tat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3015, 
+                    "end": 3027, 
+                    "score": 0.1804659068584442, 
+                    "spot": "armed forces"
+                }
+            ], 
+            "wiki_id": 31730, 
+            "wiki_title": "British Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 925, 
+                    "end": 929, 
+                    "score": 0.175241157412529, 
+                    "spot": "M-19"
+                }
+            ], 
+            "wiki_id": 1245740, 
+            "wiki_title": "19th of April Movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3796, 
+                    "end": 3802, 
+                    "score": 0.15109406411647797, 
+                    "spot": "double"
+                }
+            ], 
+            "wiki_id": 26874, 
+            "wiki_title": "Metric prefix"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 765, 
+                    "end": 775, 
+                    "score": 0.07513315230607986, 
+                    "spot": "statements"
+                }, 
+                {
+                    "begin": 3386, 
+                    "end": 3395, 
+                    "score": 0.19197362661361694, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 304097, 
+            "wiki_title": "Press release"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1878, 
+                    "score": 0.16614963114261627, 
+                    "spot": "Antonio Navarro"
+                }
+            ], 
+            "wiki_id": 9786009, 
+            "wiki_title": "Antonio Navarro Wolff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1381, 
+                    "end": 1385, 
+                    "score": 0.002051425399258733, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 128263, 
+            "wiki_title": "County Down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1356, 
+                    "end": 1369, 
+                    "score": 0.41880694031715393, 
+                    "spot": "Liberal Party"
+                }
+            ], 
+            "wiki_id": 4482, 
+            "wiki_title": "Liberal Party (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1035, 
+                    "end": 1042, 
+                    "score": 0.1822575330734253, 
+                    "spot": "bullets"
+                }
+            ], 
+            "wiki_id": 67679, 
+            "wiki_title": "Bullet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4190, 
+                    "end": 4199, 
+                    "score": 0.19211970269680023, 
+                    "spot": "corrupted"
+                }
+            ], 
+            "wiki_id": 66220, 
+            "wiki_title": "Political corruption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3488, 
+                    "end": 3498, 
+                    "score": 0.30000001192092896, 
+                    "spot": "said Gomez"
+                }
+            ], 
+            "wiki_id": 27656154, 
+            "wiki_title": "Said Gomez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4287, 
+                    "end": 4303, 
+                    "score": 0.23791158199310303, 
+                    "spot": "minority parties"
+                }
+            ], 
+            "wiki_id": 31605, 
+            "wiki_title": "Two-party system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 371, 
+                    "end": 380, 
+                    "score": 0.00772832240909338, 
+                    "spot": "editorial"
+                }
+            ], 
+            "wiki_id": 26513025, 
+            "wiki_title": "Editorial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 179, 
+                    "score": 0.003120686626061797, 
+                    "spot": "candidate"
+                }
+            ], 
+            "wiki_id": 46979246, 
+            "wiki_title": "Donald Trump presidential campaign, 2016"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1301, 
+                    "end": 1307, 
+                    "score": 0.0008704735664650798, 
+                    "spot": "May 27"
+                }
+            ], 
+            "wiki_id": 1864490, 
+            "wiki_title": "May 27 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3849, 
+                    "end": 3853, 
+                    "score": 0.16159790754318237, 
+                    "spot": "unit"
+                }
+            ], 
+            "wiki_id": 6714405, 
+            "wiki_title": "Military organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2479, 
+                    "end": 2489, 
+                    "score": 0.1040131002664566, 
+                    "spot": "first time"
+                }
+            ], 
+            "wiki_id": 33264648, 
+            "wiki_title": "The First Time (Glee)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 302, 
+                    "end": 313, 
+                    "score": 0.061298076063394547, 
+                    "spot": "love of God"
+                }
+            ], 
+            "wiki_id": 13674692, 
+            "wiki_title": "Love of God"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1422, 
+                    "end": 1428, 
+                    "score": 0.6629199981689453, 
+                    "spot": "Bogota"
+                }
+            ], 
+            "wiki_id": 211271, 
+            "wiki_title": "Bogot\u00e1"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4122, 
+                    "end": 4143, 
+                    "score": 0.022304832935333252, 
+                    "spot": "constitutional reform"
+                }
+            ], 
+            "wiki_id": 261586, 
+            "wiki_title": "Constitutional amendment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4158, 
+                    "end": 4165, 
+                    "score": 0.13863039016723633, 
+                    "spot": "reforms"
+                }
+            ], 
+            "wiki_id": 295504, 
+            "wiki_title": "Reform Party of the United States of America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1020, 
+                    "score": 0.02121374011039734, 
+                    "spot": "fear"
+                }
+            ], 
+            "wiki_id": 594295, 
+            "wiki_title": "Fear (1996 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2393, 
+                    "end": 2401, 
+                    "score": 0.060954079031944275, 
+                    "spot": "citizens"
+                }
+            ], 
+            "wiki_id": 25151566, 
+            "wiki_title": "Citizenship in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1418, 
+                    "score": 0.14244915544986725, 
+                    "spot": "political\nrally"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 103, 
+                    "end": 111, 
+                    "score": 0.5253068804740906, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 506, 
+                    "end": 514, 
+                    "score": 0.4140835702419281, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 986, 
+                    "end": 994, 
+                    "score": 0.4470180571079254, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 1099, 
+                    "end": 1108, 
+                    "score": 0.14684587717056274, 
+                    "spot": "Colombian"
+                }, 
+                {
+                    "begin": 2839, 
+                    "end": 2847, 
+                    "score": 0.42874664068222046, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 3229, 
+                    "end": 3237, 
+                    "score": 0.4456899166107178, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 3743, 
+                    "end": 3751, 
+                    "score": 0.4443948566913605, 
+                    "spot": "Colombia"
+                }, 
+                {
+                    "begin": 4098, 
+                    "end": 4106, 
+                    "score": 0.43289533257484436, 
+                    "spot": "Colombia"
+                }
+            ], 
+            "wiki_id": 5222, 
+            "wiki_title": "Colombia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 223, 
+                    "end": 230, 
+                    "score": 0.14061188697814941, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 2449, 
+                    "end": 2456, 
+                    "score": 0.05824475735425949, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 3069, 
+                    "end": 3076, 
+                    "score": 0.17791862785816193, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 3118, 
+                    "end": 3125, 
+                    "score": 0.16365952789783478, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3184, 
+                    "end": 3189, 
+                    "score": 0.09546313434839249, 
+                    "spot": "Barco"
+                }, 
+                {
+                    "begin": 3303, 
+                    "end": 3308, 
+                    "score": 0.09546313434839249, 
+                    "spot": "Barco"
+                }, 
+                {
+                    "begin": 3555, 
+                    "end": 3560, 
+                    "score": 0.09546313434839249, 
+                    "spot": "Barco"
+                }, 
+                {
+                    "begin": 4025, 
+                    "end": 4030, 
+                    "score": 0.09546313434839249, 
+                    "spot": "Barco"
+                }
+            ], 
+            "wiki_id": 769604, 
+            "wiki_title": "Barco (manufacturer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2703, 
+                    "end": 2713, 
+                    "score": 0.16429905593395233, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 25318118, 
+            "wiki_title": "Government of the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1468, 
+                    "end": 1489, 
+                    "score": 0.46875, 
+                    "spot": "Patriotic\nUnion Party"
+                }
+            ], 
+            "wiki_id": 1608679, 
+            "wiki_title": "Patriotic Union (Colombia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3090, 
+                    "end": 3102, 
+                    "score": 0.30524465441703796, 
+                    "spot": "death squads"
+                }
+            ], 
+            "wiki_id": 123443, 
+            "wiki_title": "Death squad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2046, 
+                    "end": 2054, 
+                    "score": 0.13128432631492615, 
+                    "spot": "campaign"
+                }
+            ], 
+            "wiki_id": 1787172, 
+            "wiki_title": "Military campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 138, 
+                    "end": 143, 
+                    "score": 0.0900808721780777, 
+                    "spot": "chaos"
+                }
+            ], 
+            "wiki_id": 6295, 
+            "wiki_title": "Chaos theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1169, 
+                    "end": 1179, 
+                    "score": 0.11386142671108246, 
+                    "spot": "bodyguards"
+                }
+            ], 
+            "wiki_id": 146695, 
+            "wiki_title": "Bodyguard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4091, 
+                    "end": 4097, 
+                    "score": 0.01010644156485796, 
+                    "spot": "linked"
+                }
+            ], 
+            "wiki_id": 970755, 
+            "wiki_title": "LinkedIn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1077, 
+                    "end": 1081, 
+                    "score": 0.10455130785703659, 
+                    "spot": "shot"
+                }
+            ], 
+            "wiki_id": 87208, 
+            "wiki_title": "Execution by firing squad"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2308, 
+                    "score": 0.11530951410531998, 
+                    "spot": "property damage"
+                }
+            ], 
+            "wiki_id": 46698, 
+            "wiki_title": "Property damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 294, 
+                    "end": 313, 
+                    "score": 0.22083333134651184, 
+                    "spot": "for the love of God"
+                }
+            ], 
+            "wiki_id": 11540170, 
+            "wiki_title": "For the Love of God"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2552, 
+                    "end": 2563, 
+                    "score": 0.17949454486370087, 
+                    "spot": "compromised"
+                }
+            ], 
+            "wiki_id": 40936, 
+            "wiki_title": "Compromise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3502, 
+                    "end": 3524, 
+                    "score": 0.2744970917701721, 
+                    "spot": "presidential candidate"
+                }
+            ], 
+            "wiki_id": 7688465, 
+            "wiki_title": "Ukrainian presidential election, 2010"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4071, 
+                    "end": 4084, 
+                    "score": 0.43939393758773804, 
+                    "spot": "Cesar\nGaviria"
+                }, 
+                {
+                    "begin": 4335, 
+                    "end": 4342, 
+                    "score": 0.11389560252428055, 
+                    "spot": "Gaviria"
+                }
+            ], 
+            "wiki_id": 162749, 
+            "wiki_title": "C\u00e9sar Gaviria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 862, 
+                    "score": 0.038239769637584686, 
+                    "spot": "interviews"
+                }
+            ], 
+            "wiki_id": 236975, 
+            "wiki_title": "Interview"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2100, 
+                    "end": 2104, 
+                    "score": 0.0006291924510151148, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 215103, 
+            "wiki_title": "Preterite"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4171, 
+                    "end": 4175, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 50020, 
+            "wiki_title": "Hope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1676, 
+                    "end": 1684, 
+                    "score": 0.0018666214309632778, 
+                    "spot": "suspects"
+                }
+            ], 
+            "wiki_id": 42509986, 
+            "wiki_title": "Suspects (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1698, 
+                    "end": 1705, 
+                    "score": 0.07372194528579712, 
+                    "spot": "killing"
+                }, 
+                {
+                    "begin": 2571, 
+                    "end": 2578, 
+                    "score": 0.15055020153522491, 
+                    "spot": "killing"
+                }, 
+                {
+                    "begin": 3930, 
+                    "end": 3936, 
+                    "score": 0.26588234305381775, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2901, 
+                    "end": 2914, 
+                    "score": 0.2827361822128296, 
+                    "spot": "Liberal Party"
+                }
+            ], 
+            "wiki_id": 863874, 
+            "wiki_title": "Liberal Party (Philippines)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1386, 
+                    "end": 1390, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }, 
+                {
+                    "begin": 1501, 
+                    "end": 1505, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }, 
+                {
+                    "begin": 4002, 
+                    "end": 4006, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 454, 
+                    "end": 475, 
+                    "score": 0.1304347813129425, 
+                    "spot": "country's dissolution"
+                }
+            ], 
+            "wiki_id": 2060900, 
+            "wiki_title": "Breakup of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2270, 
+                    "end": 2278, 
+                    "score": 0.10839316993951797, 
+                    "spot": "millions"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3000, 
+                    "end": 3007, 
+                    "score": 0.1204862967133522, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 10890716, 
+            "wiki_title": "Member state of the European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3477, 
+                    "end": 3484, 
+                    "score": 0.21669477224349976, 
+                    "spot": "anarchy"
+                }
+            ], 
+            "wiki_id": 27097632, 
+            "wiki_title": "Anarchy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2756, 
+                    "end": 2765, 
+                    "score": 0.03233666345477104, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24110, 
+            "wiki_title": "President"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1434, 
+                    "end": 1452, 
+                    "score": 0.3034071922302246, 
+                    "spot": "Bernardo Jaramillo"
+                }
+            ], 
+            "wiki_id": 11215152, 
+            "wiki_title": "Bernardo Jaramillo Ossa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3214, 
+                    "end": 3221, 
+                    "score": 0.0019687588792294264, 
+                    "spot": "council"
+                }
+            ], 
+            "wiki_id": 3713657, 
+            "wiki_title": "Privy Council of Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2718, 
+                    "end": 2734, 
+                    "score": 0.3155861794948578, 
+                    "spot": "airport security"
+                }
+            ], 
+            "wiki_id": 284770, 
+            "wiki_title": "Airport security"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1854, 
+                    "end": 1862, 
+                    "score": 0.06432956457138062, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 28809, 
+            "wiki_title": "Shabbat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2082, 
+                    "end": 2092, 
+                    "score": 0.09698580950498581, 
+                    "spot": "Colombians"
+                }
+            ], 
+            "wiki_id": 7941778, 
+            "wiki_title": "Colombians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3409, 
+                    "end": 3414, 
+                    "score": 0.17027512192726135, 
+                    "spot": "press"
+                }
+            ], 
+            "wiki_id": 15928, 
+            "wiki_title": "Journalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3731, 
+                    "end": 3739, 
+                    "score": 0.09192083030939102, 
+                    "spot": "solution"
+                }
+            ], 
+            "wiki_id": 28729, 
+            "wiki_title": "Solution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3225, 
+                    "end": 3228, 
+                    "score": 0.023546388372778893, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 704498, 
+            "wiki_title": "Bank run"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2167, 
+                    "end": 2174, 
+                    "score": 0.15623657405376434, 
+                    "spot": "capture"
+                }
+            ], 
+            "wiki_id": 2580053, 
+            "wiki_title": "Regulatory capture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 389, 
+                    "end": 402, 
+                    "score": 0.03399433568120003, 
+                    "spot": "In your hands"
+                }, 
+                {
+                    "begin": 413, 
+                    "end": 426, 
+                    "score": 0.03399433568120003, 
+                    "spot": "in your hands"
+                }
+            ], 
+            "wiki_id": 37433619, 
+            "wiki_title": "In Your Hands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3335, 
+                    "end": 3347, 
+                    "score": 0.08759079873561859, 
+                    "spot": "armed forces"
+                }, 
+                {
+                    "begin": 3722, 
+                    "end": 3730, 
+                    "score": 0.08307001739740372, 
+                    "spot": "military"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4362, 
+                    "end": 4368, 
+                    "score": 0.5, 
+                    "spot": "to win"
+                }
+            ], 
+            "wiki_id": 18663453, 
+            "wiki_title": "To\u0142win"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4109, 
+                    "end": 4118, 
+                    "score": 0.06614024937152863, 
+                    "spot": "salvation"
+                }
+            ], 
+            "wiki_id": 29473, 
+            "wiki_title": "Salvation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1324, 
+                    "end": 1341, 
+                    "score": 0.5, 
+                    "spot": "Luis Carlos Galan"
+                }
+            ], 
+            "wiki_id": 907223, 
+            "wiki_title": "Luis Carlos Gal\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3993, 
+                    "end": 4001, 
+                    "score": 0.015909090638160706, 
+                    "spot": "gunfight"
+                }
+            ], 
+            "wiki_id": 551678, 
+            "wiki_title": "Gunfighter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 517, 
+                    "end": 529, 
+                    "score": 0.20671378076076508, 
+                    "spot": "bloodletting"
+                }
+            ], 
+            "wiki_id": 64196, 
+            "wiki_title": "Bloodletting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2689, 
+                    "end": 2699, 
+                    "score": 0.1742442548274994, 
+                    "spot": "complicity"
+                }
+            ], 
+            "wiki_id": 5204453, 
+            "wiki_title": "Complicity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 564, 
+                    "score": 0.05732371658086777, 
+                    "spot": "idea"
+                }
+            ], 
+            "wiki_id": 161999, 
+            "wiki_title": "Idea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 341, 
+                    "end": 355, 
+                    "score": 0.589599609375, 
+                    "spot": "Virgilio Barco"
+                }
+            ], 
+            "wiki_id": 915883, 
+            "wiki_title": "Virgilio Barco Vargas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 38, 
+                    "score": 0.08770782500505447, 
+                    "spot": "elections"
+                }, 
+                {
+                    "begin": 4328, 
+                    "end": 4333, 
+                    "score": 0.21917787194252014, 
+                    "spot": "polls"
+                }, 
+                {
+                    "begin": 4373, 
+                    "end": 4395, 
+                    "score": 0.04116913303732872, 
+                    "spot": "presidential elections"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2774, 
+                    "end": 2779, 
+                    "score": 0.04067770019173622, 
+                    "spot": "Lopez"
+                }, 
+                {
+                    "begin": 2887, 
+                    "end": 2892, 
+                    "score": 0.04067770019173622, 
+                    "spot": "Lopez"
+                }
+            ], 
+            "wiki_id": 451975, 
+            "wiki_title": "Francisco Solano L\u00f3pez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 158, 
+                    "end": 166, 
+                    "score": 0.03711237013339996, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 933117, 
+            "wiki_title": "Filmmaking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1336, 
+                    "end": 1341, 
+                    "score": 0.06241331622004509, 
+                    "spot": "Galan"
+                }
+            ], 
+            "wiki_id": 5907750, 
+            "wiki_title": "Gal\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 128, 
+                    "end": 137, 
+                    "score": 0.08562099188566208, 
+                    "spot": "political"
+                }, 
+                {
+                    "begin": 2499, 
+                    "end": 2510, 
+                    "score": 0.13793548941612244, 
+                    "spot": "politicians"
+                }, 
+                {
+                    "begin": 2591, 
+                    "end": 2602, 
+                    "score": 0.11559947580099106, 
+                    "spot": "politicians"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 669, 
+                    "score": 0.4087272882461548, 
+                    "spot": "cocaine"
+                }
+            ], 
+            "wiki_id": 7701, 
+            "wiki_title": "Cocaine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 577, 
+                    "end": 581, 
+                    "score": 0.001639113062992692, 
+                    "spot": "slow"
+                }
+            ], 
+            "wiki_id": 28748, 
+            "wiki_title": "Speed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 616, 
+                    "end": 638, 
+                    "score": 0.10105263441801071, 
+                    "spot": "human rights committee"
+                }
+            ], 
+            "wiki_id": 165471, 
+            "wiki_title": "United Nations Human Rights Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 96, 
+                    "end": 102, 
+                    "score": 0.05747751519083977, 
+                    "spot": "pushed"
+                }
+            ], 
+            "wiki_id": 577975, 
+            "wiki_title": "Understeer and oversteer"
+        }
+    ]
+}

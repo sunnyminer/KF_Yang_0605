@@ -1,0 +1,5176 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 5853, 
+                    "end": 5861, 
+                    "score": 0.20413097739219666, 
+                    "spot": "autonomy"
+                }
+            ], 
+            "wiki_id": 191145, 
+            "wiki_title": "Autonomy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6510, 
+                    "end": 6519, 
+                    "score": 0.28176185488700867, 
+                    "spot": "Communist"
+                }
+            ], 
+            "wiki_id": 9209651, 
+            "wiki_title": "Communism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4367, 
+                    "end": 4374, 
+                    "score": 0.02777777798473835, 
+                    "spot": "we want"
+                }
+            ], 
+            "wiki_id": 17916850, 
+            "wiki_title": "We Want In: The Street LP"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3082, 
+                    "end": 3091, 
+                    "score": 0.009509420953691006, 
+                    "spot": "policemen"
+                }
+            ], 
+            "wiki_id": 310240, 
+            "wiki_title": "Police officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 363, 
+                    "end": 372, 
+                    "score": 0.20930854976177216, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 4679, 
+                    "end": 4687, 
+                    "score": 0.17130571603775024, 
+                    "spot": "republic"
+                }, 
+                {
+                    "begin": 6452, 
+                    "end": 6461, 
+                    "score": 0.17605461180210114, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 6563, 
+                    "end": 6571, 
+                    "score": 0.16849718987941742, 
+                    "spot": "republic"
+                }, 
+                {
+                    "begin": 6773, 
+                    "end": 6782, 
+                    "score": 0.29236581921577454, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 7118, 
+                    "end": 7127, 
+                    "score": 0.1159895732998848, 
+                    "spot": "republics"
+                }
+            ], 
+            "wiki_id": 25536, 
+            "wiki_title": "Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5556, 
+                    "end": 5564, 
+                    "score": 0.09533058851957321, 
+                    "spot": "appealed"
+                }
+            ], 
+            "wiki_id": 35925403, 
+            "wiki_title": "Appeal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7107, 
+                    "end": 7117, 
+                    "score": 0.10683543980121613, 
+                    "spot": "wealthiest"
+                }
+            ], 
+            "wiki_id": 370432, 
+            "wiki_title": "Economic inequality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2780, 
+                    "end": 2785, 
+                    "score": 0.05350031703710556, 
+                    "spot": "watch"
+                }
+            ], 
+            "wiki_id": 60883, 
+            "wiki_title": "Watch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4088, 
+                    "end": 4094, 
+                    "score": 0.0005411591264419258, 
+                    "spot": "turned"
+                }
+            ], 
+            "wiki_id": 597215, 
+            "wiki_title": "Open-mid back rounded vowel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2331, 
+                    "end": 2336, 
+                    "score": 0.24082328379154205, 
+                    "spot": "rifle"
+                }
+            ], 
+            "wiki_id": 25456, 
+            "wiki_title": "Rifle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2436, 
+                    "end": 2440, 
+                    "score": 0.029220981523394585, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4779, 
+                    "end": 4786, 
+                    "score": 0.09943855553865433, 
+                    "spot": "trained"
+                }
+            ], 
+            "wiki_id": 156423, 
+            "wiki_title": "Training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2729, 
+                    "end": 2738, 
+                    "score": 0.3368428647518158, 
+                    "spot": "Civil War"
+                }
+            ], 
+            "wiki_id": 7085, 
+            "wiki_title": "Civil war"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4659, 
+                    "end": 4665, 
+                    "score": 0.10444444417953491, 
+                    "spot": "desert"
+                }
+            ], 
+            "wiki_id": 488824, 
+            "wiki_title": "Desertion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2389, 
+                    "end": 2400, 
+                    "score": 0.24902306497097015, 
+                    "spot": "projectiles"
+                }
+            ], 
+            "wiki_id": 144553, 
+            "wiki_title": "Projectile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1506, 
+                    "end": 1513, 
+                    "score": 0.2284124791622162, 
+                    "spot": "defense"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1949, 
+                    "end": 1954, 
+                    "score": 0.1333659142255783, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 28789929, 
+            "wiki_title": "Football League First Division"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2233, 
+                    "end": 2241, 
+                    "score": 0.004604486282914877, 
+                    "spot": "wound\nup"
+                }
+            ], 
+            "wiki_id": 565034, 
+            "wiki_title": "Liquidation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6739, 
+                    "end": 6745, 
+                    "score": 0.3333333432674408, 
+                    "spot": "looser"
+                }
+            ], 
+            "wiki_id": 21673448, 
+            "wiki_title": "Gualterio Looser"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1903, 
+                    "end": 1918, 
+                    "score": 0.20722027122974396, 
+                    "spot": "had\nbeen killed"
+                }, 
+                {
+                    "begin": 1912, 
+                    "end": 1918, 
+                    "score": 0.16779717803001404, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 7746616, 
+            "wiki_title": "Death of Osama bin Laden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7441, 
+                    "end": 7463, 
+                    "score": 0.5206946730613708, 
+                    "spot": "gross\nnational product"
+                }
+            ], 
+            "wiki_id": 3386271, 
+            "wiki_title": "Gross national product"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 720, 
+                    "end": 724, 
+                    "score": 0.12125211954116821, 
+                    "spot": "main"
+                }
+            ], 
+            "wiki_id": 19745, 
+            "wiki_title": "Main (river)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2531, 
+                    "end": 2536, 
+                    "score": 0.0011975424131378531, 
+                    "spot": "dozen"
+                }, 
+                {
+                    "begin": 3046, 
+                    "end": 3051, 
+                    "score": 0.0011975424131378531, 
+                    "spot": "dozen"
+                }
+            ], 
+            "wiki_id": 208154, 
+            "wiki_title": "Dozen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6982, 
+                    "end": 6995, 
+                    "score": 0.10017506033182144, 
+                    "spot": "discriminated"
+                }
+            ], 
+            "wiki_id": 8900, 
+            "wiki_title": "Discrimination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7011, 
+                    "end": 7030, 
+                    "score": 0.2073954939842224, 
+                    "spot": "Croatian\ngovernment"
+                }
+            ], 
+            "wiki_id": 735074, 
+            "wiki_title": "Croatian Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5104, 
+                    "end": 5117, 
+                    "score": 0.008849557489156723, 
+                    "spot": "two republics"
+                }, 
+                {
+                    "begin": 6051, 
+                    "end": 6064, 
+                    "score": 0.008849557489156723, 
+                    "spot": "two republics"
+                }
+            ], 
+            "wiki_id": 22171962, 
+            "wiki_title": "Two Republics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4494, 
+                    "end": 4501, 
+                    "score": 0.10589171200990677, 
+                    "spot": "address"
+                }
+            ], 
+            "wiki_id": 37081, 
+            "wiki_title": "State of the Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5971, 
+                    "end": 5974, 
+                    "score": 0.04559066891670227, 
+                    "spot": "won"
+                }
+            ], 
+            "wiki_id": 372769, 
+            "wiki_title": "Treaty of K\u00fc\u00e7\u00fck Kaynarca"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4437, 
+                    "end": 4448, 
+                    "score": 0.7599433660507202, 
+                    "spot": "Milan Kucan"
+                }
+            ], 
+            "wiki_id": 429893, 
+            "wiki_title": "Milan Ku\u010dan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1500, 
+                    "end": 1505, 
+                    "score": 0.16110722720623016, 
+                    "spot": "local"
+                }, 
+                {
+                    "begin": 4167, 
+                    "end": 4172, 
+                    "score": 0.06003827601671219, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 52786, 
+            "wiki_title": "Local government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4029, 
+                    "end": 4038, 
+                    "score": 0.25951772928237915, 
+                    "spot": "slingshot"
+                }
+            ], 
+            "wiki_id": 28422, 
+            "wiki_title": "Slingshot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4873, 
+                    "end": 4878, 
+                    "score": 0.020808888599276543, 
+                    "spot": "match"
+                }
+            ], 
+            "wiki_id": 18723138, 
+            "wiki_title": "Game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 178, 
+                    "end": 182, 
+                    "score": 0.0889512225985527, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 676811, 
+            "wiki_title": "Conflagration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1416, 
+                    "end": 1422, 
+                    "score": 0.20033802092075348, 
+                    "spot": "at war"
+                }
+            ], 
+            "wiki_id": 18762503, 
+            "wiki_title": "Russo-Georgian War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5814, 
+                    "end": 5823, 
+                    "score": 0.11049758642911911, 
+                    "spot": "breakaway"
+                }
+            ], 
+            "wiki_id": 28015664, 
+            "wiki_title": "Breakaway (radio programme)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1715, 
+                    "end": 1730, 
+                    "score": 0.19473683834075928, 
+                    "spot": "shattered glass"
+                }
+            ], 
+            "wiki_id": 594488, 
+            "wiki_title": "Shattered Glass (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3584, 
+                    "end": 3604, 
+                    "score": 0.01365409605205059, 
+                    "spot": "early in the morning"
+                }
+            ], 
+            "wiki_id": 1684889, 
+            "wiki_title": "Early in the Morning (Gap Band song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6131, 
+                    "end": 6135, 
+                    "score": 0.014646453782916069, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 2795, 
+            "wiki_title": "Australian Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6746, 
+                    "end": 6759, 
+                    "score": 0.1702345311641693, 
+                    "spot": "confederation"
+                }
+            ], 
+            "wiki_id": 227091, 
+            "wiki_title": "Confederation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 59, 
+                    "end": 66, 
+                    "score": 0.030733082443475723, 
+                    "spot": "manning"
+                }
+            ], 
+            "wiki_id": 134449, 
+            "wiki_title": "Manning, South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3728, 
+                    "end": 3733, 
+                    "score": 0.00427321158349514, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 20180, 
+            "wiki_title": "Musical ensemble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4220, 
+                    "end": 4228, 
+                    "score": 0.02758779749274254, 
+                    "spot": "mountain"
+                }
+            ], 
+            "wiki_id": 37754, 
+            "wiki_title": "Mountain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3115, 
+                    "end": 3119, 
+                    "score": 0.3104321360588074, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 2530489, 
+            "wiki_title": "Side dish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4025, 
+                    "end": 4028, 
+                    "score": 0.17464053630828857, 
+                    "spot": "toy"
+                }
+            ], 
+            "wiki_id": 149920, 
+            "wiki_title": "Toy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2581, 
+                    "end": 2588, 
+                    "score": 0.1256609559059143, 
+                    "spot": "windows"
+                }
+            ], 
+            "wiki_id": 18890, 
+            "wiki_title": "Microsoft Windows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2307, 
+                    "end": 2314, 
+                    "score": 0.009380863048136234, 
+                    "spot": "rattled"
+                }
+            ], 
+            "wiki_id": 1633386, 
+            "wiki_title": "Traveling Wilburys Vol. 1"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7337, 
+                    "end": 7341, 
+                    "score": 0.0794595330953598, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 6412297, 
+            "wiki_title": "5 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6282, 
+                    "end": 6287, 
+                    "score": 0.0006621263455599546, 
+                    "spot": "seize"
+                }
+            ], 
+            "wiki_id": 1444259, 
+            "wiki_title": "Seize (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2684, 
+                    "end": 2693, 
+                    "score": 0.1875, 
+                    "spot": "The scene"
+                }
+            ], 
+            "wiki_id": 1634555, 
+            "wiki_title": "The Scene (miniseries)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3558, 
+                    "end": 3564, 
+                    "score": 0.11446937173604965, 
+                    "spot": "safely"
+                }
+            ], 
+            "wiki_id": 252712, 
+            "wiki_title": "Safety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1376, 
+                    "end": 1382, 
+                    "score": 0.0005062009440734982, 
+                    "spot": "downed"
+                }
+            ], 
+            "wiki_id": 962449, 
+            "wiki_title": "Down (gridiron football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 912, 
+                    "end": 921, 
+                    "score": 0.5, 
+                    "spot": "the\npilot"
+                }
+            ], 
+            "wiki_id": 5073006, 
+            "wiki_title": "The Pilot (Seinfeld)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3380, 
+                    "end": 3392, 
+                    "score": 0.06505521386861801, 
+                    "spot": "consequences"
+                }
+            ], 
+            "wiki_id": 5734, 
+            "wiki_title": "Consequentialism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3670, 
+                    "end": 3674, 
+                    "score": 0.09992427378892899, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 40537182, 
+            "wiki_title": "The Come On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 386, 
+                    "score": 0.21684975922107697, 
+                    "spot": "unilaterally"
+                }
+            ], 
+            "wiki_id": 607637, 
+            "wiki_title": "Unilateralism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1526, 
+                    "end": 1536, 
+                    "score": 0.003383227391168475, 
+                    "spot": "patrolling"
+                }
+            ], 
+            "wiki_id": 576232, 
+            "wiki_title": "Patrolling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2606, 
+                    "end": 2613, 
+                    "score": 0.003267481457442045, 
+                    "spot": "weapons"
+                }
+            ], 
+            "wiki_id": 33496, 
+            "wiki_title": "Weapon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 234, 
+                    "end": 245, 
+                    "score": 0.12567539513111115, 
+                    "spot": "surrendered"
+                }
+            ], 
+            "wiki_id": 2998260, 
+            "wiki_title": "Armistice of Cassibile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5451, 
+                    "end": 5459, 
+                    "score": 0.001408450654707849, 
+                    "spot": "withhold"
+                }
+            ], 
+            "wiki_id": 2196805, 
+            "wiki_title": "Withholding tax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3350, 
+                    "end": 3356, 
+                    "score": 0.16637758910655975, 
+                    "spot": "action"
+                }
+            ], 
+            "wiki_id": 48778, 
+            "wiki_title": "Action theory (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6962, 
+                    "end": 6972, 
+                    "score": 0.06384573876857758, 
+                    "spot": "population"
+                }
+            ], 
+            "wiki_id": 14598, 
+            "wiki_title": "Demographics of India"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4213, 
+                    "end": 4215, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 11659396, 
+            "wiki_title": "Up (2009 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5437, 
+                    "end": 5447, 
+                    "score": 0.005491473712027073, 
+                    "spot": "threatened"
+                }
+            ], 
+            "wiki_id": 478706, 
+            "wiki_title": "Threatened species"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5634, 
+                    "end": 5642, 
+                    "score": 0.09012362360954285, 
+                    "spot": "national"
+                }, 
+                {
+                    "begin": 6669, 
+                    "end": 6680, 
+                    "score": 0.26805418729782104, 
+                    "spot": "nationalist"
+                }
+            ], 
+            "wiki_id": 21748, 
+            "wiki_title": "Nationalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1445, 
+                    "end": 1457, 
+                    "score": 0.0044052861630916595, 
+                    "spot": "news service"
+                }
+            ], 
+            "wiki_id": 47917, 
+            "wiki_title": "News agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 456, 
+                    "score": 0.1393638253211975, 
+                    "spot": "mobilized"
+                }
+            ], 
+            "wiki_id": 451461, 
+            "wiki_title": "Mobilization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4047, 
+                    "end": 4049, 
+                    "score": 0.012069689109921455, 
+                    "spot": "ll"
+                }
+            ], 
+            "wiki_id": 370192, 
+            "wiki_title": "Ll"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2233, 
+                    "end": 2238, 
+                    "score": 0.05141377076506615, 
+                    "spot": "wound"
+                }
+            ], 
+            "wiki_id": 338154, 
+            "wiki_title": "Wound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 268, 
+                    "end": 274, 
+                    "score": 0.033211518079042435, 
+                    "spot": "closer"
+                }
+            ], 
+            "wiki_id": 12453703, 
+            "wiki_title": "Closer (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7169, 
+                    "end": 7172, 
+                    "score": 0.10489801317453384, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4845, 
+                    "end": 4849, 
+                    "score": 0.09328719973564148, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 215103, 
+            "wiki_title": "Preterite"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4181, 
+                    "end": 4196, 
+                    "score": 0.4938116669654846, 
+                    "spot": "mountain rescue"
+                }, 
+                {
+                    "begin": 4181, 
+                    "end": 4201, 
+                    "score": 0.5514018535614014, 
+                    "spot": "mountain rescue\nteam"
+                }
+            ], 
+            "wiki_id": 208334, 
+            "wiki_title": "Mountain rescue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3052, 
+                    "end": 3060, 
+                    "score": 0.13822442293167114, 
+                    "spot": "Austrian"
+                }
+            ], 
+            "wiki_id": 266894, 
+            "wiki_title": "Austrian Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 416, 
+                    "end": 434, 
+                    "score": 0.1546037793159485, 
+                    "spot": "federal government"
+                }, 
+                {
+                    "begin": 6211, 
+                    "end": 6218, 
+                    "score": 0.20571917295455933, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3337, 
+                    "end": 3345, 
+                    "score": 0.0008103727595880628, 
+                    "spot": "watching"
+                }
+            ], 
+            "wiki_id": 1492414, 
+            "wiki_title": "Watching"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 536, 
+                    "end": 550, 
+                    "score": 0.27638378739356995, 
+                    "spot": "regular troops"
+                }
+            ], 
+            "wiki_id": 12928085, 
+            "wiki_title": "Regular army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 747, 
+                    "end": 754, 
+                    "score": 0.6304432153701782, 
+                    "spot": "Austria"
+                }, 
+                {
+                    "begin": 2064, 
+                    "end": 2071, 
+                    "score": 0.32677724957466125, 
+                    "spot": "Austria"
+                }, 
+                {
+                    "begin": 2893, 
+                    "end": 2900, 
+                    "score": 0.40941399335861206, 
+                    "spot": "Austria"
+                }
+            ], 
+            "wiki_id": 26964606, 
+            "wiki_title": "Austria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1672, 
+                    "end": 1677, 
+                    "score": 0.01044140849262476, 
+                    "spot": "trail"
+                }
+            ], 
+            "wiki_id": 1315222, 
+            "wiki_title": "Rail trail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1172, 
+                    "end": 1182, 
+                    "score": 0.15547628700733185, 
+                    "spot": "television"
+                }, 
+                {
+                    "begin": 4483, 
+                    "end": 4493, 
+                    "score": 0.06040557473897934, 
+                    "spot": "television"
+                }
+            ], 
+            "wiki_id": 29831, 
+            "wiki_title": "Television"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 498, 
+                    "end": 503, 
+                    "score": 0.23416724801063538, 
+                    "spot": "tanks"
+                }, 
+                {
+                    "begin": 2213, 
+                    "end": 2218, 
+                    "score": 0.16088974475860596, 
+                    "spot": "tanks"
+                }, 
+                {
+                    "begin": 5006, 
+                    "end": 5011, 
+                    "score": 0.4006085693836212, 
+                    "spot": "tanks"
+                }
+            ], 
+            "wiki_id": 29970, 
+            "wiki_title": "Tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2149, 
+                    "end": 2161, 
+                    "score": 0.17167213559150696, 
+                    "spot": "in the woods"
+                }, 
+                {
+                    "begin": 2156, 
+                    "end": 2161, 
+                    "score": 0.18265894055366516, 
+                    "spot": "woods"
+                }
+            ], 
+            "wiki_id": 1533329, 
+            "wiki_title": "In the Woods..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6026, 
+                    "end": 6039, 
+                    "score": 0.0896361917257309, 
+                    "spot": "Tuesday night"
+                }
+            ], 
+            "wiki_id": 30708651, 
+            "wiki_title": "Josh Abbott Band"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 387, 
+                    "end": 394, 
+                    "score": 0.26940008997917175, 
+                    "spot": "seceded"
+                }, 
+                {
+                    "begin": 614, 
+                    "end": 632, 
+                    "score": 0.04485052824020386, 
+                    "spot": "breakaway republic"
+                }, 
+                {
+                    "begin": 5814, 
+                    "end": 5833, 
+                    "score": 0.05432424321770668, 
+                    "spot": "breakaway republics"
+                }
+            ], 
+            "wiki_id": 144732, 
+            "wiki_title": "Secession"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4288, 
+                    "end": 4293, 
+                    "score": 0.001995416358113289, 
+                    "spot": "shots"
+                }
+            ], 
+            "wiki_id": 684649, 
+            "wiki_title": "Gunshot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5580, 
+                    "end": 5590, 
+                    "score": 0.005786163732409477, 
+                    "spot": "find a way"
+                }
+            ], 
+            "wiki_id": 4528381, 
+            "wiki_title": "Find a Way (Amy Grant song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4968, 
+                    "end": 4986, 
+                    "score": 0.25408726930618286, 
+                    "spot": "central government"
+                }
+            ], 
+            "wiki_id": 1291806, 
+            "wiki_title": "Central government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6642, 
+                    "end": 6648, 
+                    "score": 0.7204732298851013, 
+                    "spot": "Serbia"
+                }
+            ], 
+            "wiki_id": 29265, 
+            "wiki_title": "Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3402, 
+                    "end": 3414, 
+                    "score": 0.085612952709198, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 27593, 
+            "wiki_title": "Independence (probability theory)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1581, 
+                    "end": 1588, 
+                    "score": 0.13422125577926636, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 181293, 
+            "wiki_title": "Capital (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5704, 
+                    "end": 5713, 
+                    "score": 0.006101938430219889, 
+                    "spot": "bloodshed"
+                }
+            ], 
+            "wiki_id": 49783239, 
+            "wiki_title": "Bloodshed (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5087, 
+                    "end": 5098, 
+                    "score": 0.06761427968740463, 
+                    "spot": "Politically"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3061, 
+                    "end": 3068, 
+                    "score": 0.3459360897541046, 
+                    "spot": "customs"
+                }, 
+                {
+                    "begin": 3061, 
+                    "end": 3077, 
+                    "score": 0.3628232181072235, 
+                    "spot": "customs officers"
+                }
+            ], 
+            "wiki_id": 59214, 
+            "wiki_title": "Customs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7194, 
+                    "end": 7202, 
+                    "score": 0.10533586889505386, 
+                    "spot": "tolerate"
+                }
+            ], 
+            "wiki_id": 338825, 
+            "wiki_title": "Toleration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3837, 
+                    "end": 3841, 
+                    "score": 0.0007643807912245393, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 1595230, 
+            "wiki_title": "Come (American band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 467, 
+                    "end": 473, 
+                    "score": 0.0006149171385914087, 
+                    "spot": "regain"
+                }
+            ], 
+            "wiki_id": 8865463, 
+            "wiki_title": "Regain Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3478, 
+                    "end": 3480, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 19230848, 
+            "wiki_title": "Ra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2463, 
+                    "end": 2468, 
+                    "score": 0.06881227344274521, 
+                    "spot": "walls"
+                }
+            ], 
+            "wiki_id": 139114, 
+            "wiki_title": "Defensive wall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6026, 
+                    "end": 6033, 
+                    "score": 0.01858348958194256, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 43920129, 
+            "wiki_title": "Tuesday (ILoveMakonnen song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2352, 
+                    "end": 2359, 
+                    "score": 0.0636167824268341, 
+                    "spot": "minutes"
+                }
+            ], 
+            "wiki_id": 2431, 
+            "wiki_title": "Minute and second of arc"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4138, 
+                    "end": 4142, 
+                    "score": 0.001608030404895544, 
+                    "spot": "Emil"
+                }
+            ], 
+            "wiki_id": 6245902, 
+            "wiki_title": "Emil i L\u00f6nneberga"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1883, 
+                    "end": 1889, 
+                    "score": 0.08461211621761322, 
+                    "spot": "rivals"
+                }
+            ], 
+            "wiki_id": 9308509, 
+            "wiki_title": "Frasier (season 7)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1706, 
+                    "end": 1710, 
+                    "score": 0.01685243658721447, 
+                    "spot": "cars"
+                }, 
+                {
+                    "begin": 3997, 
+                    "end": 4000, 
+                    "score": 0.037176039069890976, 
+                    "spot": "car"
+                }
+            ], 
+            "wiki_id": 13673345, 
+            "wiki_title": "Car"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2993, 
+                    "end": 3001, 
+                    "score": 0.009671525098383427, 
+                    "spot": "tourists"
+                }
+            ], 
+            "wiki_id": 209189, 
+            "wiki_title": "The Tourists"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4670, 
+                    "end": 4674, 
+                    "score": 0.10862400382757187, 
+                    "spot": "join"
+                }
+            ], 
+            "wiki_id": 324164, 
+            "wiki_title": "Enlargement of the European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 895, 
+                    "end": 902, 
+                    "score": 0.14255645871162415, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1681, 
+                    "end": 1694, 
+                    "score": 0.4099999964237213, 
+                    "spot": "twisted metal"
+                }
+            ], 
+            "wiki_id": 635101, 
+            "wiki_title": "Twisted Metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6914, 
+                    "end": 6920, 
+                    "score": 0.020052626729011536, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 856495, 
+            "wiki_title": "Sky Living"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4536, 
+                    "end": 4543, 
+                    "score": 0.0006355632795020938, 
+                    "spot": "respond"
+                }
+            ], 
+            "wiki_id": 5852495, 
+            "wiki_title": "Respond"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5216, 
+                    "end": 5226, 
+                    "score": 0.32458311319351196, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 297809, 
+            "wiki_title": "Socialist Federal Republic of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1856, 
+                    "end": 1869, 
+                    "score": 0.11275651305913925, 
+                    "spot": "nationalities"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1815, 
+                    "end": 1823, 
+                    "score": 0.21495170891284943, 
+                    "spot": "minority"
+                }
+            ], 
+            "wiki_id": 437868, 
+            "wiki_title": "Minority group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4364, 
+                    "end": 4366, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 612840, 
+            "wiki_title": "If...."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7066, 
+                    "end": 7073, 
+                    "score": 0.1793796569108963, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 806023, 
+            "wiki_title": "Sympathy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3928, 
+                    "end": 3933, 
+                    "score": 0.35973918437957764, 
+                    "spot": "Milan"
+                }
+            ], 
+            "wiki_id": 36511, 
+            "wiki_title": "Milan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6885, 
+                    "end": 6890, 
+                    "score": 0.1446101814508438, 
+                    "spot": "worry"
+                }
+            ], 
+            "wiki_id": 4080078, 
+            "wiki_title": "Worry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 505, 
+                    "end": 508, 
+                    "score": 0.3126855492591858, 
+                    "spot": "jet"
+                }
+            ], 
+            "wiki_id": 164656, 
+            "wiki_title": "Jet aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5619, 
+                    "end": 5626, 
+                    "score": 0.05917687714099884, 
+                    "spot": "express"
+                }
+            ], 
+            "wiki_id": 1998891, 
+            "wiki_title": "Express mail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5247, 
+                    "end": 5256, 
+                    "score": 0.14601661264896393, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 2554950, 
+            "wiki_title": "Constituent country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7207, 
+                    "end": 7214, 
+                    "score": 0.1476532220840454, 
+                    "spot": "erosion"
+                }
+            ], 
+            "wiki_id": 9696, 
+            "wiki_title": "Erosion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1198, 
+                    "end": 1206, 
+                    "score": 0.04926736652851105, 
+                    "spot": "fighting"
+                }, 
+                {
+                    "begin": 3481, 
+                    "end": 3489, 
+                    "score": 0.04796309769153595, 
+                    "spot": "fighting"
+                }
+            ], 
+            "wiki_id": 18978563, 
+            "wiki_title": "Domestic violence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5520, 
+                    "end": 5543, 
+                    "score": 0.21944738924503326, 
+                    "spot": "U.S. Secretary of State"
+                }
+            ], 
+            "wiki_id": 32293, 
+            "wiki_title": "United States Secretary of State"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6272, 
+                    "end": 6278, 
+                    "score": 0.02556678093969822, 
+                    "spot": "orders"
+                }
+            ], 
+            "wiki_id": 2853547, 
+            "wiki_title": "Chivalric order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3034, 
+                    "end": 3038, 
+                    "score": 0.030746033415198326, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 2552713, 
+            "wiki_title": "Secretariat of Intelligence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3106, 
+                    "end": 3114, 
+                    "score": 0.23749570548534393, 
+                    "spot": "Austrian"
+                }
+            ], 
+            "wiki_id": 592319, 
+            "wiki_title": "Austrian cuisine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 97, 
+                    "end": 101, 
+                    "score": 0.19258898496627808, 
+                    "spot": "flag"
+                }
+            ], 
+            "wiki_id": 11424, 
+            "wiki_title": "Flag"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4511, 
+                    "end": 4519, 
+                    "score": 0.075503408908844, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 405370, 
+            "wiki_title": "Republic Pictures"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4812, 
+                    "end": 4820, 
+                    "score": 0.24288040399551392, 
+                    "spot": "Croatian"
+                }, 
+                {
+                    "begin": 5287, 
+                    "end": 5295, 
+                    "score": 0.41809165477752686, 
+                    "spot": "Croatian"
+                }
+            ], 
+            "wiki_id": 26276394, 
+            "wiki_title": "Croatian language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 822, 
+                    "end": 827, 
+                    "score": 0.053518570959568024, 
+                    "spot": "Local"
+                }, 
+                {
+                    "begin": 4920, 
+                    "end": 4925, 
+                    "score": 0.07995490729808807, 
+                    "spot": "local"
+                }
+            ], 
+            "wiki_id": 1549583, 
+            "wiki_title": "Local government in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1322, 
+                    "end": 1327, 
+                    "score": 0.07922906428575516, 
+                    "spot": "sides"
+                }, 
+                {
+                    "begin": 2964, 
+                    "end": 2969, 
+                    "score": 0.02499665878713131, 
+                    "spot": "sides"
+                }
+            ], 
+            "wiki_id": 13755, 
+            "wiki_title": "Hull (watercraft)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5368, 
+                    "end": 5375, 
+                    "score": 0.08582880347967148, 
+                    "spot": "lobbied"
+                }
+            ], 
+            "wiki_id": 48934, 
+            "wiki_title": "Lobbying"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 689, 
+                    "end": 696, 
+                    "score": 0.1966068148612976, 
+                    "spot": "capital"
+                }, 
+                {
+                    "begin": 6626, 
+                    "end": 6633, 
+                    "score": 0.16011421382427216, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 41188263, 
+            "wiki_title": "Madrid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6139, 
+                    "end": 6148, 
+                    "score": 0.1325644552707672, 
+                    "spot": "intervene"
+                }
+            ], 
+            "wiki_id": 5161334, 
+            "wiki_title": "Intervention (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 58, 
+                    "score": 0.07332809269428253, 
+                    "spot": "soldiers"
+                }
+            ], 
+            "wiki_id": 32212, 
+            "wiki_title": "United States Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3951, 
+                    "end": 3962, 
+                    "score": 0.023722819983959198, 
+                    "spot": "businessman"
+                }
+            ], 
+            "wiki_id": 147292, 
+            "wiki_title": "Businessperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 766, 
+                    "end": 773, 
+                    "score": 0.4448651075363159, 
+                    "spot": "Hungary"
+                }
+            ], 
+            "wiki_id": 13275, 
+            "wiki_title": "Hungary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 904, 
+                    "end": 911, 
+                    "score": 0.16553360223770142, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 123451, 
+            "wiki_title": "Homicide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1824, 
+                    "end": 1829, 
+                    "score": 0.533820629119873, 
+                    "spot": "Serbs"
+                }, 
+                {
+                    "begin": 5940, 
+                    "end": 5945, 
+                    "score": 0.45309555530548096, 
+                    "spot": "Serbs"
+                }
+            ], 
+            "wiki_id": 59512, 
+            "wiki_title": "Serbs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1089, 
+                    "end": 1105, 
+                    "score": 0.13649512827396393, 
+                    "spot": "official reports"
+                }
+            ], 
+            "wiki_id": 2763141, 
+            "wiki_title": "Official Records of the American Civil War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2097, 
+                    "end": 2104, 
+                    "score": 0.09895971417427063, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2977, 
+                    "end": 2983, 
+                    "score": 0.006511420011520386, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 1031356, 
+            "wiki_title": "On the Border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3565, 
+                    "end": 3572, 
+                    "score": 0.10083837807178497, 
+                    "spot": "crossed"
+                }
+            ], 
+            "wiki_id": 193595, 
+            "wiki_title": "Level crossing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4267, 
+                    "end": 4275, 
+                    "score": 0.07522991299629211, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 585316, 
+            "wiki_title": "1998 Commonwealth Games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7136, 
+                    "end": 7146, 
+                    "score": 0.0005824919790029526, 
+                    "spot": "other hand"
+                }
+            ], 
+            "wiki_id": 22670621, 
+            "wiki_title": "On the Other Hand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 93, 
+                    "end": 101, 
+                    "score": 0.17623133957386017, 
+                    "spot": "new flag"
+                }
+            ], 
+            "wiki_id": 209247, 
+            "wiki_title": "Flag of Iraq"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6219, 
+                    "end": 6236, 
+                    "score": 0.4268852770328522, 
+                    "spot": "military district"
+                }
+            ], 
+            "wiki_id": 896115, 
+            "wiki_title": "Military district"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6485, 
+                    "end": 6490, 
+                    "score": 0.10577920824289322, 
+                    "spot": "shape"
+                }
+            ], 
+            "wiki_id": 326307, 
+            "wiki_title": "Supreme Headquarters Allied Powers Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 457, 
+                    "end": 463, 
+                    "score": 0.08773434162139893, 
+                    "spot": "troops"
+                }
+            ], 
+            "wiki_id": 195091, 
+            "wiki_title": "Troop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7224, 
+                    "end": 7232, 
+                    "score": 0.18836237490177155, 
+                    "spot": "finances"
+                }
+            ], 
+            "wiki_id": 1721964, 
+            "wiki_title": "Roman finance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1874, 
+                    "end": 1882, 
+                    "score": 0.060078784823417664, 
+                    "spot": "historic"
+                }
+            ], 
+            "wiki_id": 10772350, 
+            "wiki_title": "History"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2441, 
+                    "end": 2446, 
+                    "score": 0.08498699218034744, 
+                    "spot": "holes"
+                }
+            ], 
+            "wiki_id": 172078, 
+            "wiki_title": "Whitewater"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6155, 
+                    "end": 6161, 
+                    "score": 0.0982532799243927, 
+                    "spot": "letter"
+                }
+            ], 
+            "wiki_id": 17845, 
+            "wiki_title": "Letter (message)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2088, 
+                    "end": 2095, 
+                    "score": 0.0012010628124698997, 
+                    "spot": "morning"
+                }
+            ], 
+            "wiki_id": 36045662, 
+            "wiki_title": "Morning of my Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2429, 
+                    "end": 2435, 
+                    "score": 0.0013893176801502705, 
+                    "spot": "blasts"
+                }
+            ], 
+            "wiki_id": 20885832, 
+            "wiki_title": "Precursor cell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4570, 
+                    "end": 4580, 
+                    "score": 0.1635306179523468, 
+                    "spot": "aggression"
+                }
+            ], 
+            "wiki_id": 58687, 
+            "wiki_title": "Aggression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3499, 
+                    "end": 3506, 
+                    "score": 0.25, 
+                    "spot": "Bogataj"
+                }
+            ], 
+            "wiki_id": 6884246, 
+            "wiki_title": "Jure Bogataj"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6242, 
+                    "end": 6250, 
+                    "score": 0.0016787108033895493, 
+                    "spot": "controls"
+                }, 
+                {
+                    "begin": 6599, 
+                    "end": 6606, 
+                    "score": 0.031500186771154404, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 1640288, 
+            "wiki_title": "Scientific control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3934, 
+                    "end": 3939, 
+                    "score": 0.10602010786533356, 
+                    "spot": "Jelen"
+                }
+            ], 
+            "wiki_id": 4035257, 
+            "wiki_title": "Eric Jelen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4333, 
+                    "end": 4344, 
+                    "score": 0.0019574942998588085, 
+                    "spot": "after World"
+                }
+            ], 
+            "wiki_id": 23194687, 
+            "wiki_title": "After the World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6534, 
+                    "end": 6540, 
+                    "score": 0.6315680742263794, 
+                    "spot": "Serbia"
+                }, 
+                {
+                    "begin": 6787, 
+                    "end": 6794, 
+                    "score": 0.28908994793891907, 
+                    "spot": "Serbian"
+                }
+            ], 
+            "wiki_id": 2582228, 
+            "wiki_title": "Kingdom of Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6471, 
+                    "end": 6484, 
+                    "score": 0.1323550045490265, 
+                    "spot": "post-Cold War"
+                }
+            ], 
+            "wiki_id": 39246077, 
+            "wiki_title": "Post\u2013Cold War era"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2015, 
+                    "end": 2019, 
+                    "score": 0.0025929224211722612, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2805, 
+                    "end": 2809, 
+                    "score": 0.05838438868522644, 
+                    "spot": "Here"
+                }
+            ], 
+            "wiki_id": 28493003, 
+            "wiki_title": "Here (2003 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2880, 
+                    "end": 2887, 
+                    "score": 0.09383763372898102, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 32374, 
+            "wiki_title": "Venezuela"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 787, 
+                    "end": 794, 
+                    "score": 0.038462862372398376, 
+                    "spot": "cutting"
+                }
+            ], 
+            "wiki_id": 3165446, 
+            "wiki_title": "Cutting (sport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2503, 
+                    "score": 0.0015147915109992027, 
+                    "spot": "in the house"
+                }
+            ], 
+            "wiki_id": 3577274, 
+            "wiki_title": "Legislature broadcasters in New Zealand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1542, 
+                    "end": 1559, 
+                    "score": 0.02160803973674774, 
+                    "spot": "automatic weapons"
+                }
+            ], 
+            "wiki_id": 768511, 
+            "wiki_title": "Automatic firearm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4461, 
+                    "end": 4470, 
+                    "score": 0.12018643319606781, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24899, 
+            "wiki_title": "President of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4379, 
+                    "end": 4386, 
+                    "score": 0.010056959465146065, 
+                    "spot": "freedom"
+                }
+            ], 
+            "wiki_id": 11175, 
+            "wiki_title": "Political freedom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6974, 
+                    "end": 6978, 
+                    "score": 0.12929104268550873, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6190, 
+                    "end": 6203, 
+                    "score": 0.5, 
+                    "spot": "Konrad\nKolsek"
+                }
+            ], 
+            "wiki_id": 37131963, 
+            "wiki_title": "Konrad Kol\u0161ek"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5785, 
+                    "end": 5794, 
+                    "score": 0.08754352480173111, 
+                    "spot": "reporters"
+                }
+            ], 
+            "wiki_id": 50100, 
+            "wiki_title": "Journalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4015, 
+                    "end": 4022, 
+                    "score": 0.07450908422470093, 
+                    "spot": "his son"
+                }
+            ], 
+            "wiki_id": 28170, 
+            "wiki_title": "Son of God"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5173, 
+                    "end": 5190, 
+                    "score": 0.003198494901880622, 
+                    "spot": "rest of the world"
+                }
+            ], 
+            "wiki_id": 223278, 
+            "wiki_title": "Rest of the world in sports and games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4396, 
+                    "end": 4399, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 29446866, 
+            "wiki_title": "In Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3866, 
+                    "end": 3874, 
+                    "score": 0.013900365680456161, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 933117, 
+            "wiki_title": "Filmmaking"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7503, 
+                    "end": 7517, 
+                    "score": 0.11493225395679474, 
+                    "spot": "Western Europe"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4282, 
+                    "end": 4287, 
+                    "score": 0.05958360433578491, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 935895, 
+            "wiki_title": "First Anglo-Sikh War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 83, 
+                    "score": 0.04260651767253876, 
+                    "spot": "border post"
+                }, 
+                {
+                    "begin": 725, 
+                    "end": 741, 
+                    "score": 0.1112293154001236, 
+                    "spot": "border crossings"
+                }
+            ], 
+            "wiki_id": 288329, 
+            "wiki_title": "Border checkpoint"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 0, 
+                    "end": 8, 
+                    "score": 0.44584864377975464, 
+                    "spot": "JEZERSKO"
+                }
+            ], 
+            "wiki_id": 4161303, 
+            "wiki_title": "Municipality of Jezersko"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6807, 
+                    "end": 6811, 
+                    "score": 0.0028564666863530874, 
+                    "spot": "deny"
+                }
+            ], 
+            "wiki_id": 1631852, 
+            "wiki_title": "Denial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4041, 
+                    "end": 4044, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "Now"
+                }
+            ], 
+            "wiki_id": 40902173, 
+            "wiki_title": "Chemistry (EP)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5544, 
+                    "end": 5555, 
+                    "score": 0.3253968358039856, 
+                    "spot": "James Baker"
+                }, 
+                {
+                    "begin": 5719, 
+                    "end": 5724, 
+                    "score": 0.12738029658794403, 
+                    "spot": "Baker"
+                }
+            ], 
+            "wiki_id": 213137, 
+            "wiki_title": "James Baker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5502, 
+                    "end": 5511, 
+                    "score": 0.04943402111530304, 
+                    "spot": "breaks up"
+                }
+            ], 
+            "wiki_id": 519576, 
+            "wiki_title": "Breakup"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2473, 
+                    "end": 2482, 
+                    "score": 0.013179684989154339, 
+                    "spot": "shattered"
+                }
+            ], 
+            "wiki_id": 23468350, 
+            "wiki_title": "Shattered (2010 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1437, 
+                    "end": 1444, 
+                    "score": 0.5826681852340698, 
+                    "spot": "Reuters"
+                }, 
+                {
+                    "begin": 1437, 
+                    "end": 1457, 
+                    "score": 0.5714285969734192, 
+                    "spot": "Reuters news service"
+                }
+            ], 
+            "wiki_id": 18998750, 
+            "wiki_title": "Reuters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7299, 
+                    "end": 7310, 
+                    "score": 0.4791666567325592, 
+                    "spot": "two million"
+                }
+            ], 
+            "wiki_id": 4306132, 
+            "wiki_title": "Two in a Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4554, 
+                    "end": 4561, 
+                    "score": 0.10423291474580765, 
+                    "spot": "methods"
+                }
+            ], 
+            "wiki_id": 26833, 
+            "wiki_title": "Scientific method"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4594, 
+                    "end": 4605, 
+                    "score": 0.28452959656715393, 
+                    "spot": "independent"
+                }, 
+                {
+                    "begin": 4594, 
+                    "end": 4611, 
+                    "score": 0.3433242440223694, 
+                    "spot": "independent state"
+                }
+            ], 
+            "wiki_id": 62450, 
+            "wiki_title": "Independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3002, 
+                    "end": 3005, 
+                    "score": 0.04079081863164902, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 3550, 
+                    "end": 3553, 
+                    "score": 0.09066834300756454, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1388, 
+                    "end": 1394, 
+                    "score": 0.0025100400671362877, 
+                    "spot": "put it"
+                }
+            ], 
+            "wiki_id": 22942217, 
+            "wiki_title": "Put It On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6951, 
+                    "end": 6959, 
+                    "score": 0.24662651121616364, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 14560, 
+            "wiki_title": "Republic of Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 302, 
+                    "end": 310, 
+                    "score": 0.0007121695671230555, 
+                    "spot": "two days"
+                }
+            ], 
+            "wiki_id": 5987174, 
+            "wiki_title": "Les deux journ\u00e9es"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4153, 
+                    "end": 4159, 
+                    "score": 0.11084933578968048, 
+                    "spot": "leader"
+                }, 
+                {
+                    "begin": 6433, 
+                    "end": 6440, 
+                    "score": 0.14639021456241608, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 813, 
+                    "end": 820, 
+                    "score": 0.08255157619714737, 
+                    "spot": "traffic"
+                }
+            ], 
+            "wiki_id": 43081, 
+            "wiki_title": "Traffic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2553, 
+                    "end": 2558, 
+                    "score": 0.266210675239563, 
+                    "spot": "white"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6292, 
+                    "end": 6308, 
+                    "score": 0.01791907474398613, 
+                    "spot": "border crossings"
+                }
+            ], 
+            "wiki_id": 27726325, 
+            "wiki_title": "Border Crossings (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1626, 
+                    "end": 1644, 
+                    "score": 0.22499999403953552, 
+                    "spot": "through barricades"
+                }
+            ], 
+            "wiki_id": 39705795, 
+            "wiki_title": "Through the Barricades (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 851, 
+                    "end": 863, 
+                    "score": 0.07314148545265198, 
+                    "spot": "federal\narmy"
+                }
+            ], 
+            "wiki_id": 67549, 
+            "wiki_title": "Austrian Armed Forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2322, 
+                    "end": 2327, 
+                    "score": 0.0897873118519783, 
+                    "spot": "burst"
+                }
+            ], 
+            "wiki_id": 7076590, 
+            "wiki_title": "Burst mode (weapon)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2590, 
+                    "end": 2599, 
+                    "score": 0.0733044296503067, 
+                    "spot": "laid down"
+                }
+            ], 
+            "wiki_id": 219807, 
+            "wiki_title": "Keel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3301, 
+                    "end": 3311, 
+                    "score": 0.0028420849703252316, 
+                    "spot": "spectators"
+                }
+            ], 
+            "wiki_id": 152640, 
+            "wiki_title": "Fan (person)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3919, 
+                    "end": 3926, 
+                    "score": 0.053135767579078674, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 497639, 
+            "wiki_title": "Control (Janet Jackson album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2646, 
+                    "end": 2650, 
+                    "score": 0.001000537653453648, 
+                    "spot": "None"
+                }
+            ], 
+            "wiki_id": 323777, 
+            "wiki_title": "Irreligion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3627, 
+                    "end": 3635, 
+                    "score": 0.02032187581062317, 
+                    "spot": "get back"
+                }
+            ], 
+            "wiki_id": 4132613, 
+            "wiki_title": "Blackout (Britney Spears album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1109, 
+                    "end": 1119, 
+                    "score": 0.16039222478866577, 
+                    "spot": "casualties"
+                }
+            ], 
+            "wiki_id": 368513, 
+            "wiki_title": "Killed in action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2052, 
+                    "end": 2058, 
+                    "score": 0.11181662231683731, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 849186, 
+            "wiki_title": "Inner German border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2028, 
+                    "end": 2037, 
+                    "score": 0.0023682129103690386, 
+                    "spot": "mountains"
+                }
+            ], 
+            "wiki_id": 69000, 
+            "wiki_title": "Geography of Bhutan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3789, 
+                    "end": 3799, 
+                    "score": 0.20048128068447113, 
+                    "spot": "conscripts"
+                }
+            ], 
+            "wiki_id": 5735, 
+            "wiki_title": "Conscription"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2253, 
+                    "end": 2266, 
+                    "score": 0.26957494020462036, 
+                    "spot": "mountain pass"
+                }
+            ], 
+            "wiki_id": 374673, 
+            "wiki_title": "Mountain pass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 438, 
+                    "end": 446, 
+                    "score": 0.4486372470855713, 
+                    "spot": "Belgrade"
+                }, 
+                {
+                    "begin": 5568, 
+                    "end": 5576, 
+                    "score": 0.402741402387619, 
+                    "spot": "Belgrade"
+                }, 
+                {
+                    "begin": 6612, 
+                    "end": 6620, 
+                    "score": 0.5315280556678772, 
+                    "spot": "Belgrade"
+                }
+            ], 
+            "wiki_id": 55904, 
+            "wiki_title": "Belgrade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5331, 
+                    "end": 5349, 
+                    "score": 0.20304878056049347, 
+                    "spot": "European Community"
+                }
+            ], 
+            "wiki_id": 9578, 
+            "wiki_title": "European Economic Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7142, 
+                    "end": 7146, 
+                    "score": 0.048791948705911636, 
+                    "spot": "hand"
+                }
+            ], 
+            "wiki_id": 1356414, 
+            "wiki_title": "Civilizations in Babylon 5"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1150, 
+                    "end": 1161, 
+                    "score": 0.5, 
+                    "spot": "Janez Jansa"
+                }
+            ], 
+            "wiki_id": 1038986, 
+            "wiki_title": "Janez Jan\u0161a"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2128, 
+                    "end": 2136, 
+                    "score": 0.032374098896980286, 
+                    "spot": "bazookas"
+                }
+            ], 
+            "wiki_id": 238507, 
+            "wiki_title": "Bazooka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5977, 
+                    "end": 5982, 
+                    "score": 0.17091692984104156, 
+                    "spot": "stand"
+                }, 
+                {
+                    "begin": 5977, 
+                    "end": 5985, 
+                    "score": 0.1685551106929779, 
+                    "spot": "stand by"
+                }
+            ], 
+            "wiki_id": 31166273, 
+            "wiki_title": "Stand By (Senit song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3824, 
+                    "end": 3836, 
+                    "score": 0.0017241379246115685, 
+                    "spot": "what we have"
+                }
+            ], 
+            "wiki_id": 47598811, 
+            "wiki_title": "What We Have"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1297, 
+                    "end": 1301, 
+                    "score": 0.05274483934044838, 
+                    "spot": "dead"
+                }
+            ], 
+            "wiki_id": 3539514, 
+            "wiki_title": "Dead rubber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6584, 
+                    "end": 6590, 
+                    "score": 0.14038099348545074, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 247724, 
+            "wiki_title": "Augustus II the Strong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5751, 
+                    "end": 5767, 
+                    "score": 0.5, 
+                    "spot": "Marlin Fitzwater"
+                }
+            ], 
+            "wiki_id": 1486379, 
+            "wiki_title": "Marlin Fitzwater"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4800, 
+                    "end": 4807, 
+                    "score": 0.4278784990310669, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 5273, 
+                    "end": 5282, 
+                    "score": 0.30618420243263245, 
+                    "spot": "Slovenian"
+                }
+            ], 
+            "wiki_id": 28135, 
+            "wiki_title": "Slovene language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 562, 
+                    "end": 574, 
+                    "score": 0.2147255390882492, 
+                    "spot": "paratroopers"
+                }
+            ], 
+            "wiki_id": 58478, 
+            "wiki_title": "Airborne forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4643, 
+                    "end": 4655, 
+                    "score": 0.3805781304836273, 
+                    "spot": "federal\narmy"
+                }, 
+                {
+                    "begin": 5913, 
+                    "end": 5925, 
+                    "score": 0.3584381639957428, 
+                    "spot": "federal army"
+                }
+            ], 
+            "wiki_id": 536643, 
+            "wiki_title": "Yugoslav People's Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2537, 
+                    "end": 2543, 
+                    "score": 0.09283433854579926, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 115971, 
+            "wiki_title": "Strong, Maine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2483, 
+                    "end": 2490, 
+                    "score": 0.0449080690741539, 
+                    "spot": "windows"
+                }
+            ], 
+            "wiki_id": 207897, 
+            "wiki_title": "Window (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3631, 
+                    "end": 3640, 
+                    "score": 0.007096137385815382, 
+                    "spot": "back home"
+                }
+            ], 
+            "wiki_id": 2097791, 
+            "wiki_title": "Back Home (Eric Clapton album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3206, 
+                    "end": 3214, 
+                    "score": 0.1765233278274536, 
+                    "spot": "soldiers"
+                }, 
+                {
+                    "begin": 3749, 
+                    "end": 3757, 
+                    "score": 0.14732074737548828, 
+                    "spot": "soldiers"
+                }
+            ], 
+            "wiki_id": 37338, 
+            "wiki_title": "Soldier"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2043, 
+                    "end": 2047, 
+                    "score": 0.11827142536640167, 
+                    "spot": "mark"
+                }
+            ], 
+            "wiki_id": 317549, 
+            "wiki_title": "March (territorial entity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6176, 
+                    "end": 6183, 
+                    "score": 0.1421252340078354, 
+                    "spot": "premier"
+                }
+            ], 
+            "wiki_id": 19757129, 
+            "wiki_title": "WTA Premier tournaments"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3255, 
+                    "end": 3264, 
+                    "score": 0.016238488256931305, 
+                    "spot": "scrambled"
+                }, 
+                {
+                    "begin": 4203, 
+                    "end": 4212, 
+                    "score": 0.016238488256931305, 
+                    "spot": "scrambled"
+                }
+            ], 
+            "wiki_id": 23510789, 
+            "wiki_title": "Scrambling (military)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3613, 
+                    "end": 3616, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 4469269, 
+            "wiki_title": "From Now On (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6185, 
+                    "end": 6188, 
+                    "score": 0.009788699448108673, 
+                    "spot": "Gen"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 474, 
+                    "end": 481, 
+                    "score": 0.17624013125896454, 
+                    "spot": "control"
+                }
+            ], 
+            "wiki_id": 703058, 
+            "wiki_title": "Aircraft flight control system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 27, 
+                    "end": 36, 
+                    "score": 0.035391077399253845, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 1931, 
+                    "end": 1940, 
+                    "score": 0.15846006572246552, 
+                    "spot": "Wednesday"
+                }, 
+                {
+                    "begin": 5795, 
+                    "end": 5804, 
+                    "score": 0.026086295023560524, 
+                    "spot": "Wednesday"
+                }
+            ], 
+            "wiki_id": 177538, 
+            "wiki_title": "Sheffield Wednesday F.C."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1696, 
+                    "end": 1705, 
+                    "score": 0.000684827275108546, 
+                    "spot": "flattened"
+                }
+            ], 
+            "wiki_id": 2043875, 
+            "wiki_title": "Flattening"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3233, 
+                    "end": 3239, 
+                    "score": 0.06607537716627121, 
+                    "spot": "forest"
+                }
+            ], 
+            "wiki_id": 11090, 
+            "wiki_title": "Forest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4748, 
+                    "end": 4759, 
+                    "score": 0.19221709668636322, 
+                    "spot": "sovereignty"
+                }, 
+                {
+                    "begin": 5866, 
+                    "end": 5877, 
+                    "score": 0.2655515968799591, 
+                    "spot": "sovereignty"
+                }, 
+                {
+                    "begin": 6763, 
+                    "end": 6772, 
+                    "score": 0.23122656345367432, 
+                    "spot": "sovereign"
+                }
+            ], 
+            "wiki_id": 28791, 
+            "wiki_title": "Sovereignty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1419, 
+                    "end": 1422, 
+                    "score": 0.15456953644752502, 
+                    "spot": "war"
+                }, 
+                {
+                    "begin": 6481, 
+                    "end": 6484, 
+                    "score": 0.19344572722911835, 
+                    "spot": "War"
+                }
+            ], 
+            "wiki_id": 33158, 
+            "wiki_title": "War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 940, 
+                    "end": 956, 
+                    "score": 0.4398801326751709, 
+                    "spot": "Associated Press"
+                }
+            ], 
+            "wiki_id": 18935732, 
+            "wiki_title": "Associated Press"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4690, 
+                    "end": 4697, 
+                    "score": 0.21867521107196808, 
+                    "spot": "militia"
+                }
+            ], 
+            "wiki_id": 854727, 
+            "wiki_title": "Militsiya"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5262, 
+                    "end": 5272, 
+                    "score": 0.24464815855026245, 
+                    "spot": "recognized"
+                }
+            ], 
+            "wiki_id": 15808914, 
+            "wiki_title": "International recognition of Kosovo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3183, 
+                    "end": 3193, 
+                    "score": 0.3059588670730591, 
+                    "spot": "binoculars"
+                }
+            ], 
+            "wiki_id": 86058, 
+            "wiki_title": "Binoculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 42, 
+                    "end": 49, 
+                    "score": 0.31680017709732056, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 584, 
+                    "end": 591, 
+                    "score": 0.36352965235710144, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 1573, 
+                    "end": 1580, 
+                    "score": 0.3146425485610962, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 4173, 
+                    "end": 4180, 
+                    "score": 0.368899941444397, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 4627, 
+                    "end": 4635, 
+                    "score": 0.3132004141807556, 
+                    "spot": "Slovenes"
+                }
+            ], 
+            "wiki_id": 246311, 
+            "wiki_title": "Slovenes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5502, 
+                    "end": 5508, 
+                    "score": 0.032204169780015945, 
+                    "spot": "breaks"
+                }
+            ], 
+            "wiki_id": 66038, 
+            "wiki_title": "Breakbeat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4388, 
+                    "end": 4390, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 165128, 
+            "wiki_title": "Royal we"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2105, 
+                    "end": 2113, 
+                    "score": 0.1725737601518631, 
+                    "spot": "soldiers"
+                }
+            ], 
+            "wiki_id": 32087, 
+            "wiki_title": "United States Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1649, 
+                    "end": 1660, 
+                    "score": 0.010080644860863686, 
+                    "spot": "road blocks"
+                }
+            ], 
+            "wiki_id": 585425, 
+            "wiki_title": "Roadblock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7392, 
+                    "end": 7408, 
+                    "score": 0.19402548670768738, 
+                    "spot": "foreign exchange"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5228, 
+                    "end": 5234, 
+                    "score": 0.0008905743015930057, 
+                    "spot": "So far"
+                }
+            ], 
+            "wiki_id": 37575757, 
+            "wiki_title": "Doris Troy (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2631, 
+                    "end": 2644, 
+                    "score": 0.01253481861203909, 
+                    "spot": "down the road"
+                }
+            ], 
+            "wiki_id": 20084224, 
+            "wiki_title": "Down the Road (Mac McAnally song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2145, 
+                    "end": 2148, 
+                    "score": 0.10077586770057678, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 845825, 
+            "wiki_title": "Out (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7351, 
+                    "end": 7357, 
+                    "score": 0.08489405363798141, 
+                    "spot": "supply"
+                }
+            ], 
+            "wiki_id": 77547, 
+            "wiki_title": "Logistics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3516, 
+                    "end": 3528, 
+                    "score": 0.05180608481168747, 
+                    "spot": "truck driver"
+                }
+            ], 
+            "wiki_id": 1580910, 
+            "wiki_title": "Truck driver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5310, 
+                    "end": 5325, 
+                    "score": 0.0015446400502696633, 
+                    "spot": "On the contrary"
+                }
+            ], 
+            "wiki_id": 5208314, 
+            "wiki_title": "On the Contrary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 121, 
+                    "end": 133, 
+                    "score": 0.20166346430778503, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 6839, 
+                    "end": 6851, 
+                    "score": 0.24376730620861053, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 2878844, 
+            "wiki_title": "Ten-Day War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7492, 
+                    "end": 7499, 
+                    "score": 0.018681466579437256, 
+                    "spot": "gateway"
+                }
+            ], 
+            "wiki_id": 3786846, 
+            "wiki_title": "Gateway (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4408, 
+                    "end": 4417, 
+                    "score": 0.0014150943607091904, 
+                    "spot": "defend it"
+                }
+            ], 
+            "wiki_id": 39864718, 
+            "wiki_title": "Defend It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2796, 
+                    "end": 2803, 
+                    "score": 0.06375277787446976, 
+                    "spot": "battles"
+                }
+            ], 
+            "wiki_id": 4181, 
+            "wiki_title": "Battle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7431, 
+                    "end": 7438, 
+                    "score": 0.2525586187839508, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2202, 
+                    "end": 2211, 
+                    "score": 0.14175711572170258, 
+                    "spot": "Meanwhile"
+                }
+            ], 
+            "wiki_id": 36476546, 
+            "wiki_title": "Meanwhile (novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 799, 
+                    "end": 812, 
+                    "score": 0.11245068162679672, 
+                    "spot": "international"
+                }
+            ], 
+            "wiki_id": 8195726, 
+            "wiki_title": "International law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 192, 
+                    "end": 204, 
+                    "score": 0.3037372827529907, 
+                    "spot": "federal army"
+                }, 
+                {
+                    "begin": 4902, 
+                    "end": 4914, 
+                    "score": 0.07314148545265198, 
+                    "spot": "federal army"
+                }
+            ], 
+            "wiki_id": 2948082, 
+            "wiki_title": "Mexican Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 756, 
+                    "end": 761, 
+                    "score": 0.4325457811355591, 
+                    "spot": "Italy"
+                }
+            ], 
+            "wiki_id": 14532, 
+            "wiki_title": "Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5494, 
+                    "end": 5501, 
+                    "score": 0.08333839476108551, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 5996, 
+                    "end": 6003, 
+                    "score": 0.06671476364135742, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 5247, 
+            "wiki_title": "Country music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5072, 
+                    "end": 5082, 
+                    "score": 0.1670568883419037, 
+                    "spot": "air forces"
+                }
+            ], 
+            "wiki_id": 43956143, 
+            "wiki_title": "Air force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1183, 
+                    "end": 1192, 
+                    "score": 0.10964973270893097, 
+                    "spot": "interview"
+                }
+            ], 
+            "wiki_id": 236975, 
+            "wiki_title": "Interview"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4391, 
+                    "end": 4395, 
+                    "score": 0.12868709862232208, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5643, 
+                    "end": 5654, 
+                    "score": 0.12749311327934265, 
+                    "spot": "aspirations"
+                }
+            ], 
+            "wiki_id": 50020, 
+            "wiki_title": "Hope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5682, 
+                    "end": 5690, 
+                    "score": 0.1449720859527588, 
+                    "spot": "dialogue"
+                }
+            ], 
+            "wiki_id": 170594, 
+            "wiki_title": "Dialogue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2746, 
+                    "end": 2755, 
+                    "score": 0.007015980780124664, 
+                    "spot": "civilians"
+                }
+            ], 
+            "wiki_id": 145804, 
+            "wiki_title": "Civilian"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 404, 
+                    "end": 410, 
+                    "score": 0.25721555948257446, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5287, 
+                    "end": 5308, 
+                    "score": 0.3363032341003418, 
+                    "spot": "Croatian\nindependence"
+                }
+            ], 
+            "wiki_id": 34198336, 
+            "wiki_title": "Independence of Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3291, 
+                    "end": 3296, 
+                    "score": 0.009454937651753426, 
+                    "spot": "fired"
+                }
+            ], 
+            "wiki_id": 24619, 
+            "wiki_title": "Pottery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3577, 
+                    "end": 3583, 
+                    "score": 0.06958489120006561, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 2817606, 
+            "wiki_title": "Mexico\u2013United States border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2454, 
+                    "end": 2458, 
+                    "score": 0.06980690360069275, 
+                    "spot": "roof"
+                }
+            ], 
+            "wiki_id": 26118, 
+            "wiki_title": "Roof"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3011, 
+                    "end": 3017, 
+                    "score": 0.002020202111452818, 
+                    "spot": "caught"
+                }
+            ], 
+            "wiki_id": 45383436, 
+            "wiki_title": "How Big, How Blue, How Beautiful"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 654, 
+                    "end": 661, 
+                    "score": 0.10465185344219208, 
+                    "spot": "airport"
+                }
+            ], 
+            "wiki_id": 37575, 
+            "wiki_title": "Airport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3269, 
+                    "end": 3274, 
+                    "score": 0.006469025742262602, 
+                    "spot": "cover"
+                }
+            ], 
+            "wiki_id": 620412, 
+            "wiki_title": "Undercover operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4019, 
+                    "end": 4022, 
+                    "score": 0.19442512094974518, 
+                    "spot": "son"
+                }
+            ], 
+            "wiki_id": 293302, 
+            "wiki_title": "Son"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1804, 
+                    "end": 1810, 
+                    "score": 0.4940870404243469, 
+                    "spot": "Croats"
+                }
+            ], 
+            "wiki_id": 69801, 
+            "wiki_title": "Croats"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5729, 
+                    "end": 5740, 
+                    "score": 0.4952963590621948, 
+                    "spot": "White House"
+                }
+            ], 
+            "wiki_id": 33057, 
+            "wiki_title": "White House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2187, 
+                    "end": 2200, 
+                    "score": 0.1251378208398819, 
+                    "spot": "customs house"
+                }, 
+                {
+                    "begin": 2289, 
+                    "end": 2302, 
+                    "score": 0.1251378208398819, 
+                    "spot": "customs\nhouse"
+                }
+            ], 
+            "wiki_id": 4844867, 
+            "wiki_title": "Custom house"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6320, 
+                    "end": 6325, 
+                    "score": 0.030523372814059258, 
+                    "spot": "crush"
+                }
+            ], 
+            "wiki_id": 1815577, 
+            "wiki_title": "Brian Adams (wrestler)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4242, 
+                    "end": 4247, 
+                    "score": 0.17543256282806396, 
+                    "spot": "woods"
+                }
+            ], 
+            "wiki_id": 66986, 
+            "wiki_title": "Woodland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1561, 
+                    "end": 1568, 
+                    "score": 0.02128858119249344, 
+                    "spot": "Outside"
+                }
+            ], 
+            "wiki_id": 428681, 
+            "wiki_title": "Forward (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 278, 
+                    "end": 287, 
+                    "score": 0.10215998440980911, 
+                    "spot": "civil war"
+                }, 
+                {
+                    "begin": 2724, 
+                    "end": 2738, 
+                    "score": 0.33850932121276855, 
+                    "spot": "U.S. Civil War"
+                }
+            ], 
+            "wiki_id": 863, 
+            "wiki_title": "American Civil War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3151, 
+                    "end": 3162, 
+                    "score": 0.20426829159259796, 
+                    "spot": "beer garden"
+                }
+            ], 
+            "wiki_id": 875381, 
+            "wiki_title": "Beer garden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 110, 
+                    "end": 118, 
+                    "score": 0.6615258455276489, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 317, 
+                    "end": 325, 
+                    "score": 0.6682767271995544, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 678, 
+                    "end": 686, 
+                    "score": 0.7224271297454834, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 709, 
+                    "end": 717, 
+                    "score": 0.5646864175796509, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1125, 
+                    "end": 1132, 
+                    "score": 0.3327749967575073, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 1245, 
+                    "end": 1253, 
+                    "score": 0.5145946741104126, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1404, 
+                    "end": 1412, 
+                    "score": 0.5154638886451721, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 2178, 
+                    "end": 2186, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3328, 
+                    "end": 3336, 
+                    "score": 0.12935325503349304, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 3805, 
+                    "end": 3813, 
+                    "score": 0.49044010043144226, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 3943, 
+                    "end": 3950, 
+                    "score": 0.3406105637550354, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 4318, 
+                    "end": 4326, 
+                    "score": 0.48536217212677, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 4450, 
+                    "end": 4458, 
+                    "score": 0.7149378061294556, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 5607, 
+                    "end": 5615, 
+                    "score": 0.6960195302963257, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 6165, 
+                    "end": 6173, 
+                    "score": 0.47412967681884766, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 6251, 
+                    "end": 6259, 
+                    "score": 0.4959260821342468, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 6696, 
+                    "end": 6704, 
+                    "score": 0.6451472640037537, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 6824, 
+                    "end": 6832, 
+                    "score": 0.6748210787773132, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 7077, 
+                    "end": 7085, 
+                    "score": 0.6126487851142883, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 7148, 
+                    "end": 7156, 
+                    "score": 0.591415524482727, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 7284, 
+                    "end": 7292, 
+                    "score": 0.504604160785675, 
+                    "spot": "Slovenia"
+                }
+            ], 
+            "wiki_id": 27338, 
+            "wiki_title": "Slovenia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2406, 
+                    "end": 2415, 
+                    "score": 0.44598788022994995, 
+                    "spot": "anti-tank"
+                }, 
+                {
+                    "begin": 2406, 
+                    "end": 2420, 
+                    "score": 0.2812916040420532, 
+                    "spot": "anti-tank guns"
+                }
+            ], 
+            "wiki_id": 303678, 
+            "wiki_title": "Anti-tank warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2944, 
+                    "end": 2955, 
+                    "score": 0.11696314066648483, 
+                    "spot": "restaurants"
+                }, 
+                {
+                    "begin": 3138, 
+                    "end": 3148, 
+                    "score": 0.27573877573013306, 
+                    "spot": "restaurant"
+                }
+            ], 
+            "wiki_id": 26437, 
+            "wiki_title": "Restaurant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1779, 
+                    "end": 1787, 
+                    "score": 0.0847661942243576, 
+                    "spot": "fighting"
+                }
+            ], 
+            "wiki_id": 1090694, 
+            "wiki_title": "Norwegian Campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5483, 
+                    "end": 5486, 
+                    "score": 0.10573582351207733, 
+                    "spot": "aid"
+                }
+            ], 
+            "wiki_id": 1908551, 
+            "wiki_title": "Aid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 177, 
+                    "score": 0.1393795907497406, 
+                    "spot": "artillery"
+                }, 
+                {
+                    "begin": 2223, 
+                    "end": 2232, 
+                    "score": 0.2082645446062088, 
+                    "spot": "artillery"
+                }
+            ], 
+            "wiki_id": 2508, 
+            "wiki_title": "Artillery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6873, 
+                    "end": 6878, 
+                    "score": 0.21216413378715515, 
+                    "spot": "fears"
+                }, 
+                {
+                    "begin": 7041, 
+                    "end": 7045, 
+                    "score": 0.09223165363073349, 
+                    "spot": "fear"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1751, 
+                    "end": 1755, 
+                    "score": 0.110148124396801, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 3201, 
+                    "end": 3205, 
+                    "score": 0.22467592358589172, 
+                    "spot": "army"
+                }, 
+                {
+                    "begin": 3902, 
+                    "end": 3906, 
+                    "score": 0.014646453782916069, 
+                    "spot": "army"
+                }
+            ], 
+            "wiki_id": 1376, 
+            "wiki_title": "Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 839, 
+                    "end": 848, 
+                    "score": 0.23495662212371826, 
+                    "spot": "shot down"
+                }
+            ], 
+            "wiki_id": 146640, 
+            "wiki_title": "Anti-aircraft warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2120, 
+                    "end": 2127, 
+                    "score": 0.036234546452760696, 
+                    "spot": "bearing"
+                }
+            ], 
+            "wiki_id": 198101, 
+            "wiki_title": "Ball bearing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3454, 
+                    "end": 3463, 
+                    "score": 0.00917431153357029, 
+                    "spot": "big party"
+                }
+            ], 
+            "wiki_id": 48297556, 
+            "wiki_title": "The Big Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 519, 
+                    "end": 530, 
+                    "score": 0.08434870094060898, 
+                    "spot": "helicopters"
+                }, 
+                {
+                    "begin": 864, 
+                    "end": 874, 
+                    "score": 0.20069310069084167, 
+                    "spot": "helicopter"
+                }, 
+                {
+                    "begin": 1355, 
+                    "end": 1366, 
+                    "score": 0.048573050647974014, 
+                    "spot": "helicopters"
+                }
+            ], 
+            "wiki_id": 8286923, 
+            "wiki_title": "Helicopter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6908, 
+                    "end": 6913, 
+                    "score": 0.33092111349105835, 
+                    "spot": "Serbs"
+                }
+            ], 
+            "wiki_id": 2011566, 
+            "wiki_title": "Serbs of Bosnia and Herzegovina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 505, 
+                    "end": 517, 
+                    "score": 0.3452821671962738, 
+                    "spot": "jet fighters"
+                }
+            ], 
+            "wiki_id": 10929, 
+            "wiki_title": "Fighter aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7057, 
+                    "end": 7065, 
+                    "score": 0.14426234364509583, 
+                    "spot": "economic"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3469, 
+                    "end": 3474, 
+                    "score": 0.04362622648477554, 
+                    "spot": "today"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3981, 
+                    "end": 3989, 
+                    "score": 0.012711863964796066, 
+                    "spot": "backseat"
+                }
+            ], 
+            "wiki_id": 30891133, 
+            "wiki_title": "Backseat (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1344, 
+                    "end": 1354, 
+                    "score": 0.06146751344203949, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 1590, 
+                    "end": 1600, 
+                    "score": 0.11741185188293457, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 6681, 
+                    "end": 6692, 
+                    "score": 0.1280926614999771, 
+                    "spot": "governments"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2337, 
+                    "end": 2341, 
+                    "score": 0.05312022566795349, 
+                    "spot": "fire"
+                }
+            ], 
+            "wiki_id": 11145, 
+            "wiki_title": "Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5951, 
+                    "end": 5955, 
+                    "score": 0.02755693718791008, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 102446, 
+            "wiki_title": "Huey Long"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 151, 
+                    "end": 160, 
+                    "score": 0.06446769833564758, 
+                    "spot": "Yesterday"
+                }, 
+                {
+                    "begin": 3435, 
+                    "end": 3444, 
+                    "score": 0.16850116848945618, 
+                    "spot": "Yesterday"
+                }
+            ], 
+            "wiki_id": 721696, 
+            "wiki_title": "Yesterday (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4956, 
+                    "end": 4963, 
+                    "score": 0.15132766962051392, 
+                    "spot": "counter"
+                }
+            ], 
+            "wiki_id": 1159409, 
+            "wiki_title": "Counterattack"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5358, 
+                    "end": 5361, 
+                    "score": 0.1449640989303589, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 5472, 
+                    "end": 5479, 
+                    "score": 0.16623197495937347, 
+                    "spot": "dollars"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4945, 
+                    "end": 4952, 
+                    "score": 0.0013219035463407636, 
+                    "spot": "nothing"
+                }
+            ], 
+            "wiki_id": 72197, 
+            "wiki_title": "Nothing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5072, 
+                    "end": 5075, 
+                    "score": 0.182559072971344, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 58422, 
+            "wiki_title": "Aviation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3445, 
+                    "end": 3447, 
+                    "score": 0.0320812426507473, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 3475, 
+                    "end": 3477, 
+                    "score": 0.049805354326963425, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 3643, 
+                    "end": 3645, 
+                    "score": 0.2114357352256775, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4711, 
+                    "end": 4720, 
+                    "score": 0.07067341357469559, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3415, 
+                    "end": 3419, 
+                    "score": 0.005892255809158087, 
+                    "spot": "grab"
+                }
+            ], 
+            "wiki_id": 3385603, 
+            "wiki_title": "Grab (software)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2913, 
+                    "end": 2923, 
+                    "score": 0.2924134135246277, 
+                    "spot": "waitresses"
+                }
+            ], 
+            "wiki_id": 309917, 
+            "wiki_title": "Waiting staff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 602, 
+                    "score": 0.14442045986652374, 
+                    "spot": "militiamen"
+                }, 
+                {
+                    "begin": 828, 
+                    "end": 838, 
+                    "score": 0.18761058151721954, 
+                    "spot": "militiamen"
+                }, 
+                {
+                    "begin": 1997, 
+                    "end": 2005, 
+                    "score": 0.08208999037742615, 
+                    "spot": "militias"
+                }, 
+                {
+                    "begin": 4522, 
+                    "end": 4529, 
+                    "score": 0.08754406869411469, 
+                    "spot": "militia"
+                }, 
+                {
+                    "begin": 4821, 
+                    "end": 4829, 
+                    "score": 0.07234207540750504, 
+                    "spot": "militias"
+                }, 
+                {
+                    "begin": 4926, 
+                    "end": 4934, 
+                    "score": 0.09164904057979584, 
+                    "spot": "militias"
+                }
+            ], 
+            "wiki_id": 20622, 
+            "wiki_title": "Militia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2703, 
+                    "end": 2712, 
+                    "score": 0.06966874748468399, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2864, 
+                    "end": 2870, 
+                    "score": 0.010897856205701828, 
+                    "spot": "return"
+                }
+            ], 
+            "wiki_id": 162169, 
+            "wiki_title": "Vanilla Fudge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 219, 
+                    "end": 229, 
+                    "score": 0.30757492780685425, 
+                    "spot": "white flag"
+                }
+            ], 
+            "wiki_id": 422019, 
+            "wiki_title": "White flag"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2769, 
+                    "end": 2776, 
+                    "score": 0.006306937430053949, 
+                    "spot": "picnics"
+                }
+            ], 
+            "wiki_id": 247616, 
+            "wiki_title": "Picnic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1601, 
+                    "end": 1617, 
+                    "score": 0.02299298532307148, 
+                    "spot": "armored vehicles"
+                }, 
+                {
+                    "begin": 5022, 
+                    "end": 5038, 
+                    "score": 0.41528555750846863, 
+                    "spot": "armored vehicles"
+                }
+            ], 
+            "wiki_id": 1226799, 
+            "wiki_title": "Vehicle armour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1896, 
+                    "end": 1902, 
+                    "score": 0.1541682630777359, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 7311, 
+                    "end": 7317, 
+                    "score": 0.07904406636953354, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3427, 
+                    "end": 3432, 
+                    "score": 0.15078049898147583, 
+                    "spot": "clear"
+                }
+            ], 
+            "wiki_id": 776556, 
+            "wiki_title": "Free-to-air"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2138, 
+                    "end": 2144, 
+                    "score": 0.10713997483253479, 
+                    "spot": "fanned"
+                }
+            ], 
+            "wiki_id": 242813, 
+            "wiki_title": "Strikeout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5715, 
+                    "end": 5717, 
+                    "score": 0.010501513257622719, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 1485646, 
+            "wiki_title": "Mathematical Reviews"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3695, 
+                    "end": 3703, 
+                    "score": 0.08797204494476318, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 2294746, 
+            "wiki_title": "The Shooting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3280, 
+                    "end": 3285, 
+                    "score": 0.001995416358113289, 
+                    "spot": "shots"
+                }
+            ], 
+            "wiki_id": 41032805, 
+            "wiki_title": "Shots (social network)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 105, 
+                    "end": 109, 
+                    "score": 0.1380464881658554, 
+                    "spot": "mark"
+                }
+            ], 
+            "wiki_id": 88160, 
+            "wiki_title": "Deutsche Mark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 667, 
+                    "end": 676, 
+                    "score": 0.5559829473495483, 
+                    "spot": "Ljubljana"
+                }, 
+                {
+                    "begin": 1472, 
+                    "end": 1481, 
+                    "score": 0.45848459005355835, 
+                    "spot": "Ljubljana"
+                }, 
+                {
+                    "begin": 3539, 
+                    "end": 3548, 
+                    "score": 0.412955641746521, 
+                    "spot": "Ljubljana"
+                }, 
+                {
+                    "begin": 4426, 
+                    "end": 4435, 
+                    "score": 0.45130693912506104, 
+                    "spot": "Ljubljana"
+                }
+            ], 
+            "wiki_id": 42374, 
+            "wiki_title": "Ljubljana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5059, 
+                    "end": 5069, 
+                    "score": 0.09340649843215942, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 616255, 
+            "wiki_title": "Government of Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 10, 
+                    "end": 20, 
+                    "score": 0.45419633388519287, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 7479, 
+                    "end": 7489, 
+                    "score": 0.26324647665023804, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 232269, 
+            "wiki_title": "Kingdom of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7258, 
+                    "end": 7269, 
+                    "score": 0.16590362787246704, 
+                    "spot": "bureaucracy"
+                }
+            ], 
+            "wiki_id": 20949522, 
+            "wiki_title": "Bureaucracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1926, 
+                    "end": 1930, 
+                    "score": 0.009271291084587574, 
+                    "spot": "hurt"
+                }
+            ], 
+            "wiki_id": 206583, 
+            "wiki_title": "Suffering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6363, 
+                    "end": 6375, 
+                    "score": 0.1606680005788803, 
+                    "spot": "declarations"
+                }
+            ], 
+            "wiki_id": 5560419, 
+            "wiki_title": "Declaration (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4120, 
+                    "end": 4132, 
+                    "score": 0.023337814956903458, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 6080, 
+                    "end": 6092, 
+                    "score": 0.16606438159942627, 
+                    "spot": "independence"
+                }, 
+                {
+                    "begin": 6350, 
+                    "end": 6362, 
+                    "score": 0.12064911425113678, 
+                    "spot": "independence"
+                }
+            ], 
+            "wiki_id": 31874, 
+            "wiki_title": "United States Declaration of Independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 330, 
+                    "end": 337, 
+                    "score": 0.7642725706100464, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 1738, 
+                    "end": 1745, 
+                    "score": 0.5057839155197144, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 4702, 
+                    "end": 4709, 
+                    "score": 0.535500705242157, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 5595, 
+                    "end": 5602, 
+                    "score": 0.6431061029434204, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 6709, 
+                    "end": 6716, 
+                    "score": 0.6019605398178101, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 6812, 
+                    "end": 6819, 
+                    "score": 0.6452275514602661, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 6924, 
+                    "end": 6931, 
+                    "score": 0.6348132491111755, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 7090, 
+                    "end": 7097, 
+                    "score": 0.596269965171814, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 7161, 
+                    "end": 7168, 
+                    "score": 0.5954700708389282, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 7323, 
+                    "end": 7330, 
+                    "score": 0.4519854784011841, 
+                    "spot": "Croatia"
+                }
+            ], 
+            "wiki_id": 5573, 
+            "wiki_title": "Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 926, 
+                    "end": 934, 
+                    "score": 0.13613687455654144, 
+                    "spot": "co-pilot"
+                }
+            ], 
+            "wiki_id": 2537084, 
+            "wiki_title": "First officer (aeronautics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1976, 
+                    "end": 1988, 
+                    "score": 0.3403145968914032, 
+                    "spot": "federal army"
+                }, 
+                {
+                    "begin": 3741, 
+                    "end": 3748, 
+                    "score": 0.07261207699775696, 
+                    "spot": "federal"
+                }
+            ], 
+            "wiki_id": 360126, 
+            "wiki_title": "Union Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4197, 
+                    "end": 4201, 
+                    "score": 0.0021966162603348494, 
+                    "spot": "team"
+                }
+            ], 
+            "wiki_id": 988407, 
+            "wiki_title": "Team sport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4257, 
+                    "end": 4262, 
+                    "score": 0.16428491473197937, 
+                    "spot": "heard"
+                }
+            ], 
+            "wiki_id": 13383, 
+            "wiki_title": "Heard Island and McDonald Islands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 614, 
+                    "end": 623, 
+                    "score": 0.05379375070333481, 
+                    "spot": "breakaway"
+                }
+            ], 
+            "wiki_id": 1254205, 
+            "wiki_title": "Breakaway (Kelly Clarkson album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2815, 
+                    "end": 2820, 
+                    "score": 0.08805161714553833, 
+                    "spot": "drama"
+                }
+            ], 
+            "wiki_id": 25584621, 
+            "wiki_title": "Drama (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5119, 
+                    "end": 5147, 
+                    "score": 0.06410256773233414, 
+                    "spot": "declarations of\nindependence"
+                }, 
+                {
+                    "begin": 6065, 
+                    "end": 6092, 
+                    "score": 0.302779883146286, 
+                    "spot": "declared their\nindependence"
+                }
+            ], 
+            "wiki_id": 8372, 
+            "wiki_title": "Declaration of independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4045, 
+                    "end": 4052, 
+                    "score": 0.008350730873644352, 
+                    "spot": "I'll go"
+                }
+            ], 
+            "wiki_id": 32425559, 
+            "wiki_title": "I'll Go"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5487, 
+                    "end": 5489, 
+                    "score": 0.038125477731227875, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 2520164, 
+            "wiki_title": "If (Bread song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6591, 
+                    "end": 6598, 
+                    "score": 0.18205101788043976, 
+                    "spot": "central"
+                }
+            ], 
+            "wiki_id": 5188, 
+            "wiki_title": "Central Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6098, 
+                    "end": 6116, 
+                    "score": 0.08299866318702698, 
+                    "spot": "federal parliament"
+                }
+            ], 
+            "wiki_id": 505877, 
+            "wiki_title": "Parliament of Malaysia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2570, 
+                    "end": 2573, 
+                    "score": 0.0815499797463417, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 7274, 
+                    "end": 7282, 
+                    "score": 0.02770550362765789, 
+                    "spot": "Together"
+                }
+            ], 
+            "wiki_id": 924038, 
+            "wiki_title": "Together (2000 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5460, 
+                    "end": 5468, 
+                    "score": 0.07319749891757965, 
+                    "spot": "millions"
+                }, 
+                {
+                    "begin": 7342, 
+                    "end": 7349, 
+                    "score": 0.15964393317699432, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1618, 
+                    "end": 1625, 
+                    "score": 0.0070315878838300705, 
+                    "spot": "smashed"
+                }
+            ], 
+            "wiki_id": 8011, 
+            "wiki_title": "Alcohol intoxication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4061, 
+                    "end": 4067, 
+                    "score": 0.001677952939644456, 
+                    "spot": "myself"
+                }
+            ], 
+            "wiki_id": 37918437, 
+            "wiki_title": "By Myself (1937 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2713, 
+                    "end": 2716, 
+                    "score": 0.0265261922031641, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 22310, 
+            "wiki_title": "Outing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1506, 
+                    "end": 1520, 
+                    "score": 0.2604186236858368, 
+                    "spot": "defense forces"
+                }
+            ], 
+            "wiki_id": 18905, 
+            "wiki_title": "Armed forces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2509, 
+                    "end": 2517, 
+                    "score": 0.12736156582832336, 
+                    "spot": "Slovenes"
+                }, 
+                {
+                    "begin": 3857, 
+                    "end": 3865, 
+                    "score": 0.12736156582832336, 
+                    "spot": "Slovenes"
+                }
+            ], 
+            "wiki_id": 1417198, 
+            "wiki_title": "Slovene Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3362, 
+                    "end": 3371, 
+                    "score": 0.0012603116920217872, 
+                    "spot": "horrified"
+                }
+            ], 
+            "wiki_id": 6398491, 
+            "wiki_title": "Horrified"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1788, 
+                    "end": 1795, 
+                    "score": 0.0014386004768311977, 
+                    "spot": "erupted"
+                }
+            ], 
+            "wiki_id": 8921015, 
+            "wiki_title": "Types of volcanic eruptions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5665, 
+                    "end": 5677, 
+                    "score": 0.20363116264343262, 
+                    "spot": "negotiations"
+                }, 
+                {
+                    "begin": 6410, 
+                    "end": 6422, 
+                    "score": 0.2216455191373825, 
+                    "spot": "negotiations"
+                }
+            ], 
+            "wiki_id": 22083, 
+            "wiki_title": "Negotiation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4339, 
+                    "end": 4351, 
+                    "score": 0.38401761651039124, 
+                    "spot": "World War II"
+                }
+            ], 
+            "wiki_id": 32927, 
+            "wiki_title": "World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1313, 
+                    "score": 0.0023612361401319504, 
+                    "spot": "wounded"
+                }
+            ], 
+            "wiki_id": 1517475, 
+            "wiki_title": "Blue (Third Eye Blind album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 139, 
+                    "end": 149, 
+                    "score": 0.4176217317581177, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 249, 
+                    "end": 259, 
+                    "score": 0.3530366122722626, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 346, 
+                    "end": 356, 
+                    "score": 0.46597185730934143, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 1831, 
+                    "end": 1841, 
+                    "score": 0.48669880628585815, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 2844, 
+                    "end": 2853, 
+                    "score": 0.3788936734199524, 
+                    "spot": "Yugoslavs"
+                }, 
+                {
+                    "begin": 3025, 
+                    "end": 3033, 
+                    "score": 0.11077764630317688, 
+                    "spot": "Yugoslav"
+                }, 
+                {
+                    "begin": 5412, 
+                    "end": 5420, 
+                    "score": 0.2799166738986969, 
+                    "spot": "Yugoslav"
+                }, 
+                {
+                    "begin": 5412, 
+                    "end": 5426, 
+                    "score": 0.3107871413230896, 
+                    "spot": "Yugoslav state"
+                }, 
+                {
+                    "begin": 5894, 
+                    "end": 5904, 
+                    "score": 0.45704948902130127, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 6494, 
+                    "end": 6504, 
+                    "score": 0.4354632496833801, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 6542, 
+                    "end": 6552, 
+                    "score": 0.5459317564964294, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 6653, 
+                    "end": 6663, 
+                    "score": 0.45825326442718506, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 7379, 
+                    "end": 7389, 
+                    "score": 0.3529500961303711, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 34244, 
+            "wiki_title": "Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4309, 
+                    "end": 4314, 
+                    "score": 0.02241225354373455, 
+                    "spot": "fired"
+                }
+            ], 
+            "wiki_id": 855322, 
+            "wiki_title": "Dismissal (employment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2498, 
+                    "end": 2503, 
+                    "score": 0.00605366937816143, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 1259118, 
+            "wiki_title": "In the House (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1955, 
+                    "end": 1963, 
+                    "score": 0.013900365680456161, 
+                    "spot": "shooting"
+                }
+            ], 
+            "wiki_id": 28495, 
+            "wiki_title": "Shooting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2906, 
+                    "end": 2911, 
+                    "score": 0.213027223944664, 
+                    "spot": "cooks"
+                }
+            ], 
+            "wiki_id": 1383563, 
+            "wiki_title": "Cook (profession)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1133, 
+                    "end": 1149, 
+                    "score": 0.016929499804973602, 
+                    "spot": "Defense Minister"
+                }
+            ], 
+            "wiki_id": 33632648, 
+            "wiki_title": "Ministry of National Defense of the People's Republic of China"
+        }
+    ]
+}

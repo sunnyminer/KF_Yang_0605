@@ -1,0 +1,2176 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1163, 
+                    "end": 1167, 
+                    "score": 0.022940145805478096, 
+                    "spot": "Hugo"
+                }
+            ], 
+            "wiki_id": 42146, 
+            "wiki_title": "Victor Hugo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 97, 
+                    "end": 101, 
+                    "score": 0.3495711088180542, 
+                    "spot": "East"
+                }
+            ], 
+            "wiki_id": 509486, 
+            "wiki_title": "Eastern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 305, 
+                    "end": 314, 
+                    "score": 0.24255475401878357, 
+                    "spot": "Caribbean"
+                }, 
+                {
+                    "begin": 2934, 
+                    "end": 2943, 
+                    "score": 0.40003132820129395, 
+                    "spot": "Caribbean"
+                }
+            ], 
+            "wiki_id": 7822, 
+            "wiki_title": "Caribbean Sea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 439, 
+                    "end": 447, 
+                    "score": 0.05793314427137375, 
+                    "spot": "swelling"
+                }
+            ], 
+            "wiki_id": 684811, 
+            "wiki_title": "Hematoma"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2108, 
+                    "end": 2115, 
+                    "score": 0.09903335571289062, 
+                    "spot": "minimum"
+                }
+            ], 
+            "wiki_id": 298420, 
+            "wiki_title": "Maxima and minima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 586, 
+                    "end": 633, 
+                    "score": 0.5, 
+                    "spot": "National Oceanic and Atmospheric Administration"
+                }
+            ], 
+            "wiki_id": 37876, 
+            "wiki_title": "National Oceanic and Atmospheric Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1841, 
+                    "end": 1847, 
+                    "score": 0.06745856255292892, 
+                    "spot": "trends"
+                }
+            ], 
+            "wiki_id": 477060, 
+            "wiki_title": "Linear trend estimation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2169, 
+                    "end": 2174, 
+                    "score": 0.0852603167295456, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 208174, 
+            "wiki_title": "8 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 893, 
+                    "score": 0.01267856452614069, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 19230848, 
+            "wiki_title": "Ra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1787, 
+                    "end": 1798, 
+                    "score": 0.22740502655506134, 
+                    "spot": "atmospheric"
+                }
+            ], 
+            "wiki_id": 202898, 
+            "wiki_title": "Atmosphere of Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 705, 
+                    "end": 710, 
+                    "score": 0.2536742091178894, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 796, 
+                    "end": 801, 
+                    "score": 0.268886536359787, 
+                    "spot": "Texas"
+                }, 
+                {
+                    "begin": 1312, 
+                    "end": 1317, 
+                    "score": 0.32534778118133545, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 29810, 
+            "wiki_title": "Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1072, 
+                    "end": 1084, 
+                    "score": 0.35125136375427246, 
+                    "spot": "preparedness"
+                }, 
+                {
+                    "begin": 1089, 
+                    "end": 1107, 
+                    "score": 0.012658228166401386, 
+                    "spot": "emergency planning"
+                }
+            ], 
+            "wiki_id": 1455589, 
+            "wiki_title": "Emergency management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2859, 
+                    "end": 2868, 
+                    "score": 0.1124645322561264, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 146334, 
+            "wiki_title": "Emergency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1012, 
+                    "score": 0.45652174949645996, 
+                    "spot": "We can't stop"
+                }
+            ], 
+            "wiki_id": 39407093, 
+            "wiki_title": "We Can't Stop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2310, 
+                    "end": 2314, 
+                    "score": 0.0744718536734581, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 6412297, 
+            "wiki_title": "5 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 328, 
+                    "end": 338, 
+                    "score": 0.29978087544441223, 
+                    "spot": "heavy\nrain"
+                }, 
+                {
+                    "begin": 334, 
+                    "end": 338, 
+                    "score": 0.24697697162628174, 
+                    "spot": "rain"
+                }, 
+                {
+                    "begin": 1832, 
+                    "end": 1840, 
+                    "score": 0.2673642337322235, 
+                    "spot": "rainfall"
+                }
+            ], 
+            "wiki_id": 19009110, 
+            "wiki_title": "Rain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 963, 
+                    "score": 0.11785393208265305, 
+                    "spot": "loss"
+                }
+            ], 
+            "wiki_id": 234798, 
+            "wiki_title": "Grief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2672, 
+                    "end": 2679, 
+                    "score": 0.05185382813215256, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3018, 
+                    "end": 3021, 
+                    "score": 0.05304410308599472, 
+                    "spot": "cut"
+                }
+            ], 
+            "wiki_id": 17253537, 
+            "wiki_title": "Censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2354, 
+                    "end": 2364, 
+                    "score": 0.26579973101615906, 
+                    "spot": "Category 1"
+                }, 
+                {
+                    "begin": 2420, 
+                    "end": 2430, 
+                    "score": 0.08666666597127914, 
+                    "spot": "Category 5"
+                }, 
+                {
+                    "begin": 2502, 
+                    "end": 2512, 
+                    "score": 0.4104444682598114, 
+                    "spot": "category 5"
+                }
+            ], 
+            "wiki_id": 255313, 
+            "wiki_title": "Saffir\u2013Simpson hurricane wind scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1678, 
+                    "end": 1684, 
+                    "score": 0.10664848983287811, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 854294, 
+            "wiki_title": "DNA repair"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 177, 
+                    "score": 0.017713049426674843, 
+                    "spot": "new\nera"
+                }
+            ], 
+            "wiki_id": 4862101, 
+            "wiki_title": "New Era (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2750, 
+                    "end": 2755, 
+                    "score": 0.004007990472018719, 
+                    "spot": "saved"
+                }
+            ], 
+            "wiki_id": 706990, 
+            "wiki_title": "Saved!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1778, 
+                    "end": 1785, 
+                    "score": 0.2729862332344055, 
+                    "spot": "decades"
+                }, 
+                {
+                    "begin": 2266, 
+                    "end": 2272, 
+                    "score": 0.09623061865568161, 
+                    "spot": "decade"
+                }
+            ], 
+            "wiki_id": 695530, 
+            "wiki_title": "Decade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2541, 
+                    "end": 2546, 
+                    "score": 0.15083755552768707, 
+                    "spot": "Barry"
+                }
+            ], 
+            "wiki_id": 574547, 
+            "wiki_title": "Barry University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2380, 
+                    "end": 2395, 
+                    "score": 0.027049873024225235, 
+                    "spot": "sustained winds"
+                }, 
+                {
+                    "begin": 2441, 
+                    "end": 2446, 
+                    "score": 0.2375718206167221, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 14633336, 
+            "wiki_title": "Maximum sustained wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2116, 
+                    "end": 2121, 
+                    "score": 0.17787578701972961, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1354, 
+                    "end": 1360, 
+                    "score": 0.09917649626731873, 
+                    "spot": "trends"
+                }
+            ], 
+            "wiki_id": 5053767, 
+            "wiki_title": "Trends (short story)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 894, 
+                    "end": 901, 
+                    "score": 0.06971866637468338, 
+                    "spot": "looking"
+                }
+            ], 
+            "wiki_id": 21280496, 
+            "wiki_title": "Visual perception"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 835, 
+                    "end": 841, 
+                    "score": 0.12606628239154816, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 69415, 
+            "wiki_title": "Economic growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2281, 
+                    "end": 2284, 
+                    "score": 0.14723068475723267, 
+                    "spot": "40s"
+                }
+            ], 
+            "wiki_id": 34823, 
+            "wiki_title": "40s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1851, 
+                    "end": 1862, 
+                    "score": 0.17829680442810059, 
+                    "spot": "West Africa"
+                }
+            ], 
+            "wiki_id": 67393, 
+            "wiki_title": "West Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1168, 
+                    "end": 1177, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 539, 
+                    "score": 0.018958261236548424, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 8, 
+                    "end": 38, 
+                    "score": 0.5, 
+                    "spot": "1990 Atlantic hurricane season"
+                }
+            ], 
+            "wiki_id": 804196, 
+            "wiki_title": "1990 Atlantic hurricane season"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 364, 
+                    "score": 0.25734153389930725, 
+                    "spot": "south Florida"
+                }
+            ], 
+            "wiki_id": 996451, 
+            "wiki_title": "South Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 619, 
+                    "end": 633, 
+                    "score": 0.1393529325723648, 
+                    "spot": "Administration"
+                }
+            ], 
+            "wiki_id": 19881, 
+            "wiki_title": "Management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1603, 
+                    "end": 1612, 
+                    "score": 0.3748830556869507, 
+                    "spot": "Caribbean"
+                }
+            ], 
+            "wiki_id": 18956035, 
+            "wiki_title": "Caribbean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 288, 
+                    "end": 297, 
+                    "score": 0.07213690876960754, 
+                    "spot": "last week"
+                }
+            ], 
+            "wiki_id": 41923028, 
+            "wiki_title": "Last Week Tonight with John Oliver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1539, 
+                    "end": 1554, 
+                    "score": 0.5, 
+                    "spot": "Lesser Antilles"
+                }
+            ], 
+            "wiki_id": 160659, 
+            "wiki_title": "Lesser Antilles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 52, 
+                    "end": 56, 
+                    "score": 0.005504511296749115, 
+                    "spot": "amid"
+                }
+            ], 
+            "wiki_id": 642286, 
+            "wiki_title": "Diyarbak\u0131r"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1523, 
+                    "end": 1529, 
+                    "score": 0.037465136498212814, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 724, 
+                    "end": 731, 
+                    "score": 0.0966787040233612, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 827, 
+                    "end": 834, 
+                    "score": 0.15137848258018494, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1050, 
+                    "score": 0.0007124306866899133, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 11649034, 
+            "wiki_title": "Canadian Hot 100"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 481, 
+                    "end": 487, 
+                    "score": 0.05815908685326576, 
+                    "spot": "handle"
+                }
+            ], 
+            "wiki_id": 40594, 
+            "wiki_title": "Pseudonym"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 46, 
+                    "end": 51, 
+                    "score": 0.004858291242271662, 
+                    "spot": "today"
+                }
+            ], 
+            "wiki_id": 226675, 
+            "wiki_title": "Today (U.S. TV program)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 967, 
+                    "end": 971, 
+                    "score": 0.0981881320476532, 
+                    "spot": "life"
+                }
+            ], 
+            "wiki_id": 18393, 
+            "wiki_title": "Life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 342, 
+                    "end": 346, 
+                    "score": 0.48588475584983826, 
+                    "spot": "Cuba"
+                }
+            ], 
+            "wiki_id": 5042481, 
+            "wiki_title": "Cuba"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 500, 
+                    "end": 509, 
+                    "score": 0.10996734350919724, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 298608, 
+            "wiki_title": "State of emergency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 62, 
+                    "end": 70, 
+                    "score": 0.11844504624605179, 
+                    "spot": "warnings"
+                }
+            ], 
+            "wiki_id": 937479, 
+            "wiki_title": "Tropical cyclone warnings and watches"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1337, 
+                    "end": 1339, 
+                    "score": 0.09631618857383728, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 155571, 
+            "wiki_title": "If (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 634, 
+                    "end": 640, 
+                    "score": 0.05738767981529236, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 4692150, 
+            "wiki_title": "Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 57, 
+                    "end": 61, 
+                    "score": 0.0029910269659012556, 
+                    "spot": "dire"
+                }
+            ], 
+            "wiki_id": 1064891, 
+            "wiki_title": "Dir\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 888, 
+                    "end": 890, 
+                    "score": 0.0726359486579895, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 1044, 
+                    "end": 1046, 
+                    "score": 0.05473867058753967, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 1399, 
+                    "end": 1401, 
+                    "score": 0.06727492064237595, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 2229, 
+                    "end": 2231, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2806, 
+                    "end": 2832, 
+                    "score": 0.4753086566925049, 
+                    "spot": "Emergency Broadcast\nSystem"
+                }
+            ], 
+            "wiki_id": 77687, 
+            "wiki_title": "Emergency Broadcast System"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2869, 
+                    "end": 2877, 
+                    "score": 0.05830556899309158, 
+                    "spot": "shelters"
+                }
+            ], 
+            "wiki_id": 762302, 
+            "wiki_title": "Homeless shelter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 516, 
+                    "end": 522, 
+                    "score": 0.0029802750796079636, 
+                    "spot": "Robert"
+                }
+            ], 
+            "wiki_id": 899362, 
+            "wiki_title": "Robert B. Sherman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 357, 
+                    "end": 364, 
+                    "score": 0.32345816493034363, 
+                    "spot": "Florida"
+                }, 
+                {
+                    "begin": 784, 
+                    "end": 791, 
+                    "score": 0.3153631389141083, 
+                    "spot": "Florida"
+                }
+            ], 
+            "wiki_id": 18933066, 
+            "wiki_title": "Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1595, 
+                    "end": 1612, 
+                    "score": 0.21506738662719727, 
+                    "spot": "eastern\nCaribbean"
+                }
+            ], 
+            "wiki_id": 489119, 
+            "wiki_title": "Organisation of Eastern Caribbean States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2064, 
+                    "end": 2077, 
+                    "score": 0.17980986833572388, 
+                    "spot": "United States"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1940, 
+                    "end": 1948, 
+                    "score": 0.14873382449150085, 
+                    "spot": "dropping"
+                }
+            ], 
+            "wiki_id": 24536042, 
+            "wiki_title": "Feces"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1740, 
+                    "end": 1748, 
+                    "score": 0.18719275295734406, 
+                    "spot": "activity"
+                }, 
+                {
+                    "begin": 1923, 
+                    "end": 1931, 
+                    "score": 0.17919503152370453, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 197767, 
+            "wiki_title": "Radioactive decay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1873, 
+                    "end": 1881, 
+                    "score": 0.14829164743423462, 
+                    "spot": "breeding"
+                }
+            ], 
+            "wiki_id": 26310, 
+            "wiki_title": "Reproduction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1380, 
+                    "end": 1397, 
+                    "score": 0.125, 
+                    "spot": "of what's to come"
+                }
+            ], 
+            "wiki_id": 20728017, 
+            "wiki_title": "Of What's to Come"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1667, 
+                    "end": 1674, 
+                    "score": 0.0669381320476532, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1399, 
+                    "end": 1405, 
+                    "score": 0.0010089363204315305, 
+                    "spot": "we are"
+                }
+            ], 
+            "wiki_id": 4444245, 
+            "wiki_title": "We Are (Ana Johnsson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2232, 
+                    "end": 2235, 
+                    "score": 0.06775154173374176, 
+                    "spot": "don"
+                }
+            ], 
+            "wiki_id": 294015, 
+            "wiki_title": "Don (honorific)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2437, 
+                    "end": 2440, 
+                    "score": 0.0009671834413893521, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 18180883, 
+            "wiki_title": "T.O.P (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1133, 
+                    "end": 1150, 
+                    "score": 0.5, 
+                    "spot": "Hurricane Gilbert"
+                }, 
+                {
+                    "begin": 2477, 
+                    "end": 2484, 
+                    "score": 0.38664522767066956, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 598523, 
+            "wiki_title": "Hurricane Gilbert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1369, 
+                    "end": 1379, 
+                    "score": 0.0021435809321701527, 
+                    "spot": "indication"
+                }
+            ], 
+            "wiki_id": 8075025, 
+            "wiki_title": "Indication (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2129, 
+                    "end": 2132, 
+                    "score": 0.009346182458102703, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 2402, 
+                    "end": 2405, 
+                    "score": 0.2794122099876404, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 2464, 
+                    "end": 2467, 
+                    "score": 0.1890762448310852, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1773, 
+                    "end": 1777, 
+                    "score": 0.20673318207263947, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 758833, 
+            "wiki_title": "Past"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1431, 
+                    "end": 1439, 
+                    "score": 0.04867353290319443, 
+                    "spot": "stronger"
+                }
+            ], 
+            "wiki_id": 277641, 
+            "wiki_title": "Strength of materials"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1499, 
+                    "end": 1505, 
+                    "score": 0.08154819160699844, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1581, 
+                    "end": 1587, 
+                    "score": 0.03240698575973511, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 711, 
+                    "end": 715, 
+                    "score": 0.11069034039974213, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 802, 
+                    "end": 806, 
+                    "score": 0.10541921108961105, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 79432, 
+            "wiki_title": "Will (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 769, 
+                    "end": 775, 
+                    "score": 0.1184949204325676, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1057, 
+                    "end": 1061, 
+                    "score": 0.16208720207214355, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 696, 
+                    "end": 701, 
+                    "score": 0.34968113899230957, 
+                    "spot": "Maine"
+                }, 
+                {
+                    "begin": 1303, 
+                    "end": 1308, 
+                    "score": 0.3002588450908661, 
+                    "spot": "Maine"
+                }
+            ], 
+            "wiki_id": 19977, 
+            "wiki_title": "Maine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 143, 
+                    "score": 0.11890409141778946, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 26345520, 
+            "wiki_title": "Dean L. May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2614, 
+                    "end": 2628, 
+                    "score": 0.2099781632423401, 
+                    "spot": "South Carolina"
+                }
+            ], 
+            "wiki_id": 963887, 
+            "wiki_title": "University of South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1478, 
+                    "end": 1484, 
+                    "score": 0.030904145911335945, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 1571, 
+                    "end": 1577, 
+                    "score": 0.05168027803301811, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2376, 
+                    "end": 2379, 
+                    "score": 0.0009671834413893521, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 302015, 
+            "wiki_title": "Top"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1799, 
+                    "end": 1811, 
+                    "score": 0.17356868088245392, 
+                    "spot": "low-pressure"
+                }
+            ], 
+            "wiki_id": 475199, 
+            "wiki_title": "Low-pressure area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2736, 
+                    "end": 2739, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 523571, 
+            "wiki_title": "Erskine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1689, 
+                    "end": 1695, 
+                    "score": 0.11123958975076675, 
+                    "spot": "Sheets"
+                }
+            ], 
+            "wiki_id": 4906, 
+            "wiki_title": "Beta sheet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1118, 
+                    "end": 1127, 
+                    "score": 0.006713269744068384, 
+                    "spot": "aftermath"
+                }
+            ], 
+            "wiki_id": 282291, 
+            "wiki_title": "Aftermath of World War I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1882, 
+                    "end": 1888, 
+                    "score": 0.16096554696559906, 
+                    "spot": "waters"
+                }
+            ], 
+            "wiki_id": 916345, 
+            "wiki_title": "Exclusive economic zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 83, 
+                    "end": 89, 
+                    "score": 0.21834488213062286, 
+                    "spot": "storms"
+                }
+            ], 
+            "wiki_id": 70807, 
+            "wiki_title": "Thunderstorm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 420, 
+                    "score": 0.12876500189304352, 
+                    "spot": "coastal"
+                }, 
+                {
+                    "begin": 674, 
+                    "end": 681, 
+                    "score": 0.09531479328870773, 
+                    "spot": "seaside"
+                }, 
+                {
+                    "begin": 1280, 
+                    "end": 1287, 
+                    "score": 0.1696457415819168, 
+                    "spot": "coastal"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1185, 
+                    "end": 1194, 
+                    "score": 0.031519245356321335, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 160793, 
+            "wiki_title": "Civil service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1393, 
+                    "end": 1397, 
+                    "score": 0.09992427378892899, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 40537182, 
+            "wiki_title": "The Come On"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2082, 
+                    "end": 2085, 
+                    "score": 0.04667653143405914, 
+                    "spot": "hit"
+                }
+            ], 
+            "wiki_id": 2402033, 
+            "wiki_title": "Hit record"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1566, 
+                    "end": 1570, 
+                    "score": 0.08354330062866211, 
+                    "spot": "Hugo"
+                }, 
+                {
+                    "begin": 2489, 
+                    "end": 2493, 
+                    "score": 0.36141636967658997, 
+                    "spot": "Hugo"
+                }, 
+                {
+                    "begin": 2652, 
+                    "end": 2656, 
+                    "score": 0.12817606329917908, 
+                    "spot": "Hugo"
+                }
+            ], 
+            "wiki_id": 278796, 
+            "wiki_title": "Hurricane Hugo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 377, 
+                    "end": 386, 
+                    "score": 0.002223210409283638, 
+                    "spot": "intensify"
+                }
+            ], 
+            "wiki_id": 49257982, 
+            "wiki_title": "Intensify"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2629, 
+                    "end": 2638, 
+                    "score": 0.18182000517845154, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 2945, 
+                    "end": 2954, 
+                    "score": 0.0830853283405304, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1319, 
+                    "end": 1325, 
+                    "score": 0.07875627279281616, 
+                    "spot": "Sheets"
+                }
+            ], 
+            "wiki_id": 42267454, 
+            "wiki_title": "Kenneth Sheets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1517, 
+                    "end": 1522, 
+                    "score": 0.09732987731695175, 
+                    "spot": "heavy"
+                }
+            ], 
+            "wiki_id": 146695, 
+            "wiki_title": "Bodyguard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2204, 
+                    "end": 2210, 
+                    "score": 0.042759887874126434, 
+                    "spot": "Sheets"
+                }
+            ], 
+            "wiki_id": 1528221, 
+            "wiki_title": "Sheet metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 807, 
+                    "end": 817, 
+                    "score": 0.18056118488311768, 
+                    "spot": "experience"
+                }
+            ], 
+            "wiki_id": 21402758, 
+            "wiki_title": "Qualia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2774, 
+                    "end": 2778, 
+                    "score": 0.022940145805478096, 
+                    "spot": "Hugo"
+                }
+            ], 
+            "wiki_id": 28866471, 
+            "wiki_title": "Hugo Award"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 22, 
+                    "end": 38, 
+                    "score": 0.11325706541538239, 
+                    "spot": "hurricane season"
+                }, 
+                {
+                    "begin": 193, 
+                    "end": 199, 
+                    "score": 0.5058640837669373, 
+                    "spot": "storms"
+                }, 
+                {
+                    "begin": 208, 
+                    "end": 217, 
+                    "score": 0.5667840242385864, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 208, 
+                    "end": 224, 
+                    "score": 0.2775198817253113, 
+                    "spot": "hurricane season"
+                }, 
+                {
+                    "begin": 268, 
+                    "end": 287, 
+                    "score": 0.10398505628108978, 
+                    "spot": "tropical depression"
+                }, 
+                {
+                    "begin": 394, 
+                    "end": 403, 
+                    "score": 0.16560257971286774, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 490, 
+                    "end": 499, 
+                    "score": 0.16421626508235931, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 1017, 
+                    "end": 1027, 
+                    "score": 0.059370528906583786, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 1440, 
+                    "end": 1450, 
+                    "score": 0.15068890154361725, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 1730, 
+                    "end": 1739, 
+                    "score": 0.17537038028240204, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 1898, 
+                    "end": 1908, 
+                    "score": 0.31564173102378845, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 1913, 
+                    "end": 1922, 
+                    "score": 0.3547942042350769, 
+                    "spot": "Hurricane"
+                }, 
+                {
+                    "begin": 2092, 
+                    "end": 2102, 
+                    "score": 0.1078561395406723, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 2180, 
+                    "end": 2186, 
+                    "score": 0.10964800417423248, 
+                    "spot": "storms"
+                }, 
+                {
+                    "begin": 2329, 
+                    "end": 2339, 
+                    "score": 0.2307138442993164, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 2913, 
+                    "end": 2922, 
+                    "score": 0.3077993094921112, 
+                    "spot": "hurricane"
+                }
+            ], 
+            "wiki_id": 8282374, 
+            "wiki_title": "Tropical cyclone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2527, 
+                    "end": 2540, 
+                    "score": 0.32135310769081116, 
+                    "spot": "meteorologist"
+                }
+            ], 
+            "wiki_id": 19904, 
+            "wiki_title": "Meteorology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2904, 
+                    "end": 2922, 
+                    "score": 0.12828423082828522, 
+                    "spot": "powerful hurricane"
+                }
+            ], 
+            "wiki_id": 33304151, 
+            "wiki_title": "1906 Florida Keys hurricane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1006, 
+                    "end": 1012, 
+                    "score": 0.3571428656578064, 
+                    "spot": "t stop"
+                }
+            ], 
+            "wiki_id": 168244, 
+            "wiki_title": "F-number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 664, 
+                    "end": 670, 
+                    "score": 0.03092685341835022, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 975, 
+                    "end": 981, 
+                    "score": 0.007082710508257151, 
+                    "spot": "Sheets"
+                }
+            ], 
+            "wiki_id": 3975372, 
+            "wiki_title": "Millard Sheets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 716, 
+                    "end": 720, 
+                    "score": 0.10960784554481506, 
+                    "spot": "grow"
+                }
+            ], 
+            "wiki_id": 11692351, 
+            "wiki_title": "GROW"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1656, 
+                    "end": 1662, 
+                    "score": 0.0637652724981308, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 4380391, 
+            "wiki_title": "World record"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 607, 
+                    "end": 618, 
+                    "score": 0.15207232534885406, 
+                    "spot": "Atmospheric"
+                }
+            ], 
+            "wiki_id": 202899, 
+            "wiki_title": "Atmosphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2011, 
+                    "end": 2016, 
+                    "score": 0.6483222246170044, 
+                    "spot": "Sahel"
+                }, 
+                {
+                    "begin": 2011, 
+                    "end": 2023, 
+                    "score": 0.4589010775089264, 
+                    "spot": "Sahel region"
+                }
+            ], 
+            "wiki_id": 82595, 
+            "wiki_title": "Sahel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2222, 
+                    "end": 2228, 
+                    "score": 0.0025392428506165743, 
+                    "spot": "I hope"
+                }
+            ], 
+            "wiki_id": 8144568, 
+            "wiki_title": "I Hope (Dixie Chicks song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1993, 
+                    "end": 1998, 
+                    "score": 0.141518697142601, 
+                    "spot": "1960s"
+                }
+            ], 
+            "wiki_id": 55558, 
+            "wiki_title": "Timeline of United States history"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1558, 
+                    "end": 1564, 
+                    "score": 0.34664154052734375, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2002, 
+                    "end": 2008, 
+                    "score": 0.21659588813781738, 
+                    "spot": "Africa"
+                }
+            ], 
+            "wiki_id": 5334607, 
+            "wiki_title": "Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1470, 
+                    "end": 1477, 
+                    "score": 0.024569157510995865, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 34051, 
+            "wiki_title": "Walter Gilbert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1234, 
+                    "end": 1242, 
+                    "score": 0.05477702245116234, 
+                    "spot": "evacuate"
+                }
+            ], 
+            "wiki_id": 1536572, 
+            "wiki_title": "Emergency evacuation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1288, 
+                    "end": 1297, 
+                    "score": 0.1129826158285141, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 935, 
+                    "end": 946, 
+                    "score": 0.08943884819746017, 
+                    "spot": "destruction"
+                }
+            ], 
+            "wiki_id": 5058690, 
+            "wiki_title": "September 11 attacks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1051, 
+                    "end": 1053, 
+                    "score": 0.08508358150720596, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 14335899, 
+            "wiki_title": "Doctor of Osteopathic Medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2715, 
+                    "end": 2723, 
+                    "score": 0.0007516181794926524, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 26711782, 
+            "wiki_title": "Together (John Farnham album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 38, 
+                    "score": 0.06703078746795654, 
+                    "spot": "Atlantic hurricane season"
+                }
+            ], 
+            "wiki_id": 2930244, 
+            "wiki_title": "Atlantic hurricane season"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2711, 
+                    "end": 2714, 
+                    "score": 0.0893627479672432, 
+                    "spot": "act"
+                }
+            ], 
+            "wiki_id": 1261305, 
+            "wiki_title": "Act (drama)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2198, 
+                    "end": 2202, 
+                    "score": 0.022940145805478096, 
+                    "spot": "Hugo"
+                }
+            ], 
+            "wiki_id": 626717, 
+            "wiki_title": "Human Genome Organisation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 125, 
+                    "end": 129, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 11493337, 
+            "wiki_title": "The Last (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2238, 
+                    "end": 2246, 
+                    "score": 0.09936471283435822, 
+                    "spot": "catch up"
+                }
+            ], 
+            "wiki_id": 147143, 
+            "wiki_title": "Video on demand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 82, 
+                    "score": 0.08012480288743973, 
+                    "spot": "killer"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 865, 
+                    "end": 871, 
+                    "score": 0.04738086834549904, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 18993857, 
+            "wiki_title": "Explosion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2315, 
+                    "end": 2325, 
+                    "score": 0.0036420784890651703, 
+                    "spot": "categories"
+                }
+            ], 
+            "wiki_id": 7224224, 
+            "wiki_title": "Subtitle (captioning)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 288, 
+                    "end": 292, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1272, 
+                    "end": 1279, 
+                    "score": 0.050787944346666336, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2238, 
+                    "end": 2243, 
+                    "score": 0.10029876232147217, 
+                    "spot": "catch"
+                }
+            ], 
+            "wiki_id": 46655601, 
+            "wiki_title": "The Catch (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1812, 
+                    "end": 1817, 
+                    "score": 0.26546651124954224, 
+                    "spot": "waves"
+                }
+            ], 
+            "wiki_id": 710251, 
+            "wiki_title": "Wind wave"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 154, 
+                    "end": 164, 
+                    "score": 0.08620689809322357, 
+                    "spot": "harbingers"
+                }
+            ], 
+            "wiki_id": 27455751, 
+            "wiki_title": "The Harbingers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1628, 
+                    "end": 1642, 
+                    "score": 0.38235101103782654, 
+                    "spot": "South Carolina"
+                }
+            ], 
+            "wiki_id": 27956, 
+            "wiki_title": "South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2700, 
+                    "end": 2710, 
+                    "score": 0.13488559424877167, 
+                    "spot": "proverbial"
+                }
+            ], 
+            "wiki_id": 23529, 
+            "wiki_title": "Proverb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1955, 
+                    "end": 1962, 
+                    "score": 0.27581787109375, 
+                    "spot": "drought"
+                }
+            ], 
+            "wiki_id": 37335, 
+            "wiki_title": "Drought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1038, 
+                    "end": 1043, 
+                    "score": 0.09156908094882965, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 26739428, 
+            "wiki_title": "The Thing (2011 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 987, 
+                    "end": 995, 
+                    "score": 0.009437070228159428, 
+                    "spot": "Thursday"
+                }
+            ], 
+            "wiki_id": 7634921, 
+            "wiki_title": "Thursday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2978, 
+                    "end": 3000, 
+                    "score": 0.13469591736793518, 
+                    "spot": "communications\nsystems"
+                }
+            ], 
+            "wiki_id": 40925, 
+            "wiki_title": "Communications system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 547, 
+                    "end": 572, 
+                    "score": 0.5, 
+                    "spot": "National Hurricane Center"
+                }, 
+                {
+                    "begin": 2564, 
+                    "end": 2589, 
+                    "score": 0.5, 
+                    "spot": "National Hurricane Center"
+                }
+            ], 
+            "wiki_id": 255317, 
+            "wiki_title": "National Hurricane Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 853, 
+                    "end": 859, 
+                    "score": 0.10078282654285431, 
+                    "spot": "period"
+                }
+            ], 
+            "wiki_id": 1376711, 
+            "wiki_title": "Historical period drama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 523, 
+                    "end": 529, 
+                    "score": 0.10975739359855652, 
+                    "spot": "Sheets"
+                }, 
+                {
+                    "begin": 1459, 
+                    "end": 1465, 
+                    "score": 0.08949883282184601, 
+                    "spot": "Sheets"
+                }, 
+                {
+                    "begin": 2594, 
+                    "end": 2600, 
+                    "score": 0.007082710508257151, 
+                    "spot": "Sheets"
+                }
+            ], 
+            "wiki_id": 10850541, 
+            "wiki_title": "Bob Sheets"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 297, 
+                    "score": 0.054595477879047394, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3025, 
+                    "end": 3032, 
+                    "score": 0.024569157510995865, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 2426668, 
+            "wiki_title": "Daniel Gilbert (psychologist)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 117, 
+                    "score": 0.024242423474788666, 
+                    "spot": "Gulf coasts"
+                }
+            ], 
+            "wiki_id": 11969, 
+            "wiki_title": "Gulf Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 682, 
+                    "end": 690, 
+                    "score": 0.17936575412750244, 
+                    "spot": "counties"
+                }
+            ], 
+            "wiki_id": 88366, 
+            "wiki_title": "County (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2978, 
+                    "end": 2992, 
+                    "score": 0.15422792732715607, 
+                    "spot": "communications"
+                }
+            ], 
+            "wiki_id": 33094374, 
+            "wiki_title": "Telecommunication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 733, 
+                    "end": 741, 
+                    "score": 0.08756624907255173, 
+                    "spot": "counting"
+                }
+            ], 
+            "wiki_id": 275768, 
+            "wiki_title": "Counting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 566, 
+                    "end": 572, 
+                    "score": 0.22453175485134125, 
+                    "spot": "Center"
+                }, 
+                {
+                    "begin": 2583, 
+                    "end": 2589, 
+                    "score": 0.007024150807410479, 
+                    "spot": "Center"
+                }
+            ], 
+            "wiki_id": 136589, 
+            "wiki_title": "Center, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2224, 
+                    "end": 2228, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 30328991, 
+            "wiki_title": "Hope (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 641, 
+                    "end": 649, 
+                    "score": 0.14613662660121918, 
+                    "spot": "predicts"
+                }, 
+                {
+                    "begin": 1705, 
+                    "end": 1716, 
+                    "score": 0.053648900240659714, 
+                    "spot": "predictions"
+                }
+            ], 
+            "wiki_id": 246066, 
+            "wiki_title": "Prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 421, 
+                    "end": 432, 
+                    "score": 0.07092231512069702, 
+                    "spot": "communities"
+                }, 
+                {
+                    "begin": 2842, 
+                    "end": 2853, 
+                    "score": 0.20517122745513916, 
+                    "spot": "communities"
+                }
+            ], 
+            "wiki_id": 5695, 
+            "wiki_title": "Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 654, 
+                    "end": 660, 
+                    "score": 0.14819392561912537, 
+                    "spot": "number"
+                }
+            ], 
+            "wiki_id": 19630739, 
+            "wiki_title": "Continent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 225, 
+                    "end": 229, 
+                    "score": 0.010328900068998337, 
+                    "spot": "runs"
+                }
+            ], 
+            "wiki_id": 236469, 
+            "wiki_title": "Run batted in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 971, 
+                    "score": 0.048134371638298035, 
+                    "spot": "loss of life"
+                }
+            ], 
+            "wiki_id": 240900, 
+            "wiki_title": "World War II casualties"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 243, 
+                    "score": 0.0062500000931322575, 
+                    "spot": "Nov. 30"
+                }
+            ], 
+            "wiki_id": 21577, 
+            "wiki_title": null
+        }
+    ]
+}

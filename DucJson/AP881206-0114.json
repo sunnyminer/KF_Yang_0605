@@ -1,0 +1,3256 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1431, 
+                    "end": 1457, 
+                    "score": 0.28260868787765503, 
+                    "spot": "electronic\nwarfare officer"
+                }
+            ], 
+            "wiki_id": 8207469, 
+            "wiki_title": "Electronic warfare officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2299, 
+                    "end": 2302, 
+                    "score": 0.005183176137506962, 
+                    "spot": "can"
+                }, 
+                {
+                    "begin": 3572, 
+                    "end": 3575, 
+                    "score": 0.027150576934218407, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 485, 
+                    "end": 493, 
+                    "score": 0.20725539326667786, 
+                    "spot": "landings"
+                }, 
+                {
+                    "begin": 622, 
+                    "end": 629, 
+                    "score": 0.07284560799598694, 
+                    "spot": "landing"
+                }
+            ], 
+            "wiki_id": 795034, 
+            "wiki_title": "Amphibious warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3788, 
+                    "end": 3796, 
+                    "score": 0.0007861634949222207, 
+                    "spot": "smashing"
+                }
+            ], 
+            "wiki_id": 21030206, 
+            "wiki_title": "Smashing!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3996, 
+                    "end": 4001, 
+                    "score": 0.018446102738380432, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 19743597, 
+            "wiki_title": "Crash (2008 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1771, 
+                    "end": 1787, 
+                    "score": 0.15715155005455017, 
+                    "spot": "General Hospital"
+                }
+            ], 
+            "wiki_id": 716091, 
+            "wiki_title": "General Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2851, 
+                    "end": 2856, 
+                    "score": 0.17191118001937866, 
+                    "spot": "night"
+                }
+            ], 
+            "wiki_id": 206119, 
+            "wiki_title": "Night"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1256, 
+                    "end": 1260, 
+                    "score": 0.05155801773071289, 
+                    "spot": "Minn"
+                }, 
+                {
+                    "begin": 1696, 
+                    "end": 1700, 
+                    "score": 0.22271113097667694, 
+                    "spot": "Minn"
+                }
+            ], 
+            "wiki_id": 19590, 
+            "wiki_title": "Minnesota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2481, 
+                    "end": 2489, 
+                    "score": 0.0011501251719892025, 
+                    "spot": "canceled"
+                }
+            ], 
+            "wiki_id": 11752874, 
+            "wiki_title": "Cancellation (television)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1761, 
+                    "end": 1787, 
+                    "score": 0.5, 
+                    "spot": "Marquette General Hospital"
+                }
+            ], 
+            "wiki_id": 178254, 
+            "wiki_title": "Marquette General Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3240, 
+                    "end": 3258, 
+                    "score": 0.28513407707214355, 
+                    "spot": "central California"
+                }
+            ], 
+            "wiki_id": 2049537, 
+            "wiki_title": "Central California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 661, 
+                    "end": 666, 
+                    "score": 0.012594458647072315, 
+                    "spot": "plane"
+                }, 
+                {
+                    "begin": 2318, 
+                    "end": 2323, 
+                    "score": 0.012594458647072315, 
+                    "spot": "plane"
+                }
+            ], 
+            "wiki_id": 14579836, 
+            "wiki_title": "Plane (Unicode)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2956, 
+                    "end": 2964, 
+                    "score": 0.10156282782554626, 
+                    "spot": "military"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1413, 
+                    "end": 1422, 
+                    "score": 0.030927835032343864, 
+                    "spot": "McCarrick"
+                }, 
+                {
+                    "begin": 1885, 
+                    "end": 1894, 
+                    "score": 0.030927835032343864, 
+                    "spot": "McCarrick"
+                }
+            ], 
+            "wiki_id": 2203206, 
+            "wiki_title": "Martin McCarrick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1012, 
+                    "end": 1016, 
+                    "score": 0.09654374420642853, 
+                    "spot": "Paul"
+                }
+            ], 
+            "wiki_id": 13736167, 
+            "wiki_title": "Paul McCartney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1554, 
+                    "end": 1557, 
+                    "score": 0.044278327375650406, 
+                    "spot": "Maj"
+                }
+            ], 
+            "wiki_id": 3412697, 
+            "wiki_title": "Major (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 146, 
+                    "end": 155, 
+                    "score": 0.05772383138537407, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 400892, 
+            "wiki_title": "Referee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 114, 
+                    "score": 0.19465406239032745, 
+                    "spot": "landings"
+                }, 
+                {
+                    "begin": 675, 
+                    "end": 679, 
+                    "score": 0.0015128160594031215, 
+                    "spot": "land"
+                }
+            ], 
+            "wiki_id": 230159, 
+            "wiki_title": "Landing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1488, 
+                    "end": 1497, 
+                    "score": 0.04829074442386627, 
+                    "spot": "1st Class"
+                }
+            ], 
+            "wiki_id": 460615, 
+            "wiki_title": "British undergraduate degree classification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1676, 
+                    "end": 1681, 
+                    "score": 0.07332931458950043, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 360820, 
+            "wiki_title": "Pilot (locomotive)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3172, 
+                    "end": 3179, 
+                    "score": 0.022562241181731224, 
+                    "spot": "aborted"
+                }
+            ], 
+            "wiki_id": 18664526, 
+            "wiki_title": "Aborted"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 330, 
+                    "end": 341, 
+                    "score": 0.16805903613567352, 
+                    "spot": "Air Command"
+                }
+            ], 
+            "wiki_id": 931406, 
+            "wiki_title": "Royal Canadian Air Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2433, 
+                    "end": 2437, 
+                    "score": 0.0005715259467251599, 
+                    "spot": "kind"
+                }
+            ], 
+            "wiki_id": 643272, 
+            "wiki_title": "Baraminology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2844, 
+                    "end": 2847, 
+                    "score": 0.16802236437797546, 
+                    "spot": "day"
+                }
+            ], 
+            "wiki_id": 8376, 
+            "wiki_title": "Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2653, 
+                    "end": 2660, 
+                    "score": 0.10679926723241806, 
+                    "spot": "weather"
+                }
+            ], 
+            "wiki_id": 73231, 
+            "wiki_title": "Weather forecasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2770, 
+                    "end": 2773, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2636, 
+                    "end": 2644, 
+                    "score": 0.2127673476934433, 
+                    "spot": "accident"
+                }
+            ], 
+            "wiki_id": 24462937, 
+            "wiki_title": "Accident"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3936, 
+                    "end": 3941, 
+                    "score": 0.08407258987426758, 
+                    "spot": "Dyess"
+                }
+            ], 
+            "wiki_id": 10028449, 
+            "wiki_title": "William E. Dyess"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2267, 
+                    "end": 2276, 
+                    "score": 0.10139049589633942, 
+                    "spot": "blessings"
+                }
+            ], 
+            "wiki_id": 337346, 
+            "wiki_title": "Blessing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1547, 
+                    "end": 1551, 
+                    "score": 0.1351647526025772, 
+                    "spot": "Mich"
+                }, 
+                {
+                    "begin": 4297, 
+                    "end": 4305, 
+                    "score": 0.3124823570251465, 
+                    "spot": "Michigan"
+                }
+            ], 
+            "wiki_id": 18859, 
+            "wiki_title": "Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 430, 
+                    "end": 442, 
+                    "score": 0.13276852667331696, 
+                    "spot": "headquarters"
+                }
+            ], 
+            "wiki_id": 745008, 
+            "wiki_title": "Headquarters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 18, 
+                    "end": 25, 
+                    "score": 0.011955136433243752, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 34754800, 
+            "wiki_title": "1919 Verona Caproni Ca.48 crash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1196, 
+                    "end": 1202, 
+                    "score": 0.02166377753019333, 
+                    "spot": "1st Lt"
+                }, 
+                {
+                    "begin": 1332, 
+                    "end": 1338, 
+                    "score": 0.20475700497627258, 
+                    "spot": "1st Lt"
+                }, 
+                {
+                    "begin": 1398, 
+                    "end": 1404, 
+                    "score": 0.22456136345863342, 
+                    "spot": "1st Lt"
+                }, 
+                {
+                    "begin": 1635, 
+                    "end": 1641, 
+                    "score": 0.02166377753019333, 
+                    "spot": "1st\nLt"
+                }
+            ], 
+            "wiki_id": 378357, 
+            "wiki_title": "First lieutenant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1231, 
+                    "end": 1236, 
+                    "score": 0.03792998194694519, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 5521962, 
+            "wiki_title": "Maritime pilot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3518, 
+                    "end": 3529, 
+                    "score": 0.514009416103363, 
+                    "spot": "B-1B bomber"
+                }, 
+                {
+                    "begin": 3567, 
+                    "end": 3571, 
+                    "score": 0.3754417896270752, 
+                    "spot": "B-1B"
+                }, 
+                {
+                    "begin": 3896, 
+                    "end": 3900, 
+                    "score": 0.2761824131011963, 
+                    "spot": "B-1B"
+                }
+            ], 
+            "wiki_id": 4952, 
+            "wiki_title": "Rockwell B-1 Lancer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 397, 
+                    "end": 408, 
+                    "score": 0.30645161867141724, 
+                    "spot": "George Peck"
+                }
+            ], 
+            "wiki_id": 24134344, 
+            "wiki_title": "George Peck (clergyman)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2343, 
+                    "end": 2346, 
+                    "score": 0.24063429236412048, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 14148802, 
+            "wiki_title": "With You (Chris Brown song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4153, 
+                    "end": 4156, 
+                    "score": 0.020820574834942818, 
+                    "spot": "K.I"
+                }
+            ], 
+            "wiki_id": 46556170, 
+            "wiki_title": "Ki (cuneiform)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2235, 
+                    "end": 2240, 
+                    "score": 0.10381688177585602, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 1749535, 
+            "wiki_title": "Crash (2004 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3349, 
+                    "end": 3364, 
+                    "score": 0.7618032693862915, 
+                    "spot": "Monument\nValley"
+                }
+            ], 
+            "wiki_id": 520576, 
+            "wiki_title": "Monument Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 841, 
+                    "end": 848, 
+                    "score": 0.19624395668506622, 
+                    "spot": "section"
+                }
+            ], 
+            "wiki_id": 619757, 
+            "wiki_title": "Section (military unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3182, 
+                    "end": 3189, 
+                    "score": 0.03946247324347496, 
+                    "spot": "takeoff"
+                }
+            ], 
+            "wiki_id": 18960192, 
+            "wiki_title": "Parody"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3394, 
+                    "end": 3406, 
+                    "score": 0.14051766693592072, 
+                    "spot": "crew members"
+                }
+            ], 
+            "wiki_id": 10827, 
+            "wiki_title": "Film crew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3328, 
+                    "end": 3335, 
+                    "score": 0.166861429810524, 
+                    "spot": "crashed"
+                }, 
+                {
+                    "begin": 3901, 
+                    "end": 3908, 
+                    "score": 0.1557672768831253, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 621890, 
+            "wiki_title": "British Aerospace 125"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2280, 
+                    "end": 2286, 
+                    "score": 0.22112736105918884, 
+                    "spot": "Bailey"
+                }
+            ], 
+            "wiki_id": 425823, 
+            "wiki_title": "Alice Bailey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 251, 
+                    "end": 258, 
+                    "score": 0.013849670067429543, 
+                    "spot": "crashed"
+                }, 
+                {
+                    "begin": 537, 
+                    "end": 544, 
+                    "score": 0.16066056489944458, 
+                    "spot": "crashed"
+                }, 
+                {
+                    "begin": 2539, 
+                    "end": 2544, 
+                    "score": 0.0767734944820404, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 3111, 
+                    "end": 3120, 
+                    "score": 0.13632600009441376, 
+                    "spot": "accidents"
+                }, 
+                {
+                    "begin": 3642, 
+                    "end": 3649, 
+                    "score": 0.08077593892812729, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 164536, 
+            "wiki_title": "Aviation accidents and incidents"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1966, 
+                    "end": 1974, 
+                    "score": 0.03910614550113678, 
+                    "spot": "Herrmann"
+                }
+            ], 
+            "wiki_id": 6492197, 
+            "wiki_title": "Walter Herrmann"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2162, 
+                    "end": 2168, 
+                    "score": 0.09826682507991791, 
+                    "spot": "Bailey"
+                }
+            ], 
+            "wiki_id": 5625184, 
+            "wiki_title": "John Bailey (American actor)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 739, 
+                    "end": 752, 
+                    "score": 0.31896552443504333, 
+                    "spot": "Senior\nAirman"
+                }, 
+                {
+                    "begin": 1055, 
+                    "end": 1068, 
+                    "score": 0.31896552443504333, 
+                    "spot": "Senior Airman"
+                }
+            ], 
+            "wiki_id": 561809, 
+            "wiki_title": "Senior airman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1442, 
+                    "end": 1457, 
+                    "score": 0.008810572326183319, 
+                    "spot": "warfare officer"
+                }
+            ], 
+            "wiki_id": 26422656, 
+            "wiki_title": "Officer Corps of the Royal Navy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1731, 
+                    "end": 1734, 
+                    "score": 0.0036772366147488356, 
+                    "spot": "Ann"
+                }
+            ], 
+            "wiki_id": 1324573, 
+            "wiki_title": "Ann Walton Kroenke"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2389, 
+                    "end": 2397, 
+                    "score": 0.08595294505357742, 
+                    "spot": "accident"
+                }, 
+                {
+                    "begin": 2698, 
+                    "end": 2703, 
+                    "score": 0.08059430122375488, 
+                    "spot": "crash"
+                }, 
+                {
+                    "begin": 4055, 
+                    "end": 4064, 
+                    "score": 0.10342050343751907, 
+                    "spot": "accidents"
+                }, 
+                {
+                    "begin": 4251, 
+                    "end": 4256, 
+                    "score": 0.018446102738380432, 
+                    "spot": "crash"
+                }
+            ], 
+            "wiki_id": 19740545, 
+            "wiki_title": "Traffic collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 446, 
+                    "end": 451, 
+                    "score": 0.41587087512016296, 
+                    "spot": "Omaha"
+                }, 
+                {
+                    "begin": 446, 
+                    "end": 456, 
+                    "score": 0.3056114912033081, 
+                    "spot": "Omaha, Neb"
+                }
+            ], 
+            "wiki_id": 46159, 
+            "wiki_title": "Omaha, Nebraska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1839, 
+                    "end": 1847, 
+                    "score": 0.03937118500471115, 
+                    "spot": "Phillips"
+                }
+            ], 
+            "wiki_id": 40690346, 
+            "wiki_title": "Phillips (auctioneers)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 48, 
+                    "end": 59, 
+                    "score": 0.4722222089767456, 
+                    "spot": "early today"
+                }
+            ], 
+            "wiki_id": 2070855, 
+            "wiki_title": "Early Today"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 921, 
+                    "end": 930, 
+                    "score": 0.08720336854457855, 
+                    "spot": "hospitals"
+                }, 
+                {
+                    "begin": 2029, 
+                    "end": 2037, 
+                    "score": 0.17749644815921783, 
+                    "spot": "hospital"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 964, 
+                    "end": 976, 
+                    "score": 0.05119214579463005, 
+                    "spot": "broken bones"
+                }
+            ], 
+            "wiki_id": 2914575, 
+            "wiki_title": "Broken Bones (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2597, 
+                    "end": 2614, 
+                    "score": 0.11690612137317657, 
+                    "spot": "board of officers"
+                }
+            ], 
+            "wiki_id": 4822, 
+            "wiki_title": "Board of directors"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 172, 
+                    "end": 176, 
+                    "score": 0.16715523600578308, 
+                    "spot": "crew"
+                }, 
+                {
+                    "begin": 788, 
+                    "end": 792, 
+                    "score": 0.16715523600578308, 
+                    "spot": "crew"
+                }, 
+                {
+                    "begin": 3394, 
+                    "end": 3398, 
+                    "score": 0.21072262525558472, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 6801, 
+            "wiki_title": "Crew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3709, 
+                    "end": 3718, 
+                    "score": 0.010241301730275154, 
+                    "spot": "nine days"
+                }
+            ], 
+            "wiki_id": 1355451, 
+            "wiki_title": "Nine Days"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 552, 
+                    "end": 555, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 545933, 
+            "wiki_title": "The One (2001 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 144, 
+                    "score": 0.003099186113104224, 
+                    "spot": "Base"
+                }
+            ], 
+            "wiki_id": 9579379, 
+            "wiki_title": "Base (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3262, 
+                    "end": 3269, 
+                    "score": 0.00803212821483612, 
+                    "spot": "Feb. 11"
+                }, 
+                {
+                    "begin": 3874, 
+                    "end": 3881, 
+                    "score": 0.009523809887468815, 
+                    "spot": "Nov. 17"
+                }, 
+                {
+                    "begin": 3886, 
+                    "end": 3892, 
+                    "score": 0.00917431153357029, 
+                    "spot": "Nov. 8"
+                }
+            ], 
+            "wiki_id": 21759, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2563, 
+                    "end": 2567, 
+                    "score": 0.0780828446149826, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 18493095, 
+            "wiki_title": "Open world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1624, 
+                    "end": 1628, 
+                    "score": 0.1690623164176941, 
+                    "spot": "Ariz"
+                }, 
+                {
+                    "begin": 3339, 
+                    "end": 3346, 
+                    "score": 0.3052278161048889, 
+                    "spot": "Arizona"
+                }
+            ], 
+            "wiki_id": 21883824, 
+            "wiki_title": "Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2223, 
+                    "end": 2227, 
+                    "score": 0.1585039645433426, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 320, 
+                    "end": 341, 
+                    "score": 0.5, 
+                    "spot": "Strategic Air Command"
+                }, 
+                {
+                    "begin": 426, 
+                    "end": 429, 
+                    "score": 0.1912345141172409, 
+                    "spot": "SAC"
+                }, 
+                {
+                    "begin": 4312, 
+                    "end": 4315, 
+                    "score": 0.2594590485095978, 
+                    "spot": "SAC"
+                }
+            ], 
+            "wiki_id": 28118, 
+            "wiki_title": "Strategic Air Command"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 290, 
+                    "score": 0.08538617193698883, 
+                    "spot": "Naomi"
+                }
+            ], 
+            "wiki_id": 19371120, 
+            "wiki_title": "Naomi Campbell"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 270, 
+                    "end": 273, 
+                    "score": 0.030590582638978958, 
+                    "spot": "a.m"
+                }
+            ], 
+            "wiki_id": 153398, 
+            "wiki_title": "Order of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2782, 
+                    "end": 2786, 
+                    "score": 0.002810434438288212, 
+                    "spot": "hour"
+                }
+            ], 
+            "wiki_id": 203688, 
+            "wiki_title": "Canonical hours"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4206, 
+                    "end": 4212, 
+                    "score": 0.4258686900138855, 
+                    "spot": "Oscoda"
+                }
+            ], 
+            "wiki_id": 72367, 
+            "wiki_title": "Oscoda, Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3958, 
+                    "end": 3963, 
+                    "score": 0.18844468891620636, 
+                    "spot": "Texas"
+                }
+            ], 
+            "wiki_id": 29810, 
+            "wiki_title": "Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1643, 
+                    "end": 1650, 
+                    "score": 0.01707201451063156, 
+                    "spot": "Gregory"
+                }
+            ], 
+            "wiki_id": 1134310, 
+            "wiki_title": "Augustus Charles Gregory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2044, 
+                    "end": 2053, 
+                    "score": 0.05132981017231941, 
+                    "spot": "Technical"
+                }
+            ], 
+            "wiki_id": 1135942, 
+            "wiki_title": "Technician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3687, 
+                    "end": 3693, 
+                    "score": 0.17027553915977478, 
+                    "spot": "flying"
+                }
+            ], 
+            "wiki_id": 58422, 
+            "wiki_title": "Aviation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2247, 
+                    "end": 2249, 
+                    "score": 0.0935439020395279, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1481, 
+                    "end": 1497, 
+                    "score": 0.20588235557079315, 
+                    "spot": "Airman 1st Class"
+                }
+            ], 
+            "wiki_id": 33280736, 
+            "wiki_title": "Airman first class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3583, 
+                    "end": 3593, 
+                    "score": 0.3021737039089203, 
+                    "spot": "supersonic"
+                }
+            ], 
+            "wiki_id": 61273, 
+            "wiki_title": "Supersonic speed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 301, 
+                    "end": 312, 
+                    "score": 0.005452821031212807, 
+                    "spot": "spokeswoman"
+                }, 
+                {
+                    "begin": 412, 
+                    "end": 421, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 773, 
+                    "end": 782, 
+                    "score": 0.007103105075657368, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 1041, 
+                    "end": 1050, 
+                    "score": 0.11210013180971146, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 1095, 
+                    "end": 1104, 
+                    "score": 0.03580350801348686, 
+                    "spot": "spokesman"
+                }, 
+                {
+                    "begin": 1745, 
+                    "end": 1756, 
+                    "score": 0.0658184364438057, 
+                    "spot": "spokeswoman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2755, 
+                    "end": 2763, 
+                    "score": 0.13592860102653503, 
+                    "spot": "missions"
+                }
+            ], 
+            "wiki_id": 666301, 
+            "wiki_title": "Military operation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 65, 
+                    "end": 71, 
+                    "score": 0.3795965313911438, 
+                    "spot": "runway"
+                }, 
+                {
+                    "begin": 2502, 
+                    "end": 2509, 
+                    "score": 0.07367765158414841, 
+                    "spot": "runways"
+                }, 
+                {
+                    "begin": 3205, 
+                    "end": 3211, 
+                    "score": 0.2355060875415802, 
+                    "spot": "runway"
+                }, 
+                {
+                    "begin": 3804, 
+                    "end": 3810, 
+                    "score": 0.17752406001091003, 
+                    "spot": "runway"
+                }
+            ], 
+            "wiki_id": 165094, 
+            "wiki_title": "Runway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1190, 
+                    "end": 1193, 
+                    "score": 0.13176997005939484, 
+                    "spot": "Fla"
+                }
+            ], 
+            "wiki_id": 18933066, 
+            "wiki_title": "Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1654, 
+                    "end": 1659, 
+                    "score": 0.046533916145563126, 
+                    "spot": "Smith"
+                }
+            ], 
+            "wiki_id": 247957, 
+            "wiki_title": "Smith College"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 885, 
+                    "end": 890, 
+                    "score": 0.031006652861833572, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 522, 
+                    "end": 528, 
+                    "score": 0.18588756024837494, 
+                    "spot": "flight"
+                }, 
+                {
+                    "begin": 3864, 
+                    "end": 3870, 
+                    "score": 0.12281060963869095, 
+                    "spot": "flight"
+                }
+            ], 
+            "wiki_id": 80785, 
+            "wiki_title": "Flight simulator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3051, 
+                    "end": 3057, 
+                    "score": 0.02344965562224388, 
+                    "spot": "pounds"
+                }
+            ], 
+            "wiki_id": 178702, 
+            "wiki_title": "Pound (force)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1586, 
+                    "end": 1602, 
+                    "score": 0.1631467491388321, 
+                    "spot": "instructor pilot"
+                }
+            ], 
+            "wiki_id": 3120217, 
+            "wiki_title": "Flight instructor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 513, 
+                    "end": 521, 
+                    "score": 0.2244422733783722, 
+                    "spot": "training"
+                }, 
+                {
+                    "begin": 2746, 
+                    "end": 2754, 
+                    "score": 0.16372360289096832, 
+                    "spot": "training"
+                }, 
+                {
+                    "begin": 3855, 
+                    "end": 3863, 
+                    "score": 0.17476968467235565, 
+                    "spot": "training"
+                }
+            ], 
+            "wiki_id": 770846, 
+            "wiki_title": "Trainer (aircraft)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3616, 
+                    "end": 3621, 
+                    "score": 0.09326565265655518, 
+                    "spot": "bombs"
+                }
+            ], 
+            "wiki_id": 19681450, 
+            "wiki_title": "Aerial bomb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 130, 
+                    "end": 139, 
+                    "score": 0.031584691256284714, 
+                    "spot": "Air Force"
+                }, 
+                {
+                    "begin": 3824, 
+                    "end": 3833, 
+                    "score": 0.15491048991680145, 
+                    "spot": "Air Force"
+                }, 
+                {
+                    "begin": 3942, 
+                    "end": 3951, 
+                    "score": 0.19005246460437775, 
+                    "spot": "Air Force"
+                }, 
+                {
+                    "begin": 4122, 
+                    "end": 4131, 
+                    "score": 0.031584691256284714, 
+                    "spot": "Air Force"
+                }, 
+                {
+                    "begin": 4218, 
+                    "end": 4227, 
+                    "score": 0.1772809773683548, 
+                    "spot": "Air Force"
+                }
+            ], 
+            "wiki_id": 32090, 
+            "wiki_title": "United States Air Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2456, 
+                    "end": 2465, 
+                    "score": 0.15582861006259918, 
+                    "spot": "exercises"
+                }
+            ], 
+            "wiki_id": 1225714, 
+            "wiki_title": "Military exercise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3496, 
+                    "end": 3502, 
+                    "score": 0.6286396980285645, 
+                    "spot": "B-52's"
+                }
+            ], 
+            "wiki_id": 176905, 
+            "wiki_title": "The B-52's"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3006, 
+                    "end": 3010, 
+                    "score": 0.12570296227931976, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4272, 
+                    "end": 4281, 
+                    "score": 0.10369493067264557, 
+                    "spot": "Wurtsmith"
+                }
+            ], 
+            "wiki_id": 22275302, 
+            "wiki_title": "Paul Wurtsmith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1608, 
+                    "end": 1622, 
+                    "score": 0.7439237833023071, 
+                    "spot": "Fountain Hills"
+                }
+            ], 
+            "wiki_id": 106646, 
+            "wiki_title": "Fountain Hills, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3063, 
+                    "end": 3067, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 23307859, 
+            "wiki_title": "Last (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1276, 
+                    "score": 0.08107248693704605, 
+                    "spot": "Anthony"
+                }
+            ], 
+            "wiki_id": 23257105, 
+            "wiki_title": "HMS Anthony (H40)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 646, 
+                    "end": 652, 
+                    "score": 0.04631322994828224, 
+                    "spot": "ground"
+                }
+            ], 
+            "wiki_id": 37738, 
+            "wiki_title": "Soil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1135, 
+                    "end": 1139, 
+                    "score": 0.06831513345241547, 
+                    "spot": "Mark"
+                }
+            ], 
+            "wiki_id": 317549, 
+            "wiki_title": "March (territorial entity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2920, 
+                    "end": 2928, 
+                    "score": 0.1407679170370102, 
+                    "spot": "deployed"
+                }
+            ], 
+            "wiki_id": 402018, 
+            "wiki_title": "Multistage rocket"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2207, 
+                    "end": 2215, 
+                    "score": 0.10342907905578613, 
+                    "spot": "controls"
+                }
+            ], 
+            "wiki_id": 104339, 
+            "wiki_title": "Game controller"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1204, 
+                    "end": 1211, 
+                    "score": 0.0055192033760249615, 
+                    "spot": "Michael"
+                }
+            ], 
+            "wiki_id": 37256, 
+            "wiki_title": "Michael I of Romania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3077, 
+                    "end": 3089, 
+                    "score": 0.08217589557170868, 
+                    "spot": "commissioned"
+                }
+            ], 
+            "wiki_id": 60925, 
+            "wiki_title": "Ship commissioning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4230, 
+                    "end": 4243, 
+                    "score": 0.05693599209189415, 
+                    "spot": "investigation"
+                }
+            ], 
+            "wiki_id": 53231, 
+            "wiki_title": "Discovery (observation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1499, 
+                    "end": 1505, 
+                    "score": 0.007433190476149321, 
+                    "spot": "Joseph"
+                }
+            ], 
+            "wiki_id": 62556, 
+            "wiki_title": "Joseph Bonaparte"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2364, 
+                    "score": 0.17005832493305206, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3971, 
+                    "end": 3985, 
+                    "score": 0.00206611561588943, 
+                    "spot": "one was killed"
+                }
+            ], 
+            "wiki_id": 33528631, 
+            "wiki_title": "Death of Ali Abdulhadi Mushaima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 726, 
+                    "end": 732, 
+                    "score": 0.1389608383178711, 
+                    "spot": "impact"
+                }
+            ], 
+            "wiki_id": 63794, 
+            "wiki_title": "Impact event"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2254, 
+                    "end": 2262, 
+                    "score": 0.0034256454091519117, 
+                    "spot": "counting"
+                }
+            ], 
+            "wiki_id": 275768, 
+            "wiki_title": "Counting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1492, 
+                    "end": 1497, 
+                    "score": 0.038744039833545685, 
+                    "spot": "Class"
+                }
+            ], 
+            "wiki_id": 59766, 
+            "wiki_title": "United States Naval Academy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 36, 
+                    "end": 47, 
+                    "score": 0.028368793427944183, 
+                    "spot": "into\nflames"
+                }
+            ], 
+            "wiki_id": 42262278, 
+            "wiki_title": "Into the Flames"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2810, 
+                    "end": 2817, 
+                    "score": 0.040935542434453964, 
+                    "spot": "trained"
+                }
+            ], 
+            "wiki_id": 1022936, 
+            "wiki_title": "Military education and training"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 716, 
+                    "end": 722, 
+                    "score": 0.15059401094913483, 
+                    "spot": "burned"
+                }, 
+                {
+                    "begin": 3913, 
+                    "end": 3919, 
+                    "score": 0.07627588510513306, 
+                    "spot": "burned"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1720, 
+                    "end": 1726, 
+                    "score": 0.12193412333726883, 
+                    "spot": "Sawyer"
+                }
+            ], 
+            "wiki_id": 12892580, 
+            "wiki_title": "Sawyer, Minnesota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1823, 
+                    "end": 1827, 
+                    "score": 0.006711356341838837, 
+                    "spot": "fair"
+                }
+            ], 
+            "wiki_id": 16369, 
+            "wiki_title": "Justice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1406, 
+                    "end": 1412, 
+                    "score": 0.009073684923350811, 
+                    "spot": "Daniel"
+                }
+            ], 
+            "wiki_id": 566801, 
+            "wiki_title": "Daniel Jackson (Stargate)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3503, 
+                    "end": 3512, 
+                    "score": 0.11942388862371445, 
+                    "spot": "successor"
+                }
+            ], 
+            "wiki_id": 46401361, 
+            "wiki_title": "Vulcan (rocket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4260, 
+                    "end": 4270, 
+                    "score": 0.0026946612633764744, 
+                    "spot": "incomplete"
+                }
+            ], 
+            "wiki_id": 2160641, 
+            "wiki_title": "Incomplete (Backstreet Boys song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3447, 
+                    "end": 3456, 
+                    "score": 0.20619942247867584, 
+                    "spot": "Air Force"
+                }
+            ], 
+            "wiki_id": 77587, 
+            "wiki_title": "United States Air Force Academy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1828, 
+                    "end": 1837, 
+                    "score": 0.0007245696033351123, 
+                    "spot": "condition"
+                }
+            ], 
+            "wiki_id": 354073, 
+            "wiki_title": "Planning permission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 166, 
+                    "end": 171, 
+                    "score": 0.0767773911356926, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 23014314, 
+            "wiki_title": "Eight (rowing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3840, 
+                    "end": 3843, 
+                    "score": 0.05752601474523544, 
+                    "spot": "S.D"
+                }
+            ], 
+            "wiki_id": 27590, 
+            "wiki_title": "Standard deviation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3925, 
+                    "end": 3930, 
+                    "score": 0.004986812360584736, 
+                    "spot": "field"
+                }
+            ], 
+            "wiki_id": 229134, 
+            "wiki_title": "John Field (composer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3017, 
+                    "end": 3039, 
+                    "score": 0.41616642475128174, 
+                    "spot": "maximum takeoff weight"
+                }
+            ], 
+            "wiki_id": 1069434, 
+            "wiki_title": "Maximum takeoff weight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2175, 
+                    "end": 2178, 
+                    "score": 0.08212374150753021, 
+                    "spot": "She"
+                }
+            ], 
+            "wiki_id": 2330347, 
+            "wiki_title": "She (Green Day song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1735, 
+                    "end": 1741, 
+                    "score": 0.045556046068668365, 
+                    "spot": "Parent"
+                }
+            ], 
+            "wiki_id": 146080, 
+            "wiki_title": "Holding company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 636, 
+                    "end": 641, 
+                    "score": 0.06552600115537643, 
+                    "spot": "touch"
+                }
+            ], 
+            "wiki_id": 667206, 
+            "wiki_title": "Touchscreen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 230, 
+                    "end": 235, 
+                    "score": 0.07552611827850342, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 37113344, 
+            "wiki_title": "Carry On (Avenged Sevenfold song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2247, 
+                    "end": 2253, 
+                    "score": 0.0010089363204315305, 
+                    "spot": "We are"
+                }
+            ], 
+            "wiki_id": 4444245, 
+            "wiki_title": "We Are (Ana Johnsson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2684, 
+                    "end": 2690, 
+                    "score": 0.003753793193027377, 
+                    "spot": "factor"
+                }
+            ], 
+            "wiki_id": 36082187, 
+            "wiki_title": "Factor (producer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2525, 
+                    "end": 2528, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 1337436, 
+            "wiki_title": "The One (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 281, 
+                    "end": 283, 
+                    "score": 0.08415540307760239, 
+                    "spot": "Lt"
+                }
+            ], 
+            "wiki_id": 411634, 
+            "wiki_title": "Lieutenant (junior grade)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2585, 
+                    "end": 2589, 
+                    "score": 0.07345432788133621, 
+                    "spot": "Peck"
+                }
+            ], 
+            "wiki_id": 24098846, 
+            "wiki_title": "James Peck (pacifist)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1509, 
+                    "end": 1515, 
+                    "score": 0.5, 
+                    "spot": "Vallie"
+                }, 
+                {
+                    "begin": 1852, 
+                    "end": 1858, 
+                    "score": 0.5, 
+                    "spot": "Vallie"
+                }
+            ], 
+            "wiki_id": 36954157, 
+            "wiki_title": "Yaseen Vallie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1380, 
+                    "end": 1395, 
+                    "score": 0.5, 
+                    "spot": "Sharpsville, Pa"
+                }
+            ], 
+            "wiki_id": 133276, 
+            "wiki_title": "Sharpsville, Pennsylvania"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4029, 
+                    "end": 4038, 
+                    "score": 0.03700365126132965, 
+                    "spot": "disclosed"
+                }
+            ], 
+            "wiki_id": 7485, 
+            "wiki_title": "Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 856, 
+                    "end": 864, 
+                    "score": 0.10380914062261581, 
+                    "spot": "aircraft"
+                }, 
+                {
+                    "begin": 2447, 
+                    "end": 2455, 
+                    "score": 0.12250760942697525, 
+                    "spot": "aircraft"
+                }
+            ], 
+            "wiki_id": 849, 
+            "wiki_title": "Aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3248, 
+                    "end": 3258, 
+                    "score": 0.25541138648986816, 
+                    "spot": "California"
+                }
+            ], 
+            "wiki_id": 5407, 
+            "wiki_title": "California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2059, 
+                    "end": 2064, 
+                    "score": 0.005914467852562666, 
+                    "spot": "Anita"
+                }
+            ], 
+            "wiki_id": 20950152, 
+            "wiki_title": "Anita (1967 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1463, 
+                    "end": 1478, 
+                    "score": 0.5, 
+                    "spot": "Succasunna, N.J"
+                }
+            ], 
+            "wiki_id": 125583, 
+            "wiki_title": "Succasunna-Kenvil, New Jersey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4165, 
+                    "end": 4172, 
+                    "score": 0.15298083424568176, 
+                    "spot": "crashed"
+                }
+            ], 
+            "wiki_id": 11929739, 
+            "wiki_title": "1968 Thule Air Base B-52 crash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 982, 
+                    "end": 988, 
+                    "score": 0.0029529293533414602, 
+                    "spot": "no one"
+                }, 
+                {
+                    "begin": 3271, 
+                    "end": 3277, 
+                    "score": 0.041212718933820724, 
+                    "spot": "No one"
+                }, 
+                {
+                    "begin": 3968, 
+                    "end": 3974, 
+                    "score": 0.013522978872060776, 
+                    "spot": "No one"
+                }
+            ], 
+            "wiki_id": 12960591, 
+            "wiki_title": "No One (Alicia Keys song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1559, 
+                    "end": 1566, 
+                    "score": 0.004040379077196121, 
+                    "spot": "William"
+                }
+            ], 
+            "wiki_id": 72201, 
+            "wiki_title": "Prince William, Duke of Cambridge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2147, 
+                    "end": 2150, 
+                    "score": 0.041556015610694885, 
+                    "spot": "fly"
+                }
+            ], 
+            "wiki_id": 63663, 
+            "wiki_title": "Fly"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4006, 
+                    "end": 4019, 
+                    "score": 0.01522460300475359, 
+                    "spot": "investigators"
+                }
+            ], 
+            "wiki_id": 118576, 
+            "wiki_title": "Detective"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2942, 
+                    "end": 2947, 
+                    "score": 0.08323686569929123, 
+                    "spot": "1950s"
+                }
+            ], 
+            "wiki_id": 34573, 
+            "wiki_title": "1950s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1651, 
+                    "end": 1659, 
+                    "score": 0.010284035466611385, 
+                    "spot": "C. Smith"
+                }
+            ], 
+            "wiki_id": 7685778, 
+            "wiki_title": "C. A. Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 835, 
+                    "end": 840, 
+                    "score": 0.19542932510375977, 
+                    "spot": "front"
+                }
+            ], 
+            "wiki_id": 1390396, 
+            "wiki_title": "Front (military formation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1129, 
+                    "end": 1133, 
+                    "score": 0.06615801900625229, 
+                    "spot": "Capt"
+                }
+            ], 
+            "wiki_id": 9320815, 
+            "wiki_title": "Captain (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4139, 
+                    "end": 4141, 
+                    "score": 0.004470102488994598, 
+                    "spot": "en"
+                }
+            ], 
+            "wiki_id": 222745, 
+            "wiki_title": "Participle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 935, 
+                    "end": 942, 
+                    "score": 0.04974769428372383, 
+                    "spot": "Members"
+                }
+            ], 
+            "wiki_id": 286413, 
+            "wiki_title": "Councillor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2832, 
+                    "end": 2836, 
+                    "score": 0.1871575117111206, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1984, 
+                    "score": 0.10311302542686462, 
+                    "spot": "Smith"
+                }
+            ], 
+            "wiki_id": 145092, 
+            "wiki_title": "Blacksmith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3814, 
+                    "end": 3823, 
+                    "score": 0.09535211324691772, 
+                    "spot": "Ellsworth"
+                }
+            ], 
+            "wiki_id": 639899, 
+            "wiki_title": "Ellsworth Mountains"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1302, 
+                    "end": 1311, 
+                    "score": 0.18702620267868042, 
+                    "spot": "navigator"
+                }
+            ], 
+            "wiki_id": 21854, 
+            "wiki_title": "Navigation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1668, 
+                    "end": 1675, 
+                    "score": 0.0034792781807482243, 
+                    "spot": "upgrade"
+                }
+            ], 
+            "wiki_id": 215107, 
+            "wiki_title": "Experience point"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 993, 
+                    "end": 999, 
+                    "score": 0.002532097976654768, 
+                    "spot": "burned"
+                }
+            ], 
+            "wiki_id": 152534, 
+            "wiki_title": "Book burning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 172, 
+                    "end": 184, 
+                    "score": 0.163544699549675, 
+                    "spot": "crew members"
+                }, 
+                {
+                    "begin": 788, 
+                    "end": 800, 
+                    "score": 0.163544699549675, 
+                    "spot": "crew members"
+                }
+            ], 
+            "wiki_id": 1600248, 
+            "wiki_title": "Crewman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 801, 
+                    "end": 808, 
+                    "score": 0.0013440860202535987, 
+                    "spot": "crawled"
+                }
+            ], 
+            "wiki_id": 33120, 
+            "wiki_title": "Web crawler"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1140, 
+                    "end": 1147, 
+                    "score": 0.18421052396297455, 
+                    "spot": "Hartney"
+                }, 
+                {
+                    "begin": 1794, 
+                    "end": 1801, 
+                    "score": 0.18421052396297455, 
+                    "spot": "Hartney"
+                }, 
+                {
+                    "begin": 2076, 
+                    "end": 2083, 
+                    "score": 0.18421052396297455, 
+                    "spot": "Hartney"
+                }
+            ], 
+            "wiki_id": 2248941, 
+            "wiki_title": "Hartney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2054, 
+                    "end": 2057, 
+                    "score": 0.06860987842082977, 
+                    "spot": "Sgt"
+                }
+            ], 
+            "wiki_id": 211923, 
+            "wiki_title": "Liver function tests"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2134, 
+                    "end": 2143, 
+                    "score": 0.06584116071462631, 
+                    "spot": "qualified"
+                }
+            ], 
+            "wiki_id": 4683903, 
+            "wiki_title": "2006\u201307 UEFA Cup"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1156, 
+                    "end": 1174, 
+                    "score": 0.19401714205741882, 
+                    "spot": "aircraft commander"
+                }, 
+                {
+                    "begin": 2092, 
+                    "end": 2110, 
+                    "score": 0.02800000086426735, 
+                    "spot": "aircraft commander"
+                }
+            ], 
+            "wiki_id": 226168, 
+            "wiki_title": "Commander"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 118, 
+                    "end": 144, 
+                    "score": 0.5, 
+                    "spot": "K.I. Sawyer Air Force Base"
+                }, 
+                {
+                    "begin": 123, 
+                    "end": 144, 
+                    "score": 0.3647317588329315, 
+                    "spot": "Sawyer Air Force Base"
+                }, 
+                {
+                    "begin": 2469, 
+                    "end": 2475, 
+                    "score": 0.18433406949043274, 
+                    "spot": "Sawyer"
+                }, 
+                {
+                    "begin": 4158, 
+                    "end": 4164, 
+                    "score": 0.14866362512111664, 
+                    "spot": "Sawyer"
+                }, 
+                {
+                    "begin": 4286, 
+                    "end": 4292, 
+                    "score": 0.1903131902217865, 
+                    "spot": "Sawyer"
+                }
+            ], 
+            "wiki_id": 118060, 
+            "wiki_title": "K. I. Sawyer Air Force Base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3215, 
+                    "end": 3236, 
+                    "score": 0.5, 
+                    "spot": "Castle Air Force\nBase"
+                }
+            ], 
+            "wiki_id": 2113985, 
+            "wiki_title": "Castle Air Force Base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4106, 
+                    "end": 4113, 
+                    "score": 0.012077294290065765, 
+                    "spot": "Oct. 11"
+                }
+            ], 
+            "wiki_id": 30004418, 
+            "wiki_title": "October 11 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1034, 
+                    "end": 1040, 
+                    "score": 0.1700158268213272, 
+                    "spot": "Sawyer"
+                }
+            ], 
+            "wiki_id": 471074, 
+            "wiki_title": "Diane Sawyer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4139, 
+                    "end": 4147, 
+                    "score": 0.0011202797759324312, 
+                    "spot": "en route"
+                }
+            ], 
+            "wiki_id": 13272826, 
+            "wiki_title": "En Route (Moebius and Plank album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2975, 
+                    "end": 2981, 
+                    "score": 0.26389259099960327, 
+                    "spot": "bomber"
+                }, 
+                {
+                    "begin": 3140, 
+                    "end": 3146, 
+                    "score": 0.21854740381240845, 
+                    "spot": "bomber"
+                }
+            ], 
+            "wiki_id": 3446, 
+            "wiki_title": "Bomber"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 592, 
+                    "score": 0.11114141345024109, 
+                    "spot": "Peck"
+                }, 
+                {
+                    "begin": 2708, 
+                    "end": 2712, 
+                    "score": 0.0818290114402771, 
+                    "spot": "Peck"
+                }
+            ], 
+            "wiki_id": 77491, 
+            "wiki_title": "Gregory Peck"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1340, 
+                    "end": 1345, 
+                    "score": 0.007341467309743166, 
+                    "spot": "James"
+                }
+            ], 
+            "wiki_id": 224020, 
+            "wiki_title": "James River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2065, 
+                    "end": 2071, 
+                    "score": 0.04043727368116379, 
+                    "spot": "Bailey"
+                }
+            ], 
+            "wiki_id": 14184553, 
+            "wiki_title": "Eric Bailey (GC)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1006, 
+                    "end": 1010, 
+                    "score": 0.011297119781374931, 
+                    "spot": "Capt"
+                }, 
+                {
+                    "begin": 1263, 
+                    "end": 1267, 
+                    "score": 0.03558420389890671, 
+                    "spot": "Capt"
+                }
+            ], 
+            "wiki_id": 6461120, 
+            "wiki_title": "Captain (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4132, 
+                    "end": 4138, 
+                    "score": 0.17482462525367737, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 237949, 
+            "wiki_title": "Aerial refueling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3605, 
+                    "end": 3610, 
+                    "score": 0.07061926275491714, 
+                    "spot": "carry"
+                }
+            ], 
+            "wiki_id": 84486, 
+            "wiki_title": "Portage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3772, 
+                    "end": 3781, 
+                    "score": 0.04921960085630417, 
+                    "spot": "destroyed"
+                }
+            ], 
+            "wiki_id": 1068262, 
+            "wiki_title": "Scrap"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1317, 
+                    "end": 1329, 
+                    "score": 0.5, 
+                    "spot": "Folkston, Ga"
+                }
+            ], 
+            "wiki_id": 109936, 
+            "wiki_title": "Folkston, Georgia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 824, 
+                    "end": 827, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 165794, 
+            "wiki_title": "In &amp; Out (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3151, 
+                    "end": 3158, 
+                    "score": 0.001345502445474267, 
+                    "spot": "damaged"
+                }
+            ], 
+            "wiki_id": 148054, 
+            "wiki_title": "Damaged (Black Flag album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 91, 
+                    "end": 103, 
+                    "score": 0.19978322088718414, 
+                    "spot": "touch-and-go"
+                }, 
+                {
+                    "begin": 563, 
+                    "end": 575, 
+                    "score": 0.0039432174526154995, 
+                    "spot": "touch-and-go"
+                }
+            ], 
+            "wiki_id": 852927, 
+            "wiki_title": "Touch-and-go landing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 753, 
+                    "end": 764, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Tim Sanders"
+                }, 
+                {
+                    "begin": 1069, 
+                    "end": 1080, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Tim Sanders"
+                }
+            ], 
+            "wiki_id": 25146477, 
+            "wiki_title": "Tim Sanders (politician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2575, 
+                    "score": 0.04043727368116379, 
+                    "spot": "Bailey"
+                }
+            ], 
+            "wiki_id": 45141589, 
+            "wiki_title": "Cameron Bailey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 950, 
+                    "end": 954, 
+                    "score": 0.04747665673494339, 
+                    "spot": "crew"
+                }, 
+                {
+                    "begin": 2793, 
+                    "end": 2798, 
+                    "score": 0.03132004663348198, 
+                    "spot": "Crews"
+                }
+            ], 
+            "wiki_id": 25736, 
+            "wiki_title": "Rowing (sport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3418, 
+                    "end": 3431, 
+                    "score": 0.04545454680919647, 
+                    "spot": "wings\nclipped"
+                }
+            ], 
+            "wiki_id": 317517, 
+            "wiki_title": "Wing clipping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 894, 
+                    "end": 903, 
+                    "score": 0.17022140324115753, 
+                    "spot": "Marquette"
+                }
+            ], 
+            "wiki_id": 20337, 
+            "wiki_title": "Marquette, Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2821, 
+                    "end": 2824, 
+                    "score": 0.02425740659236908, 
+                    "spot": "fly"
+                }
+            ], 
+            "wiki_id": 456601, 
+            "wiki_title": "The Fly (1986 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2295, 
+                    "end": 2298, 
+                    "score": 0.09706708788871765, 
+                    "spot": "You"
+                }
+            ], 
+            "wiki_id": 33944135, 
+            "wiki_title": "With You (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2324, 
+                    "end": 2337, 
+                    "score": 0.0010692328214645386, 
+                    "spot": "back together"
+                }, 
+                {
+                    "begin": 2365, 
+                    "end": 2378, 
+                    "score": 0.18204770982265472, 
+                    "spot": "back\ntogether"
+                }
+            ], 
+            "wiki_id": 47518587, 
+            "wiki_title": "Back Together (Robin Thicke song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1180, 
+                    "end": 1188, 
+                    "score": 0.2230272889137268, 
+                    "spot": "Mulberry"
+                }
+            ], 
+            "wiki_id": 357909, 
+            "wiki_title": "Mulberry harbour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3576, 
+                    "end": 3579, 
+                    "score": 0.19038861989974976, 
+                    "spot": "fly"
+                }
+            ], 
+            "wiki_id": 159472, 
+            "wiki_title": "Flight"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 630, 
+                    "end": 635, 
+                    "score": 0.16190367937088013, 
+                    "spot": "gears"
+                }
+            ], 
+            "wiki_id": 82916, 
+            "wiki_title": "Gear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 17, 
+                    "score": 0.18367347121238708, 
+                    "spot": "B-52 bomber"
+                }, 
+                {
+                    "begin": 2741, 
+                    "end": 2745, 
+                    "score": 0.32117965817451477, 
+                    "spot": "B-52"
+                }, 
+                {
+                    "begin": 2904, 
+                    "end": 2908, 
+                    "score": 0.23217236995697021, 
+                    "spot": "B-52"
+                }, 
+                {
+                    "begin": 3068, 
+                    "end": 3072, 
+                    "score": 0.2755263149738312, 
+                    "spot": "B-52"
+                }, 
+                {
+                    "begin": 3131, 
+                    "end": 3136, 
+                    "score": 0.44003748893737793, 
+                    "spot": "B-52s"
+                }, 
+                {
+                    "begin": 3296, 
+                    "end": 3307, 
+                    "score": 0.18367347121238708, 
+                    "spot": "B-52 bomber"
+                }, 
+                {
+                    "begin": 3557, 
+                    "end": 3561, 
+                    "score": 0.6017511487007141, 
+                    "spot": "B-52"
+                }
+            ], 
+            "wiki_id": 18933037, 
+            "wiki_title": "Boeing B-52 Stratofortress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3470, 
+                    "end": 3477, 
+                    "score": 0.13783666491508484, 
+                    "spot": "trouble"
+                }
+            ], 
+            "wiki_id": 5496741, 
+            "wiki_title": "T-R-O-U-B-L-E"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3754, 
+                    "end": 3761, 
+                    "score": 0.15282607078552246, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1570, 
+                    "end": 1577, 
+                    "score": 0.04324324429035187, 
+                    "spot": "Kroeger"
+                }, 
+                {
+                    "begin": 1929, 
+                    "end": 1936, 
+                    "score": 0.04324324429035187, 
+                    "spot": "Kroeger"
+                }
+            ], 
+            "wiki_id": 159351, 
+            "wiki_title": "Chad Kroeger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1597, 
+                    "end": 1602, 
+                    "score": 0.1881456971168518, 
+                    "spot": "pilot"
+                }, 
+                {
+                    "begin": 3166, 
+                    "end": 3171, 
+                    "score": 0.13208627700805664, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 66691, 
+            "wiki_title": "Pilot (aeronautics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2990, 
+                    "end": 2998, 
+                    "score": 0.5235474705696106, 
+                    "spot": "wingspan"
+                }
+            ], 
+            "wiki_id": 100439, 
+            "wiki_title": "Wingspan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 30, 
+                    "end": 35, 
+                    "score": 0.003448877949267626, 
+                    "spot": "burst"
+                }
+            ], 
+            "wiki_id": 5491618, 
+            "wiki_title": "Burst (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 904, 
+                    "end": 911, 
+                    "score": 0.05023038014769554, 
+                    "spot": "General"
+                }
+            ], 
+            "wiki_id": 2020679, 
+            "wiki_title": "General of The Salvation Army"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1523, 
+                    "end": 1529, 
+                    "score": 0.06493836641311646, 
+                    "spot": "gunner"
+                }
+            ], 
+            "wiki_id": 155526, 
+            "wiki_title": "Student"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3194, 
+                    "end": 3202, 
+                    "score": 0.014660493470728397, 
+                    "spot": "overshot"
+                }
+            ], 
+            "wiki_id": 150248, 
+            "wiki_title": "Water wheel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4176, 
+                    "end": 4200, 
+                    "score": 0.7119954824447632, 
+                    "spot": "Wurtsmith Air Force Base"
+                }
+            ], 
+            "wiki_id": 2930143, 
+            "wiki_title": "Wurtsmith Air Force Base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3382, 
+                    "end": 3389, 
+                    "score": 0.07276743650436401, 
+                    "spot": "killing"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 388, 
+                    "end": 395, 
+                    "score": 0.03318752348423004, 
+                    "spot": "Lt. Col"
+                }
+            ], 
+            "wiki_id": 33576304, 
+            "wiki_title": "Lieutenant colonel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1280, 
+                    "end": 1288, 
+                    "score": 0.13694152235984802, 
+                    "spot": "Phillips"
+                }
+            ], 
+            "wiki_id": 23550, 
+            "wiki_title": "Philips"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 342, 
+                    "end": 354, 
+                    "score": 0.1813877820968628, 
+                    "spot": "installation"
+                }, 
+                {
+                    "begin": 768, 
+                    "end": 772, 
+                    "score": 0.003099186113104224, 
+                    "spot": "base"
+                }, 
+                {
+                    "begin": 916, 
+                    "end": 920, 
+                    "score": 0.06206740066409111, 
+                    "spot": "base"
+                }, 
+                {
+                    "begin": 1090, 
+                    "end": 1094, 
+                    "score": 0.08003468811511993, 
+                    "spot": "base"
+                }, 
+                {
+                    "begin": 2024, 
+                    "end": 2028, 
+                    "score": 0.0915515124797821, 
+                    "spot": "base"
+                }, 
+                {
+                    "begin": 4316, 
+                    "end": 4321, 
+                    "score": 0.1908532679080963, 
+                    "spot": "bases"
+                }
+            ], 
+            "wiki_id": 843566, 
+            "wiki_title": "Military base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 611, 
+                    "end": 620, 
+                    "score": 0.08907579630613327, 
+                    "spot": "maneuvers"
+                }
+            ], 
+            "wiki_id": 28198, 
+            "wiki_title": "Surfing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 465, 
+                    "end": 469, 
+                    "score": 0.2981712222099304, 
+                    "spot": "crew"
+                }
+            ], 
+            "wiki_id": 29970, 
+            "wiki_title": "Tank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2851, 
+                    "end": 2859, 
+                    "score": 0.001109467470087111, 
+                    "spot": "night\nin"
+                }
+            ], 
+            "wiki_id": 19620844, 
+            "wiki_title": "A Night In"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3738, 
+                    "end": 3741, 
+                    "score": 0.1563112586736679, 
+                    "spot": "One"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2615, 
+                    "end": 2619, 
+                    "score": 0.1834467202425003, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1990, 
+                    "end": 1996, 
+                    "score": 0.08965559303760529, 
+                    "spot": "listed"
+                }
+            ], 
+            "wiki_id": 202009, 
+            "wiki_title": "Listed building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1687, 
+                    "end": 1694, 
+                    "score": 0.10738775134086609, 
+                    "spot": "Henning"
+                }
+            ], 
+            "wiki_id": 121127, 
+            "wiki_title": "Henning, Minnesota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2192, 
+                    "end": 2195, 
+                    "score": 0.13909760117530823, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 291, 
+                    "end": 297, 
+                    "score": 0.20000000298023224, 
+                    "spot": "Siegal"
+                }
+            ], 
+            "wiki_id": 24004357, 
+            "wiki_title": "John Siegal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1204, 
+                    "end": 1213, 
+                    "score": 0.003416010644286871, 
+                    "spot": "Michael S"
+                }
+            ], 
+            "wiki_id": 1526914, 
+            "wiki_title": "Michaels"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3434, 
+                    "end": 3438, 
+                    "score": 0.14822737872600555, 
+                    "spot": "mesa"
+                }
+            ], 
+            "wiki_id": 106653, 
+            "wiki_title": "Mesa, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 202, 
+                    "end": 207, 
+                    "score": 0.11692222952842712, 
+                    "spot": "plane"
+                }, 
+                {
+                    "begin": 710, 
+                    "end": 715, 
+                    "score": 0.1731172353029251, 
+                    "spot": "plane"
+                }, 
+                {
+                    "begin": 2155, 
+                    "end": 2160, 
+                    "score": 0.029893066734075546, 
+                    "spot": "plane"
+                }, 
+                {
+                    "begin": 3672, 
+                    "end": 3677, 
+                    "score": 0.2564314007759094, 
+                    "spot": "plane"
+                }
+            ], 
+            "wiki_id": 1396249, 
+            "wiki_title": "Airplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1535, 
+                    "end": 1545, 
+                    "score": 0.20918983221054077, 
+                    "spot": "Stephenson"
+                }
+            ], 
+            "wiki_id": 10236181, 
+            "wiki_title": "Samuel M. Stephenson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 249, 
+                    "score": 0.16291207075119019, 
+                    "spot": "nuclear bombs"
+                }, 
+                {
+                    "begin": 362, 
+                    "end": 369, 
+                    "score": 0.17232422530651093, 
+                    "spot": "weapons"
+                }
+            ], 
+            "wiki_id": 21785, 
+            "wiki_title": "Nuclear weapon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 694, 
+                    "end": 702, 
+                    "score": 0.11117415130138397, 
+                    "spot": "sections"
+                }
+            ], 
+            "wiki_id": 1337370, 
+            "wiki_title": "Cross section (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1867, 
+                    "end": 1883, 
+                    "score": 0.011070110835134983, 
+                    "spot": "stable condition"
+                }, 
+                {
+                    "begin": 1902, 
+                    "end": 1924, 
+                    "score": 0.01923076994717121, 
+                    "spot": "satisfactory condition"
+                }, 
+                {
+                    "begin": 1944, 
+                    "end": 1961, 
+                    "score": 0.009831461124122143, 
+                    "spot": "serious condition"
+                }, 
+                {
+                    "begin": 2000, 
+                    "end": 2016, 
+                    "score": 0.011070110835134983, 
+                    "spot": "stable condition"
+                }
+            ], 
+            "wiki_id": 30864674, 
+            "wiki_title": "Medical state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1296, 
+                    "end": 1301, 
+                    "score": 0.27516335248947144, 
+                    "spot": "radar"
+                }, 
+                {
+                    "begin": 3313, 
+                    "end": 3318, 
+                    "score": 0.3742171823978424, 
+                    "spot": "radar"
+                }
+            ], 
+            "wiki_id": 25676, 
+            "wiki_title": "Radar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2864, 
+                    "end": 2871, 
+                    "score": 0.13376177847385406, 
+                    "spot": "weather"
+                }
+            ], 
+            "wiki_id": 33978, 
+            "wiki_title": "Weather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1365, 
+                    "end": 1374, 
+                    "score": 0.05535561218857765, 
+                    "spot": "navigator"
+                }
+            ], 
+            "wiki_id": 399311, 
+            "wiki_title": "Navigator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1242, 
+                    "end": 1254, 
+                    "score": 0.4205658435821533, 
+                    "spot": "New\nBrighton"
+                }
+            ], 
+            "wiki_id": 121457, 
+            "wiki_title": "New Brighton, Minnesota"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1346, 
+                    "end": 1357, 
+                    "score": 0.13636364042758942, 
+                    "spot": "W. Herrmann"
+                }
+            ], 
+            "wiki_id": 16570765, 
+            "wiki_title": "Walter Herrmann (physicist)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2402, 
+                    "end": 2412, 
+                    "score": 0.08767013251781464, 
+                    "spot": "classified"
+                }
+            ], 
+            "wiki_id": 252857, 
+            "wiki_title": "Classified information"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+
+3  Shrubland  1.5125   :
+	dead brush
+	clear brush
+	live brush
+	drought-weakened brush
+	brush
+
+4  Foothills  1.44375   :
+	foothill districts
+	chaparral-covered foothill
+	vulnerable foothills
+
+5  Bark  1.44375   :
+	bark beetles
+	bark
+
+6  Residential area  1.44375   :
+	residential areas
+	residential districts
+
+90  Fungus  0.9625   :
+	rare fungus
+	fungus
+
+101  Map  0.48125   :
+	county fire department map
+	map
+
+106  Fire station  0.48125   :
+	county fire department map
+	county fire department
+
+131  Poaceae  0.320833333333   :
+	tall grass
+	grass
+
+142  Gasoline  0.320833333333   :
+	fuel source
+	gasoline
+
+144  Energy  0.320833333333   :
+	same fuel energy
+	energy
+
+145  Season  0.296153846154   :
+	rainfall season
+	wildfire seasons
+	seasonal average
+
+147  Hill  0.275   :
+	hillside chaparral
+	hillside
+
+151  Southern California  0.240625   :
+	many southern california neighborhoods
+	southern california
+
+160  Function (mathematics)  0.240625   :
+	fire stress areas map
+	map
+
+165  Firefighting  0.20625   :
+	extra firefighting personnel
+	firefighting crews
+	firefighting
+
+173  Drought  0.185096153846   :
+	long drought
+	current dry spell
+	drought
+
+174  United States Forest Service  0.18046875   :
+	state division
+	u.s. forest service
+
+176  Fuel  0.175   :
+	same fuel energy
+	tinder-dry fuel
+
+177  Rain  0.175   :
+	rainfall season
+	good rainfall
+	annual rainfall
+	normal rainfall
+	rainfall
+	measurable rain
+
+178  Tree  0.169852941176   :
+	healthy trees
+	trees
+
+189  Fire  0.144375   :
+	los angeles county fire department
+	fire stress areas map
+	fire officials
+	high fire hazards
+	fire management specialist
+	fires
+	blaze
+
+190  Wildfire  0.142592592593   :
+	wildfire danger
+	many wildfires
+	wildfire seasons
+
+195  United States National Forest  0.1375   :
+	san bernardino national forests
+	national forests
+
+202  Referee  0.1203125   :
+	fire officials
+	officials
+
+206  United States Department of State  0.1203125   :
+	state department
+	state division
+
+211  Los Angeles  0.1203125   :
+	los angeles
+	city
+
+232  Acre  0.077   :
+	acre
+	acres
+
+240  California  0.072641509434   :
+	many southern california neighborhoods
+	southern california
+
+248  Police officer  0.06015625   :
+	fire prevention officer
+	vegetation management officer
+
+254  Average  0.0566176470588   :
+	annual average
+	seasonal average
+
+306  Official  0.0226470588235   :
+	fire officials

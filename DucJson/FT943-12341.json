@@ -1,0 +1,4258 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1501, 
+                    "end": 1507, 
+                    "score": 0.11331544816493988, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 334803, 
+            "wiki_title": "Public sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1356, 
+                    "end": 1366, 
+                    "score": 0.2159363478422165, 
+                    "spot": "misleading"
+                }
+            ], 
+            "wiki_id": 151604, 
+            "wiki_title": "Deception"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 358, 
+                    "score": 0.0013895246665924788, 
+                    "spot": "experts"
+                }, 
+                {
+                    "begin": 4609, 
+                    "end": 4616, 
+                    "score": 0.0013895246665924788, 
+                    "spot": "experts"
+                }, 
+                {
+                    "begin": 6162, 
+                    "end": 6169, 
+                    "score": 0.15844647586345673, 
+                    "spot": "experts"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 95, 
+                    "score": 0.19900335371494293, 
+                    "spot": "dense"
+                }
+            ], 
+            "wiki_id": 8429, 
+            "wiki_title": "Density"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6216, 
+                    "end": 6225, 
+                    "score": 0.0005668155499733984, 
+                    "spot": "Meanwhile"
+                }
+            ], 
+            "wiki_id": 7052969, 
+            "wiki_title": "...Meanwhile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2937, 
+                    "end": 2947, 
+                    "score": 0.10648953169584274, 
+                    "spot": "precursors"
+                }, 
+                {
+                    "begin": 4362, 
+                    "end": 4371, 
+                    "score": 0.06385782361030579, 
+                    "spot": "precursor"
+                }
+            ], 
+            "wiki_id": 10940802, 
+            "wiki_title": "Precursor (chemistry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4372, 
+                    "end": 4380, 
+                    "score": 0.12622851133346558, 
+                    "spot": "patterns"
+                }
+            ], 
+            "wiki_id": 5992, 
+            "wiki_title": "Traditional Chinese medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1112, 
+                    "end": 1120, 
+                    "score": 0.19946467876434326, 
+                    "spot": "research"
+                }, 
+                {
+                    "begin": 1653, 
+                    "end": 1661, 
+                    "score": 0.1534288376569748, 
+                    "spot": "Research"
+                }, 
+                {
+                    "begin": 4973, 
+                    "end": 4981, 
+                    "score": 0.1175234243273735, 
+                    "spot": "research"
+                }, 
+                {
+                    "begin": 5089, 
+                    "end": 5097, 
+                    "score": 0.14866237342357635, 
+                    "spot": "research"
+                }, 
+                {
+                    "begin": 5137, 
+                    "end": 5145, 
+                    "score": 0.08908597379922867, 
+                    "spot": "research"
+                }, 
+                {
+                    "begin": 5398, 
+                    "end": 5409, 
+                    "score": 0.1857377588748932, 
+                    "spot": "researchers"
+                }
+            ], 
+            "wiki_id": 25524, 
+            "wiki_title": "Research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 854, 
+                    "end": 859, 
+                    "score": 0.07143491506576538, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 208174, 
+            "wiki_title": "8 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3658, 
+                    "end": 3666, 
+                    "score": 0.13652807474136353, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1901, 
+                    "end": 1909, 
+                    "score": 0.11097706109285355, 
+                    "spot": "offshore"
+                }
+            ], 
+            "wiki_id": 22451, 
+            "wiki_title": "Offshore powerboat racing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 402, 
+                    "end": 411, 
+                    "score": 0.034582313150167465, 
+                    "spot": "recognise"
+                }
+            ], 
+            "wiki_id": 524626, 
+            "wiki_title": "Diplomatic recognition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1324, 
+                    "end": 1330, 
+                    "score": 0.0720512717962265, 
+                    "spot": "wastes"
+                }
+            ], 
+            "wiki_id": 20646971, 
+            "wiki_title": "Waste"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1371, 
+                    "end": 1377, 
+                    "score": 0.17899826169013977, 
+                    "spot": "public"
+                }, 
+                {
+                    "begin": 5466, 
+                    "end": 5472, 
+                    "score": 0.158774733543396, 
+                    "spot": "public"
+                }, 
+                {
+                    "begin": 6117, 
+                    "end": 6123, 
+                    "score": 0.23055399954319, 
+                    "spot": "Public"
+                }
+            ], 
+            "wiki_id": 307834, 
+            "wiki_title": "Public"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2423, 
+                    "end": 2433, 
+                    "score": 0.26836830377578735, 
+                    "spot": "mitigation"
+                }, 
+                {
+                    "begin": 2438, 
+                    "end": 2456, 
+                    "score": 0.062918521463871, 
+                    "spot": "emergency response"
+                }
+            ], 
+            "wiki_id": 1455589, 
+            "wiki_title": "Emergency management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5015, 
+                    "end": 5018, 
+                    "score": 0.037196967750787735, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 199, 
+                    "end": 206, 
+                    "score": 0.33068758249282837, 
+                    "spot": "crustal"
+                }, 
+                {
+                    "begin": 2859, 
+                    "end": 2872, 
+                    "score": 0.09528487175703049, 
+                    "spot": "earth's crust"
+                }, 
+                {
+                    "begin": 4658, 
+                    "end": 4663, 
+                    "score": 0.2504114806652069, 
+                    "spot": "crust"
+                }
+            ], 
+            "wiki_id": 145700, 
+            "wiki_title": "Crust (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2563, 
+                    "end": 2580, 
+                    "score": 0.3940068781375885, 
+                    "spot": "scientific theory"
+                }
+            ], 
+            "wiki_id": 30746, 
+            "wiki_title": "Theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4621, 
+                    "end": 4629, 
+                    "score": 0.055548250675201416, 
+                    "spot": "watching"
+                }
+            ], 
+            "wiki_id": 300591, 
+            "wiki_title": "Whale watching"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6052, 
+                    "end": 6057, 
+                    "score": 0.02972513809800148, 
+                    "spot": "agree"
+                }
+            ], 
+            "wiki_id": 68651, 
+            "wiki_title": "Ambassador"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4310, 
+                    "end": 4315, 
+                    "score": 0.02962787263095379, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2621, 
+                    "end": 2627, 
+                    "score": 0.0033536585979163647, 
+                    "spot": "hinges"
+                }
+            ], 
+            "wiki_id": 8410264, 
+            "wiki_title": "Hinges (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5334, 
+                    "end": 5336, 
+                    "score": 0.04739709943532944, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5960, 
+                    "end": 5974, 
+                    "score": 0.005050505045801401, 
+                    "spot": "third\ncategory"
+                }
+            ], 
+            "wiki_id": 30863062, 
+            "wiki_title": "Segunda Divisi\u00f3n B"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6075, 
+                    "end": 6087, 
+                    "score": 0.026005208492279053, 
+                    "spot": "unreasonable"
+                }
+            ], 
+            "wiki_id": 42446, 
+            "wiki_title": "Reason"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2834, 
+                    "end": 2840, 
+                    "score": 0.1319771558046341, 
+                    "spot": "bulges"
+                }
+            ], 
+            "wiki_id": 420275, 
+            "wiki_title": "Bulge (astronomy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1199, 
+                    "end": 1204, 
+                    "score": 0.1222183033823967, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1613, 
+                    "end": 1618, 
+                    "score": 0.17733651399612427, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1009, 
+                    "end": 1011, 
+                    "score": 0.002436053706333041, 
+                    "spot": "6m"
+                }
+            ], 
+            "wiki_id": 1340260, 
+            "wiki_title": "6-meter band"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4842, 
+                    "end": 4847, 
+                    "score": 0.12210526317358017, 
+                    "spot": "Tokai"
+                }
+            ], 
+            "wiki_id": 4237002, 
+            "wiki_title": "Tokai University"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 184, 
+                    "score": 0.31023964285850525, 
+                    "spot": "seismic activity"
+                }, 
+                {
+                    "begin": 460, 
+                    "end": 470, 
+                    "score": 0.08324703574180603, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 538, 
+                    "end": 548, 
+                    "score": 0.2831724286079407, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 833, 
+                    "end": 843, 
+                    "score": 0.16566863656044006, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 2085, 
+                    "end": 2096, 
+                    "score": 0.12414653599262238, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 2331, 
+                    "end": 2341, 
+                    "score": 0.14684203267097473, 
+                    "spot": "Earthquake"
+                }, 
+                {
+                    "begin": 2813, 
+                    "end": 2824, 
+                    "score": 0.10287905484437943, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 3044, 
+                    "end": 3054, 
+                    "score": 0.38876527547836304, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 3065, 
+                    "end": 3076, 
+                    "score": 0.28444549441337585, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 3504, 
+                    "end": 3510, 
+                    "score": 0.05015847086906433, 
+                    "spot": "quakes"
+                }, 
+                {
+                    "begin": 3565, 
+                    "end": 3575, 
+                    "score": 0.2158823013305664, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 4029, 
+                    "end": 4039, 
+                    "score": 0.16646602749824524, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 4124, 
+                    "end": 4135, 
+                    "score": 0.1944708526134491, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 4580, 
+                    "end": 4590, 
+                    "score": 0.13783621788024902, 
+                    "spot": "earthquake"
+                }
+            ], 
+            "wiki_id": 10106, 
+            "wiki_title": "Earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 472, 
+                    "end": 474, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 15849579, 
+            "wiki_title": "If... (Tohoshinki song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5337, 
+                    "end": 5352, 
+                    "score": 0.25984829664230347, 
+                    "spot": "five-year plans"
+                }
+            ], 
+            "wiki_id": 146410, 
+            "wiki_title": "Five-year plans for the national economy of the Soviet Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 882, 
+                    "end": 886, 
+                    "score": 0.0014563171425834298, 
+                    "spot": "Long"
+                }
+            ], 
+            "wiki_id": 65951, 
+            "wiki_title": "Fielding (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 657, 
+                    "score": 0.09222355484962463, 
+                    "spot": "pupils"
+                }
+            ], 
+            "wiki_id": 155526, 
+            "wiki_title": "Student"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1267, 
+                    "end": 1275, 
+                    "score": 0.020589187741279602, 
+                    "spot": "sceptics"
+                }
+            ], 
+            "wiki_id": 3501153, 
+            "wiki_title": "Religious skepticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1474, 
+                    "end": 1484, 
+                    "score": 0.03294689953327179, 
+                    "spot": "insularity"
+                }
+            ], 
+            "wiki_id": 14587, 
+            "wiki_title": "Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3929, 
+                    "end": 3935, 
+                    "score": 0.19083434343338013, 
+                    "spot": "region"
+                }, 
+                {
+                    "begin": 4252, 
+                    "end": 4258, 
+                    "score": 0.10044115036725998, 
+                    "spot": "region"
+                }, 
+                {
+                    "begin": 5667, 
+                    "end": 5673, 
+                    "score": 0.1991226226091385, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2631, 
+                    "end": 2639, 
+                    "score": 0.011442063376307487, 
+                    "spot": "spotting"
+                }
+            ], 
+            "wiki_id": 4503431, 
+            "wiki_title": "Spotting (weight training)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5098, 
+                    "end": 5102, 
+                    "score": 0.0073768445290625095, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5414, 
+                    "end": 5426, 
+                    "score": 0.1757981926202774, 
+                    "spot": "institutions"
+                }
+            ], 
+            "wiki_id": 294833, 
+            "wiki_title": "Institution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 150, 
+                    "score": 0.004938271827995777, 
+                    "spot": "150 meters"
+                }
+            ], 
+            "wiki_id": 89276, 
+            "wiki_title": "Sprint (running)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5724, 
+                    "end": 5734, 
+                    "score": 0.0966782420873642, 
+                    "spot": "short-term"
+                }
+            ], 
+            "wiki_id": 26258076, 
+            "wiki_title": "Term (time)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2303, 
+                    "end": 2306, 
+                    "score": 0.07002704590559006, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 693, 
+                    "end": 703, 
+                    "score": 0.20544391870498657, 
+                    "spot": "landslides"
+                }
+            ], 
+            "wiki_id": 37208, 
+            "wiki_title": "Landslide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5074, 
+                    "end": 5079, 
+                    "score": 0.17062340676784515, 
+                    "spot": "merit"
+                }
+            ], 
+            "wiki_id": 20971, 
+            "wiki_title": "Meritocracy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3217, 
+                    "end": 3235, 
+                    "score": 0.012886597774922848, 
+                    "spot": "in the right place"
+                }
+            ], 
+            "wiki_id": 8424007, 
+            "wiki_title": "In the Right Place"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5232, 
+                    "end": 5239, 
+                    "score": 0.1376001238822937, 
+                    "spot": "subject"
+                }, 
+                {
+                    "begin": 5620, 
+                    "end": 5628, 
+                    "score": 0.050370052456855774, 
+                    "spot": "citizens"
+                }
+            ], 
+            "wiki_id": 6784, 
+            "wiki_title": "Citizenship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3696, 
+                    "end": 3700, 
+                    "score": 0.060608647763729095, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 5206247, 
+            "wiki_title": "WiLL"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2262, 
+                    "end": 2265, 
+                    "score": 0.0009646302205510437, 
+                    "spot": "10m"
+                }
+            ], 
+            "wiki_id": 35981, 
+            "wiki_title": "1 decametre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2438, 
+                    "end": 2447, 
+                    "score": 0.08231831341981888, 
+                    "spot": "emergency"
+                }
+            ], 
+            "wiki_id": 191103, 
+            "wiki_title": "Emergency!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1520, 
+                    "score": 0.09399772435426712, 
+                    "spot": "expectations"
+                }
+            ], 
+            "wiki_id": 65753, 
+            "wiki_title": "Rational expectations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4330, 
+                    "end": 4334, 
+                    "score": 0.031168831512331963, 
+                    "spot": "Mogi"
+                }, 
+                {
+                    "begin": 5935, 
+                    "end": 5939, 
+                    "score": 0.031168831512331963, 
+                    "spot": "Mogi"
+                }
+            ], 
+            "wiki_id": 19019950, 
+            "wiki_title": "Mogi\u0142a, Lublin Voivodeship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5788, 
+                    "end": 5793, 
+                    "score": 0.007568438071757555, 
+                    "spot": "haunt"
+                }
+            ], 
+            "wiki_id": 23915563, 
+            "wiki_title": "Haunt (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2908, 
+                    "end": 2930, 
+                    "score": 0.5414631366729736, 
+                    "spot": "electrical\nresistivity"
+                }, 
+                {
+                    "begin": 2919, 
+                    "end": 2930, 
+                    "score": 0.5052999258041382, 
+                    "spot": "resistivity"
+                }
+            ], 
+            "wiki_id": 61580, 
+            "wiki_title": "Electrical resistivity and conductivity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4867, 
+                    "end": 4874, 
+                    "score": 0.02096613496541977, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 428681, 
+            "wiki_title": "Forward (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 937, 
+                    "end": 959, 
+                    "score": 0.4910048246383667, 
+                    "spot": "predicting\nearthquakes"
+                }, 
+                {
+                    "begin": 1090, 
+                    "end": 1111, 
+                    "score": 0.2447916716337204, 
+                    "spot": "earthquake prediction"
+                }, 
+                {
+                    "begin": 1418, 
+                    "end": 1439, 
+                    "score": 0.2447916716337204, 
+                    "spot": "earthquake prediction"
+                }, 
+                {
+                    "begin": 1533, 
+                    "end": 1554, 
+                    "score": 0.2447916716337204, 
+                    "spot": "earthquake prediction"
+                }, 
+                {
+                    "begin": 1732, 
+                    "end": 1742, 
+                    "score": 0.15995875000953674, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 4803, 
+                    "end": 4813, 
+                    "score": 0.120490662753582, 
+                    "spot": "prediction"
+                }
+            ], 
+            "wiki_id": 231137, 
+            "wiki_title": "Earthquake prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3710, 
+                    "end": 3714, 
+                    "score": 0.0024819099344313145, 
+                    "spot": "call"
+                }
+            ], 
+            "wiki_id": 406703, 
+            "wiki_title": "Telephone call"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1000, 
+                    "end": 1006, 
+                    "score": 0.10418960452079773, 
+                    "spot": "Pounds"
+                }
+            ], 
+            "wiki_id": 270673, 
+            "wiki_title": "Pound sterling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 162, 
+                    "end": 167, 
+                    "score": 0.15509605407714844, 
+                    "spot": "track"
+                }
+            ], 
+            "wiki_id": 321365, 
+            "wiki_title": "Track (rail transport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 844, 
+                    "end": 853, 
+                    "score": 0.09472532570362091, 
+                    "spot": "measuring"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3095, 
+                    "end": 3107, 
+                    "score": 0.0009771350305527449, 
+                    "spot": "identifiable"
+                }
+            ], 
+            "wiki_id": 22884398, 
+            "wiki_title": "Identifiability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 665, 
+                    "score": 0.06136913225054741, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 71537, 
+            "wiki_title": "Coming out"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5278, 
+                    "end": 5281, 
+                    "score": 0.13219645619392395, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 2233309, 
+            "wiki_title": "One (U2 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5552, 
+                    "end": 5560, 
+                    "score": 0.1070346012711525, 
+                    "spot": "debating"
+                }
+            ], 
+            "wiki_id": 337689, 
+            "wiki_title": "Debate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 640, 
+                    "end": 646, 
+                    "score": 0.1462000459432602, 
+                    "spot": "closed"
+                }
+            ], 
+            "wiki_id": 4695, 
+            "wiki_title": "Bankruptcy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4420, 
+                    "end": 4425, 
+                    "score": 0.02499661222100258, 
+                    "spot": "fault"
+                }
+            ], 
+            "wiki_id": 3031996, 
+            "wiki_title": "Wine fault"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 948, 
+                    "end": 966, 
+                    "score": 0.44212251901626587, 
+                    "spot": "earthquakes, Japan"
+                }
+            ], 
+            "wiki_id": 23942567, 
+            "wiki_title": "Earthquakes in Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5109, 
+                    "end": 5116, 
+                    "score": 0.08326001465320587, 
+                    "spot": "funding"
+                }
+            ], 
+            "wiki_id": 805953, 
+            "wiki_title": "Funding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 324, 
+                    "end": 329, 
+                    "score": 0.20331403613090515, 
+                    "spot": "clock"
+                }
+            ], 
+            "wiki_id": 6449, 
+            "wiki_title": "Clock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5629, 
+                    "end": 5631, 
+                    "score": 0.13001778721809387, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 230200, 
+            "wiki_title": "Circuit (administrative division)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3540, 
+                    "end": 3547, 
+                    "score": 0.09149254113435745, 
+                    "spot": "network"
+                }
+            ], 
+            "wiki_id": 4122592, 
+            "wiki_title": "Computer network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 739, 
+                    "end": 748, 
+                    "score": 0.14717239141464233, 
+                    "spot": "Hospitals"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 451, 
+                    "end": 459, 
+                    "score": 0.0015536885475739837, 
+                    "spot": "imminent"
+                }
+            ], 
+            "wiki_id": 573441, 
+            "wiki_title": "Ant-Zen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3974, 
+                    "end": 3977, 
+                    "score": 0.10015128552913666, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 307465, 
+            "wiki_title": "Andean Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4001, 
+                    "end": 4009, 
+                    "score": 0.047892939299345016, 
+                    "spot": "location"
+                }
+            ], 
+            "wiki_id": 2272383, 
+            "wiki_title": "Filming location"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1450, 
+                    "end": 1455, 
+                    "score": 0.03570836782455444, 
+                    "spot": "rolls"
+                }
+            ], 
+            "wiki_id": 520528, 
+            "wiki_title": "Drum roll"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3511, 
+                    "end": 3518, 
+                    "score": 0.001071595004759729, 
+                    "spot": "outside"
+                }
+            ], 
+            "wiki_id": 3232248, 
+            "wiki_title": "Outside (George Michael song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2797, 
+                    "end": 2803, 
+                    "score": 0.04907216131687164, 
+                    "spot": "swarms"
+                }
+            ], 
+            "wiki_id": 207874, 
+            "wiki_title": "Swarm behaviour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 117, 
+                    "end": 128, 
+                    "score": 0.09824264049530029, 
+                    "spot": "instruments"
+                }
+            ], 
+            "wiki_id": 27643777, 
+            "wiki_title": "Measuring instrument"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 609, 
+                    "end": 615, 
+                    "score": 0.12748630344867706, 
+                    "spot": "routed"
+                }
+            ], 
+            "wiki_id": 25750, 
+            "wiki_title": "Routing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 37, 
+                    "end": 44, 
+                    "score": 0.052614305168390274, 
+                    "spot": "coastal"
+                }
+            ], 
+            "wiki_id": 2633689, 
+            "wiki_title": "Coastal trading vessel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3722, 
+                    "end": 3738, 
+                    "score": 0.22413793206214905, 
+                    "spot": "Tokai earthquake"
+                }
+            ], 
+            "wiki_id": 28057831, 
+            "wiki_title": "T\u014dkai earthquakes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5038, 
+                    "end": 5044, 
+                    "score": 0.10306019335985184, 
+                    "spot": "review"
+                }
+            ], 
+            "wiki_id": 23042843, 
+            "wiki_title": "Judicial review"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5374, 
+                    "end": 5380, 
+                    "score": 0.17351914942264557, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 4360909, 
+            "wiki_title": "Government budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 479, 
+                    "end": 488, 
+                    "score": 0.0017163846641778946, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 3031437, 
+            "wiki_title": "Committee on the Rights of the Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6017, 
+                    "end": 6022, 
+                    "score": 0.04530441015958786, 
+                    "spot": "level"
+                }
+            ], 
+            "wiki_id": 10254514, 
+            "wiki_title": "A-level"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1838, 
+                    "end": 1843, 
+                    "score": 0.11729490011930466, 
+                    "spot": "quake"
+                }, 
+                {
+                    "begin": 2191, 
+                    "end": 2196, 
+                    "score": 0.2213853895664215, 
+                    "spot": "quake"
+                }, 
+                {
+                    "begin": 3349, 
+                    "end": 3354, 
+                    "score": 0.11729490011930466, 
+                    "spot": "quake"
+                }, 
+                {
+                    "begin": 3436, 
+                    "end": 3441, 
+                    "score": 0.21341077983379364, 
+                    "spot": "quake"
+                }
+            ], 
+            "wiki_id": 25266, 
+            "wiki_title": "Quake (video game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3750, 
+                    "end": 3754, 
+                    "score": 0.0031978676561266184, 
+                    "spot": "head"
+                }
+            ], 
+            "wiki_id": 1209545, 
+            "wiki_title": "Head"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3646, 
+                    "end": 3656, 
+                    "score": 0.5, 
+                    "spot": "Kiyoo Mogi"
+                }
+            ], 
+            "wiki_id": 31224949, 
+            "wiki_title": "Kiyoo Mogi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4644, 
+                    "end": 4650, 
+                    "score": 0.2441687136888504, 
+                    "spot": "uplift"
+                }
+            ], 
+            "wiki_id": 1415891, 
+            "wiki_title": "Tectonic uplift"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2139, 
+                    "end": 2141, 
+                    "score": 0.07400210946798325, 
+                    "spot": "If"
+                }, 
+                {
+                    "begin": 6260, 
+                    "end": 6262, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2067, 
+                    "end": 2073, 
+                    "score": 0.12513644993305206, 
+                    "spot": "causes"
+                }, 
+                {
+                    "begin": 5889, 
+                    "end": 5894, 
+                    "score": 0.13380885124206543, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 37196, 
+            "wiki_title": "Causality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1188, 
+                    "end": 1191, 
+                    "score": 0.11811120808124542, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1929, 
+                    "score": 0.09069866687059402, 
+                    "spot": "boundary"
+                }
+            ], 
+            "wiki_id": 72824, 
+            "wiki_title": "Boundary (topology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4893, 
+                    "end": 4902, 
+                    "score": 0.07192926853895187, 
+                    "spot": "disturbed"
+                }
+            ], 
+            "wiki_id": 26360411, 
+            "wiki_title": "Disturbed (Numbers)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3011, 
+                    "end": 3021, 
+                    "score": 0.0012559267925098538, 
+                    "spot": "recognised"
+                }
+            ], 
+            "wiki_id": 22107, 
+            "wiki_title": "Treaty on the Non-Proliferation of Nuclear Weapons"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6026, 
+                    "end": 6033, 
+                    "score": 0.04489435628056526, 
+                    "spot": "concern"
+                }
+            ], 
+            "wiki_id": 6768207, 
+            "wiki_title": "Concern Worldwide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 986, 
+                    "end": 993, 
+                    "score": 0.11099102348089218, 
+                    "spot": "Dollars"
+                }, 
+                {
+                    "begin": 1061, 
+                    "end": 1068, 
+                    "score": 0.05026881769299507, 
+                    "spot": "Dollars"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 211, 
+                    "score": 0.3153098225593567, 
+                    "spot": "tilt"
+                }
+            ], 
+            "wiki_id": 91173, 
+            "wiki_title": "Axial tilt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 929, 
+                    "end": 933, 
+                    "score": 0.011082452721893787, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 9594959, 
+            "wiki_title": "Hope, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1715, 
+                    "end": 1720, 
+                    "score": 0.42289185523986816, 
+                    "spot": "China"
+                }
+            ], 
+            "wiki_id": 5405, 
+            "wiki_title": "China"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3464, 
+                    "end": 3472, 
+                    "score": 0.05877242982387543, 
+                    "spot": "theories"
+                }
+            ], 
+            "wiki_id": 5530, 
+            "wiki_title": "Conspiracy theory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6267, 
+                    "end": 6274, 
+                    "score": 0.09083688259124756, 
+                    "spot": "experts"
+                }
+            ], 
+            "wiki_id": 10115, 
+            "wiki_title": "Expert witness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6299, 
+                    "end": 6310, 
+                    "score": 0.10277538001537323, 
+                    "spot": "technicians"
+                }
+            ], 
+            "wiki_id": 1135942, 
+            "wiki_title": "Technician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 380, 
+                    "end": 395, 
+                    "score": 0.011254019103944302, 
+                    "spot": "moment's notice"
+                }
+            ], 
+            "wiki_id": 36651830, 
+            "wiki_title": "Moment's Notice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2294, 
+                    "end": 2302, 
+                    "score": 0.07083023339509964, 
+                    "spot": "prospect"
+                }
+            ], 
+            "wiki_id": 576862, 
+            "wiki_title": "Prospecting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 627, 
+                    "end": 631, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 1803, 
+                    "end": 1807, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 2078, 
+                    "end": 2082, 
+                    "score": 0.047629013657569885, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 3376, 
+                    "end": 3380, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1465, 
+                    "end": 1472, 
+                    "score": 0.12159284204244614, 
+                    "spot": "inertia"
+                }
+            ], 
+            "wiki_id": 14909, 
+            "wiki_title": "Inertia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2958, 
+                    "end": 2968, 
+                    "score": 0.13214531540870667, 
+                    "spot": "background"
+                }
+            ], 
+            "wiki_id": 4882, 
+            "wiki_title": "Background radiation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2664, 
+                    "end": 2674, 
+                    "score": 0.009350649081170559, 
+                    "spot": "precursors"
+                }, 
+                {
+                    "begin": 2985, 
+                    "end": 2995, 
+                    "score": 0.028734397143125534, 
+                    "spot": "Precursors"
+                }, 
+                {
+                    "begin": 4294, 
+                    "end": 4304, 
+                    "score": 0.059669625014066696, 
+                    "spot": "precursors"
+                }
+            ], 
+            "wiki_id": 236236, 
+            "wiki_title": "Counter-Reformation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5833, 
+                    "end": 5837, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3828, 
+                    "end": 3835, 
+                    "score": 0.0008950617047958076, 
+                    "spot": "factors"
+                }
+            ], 
+            "wiki_id": 49492, 
+            "wiki_title": "Divisor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2342, 
+                    "end": 2357, 
+                    "score": 0.048802465200424194, 
+                    "spot": "Countermeasures"
+                }
+            ], 
+            "wiki_id": 879940, 
+            "wiki_title": "Electronic countermeasure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1557, 
+                    "end": 1573, 
+                    "score": 0.016483517363667488, 
+                    "spot": "national project"
+                }
+            ], 
+            "wiki_id": 7480006, 
+            "wiki_title": "National Project"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3497, 
+                    "end": 3503, 
+                    "score": 0.03729315847158432, 
+                    "spot": "killer"
+                }
+            ], 
+            "wiki_id": 9871338, 
+            "wiki_title": "Killer (pool)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3372, 
+                    "end": 3375, 
+                    "score": 0.08749999850988388, 
+                    "spot": "Izu"
+                }
+            ], 
+            "wiki_id": 595744, 
+            "wiki_title": "Izu Peninsula"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5483, 
+                    "end": 5499, 
+                    "score": 0.24458180367946625, 
+                    "spot": "public officials"
+                }, 
+                {
+                    "begin": 6117, 
+                    "end": 6133, 
+                    "score": 0.24458180367946625, 
+                    "spot": "Public officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 66, 
+                    "end": 69, 
+                    "score": 0.02750237099826336, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 42069, 
+            "wiki_title": "Brian May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6231, 
+                    "end": 6242, 
+                    "score": 0.1442795693874359, 
+                    "spot": "controversy"
+                }
+            ], 
+            "wiki_id": 7283, 
+            "wiki_title": "Controversy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 708, 
+                    "end": 719, 
+                    "score": 0.13558360934257507, 
+                    "spot": "tidal waves"
+                }
+            ], 
+            "wiki_id": 31161, 
+            "wiki_title": "Tsunami"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1677, 
+                    "end": 1682, 
+                    "score": 0.0640074610710144, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1624, 
+                    "end": 1634, 
+                    "score": 0.19661147892475128, 
+                    "spot": "optimistic"
+                }, 
+                {
+                    "begin": 2481, 
+                    "end": 2489, 
+                    "score": 0.11471101641654968, 
+                    "spot": "optimism"
+                }
+            ], 
+            "wiki_id": 47487167, 
+            "wiki_title": "Optimism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 435, 
+                    "end": 438, 
+                    "score": 0.06845302879810333, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 1679278, 
+            "wiki_title": "May 2005 in science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2978, 
+                    "end": 2983, 
+                    "score": 0.15678440034389496, 
+                    "spot": "noise"
+                }
+            ], 
+            "wiki_id": 66599, 
+            "wiki_title": "Noise pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5328, 
+                    "end": 5333, 
+                    "score": 0.005362535361200571, 
+                    "spot": "draws"
+                }
+            ], 
+            "wiki_id": 8544, 
+            "wiki_title": "Drawing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4174, 
+                    "end": 4182, 
+                    "score": 0.005960481241345406, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 10013, 
+            "wiki_title": "Evidence-based medicine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1704, 
+                    "end": 1710, 
+                    "score": 0.650797963142395, 
+                    "spot": "Russia"
+                }
+            ], 
+            "wiki_id": 25391, 
+            "wiki_title": "Russia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 303, 
+                    "end": 312, 
+                    "score": 0.0010202925186604261, 
+                    "spot": "monitored"
+                }, 
+                {
+                    "begin": 1020, 
+                    "end": 1030, 
+                    "score": 0.002718109404668212, 
+                    "spot": "monitoring"
+                }
+            ], 
+            "wiki_id": 32808114, 
+            "wiki_title": "Monitoring (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5251, 
+                    "end": 5257, 
+                    "score": 0.06339988112449646, 
+                    "spot": "review"
+                }
+            ], 
+            "wiki_id": 11065202, 
+            "wiki_title": "Film criticism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2237, 
+                    "end": 2248, 
+                    "score": 0.0009548058733344078, 
+                    "spot": "endangering"
+                }
+            ], 
+            "wiki_id": 3722991, 
+            "wiki_title": "Endangerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2600, 
+                    "end": 2608, 
+                    "score": 0.13288342952728271, 
+                    "spot": "forecast"
+                }
+            ], 
+            "wiki_id": 246074, 
+            "wiki_title": "Forecasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1751, 
+                    "end": 1758, 
+                    "score": 0.0051124743185937405, 
+                    "spot": "urgency"
+                }
+            ], 
+            "wiki_id": 46993010, 
+            "wiki_title": "The Urgency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 867, 
+                    "end": 880, 
+                    "score": 0.34097859263420105, 
+                    "spot": "Richter\nscale"
+                }, 
+                {
+                    "begin": 2222, 
+                    "end": 2235, 
+                    "score": 0.34097859263420105, 
+                    "spot": "Richter scale"
+                }
+            ], 
+            "wiki_id": 19467352, 
+            "wiki_title": "Richter magnitude scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4487, 
+                    "end": 4496, 
+                    "score": 0.0060941241681575775, 
+                    "spot": "last time"
+                }
+            ], 
+            "wiki_id": 6205401, 
+            "wiki_title": "The Last Time (The Rolling Stones song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 186, 
+                    "end": 190, 
+                    "score": 0.3088073432445526, 
+                    "spot": "rock"
+                }
+            ], 
+            "wiki_id": 199661, 
+            "wiki_title": "Rock (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1331, 
+                    "end": 1336, 
+                    "score": 0.15345287322998047, 
+                    "spot": "money"
+                }
+            ], 
+            "wiki_id": 8983183, 
+            "wiki_title": "Money"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5439, 
+                    "end": 5450, 
+                    "score": 0.037837836891412735, 
+                    "spot": "proportions"
+                }
+            ], 
+            "wiki_id": 81863, 
+            "wiki_title": "Proportionality (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6179, 
+                    "end": 6190, 
+                    "score": 0.034574467688798904, 
+                    "spot": "it's\ncoming"
+                }
+            ], 
+            "wiki_id": 19359007, 
+            "wiki_title": "It's Coming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 538, 
+                    "end": 556, 
+                    "score": 0.18395929038524628, 
+                    "spot": "earthquake\nwarning"
+                }
+            ], 
+            "wiki_id": 8327348, 
+            "wiki_title": "Earthquake warning system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 577, 
+                    "end": 583, 
+                    "score": 0.0031052057165652514, 
+                    "spot": "Trains"
+                }
+            ], 
+            "wiki_id": 25715, 
+            "wiki_title": "Rail transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1391, 
+                    "end": 1399, 
+                    "score": 0.13833428919315338, 
+                    "spot": "protests"
+                }
+            ], 
+            "wiki_id": 266137, 
+            "wiki_title": "Protest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4270, 
+                    "end": 4280, 
+                    "score": 0.08324703574180603, 
+                    "spot": "earthquake"
+                }
+            ], 
+            "wiki_id": 515217, 
+            "wiki_title": "Earthquake (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2009, 
+                    "end": 2016, 
+                    "score": 0.0007370925159193575, 
+                    "spot": "beneath"
+                }
+            ], 
+            "wiki_id": 3932157, 
+            "wiki_title": "Beneath (2007 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1082, 
+                    "end": 1089, 
+                    "score": 0.008586234413087368, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3685, 
+                    "end": 3690, 
+                    "score": 0.12523625791072845, 
+                    "spot": "panel"
+                }, 
+                {
+                    "begin": 5045, 
+                    "end": 5055, 
+                    "score": 0.15451833605766296, 
+                    "spot": "committees"
+                }, 
+                {
+                    "begin": 5261, 
+                    "end": 5274, 
+                    "score": 0.059437770396471024, 
+                    "spot": "sub-committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2283, 
+                    "end": 2287, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 3755059, 
+            "wiki_title": "Area (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1069, 
+                    "end": 1073, 
+                    "score": 0.01129363477230072, 
+                    "spot": "100m"
+                }
+            ], 
+            "wiki_id": 1231316, 
+            "wiki_title": "100 metres"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1866, 
+                    "end": 1870, 
+                    "score": 0.003680693916976452, 
+                    "spot": "deep"
+                }
+            ], 
+            "wiki_id": 6781857, 
+            "wiki_title": "Deep (mixed martial arts)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2807, 
+                    "end": 2812, 
+                    "score": 0.12573574483394623, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 173493, 
+            "wiki_title": "Small Magellanic Cloud"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 601, 
+                    "end": 608, 
+                    "score": 0.1364806890487671, 
+                    "spot": "traffic"
+                }
+            ], 
+            "wiki_id": 665789, 
+            "wiki_title": "Web traffic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3038, 
+                    "end": 3054, 
+                    "score": 0.11427830904722214, 
+                    "spot": "large earthquake"
+                }
+            ], 
+            "wiki_id": 28336681, 
+            "wiki_title": "1887 Sonora earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5756, 
+                    "end": 5768, 
+                    "score": 0.05175444483757019, 
+                    "spot": "expectations"
+                }
+            ], 
+            "wiki_id": 9653, 
+            "wiki_title": "Expected value"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4680, 
+                    "end": 4684, 
+                    "score": 0.00125021836720407, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 2530489, 
+            "wiki_title": "Side dish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4946, 
+                    "end": 4952, 
+                    "score": 0.11183097958564758, 
+                    "spot": "little"
+                }
+            ], 
+            "wiki_id": 12288189, 
+            "wiki_title": "Tony Little"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 366, 
+                    "end": 374, 
+                    "score": 0.0023736723233014345, 
+                    "spot": "summoned"
+                }
+            ], 
+            "wiki_id": 604698, 
+            "wiki_title": "Hereditary peer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4908, 
+                    "end": 4916, 
+                    "score": 0.0022410359233617783, 
+                    "spot": "it is so"
+                }
+            ], 
+            "wiki_id": 30982262, 
+            "wiki_title": "It Is So."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 750, 
+                    "end": 762, 
+                    "score": 0.18716813623905182, 
+                    "spot": "firefighters"
+                }
+            ], 
+            "wiki_id": 146303, 
+            "wiki_title": "Firefighter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5219, 
+                    "end": 5226, 
+                    "score": 0.26154932379722595, 
+                    "spot": "Culture"
+                }
+            ], 
+            "wiki_id": 19159508, 
+            "wiki_title": "Culture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1978, 
+                    "end": 1998, 
+                    "score": 0.5, 
+                    "spot": "Philippine Sea\nPlate"
+                }
+            ], 
+            "wiki_id": 521060, 
+            "wiki_title": "Philippine Sea Plate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2209, 
+                    "end": 2214, 
+                    "score": 0.0008483080891892314, 
+                    "spot": "eight"
+                }
+            ], 
+            "wiki_id": 23014314, 
+            "wiki_title": "Eight (rowing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2407, 
+                    "end": 2415, 
+                    "score": 0.013725627213716507, 
+                    "spot": "launched"
+                }
+            ], 
+            "wiki_id": 60930, 
+            "wiki_title": "Ceremonial ship launching"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3912, 
+                    "end": 3922, 
+                    "score": 0.08916601538658142, 
+                    "spot": "experiment"
+                }
+            ], 
+            "wiki_id": 59861, 
+            "wiki_title": "Experiment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6206, 
+                    "end": 6214, 
+                    "score": 0.09131491184234619, 
+                    "spot": "decision"
+                }
+            ], 
+            "wiki_id": 265752, 
+            "wiki_title": "Decision-making"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 12, 
+                    "end": 16, 
+                    "score": 0.1642443835735321, 
+                    "spot": "west"
+                }
+            ], 
+            "wiki_id": 33166, 
+            "wiki_title": "West Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5954, 
+                    "end": 5957, 
+                    "score": 0.0029352984856814146, 
+                    "spot": "add"
+                }
+            ], 
+            "wiki_id": 64976, 
+            "wiki_title": "Attention deficit hyperactivity disorder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 155, 
+                    "end": 161, 
+                    "score": 0.1847851574420929, 
+                    "spot": "gauges"
+                }
+            ], 
+            "wiki_id": 200161, 
+            "wiki_title": "Stream gauge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2002, 
+                    "end": 2008, 
+                    "score": 0.13510388135910034, 
+                    "spot": "diving"
+                }
+            ], 
+            "wiki_id": 1266475, 
+            "wiki_title": "Scuba diving"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5321, 
+                    "end": 5327, 
+                    "score": 0.16929101943969727, 
+                    "spot": "bodies"
+                }
+            ], 
+            "wiki_id": 5123150, 
+            "wiki_title": "Bodies (Drowning Pool song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1137, 
+                    "end": 1146, 
+                    "score": 0.1419733762741089, 
+                    "spot": "believers"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2969, 
+                    "end": 2977, 
+                    "score": 0.10891275852918625, 
+                    "spot": "geologic"
+                }, 
+                {
+                    "begin": 3938, 
+                    "end": 3945, 
+                    "score": 0.23509308695793152, 
+                    "spot": "geology"
+                }
+            ], 
+            "wiki_id": 12207, 
+            "wiki_title": "Geology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 429, 
+                    "score": 0.01434456929564476, 
+                    "spot": "phenomena"
+                }
+            ], 
+            "wiki_id": 4040242, 
+            "wiki_title": "Phenomena (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 588, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 780, 
+                    "end": 784, 
+                    "score": 0.008227691054344177, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 509, 
+                    "end": 523, 
+                    "score": 0.2338390052318573, 
+                    "spot": "prime minister"
+                }
+            ], 
+            "wiki_id": 24109, 
+            "wiki_title": "Prime minister"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2416, 
+                    "end": 2422, 
+                    "score": 0.15397396683692932, 
+                    "spot": "hazard"
+                }
+            ], 
+            "wiki_id": 24462957, 
+            "wiki_title": "Hazard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3584, 
+                    "end": 3589, 
+                    "score": 0.10551173239946365, 
+                    "spot": "coast"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4827, 
+                    "end": 4832, 
+                    "score": 0.0053415801376104355, 
+                    "spot": "Aside"
+                }
+            ], 
+            "wiki_id": 156541, 
+            "wiki_title": "A-side and B-side"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1764, 
+                    "end": 1777, 
+                    "score": 0.17178881168365479, 
+                    "spot": "seismologists"
+                }, 
+                {
+                    "begin": 3255, 
+                    "end": 3268, 
+                    "score": 0.29058292508125305, 
+                    "spot": "seismologists"
+                }
+            ], 
+            "wiki_id": 28935, 
+            "wiki_title": "Seismology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2021, 
+                    "end": 2035, 
+                    "score": 0.6760352849960327, 
+                    "spot": "Eurasian Plate"
+                }
+            ], 
+            "wiki_id": 340651, 
+            "wiki_title": "Eurasian Plate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 529, 
+                    "end": 534, 
+                    "score": 0.10710212588310242, 
+                    "spot": "issue"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4349, 
+                    "end": 4356, 
+                    "score": 0.004414186347275972, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 2134344, 
+            "wiki_title": "Believe (The Chemical Brothers song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5912, 
+                    "end": 5932, 
+                    "score": 0.08695652335882187, 
+                    "spot": "no cause for concern"
+                }
+            ], 
+            "wiki_id": 30456089, 
+            "wiki_title": "No Cause for Concern"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 262, 
+                    "score": 0.14704285562038422, 
+                    "spot": "data"
+                }, 
+                {
+                    "begin": 5865, 
+                    "end": 5869, 
+                    "score": 0.14006347954273224, 
+                    "spot": "data"
+                }, 
+                {
+                    "begin": 6332, 
+                    "end": 6336, 
+                    "score": 0.08044841885566711, 
+                    "spot": "data"
+                }
+            ], 
+            "wiki_id": 18985040, 
+            "wiki_title": "Data"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2874, 
+                    "end": 2880, 
+                    "score": 0.0006595744634978473, 
+                    "spot": "sudden"
+                }
+            ], 
+            "wiki_id": 40349545, 
+            "wiki_title": "Sudden (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5749, 
+                    "end": 5755, 
+                    "score": 0.055966366082429886, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 63879, 
+            "wiki_title": "Initial public offering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1849, 
+                    "end": 1862, 
+                    "score": 0.5, 
+                    "spot": "Suruga Trough"
+                }, 
+                {
+                    "begin": 4072, 
+                    "end": 4085, 
+                    "score": 0.5, 
+                    "spot": "Suruga Trough"
+                }
+            ], 
+            "wiki_id": 20199803, 
+            "wiki_title": "Suruga Trough"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 501, 
+                    "end": 506, 
+                    "score": 0.34075039625167847, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 961, 
+                    "end": 966, 
+                    "score": 0.4277045726776123, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 5529, 
+                    "end": 5534, 
+                    "score": 0.36827418208122253, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 183897, 
+            "wiki_title": "Empire of Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5687, 
+                    "end": 5697, 
+                    "score": 0.11409634351730347, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3762, 
+                    "end": 3813, 
+                    "score": 0.5, 
+                    "spot": "University of Tokyo's Earthquake\nResearch Institute"
+                }, 
+                {
+                    "begin": 3784, 
+                    "end": 3813, 
+                    "score": 0.14705882966518402, 
+                    "spot": "Earthquake\nResearch Institute"
+                }
+            ], 
+            "wiki_id": 10746150, 
+            "wiki_title": "Earthquake Research Institute, University of Tokyo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 191, 
+                    "end": 197, 
+                    "score": 0.27931392192840576, 
+                    "spot": "strain"
+                }, 
+                {
+                    "begin": 4055, 
+                    "end": 4061, 
+                    "score": 0.12096889317035675, 
+                    "spot": "strain"
+                }, 
+                {
+                    "begin": 4203, 
+                    "end": 4209, 
+                    "score": 0.18359044194221497, 
+                    "spot": "strain"
+                }
+            ], 
+            "wiki_id": 19194778, 
+            "wiki_title": "Deformation (mechanics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 669, 
+                    "end": 676, 
+                    "score": 0.056357309222221375, 
+                    "spot": "schools"
+                }
+            ], 
+            "wiki_id": 22782655, 
+            "wiki_title": "Shoaling and schooling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 791, 
+                    "end": 796, 
+                    "score": 0.07473261654376984, 
+                    "spot": "alert"
+                }
+            ], 
+            "wiki_id": 1267433, 
+            "wiki_title": "Bridge convention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 785, 
+                    "end": 787, 
+                    "score": 0.0715385377407074, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 64971, 
+            "wiki_title": "Go (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4517, 
+                    "end": 4522, 
+                    "score": 0.02499661222100258, 
+                    "spot": "fault"
+                }
+            ], 
+            "wiki_id": 4685393, 
+            "wiki_title": "Fault (technology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2892, 
+                    "end": 2904, 
+                    "score": 0.3432829976081848, 
+                    "spot": "geomagnetism"
+                }
+            ], 
+            "wiki_id": 146983, 
+            "wiki_title": "Earth's magnetic field"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2593, 
+                    "end": 2597, 
+                    "score": 0.003099186113104224, 
+                    "spot": "base"
+                }
+            ], 
+            "wiki_id": 40300485, 
+            "wiki_title": "Base and superstructure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4856, 
+                    "end": 4866, 
+                    "score": 0.03751731291413307, 
+                    "spot": "scientists"
+                }, 
+                {
+                    "begin": 5004, 
+                    "end": 5014, 
+                    "score": 0.004451038781553507, 
+                    "spot": "scientists"
+                }
+            ], 
+            "wiki_id": 506110, 
+            "wiki_title": "The Scientists"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2705, 
+                    "end": 2715, 
+                    "score": 0.003039971925318241, 
+                    "spot": "impossible"
+                }, 
+                {
+                    "begin": 5583, 
+                    "end": 5593, 
+                    "score": 0.003039971925318241, 
+                    "spot": "impossible"
+                }
+            ], 
+            "wiki_id": 30127126, 
+            "wiki_title": "The Impossible (2012 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 245, 
+                    "score": 0.056540343910455704, 
+                    "spot": "ground water"
+                }
+            ], 
+            "wiki_id": 262927, 
+            "wiki_title": "Groundwater"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4692, 
+                    "end": 4698, 
+                    "score": 0.12994836270809174, 
+                    "spot": "trough"
+                }
+            ], 
+            "wiki_id": 2625397, 
+            "wiki_title": "Trough (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 313, 
+                    "end": 329, 
+                    "score": 0.2036922574043274, 
+                    "spot": "around the clock"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 633, 
+                    "end": 639, 
+                    "score": 0.12273722887039185, 
+                    "spot": "stores"
+                }
+            ], 
+            "wiki_id": 183515, 
+            "wiki_title": "Retail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 246, 
+                    "end": 252, 
+                    "score": 0.09070021659135818, 
+                    "spot": "levels"
+                }
+            ], 
+            "wiki_id": 215107, 
+            "wiki_title": "Experience point"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4041, 
+                    "end": 4053, 
+                    "score": 0.045012667775154114, 
+                    "spot": "Historically"
+                }
+            ], 
+            "wiki_id": 10772350, 
+            "wiki_title": "History"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 807, 
+                    "end": 815, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4236, 
+                    "end": 4241, 
+                    "score": 0.17935810983181, 
+                    "spot": "fault"
+                }, 
+                {
+                    "begin": 4751, 
+                    "end": 4756, 
+                    "score": 0.19474764168262482, 
+                    "spot": "fault"
+                }
+            ], 
+            "wiki_id": 182787, 
+            "wiki_title": "Fault (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4464, 
+                    "end": 4473, 
+                    "score": 0.01434456929564476, 
+                    "spot": "phenomena"
+                }
+            ], 
+            "wiki_id": 60931, 
+            "wiki_title": "Phenomenon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3985, 
+                    "end": 3989, 
+                    "score": 0.05028986185789108, 
+                    "spot": "down"
+                }
+            ], 
+            "wiki_id": 241027, 
+            "wiki_title": "Down quark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1812, 
+                    "end": 1819, 
+                    "score": 0.002953337272629142, 
+                    "spot": "overdue"
+                }, 
+                {
+                    "begin": 3418, 
+                    "end": 3425, 
+                    "score": 0.002953337272629142, 
+                    "spot": "overdue"
+                }
+            ], 
+            "wiki_id": 641419, 
+            "wiki_title": "Showbiz (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2881, 
+                    "end": 2888, 
+                    "score": 0.001576030976139009, 
+                    "spot": "changes"
+                }
+            ], 
+            "wiki_id": 183431, 
+            "wiki_title": "Chord progression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2037, 
+                    "end": 2045, 
+                    "score": 0.29486283659935, 
+                    "spot": "Friction"
+                }
+            ], 
+            "wiki_id": 11062, 
+            "wiki_title": "Friction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3124, 
+                    "end": 3137, 
+                    "score": 0.16822777688503265, 
+                    "spot": "in\nretrospect"
+                }, 
+                {
+                    "begin": 3127, 
+                    "end": 3137, 
+                    "score": 0.17285571992397308, 
+                    "spot": "retrospect"
+                }
+            ], 
+            "wiki_id": 44509212, 
+            "wiki_title": "In Retrospect (Nichols and May album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4953, 
+                    "end": 4960, 
+                    "score": 0.6657745838165283, 
+                    "spot": "to show"
+                }
+            ], 
+            "wiki_id": 23692256, 
+            "wiki_title": "The T.O. Show"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1957, 
+                    "end": 1972, 
+                    "score": 0.5682440996170044, 
+                    "spot": "tectonic plates"
+                }, 
+                {
+                    "begin": 1993, 
+                    "end": 1998, 
+                    "score": 0.10628148913383484, 
+                    "spot": "Plate"
+                }, 
+                {
+                    "begin": 2060, 
+                    "end": 2066, 
+                    "score": 0.18028274178504944, 
+                    "spot": "plates"
+                }
+            ], 
+            "wiki_id": 24944, 
+            "wiki_title": "Plate tectonics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6252, 
+                    "end": 6259, 
+                    "score": 0.06588324904441833, 
+                    "spot": "settled"
+                }
+            ], 
+            "wiki_id": 556323, 
+            "wiki_title": "Settlement (litigation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 728, 
+                    "end": 737, 
+                    "score": 0.14335234463214874, 
+                    "spot": "evacuated"
+                }
+            ], 
+            "wiki_id": 1536572, 
+            "wiki_title": "Emergency evacuation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2786, 
+                    "end": 2790, 
+                    "score": 0.0028150095604360104, 
+                    "spot": "look"
+                }
+            ], 
+            "wiki_id": 5557770, 
+            "wiki_title": "Look (American magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3154, 
+                    "end": 3163, 
+                    "score": 0.007002927362918854, 
+                    "spot": "questions"
+                }
+            ], 
+            "wiki_id": 97172, 
+            "wiki_title": "Question time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3593, 
+                    "end": 3601, 
+                    "score": 0.45028001070022583, 
+                    "spot": "Hokkaido"
+                }
+            ], 
+            "wiki_id": 58092, 
+            "wiki_title": "Hokkaido"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2266, 
+                    "end": 2275, 
+                    "score": 0.0025531144347041845, 
+                    "spot": "residents"
+                }
+            ], 
+            "wiki_id": 2404274, 
+            "wiki_title": "Residency (domicile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6285, 
+                    "end": 6289, 
+                    "score": 0.03864000737667084, 
+                    "spot": "call"
+                }
+            ], 
+            "wiki_id": 38498, 
+            "wiki_title": "Frog"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2108, 
+                    "end": 2115, 
+                    "score": 0.003215568605810404, 
+                    "spot": "section"
+                }, 
+                {
+                    "begin": 2153, 
+                    "end": 2160, 
+                    "score": 0.003215568605810404, 
+                    "spot": "section"
+                }
+            ], 
+            "wiki_id": 3069014, 
+            "wiki_title": "Section (botany)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3432, 
+                    "end": 3435, 
+                    "score": 0.07366447150707245, 
+                    "spot": "big"
+                }, 
+                {
+                    "begin": 4266, 
+                    "end": 4269, 
+                    "score": 0.06952767074108124, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 142510, 
+            "wiki_title": "The Notorious B.I.G."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4713, 
+                    "end": 4719, 
+                    "score": 0.017657993361353874, 
+                    "spot": "quakes"
+                }
+            ], 
+            "wiki_id": 1701655, 
+            "wiki_title": "The Quakes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5184, 
+                    "end": 5226, 
+                    "score": 0.38749998807907104, 
+                    "spot": "Ministry of Education, Science and Culture"
+                }
+            ], 
+            "wiki_id": 12972080, 
+            "wiki_title": "Ministry of Education, Science and Culture (Iceland)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4158, 
+                    "end": 4163, 
+                    "score": 0.053202081471681595, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 48842, 
+            "wiki_title": "Smallmouth bass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2121, 
+                    "end": 2129, 
+                    "score": 0.0021384137216955423, 
+                    "spot": "ruptured"
+                }
+            ], 
+            "wiki_id": 5811552, 
+            "wiki_title": "Anterior cruciate ligament injury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3276, 
+                    "end": 3300, 
+                    "score": 0.33125150203704834, 
+                    "spot": "Ministry\nof Construction"
+                }
+            ], 
+            "wiki_id": 1327991, 
+            "wiki_title": "Ministry of Land, Infrastructure, Transport and Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6061, 
+                    "end": 6066, 
+                    "score": 0.035588011145591736, 
+                    "spot": "maybe"
+                }
+            ], 
+            "wiki_id": 357505, 
+            "wiki_title": "Annie (musical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 267, 
+                    "end": 278, 
+                    "score": 0.2266414761543274, 
+                    "spot": "telemetered"
+                }
+            ], 
+            "wiki_id": 46256, 
+            "wiki_title": "Telemetry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1126, 
+                    "end": 1136, 
+                    "score": 0.17510147392749786, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 1641, 
+                    "end": 1651, 
+                    "score": 0.16618481278419495, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 2496, 
+                    "end": 2506, 
+                    "score": 0.1311597228050232, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 2523, 
+                    "end": 2533, 
+                    "score": 0.11571662127971649, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 2610, 
+                    "end": 2620, 
+                    "score": 0.13418230414390564, 
+                    "spot": "Prediction"
+                }, 
+                {
+                    "begin": 4563, 
+                    "end": 4570, 
+                    "score": 0.002231431193649769, 
+                    "spot": "predict"
+                }, 
+                {
+                    "begin": 4962, 
+                    "end": 4972, 
+                    "score": 0.12392286211252213, 
+                    "spot": "Prediction"
+                }, 
+                {
+                    "begin": 5126, 
+                    "end": 5136, 
+                    "score": 0.12392286211252213, 
+                    "spot": "prediction"
+                }, 
+                {
+                    "begin": 5569, 
+                    "end": 5579, 
+                    "score": 0.08882826566696167, 
+                    "spot": "prediction"
+                }
+            ], 
+            "wiki_id": 246066, 
+            "wiki_title": "Prediction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1052, 
+                    "end": 1057, 
+                    "score": 0.07164235413074493, 
+                    "spot": "close"
+                }
+            ], 
+            "wiki_id": 12453703, 
+            "wiki_title": "Closer (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4381, 
+                    "end": 4384, 
+                    "score": 0.06853797286748886, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 170744, 
+            "wiki_title": "Crataegus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 774, 
+                    "end": 779, 
+                    "score": 0.0606636106967926, 
+                    "spot": "crews"
+                }
+            ], 
+            "wiki_id": 25736, 
+            "wiki_title": "Rowing (sport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1302, 
+                    "end": 1311, 
+                    "score": 0.0036549707874655724, 
+                    "spot": "misguided"
+                }
+            ], 
+            "wiki_id": 4250793, 
+            "wiki_title": "Misguided"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3108, 
+                    "end": 3117, 
+                    "score": 0.06145775318145752, 
+                    "spot": "precursor"
+                }
+            ], 
+            "wiki_id": 331755, 
+            "wiki_title": "Transitional fossil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 337, 
+                    "end": 341, 
+                    "score": 0.06945881247520447, 
+                    "spot": "hope"
+                }
+            ], 
+            "wiki_id": 50020, 
+            "wiki_title": "Hope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4816, 
+                    "end": 4825, 
+                    "score": 0.07835325598716736, 
+                    "spot": "long shot"
+                }
+            ], 
+            "wiki_id": 17859, 
+            "wiki_title": "Long shot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1911, 
+                    "end": 1916, 
+                    "score": 0.07552177459001541, 
+                    "spot": "forms"
+                }
+            ], 
+            "wiki_id": 25754129, 
+            "wiki_title": "Theory of Forms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1295, 
+                    "end": 1299, 
+                    "score": 0.042712897062301636, 
+                    "spot": "best"
+                }
+            ], 
+            "wiki_id": 20166817, 
+            "wiki_title": "Best (High and Mighty Color album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 919, 
+                    "end": 928, 
+                    "score": 0.0016968182753771544, 
+                    "spot": "abandoned"
+                }
+            ], 
+            "wiki_id": 34320389, 
+            "wiki_title": "Take a Deeper Look"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4523, 
+                    "end": 4530, 
+                    "score": 0.0007863696082495153, 
+                    "spot": "slipped"
+                }
+            ], 
+            "wiki_id": 9173236, 
+            "wiki_title": "Slip coach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5744, 
+                    "end": 5748, 
+                    "score": 0.012497426010668278, 
+                    "spot": "High"
+                }
+            ], 
+            "wiki_id": 554992, 
+            "wiki_title": "Secondary school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2116, 
+                    "end": 2120, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 20, 
+                    "end": 25, 
+                    "score": 0.4485037922859192, 
+                    "spot": "Tokyo"
+                }, 
+                {
+                    "begin": 282, 
+                    "end": 287, 
+                    "score": 0.2553204596042633, 
+                    "spot": "Tokyo"
+                }, 
+                {
+                    "begin": 3399, 
+                    "end": 3404, 
+                    "score": 0.32781192660331726, 
+                    "spot": "Tokyo"
+                }
+            ], 
+            "wiki_id": 30057, 
+            "wiki_title": "Tokyo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4345, 
+                    "end": 4348, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 4469269, 
+            "wiki_title": "From Now On (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2203, 
+                    "end": 2208, 
+                    "score": 0.10572276264429092, 
+                    "spot": "reach"
+                }
+            ], 
+            "wiki_id": 23047813, 
+            "wiki_title": "Halo: Reach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1238, 
+                    "score": 0.07758612930774689, 
+                    "spot": "countries"
+                }, 
+                {
+                    "begin": 3903, 
+                    "end": 3911, 
+                    "score": 0.044330134987831116, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5289, 
+                    "end": 5297, 
+                    "score": 0.26411065459251404, 
+                    "spot": "ministry"
+                }, 
+                {
+                    "begin": 5289, 
+                    "end": 5299, 
+                    "score": 0.34056931734085083, 
+                    "spot": "ministry's"
+                }
+            ], 
+            "wiki_id": 214179, 
+            "wiki_title": "Ministry (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1888, 
+                    "end": 1895, 
+                    "score": 0.15506312251091003, 
+                    "spot": "running"
+                }
+            ], 
+            "wiki_id": 26032, 
+            "wiki_title": "Running"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 105, 
+                    "end": 116, 
+                    "score": 0.1742776483297348, 
+                    "spot": "geophysical"
+                }
+            ], 
+            "wiki_id": 54962, 
+            "wiki_title": "Geophysics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2393, 
+                    "end": 2402, 
+                    "score": 0.10249941051006317, 
+                    "spot": "procedure"
+                }
+            ], 
+            "wiki_id": 24431427, 
+            "wiki_title": "Procedure (term)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 571, 
+                    "end": 575, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 296341, 
+            "wiki_title": "Suffragan bishop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1587, 
+                    "end": 1597, 
+                    "score": 0.19686564803123474, 
+                    "spot": "scientists"
+                }, 
+                {
+                    "begin": 5063, 
+                    "end": 5073, 
+                    "score": 0.14374369382858276, 
+                    "spot": "scientific"
+                }, 
+                {
+                    "begin": 5207, 
+                    "end": 5214, 
+                    "score": 0.2873023450374603, 
+                    "spot": "Science"
+                }, 
+                {
+                    "begin": 5537, 
+                    "end": 5547, 
+                    "score": 0.12808267772197723, 
+                    "spot": "scientists"
+                }, 
+                {
+                    "begin": 6041, 
+                    "end": 6051, 
+                    "score": 0.14745937287807465, 
+                    "spot": "scientists"
+                }
+            ], 
+            "wiki_id": 26700, 
+            "wiki_title": "Science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 684, 
+                    "end": 689, 
+                    "score": 0.00301078287884593, 
+                    "spot": "prone"
+                }
+            ], 
+            "wiki_id": 2451591, 
+            "wiki_title": "Prone position"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4671, 
+                    "end": 4679, 
+                    "score": 0.0017418490024283528, 
+                    "spot": "westward"
+                }
+            ], 
+            "wiki_id": 550003, 
+            "wiki_title": "Westward Television"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5809, 
+                    "end": 5825, 
+                    "score": 0.005093378480523825, 
+                    "spot": "panel of\nexperts"
+                }
+            ], 
+            "wiki_id": 32367644, 
+            "wiki_title": "Report of the Secretary-General's Panel of Experts on Accountability in Sri Lanka"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4261, 
+                    "end": 4265, 
+                    "score": 0.10396424680948257, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 11493337, 
+            "wiki_title": "The Last (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1871, 
+                    "end": 1887, 
+                    "score": 0.5, 
+                    "spot": "submarine trench"
+                }
+            ], 
+            "wiki_id": 145694, 
+            "wiki_title": "Oceanic trench"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1162, 
+                    "end": 1174, 
+                    "score": 0.07692307978868484, 
+                    "spot": "price to pay"
+                }
+            ], 
+            "wiki_id": 43445930, 
+            "wiki_title": "The Price to Pay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 45, 
+                    "end": 57, 
+                    "score": 0.5, 
+                    "spot": "Tokai region"
+                }, 
+                {
+                    "begin": 565, 
+                    "end": 570, 
+                    "score": 0.12210526317358017, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 1035, 
+                    "end": 1047, 
+                    "score": 0.5, 
+                    "spot": "Tokai region"
+                }, 
+                {
+                    "begin": 1797, 
+                    "end": 1802, 
+                    "score": 0.1954898238182068, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 2102, 
+                    "end": 2107, 
+                    "score": 0.18809860944747925, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 3389, 
+                    "end": 3394, 
+                    "score": 0.320002943277359, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 3523, 
+                    "end": 3528, 
+                    "score": 0.18809860944747925, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 3845, 
+                    "end": 3857, 
+                    "score": 0.5, 
+                    "spot": "Tokai region"
+                }, 
+                {
+                    "begin": 5649, 
+                    "end": 5654, 
+                    "score": 0.20451506972312927, 
+                    "spot": "Tokai"
+                }, 
+                {
+                    "begin": 6326, 
+                    "end": 6331, 
+                    "score": 0.12210526317358017, 
+                    "spot": "Tokai"
+                }
+            ], 
+            "wiki_id": 182594, 
+            "wiki_title": "T\u014dkai region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4164, 
+                    "end": 4168, 
+                    "score": 0.0005077144596725702, 
+                    "spot": "ones"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 397, 
+                    "end": 401, 
+                    "score": 0.05258191376924515, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 524, 
+                    "end": 528, 
+                    "score": 0.10789471864700317, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 720, 
+                    "end": 724, 
+                    "score": 0.06519841402769089, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 816, 
+                    "end": 820, 
+                    "score": 0.04097680747509003, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4305, 
+                    "end": 4309, 
+                    "score": 0.08122703433036804, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 96, 
+                    "end": 101, 
+                    "score": 0.13005490601062775, 
+                    "spot": "array"
+                }
+            ], 
+            "wiki_id": 20556859, 
+            "wiki_title": "Matrix (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5966, 
+                    "end": 5974, 
+                    "score": 0.07108389586210251, 
+                    "spot": "category"
+                }
+            ], 
+            "wiki_id": 202009, 
+            "wiki_title": "Listed building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 767, 
+                    "end": 773, 
+                    "score": 0.10523699223995209, 
+                    "spot": "rescue"
+                }
+            ], 
+            "wiki_id": 172599, 
+            "wiki_title": "Search and rescue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1440, 
+                    "end": 1449, 
+                    "score": 0.04897209629416466, 
+                    "spot": "programme"
+                }, 
+                {
+                    "begin": 2457, 
+                    "end": 2467, 
+                    "score": 0.07867647707462311, 
+                    "spot": "programmes"
+                }, 
+                {
+                    "begin": 4879, 
+                    "end": 4888, 
+                    "score": 0.04788631945848465, 
+                    "spot": "programme"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5773, 
+                    "end": 5784, 
+                    "score": 0.0010484377853572369, 
+                    "spot": "coming back"
+                }
+            ], 
+            "wiki_id": 39847817, 
+            "wiki_title": "Coming Back (How I Met Your Mother)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3602, 
+                    "end": 3611, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1344, 
+                    "end": 1355, 
+                    "score": 0.0005503577413037419, 
+                    "spot": "dangerously"
+                }
+            ], 
+            "wiki_id": 4228145, 
+            "wiki_title": "Jesse Dangerously"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2640, 
+                    "end": 2659, 
+                    "score": 0.043478261679410934, 
+                    "spot": "anomalous phenomena"
+                }
+            ], 
+            "wiki_id": 44490, 
+            "wiki_title": "Charles Fort"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3406, 
+                    "end": 3414, 
+                    "score": 0.3554772138595581, 
+                    "spot": "The city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 34, 
+                    "score": 0.45841550827026367, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 1179, 
+                    "end": 1184, 
+                    "score": 0.31240037083625793, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 1279, 
+                    "end": 1284, 
+                    "score": 0.30889517068862915, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 1410, 
+                    "end": 1415, 
+                    "score": 0.3211955428123474, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 1522, 
+                    "end": 1527, 
+                    "score": 0.31478583812713623, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 1725, 
+                    "end": 1730, 
+                    "score": 0.3917473554611206, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 3178, 
+                    "end": 3183, 
+                    "score": 0.2747383117675781, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 3474, 
+                    "end": 3479, 
+                    "score": 0.31984439492225647, 
+                    "spot": "Japan"
+                }, 
+                {
+                    "begin": 5118, 
+                    "end": 5123, 
+                    "score": 0.27620863914489746, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 15573, 
+            "wiki_title": "Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3186, 
+                    "end": 3196, 
+                    "score": 0.019679833203554153, 
+                    "spot": "monitoring"
+                }, 
+                {
+                    "begin": 3529, 
+                    "end": 3539, 
+                    "score": 0.06345850229263306, 
+                    "spot": "monitoring"
+                }, 
+                {
+                    "begin": 6311, 
+                    "end": 6321, 
+                    "score": 0.07177386432886124, 
+                    "spot": "monitoring"
+                }
+            ], 
+            "wiki_id": 87231, 
+            "wiki_title": "Surveillance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6099, 
+                    "end": 6115, 
+                    "score": 0.01537259016185999, 
+                    "spot": "state of the\nart"
+                }
+            ], 
+            "wiki_id": 80905, 
+            "wiki_title": "State of the art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4982, 
+                    "end": 4991, 
+                    "score": 0.0012247728882357478, 
+                    "spot": "elsewhere"
+                }
+            ], 
+            "wiki_id": 6714260, 
+            "wiki_title": "Elsewhere (anthology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5384, 
+                    "end": 5391, 
+                    "score": 0.153046652674675, 
+                    "spot": "divided"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4575, 
+                    "end": 4579, 
+                    "score": 0.001524612889625132, 
+                    "spot": "next"
+                }
+            ], 
+            "wiki_id": 21694, 
+            "wiki_title": "NeXT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2511, 
+                    "end": 2516, 
+                    "score": 0.004305776208639145, 
+                    "spot": "faded"
+                }
+            ], 
+            "wiki_id": 4044955, 
+            "wiki_title": "Faded (Kate DeAraugo song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4407, 
+                    "end": 4414, 
+                    "score": 0.003215568605810404, 
+                    "spot": "section"
+                }, 
+                {
+                    "begin": 4502, 
+                    "end": 4509, 
+                    "score": 0.003215568605810404, 
+                    "spot": "section"
+                }, 
+                {
+                    "begin": 4735, 
+                    "end": 4743, 
+                    "score": 0.06341858953237534, 
+                    "spot": "sections"
+                }
+            ], 
+            "wiki_id": 1337370, 
+            "wiki_title": "Cross section (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4638, 
+                    "end": 4643, 
+                    "score": 0.10743340849876404, 
+                    "spot": "rapid"
+                }
+            ], 
+            "wiki_id": 25919, 
+            "wiki_title": "Rapids"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4435, 
+                    "end": 4447, 
+                    "score": 0.031779661774635315, 
+                    "spot": "if they knew"
+                }
+            ], 
+            "wiki_id": 21631045, 
+            "wiki_title": "If They Knew"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4992, 
+                    "end": 5000, 
+                    "score": 0.00758341746404767, 
+                    "spot": "withered"
+                }
+            ], 
+            "wiki_id": 12933811, 
+            "wiki_title": "Withered"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2385, 
+                    "end": 2392, 
+                    "score": 0.005522528663277626, 
+                    "spot": "warning"
+                }
+            ], 
+            "wiki_id": 1880655, 
+            "wiki_title": "Warning label"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2361, 
+                    "score": 0.00813446193933487, 
+                    "spot": "Act"
+                }
+            ], 
+            "wiki_id": 74746, 
+            "wiki_title": "Act of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 897, 
+                    "end": 914, 
+                    "score": 0.003198494901880622, 
+                    "spot": "rest of the world"
+                }
+            ], 
+            "wiki_id": 223278, 
+            "wiki_title": "Rest of the world in sports and games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3875, 
+                    "end": 3881, 
+                    "score": 0.0071770367212593555, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 2172378, 
+            "wiki_title": "Independent politician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 213, 
+                    "end": 228, 
+                    "score": 0.29845505952835083, 
+                    "spot": "tidal\nmovements"
+                }
+            ], 
+            "wiki_id": 30718, 
+            "wiki_title": "Tide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5735, 
+                    "end": 5742, 
+                    "score": 0.056441642343997955, 
+                    "spot": "warning"
+                }
+            ], 
+            "wiki_id": 275591, 
+            "wiki_title": "Tornado warning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3894, 
+                    "end": 3899, 
+                    "score": 0.000768016092479229, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 2797722, 
+            "wiki_title": "Call sign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 821, 
+                    "end": 825, 
+                    "score": 0.004400096833705902, 
+                    "spot": "wait"
+                }
+            ], 
+            "wiki_id": 7069245, 
+            "wiki_title": "WAIT (AM)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1156, 
+                    "end": 1174, 
+                    "score": 0.019607843831181526, 
+                    "spot": "small\nprice to pay"
+                }
+            ], 
+            "wiki_id": 6338953, 
+            "wiki_title": "The Gamits"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 77, 
+                    "end": 82, 
+                    "score": 0.11934566497802734, 
+                    "spot": "world"
+                }, 
+                {
+                    "begin": 1949, 
+                    "end": 1954, 
+                    "score": 0.35603928565979004, 
+                    "spot": "earth"
+                }, 
+                {
+                    "begin": 1949, 
+                    "end": 1956, 
+                    "score": 0.4038543403148651, 
+                    "spot": "earth's"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2845, 
+                    "end": 2851, 
+                    "score": 0.14021456241607666, 
+                    "spot": "creeps"
+                }
+            ], 
+            "wiki_id": 681241, 
+            "wiki_title": "Creep (deformation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1261, 
+                    "end": 1266, 
+                    "score": 0.02869945578277111, 
+                    "spot": "vocal"
+                }
+            ], 
+            "wiki_id": 162707, 
+            "wiki_title": "Singing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2534, 
+                    "end": 2544, 
+                    "score": 0.0752599760890007, 
+                    "spot": "supporters"
+                }
+            ], 
+            "wiki_id": 152640, 
+            "wiki_title": "Fan (person)"
+        }
+    ]
+}

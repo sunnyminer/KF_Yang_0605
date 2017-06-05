@@ -1,0 +1,3088 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3864, 
+                    "end": 3874, 
+                    "score": 0.2003166675567627, 
+                    "spot": "Manchester"
+                }
+            ], 
+            "wiki_id": 20206, 
+            "wiki_title": "Manchester"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 263, 
+                    "score": 0.19776314496994019, 
+                    "spot": "mountain ranges"
+                }
+            ], 
+            "wiki_id": 19338, 
+            "wiki_title": "Mountain range"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 807, 
+                    "end": 812, 
+                    "score": 0.06863093376159668, 
+                    "spot": "visit"
+                }
+            ], 
+            "wiki_id": 30014411, 
+            "wiki_title": "Dutch missions to Edo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1896, 
+                    "end": 1903, 
+                    "score": 0.004978805314749479, 
+                    "spot": "welcome"
+                }
+            ], 
+            "wiki_id": 5767035, 
+            "wiki_title": "Welcome (2007 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1212, 
+                    "score": 0.41124385595321655, 
+                    "spot": "Paris"
+                }
+            ], 
+            "wiki_id": 22989, 
+            "wiki_title": "Paris"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3568, 
+                    "end": 3571, 
+                    "score": 0.00973816029727459, 
+                    "spot": "box"
+                }, 
+                {
+                    "begin": 3797, 
+                    "end": 3800, 
+                    "score": 0.1524331420660019, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 4243, 
+            "wiki_title": "Boxing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1853, 
+                    "end": 1862, 
+                    "score": 0.005760985892266035, 
+                    "spot": "occupancy"
+                }
+            ], 
+            "wiki_id": 4872994, 
+            "wiki_title": "Occupancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3052, 
+                    "end": 3060, 
+                    "score": 0.3335922360420227, 
+                    "spot": "Gulf War"
+                }
+            ], 
+            "wiki_id": 182000, 
+            "wiki_title": "Gulf War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2904, 
+                    "end": 2911, 
+                    "score": 0.000647492881398648, 
+                    "spot": "special"
+                }
+            ], 
+            "wiki_id": 791921, 
+            "wiki_title": "Television special"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3127, 
+                    "end": 3133, 
+                    "score": 0.2963120937347412, 
+                    "spot": "Munich"
+                }
+            ], 
+            "wiki_id": 19058, 
+            "wiki_title": "Munich"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2565, 
+                    "end": 2571, 
+                    "score": 0.0639227107167244, 
+                    "spot": "senior"
+                }
+            ], 
+            "wiki_id": 155526, 
+            "wiki_title": "Student"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1712, 
+                    "end": 1725, 
+                    "score": 0.16219283640384674, 
+                    "spot": "San Francisco"
+                }
+            ], 
+            "wiki_id": 49728, 
+            "wiki_title": "San Francisco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2343, 
+                    "end": 2356, 
+                    "score": 0.22024893760681152, 
+                    "spot": "half-marathon"
+                }, 
+                {
+                    "begin": 2390, 
+                    "end": 2403, 
+                    "score": 0.2641200125217438, 
+                    "spot": "half-marathon"
+                }
+            ], 
+            "wiki_id": 1019031, 
+            "wiki_title": "Half marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3841, 
+                    "end": 3843, 
+                    "score": 0.026217490434646606, 
+                    "spot": "Rd"
+                }
+            ], 
+            "wiki_id": 11386978, 
+            "wiki_title": "Decoration for Officers of the Royal Naval Reserve"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 298, 
+                    "end": 301, 
+                    "score": 0.1271720975637436, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 1827051, 
+            "wiki_title": "Canada at the 1996 Summer Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3546, 
+                    "end": 3551, 
+                    "score": 0.06213732063770294, 
+                    "spot": "firms"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2621, 
+                    "end": 2628, 
+                    "score": 0.2996969223022461, 
+                    "spot": "Ireland"
+                }
+            ], 
+            "wiki_id": 14560, 
+            "wiki_title": "Republic of Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 611, 
+                    "end": 619, 
+                    "score": 0.046351347118616104, 
+                    "spot": "addition"
+                }
+            ], 
+            "wiki_id": 150643, 
+            "wiki_title": "Glossary of chess"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3101, 
+                    "end": 3111, 
+                    "score": 0.4985736310482025, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 27289, 
+            "wiki_title": "Serbia and Montenegro"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 272, 
+                    "end": 279, 
+                    "score": 0.09497120976448059, 
+                    "spot": "players"
+                }
+            ], 
+            "wiki_id": 1551610, 
+            "wiki_title": "The Players Championship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1801, 
+                    "end": 1811, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Grotto Bay"
+                }
+            ], 
+            "wiki_id": 28205096, 
+            "wiki_title": "Grotto Bay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3008, 
+                    "end": 3012, 
+                    "score": 0.0006291924510151148, 
+                    "spot": "past"
+                }
+            ], 
+            "wiki_id": 31591, 
+            "wiki_title": "Time travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1812, 
+                    "end": 1823, 
+                    "score": 0.09554578363895416, 
+                    "spot": "Beach hotel"
+                }
+            ], 
+            "wiki_id": 13603750, 
+            "wiki_title": "Beach Hotel (Galveston)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1310, 
+                    "score": 0.1540628969669342, 
+                    "spot": "race"
+                }, 
+                {
+                    "begin": 2271, 
+                    "end": 2276, 
+                    "score": 0.10945988446474075, 
+                    "spot": "races"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1040, 
+                    "end": 1055, 
+                    "score": 0.17584452033042908, 
+                    "spot": "sightseeing bus"
+                }
+            ], 
+            "wiki_id": 12362125, 
+            "wiki_title": "Tour bus service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 351, 
+                    "end": 359, 
+                    "score": 0.06719817966222763, 
+                    "spot": "Gilligan"
+                }
+            ], 
+            "wiki_id": 699172, 
+            "wiki_title": "John J. Gilligan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1563, 
+                    "end": 1571, 
+                    "score": 0.44459015130996704, 
+                    "spot": "Brussels"
+                }
+            ], 
+            "wiki_id": 3708, 
+            "wiki_title": "Brussels"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 329, 
+                    "end": 337, 
+                    "score": 0.030418775975704193, 
+                    "spot": "vacation"
+                }, 
+                {
+                    "begin": 2500, 
+                    "end": 2511, 
+                    "score": 0.12289947271347046, 
+                    "spot": "sightseeing"
+                }, 
+                {
+                    "begin": 2698, 
+                    "end": 2709, 
+                    "score": 0.07117203623056412, 
+                    "spot": "sightseeing"
+                }, 
+                {
+                    "begin": 3509, 
+                    "end": 3517, 
+                    "score": 0.06041169539093971, 
+                    "spot": "vacation"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3616, 
+                    "end": 3620, 
+                    "score": 0.146694615483284, 
+                    "spot": "Mass"
+                }
+            ], 
+            "wiki_id": 1645518, 
+            "wiki_title": "Massachusetts"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2612, 
+                    "end": 2617, 
+                    "score": 0.09922429174184799, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 1142023, 
+            "wiki_title": "Political groups of the European Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2512, 
+                    "end": 2520, 
+                    "score": 0.16206872463226318, 
+                    "spot": "schedule"
+                }
+            ], 
+            "wiki_id": 8624576, 
+            "wiki_title": "Public transport timetable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1979, 
+                    "end": 1992, 
+                    "score": 0.04974670335650444, 
+                    "spot": "organizations"
+                }
+            ], 
+            "wiki_id": 30861635, 
+            "wiki_title": "Organist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3365, 
+                    "end": 3381, 
+                    "score": 0.4850427210330963, 
+                    "spot": "Chicago Marathon"
+                }
+            ], 
+            "wiki_id": 762701, 
+            "wiki_title": "Chicago Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1123, 
+                    "end": 1131, 
+                    "score": 0.11164862662553787, 
+                    "spot": "director"
+                }
+            ], 
+            "wiki_id": 103078, 
+            "wiki_title": "Theatre director"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1787, 
+                    "end": 1793, 
+                    "score": 0.00108886428643018, 
+                    "spot": "nights"
+                }
+            ], 
+            "wiki_id": 1907556, 
+            "wiki_title": "Nights (character)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1904, 
+                    "end": 1918, 
+                    "score": 0.10467479377985, 
+                    "spot": "cocktail\nparty"
+                }
+            ], 
+            "wiki_id": 908981, 
+            "wiki_title": "Cocktail party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2540, 
+                    "end": 2546, 
+                    "score": 0.11978015303611755, 
+                    "spot": "Savage"
+                }
+            ], 
+            "wiki_id": 552897, 
+            "wiki_title": "Randy Savage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1214, 
+                    "end": 1218, 
+                    "score": 0.4243099093437195, 
+                    "spot": "Rome"
+                }
+            ], 
+            "wiki_id": 25458, 
+            "wiki_title": "Rome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 626, 
+                    "score": 0.11723122745752335, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 58422, 
+            "wiki_title": "Aviation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3114, 
+                    "end": 3121, 
+                    "score": 0.001630298444069922, 
+                    "spot": "turmoil"
+                }
+            ], 
+            "wiki_id": 43350694, 
+            "wiki_title": "The Turmoil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3649, 
+                    "end": 3652, 
+                    "score": 0.05032462254166603, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 334850, 
+            "wiki_title": "Buxus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1293, 
+                    "end": 1298, 
+                    "score": 0.018031664192676544, 
+                    "spot": "start"
+                }
+            ], 
+            "wiki_id": 430699, 
+            "wiki_title": "START I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1063, 
+                    "end": 1073, 
+                    "score": 0.5650478005409241, 
+                    "spot": "Fred Lebow"
+                }, 
+                {
+                    "begin": 1158, 
+                    "end": 1163, 
+                    "score": 0.2809714376926422, 
+                    "spot": "Lebow"
+                }
+            ], 
+            "wiki_id": 1555601, 
+            "wiki_title": "Fred Lebow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2795, 
+                    "end": 2798, 
+                    "score": 0.0017872207099571824, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 7445875, 
+            "wiki_title": "You (Lloyd song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3768, 
+                    "end": 3775, 
+                    "score": 0.18033745884895325, 
+                    "spot": "England"
+                }
+            ], 
+            "wiki_id": 9316, 
+            "wiki_title": "England"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3522, 
+                    "end": 3530, 
+                    "score": 0.17998497188091278, 
+                    "spot": "marathon"
+                }
+            ], 
+            "wiki_id": 109497, 
+            "wiki_title": "Marathon, Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2471, 
+                    "end": 2482, 
+                    "score": 0.07583898305892944, 
+                    "spot": "incorporate"
+                }
+            ], 
+            "wiki_id": 414411, 
+            "wiki_title": "Incorporation (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2196, 
+                    "end": 2198, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 2421757, 
+            "wiki_title": "If (They Made Me a King)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 505, 
+                    "end": 516, 
+                    "score": 0.08650386333465576, 
+                    "spot": "competition"
+                }
+            ], 
+            "wiki_id": 181592, 
+            "wiki_title": "Competition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2069, 
+                    "end": 2076, 
+                    "score": 0.0603906512260437, 
+                    "spot": "British"
+                }
+            ], 
+            "wiki_id": 4721, 
+            "wiki_title": "British Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3456, 
+                    "end": 3458, 
+                    "score": 0.0011770633282139897, 
+                    "spot": "RE"
+                }
+            ], 
+            "wiki_id": 61103, 
+            "wiki_title": "German reunification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 350, 
+                    "score": 0.13955391943454742, 
+                    "spot": "Thorn"
+                }
+            ], 
+            "wiki_id": 456707, 
+            "wiki_title": "Gaston Thorn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2799, 
+                    "end": 2803, 
+                    "score": 0.07245232164859772, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 378010, 
+            "wiki_title": "Planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 194, 
+                    "end": 200, 
+                    "score": 0.2670133709907532, 
+                    "spot": "London"
+                }, 
+                {
+                    "begin": 765, 
+                    "end": 771, 
+                    "score": 0.2313721776008606, 
+                    "spot": "London"
+                }, 
+                {
+                    "begin": 1199, 
+                    "end": 1205, 
+                    "score": 0.3073592782020569, 
+                    "spot": "London"
+                }
+            ], 
+            "wiki_id": 17867, 
+            "wiki_title": "London"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 985, 
+                    "end": 991, 
+                    "score": 0.375, 
+                    "spot": "so you"
+                }
+            ], 
+            "wiki_id": 1102430, 
+            "wiki_title": "A Rock and Roll Alternative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2987, 
+                    "end": 3002, 
+                    "score": 0.06168831139802933, 
+                    "spot": "Marathon course"
+                }
+            ], 
+            "wiki_id": 18947085, 
+            "wiki_title": "2012 Olympic Marathon Course"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 486, 
+                    "end": 491, 
+                    "score": 0.15578557550907135, 
+                    "spot": "sport"
+                }, 
+                {
+                    "begin": 1994, 
+                    "end": 2000, 
+                    "score": 0.1324717104434967, 
+                    "spot": "Sports"
+                }, 
+                {
+                    "begin": 3802, 
+                    "end": 3808, 
+                    "score": 0.15872962772846222, 
+                    "spot": "Sports"
+                }
+            ], 
+            "wiki_id": 25778403, 
+            "wiki_title": "Sport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1075, 
+                    "end": 1084, 
+                    "score": 0.2287413328886032, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 692, 
+                    "end": 697, 
+                    "score": 0.1932039111852646, 
+                    "spot": "races"
+                }
+            ], 
+            "wiki_id": 251442, 
+            "wiki_title": "Road running"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2711, 
+                    "end": 2717, 
+                    "score": 0.052829016000032425, 
+                    "spot": "guided"
+                }
+            ], 
+            "wiki_id": 9033432, 
+            "wiki_title": "Mountain guide"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2829, 
+                    "end": 2837, 
+                    "score": 0.005498908925801516, 
+                    "spot": "everyday"
+                }
+            ], 
+            "wiki_id": 13389856, 
+            "wiki_title": "Everyday (Buddy Holly song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 950, 
+                    "end": 959, 
+                    "score": 0.07762560248374939, 
+                    "spot": "marathons"
+                }
+            ], 
+            "wiki_id": 558541, 
+            "wiki_title": "Athletics at the 2000 Summer Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1959, 
+                    "end": 1966, 
+                    "score": 0.20401953160762787, 
+                    "spot": "England"
+                }
+            ], 
+            "wiki_id": 759125, 
+            "wiki_title": "England cricket team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2240, 
+                    "end": 2248, 
+                    "score": 0.23313893377780914, 
+                    "spot": "Portland"
+                }
+            ], 
+            "wiki_id": 23503, 
+            "wiki_title": "Portland, Oregon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2372, 
+                    "end": 2380, 
+                    "score": 0.4434361457824707, 
+                    "spot": "Budapest"
+                }
+            ], 
+            "wiki_id": 36787, 
+            "wiki_title": "Budapest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2530, 
+                    "end": 2535, 
+                    "score": 0.10182171314954758, 
+                    "spot": "coach"
+                }
+            ], 
+            "wiki_id": 626967, 
+            "wiki_title": "Coach (sport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2318, 
+                    "end": 2322, 
+                    "score": 0.006082319654524326, 
+                    "spot": "kids"
+                }
+            ], 
+            "wiki_id": 1406563, 
+            "wiki_title": "Kids (Robbie Williams and Kylie Minogue song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 589, 
+                    "end": 596, 
+                    "score": 0.4915165901184082, 
+                    "spot": "Bermuda"
+                }, 
+                {
+                    "begin": 1660, 
+                    "end": 1667, 
+                    "score": 0.3984355926513672, 
+                    "spot": "Bermuda"
+                }
+            ], 
+            "wiki_id": 3460, 
+            "wiki_title": "Bermuda"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2536, 
+                    "end": 2539, 
+                    "score": 0.10932523012161255, 
+                    "spot": "Pat"
+                }
+            ], 
+            "wiki_id": 30876210, 
+            "wiki_title": "Conversion (gridiron football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 428, 
+                    "end": 433, 
+                    "score": 0.001105442177504301, 
+                    "spot": "enjoy"
+                }
+            ], 
+            "wiki_id": 1093467, 
+            "wiki_title": "Enjoy! (Descendents album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3708, 
+                    "end": 3711, 
+                    "score": 0.2746811509132385, 
+                    "spot": "Ind"
+                }
+            ], 
+            "wiki_id": 21883857, 
+            "wiki_title": "Indiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 921, 
+                    "end": 927, 
+                    "score": 0.08829711377620697, 
+                    "spot": "demise"
+                }
+            ], 
+            "wiki_id": 8380370, 
+            "wiki_title": "Die Wende"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 824, 
+                    "end": 829, 
+                    "score": 0.11572811752557755, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 20155994, 
+            "wiki_title": "List of IPC world records in athletics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 574, 
+                    "end": 583, 
+                    "score": 0.11780927330255508, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 2554950, 
+            "wiki_title": "Constituent country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 727, 
+                    "end": 737, 
+                    "score": 0.08971290290355682, 
+                    "spot": "Qualifying"
+                }
+            ], 
+            "wiki_id": 11606379, 
+            "wiki_title": "2010 FIFA World Cup qualification (UEFA)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1250, 
+                    "end": 1256, 
+                    "score": 0.41468122601509094, 
+                    "spot": "Vienna"
+                }
+            ], 
+            "wiki_id": 55866, 
+            "wiki_title": "Vienna"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2224, 
+                    "end": 2233, 
+                    "score": 0.07142520695924759, 
+                    "spot": "marathons"
+                }
+            ], 
+            "wiki_id": 37669357, 
+            "wiki_title": "Marathon (media)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 454, 
+                    "end": 457, 
+                    "score": 0.08861269056797028, 
+                    "spot": "day"
+                }
+            ], 
+            "wiki_id": 951256, 
+            "wiki_title": "Day school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1240, 
+                    "end": 1245, 
+                    "score": 0.4215295612812042, 
+                    "spot": "Seoul"
+                }
+            ], 
+            "wiki_id": 19159283, 
+            "wiki_title": "Seoul"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 80, 
+                    "score": 0.1042449027299881, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3396, 
+                    "end": 3399, 
+                    "score": 0.02327696420252323, 
+                    "spot": "ran"
+                }
+            ], 
+            "wiki_id": 753634, 
+            "wiki_title": "Nissim of Gerona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 600, 
+                    "end": 606, 
+                    "score": 0.338457316160202, 
+                    "spot": "Moscow"
+                }
+            ], 
+            "wiki_id": 19004, 
+            "wiki_title": "Moscow"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 100, 
+                    "end": 105, 
+                    "score": 0.003932454157620668, 
+                    "spot": "folks"
+                }
+            ], 
+            "wiki_id": 24073089, 
+            "wiki_title": "Folks!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2821, 
+                    "end": 2828, 
+                    "score": 0.11955512315034866, 
+                    "spot": "running"
+                }
+            ], 
+            "wiki_id": 42019513, 
+            "wiki_title": "Running (Andr\u00e1s K\u00e1llay-Saunders song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3134, 
+                    "end": 3140, 
+                    "score": 0.021522672846913338, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 526101, 
+            "wiki_title": "Major (academic)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3320, 
+                    "end": 3349, 
+                    "score": 0.04545454680919647, 
+                    "spot": "kill two birds with one\nstone"
+                }
+            ], 
+            "wiki_id": 8443094, 
+            "wiki_title": "One Stone Two Birds"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 710, 
+                    "end": 725, 
+                    "score": 0.44693201780319214, 
+                    "spot": "London Marathon"
+                }
+            ], 
+            "wiki_id": 48804, 
+            "wiki_title": "London Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3532, 
+                    "end": 3536, 
+                    "score": 0.030184488743543625, 
+                    "spot": "here"
+                }
+            ], 
+            "wiki_id": 19692, 
+            "wiki_title": "Monopoly (game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 790, 
+                    "end": 798, 
+                    "score": 0.08051440119743347, 
+                    "spot": "European"
+                }
+            ], 
+            "wiki_id": 13279542, 
+            "wiki_title": "Ethnic groups in Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 799, 
+                    "end": 803, 
+                    "score": 0.10780508816242218, 
+                    "spot": "city"
+                }, 
+                {
+                    "begin": 1363, 
+                    "end": 1369, 
+                    "score": 0.02615434303879738, 
+                    "spot": "cities"
+                }
+            ], 
+            "wiki_id": 214461, 
+            "wiki_title": "Cities of Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1458, 
+                    "end": 1471, 
+                    "score": 0.011194029822945595, 
+                    "spot": "medical exams"
+                }
+            ], 
+            "wiki_id": 602919, 
+            "wiki_title": "Physical examination"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1019, 
+                    "end": 1022, 
+                    "score": 0.21400515735149384, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 22993473, 
+            "wiki_title": "For You (Bruce Springsteen song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3424, 
+                    "end": 3430, 
+                    "score": 0.15926764905452728, 
+                    "spot": "photos"
+                }
+            ], 
+            "wiki_id": 25080, 
+            "wiki_title": "Photograph"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1535, 
+                    "end": 1544, 
+                    "score": 0.001266114180907607, 
+                    "spot": "finishers"
+                }
+            ], 
+            "wiki_id": 40250905, 
+            "wiki_title": "The Finishers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3480, 
+                    "end": 3482, 
+                    "score": 0.02352336049079895, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 195533, 
+            "wiki_title": "Religious education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3415, 
+                    "end": 3423, 
+                    "score": 0.003546099178493023, 
+                    "spot": "snapping"
+                }
+            ], 
+            "wiki_id": 7368037, 
+            "wiki_title": "Finger snapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3224, 
+                    "end": 3232, 
+                    "score": 0.017595307901501656, 
+                    "spot": "26 miles"
+                }
+            ], 
+            "wiki_id": 31241317, 
+            "wiki_title": "26 Miles (Santa Catalina)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1337, 
+                    "end": 1346, 
+                    "score": 0.01978898048400879, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 286369, 
+            "wiki_title": "Assassination of John F. Kennedy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1485, 
+                    "end": 1496, 
+                    "score": 0.07883726060390472, 
+                    "spot": "celebration"
+                }
+            ], 
+            "wiki_id": 23718356, 
+            "wiki_title": "Celebration (Madonna album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2652, 
+                    "end": 2656, 
+                    "score": 0.09889288991689682, 
+                    "spot": "trip"
+                }
+            ], 
+            "wiki_id": 218449, 
+            "wiki_title": "Illegal drug trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2150, 
+                    "end": 2161, 
+                    "score": 0.09913793206214905, 
+                    "spot": "miles to go"
+                }
+            ], 
+            "wiki_id": 22191725, 
+            "wiki_title": "Miles to Go"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3344, 
+                    "end": 3349, 
+                    "score": 0.011794685386121273, 
+                    "spot": "stone"
+                }
+            ], 
+            "wiki_id": 199661, 
+            "wiki_title": "Rock (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 392, 
+                    "end": 398, 
+                    "score": 0.1949339359998703, 
+                    "spot": "Boston"
+                }
+            ], 
+            "wiki_id": 24437894, 
+            "wiki_title": "Boston"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3020, 
+                    "end": 3023, 
+                    "score": 0.0771743655204773, 
+                    "spot": "hit"
+                }
+            ], 
+            "wiki_id": 19497209, 
+            "wiki_title": "H\u012bt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3677, 
+                    "end": 3690, 
+                    "score": 0.1111111119389534, 
+                    "spot": "Lake Shore Dr"
+                }
+            ], 
+            "wiki_id": 508248, 
+            "wiki_title": "Lake Shore Drive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 383, 
+                    "end": 388, 
+                    "score": 0.08009505271911621, 
+                    "spot": "Tours"
+                }, 
+                {
+                    "begin": 565, 
+                    "end": 570, 
+                    "score": 0.03850306570529938, 
+                    "spot": "tours"
+                }, 
+                {
+                    "begin": 1604, 
+                    "end": 1609, 
+                    "score": 0.10243760049343109, 
+                    "spot": "Tours"
+                }, 
+                {
+                    "begin": 3582, 
+                    "end": 3587, 
+                    "score": 0.08750902116298676, 
+                    "spot": "Tours"
+                }
+            ], 
+            "wiki_id": 31593, 
+            "wiki_title": "Tours"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1112, 
+                    "end": 1118, 
+                    "score": 0.11910112202167511, 
+                    "spot": "s Club"
+                }
+            ], 
+            "wiki_id": 144452, 
+            "wiki_title": "S Club 7"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 655, 
+                    "end": 665, 
+                    "score": 0.002590841380879283, 
+                    "spot": "guaranteed"
+                }
+            ], 
+            "wiki_id": 9922309, 
+            "wiki_title": "Guaranteed (Level 42 album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2434, 
+                    "end": 2440, 
+                    "score": 0.390109658241272, 
+                    "spot": "Danube"
+                }
+            ], 
+            "wiki_id": 21209639, 
+            "wiki_title": "Danube"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 113, 
+                    "end": 122, 
+                    "score": 0.04779313504695892, 
+                    "spot": "companies"
+                }
+            ], 
+            "wiki_id": 145418, 
+            "wiki_title": "Company (military unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2122, 
+                    "end": 2125, 
+                    "score": 0.01773049682378769, 
+                    "spot": "isn"
+                }, 
+                {
+                    "begin": 3263, 
+                    "end": 3266, 
+                    "score": 0.01773049682378769, 
+                    "spot": "isn"
+                }
+            ], 
+            "wiki_id": 11840412, 
+            "wiki_title": "Internment Serial Number"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 256, 
+                    "score": 0.3159189522266388, 
+                    "spot": "mountain"
+                }
+            ], 
+            "wiki_id": 37754, 
+            "wiki_title": "Mountain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3407, 
+                    "end": 3413, 
+                    "score": 0.01965397223830223, 
+                    "spot": "camera"
+                }
+            ], 
+            "wiki_id": 52648, 
+            "wiki_title": "Camera"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2213, 
+                    "end": 2217, 
+                    "score": 0.06383662670850754, 
+                    "spot": "trip"
+                }
+            ], 
+            "wiki_id": 155747, 
+            "wiki_title": "Travel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1444, 
+                    "end": 1456, 
+                    "score": 0.005727091804146767, 
+                    "spot": "night\nbefore"
+                }
+            ], 
+            "wiki_id": 43539422, 
+            "wiki_title": "The Night Before (2015 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3603, 
+                    "end": 3614, 
+                    "score": 0.36787766218185425, 
+                    "spot": "Charlestown"
+                }
+            ], 
+            "wiki_id": 61024, 
+            "wiki_title": "Charleston, South Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3204, 
+                    "end": 3211, 
+                    "score": 0.13904675841331482, 
+                    "spot": "stadium"
+                }
+            ], 
+            "wiki_id": 185604, 
+            "wiki_title": "Stadium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 549, 
+                    "end": 558, 
+                    "score": 0.10465370118618011, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 859, 
+                    "end": 868, 
+                    "score": 0.00408979831263423, 
+                    "spot": "next year"
+                }
+            ], 
+            "wiki_id": 4461881, 
+            "wiki_title": "Eurovision Song Contest 2007"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1414, 
+                    "end": 1427, 
+                    "score": 0.8695693612098694, 
+                    "spot": "carbo-loading"
+                }, 
+                {
+                    "begin": 1428, 
+                    "end": 1439, 
+                    "score": 0.375, 
+                    "spot": "pasta party"
+                }
+            ], 
+            "wiki_id": 346821, 
+            "wiki_title": "Carbohydrate loading"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2895, 
+                    "end": 2903, 
+                    "score": 0.0007516181794926524, 
+                    "spot": "together"
+                }
+            ], 
+            "wiki_id": 1237887, 
+            "wiki_title": "Concurrency (road)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1682, 
+                    "end": 1687, 
+                    "score": 0.0029455465264618397, 
+                    "spot": "costs"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 627, 
+                    "end": 631, 
+                    "score": 0.1347343474626541, 
+                    "spot": "fare"
+                }, 
+                {
+                    "begin": 1761, 
+                    "end": 1765, 
+                    "score": 0.005654918495565653, 
+                    "spot": "fare"
+                }
+            ], 
+            "wiki_id": 21881882, 
+            "wiki_title": "Fare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2873, 
+                    "end": 2886, 
+                    "score": 0.0763888880610466, 
+                    "spot": "scenic routes"
+                }
+            ], 
+            "wiki_id": 4787960, 
+            "wiki_title": "Scenic Routes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2854, 
+                    "end": 2856, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1052, 
+                    "end": 1055, 
+                    "score": 0.17639678716659546, 
+                    "spot": "bus"
+                }
+            ], 
+            "wiki_id": 4146, 
+            "wiki_title": "Bus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 636, 
+                    "end": 641, 
+                    "score": 0.11859574913978577, 
+                    "spot": "hotel"
+                }, 
+                {
+                    "begin": 1818, 
+                    "end": 1823, 
+                    "score": 0.10107716172933578, 
+                    "spot": "hotel"
+                }
+            ], 
+            "wiki_id": 14276, 
+            "wiki_title": "Hotel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3875, 
+                    "end": 3878, 
+                    "score": 0.2369994819164276, 
+                    "spot": "M28"
+                }
+            ], 
+            "wiki_id": 25832575, 
+            "wiki_title": "HMS M28"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1512, 
+                    "end": 1520, 
+                    "score": 0.08744889497756958, 
+                    "spot": "T-shirts"
+                }
+            ], 
+            "wiki_id": 151916, 
+            "wiki_title": "T-shirt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2742, 
+                    "end": 2757, 
+                    "score": 0.5, 
+                    "spot": "Malahide Castle"
+                }
+            ], 
+            "wiki_id": 1117524, 
+            "wiki_title": "Malahide Castle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3449, 
+                    "end": 3451, 
+                    "score": 0.16087830066680908, 
+                    "spot": "IF"
+                }, 
+                {
+                    "begin": 3473, 
+                    "end": 3475, 
+                    "score": 0.24077695608139038, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 1685851, 
+            "wiki_title": "If (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2685, 
+                    "end": 2689, 
+                    "score": 0.09522964805364609, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1846, 
+                    "end": 1852, 
+                    "score": 0.011934980750083923, 
+                    "spot": "double"
+                }
+            ], 
+            "wiki_id": 26874, 
+            "wiki_title": "Metric prefix"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2761, 
+                    "end": 2767, 
+                    "score": 0.15491385757923126, 
+                    "spot": "Swords"
+                }
+            ], 
+            "wiki_id": 182210, 
+            "wiki_title": "Swords, Dublin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3316, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 918901, 
+            "wiki_title": "By the Way"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 935, 
+                    "end": 939, 
+                    "score": 0.15832704305648804, 
+                    "spot": "wall"
+                }
+            ], 
+            "wiki_id": 3722, 
+            "wiki_title": "Berlin Wall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 56, 
+                    "end": 58, 
+                    "score": 0.09912774711847305, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 49220, 
+            "wiki_title": "C (musical note)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2657, 
+                    "end": 2661, 
+                    "score": 0.056425608694553375, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1673, 
+                    "end": 1680, 
+                    "score": 0.005727206356823444, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 9355587, 
+            "wiki_title": "Example (musician)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 738, 
+                    "end": 743, 
+                    "score": 0.12319378554821014, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2572, 
+                    "end": 2578, 
+                    "score": 0.13147665560245514, 
+                    "spot": "writer"
+                }
+            ], 
+            "wiki_id": 45353, 
+            "wiki_title": "Writer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 93, 
+                    "score": 0.05987284332513809, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2673, 
+                    "end": 2680, 
+                    "score": 0.23132343590259552, 
+                    "spot": "Chicago"
+                }
+            ], 
+            "wiki_id": 6886, 
+            "wiki_title": "Chicago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3066, 
+                    "end": 3083, 
+                    "score": 0.5, 
+                    "spot": "Belgrade Marathon"
+                }
+            ], 
+            "wiki_id": 1660084, 
+            "wiki_title": "Belgrade Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 214, 
+                    "end": 223, 
+                    "score": 0.4513663649559021, 
+                    "spot": "Stockholm"
+                }, 
+                {
+                    "begin": 1220, 
+                    "end": 1229, 
+                    "score": 0.5310354232788086, 
+                    "spot": "Stockholm"
+                }
+            ], 
+            "wiki_id": 26741, 
+            "wiki_title": "Stockholm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2958, 
+                    "end": 2972, 
+                    "score": 0.01744004897773266, 
+                    "spot": "current\nevents"
+                }
+            ], 
+            "wiki_id": 20781999, 
+            "wiki_title": "News"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3160, 
+                    "end": 3172, 
+                    "score": 0.2348778247833252, 
+                    "spot": "1972 Olympic"
+                }
+            ], 
+            "wiki_id": 83112, 
+            "wiki_title": "1972 Summer Olympics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2328, 
+                    "end": 2336, 
+                    "score": 0.29919371008872986, 
+                    "spot": "Tel Aviv"
+                }
+            ], 
+            "wiki_id": 31453, 
+            "wiki_title": "Tel Aviv"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 886, 
+                    "end": 890, 
+                    "score": 0.010895456187427044, 
+                    "spot": "Sept"
+                }
+            ], 
+            "wiki_id": 336650, 
+            "wiki_title": "Sept"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3693, 
+                    "end": 3706, 
+                    "score": 0.2017766535282135, 
+                    "spot": "Michigan City"
+                }
+            ], 
+            "wiki_id": 112436, 
+            "wiki_title": "Michigan City, Indiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1552, 
+                    "end": 1556, 
+                    "score": 0.07953421771526337, 
+                    "spot": "fees"
+                }
+            ], 
+            "wiki_id": 145893, 
+            "wiki_title": "Fief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1595, 
+                    "end": 1603, 
+                    "score": 0.245004802942276, 
+                    "spot": "Marathon"
+                }, 
+                {
+                    "begin": 3573, 
+                    "end": 3581, 
+                    "score": 0.1927030086517334, 
+                    "spot": "Marathon"
+                }
+            ], 
+            "wiki_id": 49131, 
+            "wiki_title": "Marathon, Greece"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3273, 
+                    "end": 3281, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28280237, 
+            "wiki_title": "Everyone (Skins series 1)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1101, 
+                    "end": 1111, 
+                    "score": 0.37139037251472473, 
+                    "spot": "Roadrunner"
+                }, 
+                {
+                    "begin": 1101, 
+                    "end": 1113, 
+                    "score": 0.3035714328289032, 
+                    "spot": "Roadrunner's"
+                }
+            ], 
+            "wiki_id": 1194393, 
+            "wiki_title": "Roadrunner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1139, 
+                    "end": 1156, 
+                    "score": 0.34797295928001404, 
+                    "spot": "New York\nMarathon"
+                }
+            ], 
+            "wiki_id": 429897, 
+            "wiki_title": "New York City Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 136, 
+                    "score": 0.06548743695020676, 
+                    "spot": "tours"
+                }, 
+                {
+                    "begin": 2001, 
+                    "end": 2006, 
+                    "score": 0.10882605612277985, 
+                    "spot": "Tours"
+                }, 
+                {
+                    "begin": 2097, 
+                    "end": 2104, 
+                    "score": 0.2614979147911072, 
+                    "spot": "concert"
+                }, 
+                {
+                    "begin": 2097, 
+                    "end": 2110, 
+                    "score": 0.5082961320877075, 
+                    "spot": "concert tours"
+                }, 
+                {
+                    "begin": 2105, 
+                    "end": 2110, 
+                    "score": 0.3526628613471985, 
+                    "spot": "tours"
+                }, 
+                {
+                    "begin": 3665, 
+                    "end": 3670, 
+                    "score": 0.1320195347070694, 
+                    "spot": "Tours"
+                }, 
+                {
+                    "begin": 3809, 
+                    "end": 3814, 
+                    "score": 0.16026949882507324, 
+                    "spot": "Tours"
+                }
+            ], 
+            "wiki_id": 236918, 
+            "wiki_title": "Concert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2212, 
+                    "score": 0.15475969016551971, 
+                    "spot": "family"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2007, 
+                    "end": 2020, 
+                    "score": 0.0451476126909256, 
+                    "spot": "International"
+                }, 
+                {
+                    "begin": 3815, 
+                    "end": 3828, 
+                    "score": 0.09334032982587814, 
+                    "spot": "International"
+                }
+            ], 
+            "wiki_id": 3741372, 
+            "wiki_title": "International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3654, 
+                    "end": 3664, 
+                    "score": 0.2101912796497345, 
+                    "spot": "Roadrunner"
+                }
+            ], 
+            "wiki_id": 400095, 
+            "wiki_title": "Roadrunner Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2323, 
+                    "end": 2326, 
+                    "score": 0.14298667013645172, 
+                    "spot": "run"
+                }, 
+                {
+                    "begin": 2718, 
+                    "end": 2722, 
+                    "score": 0.010328900068998337, 
+                    "spot": "runs"
+                }, 
+                {
+                    "begin": 2912, 
+                    "end": 2916, 
+                    "score": 0.010328900068998337, 
+                    "spot": "runs"
+                }
+            ], 
+            "wiki_id": 300747, 
+            "wiki_title": "Run (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1727, 
+                    "end": 1736, 
+                    "score": 0.5, 
+                    "spot": "The price"
+                }
+            ], 
+            "wiki_id": 3528209, 
+            "wiki_title": "The Price (Angel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3555, 
+                    "end": 3562, 
+                    "score": 0.06558888405561447, 
+                    "spot": "contact"
+                }
+            ], 
+            "wiki_id": 34327569, 
+            "wiki_title": "Social network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2280, 
+                    "end": 2289, 
+                    "score": 0.10653433948755264, 
+                    "spot": "five-mile"
+                }
+            ], 
+            "wiki_id": 35436164, 
+            "wiki_title": "Fivemile, West Virginia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1092, 
+                    "end": 1100, 
+                    "score": 0.15091615915298462, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 227, 
+                    "end": 230, 
+                    "score": 0.037794146686792374, 
+                    "spot": "May"
+                }
+            ], 
+            "wiki_id": 1565780, 
+            "wiki_title": "Isle of May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 242, 
+                    "score": 0.1359741985797882, 
+                    "spot": "Skiers"
+                }
+            ], 
+            "wiki_id": 28478, 
+            "wiki_title": "Skiing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3013, 
+                    "end": 3019, 
+                    "score": 0.0016294227680191398, 
+                    "spot": "houses"
+                }
+            ], 
+            "wiki_id": 324628, 
+            "wiki_title": "Boarding house"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 880, 
+                    "end": 884, 
+                    "score": 0.007268781773746014, 
+                    "spot": "race"
+                }
+            ], 
+            "wiki_id": 43407351, 
+            "wiki_title": "Race (2016 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 436, 
+                    "end": 447, 
+                    "score": 0.35353535413742065, 
+                    "spot": "closed city"
+                }
+            ], 
+            "wiki_id": 1627510, 
+            "wiki_title": "Closed city"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 977, 
+                    "end": 983, 
+                    "score": 0.004525554832071066, 
+                    "spot": "cities"
+                }, 
+                {
+                    "begin": 1328, 
+                    "end": 1332, 
+                    "score": 0.14639812707901, 
+                    "spot": "city"
+                }, 
+                {
+                    "begin": 3247, 
+                    "end": 3251, 
+                    "score": 0.005648055579513311, 
+                    "spot": "city"
+                }
+            ], 
+            "wiki_id": 5391, 
+            "wiki_title": "City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1580, 
+                    "end": 1586, 
+                    "score": 0.3889644742012024, 
+                    "spot": "Venice"
+                }
+            ], 
+            "wiki_id": 32616, 
+            "wiki_title": "Venice"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2307, 
+                    "end": 2311, 
+                    "score": 0.011079253628849983, 
+                    "spot": "walk"
+                }
+            ], 
+            "wiki_id": 3802, 
+            "wiki_title": "Base on balls"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 123, 
+                    "end": 130, 
+                    "score": 0.04609857127070427, 
+                    "spot": "arrange"
+                }
+            ], 
+            "wiki_id": 26503411, 
+            "wiki_title": "Arranged marriage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 265, 
+                    "end": 271, 
+                    "score": 0.2723348140716553, 
+                    "spot": "tennis"
+                }
+            ], 
+            "wiki_id": 29773, 
+            "wiki_title": "Tennis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1475, 
+                    "end": 1484, 
+                    "score": 0.0027173913549631834, 
+                    "spot": "post-race"
+                }, 
+                {
+                    "begin": 1923, 
+                    "end": 1932, 
+                    "score": 0.0027173913549631834, 
+                    "spot": "post-race"
+                }
+            ], 
+            "wiki_id": 27620742, 
+            "wiki_title": "Post-racial America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 150, 
+                    "end": 159, 
+                    "score": 0.06525057554244995, 
+                    "spot": "vacations"
+                }, 
+                {
+                    "begin": 2175, 
+                    "end": 2183, 
+                    "score": 0.08904905617237091, 
+                    "spot": "vacation"
+                }, 
+                {
+                    "begin": 2786, 
+                    "end": 2794, 
+                    "score": 0.06321090459823608, 
+                    "spot": "vacation"
+                }
+            ], 
+            "wiki_id": 509409, 
+            "wiki_title": "Vacation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 292, 
+                    "score": 0.06318969279527664, 
+                    "spot": "resorts"
+                }
+            ], 
+            "wiki_id": 471772, 
+            "wiki_title": "Resort"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2551, 
+                    "end": 2561, 
+                    "score": 0.5, 
+                    "spot": "Hal Higdon"
+                }, 
+                {
+                    "begin": 2840, 
+                    "end": 2846, 
+                    "score": 0.0659574493765831, 
+                    "spot": "Higdon"
+                }
+            ], 
+            "wiki_id": 7072872, 
+            "wiki_title": "Hal Higdon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1642, 
+                    "end": 1649, 
+                    "score": 0.09976549446582794, 
+                    "spot": "package"
+                }
+            ], 
+            "wiki_id": 51138, 
+            "wiki_title": "Mail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 466, 
+                    "end": 477, 
+                    "score": 0.1368354856967926, 
+                    "spot": "celebration"
+                }, 
+                {
+                    "begin": 1933, 
+                    "end": 1940, 
+                    "score": 0.10535474121570587, 
+                    "spot": "parties"
+                }
+            ], 
+            "wiki_id": 23995, 
+            "wiki_title": "Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3173, 
+                    "end": 3178, 
+                    "score": 0.03810463845729828, 
+                    "spot": "route"
+                }
+            ], 
+            "wiki_id": 48519, 
+            "wiki_title": "Highway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2041, 
+                    "end": 2048, 
+                    "score": 0.004063860513269901, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 93096, 
+            "wiki_title": "Company (musical)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 782, 
+                    "end": 789, 
+                    "score": 0.06534729152917862, 
+                    "spot": "popular"
+                }
+            ], 
+            "wiki_id": 24297671, 
+            "wiki_title": "Popular music"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1829, 
+                    "end": 1835, 
+                    "score": 0.1325804442167282, 
+                    "spot": "person"
+                }
+            ], 
+            "wiki_id": 219287, 
+            "wiki_title": "Legal personality"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1231, 
+                    "end": 1238, 
+                    "score": 0.5921098589897156, 
+                    "spot": "Iceland"
+                }
+            ], 
+            "wiki_id": 14531, 
+            "wiki_title": "Iceland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1629, 
+                    "end": 1634, 
+                    "score": 0.09742657840251923, 
+                    "spot": "price"
+                }
+            ], 
+            "wiki_id": 211295, 
+            "wiki_title": "Price"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2363, 
+                    "end": 2370, 
+                    "score": 0.4741791784763336, 
+                    "spot": "fun run"
+                }, 
+                {
+                    "begin": 2729, 
+                    "end": 2736, 
+                    "score": 0.17293232679367065, 
+                    "spot": "fun run"
+                }
+            ], 
+            "wiki_id": 8836052, 
+            "wiki_title": "Fun run"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 960, 
+                    "end": 968, 
+                    "score": 0.0036122817546129227, 
+                    "spot": "take you"
+                }
+            ], 
+            "wiki_id": 14086480, 
+            "wiki_title": "Take on You"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 173, 
+                    "end": 180, 
+                    "score": 0.49762898683547974, 
+                    "spot": "Bangkok"
+                }
+            ], 
+            "wiki_id": 56615, 
+            "wiki_title": "Bangkok"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 306, 
+                    "end": 312, 
+                    "score": 0.21131631731987, 
+                    "spot": "runner"
+                }, 
+                {
+                    "begin": 403, 
+                    "end": 409, 
+                    "score": 0.03609335795044899, 
+                    "spot": "runner"
+                }, 
+                {
+                    "begin": 643, 
+                    "end": 650, 
+                    "score": 0.04490460082888603, 
+                    "spot": "runners"
+                }, 
+                {
+                    "begin": 1168, 
+                    "end": 1171, 
+                    "score": 0.22149938344955444, 
+                    "spot": "run"
+                }, 
+                {
+                    "begin": 2141, 
+                    "end": 2144, 
+                    "score": 0.11245767027139664, 
+                    "spot": "run"
+                }, 
+                {
+                    "begin": 2167, 
+                    "end": 2174, 
+                    "score": 0.07965816557407379, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 2483, 
+                    "end": 2490, 
+                    "score": 0.026205668225884438, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 2522, 
+                    "end": 2529, 
+                    "score": 0.11804995685815811, 
+                    "spot": "Running"
+                }, 
+                {
+                    "begin": 2778, 
+                    "end": 2785, 
+                    "score": 0.07965816557407379, 
+                    "spot": "running"
+                }, 
+                {
+                    "begin": 3216, 
+                    "end": 3223, 
+                    "score": 0.08721154928207397, 
+                    "spot": "Running"
+                }
+            ], 
+            "wiki_id": 26032, 
+            "wiki_title": "Running"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 361, 
+                    "end": 370, 
+                    "score": 0.12242424488067627, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24899, 
+            "wiki_title": "President of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3385, 
+                    "end": 3391, 
+                    "score": 0.19424346089363098, 
+                    "spot": "German"
+                }
+            ], 
+            "wiki_id": 11867, 
+            "wiki_title": "Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 522, 
+                    "end": 530, 
+                    "score": 0.11996482312679291, 
+                    "spot": "Gilligan"
+                }
+            ], 
+            "wiki_id": 6461260, 
+            "wiki_title": "Gilligan (Gilligan's Island)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2025, 
+                    "end": 2037, 
+                    "score": 0.21739129722118378, 
+                    "spot": "Keith Prowse"
+                }, 
+                {
+                    "begin": 3745, 
+                    "end": 3757, 
+                    "score": 0.21739129722118378, 
+                    "spot": "Keith Prowse"
+                }
+            ], 
+            "wiki_id": 19041258, 
+            "wiki_title": "Keith Prowse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3441, 
+                    "end": 3446, 
+                    "score": 0.026294607669115067, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 20405, 
+            "wiki_title": "Miles Davis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2978, 
+                    "end": 2995, 
+                    "score": 0.5, 
+                    "spot": "Tel Aviv Marathon"
+                }
+            ], 
+            "wiki_id": 31427811, 
+            "wiki_title": "Tel Aviv Marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1825, 
+                    "end": 1835, 
+                    "score": 0.06509161740541458, 
+                    "spot": "per person"
+                }
+            ], 
+            "wiki_id": 357788, 
+            "wiki_title": "Per capita"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 850, 
+                    "end": 858, 
+                    "score": 0.0007165693095885217, 
+                    "spot": "April 12"
+                }
+            ], 
+            "wiki_id": 1648744, 
+            "wiki_title": "April 12 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 37, 
+                    "end": 43, 
+                    "score": 0.09887553751468658, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 542, 
+                    "end": 548, 
+                    "score": 0.08178330212831497, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1808, 
+                    "end": 1817, 
+                    "score": 0.0044247787445783615, 
+                    "spot": "Bay Beach"
+                }
+            ], 
+            "wiki_id": 925412, 
+            "wiki_title": "Bay Beach Amusement Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 871, 
+                    "end": 877, 
+                    "score": 0.18742625415325165, 
+                    "spot": "Berlin"
+                }
+            ], 
+            "wiki_id": 308234, 
+            "wiki_title": "Humboldt University of Berlin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 998, 
+                    "end": 1004, 
+                    "score": 0.0025840154848992825, 
+                    "spot": "chance"
+                }
+            ], 
+            "wiki_id": 9076790, 
+            "wiki_title": "Chance (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 294, 
+                    "end": 297, 
+                    "score": 0.0026988310273736715, 
+                    "spot": "why"
+                }
+            ], 
+            "wiki_id": 1255516, 
+            "wiki_title": "Why? (American band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2410, 
+                    "end": 2423, 
+                    "score": 0.17049258947372437, 
+                    "spot": "mini-marathon"
+                }
+            ], 
+            "wiki_id": 15896698, 
+            "wiki_title": "Mini marathon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2583, 
+                    "end": 2597, 
+                    "score": 0.5381138324737549, 
+                    "spot": "Runner's World"
+                }
+            ], 
+            "wiki_id": 2213011, 
+            "wiki_title": "Runner's World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2290, 
+                    "end": 2293, 
+                    "score": 0.0024755001068115234, 
+                    "spot": "run"
+                }
+            ], 
+            "wiki_id": 338960, 
+            "wiki_title": "Glossary of musical terminology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3452, 
+                    "end": 3455, 
+                    "score": 0.1615845113992691, 
+                    "spot": "YOU"
+                }, 
+                {
+                    "begin": 3476, 
+                    "end": 3479, 
+                    "score": 0.2414831668138504, 
+                    "spot": "you"
+                }
+            ], 
+            "wiki_id": 4427143, 
+            "wiki_title": "You (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3027, 
+                    "end": 3031, 
+                    "score": 0.3961789608001709, 
+                    "spot": "Scud"
+                }
+            ], 
+            "wiki_id": 23014654, 
+            "wiki_title": "Scud"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2460, 
+                    "end": 2465, 
+                    "score": 0.12466239184141159, 
+                    "spot": "trips"
+                }
+            ], 
+            "wiki_id": 18935121, 
+            "wiki_title": "TRIPS Agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 44, 
+                    "end": 47, 
+                    "score": 0.15914975106716156, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1757, 
+                    "end": 1760, 
+                    "score": 0.11447446793317795, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 984233, 
+            "wiki_title": "Air (visual novel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 675, 
+                    "end": 685, 
+                    "score": 0.0007065231329761446, 
+                    "spot": "restricted"
+                }
+            ], 
+            "wiki_id": 450947, 
+            "wiki_title": "Gun politics in Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1498, 
+                    "end": 1511, 
+                    "score": 0.004005903378129005, 
+                    "spot": "commemorative"
+                }
+            ], 
+            "wiki_id": 318418, 
+            "wiki_title": "Commemorative stamp"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 18, 
+                    "end": 24, 
+                    "score": 0.04045512154698372, 
+                    "spot": "subset"
+                }
+            ], 
+            "wiki_id": 27631, 
+            "wiki_title": "Subset"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3172, 
+                    "score": 0.13709846138954163, 
+                    "spot": "Olympic"
+                }
+            ], 
+            "wiki_id": 22576, 
+            "wiki_title": "Olympic Games"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2077, 
+                    "end": 2092, 
+                    "score": 0.05000000074505806, 
+                    "spot": "theater, sports"
+                }
+            ], 
+            "wiki_id": 363303, 
+            "wiki_title": "Theatresports"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1746, 
+                    "end": 1756, 
+                    "score": 0.0013192612677812576, 
+                    "spot": "round-trip"
+                }
+            ], 
+            "wiki_id": 48697118, 
+            "wiki_title": "Roundtrip (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3740, 
+                    "end": 3743, 
+                    "score": 0.05966130271553993, 
+                    "spot": "box"
+                }
+            ], 
+            "wiki_id": 1954715, 
+            "wiki_title": "The Box (U.S. TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2804, 
+                    "end": 2813, 
+                    "score": 0.11898665130138397, 
+                    "spot": "something"
+                }
+            ], 
+            "wiki_id": 37987095, 
+            "wiki_title": "Something (Andrius Pojavis song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3884, 
+                    "end": 3898, 
+                    "score": 0.313934862613678, 
+                    "spot": "United Kingdom"
+                }
+            ], 
+            "wiki_id": 31717, 
+            "wiki_title": "United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1525, 
+                    "end": 1531, 
+                    "score": 0.07171131670475006, 
+                    "spot": "awards"
+                }
+            ], 
+            "wiki_id": 1851722, 
+            "wiki_title": "List of Game of the Year awards"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1945, 
+                    "end": 1954, 
+                    "score": 0.07626210153102875, 
+                    "spot": "discounts"
+                }
+            ], 
+            "wiki_id": 256411, 
+            "wiki_title": "Discounts and allowances"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2662, 
+                    "end": 2667, 
+                    "score": 0.08632487058639526, 
+                    "spot": "leave"
+                }
+            ], 
+            "wiki_id": 507071, 
+            "wiki_title": "Leave of absence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3593, 
+                    "end": 3600, 
+                    "score": 0.002039151731878519, 
+                    "spot": "Main St"
+                }
+            ], 
+            "wiki_id": 23523337, 
+            "wiki_title": "Main Street"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1280, 
+                    "end": 1285, 
+                    "score": 0.041368626058101654, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 47353, 
+            "wiki_title": "Object (philosophy)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 886, 
+                    "end": 894, 
+                    "score": 0.007246376946568489, 
+                    "spot": "Sept. 27"
+                }
+            ], 
+            "wiki_id": 27934, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 141, 
+                    "end": 149, 
+                    "score": 0.18548104166984558, 
+                    "spot": "marathon"
+                }, 
+                {
+                    "begin": 320, 
+                    "end": 328, 
+                    "score": 0.2690551280975342, 
+                    "spot": "marathon"
+                }, 
+                {
+                    "begin": 374, 
+                    "end": 382, 
+                    "score": 0.23844093084335327, 
+                    "spot": "Marathon"
+                }, 
+                {
+                    "begin": 840, 
+                    "end": 848, 
+                    "score": 0.2762936055660248, 
+                    "spot": "marathon"
+                }, 
+                {
+                    "begin": 1148, 
+                    "end": 1156, 
+                    "score": 0.43096765875816345, 
+                    "spot": "Marathon"
+                }, 
+                {
+                    "begin": 1178, 
+                    "end": 1187, 
+                    "score": 0.221200630068779, 
+                    "spot": "marathons"
+                }, 
+                {
+                    "begin": 1394, 
+                    "end": 1403, 
+                    "score": 0.20710669457912445, 
+                    "spot": "marathons"
+                }, 
+                {
+                    "begin": 2145, 
+                    "end": 2155, 
+                    "score": 0.15543672442436218, 
+                    "spot": "26.2 miles"
+                }
+            ], 
+            "wiki_id": 49132, 
+            "wiki_title": "Marathon"
+        }
+    ]
+}

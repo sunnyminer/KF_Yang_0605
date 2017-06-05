@@ -1,0 +1,2536 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1436, 
+                    "end": 1442, 
+                    "score": 0.08211125433444977, 
+                    "spot": "Javier"
+                }
+            ], 
+            "wiki_id": 1022683, 
+            "wiki_title": "Javier Otxoa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 989, 
+                    "end": 1000, 
+                    "score": 0.032088372856378555, 
+                    "spot": "before dawn"
+                }
+            ], 
+            "wiki_id": 42383008, 
+            "wiki_title": "Before the Dawn (Kate Bush concert series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3202, 
+                    "end": 3209, 
+                    "score": 0.08001898974180222, 
+                    "spot": "experts"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1035, 
+                    "score": 0.3046875, 
+                    "spot": "downtown Lima"
+                }
+            ], 
+            "wiki_id": 1599814, 
+            "wiki_title": "Lima District"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3403, 
+                    "end": 3408, 
+                    "score": 0.027451056987047195, 
+                    "spot": "moves"
+                }
+            ], 
+            "wiki_id": 36527, 
+            "wiki_title": "Cohabitation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1193, 
+                    "end": 1205, 
+                    "score": 0.014070839621126652, 
+                    "spot": "fingerprints"
+                }
+            ], 
+            "wiki_id": 17286600, 
+            "wiki_title": "One of the Boys (Katy Perry album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2202, 
+                    "end": 2209, 
+                    "score": 0.014285714365541935, 
+                    "spot": "Remigio"
+                }
+            ], 
+            "wiki_id": 43597197, 
+            "wiki_title": "Porfirio Remigio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1088, 
+                    "end": 1091, 
+                    "score": 0.08033835887908936, 
+                    "spot": "men"
+                }
+            ], 
+            "wiki_id": 2298105, 
+            "wiki_title": "Filipinos"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1140, 
+                    "end": 1159, 
+                    "score": 0.345430850982666, 
+                    "spot": "fake identification"
+                }
+            ], 
+            "wiki_id": 1827014, 
+            "wiki_title": "Identity document forgery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 929, 
+                    "end": 946, 
+                    "score": 0.043675750494003296, 
+                    "spot": "Interior Minister"
+                }
+            ], 
+            "wiki_id": 871703, 
+            "wiki_title": "Minister of the Interior (France)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 36, 
+                    "score": 0.2237376719713211, 
+                    "spot": "military"
+                }, 
+                {
+                    "begin": 469, 
+                    "end": 477, 
+                    "score": 0.2077043652534485, 
+                    "spot": "military"
+                }, 
+                {
+                    "begin": 2738, 
+                    "end": 2746, 
+                    "score": 0.24016642570495605, 
+                    "spot": "military"
+                }
+            ], 
+            "wiki_id": 92357, 
+            "wiki_title": "Military"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1875, 
+                    "end": 1887, 
+                    "score": 0.02631578966975212, 
+                    "spot": "prison riots"
+                }
+            ], 
+            "wiki_id": 2999465, 
+            "wiki_title": "Prison riot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3697, 
+                    "end": 3705, 
+                    "score": 0.20517325401306152, 
+                    "spot": "sabotage"
+                }
+            ], 
+            "wiki_id": 29462, 
+            "wiki_title": "Sabotage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 491, 
+                    "end": 502, 
+                    "score": 0.04531491920351982, 
+                    "spot": "independent"
+                }
+            ], 
+            "wiki_id": 62450, 
+            "wiki_title": "Independence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2901, 
+                    "end": 2912, 
+                    "score": 0.06999015063047409, 
+                    "spot": "replacement"
+                }
+            ], 
+            "wiki_id": 5791445, 
+            "wiki_title": "Valve replacement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2253, 
+                    "end": 2256, 
+                    "score": 0.06883087009191513, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 185, 
+                    "end": 194, 
+                    "score": 0.049617111682891846, 
+                    "spot": "Officials"
+                }
+            ], 
+            "wiki_id": 400892, 
+            "wiki_title": "Referee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 596, 
+                    "score": 0.17994898557662964, 
+                    "spot": "practice"
+                }
+            ], 
+            "wiki_id": 109275, 
+            "wiki_title": "Pierre Bourdieu"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1792, 
+                    "end": 1800, 
+                    "score": 0.07427535951137543, 
+                    "spot": "Palacios"
+                }
+            ], 
+            "wiki_id": 18932360, 
+            "wiki_title": "C\u00e9sar Palacios"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 688, 
+                    "score": 0.2421843707561493, 
+                    "spot": "philosophy"
+                }
+            ], 
+            "wiki_id": 13692155, 
+            "wiki_title": "Philosophy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 253, 
+                    "end": 260, 
+                    "score": 0.22455671429634094, 
+                    "spot": "radical"
+                }
+            ], 
+            "wiki_id": 15611519, 
+            "wiki_title": "Political radicalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1145, 
+                    "end": 1166, 
+                    "score": 0.013888888992369175, 
+                    "spot": "identification papers"
+                }
+            ], 
+            "wiki_id": 364578, 
+            "wiki_title": "Identity document"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2885, 
+                    "end": 2892, 
+                    "score": 0.11407222598791122, 
+                    "spot": "tension"
+                }
+            ], 
+            "wiki_id": 146072, 
+            "wiki_title": "Stress (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 261, 
+                    "end": 267, 
+                    "score": 0.11429556459188461, 
+                    "spot": "leader"
+                }, 
+                {
+                    "begin": 607, 
+                    "end": 613, 
+                    "score": 0.1779433786869049, 
+                    "spot": "leader"
+                }, 
+                {
+                    "begin": 2964, 
+                    "end": 2971, 
+                    "score": 0.0006571449339389801, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2033, 
+                    "end": 2039, 
+                    "score": 0.30149000883102417, 
+                    "spot": "Guzman"
+                }, 
+                {
+                    "begin": 2926, 
+                    "end": 2932, 
+                    "score": 0.21855784952640533, 
+                    "spot": "Guzman"
+                }
+            ], 
+            "wiki_id": 41031158, 
+            "wiki_title": "Josefa Ben\u00edtez Guzman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1418, 
+                    "end": 1426, 
+                    "score": 0.2506106197834015, 
+                    "spot": "revolver"
+                }
+            ], 
+            "wiki_id": 25794, 
+            "wiki_title": "Revolver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1115, 
+                    "end": 1123, 
+                    "score": 0.10479798167943954, 
+                    "spot": "Mantilla"
+                }, 
+                {
+                    "begin": 2045, 
+                    "end": 2053, 
+                    "score": 0.10479798167943954, 
+                    "spot": "Mantilla"
+                }
+            ], 
+            "wiki_id": 3378530, 
+            "wiki_title": "Mantilla"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3358, 
+                    "end": 3364, 
+                    "score": 0.005123520735651255, 
+                    "spot": "rumors"
+                }
+            ], 
+            "wiki_id": 209065, 
+            "wiki_title": "Rumors (play)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1783, 
+                    "end": 1790, 
+                    "score": 0.15960407257080078, 
+                    "spot": "capital"
+                }
+            ], 
+            "wiki_id": 5902, 
+            "wiki_title": "Capital punishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 602, 
+                    "end": 606, 
+                    "score": 0.2635464668273926, 
+                    "spot": "true"
+                }
+            ], 
+            "wiki_id": 29920, 
+            "wiki_title": "Truth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1328, 
+                    "end": 1334, 
+                    "score": 0.14966589212417603, 
+                    "spot": "living"
+                }
+            ], 
+            "wiki_id": 856495, 
+            "wiki_title": "Sky Living"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 621, 
+                    "end": 633, 
+                    "score": 0.1656274050474167, 
+                    "spot": "organization"
+                }, 
+                {
+                    "begin": 2526, 
+                    "end": 2538, 
+                    "score": 0.10090794414281845, 
+                    "spot": "organization"
+                }
+            ], 
+            "wiki_id": 105070, 
+            "wiki_title": "Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 11, 
+                    "end": 19, 
+                    "score": 0.13010813295841217, 
+                    "spot": "captured"
+                }
+            ], 
+            "wiki_id": 25008, 
+            "wiki_title": "Prisoner of war"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 922, 
+                    "end": 928, 
+                    "score": 0.18263021111488342, 
+                    "spot": "Deputy"
+                }
+            ], 
+            "wiki_id": 360865, 
+            "wiki_title": "Deputy prime minister"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2100, 
+                    "end": 2106, 
+                    "score": 0.052693482488393784, 
+                    "spot": "Guzman"
+                }, 
+                {
+                    "begin": 2245, 
+                    "end": 2251, 
+                    "score": 0.052693482488393784, 
+                    "spot": "Guzman"
+                }, 
+                {
+                    "begin": 3299, 
+                    "end": 3305, 
+                    "score": 0.052693482488393784, 
+                    "spot": "Guzman"
+                }
+            ], 
+            "wiki_id": 669594, 
+            "wiki_title": "Luis Guzm\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3462, 
+                    "end": 3473, 
+                    "score": 0.06122449040412903, 
+                    "spot": "day laborer"
+                }
+            ], 
+            "wiki_id": 2878172, 
+            "wiki_title": "Day labor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1913, 
+                    "end": 1919, 
+                    "score": 0.13736599683761597, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 368513, 
+            "wiki_title": "Killed in action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3484, 
+                    "end": 3491, 
+                    "score": 0.0012760527897626162, 
+                    "spot": "crowded"
+                }
+            ], 
+            "wiki_id": 46652881, 
+            "wiki_title": "Crowded (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3451, 
+                    "end": 3456, 
+                    "score": 0.050292905420064926, 
+                    "spot": "works"
+                }
+            ], 
+            "wiki_id": 14885323, 
+            "wiki_title": "Good works"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 103, 
+                    "end": 116, 
+                    "score": 0.39531296491622925, 
+                    "spot": "guerrilla war"
+                }, 
+                {
+                    "begin": 355, 
+                    "end": 368, 
+                    "score": 0.314189612865448, 
+                    "spot": "guerrilla war"
+                }, 
+                {
+                    "begin": 1768, 
+                    "end": 1775, 
+                    "score": 0.15592321753501892, 
+                    "spot": "attacks"
+                }, 
+                {
+                    "begin": 2596, 
+                    "end": 2606, 
+                    "score": 0.24443277716636658, 
+                    "spot": "guerrillas"
+                }, 
+                {
+                    "begin": 2627, 
+                    "end": 2634, 
+                    "score": 0.2681509554386139, 
+                    "spot": "attacks"
+                }, 
+                {
+                    "begin": 3030, 
+                    "end": 3043, 
+                    "score": 0.25566375255584717, 
+                    "spot": "guerrilla war"
+                }
+            ], 
+            "wiki_id": 12720, 
+            "wiki_title": "Guerrilla warfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2145, 
+                    "end": 2148, 
+                    "score": 0.0007386371144093573, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 7638055, 
+            "wiki_title": "Pete Way"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1271, 
+                    "end": 1280, 
+                    "score": 0.11121950298547745, 
+                    "spot": "neighbors"
+                }
+            ], 
+            "wiki_id": 177193, 
+            "wiki_title": "Neighbourhood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2791, 
+                    "end": 2798, 
+                    "score": 0.143104687333107, 
+                    "spot": "capture"
+                }
+            ], 
+            "wiki_id": 102674, 
+            "wiki_title": "Fall of Constantinople"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 870, 
+                    "end": 875, 
+                    "score": 0.2741895616054535, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 28151, 
+            "wiki_title": "State (polity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3659, 
+                    "end": 3665, 
+                    "score": 0.18396860361099243, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 39902584, 
+            "wiki_title": "The Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1668, 
+                    "end": 1675, 
+                    "score": 0.17222073674201965, 
+                    "spot": "colonel"
+                }
+            ], 
+            "wiki_id": 199023, 
+            "wiki_title": "Colonel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1860, 
+                    "end": 1871, 
+                    "score": 0.0033552120439708233, 
+                    "spot": "anniversary"
+                }, 
+                {
+                    "begin": 2373, 
+                    "end": 2381, 
+                    "score": 0.0446089468896389, 
+                    "spot": "10 years"
+                }
+            ], 
+            "wiki_id": 477069, 
+            "wiki_title": "Anniversary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 74, 
+                    "end": 79, 
+                    "score": 0.3562963306903839, 
+                    "spot": "rebel"
+                }, 
+                {
+                    "begin": 74, 
+                    "end": 85, 
+                    "score": 0.39262068271636963, 
+                    "spot": "rebel group"
+                }, 
+                {
+                    "begin": 1934, 
+                    "end": 1939, 
+                    "score": 0.2129461020231247, 
+                    "spot": "rebel"
+                }, 
+                {
+                    "begin": 2178, 
+                    "end": 2183, 
+                    "score": 0.03588028624653816, 
+                    "spot": "rebel"
+                }
+            ], 
+            "wiki_id": 513246, 
+            "wiki_title": "Rebellion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 980, 
+                    "end": 988, 
+                    "score": 0.0009680258226580918, 
+                    "spot": "arrested"
+                }, 
+                {
+                    "begin": 1102, 
+                    "end": 1110, 
+                    "score": 0.030629174783825874, 
+                    "spot": "arrested"
+                }
+            ], 
+            "wiki_id": 170638, 
+            "wiki_title": "Arrest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1525, 
+                    "end": 1530, 
+                    "score": 0.05303841829299927, 
+                    "spot": "press"
+                }
+            ], 
+            "wiki_id": 30985, 
+            "wiki_title": "Tabloid (newspaper format)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2813, 
+                    "end": 2825, 
+                    "score": 0.052971575409173965, 
+                    "spot": "power vacuum"
+                }
+            ], 
+            "wiki_id": 278439, 
+            "wiki_title": "Power vacuum"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3670, 
+                    "end": 3676, 
+                    "score": 0.10798444598913193, 
+                    "spot": "Damage"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 811, 
+                    "end": 815, 
+                    "score": 0.5200401544570923, 
+                    "spot": "Peru"
+                }, 
+                {
+                    "begin": 3415, 
+                    "end": 3419, 
+                    "score": 0.46826037764549255, 
+                    "spot": "Peru"
+                }
+            ], 
+            "wiki_id": 170691, 
+            "wiki_title": "Peru"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1724, 
+                    "end": 1742, 
+                    "score": 0.3041999936103821, 
+                    "spot": "northern highlands"
+                }, 
+                {
+                    "begin": 1733, 
+                    "end": 1742, 
+                    "score": 0.21536770462989807, 
+                    "spot": "highlands"
+                }
+            ], 
+            "wiki_id": 28894, 
+            "wiki_title": "Scottish Highlands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1403, 
+                    "end": 1411, 
+                    "score": 0.2788132429122925, 
+                    "spot": "dynamite"
+                }
+            ], 
+            "wiki_id": 8078, 
+            "wiki_title": "Dynamite"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1757, 
+                    "end": 1767, 
+                    "score": 0.1177649050951004, 
+                    "spot": "terrorists"
+                }
+            ], 
+            "wiki_id": 30636, 
+            "wiki_title": "Terrorism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3684, 
+                    "end": 3691, 
+                    "score": 0.13764439523220062, 
+                    "spot": "economy"
+                }
+            ], 
+            "wiki_id": 6639133, 
+            "wiki_title": "Economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 275, 
+                    "end": 283, 
+                    "score": 0.19390195608139038, 
+                    "spot": "movement"
+                }
+            ], 
+            "wiki_id": 20580, 
+            "wiki_title": "Motion (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3328, 
+                    "end": 3334, 
+                    "score": 0.06865865737199783, 
+                    "spot": "figure"
+                }
+            ], 
+            "wiki_id": 1385858, 
+            "wiki_title": "Figurative art"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 818, 
+                    "end": 836, 
+                    "score": 0.2534046769142151, 
+                    "spot": "elected\ngovernment"
+                }, 
+                {
+                    "begin": 826, 
+                    "end": 836, 
+                    "score": 0.23328013718128204, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2670, 
+                    "end": 2679, 
+                    "score": 0.14328064024448395, 
+                    "spot": "highlands"
+                }
+            ], 
+            "wiki_id": 793565, 
+            "wiki_title": "Highland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2615, 
+                    "end": 2623, 
+                    "score": 0.08364888280630112, 
+                    "spot": "advocate"
+                }
+            ], 
+            "wiki_id": 68595, 
+            "wiki_title": "Advocate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1746, 
+                    "end": 1756, 
+                    "score": 0.030376644805073738, 
+                    "spot": "coordinate"
+                }
+            ], 
+            "wiki_id": 48361, 
+            "wiki_title": "Geographic coordinate system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 159, 
+                    "end": 168, 
+                    "score": 0.09523364156484604, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 501260, 
+            "wiki_title": "Referee (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 554, 
+                    "end": 561, 
+                    "score": 0.0013895246665924788, 
+                    "spot": "experts"
+                }
+            ], 
+            "wiki_id": 10115, 
+            "wiki_title": "Expert witness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 51, 
+                    "end": 63, 
+                    "score": 0.857485830783844, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 541, 
+                    "end": 553, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 702, 
+                    "end": 714, 
+                    "score": 0.7220127582550049, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 774, 
+                    "end": 786, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 2269, 
+                    "end": 2281, 
+                    "score": 0.6441290378570557, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 2342, 
+                    "end": 2354, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 2862, 
+                    "end": 2874, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }, 
+                {
+                    "begin": 2951, 
+                    "end": 2963, 
+                    "score": 0.5, 
+                    "spot": "Shining Path"
+                }
+            ], 
+            "wiki_id": 28521, 
+            "wiki_title": "Shining Path"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3319, 
+                    "end": 3327, 
+                    "score": 0.07967010140419006, 
+                    "spot": "mythical"
+                }
+            ], 
+            "wiki_id": 19685, 
+            "wiki_title": "Mythology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 841, 
+                    "end": 848, 
+                    "score": 0.0010557634523138404, 
+                    "spot": "install"
+                }
+            ], 
+            "wiki_id": 634625, 
+            "wiki_title": "Installation (computer programs)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 215, 
+                    "end": 227, 
+                    "score": 0.5, 
+                    "spot": "Osman Morote"
+                }, 
+                {
+                    "begin": 411, 
+                    "end": 423, 
+                    "score": 0.5, 
+                    "spot": "Osman Morote"
+                }
+            ], 
+            "wiki_id": 1215409, 
+            "wiki_title": "Osm\u00e1n Morote Barrionuevo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 300, 
+                    "score": 0.15499374270439148, 
+                    "spot": "hardest"
+                }
+            ], 
+            "wiki_id": 3588836, 
+            "wiki_title": "Hardness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3244, 
+                    "end": 3253, 
+                    "score": 0.0043509965762495995, 
+                    "spot": "brilliant"
+                }
+            ], 
+            "wiki_id": 1164606, 
+            "wiki_title": "Brilliant (diamond cut)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 905, 
+                    "end": 917, 
+                    "score": 0.25766775012016296, 
+                    "spot": "Mao Tse-tung"
+                }
+            ], 
+            "wiki_id": 19527, 
+            "wiki_title": "Mao Zedong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1431, 
+                    "end": 1434, 
+                    "score": 0.16087976098060608, 
+                    "spot": "Col"
+                }
+            ], 
+            "wiki_id": 374673, 
+            "wiki_title": "Mountain pass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2194, 
+                    "end": 2201, 
+                    "score": 0.11644977331161499, 
+                    "spot": "Comrade"
+                }
+            ], 
+            "wiki_id": 647502, 
+            "wiki_title": "Comrade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1056, 
+                    "score": 0.008583690971136093, 
+                    "spot": "two women"
+                }
+            ], 
+            "wiki_id": 193882, 
+            "wiki_title": "Two Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2107, 
+                    "end": 2115, 
+                    "score": 0.008177570067346096, 
+                    "spot": "betrayed"
+                }
+            ], 
+            "wiki_id": 5457037, 
+            "wiki_title": "Betrayed (1988 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 322, 
+                    "end": 328, 
+                    "score": 0.15071387588977814, 
+                    "spot": "rebels"
+                }
+            ], 
+            "wiki_id": 31594699, 
+            "wiki_title": "Nationalist faction (Spanish Civil War)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 665, 
+                    "end": 674, 
+                    "score": 0.14809556305408478, 
+                    "spot": "professor"
+                }, 
+                {
+                    "begin": 3268, 
+                    "end": 3278, 
+                    "score": 0.0032427210826426744, 
+                    "spot": "professors"
+                }
+            ], 
+            "wiki_id": 20646803, 
+            "wiki_title": "Professor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1459, 
+                    "end": 1467, 
+                    "score": 0.1293298453092575, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1649, 
+                    "end": 1659, 
+                    "score": 0.10934677720069885, 
+                    "spot": "resistance"
+                }
+            ], 
+            "wiki_id": 83938, 
+            "wiki_title": "French Resistance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 376, 
+                    "end": 382, 
+                    "score": 0.6181849241256714, 
+                    "spot": "Andean"
+                }, 
+                {
+                    "begin": 376, 
+                    "end": 392, 
+                    "score": 0.28960394859313965, 
+                    "spot": "Andean highlands"
+                }, 
+                {
+                    "begin": 2451, 
+                    "end": 2457, 
+                    "score": 0.35651811957359314, 
+                    "spot": "Andean"
+                }, 
+                {
+                    "begin": 2451, 
+                    "end": 2467, 
+                    "score": 0.33388108015060425, 
+                    "spot": "Andean highlands"
+                }
+            ], 
+            "wiki_id": 1354, 
+            "wiki_title": "Andes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 121, 
+                    "end": 126, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 169376, 
+            "wiki_title": "Kidnapping"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2309, 
+                    "end": 2333, 
+                    "score": 0.5, 
+                    "spot": "Peruvian Communist Party"
+                }
+            ], 
+            "wiki_id": 1846634, 
+            "wiki_title": "Peruvian Communist Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3725, 
+                    "end": 3732, 
+                    "score": 0.04726561903953552, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1391, 
+                    "end": 1401, 
+                    "score": 0.24710363149642944, 
+                    "spot": "propaganda"
+                }
+            ], 
+            "wiki_id": 23203, 
+            "wiki_title": "Propaganda"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2799, 
+                    "end": 2803, 
+                    "score": 0.09197571128606796, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 275574, 
+            "wiki_title": "Will Durant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 174, 
+                    "end": 180, 
+                    "score": 0.004767385311424732, 
+                    "spot": "Monday"
+                }, 
+                {
+                    "begin": 1531, 
+                    "end": 1537, 
+                    "score": 0.0021803646814078093, 
+                    "spot": "Monday"
+                }
+            ], 
+            "wiki_id": 195068, 
+            "wiki_title": "Monday Night Football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 759, 
+                    "end": 765, 
+                    "score": 0.11947375535964966, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 9523940, 
+            "wiki_title": "Supreme leader"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1001, 
+                    "end": 1007, 
+                    "score": 0.003950109705328941, 
+                    "spot": "Sunday"
+                }
+            ], 
+            "wiki_id": 11915956, 
+            "wiki_title": "Sunday (The Day Before My Birthday)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2184, 
+                    "end": 2188, 
+                    "score": 0.06311315298080444, 
+                    "spot": "band"
+                }
+            ], 
+            "wiki_id": 20180, 
+            "wiki_title": "Musical ensemble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3601, 
+                    "end": 3604, 
+                    "score": 0.005989098455756903, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3001, 
+                    "end": 3006, 
+                    "score": 0.05692252516746521, 
+                    "spot": "1970s"
+                }
+            ], 
+            "wiki_id": 34555, 
+            "wiki_title": "1970s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1998, 
+                    "end": 2013, 
+                    "score": 0.019607843831181526, 
+                    "spot": "growing rivalry"
+                }
+            ], 
+            "wiki_id": 40519311, 
+            "wiki_title": "49ers\u2013Seahawks rivalry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3160, 
+                    "end": 3163, 
+                    "score": 0.0878322646021843, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 33565271, 
+            "wiki_title": "2003 in Afghanistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 563, 
+                    "end": 569, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 969, 
+                    "end": 975, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 1129, 
+                    "end": 1135, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 1511, 
+                    "end": 1517, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 1599, 
+                    "end": 1605, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 1632, 
+                    "end": 1638, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 1681, 
+                    "end": 1687, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2022, 
+                    "end": 2028, 
+                    "score": 0.5821298956871033, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2116, 
+                    "end": 2122, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2153, 
+                    "end": 2159, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2544, 
+                    "end": 2550, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2782, 
+                    "end": 2788, 
+                    "score": 0.3333333432674408, 
+                    "spot": "Morote"
+                }, 
+                {
+                    "begin": 2934, 
+                    "end": 2940, 
+                    "score": 0.49919772148132324, 
+                    "spot": "Morote"
+                }
+            ], 
+            "wiki_id": 39801441, 
+            "wiki_title": "Jos\u00e9 Mart\u00ednez Morote"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2879, 
+                    "end": 2884, 
+                    "score": 0.023203236982226372, 
+                    "spot": "spark"
+                }
+            ], 
+            "wiki_id": 75049, 
+            "wiki_title": "Electrostatic discharge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3570, 
+                    "end": 3578, 
+                    "score": 0.06450778990983963, 
+                    "spot": "highland"
+                }
+            ], 
+            "wiki_id": 93109, 
+            "wiki_title": "Highland County, Ohio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3492, 
+                    "end": 3506, 
+                    "score": 0.017751479521393776, 
+                    "spot": "street markets"
+                }
+            ], 
+            "wiki_id": 9801859, 
+            "wiki_title": "Market (place)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 801, 
+                    "end": 810, 
+                    "score": 0.14534972608089447, 
+                    "spot": "overthrow"
+                }
+            ], 
+            "wiki_id": 2783411, 
+            "wiki_title": "Battle of Caseros"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1455, 
+                    "end": 1458, 
+                    "score": 0.0009671834413893521, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 302015, 
+            "wiki_title": "Top"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 947, 
+                    "end": 963, 
+                    "score": 0.5, 
+                    "spot": "Agustin Mantilla"
+                }
+            ], 
+            "wiki_id": 34881810, 
+            "wiki_title": "Agustin Mantilla"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2134, 
+                    "end": 2137, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 36621636, 
+            "wiki_title": "In &amp; Out (Marcus Canty song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 340, 
+                    "end": 348, 
+                    "score": 0.12409500777721405, 
+                    "spot": "launched"
+                }, 
+                {
+                    "begin": 3014, 
+                    "end": 3023, 
+                    "score": 0.06252744793891907, 
+                    "spot": "launching"
+                }, 
+                {
+                    "begin": 3605, 
+                    "end": 3613, 
+                    "score": 0.02449006214737892, 
+                    "spot": "launches"
+                }
+            ], 
+            "wiki_id": 60930, 
+            "wiki_title": "Ceremonial ship launching"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1554, 
+                    "end": 1559, 
+                    "score": 0.0021487947087734938, 
+                    "spot": "speak"
+                }
+            ], 
+            "wiki_id": 2917649, 
+            "wiki_title": "Speech"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3231, 
+                    "end": 3240, 
+                    "score": 0.09910505264997482, 
+                    "spot": "described"
+                }
+            ], 
+            "wiki_id": 24405429, 
+            "wiki_title": "Species description"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2494, 
+                    "end": 2500, 
+                    "score": 0.052693482488393784, 
+                    "spot": "Guzman"
+                }, 
+                {
+                    "begin": 3223, 
+                    "end": 3229, 
+                    "score": 0.14742641150951385, 
+                    "spot": "Guzman"
+                }
+            ], 
+            "wiki_id": 10671071, 
+            "wiki_title": "Gast\u00f3n Guzm\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1377, 
+                    "end": 1401, 
+                    "score": 0.15252475440502167, 
+                    "spot": "revolutionary propaganda"
+                }
+            ], 
+            "wiki_id": 1128437, 
+            "wiki_title": "Revolutionary propaganda"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1305, 
+                    "end": 1313, 
+                    "score": 0.042479757219552994, 
+                    "spot": "behavior"
+                }
+            ], 
+            "wiki_id": 14337, 
+            "wiki_title": "Human sexual activity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1706, 
+                    "end": 1710, 
+                    "score": 0.04111036658287048, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 33538, 
+            "wiki_title": "Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 153, 
+                    "end": 157, 
+                    "score": 0.5275188684463501, 
+                    "spot": "Peru"
+                }
+            ], 
+            "wiki_id": 938180, 
+            "wiki_title": "Peru national football team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 301, 
+                    "end": 305, 
+                    "score": 0.11613219976425171, 
+                    "spot": "blow"
+                }
+            ], 
+            "wiki_id": 11258, 
+            "wiki_title": "Fellatio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3210, 
+                    "end": 3217, 
+                    "score": 0.13112306594848633, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2697, 
+                    "end": 2710, 
+                    "score": 0.15496575832366943, 
+                    "spot": "civil defense"
+                }
+            ], 
+            "wiki_id": 7059, 
+            "wiki_title": "Civil defense"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 741, 
+                    "end": 751, 
+                    "score": 0.08009669929742813, 
+                    "spot": "recognized"
+                }
+            ], 
+            "wiki_id": 15808914, 
+            "wiki_title": "International recognition of Kosovo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2402, 
+                    "end": 2416, 
+                    "score": 0.11051458865404129, 
+                    "spot": "political work"
+                }
+            ], 
+            "wiki_id": 21342679, 
+            "wiki_title": "The arts and politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2482, 
+                    "end": 2489, 
+                    "score": 0.07847533375024796, 
+                    "spot": "up arms"
+                }
+            ], 
+            "wiki_id": 32204150, 
+            "wiki_title": "Up in Arms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1314, 
+                    "end": 1327, 
+                    "score": 0.0012820513220503926, 
+                    "spot": "by the people"
+                }
+            ], 
+            "wiki_id": 48468546, 
+            "wiki_title": "By the People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 715, 
+                    "end": 723, 
+                    "score": 0.003684173570945859, 
+                    "spot": "movement"
+                }, 
+                {
+                    "begin": 3527, 
+                    "end": 3535, 
+                    "score": 0.2016022652387619, 
+                    "spot": "movement"
+                }
+            ], 
+            "wiki_id": 234984, 
+            "wiki_title": "Social movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3283, 
+                    "end": 3294, 
+                    "score": 0.15400002896785736, 
+                    "spot": "still alive"
+                }
+            ], 
+            "wiki_id": 24390121, 
+            "wiki_title": "Still Alive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3558, 
+                    "end": 3562, 
+                    "score": 0.14927653968334198, 
+                    "spot": "base"
+                }
+            ], 
+            "wiki_id": 40300485, 
+            "wiki_title": "Base and superstructure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2508, 
+                    "end": 2518, 
+                    "score": 0.169498473405838, 
+                    "spot": "ideologist"
+                }
+            ], 
+            "wiki_id": 75469, 
+            "wiki_title": "Ideology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1501, 
+                    "end": 1510, 
+                    "score": 0.0632508397102356, 
+                    "spot": "presented"
+                }
+            ], 
+            "wiki_id": 161316, 
+            "wiki_title": "Presenter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 851, 
+                    "end": 858, 
+                    "score": 0.23345515131950378, 
+                    "spot": "peasant"
+                }, 
+                {
+                    "begin": 2422, 
+                    "end": 2430, 
+                    "score": 0.17211750149726868, 
+                    "spot": "peasants"
+                }, 
+                {
+                    "begin": 2643, 
+                    "end": 2650, 
+                    "score": 0.1938353180885315, 
+                    "spot": "peasant"
+                }
+            ], 
+            "wiki_id": 68282, 
+            "wiki_title": "Peasant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1443, 
+                    "end": 1451, 
+                    "score": 0.07427535951137543, 
+                    "spot": "Palacios"
+                }, 
+                {
+                    "begin": 1564, 
+                    "end": 1572, 
+                    "score": 0.07427535951137543, 
+                    "spot": "Palacios"
+                }
+            ], 
+            "wiki_id": 136338, 
+            "wiki_title": "Palacios, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1578, 
+                    "end": 1584, 
+                    "score": 0.10078118741512299, 
+                    "spot": "police"
+                }
+            ], 
+            "wiki_id": 406756, 
+            "wiki_title": "New Zealand Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3588, 
+                    "end": 3596, 
+                    "score": 0.2192973494529724, 
+                    "spot": "Ayacucho"
+                }
+            ], 
+            "wiki_id": 713233, 
+            "wiki_title": "Ayacucho Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2711, 
+                    "end": 2716, 
+                    "score": 0.11272107809782028, 
+                    "spot": "units"
+                }
+            ], 
+            "wiki_id": 6714405, 
+            "wiki_title": "Military organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 67, 
+                    "end": 73, 
+                    "score": 0.40995872020721436, 
+                    "spot": "Maoist"
+                }
+            ], 
+            "wiki_id": 1074011, 
+            "wiki_title": "Communist Party of India (Maoist)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 640, 
+                    "end": 654, 
+                    "score": 0.5, 
+                    "spot": "Abimael Guzman"
+                }
+            ], 
+            "wiki_id": 481609, 
+            "wiki_title": "Abimael Guzm\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1259, 
+                    "end": 1264, 
+                    "score": 0.11186348646879196, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 13590, 
+            "wiki_title": "House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1210, 
+                    "end": 1227, 
+                    "score": 0.24954816699028015, 
+                    "spot": "Counterinsurgency"
+                }, 
+                {
+                    "begin": 1475, 
+                    "end": 1492, 
+                    "score": 0.3120971620082855, 
+                    "spot": "counterinsurgency"
+                }, 
+                {
+                    "begin": 2751, 
+                    "end": 2768, 
+                    "score": 0.2740069031715393, 
+                    "spot": "Counterinsurgency"
+                }, 
+                {
+                    "begin": 3184, 
+                    "end": 3201, 
+                    "score": 0.27368149161338806, 
+                    "spot": "counterinsurgency"
+                }
+            ], 
+            "wiki_id": 1779806, 
+            "wiki_title": "Counter-insurgency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3579, 
+                    "end": 3584, 
+                    "score": 0.07944659143686295, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 23604120, 
+            "wiki_title": "Sovereign state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1248, 
+                    "end": 1254, 
+                    "score": 0.06577439606189728, 
+                    "spot": "raided"
+                }
+            ], 
+            "wiki_id": 5053719, 
+            "wiki_title": "Police raid"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 396, 
+                    "end": 399, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "May"
+                }
+            ], 
+            "wiki_id": 1565780, 
+            "wiki_title": "Isle of May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3129, 
+                    "end": 3135, 
+                    "score": 0.005123520735651255, 
+                    "spot": "rumors"
+                }
+            ], 
+            "wiki_id": 254054, 
+            "wiki_title": "Rumor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1699, 
+                    "end": 1703, 
+                    "score": 0.2411256581544876, 
+                    "spot": "Lima"
+                }, 
+                {
+                    "begin": 3477, 
+                    "end": 3481, 
+                    "score": 0.21352431178092957, 
+                    "spot": "Lima"
+                }
+            ], 
+            "wiki_id": 85423, 
+            "wiki_title": "Lima"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1831, 
+                    "end": 1840, 
+                    "score": 0.17207685112953186, 
+                    "spot": "this week"
+                }
+            ], 
+            "wiki_id": 1139893, 
+            "wiki_title": "BBC News"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1810, 
+                    "end": 1817, 
+                    "score": 0.135255366563797, 
+                    "spot": "attacks"
+                }, 
+                {
+                    "begin": 3614, 
+                    "end": 3621, 
+                    "score": 0.11450419574975967, 
+                    "spot": "attacks"
+                }
+            ], 
+            "wiki_id": 5058690, 
+            "wiki_title": "September 11 attacks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 10, 
+                    "score": 0.21338312327861786, 
+                    "spot": "Police"
+                }, 
+                {
+                    "begin": 1058, 
+                    "end": 1064, 
+                    "score": 0.019415076822042465, 
+                    "spot": "Police"
+                }, 
+                {
+                    "begin": 1241, 
+                    "end": 1247, 
+                    "score": 0.2019718885421753, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 1359, 
+                    "end": 1365, 
+                    "score": 0.019415076822042465, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 1493, 
+                    "end": 1499, 
+                    "score": 0.09723392128944397, 
+                    "spot": "police"
+                }, 
+                {
+                    "begin": 1897, 
+                    "end": 1912, 
+                    "score": 0.01022954098880291, 
+                    "spot": "security forces"
+                }
+            ], 
+            "wiki_id": 23627, 
+            "wiki_title": "Police"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 896, 
+                    "end": 901, 
+                    "score": 0.22470667958259583, 
+                    "spot": "ideas"
+                }
+            ], 
+            "wiki_id": 161999, 
+            "wiki_title": "Idea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1175, 
+                    "end": 1185, 
+                    "score": 0.0005362282390706241, 
+                    "spot": "identified"
+                }
+            ], 
+            "wiki_id": 16691998, 
+            "wiki_title": "Identification (biology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1940, 
+                    "end": 1947, 
+                    "score": 0.10267563909292221, 
+                    "spot": "inmates"
+                }
+            ], 
+            "wiki_id": 19008450, 
+            "wiki_title": "Prison"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3380, 
+                    "end": 3393, 
+                    "score": 0.0014677103608846664, 
+                    "spot": "living abroad"
+                }
+            ], 
+            "wiki_id": 287078, 
+            "wiki_title": "Expatriate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2977, 
+                    "end": 2988, 
+                    "score": 0.055966153740882874, 
+                    "spot": "underground"
+                }
+            ], 
+            "wiki_id": 18361733, 
+            "wiki_title": "Rapid transit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 309, 
+                    "end": 313, 
+                    "score": 0.09387006610631943, 
+                    "spot": "date"
+                }
+            ], 
+            "wiki_id": 6237, 
+            "wiki_title": "Christmas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 24, 
+                    "end": 27, 
+                    "score": 0.08608460426330566, 
+                    "spot": "top"
+                }
+            ], 
+            "wiki_id": 14761570, 
+            "wiki_title": "Top (clothing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1610, 
+                    "end": 1622, 
+                    "score": 0.0015147915109992027, 
+                    "spot": "in the house"
+                }
+            ], 
+            "wiki_id": 3577274, 
+            "wiki_title": "Legislature broadcasters in New Zealand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 863, 
+                    "end": 869, 
+                    "score": 0.2357831448316574, 
+                    "spot": "worker"
+                }
+            ], 
+            "wiki_id": 857255, 
+            "wiki_title": "Workforce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1848, 
+                    "score": 0.1057581827044487, 
+                    "spot": "mark"
+                }
+            ], 
+            "wiki_id": 1080461, 
+            "wiki_title": "German gold mark"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1643, 
+                    "end": 1645, 
+                    "score": 0.061458881944417953, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 42317, 
+            "wiki_title": "United Press International"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2438, 
+                    "end": 2450, 
+                    "score": 0.16717009246349335, 
+                    "spot": "impoverished"
+                }, 
+                {
+                    "begin": 3646, 
+                    "end": 3658, 
+                    "score": 0.10847723484039307, 
+                    "spot": "impoverished"
+                }
+            ], 
+            "wiki_id": 64959, 
+            "wiki_title": "Poverty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 512, 
+                    "end": 514, 
+                    "score": 0.2011374682188034, 
+                    "spot": "Si"
+                }
+            ], 
+            "wiki_id": 31948739, 
+            "wiki_title": "S\u00ed (Peruvian magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1550, 
+                    "end": 1553, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 595284, 
+            "wiki_title": "HIM (Finnish band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1013, 
+                    "end": 1018, 
+                    "score": 0.00605366937816143, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2569, 
+                    "end": 2588, 
+                    "score": 0.056640625, 
+                    "spot": "military strategist"
+                }
+            ], 
+            "wiki_id": 91515, 
+            "wiki_title": "Military strategy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 442, 
+                    "end": 447, 
+                    "score": 0.002687836065888405, 
+                    "spot": "No. 2"
+                }
+            ], 
+            "wiki_id": 4129173, 
+            "wiki_title": "No. 2 (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2130, 
+                    "end": 2133, 
+                    "score": 0.0005181347369216383, 
+                    "spot": "him"
+                }
+            ], 
+            "wiki_id": 2271998, 
+            "wiki_title": "Him (Buffy the Vampire Slayer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3090, 
+                    "end": 3096, 
+                    "score": 0.17474892735481262, 
+                    "spot": "Guzman"
+                }
+            ], 
+            "wiki_id": 13922588, 
+            "wiki_title": "Efra\u00edn Guzm\u00e1n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3365, 
+                    "end": 3368, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2724, 
+                    "end": 2730, 
+                    "score": 0.08055603504180908, 
+                    "spot": "orders"
+                }
+            ], 
+            "wiki_id": 153237, 
+            "wiki_title": "Court order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2287, 
+                    "end": 2295, 
+                    "score": 0.2990312874317169, 
+                    "spot": "splinter"
+                }, 
+                {
+                    "begin": 2287, 
+                    "end": 2301, 
+                    "score": 0.5152571797370911, 
+                    "spot": "splinter group"
+                }
+            ], 
+            "wiki_id": 6288753, 
+            "wiki_title": "Schism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 43, 
+                    "score": 0.1780438870191574, 
+                    "spot": "military leader"
+                }
+            ], 
+            "wiki_id": 36301328, 
+            "wiki_title": "Officer (armed forces)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1082, 
+                    "end": 1091, 
+                    "score": 0.0009324009297415614, 
+                    "spot": "other men"
+                }
+            ], 
+            "wiki_id": 46782945, 
+            "wiki_title": "Other Men"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 478, 
+                    "end": 483, 
+                    "score": 0.06695424020290375, 
+                    "spot": "chief"
+                }
+            ], 
+            "wiki_id": 524622, 
+            "wiki_title": "Chief petty officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 204, 
+                    "end": 211, 
+                    "score": 0.002421801444143057, 
+                    "spot": "capture"
+                }
+            ], 
+            "wiki_id": 2580053, 
+            "wiki_title": "Regulatory capture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3435, 
+                    "end": 3441, 
+                    "score": 0.15971875190734863, 
+                    "spot": "priest"
+                }
+            ], 
+            "wiki_id": 23707, 
+            "wiki_title": "Priest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3289, 
+                    "end": 3294, 
+                    "score": 0.15896020829677582, 
+                    "spot": "alive"
+                }
+            ], 
+            "wiki_id": 1715849, 
+            "wiki_title": "Alive (Pearl Jam song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2216, 
+                    "end": 2222, 
+                    "score": 0.03086595982313156, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 32927, 
+            "wiki_title": "World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1321, 
+                    "end": 1327, 
+                    "score": 0.18300440907478333, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 689457, 
+            "wiki_title": "The Sunday People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 503, 
+                    "end": 511, 
+                    "score": 0.03589778020977974, 
+                    "spot": "magazine"
+                }
+            ], 
+            "wiki_id": 21001, 
+            "wiki_title": "Magazine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2651, 
+                    "end": 2662, 
+                    "score": 0.14241567254066467, 
+                    "spot": "communities"
+                }
+            ], 
+            "wiki_id": 5695, 
+            "wiki_title": "Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3339, 
+                    "end": 3348, 
+                    "score": 0.08212010562419891, 
+                    "spot": "Peruvians"
+                }
+            ], 
+            "wiki_id": 3246847, 
+            "wiki_title": "Peruvian Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2837, 
+                    "end": 2854, 
+                    "score": 0.07454240322113037, 
+                    "spot": "central committee"
+                }
+            ], 
+            "wiki_id": 38280862, 
+            "wiki_title": "Central Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1853, 
+                    "end": 1859, 
+                    "score": 0.07154884189367294, 
+                    "spot": "second"
+                }
+            ], 
+            "wiki_id": 26873, 
+            "wiki_title": "Second"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2070, 
+                    "end": 2078, 
+                    "score": 0.011012491770088673, 
+                    "spot": "discount"
+                }
+            ], 
+            "wiki_id": 256411, 
+            "wiki_title": "Discounts and allowances"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 451, 
+                    "end": 460, 
+                    "score": 0.375, 
+                    "spot": "the party"
+                }
+            ], 
+            "wiki_id": 34479965, 
+            "wiki_title": "Triumph Heritage Empowerment Party"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2402, 
+                    "end": 2411, 
+                    "score": 0.17321904003620148, 
+                    "spot": "political"
+                }
+            ], 
+            "wiki_id": 22986, 
+            "wiki_title": "Politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1617, 
+                    "end": 1622, 
+                    "score": 0.00605366937816143, 
+                    "spot": "house"
+                }
+            ], 
+            "wiki_id": 1259118, 
+            "wiki_title": "In the House (TV series)"
+        }
+    ]
+}

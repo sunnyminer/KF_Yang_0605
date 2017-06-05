@@ -1,0 +1,1810 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 208, 
+                    "end": 214, 
+                    "score": 0.3425561189651489, 
+                    "spot": "Canada"
+                }, 
+                {
+                    "begin": 1637, 
+                    "end": 1643, 
+                    "score": 0.3589540123939514, 
+                    "spot": "Canada"
+                }
+            ], 
+            "wiki_id": 5042916, 
+            "wiki_title": "Canada"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1086, 
+                    "end": 1090, 
+                    "score": 0.05055472254753113, 
+                    "spot": "Raul"
+                }
+            ], 
+            "wiki_id": 556682, 
+            "wiki_title": "Raul Roco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 603, 
+                    "end": 610, 
+                    "score": 0.05642892047762871, 
+                    "spot": "endorse"
+                }
+            ], 
+            "wiki_id": 349003, 
+            "wiki_title": "Testimonial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 89, 
+                    "end": 102, 
+                    "score": 0.19710341095924377, 
+                    "spot": "worker rights"
+                }, 
+                {
+                    "begin": 1946, 
+                    "end": 1959, 
+                    "score": 0.2908431887626648, 
+                    "spot": "labour rights"
+                }
+            ], 
+            "wiki_id": 1125669, 
+            "wiki_title": "Labor rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1887, 
+                    "end": 1891, 
+                    "score": 0.00125021836720407, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 156541, 
+            "wiki_title": "A-side and B-side"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 980, 
+                    "end": 988, 
+                    "score": 0.158019557595253, 
+                    "spot": "negative"
+                }
+            ], 
+            "wiki_id": 454151, 
+            "wiki_title": "Negative liberty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1567, 
+                    "end": 1583, 
+                    "score": 0.23294246196746826, 
+                    "spot": "Development Bank"
+                }
+            ], 
+            "wiki_id": 6350415, 
+            "wiki_title": "International financial institutions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2303, 
+                    "end": 2314, 
+                    "score": 0.0034961774945259094, 
+                    "spot": "fundamental"
+                }
+            ], 
+            "wiki_id": 2308033, 
+            "wiki_title": "Fundamental rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2029, 
+                    "end": 2034, 
+                    "score": 0.009866598062217236, 
+                    "spot": "waste"
+                }
+            ], 
+            "wiki_id": 20646971, 
+            "wiki_title": "Waste"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1108, 
+                    "end": 1147, 
+                    "score": 0.23880596458911896, 
+                    "spot": "University of California in Los Angeles"
+                }
+            ], 
+            "wiki_id": 37765, 
+            "wiki_title": "University of California, Los Angeles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 629, 
+                    "end": 636, 
+                    "score": 0.09351702779531479, 
+                    "spot": "Richard"
+                }
+            ], 
+            "wiki_id": 25473, 
+            "wiki_title": "Richard Nixon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1532, 
+                    "end": 1538, 
+                    "score": 0.0006567189702764153, 
+                    "spot": "set up"
+                }
+            ], 
+            "wiki_id": 1570532, 
+            "wiki_title": "The Set-Up (1949 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 401, 
+                    "end": 408, 
+                    "score": 0.12042361497879028, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 180546, 
+            "wiki_title": "Child support"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1070, 
+                    "end": 1073, 
+                    "score": 0.0016373477410525084, 
+                    "spot": "win"
+                }
+            ], 
+            "wiki_id": 18306140, 
+            "wiki_title": "2003\u201304 Copa del Rey"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 850, 
+                    "end": 862, 
+                    "score": 0.3049571216106415, 
+                    "spot": "civil rights"
+                }
+            ], 
+            "wiki_id": 37071, 
+            "wiki_title": "Civil and political rights"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 346, 
+                    "end": 353, 
+                    "score": 0.3469613790512085, 
+                    "spot": "retrain"
+                }
+            ], 
+            "wiki_id": 1761558, 
+            "wiki_title": "Retraining"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1732, 
+                    "end": 1751, 
+                    "score": 0.216562420129776, 
+                    "spot": "Chamber of Commerce"
+                }, 
+                {
+                    "begin": 1852, 
+                    "end": 1871, 
+                    "score": 0.216562420129776, 
+                    "spot": "Chamber of Commerce"
+                }
+            ], 
+            "wiki_id": 305503, 
+            "wiki_title": "Chamber of commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 13, 
+                    "score": 0.47123274207115173, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 550, 
+                    "end": 558, 
+                    "score": 0.6818028092384338, 
+                    "spot": "Hispanic"
+                }
+            ], 
+            "wiki_id": 273285, 
+            "wiki_title": "Race and ethnicity in the United States Census"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1552, 
+                    "end": 1583, 
+                    "score": 0.5, 
+                    "spot": "North American Development Bank"
+                }
+            ], 
+            "wiki_id": 9060811, 
+            "wiki_title": "North American Development Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1197, 
+                    "end": 1204, 
+                    "score": 0.26803699135780334, 
+                    "spot": "Project"
+                }
+            ], 
+            "wiki_id": 24042, 
+            "wiki_title": "Project management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1016, 
+                    "end": 1027, 
+                    "score": 0.16768740117549896, 
+                    "spot": "competitive"
+                }
+            ], 
+            "wiki_id": 927591, 
+            "wiki_title": "Competitiveness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 176, 
+                    "end": 191, 
+                    "score": 0.06954247504472733, 
+                    "spot": "Trade Agreement"
+                }
+            ], 
+            "wiki_id": 217089, 
+            "wiki_title": "Trade agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1275, 
+                    "end": 1283, 
+                    "score": 0.003053921740502119, 
+                    "spot": "question"
+                }
+            ], 
+            "wiki_id": 16705549, 
+            "wiki_title": "Question (The Moody Blues song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1607, 
+                    "end": 1614, 
+                    "score": 0.07980407774448395, 
+                    "spot": "regions"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1487, 
+                    "end": 1500, 
+                    "score": 0.041375234723091125, 
+                    "spot": "organisations"
+                }
+            ], 
+            "wiki_id": 105070, 
+            "wiki_title": "Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 626, 
+                    "end": 628, 
+                    "score": 0.058252763003110886, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2084, 
+                    "end": 2086, 
+                    "score": 0.08490768820047379, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1998, 
+                    "end": 2009, 
+                    "score": 0.06946370005607605, 
+                    "spot": "opportunity"
+                }
+            ], 
+            "wiki_id": 355849, 
+            "wiki_title": "Equal opportunity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 888, 
+                    "end": 906, 
+                    "score": 0.057496823370456696, 
+                    "spot": "Voter Registration"
+                }, 
+                {
+                    "begin": 1178, 
+                    "end": 1196, 
+                    "score": 0.057496823370456696, 
+                    "spot": "Voter Registration"
+                }
+            ], 
+            "wiki_id": 994892, 
+            "wiki_title": "Voter registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 878, 
+                    "end": 887, 
+                    "score": 0.0652540773153305, 
+                    "spot": "Southwest"
+                }, 
+                {
+                    "begin": 1168, 
+                    "end": 1177, 
+                    "score": 0.09918463230133057, 
+                    "spot": "Southwest"
+                }
+            ], 
+            "wiki_id": 179571, 
+            "wiki_title": "Southwestern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 989, 
+                    "end": 995, 
+                    "score": 0.1728617250919342, 
+                    "spot": "impact"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 492, 
+                    "end": 499, 
+                    "score": 0.0018433179939165711, 
+                    "spot": "backing"
+                }
+            ], 
+            "wiki_id": 1030925, 
+            "wiki_title": "Backing vocalist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2118, 
+                    "end": 2172, 
+                    "score": 0.5, 
+                    "spot": "United Food and Commercial Workers International Union"
+                }
+            ], 
+            "wiki_id": 372899, 
+            "wiki_title": "United Food and Commercial Workers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 257, 
+                    "end": 266, 
+                    "score": 0.11291678994894028, 
+                    "spot": "last week"
+                }, 
+                {
+                    "begin": 695, 
+                    "end": 704, 
+                    "score": 0.07213690876960754, 
+                    "spot": "last\nweek"
+                }
+            ], 
+            "wiki_id": 41923028, 
+            "wiki_title": "Last Week Tonight with John Oliver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2079, 
+                    "end": 2083, 
+                    "score": 0.0005456139915622771, 
+                    "spot": "lies"
+                }
+            ], 
+            "wiki_id": 401269, 
+            "wiki_title": "G N' R Lies"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2315, 
+                    "end": 2322, 
+                    "score": 0.001576030976139009, 
+                    "spot": "changes"
+                }
+            ], 
+            "wiki_id": 183431, 
+            "wiki_title": "Chord progression"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2206, 
+                    "end": 2213, 
+                    "score": 0.03490999713540077, 
+                    "spot": "current"
+                }, 
+                {
+                    "begin": 2330, 
+                    "end": 2337, 
+                    "score": 0.001926264725625515, 
+                    "spot": "current"
+                }
+            ], 
+            "wiki_id": 6207, 
+            "wiki_title": "Electric current"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1800, 
+                    "end": 1807, 
+                    "score": 0.0007432181155309081, 
+                    "spot": "backers"
+                }
+            ], 
+            "wiki_id": 14851783, 
+            "wiki_title": "Americus Backers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1587, 
+                    "end": 1593, 
+                    "score": 0.11541172116994858, 
+                    "spot": "direct"
+                }
+            ], 
+            "wiki_id": 1302678, 
+            "wiki_title": "Direct tax"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1916, 
+                    "end": 1922, 
+                    "score": 0.05388970300555229, 
+                    "spot": "issues"
+                }
+            ], 
+            "wiki_id": 18940, 
+            "wiki_title": "Meat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1219, 
+                    "end": 1226, 
+                    "score": 0.2615976333618164, 
+                    "spot": "produce"
+                }
+            ], 
+            "wiki_id": 13228814, 
+            "wiki_title": "Production (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1091, 
+                    "end": 1099, 
+                    "score": 0.10634063929319382, 
+                    "spot": "Hinojosa"
+                }
+            ], 
+            "wiki_id": 838680, 
+            "wiki_title": "Rub\u00e9n Hinojosa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2013, 
+                    "end": 2025, 
+                    "score": 0.1428571492433548, 
+                    "spot": "can't let go"
+                }
+            ], 
+            "wiki_id": 44878113, 
+            "wiki_title": "25 (Adele album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1044, 
+                    "end": 1049, 
+                    "score": 0.05239994451403618, 
+                    "spot": "sides"
+                }
+            ], 
+            "wiki_id": 28830, 
+            "wiki_title": "Song"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1622, 
+                    "end": 1624, 
+                    "score": 0.09513818472623825, 
+                    "spot": "US"
+                }, 
+                {
+                    "begin": 2256, 
+                    "end": 2258, 
+                    "score": 0.08881694078445435, 
+                    "spot": "us"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1136, 
+                    "end": 1147, 
+                    "score": 0.16983450949192047, 
+                    "spot": "Los Angeles"
+                }
+            ], 
+            "wiki_id": 18110, 
+            "wiki_title": "Los Angeles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2010, 
+                    "end": 2012, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1521, 
+                    "end": 1528, 
+                    "score": 0.0012775842333212495, 
+                    "spot": "propose"
+                }
+            ], 
+            "wiki_id": 8019411, 
+            "wiki_title": "Marriage proposal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 311, 
+                    "end": 318, 
+                    "score": 0.0005836205091327429, 
+                    "spot": "present"
+                }
+            ], 
+            "wiki_id": 50021, 
+            "wiki_title": "Gift"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1081, 
+                    "end": 1085, 
+                    "score": 0.0811365395784378, 
+                    "spot": "Prof"
+                }
+            ], 
+            "wiki_id": 20646803, 
+            "wiki_title": "Professor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 762, 
+                    "end": 779, 
+                    "score": 0.14890262484550476, 
+                    "spot": "official\nposition"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2173, 
+                    "end": 2176, 
+                    "score": 0.11063208431005478, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 126, 
+                    "end": 135, 
+                    "score": 0.18442019820213318, 
+                    "spot": "condition"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 204, 
+                    "end": 206, 
+                    "score": 0.1725931167602539, 
+                    "spot": "US"
+                }, 
+                {
+                    "begin": 547, 
+                    "end": 549, 
+                    "score": 0.18016678094863892, 
+                    "spot": "US"
+                }, 
+                {
+                    "begin": 949, 
+                    "end": 951, 
+                    "score": 0.06253363937139511, 
+                    "spot": "US"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 145, 
+                    "end": 152, 
+                    "score": 0.14929094910621643, 
+                    "spot": "support"
+                }
+            ], 
+            "wiki_id": 638229, 
+            "wiki_title": "Technical support"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1, 
+                    "end": 4, 
+                    "score": 0.0073289042338728905, 
+                    "spot": "KEY"
+                }
+            ], 
+            "wiki_id": 53039, 
+            "wiki_title": "Key (cryptography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 167, 
+                    "end": 181, 
+                    "score": 0.3699956238269806, 
+                    "spot": "American Trade"
+                }
+            ], 
+            "wiki_id": 23794617, 
+            "wiki_title": "Foreign trade of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 720, 
+                    "end": 727, 
+                    "score": 0.17803551256656647, 
+                    "spot": "opinion"
+                }
+            ], 
+            "wiki_id": 1348330, 
+            "wiki_title": "Opinion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1720, 
+                    "end": 1751, 
+                    "score": 0.4299051761627197, 
+                    "spot": "US Hispanic Chamber of Commerce"
+                }
+            ], 
+            "wiki_id": 10394898, 
+            "wiki_title": "United States Hispanic Chamber of Commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1246, 
+                    "end": 1251, 
+                    "score": 0.031149696558713913, 
+                    "spot": "sides"
+                }
+            ], 
+            "wiki_id": 13755, 
+            "wiki_title": "Hull (watercraft)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1966, 
+                    "end": 1976, 
+                    "score": 0.0035335689317435026, 
+                    "spot": "jeopardise"
+                }
+            ], 
+            "wiki_id": 3722991, 
+            "wiki_title": "Endangerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 790, 
+                    "end": 797, 
+                    "score": 0.1576337069272995, 
+                    "spot": "Leaders"
+                }
+            ], 
+            "wiki_id": 1243041, 
+            "wiki_title": "East African Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1212, 
+                    "score": 0.31274619698524475, 
+                    "spot": "Trade"
+                }, 
+                {
+                    "begin": 1769, 
+                    "end": 1774, 
+                    "score": 0.14035773277282715, 
+                    "spot": "Trade"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2239, 
+                    "end": 2243, 
+                    "score": 0.001120922388508916, 
+                    "spot": "vast"
+                }
+            ], 
+            "wiki_id": 20824136, 
+            "wiki_title": "List of regions in Faer\u00fbn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 167, 
+                    "end": 175, 
+                    "score": 0.24329714477062225, 
+                    "spot": "American"
+                }
+            ], 
+            "wiki_id": 19792942, 
+            "wiki_title": "Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1259, 
+                    "end": 1265, 
+                    "score": 0.006511420011520386, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 247613, 
+            "wiki_title": "Border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1306, 
+                    "end": 1317, 
+                    "score": 0.14734748005867004, 
+                    "spot": "distributed"
+                }
+            ], 
+            "wiki_id": 239863, 
+            "wiki_title": "Distribution (business)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1357, 
+                    "end": 1367, 
+                    "score": 0.03040444292128086, 
+                    "spot": "vulnerable"
+                }
+            ], 
+            "wiki_id": 9383123, 
+            "wiki_title": "Social vulnerability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 907, 
+                    "end": 914, 
+                    "score": 0.11307138204574585, 
+                    "spot": "Project"
+                }
+            ], 
+            "wiki_id": 19381111, 
+            "wiki_title": "Public housing in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2070, 
+                    "end": 2078, 
+                    "score": 0.09698157012462616, 
+                    "spot": "spectrum"
+                }
+            ], 
+            "wiki_id": 27752, 
+            "wiki_title": "Spectroscopy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1824, 
+                    "end": 1835, 
+                    "score": 0.5, 
+                    "spot": "Abel Guerra"
+                }
+            ], 
+            "wiki_id": 4534455, 
+            "wiki_title": "Abel Guerra"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 651, 
+                    "score": 0.0030070601496845484, 
+                    "spot": "aide"
+                }
+            ], 
+            "wiki_id": 239481, 
+            "wiki_title": "Aide-de-camp"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2279, 
+                    "end": 2285, 
+                    "score": 0.07739866524934769, 
+                    "spot": "losers"
+                }
+            ], 
+            "wiki_id": 19138547, 
+            "wiki_title": "The Losers (Howard Stern)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1371, 
+                    "end": 1377, 
+                    "score": 0.06596462428569794, 
+                    "spot": "import"
+                }
+            ], 
+            "wiki_id": 7515651, 
+            "wiki_title": "Import"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1760, 
+                    "end": 1768, 
+                    "score": 0.6037534475326538, 
+                    "spot": "Hispanic"
+                }
+            ], 
+            "wiki_id": 1007667, 
+            "wiki_title": "Hispanic and Latino Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1057, 
+                    "end": 1063, 
+                    "score": 0.058141738176345825, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 1031356, 
+            "wiki_title": "On the Border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 322, 
+                    "end": 331, 
+                    "score": 0.06885890662670135, 
+                    "spot": "blueprint"
+                }
+            ], 
+            "wiki_id": 99794, 
+            "wiki_title": "Blueprint"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 967, 
+                    "end": 972, 
+                    "score": 0.0679759830236435, 
+                    "spot": "brunt"
+                }
+            ], 
+            "wiki_id": 1930149, 
+            "wiki_title": "Trypticon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2167, 
+                    "end": 2172, 
+                    "score": 0.18429838120937347, 
+                    "spot": "Union"
+                }
+            ], 
+            "wiki_id": 17626, 
+            "wiki_title": "Trade union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 427, 
+                    "end": 431, 
+                    "score": 0.0494508370757103, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 746, 
+                    "end": 751, 
+                    "score": 0.2667800188064575, 
+                    "spot": "group"
+                }, 
+                {
+                    "begin": 863, 
+                    "end": 868, 
+                    "score": 0.00427321158349514, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 191253, 
+            "wiki_title": "Social group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1433, 
+                    "end": 1444, 
+                    "score": 0.1916637271642685, 
+                    "spot": "immigration"
+                }
+            ], 
+            "wiki_id": 4599312, 
+            "wiki_title": "Immigration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1160, 
+                    "score": 0.09878034889698029, 
+                    "spot": "leader"
+                }
+            ], 
+            "wiki_id": 130918, 
+            "wiki_title": "Leadership"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2271, 
+                    "end": 2275, 
+                    "score": 0.0954524502158165, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 659, 
+                    "end": 688, 
+                    "score": 0.6322877407073975, 
+                    "spot": "congressional Hispanic caucus"
+                }
+            ], 
+            "wiki_id": 2430698, 
+            "wiki_title": "Congressional Hispanic Caucus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1455, 
+                    "end": 1461, 
+                    "score": 0.3171865940093994, 
+                    "spot": "labour"
+                }, 
+                {
+                    "begin": 1455, 
+                    "end": 1467, 
+                    "score": 0.3931984007358551, 
+                    "spot": "labour force"
+                }
+            ], 
+            "wiki_id": 18178, 
+            "wiki_title": "Labour economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 276, 
+                    "end": 298, 
+                    "score": 0.2948356568813324, 
+                    "spot": "Clinton administration"
+                }
+            ], 
+            "wiki_id": 3356, 
+            "wiki_title": "Bill Clinton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 820, 
+                    "end": 830, 
+                    "score": 0.04689221829175949, 
+                    "spot": "coalitions"
+                }
+            ], 
+            "wiki_id": 102512, 
+            "wiki_title": "Coalition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 57, 
+                    "end": 67, 
+                    "score": 0.10880761593580246, 
+                    "spot": "agreements"
+                }, 
+                {
+                    "begin": 432, 
+                    "end": 436, 
+                    "score": 0.002504585776478052, 
+                    "spot": "deal"
+                }, 
+                {
+                    "begin": 615, 
+                    "end": 624, 
+                    "score": 0.1259298175573349, 
+                    "spot": "agreement"
+                }, 
+                {
+                    "begin": 1815, 
+                    "end": 1819, 
+                    "score": 0.03421366214752197, 
+                    "spot": "deal"
+                }, 
+                {
+                    "begin": 1892, 
+                    "end": 1902, 
+                    "score": 0.019845735281705856, 
+                    "spot": "agreements"
+                }
+            ], 
+            "wiki_id": 19280537, 
+            "wiki_title": "Contract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 511, 
+                    "end": 520, 
+                    "score": 0.052709657698869705, 
+                    "spot": "agreement"
+                }
+            ], 
+            "wiki_id": 30432, 
+            "wiki_title": "Treaty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 235, 
+                    "end": 243, 
+                    "score": 0.5766317844390869, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 483, 
+                    "end": 491, 
+                    "score": 0.49235963821411133, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 673, 
+                    "end": 681, 
+                    "score": 0.7085204720497131, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 811, 
+                    "end": 819, 
+                    "score": 0.6096595525741577, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 932, 
+                    "end": 941, 
+                    "score": 0.17757955193519592, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 1478, 
+                    "end": 1486, 
+                    "score": 0.5318741798400879, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 1723, 
+                    "end": 1731, 
+                    "score": 0.7344712615013123, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 1843, 
+                    "end": 1851, 
+                    "score": 0.5450311899185181, 
+                    "spot": "Hispanic"
+                }, 
+                {
+                    "begin": 2260, 
+                    "end": 2269, 
+                    "score": 0.19730490446090698, 
+                    "spot": "Hispanics"
+                }
+            ], 
+            "wiki_id": 56120, 
+            "wiki_title": "Hispanic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 338, 
+                    "end": 342, 
+                    "score": 0.1543460190296173, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 210522, 
+            "wiki_title": "Economic policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2145, 
+                    "end": 2166, 
+                    "score": 0.002772643230855465, 
+                    "spot": "Workers International"
+                }
+            ], 
+            "wiki_id": 43349847, 
+            "wiki_title": "List of left-wing internationals"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1603, 
+                    "score": 0.18444915115833282, 
+                    "spot": "resources"
+                }
+            ], 
+            "wiki_id": 21675, 
+            "wiki_title": "Natural resource"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1028, 
+                    "end": 1035, 
+                    "score": 0.10148736834526062, 
+                    "spot": "sectors"
+                }, 
+                {
+                    "begin": 1326, 
+                    "end": 1333, 
+                    "score": 0.2349819839000702, 
+                    "spot": "sectors"
+                }, 
+                {
+                    "begin": 1400, 
+                    "end": 1407, 
+                    "score": 0.07514320313930511, 
+                    "spot": "sectors"
+                }
+            ], 
+            "wiki_id": 12255159, 
+            "wiki_title": "Economic sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1992, 
+                    "end": 1997, 
+                    "score": 0.01685432530939579, 
+                    "spot": "giant"
+                }
+            ], 
+            "wiki_id": 568726, 
+            "wiki_title": "Giant star"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 30, 
+                    "score": 0.08472815155982971, 
+                    "spot": "US"
+                }
+            ], 
+            "wiki_id": 730350, 
+            "wiki_title": "Billboard 200"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 457, 
+                    "score": 0.0779835656285286, 
+                    "spot": "supporters"
+                }
+            ], 
+            "wiki_id": 1009736, 
+            "wiki_title": "12th man (football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 839, 
+                    "end": 846, 
+                    "score": 0.3095584213733673, 
+                    "spot": "La Raza"
+                }, 
+                {
+                    "begin": 1512, 
+                    "end": 1519, 
+                    "score": 0.08003952354192734, 
+                    "spot": "La Raza"
+                }
+            ], 
+            "wiki_id": 4982158, 
+            "wiki_title": "La Raza"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1541, 
+                    "end": 1551, 
+                    "score": 0.005319148767739534, 
+                    "spot": "trilateral"
+                }
+            ], 
+            "wiki_id": 46973358, 
+            "wiki_title": "Trilateral (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 14, 
+                    "end": 20, 
+                    "score": 0.06358134746551514, 
+                    "spot": "groups"
+                }
+            ], 
+            "wiki_id": 20180, 
+            "wiki_title": "Musical ensemble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2244, 
+                    "end": 2252, 
+                    "score": 0.07338213920593262, 
+                    "spot": "majority"
+                }
+            ], 
+            "wiki_id": 465640, 
+            "wiki_title": "Majority government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1532, 
+                    "end": 1535, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 2460456, 
+            "wiki_title": "Father Set"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 579, 
+                    "end": 586, 
+                    "score": 0.0942244604229927, 
+                    "spot": "divided"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 257, 
+                    "end": 261, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }, 
+                {
+                    "begin": 695, 
+                    "end": 699, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 958, 
+                    "end": 962, 
+                    "score": 0.08501093089580536, 
+                    "spot": "bear"
+                }
+            ], 
+            "wiki_id": 4400, 
+            "wiki_title": "Bear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 111, 
+                    "end": 122, 
+                    "score": 0.11987696588039398, 
+                    "spot": "environment"
+                }, 
+                {
+                    "begin": 1930, 
+                    "end": 1941, 
+                    "score": 0.15236344933509827, 
+                    "spot": "environment"
+                }
+            ], 
+            "wiki_id": 558685, 
+            "wiki_title": "Natural environment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2087, 
+                    "end": 2094, 
+                    "score": 0.01799738220870495, 
+                    "spot": "Segundo"
+                }
+            ], 
+            "wiki_id": 26242610, 
+            "wiki_title": "Segundo (Ponce)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 529, 
+                    "end": 537, 
+                    "score": 0.1841590404510498, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1688, 
+                    "end": 1710, 
+                    "score": 0.02857142873108387, 
+                    "spot": "business organisations"
+                }
+            ], 
+            "wiki_id": 6762, 
+            "wiki_title": "Companies law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1579, 
+                    "end": 1583, 
+                    "score": 0.2049613893032074, 
+                    "spot": "Bank"
+                }
+            ], 
+            "wiki_id": 19360669, 
+            "wiki_title": "Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1775, 
+                    "end": 1782, 
+                    "score": 0.14451946318149567, 
+                    "spot": "Council"
+                }
+            ], 
+            "wiki_id": 225016, 
+            "wiki_title": "City council"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 244, 
+                    "end": 251, 
+                    "score": 0.054764047265052795, 
+                    "spot": "leaders"
+                }
+            ], 
+            "wiki_id": 1830882, 
+            "wiki_title": "Political boss"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1821, 
+                    "end": 1823, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 706498, 
+            "wiki_title": "Metropolitan Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1378, 
+                    "end": 1389, 
+                    "score": 0.1102360188961029, 
+                    "spot": "penetration"
+                }
+            ], 
+            "wiki_id": 27546, 
+            "wiki_title": "Sexual intercourse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1536, 
+                    "end": 1538, 
+                    "score": 0.0006597136962227523, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 312240, 
+            "wiki_title": "UP (complexity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 642, 
+                    "score": 0.13443692028522491, 
+                    "spot": "Lopez"
+                }
+            ], 
+            "wiki_id": 16175, 
+            "wiki_title": "Jennifer Lopez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 262, 
+                    "end": 266, 
+                    "score": 0.13075703382492065, 
+                    "spot": "week"
+                }, 
+                {
+                    "begin": 700, 
+                    "end": 704, 
+                    "score": 0.054595477879047394, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2214, 
+                    "end": 2225, 
+                    "score": 0.06872528046369553, 
+                    "spot": "incarnation"
+                }
+            ], 
+            "wiki_id": 100368, 
+            "wiki_title": "Avatar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 468, 
+                    "end": 471, 
+                    "score": 0.09613191336393356, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 461, 
+                    "end": 466, 
+                    "score": 0.22782418131828308, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 783, 
+                    "end": 788, 
+                    "score": 0.3664807081222534, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 999, 
+                    "end": 1004, 
+                    "score": 0.2788204550743103, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 1672, 
+                    "end": 1677, 
+                    "score": 0.22734463214874268, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 1977, 
+                    "end": 1982, 
+                    "score": 0.1265060305595398, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2229, 
+                    "end": 2234, 
+                    "score": 0.1642293781042099, 
+                    "spot": "Nafta"
+                }, 
+                {
+                    "begin": 2338, 
+                    "end": 2343, 
+                    "score": 0.1265060305595398, 
+                    "spot": "Nafta"
+                }
+            ], 
+            "wiki_id": 22050, 
+            "wiki_title": "North American Free Trade Agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 52, 
+                    "end": 56, 
+                    "score": 0.00125021836720407, 
+                    "spot": "side"
+                }
+            ], 
+            "wiki_id": 6150292, 
+            "wiki_title": "Cue sports techniques"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 354, 
+                    "end": 371, 
+                    "score": 0.04285714402794838, 
+                    "spot": "displaced workers"
+                }
+            ], 
+            "wiki_id": 507285, 
+            "wiki_title": "Layoff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 219, 
+                    "end": 225, 
+                    "score": 0.34394317865371704, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1626, 
+                    "end": 1632, 
+                    "score": 0.3922027051448822, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1227, 
+                    "end": 1237, 
+                    "score": 0.28117862343788147, 
+                    "spot": "job\ngrowth"
+                }, 
+                {
+                    "begin": 1297, 
+                    "end": 1301, 
+                    "score": 0.1387246549129486, 
+                    "spot": "jobs"
+                }
+            ], 
+            "wiki_id": 314993, 
+            "wiki_title": "Employment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1341, 
+                    "end": 1351, 
+                    "score": 0.2939499020576477, 
+                    "spot": "US economy"
+                }
+            ], 
+            "wiki_id": 32022, 
+            "wiki_title": "Economy of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1413, 
+                    "end": 1422, 
+                    "score": 0.059936314821243286, 
+                    "spot": "dependent"
+                }
+            ], 
+            "wiki_id": 16784920, 
+            "wiki_title": "Dependant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2059, 
+                    "end": 2062, 
+                    "score": 0.0017393865855410695, 
+                    "spot": "end"
+                }
+            ], 
+            "wiki_id": 1658905, 
+            "wiki_title": "The End (The Doors song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1470, 
+                    "end": 1477, 
+                    "score": 0.002037852071225643, 
+                    "spot": "Fifteen"
+                }
+            ], 
+            "wiki_id": 30549538, 
+            "wiki_title": "Jacobite rising of 1715"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 439, 
+                    "end": 443, 
+                    "score": 0.04625025391578674, 
+                    "spot": "blow"
+                }
+            ], 
+            "wiki_id": 7701, 
+            "wiki_title": "Cocaine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 682, 
+                    "end": 688, 
+                    "score": 0.1002652496099472, 
+                    "spot": "caucus"
+                }
+            ], 
+            "wiki_id": 169131, 
+            "wiki_title": "Primary election"
+        }
+    ]
+}

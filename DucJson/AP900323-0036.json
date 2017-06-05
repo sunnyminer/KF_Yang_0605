@@ -1,0 +1,2698 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 2248, 
+                    "end": 2252, 
+                    "score": 0.06901827454566956, 
+                    "spot": "TEXT"
+                }
+            ], 
+            "wiki_id": 208356, 
+            "wiki_title": "Text file"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1343, 
+                    "end": 1349, 
+                    "score": 0.0956123024225235, 
+                    "spot": "winter"
+                }
+            ], 
+            "wiki_id": 34061, 
+            "wiki_title": "Winter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2582, 
+                    "end": 2591, 
+                    "score": 0.13733720779418945, 
+                    "spot": "Anchorage"
+                }
+            ], 
+            "wiki_id": 7004698, 
+            "wiki_title": "Anchorage, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1608, 
+                    "end": 1617, 
+                    "score": 0.12854509055614471, 
+                    "spot": "criticism"
+                }
+            ], 
+            "wiki_id": 23273, 
+            "wiki_title": "Patent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 777, 
+                    "end": 784, 
+                    "score": 0.00419803149998188, 
+                    "spot": "leaking"
+                }
+            ], 
+            "wiki_id": 3074923, 
+            "wiki_title": "Leak"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 187, 
+                    "end": 195, 
+                    "score": 0.0019480519695207477, 
+                    "spot": "25 miles"
+                }
+            ], 
+            "wiki_id": 23811985, 
+            "wiki_title": "Twenty-Five Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1956, 
+                    "end": 1970, 
+                    "score": 0.25, 
+                    "spot": "Samuel Skinner"
+                }
+            ], 
+            "wiki_id": 475882, 
+            "wiki_title": "Samuel K. Skinner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3071, 
+                    "end": 3080, 
+                    "score": 0.1148509830236435, 
+                    "spot": "penalties"
+                }
+            ], 
+            "wiki_id": 456100, 
+            "wiki_title": "Penalty kick"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2303, 
+                    "score": 0.10376228392124176, 
+                    "spot": "Commission"
+                }
+            ], 
+            "wiki_id": 9974, 
+            "wiki_title": "European Commission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3155, 
+                    "end": 3164, 
+                    "score": 0.13013698160648346, 
+                    "spot": "Hazelwood"
+                }
+            ], 
+            "wiki_id": 123196, 
+            "wiki_title": "Hazelwood, Missouri"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2555, 
+                    "end": 2564, 
+                    "score": 0.13013698160648346, 
+                    "spot": "Hazelwood"
+                }, 
+                {
+                    "begin": 3096, 
+                    "end": 3105, 
+                    "score": 0.13013698160648346, 
+                    "spot": "Hazelwood"
+                }
+            ], 
+            "wiki_id": 720914, 
+            "wiki_title": "Hazelwood (Pittsburgh)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1170, 
+                    "end": 1185, 
+                    "score": 0.1257839947938919, 
+                    "spot": "environmentally"
+                }
+            ], 
+            "wiki_id": 558685, 
+            "wiki_title": "Natural environment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 259, 
+                    "end": 270, 
+                    "score": 0.2942577600479126, 
+                    "spot": "North Slope"
+                }
+            ], 
+            "wiki_id": 500309, 
+            "wiki_title": "Alaska North Slope"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3124, 
+                    "end": 3128, 
+                    "score": 0.15736103057861328, 
+                    "spot": "jury"
+                }, 
+                {
+                    "begin": 3144, 
+                    "end": 3148, 
+                    "score": 0.06445105373859406, 
+                    "spot": "Jury"
+                }
+            ], 
+            "wiki_id": 44720, 
+            "wiki_title": "Jury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2071, 
+                    "end": 2081, 
+                    "score": 0.04049902409315109, 
+                    "spot": "good-faith"
+                }
+            ], 
+            "wiki_id": 77492, 
+            "wiki_title": "Good faith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 828, 
+                    "end": 842, 
+                    "score": 0.7950626015663147, 
+                    "spot": "Gulf of Alaska"
+                }
+            ], 
+            "wiki_id": 802251, 
+            "wiki_title": "Gulf of Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3171, 
+                    "score": 0.11188063025474548, 
+                    "spot": "guilty"
+                }
+            ], 
+            "wiki_id": 8033188, 
+            "wiki_title": "Guilt (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1088, 
+                    "end": 1093, 
+                    "score": 0.0757773146033287, 
+                    "spot": "beach"
+                }
+            ], 
+            "wiki_id": 224587, 
+            "wiki_title": "Beach volleyball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 727, 
+                    "end": 738, 
+                    "score": 0.004705882165580988, 
+                    "spot": "Mile Island"
+                }
+            ], 
+            "wiki_id": 19099959, 
+            "wiki_title": "Mile Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1134, 
+                    "end": 1138, 
+                    "score": 0.06050125136971474, 
+                    "spot": "left"
+                }
+            ], 
+            "wiki_id": 18499, 
+            "wiki_title": "Left-wing politics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1575, 
+                    "end": 1587, 
+                    "score": 0.2858985960483551, 
+                    "spot": "conservation"
+                }
+            ], 
+            "wiki_id": 216216, 
+            "wiki_title": "Conservation biology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1844, 
+                    "end": 1850, 
+                    "score": 0.24645739793777466, 
+                    "spot": "Senate"
+                }
+            ], 
+            "wiki_id": 24909346, 
+            "wiki_title": "United States Senate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1575, 
+                    "end": 1593, 
+                    "score": 0.29551833868026733, 
+                    "spot": "conservation group"
+                }
+            ], 
+            "wiki_id": 45441, 
+            "wiki_title": "Conservation movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 301, 
+                    "end": 306, 
+                    "score": 0.006208600476384163, 
+                    "spot": "Sound"
+                }
+            ], 
+            "wiki_id": 18994087, 
+            "wiki_title": "Sound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2167, 
+                    "end": 2178, 
+                    "score": 0.08766968548297882, 
+                    "spot": "bald eagles"
+                }
+            ], 
+            "wiki_id": 4401, 
+            "wiki_title": "Bald eagle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1640, 
+                    "end": 1645, 
+                    "score": 0.00427321158349514, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 10911, 
+            "wiki_title": "Functional group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 625, 
+                    "end": 633, 
+                    "score": 0.10054375231266022, 
+                    "spot": "accident"
+                }
+            ], 
+            "wiki_id": 434542, 
+            "wiki_title": "Accident (1967 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3206, 
+                    "end": 3214, 
+                    "score": 0.13731160759925842, 
+                    "spot": "innocent"
+                }
+            ], 
+            "wiki_id": 915483, 
+            "wiki_title": "Innocent of Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2948, 
+                    "end": 2957, 
+                    "score": 0.11731808632612228, 
+                    "spot": "convicted"
+                }
+            ], 
+            "wiki_id": 146762, 
+            "wiki_title": "Conviction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 732, 
+                    "end": 738, 
+                    "score": 0.05873243138194084, 
+                    "spot": "Island"
+                }
+            ], 
+            "wiki_id": 14587, 
+            "wiki_title": "Island"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 142, 
+                    "end": 154, 
+                    "score": 0.21938775479793549, 
+                    "spot": "Exxon Valdez"
+                }, 
+                {
+                    "begin": 2401, 
+                    "end": 2407, 
+                    "score": 0.24744954705238342, 
+                    "spot": "Valdez"
+                }
+            ], 
+            "wiki_id": 189482, 
+            "wiki_title": "Exxon Valdez"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 321, 
+                    "end": 327, 
+                    "score": 0.3717786371707916, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 1282, 
+                    "end": 1288, 
+                    "score": 0.3331235945224762, 
+                    "spot": "Alaska"
+                }, 
+                {
+                    "begin": 2276, 
+                    "end": 2282, 
+                    "score": 0.40220022201538086, 
+                    "spot": "Alaska"
+                }
+            ], 
+            "wiki_id": 624, 
+            "wiki_title": "Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1697, 
+                    "end": 1726, 
+                    "score": 0.2915666401386261, 
+                    "spot": "U.S. House of Representatives"
+                }
+            ], 
+            "wiki_id": 19468510, 
+            "wiki_title": "United States House of Representatives"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2506, 
+                    "end": 2510, 
+                    "score": 0.051135577261447906, 
+                    "spot": "rush"
+                }
+            ], 
+            "wiki_id": 465595, 
+            "wiki_title": "Juncaceae"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2653, 
+                    "end": 2672, 
+                    "score": 0.3611111044883728, 
+                    "spot": "negligent discharge"
+                }, 
+                {
+                    "begin": 3175, 
+                    "end": 3194, 
+                    "score": 0.3611111044883728, 
+                    "spot": "negligent discharge"
+                }
+            ], 
+            "wiki_id": 44777082, 
+            "wiki_title": "Unintentional discharge (firearms)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2222, 
+                    "end": 2226, 
+                    "score": 0.002151922322809696, 
+                    "spot": "dead"
+                }
+            ], 
+            "wiki_id": 12542, 
+            "wiki_title": "Grateful Dead"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2909, 
+                    "end": 2917, 
+                    "score": 0.12985900044441223, 
+                    "spot": "criminal"
+                }
+            ], 
+            "wiki_id": 5785, 
+            "wiki_title": "Crime"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 785, 
+                    "end": 788, 
+                    "score": 0.0005023122066631913, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 366439, 
+            "wiki_title": "Out (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1771, 
+                    "end": 1776, 
+                    "score": 0.041998427361249924, 
+                    "spot": "adopt"
+                }
+            ], 
+            "wiki_id": 519158, 
+            "wiki_title": "LGBT adoption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1672, 
+                    "end": 1678, 
+                    "score": 0.13517814874649048, 
+                    "spot": "pariah"
+                }
+            ], 
+            "wiki_id": 23477694, 
+            "wiki_title": "Outcast (person)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2151, 
+                    "end": 2161, 
+                    "score": 0.09215017408132553, 
+                    "spot": "sea\notters"
+                }
+            ], 
+            "wiki_id": 567471, 
+            "wiki_title": "Sea otter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 750, 
+                    "end": 756, 
+                    "score": 0.12990696728229523, 
+                    "spot": "covers"
+                }
+            ], 
+            "wiki_id": 159031, 
+            "wiki_title": "Cover version"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 221, 
+                    "end": 229, 
+                    "score": 0.0034656585194170475, 
+                    "spot": "spilling"
+                }
+            ], 
+            "wiki_id": 1050149, 
+            "wiki_title": "Spillway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1350, 
+                    "end": 1357, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }
+            ], 
+            "wiki_id": 992207, 
+            "wiki_title": "Cleanup hitter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2945, 
+                    "end": 2947, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 612840, 
+            "wiki_title": "If...."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1218, 
+                    "end": 1225, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }
+            ], 
+            "wiki_id": 886957, 
+            "wiki_title": "Batting order (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 190, 
+                    "end": 195, 
+                    "score": 0.10155326873064041, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 1145, 
+                    "end": 1150, 
+                    "score": 0.1375347524881363, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2829, 
+                    "end": 2836, 
+                    "score": 0.010256410576403141, 
+                    "spot": "Feb. 27"
+                }
+            ], 
+            "wiki_id": 3998960, 
+            "wiki_title": "February 27 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2123, 
+                    "end": 2129, 
+                    "score": 0.07258958369493484, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 4243210, 
+            "wiki_title": "IPCC Fourth Assessment Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2320, 
+                    "end": 2327, 
+                    "score": 0.1178082525730133, 
+                    "spot": "calling"
+                }
+            ], 
+            "wiki_id": 1566484, 
+            "wiki_title": "Vocation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1271, 
+                    "end": 1280, 
+                    "score": 0.008903133682906628, 
+                    "spot": "well done"
+                }
+            ], 
+            "wiki_id": 33105083, 
+            "wiki_title": "Well-Done (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 528, 
+                    "end": 533, 
+                    "score": 0.09565766900777817, 
+                    "spot": "fires"
+                }
+            ], 
+            "wiki_id": 56106, 
+            "wiki_title": "Wildfire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1600, 
+                    "score": 0.08811991661787033, 
+                    "spot": "unfair"
+                }
+            ], 
+            "wiki_id": 660608, 
+            "wiki_title": "Right to a fair trial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1515, 
+                    "end": 1523, 
+                    "score": 0.09114808589220047, 
+                    "spot": "resigned"
+                }
+            ], 
+            "wiki_id": 52382, 
+            "wiki_title": "Watergate scandal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2840, 
+                    "end": 2858, 
+                    "score": 0.1893237978219986, 
+                    "spot": "federal grand jury"
+                }
+            ], 
+            "wiki_id": 12684, 
+            "wiki_title": "Grand jury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 904, 
+                    "score": 0.11764322221279144, 
+                    "spot": "oil companies"
+                }, 
+                {
+                    "begin": 2529, 
+                    "end": 2541, 
+                    "score": 0.2844759523868561, 
+                    "spot": "oil industry"
+                }
+            ], 
+            "wiki_id": 994887, 
+            "wiki_title": "Petroleum industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 311, 
+                    "end": 319, 
+                    "score": 0.0008824178366921842, 
+                    "spot": "March 26"
+                }
+            ], 
+            "wiki_id": 1640723, 
+            "wiki_title": "March 26 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1533, 
+                    "end": 1551, 
+                    "score": 0.3926903307437897, 
+                    "spot": "corporate advisory"
+                }
+            ], 
+            "wiki_id": 20769, 
+            "wiki_title": "Mergers and acquisitions"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 647, 
+                    "end": 660, 
+                    "score": 0.5232558250427246, 
+                    "spot": "U.S. Interior"
+                }, 
+                {
+                    "begin": 652, 
+                    "end": 670, 
+                    "score": 0.21947360038757324, 
+                    "spot": "Interior Secretary"
+                }
+            ], 
+            "wiki_id": 70904, 
+            "wiki_title": "United States Department of the Interior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 393, 
+                    "end": 405, 
+                    "score": 0.22753506898880005, 
+                    "spot": "compensation"
+                }, 
+                {
+                    "begin": 410, 
+                    "end": 416, 
+                    "score": 0.3353002965450287, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 684, 
+                    "end": 689, 
+                    "score": 0.11709984391927719, 
+                    "spot": "calls"
+                }, 
+                {
+                    "begin": 1565, 
+                    "end": 1570, 
+                    "score": 0.13911260664463043, 
+                    "spot": "calls"
+                }, 
+                {
+                    "begin": 1646, 
+                    "end": 1651, 
+                    "score": 0.000768016092479229, 
+                    "spot": "calls"
+                }
+            ], 
+            "wiki_id": 369978, 
+            "wiki_title": "Bird vocalization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 196, 
+                    "end": 201, 
+                    "score": 0.17489351332187653, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 17616, 
+            "wiki_title": "Latitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3235, 
+                    "end": 3242, 
+                    "score": 0.09521646052598953, 
+                    "spot": "charges"
+                }
+            ], 
+            "wiki_id": 10192, 
+            "wiki_title": "Explosive material"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 973, 
+                    "end": 981, 
+                    "score": 0.0016582098323851824, 
+                    "spot": "handling"
+                }
+            ], 
+            "wiki_id": 779651, 
+            "wiki_title": "Automobile handling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2600, 
+                    "end": 2607, 
+                    "score": 0.0984078049659729, 
+                    "spot": "charges"
+                }, 
+                {
+                    "begin": 2859, 
+                    "end": 2866, 
+                    "score": 0.27751052379608154, 
+                    "spot": "indicts"
+                }, 
+                {
+                    "begin": 2918, 
+                    "end": 2924, 
+                    "score": 0.1882154643535614, 
+                    "spot": "counts"
+                }, 
+                {
+                    "begin": 2965, 
+                    "end": 2971, 
+                    "score": 0.1469174176454544, 
+                    "spot": "counts"
+                }
+            ], 
+            "wiki_id": 14559, 
+            "wiki_title": "Indictment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2611, 
+                    "end": 2628, 
+                    "score": 0.36736613512039185, 
+                    "spot": "criminal mischief"
+                }
+            ], 
+            "wiki_id": 255808, 
+            "wiki_title": "Mischief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 936, 
+                    "end": 943, 
+                    "score": 0.12839853763580322, 
+                    "spot": "network"
+                }
+            ], 
+            "wiki_id": 36937, 
+            "wiki_title": "Television network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2313, 
+                    "end": 2319, 
+                    "score": 0.0011830201838165522, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 6620428, 
+            "wiki_title": "Muzzle flash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 721, 
+                    "end": 738, 
+                    "score": 0.24866309762001038, 
+                    "spot": "Three Mile Island"
+                }
+            ], 
+            "wiki_id": 1750486, 
+            "wiki_title": "Three Mile Island Nuclear Generating Station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 763, 
+                    "end": 769, 
+                    "score": 0.023632837459445, 
+                    "spot": "square"
+                }
+            ], 
+            "wiki_id": 28355, 
+            "wiki_title": "Square (company)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1005, 
+                    "end": 1008, 
+                    "score": 0.07070688158273697, 
+                    "spot": "U.S"
+                }, 
+                {
+                    "begin": 1926, 
+                    "end": 1929, 
+                    "score": 0.11346567422151566, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1267, 
+                    "end": 1270, 
+                    "score": 0.23036029934883118, 
+                    "spot": "job"
+                }
+            ], 
+            "wiki_id": 16888425, 
+            "wiki_title": "Job"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 805, 
+                    "end": 809, 
+                    "score": 0.007589591201394796, 
+                    "spot": "foul"
+                }
+            ], 
+            "wiki_id": 3090014, 
+            "wiki_title": "Fouls and misconduct (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3085, 
+                    "end": 3090, 
+                    "score": 0.05861419066786766, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 457278, 
+            "wiki_title": "March, Cambridgeshire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 455, 
+                    "score": 0.2392480969429016, 
+                    "spot": "lawsuits"
+                }
+            ], 
+            "wiki_id": 113258, 
+            "wiki_title": "Lawsuit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2335, 
+                    "end": 2343, 
+                    "score": 0.08462323993444443, 
+                    "spot": "overhaul"
+                }
+            ], 
+            "wiki_id": 91191, 
+            "wiki_title": "Maintenance, repair, and operations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 346, 
+                    "end": 357, 
+                    "score": 0.0459156259894371, 
+                    "spot": "spokeswoman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2364, 
+                    "end": 2385, 
+                    "score": 0.009477311745285988, 
+                    "spot": "transportation system"
+                }
+            ], 
+            "wiki_id": 1457428, 
+            "wiki_title": "Transport network"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1382, 
+                    "end": 1391, 
+                    "score": 0.09048937261104584, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 2113, 
+                    "end": 2122, 
+                    "score": 0.0007770162774249911, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 2926, 
+                    "end": 2935, 
+                    "score": 0.1289653182029724, 
+                    "spot": "Officials"
+                }
+            ], 
+            "wiki_id": 725182, 
+            "wiki_title": "Official"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1299, 
+                    "end": 1307, 
+                    "score": 0.0014207428321242332, 
+                    "spot": "disagree"
+                }
+            ], 
+            "wiki_id": 7283, 
+            "wiki_title": "Controversy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2351, 
+                    "end": 2357, 
+                    "score": 0.038699567317962646, 
+                    "spot": "nation"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2018, 
+                    "end": 2025, 
+                    "score": 0.12449556589126587, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3106, 
+                    "end": 3110, 
+                    "score": 0.14218193292617798, 
+                    "spot": "case"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2479, 
+                    "end": 2487, 
+                    "score": 0.049255575984716415, 
+                    "spot": "industry"
+                }
+            ], 
+            "wiki_id": 1946204, 
+            "wiki_title": "Music industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2630, 
+                    "end": 2651, 
+                    "score": 0.1808510571718216, 
+                    "spot": "reckless endangerment"
+                }
+            ], 
+            "wiki_id": 3722991, 
+            "wiki_title": "Endangerment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2786, 
+                    "end": 2791, 
+                    "score": 0.0008824683027341962, 
+                    "spot": "May\n1"
+                }
+            ], 
+            "wiki_id": 1701192, 
+            "wiki_title": "May 1 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1159, 
+                    "score": 0.14362934231758118, 
+                    "spot": "oiled"
+                }
+            ], 
+            "wiki_id": 657, 
+            "wiki_title": "Asphalt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 796, 
+                    "end": 801, 
+                    "score": 0.12859265506267548, 
+                    "spot": "sound"
+                }
+            ], 
+            "wiki_id": 385319, 
+            "wiki_title": "Sound (geography)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 887, 
+                    "end": 894, 
+                    "score": 0.5642248392105103, 
+                    "spot": "big oil"
+                }
+            ], 
+            "wiki_id": 6099285, 
+            "wiki_title": "Big Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 311, 
+                    "end": 316, 
+                    "score": 0.04180246219038963, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 317549, 
+            "wiki_title": "March (territorial entity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1010, 
+                    "end": 1024, 
+                    "score": 0.008146639913320541, 
+                    "spot": "coastal waters"
+                }
+            ], 
+            "wiki_id": 496983, 
+            "wiki_title": "Territorial waters"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 572, 
+                    "end": 577, 
+                    "score": 0.11328769475221634, 
+                    "spot": "tests"
+                }
+            ], 
+            "wiki_id": 33660916, 
+            "wiki_title": "Test (assessment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 376, 
+                    "end": 381, 
+                    "score": 0.00427321158349514, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 20180, 
+            "wiki_title": "Musical ensemble"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 96, 
+                    "end": 100, 
+                    "score": 0.0019259870750829577, 
+                    "spot": "TEXT"
+                }
+            ], 
+            "wiki_id": 46950, 
+            "wiki_title": "Libretto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1752, 
+                    "end": 1758, 
+                    "score": 0.11330524832010269, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2005, 
+                    "end": 2012, 
+                    "score": 0.17423953115940094, 
+                    "spot": "company"
+                }, 
+                {
+                    "begin": 2977, 
+                    "end": 2984, 
+                    "score": 0.08865732699632645, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2904, 
+                    "end": 2908, 
+                    "score": 0.0693446472287178, 
+                    "spot": "five"
+                }
+            ], 
+            "wiki_id": 28952356, 
+            "wiki_title": "Channel 5 (UK)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2881, 
+                    "end": 2889, 
+                    "score": 0.1458648294210434, 
+                    "spot": "shipping"
+                }
+            ], 
+            "wiki_id": 28362, 
+            "wiki_title": "Freight transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1419, 
+                    "end": 1428, 
+                    "score": 0.3066655099391937, 
+                    "spot": "shellfish"
+                }
+            ], 
+            "wiki_id": 55037, 
+            "wiki_title": "Shellfish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 112, 
+                    "end": 120, 
+                    "score": 0.0007282913429662585, 
+                    "spot": "March 24"
+                }
+            ], 
+            "wiki_id": 1636671, 
+            "wiki_title": "March 24 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 541, 
+                    "end": 548, 
+                    "score": 0.33749255537986755, 
+                    "spot": "captain"
+                }
+            ], 
+            "wiki_id": 6392374, 
+            "wiki_title": "Sea captain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 271, 
+                    "end": 280, 
+                    "score": 0.4166773557662964, 
+                    "spot": "crude oil"
+                }, 
+                {
+                    "begin": 704, 
+                    "end": 716, 
+                    "score": 0.23540112376213074, 
+                    "spot": "oil industry"
+                }, 
+                {
+                    "begin": 742, 
+                    "end": 745, 
+                    "score": 0.07368121296167374, 
+                    "spot": "Oil"
+                }
+            ], 
+            "wiki_id": 23195, 
+            "wiki_title": "Petroleum"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1736, 
+                    "end": 1740, 
+                    "score": 0.09525171667337418, 
+                    "spot": "bill"
+                }, 
+                {
+                    "begin": 1872, 
+                    "end": 1876, 
+                    "score": 0.23799245059490204, 
+                    "spot": "bill"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1358, 
+                    "end": 1362, 
+                    "score": 0.0017771873390302062, 
+                    "spot": "plan"
+                }, 
+                {
+                    "begin": 2808, 
+                    "end": 2812, 
+                    "score": 0.0017771873390302062, 
+                    "spot": "plan"
+                }
+            ], 
+            "wiki_id": 46212943, 
+            "wiki_title": "Urban planning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2565, 
+                    "end": 2569, 
+                    "score": 0.0010953065939247608, 
+                    "spot": "goes"
+                }
+            ], 
+            "wiki_id": 118427, 
+            "wiki_title": "Goes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1110, 
+                    "end": 1116, 
+                    "score": 0.06551600247621536, 
+                    "spot": "winter"
+                }
+            ], 
+            "wiki_id": 33924, 
+            "wiki_title": "Winter War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2936, 
+                    "end": 2939, 
+                    "score": 0.0016523596132174134, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 621455, 
+            "wiki_title": "Thomas Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 584, 
+                    "score": 0.044769059866666794, 
+                    "spot": "reveal"
+                }
+            ], 
+            "wiki_id": 36369060, 
+            "wiki_title": "Reveal (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2710, 
+                    "end": 2721, 
+                    "score": 0.08374948054552078, 
+                    "spot": "intoxicated"
+                }
+            ], 
+            "wiki_id": 1014, 
+            "wiki_title": "Alcohol"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1411, 
+                    "end": 1418, 
+                    "score": 0.21126830577850342, 
+                    "spot": "consume"
+                }
+            ], 
+            "wiki_id": 212818, 
+            "wiki_title": "Eating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 340, 
+                    "end": 345, 
+                    "score": 0.05463069677352905, 
+                    "spot": "union"
+                }
+            ], 
+            "wiki_id": 17626, 
+            "wiki_title": "Trade union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2848, 
+                    "end": 2858, 
+                    "score": 0.43283864855766296, 
+                    "spot": "grand jury"
+                }
+            ], 
+            "wiki_id": 34323893, 
+            "wiki_title": "Grand juries in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 45, 
+                    "end": 54, 
+                    "score": 0.4152981638908386, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 426, 
+                    "end": 431, 
+                    "score": 0.10959447175264359, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 694, 
+                    "end": 699, 
+                    "score": 0.2591334581375122, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 986, 
+                    "end": 992, 
+                    "score": 0.06390967220067978, 
+                    "spot": "spills"
+                }, 
+                {
+                    "begin": 1786, 
+                    "end": 1795, 
+                    "score": 0.12127659469842911, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 2234, 
+                    "end": 2239, 
+                    "score": 0.107677161693573, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 2408, 
+                    "end": 2413, 
+                    "score": 0.2896578311920166, 
+                    "spot": "spill"
+                }, 
+                {
+                    "begin": 2663, 
+                    "end": 2679, 
+                    "score": 0.06818182021379471, 
+                    "spot": "discharge of\noil"
+                }, 
+                {
+                    "begin": 3185, 
+                    "end": 3201, 
+                    "score": 0.06818182021379471, 
+                    "spot": "discharge of\noil"
+                }
+            ], 
+            "wiki_id": 158705, 
+            "wiki_title": "Oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 32, 
+                    "end": 54, 
+                    "score": 0.5, 
+                    "spot": "Exxon Valdez oil spill"
+                }, 
+                {
+                    "begin": 1625, 
+                    "end": 1634, 
+                    "score": 0.25497332215309143, 
+                    "spot": "oil spill"
+                }, 
+                {
+                    "begin": 2283, 
+                    "end": 2292, 
+                    "score": 0.3842346668243408, 
+                    "spot": "Oil Spill"
+                }
+            ], 
+            "wiki_id": 10243, 
+            "wiki_title": "Exxon Valdez oil spill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 135, 
+                    "end": 141, 
+                    "score": 0.1816381812095642, 
+                    "spot": "tanker"
+                }, 
+                {
+                    "begin": 534, 
+                    "end": 540, 
+                    "score": 0.2872254550457001, 
+                    "spot": "tanker"
+                }
+            ], 
+            "wiki_id": 15923603, 
+            "wiki_title": "Oil tanker"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2363, 
+                    "score": 0.1444445103406906, 
+                    "spot": "s oil"
+                }
+            ], 
+            "wiki_id": 3497599, 
+            "wiki_title": "S-Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2816, 
+                    "end": 2821, 
+                    "score": 0.017486905679106712, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 4635444, 
+            "wiki_title": "March (music)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2767, 
+                    "end": 2773, 
+                    "score": 0.009216589853167534, 
+                    "spot": "resume"
+                }
+            ], 
+            "wiki_id": 346264, 
+            "wiki_title": "R\u00e9sum\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1289, 
+                    "end": 1298, 
+                    "score": 0.06317945569753647, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 982, 
+                    "end": 985, 
+                    "score": 0.03095109760761261, 
+                    "spot": "big"
+                }
+            ], 
+            "wiki_id": 64646, 
+            "wiki_title": "Toronto"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 478, 
+                    "end": 483, 
+                    "score": 0.2481258511543274, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 522, 
+                    "end": 527, 
+                    "score": 0.2972567677497864, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2039, 
+                    "end": 2044, 
+                    "score": 0.28864508867263794, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2758, 
+                    "end": 2763, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 10239, 
+            "wiki_title": "Exxon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 926, 
+                    "end": 935, 
+                    "score": 0.0032526475843042135, 
+                    "spot": "voluntary"
+                }
+            ], 
+            "wiki_id": 30874303, 
+            "wiki_title": "Volunteering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1931, 
+                    "end": 1945, 
+                    "score": 0.0825486034154892, 
+                    "spot": "Transportation"
+                }
+            ], 
+            "wiki_id": 58235, 
+            "wiki_title": "United States Department of Transportation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1882, 
+                    "end": 1891, 
+                    "score": 0.10134343057870865, 
+                    "spot": "agreement"
+                }
+            ], 
+            "wiki_id": 30432, 
+            "wiki_title": "Treaty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1931, 
+                    "end": 1955, 
+                    "score": 0.14363312721252441, 
+                    "spot": "Transportation Secretary"
+                }
+            ], 
+            "wiki_id": 4967403, 
+            "wiki_title": "Department of Transportation and Communications (Philippines)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3000, 
+                    "end": 3002, 
+                    "score": 0.04629001021385193, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 609, 
+                    "end": 614, 
+                    "score": 0.09635857492685318, 
+                    "spot": "hours"
+                }
+            ], 
+            "wiki_id": 3326435, 
+            "wiki_title": "The Hours (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1533, 
+                    "end": 1557, 
+                    "score": 0.3745584785938263, 
+                    "spot": "corporate advisory board"
+                }
+            ], 
+            "wiki_id": 16755777, 
+            "wiki_title": "Advisory board"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1059, 
+                    "end": 1063, 
+                    "score": 0.010895456187427044, 
+                    "spot": "Sept"
+                }
+            ], 
+            "wiki_id": 336650, 
+            "wiki_title": "Sept"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2264, 
+                    "end": 2270, 
+                    "score": 0.010256410576403141, 
+                    "spot": "Jan. 5"
+                }
+            ], 
+            "wiki_id": 3745969, 
+            "wiki_title": "January 5 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 993, 
+                    "end": 1001, 
+                    "score": 0.0015432098880410194, 
+                    "spot": "anywhere"
+                }
+            ], 
+            "wiki_id": 34273864, 
+            "wiki_title": "Anywhere (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1075, 
+                    "end": 1083, 
+                    "score": 0.06572490930557251, 
+                    "spot": "suspends"
+                }
+            ], 
+            "wiki_id": 4737947, 
+            "wiki_title": "Suspension (punishment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 155, 
+                    "end": 159, 
+                    "score": 0.010328900068998337, 
+                    "spot": "runs"
+                }
+            ], 
+            "wiki_id": 300747, 
+            "wiki_title": "Run (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1397, 
+                    "end": 1403, 
+                    "score": 0.09087950736284256, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 60, 
+                    "end": 67, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 1094, 
+                    "end": 1101, 
+                    "score": 0.00268570682965219, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 1984, 
+                    "end": 1991, 
+                    "score": 0.105806864798069, 
+                    "spot": "cleanup"
+                }, 
+                {
+                    "begin": 2778, 
+                    "end": 2785, 
+                    "score": 0.06413824111223221, 
+                    "spot": "cleanup"
+                }
+            ], 
+            "wiki_id": 406260, 
+            "wiki_title": "Environmental remediation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3133, 
+                    "end": 3141, 
+                    "score": 0.0009332711342722178, 
+                    "spot": "March 22"
+                }
+            ], 
+            "wiki_id": 1636639, 
+            "wiki_title": "March 22 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 112, 
+                    "end": 117, 
+                    "score": 0.001167770242318511, 
+                    "spot": "March"
+                }, 
+                {
+                    "begin": 512, 
+                    "end": 517, 
+                    "score": 0.06781309098005295, 
+                    "spot": "March"
+                }, 
+                {
+                    "begin": 3133, 
+                    "end": 3138, 
+                    "score": 0.09474718570709229, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 847, 
+                    "end": 857, 
+                    "score": 0.4636015295982361, 
+                    "spot": "Cook Inlet"
+                }
+            ], 
+            "wiki_id": 413559, 
+            "wiki_title": "Cook Inlet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 8, 
+                    "score": 0.10405752062797546, 
+                    "spot": "Here"
+                }
+            ], 
+            "wiki_id": 19746798, 
+            "wiki_title": "Here (company)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2697, 
+                    "end": 2703, 
+                    "score": 0.15972889959812164, 
+                    "spot": "vessel"
+                }
+            ], 
+            "wiki_id": 3996, 
+            "wiki_title": "Boat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 205, 
+                    "end": 219, 
+                    "score": 0.45945945382118225, 
+                    "spot": "Valdez, Alaska"
+                }
+            ], 
+            "wiki_id": 105697, 
+            "wiki_title": "Valdez, Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 746, 
+                    "end": 749, 
+                    "score": 0.04604621231555939, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 1058750, 
+            "wiki_title": "Now (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 512, 
+                    "end": 520, 
+                    "score": 0.0007128756260499358, 
+                    "spot": "March 30"
+                }
+            ], 
+            "wiki_id": 1640902, 
+            "wiki_title": "March 30 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1662, 
+                    "end": 1671, 
+                    "score": 0.11452639847993851, 
+                    "spot": "corporate"
+                }
+            ], 
+            "wiki_id": 7485, 
+            "wiki_title": "Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2104, 
+                    "end": 2112, 
+                    "score": 0.018537135794758797, 
+                    "spot": "Wildlife"
+                }
+            ], 
+            "wiki_id": 144219, 
+            "wiki_title": "Wildlife"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 817, 
+                    "score": 0.10018708556890488, 
+                    "spot": "beaches"
+                }, 
+                {
+                    "begin": 1160, 
+                    "end": 1167, 
+                    "score": 0.0934658870100975, 
+                    "spot": "beaches"
+                }
+            ], 
+            "wiki_id": 40630, 
+            "wiki_title": "Beach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 638, 
+                    "end": 645, 
+                    "score": 0.0009276437922380865, 
+                    "spot": "April 4"
+                }
+            ], 
+            "wiki_id": 1644635, 
+            "wiki_title": "April 4 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2452, 
+                    "end": 2460, 
+                    "score": 0.01800551638007164, 
+                    "spot": "friendly"
+                }
+            ], 
+            "wiki_id": 977090, 
+            "wiki_title": "Exhibition game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1741, 
+                    "end": 1751, 
+                    "score": 0.0936037227511406, 
+                    "spot": "preserving"
+                }
+            ], 
+            "wiki_id": 1219810, 
+            "wiki_title": "Historic preservation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1450, 
+                    "end": 1453, 
+                    "score": 0.14199994504451752, 
+                    "spot": "oil"
+                }
+            ], 
+            "wiki_id": 4207510, 
+            "wiki_title": "Oil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 549, 
+                    "end": 565, 
+                    "score": 0.5, 
+                    "spot": "Joseph Hazelwood"
+                }
+            ], 
+            "wiki_id": 1602698, 
+            "wiki_title": "Joseph Hazelwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1186, 
+                    "end": 1192, 
+                    "score": 0.07862752676010132, 
+                    "spot": "stable"
+                }
+            ], 
+            "wiki_id": 40588530, 
+            "wiki_title": "Stable isotope ratio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1796, 
+                    "end": 1805, 
+                    "score": 0.24274110794067383, 
+                    "spot": "liability"
+                }
+            ], 
+            "wiki_id": 1210255, 
+            "wiki_title": "Legal liability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 240, 
+                    "end": 247, 
+                    "score": 0.06661072373390198, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 1047, 
+                    "end": 1054, 
+                    "score": 0.06291410326957703, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 1335, 
+                    "end": 1342, 
+                    "score": 0.05013807490468025, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3011, 
+                    "end": 3018, 
+                    "score": 0.06934378296136856, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 956, 
+                    "end": 961, 
+                    "score": 0.060302190482616425, 
+                    "spot": "teams"
+                }
+            ], 
+            "wiki_id": 14708158, 
+            "wiki_title": "TEAMS (cable system)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 600, 
+                    "end": 605, 
+                    "score": 0.04061390459537506, 
+                    "spot": "drunk"
+                }
+            ], 
+            "wiki_id": 8011, 
+            "wiki_title": "Alcohol intoxication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 770, 
+                    "end": 775, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 20405, 
+            "wiki_title": "Miles Davis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2890, 
+                    "end": 2900, 
+                    "score": 0.19287556409835815, 
+                    "spot": "subsidiary"
+                }
+            ], 
+            "wiki_id": 567852, 
+            "wiki_title": "Subsidiary"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 599, 
+                    "score": 0.07671092450618744, 
+                    "spot": "legally"
+                }, 
+                {
+                    "begin": 1806, 
+                    "end": 1810, 
+                    "score": 0.22487327456474304, 
+                    "spot": "laws"
+                }
+            ], 
+            "wiki_id": 18949668, 
+            "wiki_title": "Law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1727, 
+                    "end": 1733, 
+                    "score": 0.0011064100544899702, 
+                    "spot": "passes"
+                }
+            ], 
+            "wiki_id": 7705854, 
+            "wiki_title": "Passing (racial identity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2751, 
+                    "end": 2757, 
+                    "score": 0.004283920396119356, 
+                    "spot": "orders"
+                }
+            ], 
+            "wiki_id": 153237, 
+            "wiki_title": "Court order"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1253, 
+                    "end": 1260, 
+                    "score": 0.15171106159687042, 
+                    "spot": "workers"
+                }
+            ], 
+            "wiki_id": 1024754, 
+            "wiki_title": "Laborer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2304, 
+                    "end": 2310, 
+                    "score": 0.055194661021232605, 
+                    "spot": "issues"
+                }
+            ], 
+            "wiki_id": 18940, 
+            "wiki_title": "Meat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 456, 
+                    "end": 460, 
+                    "score": 0.14084887504577637, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2573, 
+                    "end": 2578, 
+                    "score": 0.009173903614282608, 
+                    "spot": "trial"
+                }
+            ], 
+            "wiki_id": 44746714, 
+            "wiki_title": "On Trial (1939 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 358, 
+                    "end": 366, 
+                    "score": 0.5, 
+                    "spot": "Riki Ott"
+                }
+            ], 
+            "wiki_id": 37905890, 
+            "wiki_title": "Riki Ott"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 286, 
+                    "end": 306, 
+                    "score": 0.5, 
+                    "spot": "Prince William Sound"
+                }
+            ], 
+            "wiki_id": 197927, 
+            "wiki_title": "Prince William Sound"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2799, 
+                    "end": 2805, 
+                    "score": 0.0022700778208673, 
+                    "spot": "submit"
+                }
+            ], 
+            "wiki_id": 24864, 
+            "wiki_title": "Professional wrestling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2994, 
+                    "end": 2999, 
+                    "score": 0.15892714262008667, 
+                    "spot": "fined"
+                }
+            ], 
+            "wiki_id": 146699, 
+            "wiki_title": "Fine (penalty)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2240, 
+                    "end": 2244, 
+                    "score": 0.04803617298603058, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 248, 
+                    "end": 255, 
+                    "score": 0.20824484527111053, 
+                    "spot": "gallons"
+                }
+            ], 
+            "wiki_id": 12882, 
+            "wiki_title": "Gallon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1392, 
+                    "end": 1396, 
+                    "score": 0.002079372527077794, 
+                    "spot": "warn"
+                }
+            ], 
+            "wiki_id": 13399362, 
+            "wiki_title": "Sarah Warn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1376, 
+                    "end": 1381, 
+                    "score": 0.03151986747980118, 
+                    "spot": "State"
+                }
+            ], 
+            "wiki_id": 303, 
+            "wiki_title": "Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2197, 
+                    "end": 2205, 
+                    "score": 0.1572551131248474, 
+                    "spot": "seabirds"
+                }
+            ], 
+            "wiki_id": 147019, 
+            "wiki_title": "Seabird"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1918, 
+                    "end": 1921, 
+                    "score": 0.01742558367550373, 
+                    "spot": "Dec"
+                }
+            ], 
+            "wiki_id": 1340864, 
+            "wiki_title": "Disasters Emergency Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 171, 
+                    "end": 181, 
+                    "score": 0.5, 
+                    "spot": "Bligh\nReef"
+                }
+            ], 
+            "wiki_id": 197930, 
+            "wiki_title": "Bligh Reef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1489, 
+                    "end": 1499, 
+                    "score": 0.11534110456705093, 
+                    "spot": "Federation"
+                }, 
+                {
+                    "begin": 1820, 
+                    "end": 1838, 
+                    "score": 0.24215444922447205, 
+                    "spot": "federal government"
+                }
+            ], 
+            "wiki_id": 156371, 
+            "wiki_title": "Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 862, 
+                    "end": 869, 
+                    "score": 0.0006223831442184746, 
+                    "spot": "June 19"
+                }
+            ], 
+            "wiki_id": 2053910, 
+            "wiki_title": "June 19 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1471, 
+                    "end": 1499, 
+                    "score": 0.4617021381855011, 
+                    "spot": "National Wildlife Federation"
+                }
+            ], 
+            "wiki_id": 1394536, 
+            "wiki_title": "National Wildlife Federation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 671, 
+                    "end": 683, 
+                    "score": 0.12820513546466827, 
+                    "spot": "Manuel Lujan"
+                }
+            ], 
+            "wiki_id": 755932, 
+            "wiki_title": "Manuel Lujan, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2095, 
+                    "end": 2098, 
+                    "score": 0.13938148319721222, 
+                    "spot": "Dec"
+                }
+            ], 
+            "wiki_id": 7952, 
+            "wiki_title": "Digital Equipment Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2570, 
+                    "end": 2578, 
+                    "score": 0.0028755785897374153, 
+                    "spot": "on trial"
+                }
+            ], 
+            "wiki_id": 26010044, 
+            "wiki_title": "Court show"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2429, 
+                    "end": 2440, 
+                    "score": 0.3020038604736328, 
+                    "spot": "Coast Guard"
+                }, 
+                {
+                    "begin": 2739, 
+                    "end": 2750, 
+                    "score": 0.07807841897010803, 
+                    "spot": "Coast Guard"
+                }
+            ], 
+            "wiki_id": 32223, 
+            "wiki_title": "United States Coast Guard"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 14, 
+                    "end": 24, 
+                    "score": 0.11678075045347214, 
+                    "spot": "chronology"
+                }
+            ], 
+            "wiki_id": 55931, 
+            "wiki_title": "Chronology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2497, 
+                    "end": 2505, 
+                    "score": 0.03535152226686478, 
+                    "spot": "reckless"
+                }
+            ], 
+            "wiki_id": 2325284, 
+            "wiki_title": "Reckless (Bryan Adams album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1036, 
+                    "end": 1040, 
+                    "score": 0.06369476020336151, 
+                    "spot": "cost"
+                }, 
+                {
+                    "begin": 1996, 
+                    "end": 2000, 
+                    "score": 0.13947297632694244, 
+                    "spot": "cost"
+                }
+            ], 
+            "wiki_id": 166789, 
+            "wiki_title": "Cost"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 328, 
+                    "end": 337, 
+                    "score": 0.134756937623024, 
+                    "spot": "fishermen"
+                }
+            ], 
+            "wiki_id": 36581, 
+            "wiki_title": "Fishing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1141, 
+                    "end": 1150, 
+                    "score": 0.0019157087663188577, 
+                    "spot": "100 miles"
+                }
+            ], 
+            "wiki_id": 24765669, 
+            "wiki_title": "100 Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2521, 
+                    "score": 0.08009877800941467, 
+                    "spot": "profits"
+                }
+            ], 
+            "wiki_id": 19417927, 
+            "wiki_title": "Profit (accounting)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 871, 
+                    "end": 876, 
+                    "score": 0.37830549478530884, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1069, 
+                    "end": 1074, 
+                    "score": 0.19335713982582092, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1505, 
+                    "end": 1510, 
+                    "score": 0.3312920928001404, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1559, 
+                    "end": 1564, 
+                    "score": 0.17300233244895935, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1652, 
+                    "end": 1657, 
+                    "score": 0.24270769953727722, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 1976, 
+                    "end": 1981, 
+                    "score": 0.38230061531066895, 
+                    "spot": "Exxon"
+                }, 
+                {
+                    "begin": 2867, 
+                    "end": 2872, 
+                    "score": 0.3642786145210266, 
+                    "spot": "Exxon"
+                }
+            ], 
+            "wiki_id": 18848197, 
+            "wiki_title": "ExxonMobil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 160, 
+                    "end": 167, 
+                    "score": 0.0026091081090271473, 
+                    "spot": "aground"
+                }
+            ], 
+            "wiki_id": 14396096, 
+            "wiki_title": "Ship grounding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1059, 
+                    "end": 1067, 
+                    "score": 0.00561797758564353, 
+                    "spot": "Sept. 15"
+                }, 
+                {
+                    "begin": 1367, 
+                    "end": 1374, 
+                    "score": 0.011811023578047752, 
+                    "spot": "Oct. 10"
+                }, 
+                {
+                    "begin": 1458, 
+                    "end": 1465, 
+                    "score": 0.009615384973585606, 
+                    "spot": "Oct. 27"
+                }, 
+                {
+                    "begin": 1685, 
+                    "end": 1691, 
+                    "score": 0.00917431153357029, 
+                    "spot": "Nov. 8"
+                }, 
+                {
+                    "begin": 1918, 
+                    "end": 1924, 
+                    "score": 0.008928571827709675, 
+                    "spot": "Dec. 4"
+                }, 
+                {
+                    "begin": 2095, 
+                    "end": 2102, 
+                    "score": 0.004416961222887039, 
+                    "spot": "Dec. 31"
+                }, 
+                {
+                    "begin": 2546, 
+                    "end": 2553, 
+                    "score": 0.012820512987673283, 
+                    "spot": "Jan. 22"
+                }, 
+                {
+                    "begin": 2726, 
+                    "end": 2733, 
+                    "score": 0.009302325546741486, 
+                    "spot": "Feb. 20"
+                }
+            ], 
+            "wiki_id": 11025, 
+            "wiki_title": null
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2461, 
+                    "end": 2473, 
+                    "score": 0.06862667202949524, 
+                    "spot": "relationship"
+                }
+            ], 
+            "wiki_id": 161744, 
+            "wiki_title": "Interpersonal relationship"
+        }
+    ]
+}

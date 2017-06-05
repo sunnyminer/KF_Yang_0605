@@ -1,0 +1,2344 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 1641, 
+                    "end": 1648, 
+                    "score": 0.12619762122631073, 
+                    "spot": "effects"
+                }
+            ], 
+            "wiki_id": 53017, 
+            "wiki_title": "Special effect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2065, 
+                    "end": 2072, 
+                    "score": 0.005854177754372358, 
+                    "spot": "sharper"
+                }
+            ], 
+            "wiki_id": 891127, 
+            "wiki_title": "Sharper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2302, 
+                    "end": 2305, 
+                    "score": 0.004285448230803013, 
+                    "spot": "opt"
+                }
+            ], 
+            "wiki_id": 33967044, 
+            "wiki_title": "Opt-in"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 623, 
+                    "end": 636, 
+                    "score": 0.03898051008582115, 
+                    "spot": "still waiting"
+                }
+            ], 
+            "wiki_id": 21595912, 
+            "wiki_title": "Still Waiting..."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1365, 
+                    "end": 1374, 
+                    "score": 0.09415028244256973, 
+                    "spot": "movements"
+                }
+            ], 
+            "wiki_id": 949496, 
+            "wiki_title": "Movement (clockwork)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 182, 
+                    "end": 195, 
+                    "score": 0.4220442771911621, 
+                    "spot": "San Francisco"
+                }, 
+                {
+                    "begin": 408, 
+                    "end": 421, 
+                    "score": 0.16219283640384674, 
+                    "spot": "San Francisco"
+                }, 
+                {
+                    "begin": 2783, 
+                    "end": 2796, 
+                    "score": 0.16219283640384674, 
+                    "spot": "San Francisco"
+                }, 
+                {
+                    "begin": 3059, 
+                    "end": 3072, 
+                    "score": 0.18677981197834015, 
+                    "spot": "San Francisco"
+                }
+            ], 
+            "wiki_id": 49728, 
+            "wiki_title": "San Francisco"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2201, 
+                    "end": 2209, 
+                    "score": 0.025102388113737106, 
+                    "spot": "promoted"
+                }
+            ], 
+            "wiki_id": 188886, 
+            "wiki_title": "Doctorate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 292, 
+                    "end": 309, 
+                    "score": 0.0901639312505722, 
+                    "spot": "building engineer"
+                }
+            ], 
+            "wiki_id": 19278728, 
+            "wiki_title": "Architectural engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1397, 
+                    "end": 1404, 
+                    "score": 0.12659215927124023, 
+                    "spot": "sharing"
+                }
+            ], 
+            "wiki_id": 18949797, 
+            "wiki_title": "File sharing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1631, 
+                    "end": 1636, 
+                    "score": 0.10598073899745941, 
+                    "spot": "study"
+                }
+            ], 
+            "wiki_id": 2245783, 
+            "wiki_title": "Medical research"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 230, 
+                    "end": 239, 
+                    "score": 0.14602220058441162, 
+                    "spot": "magnitude"
+                }
+            ], 
+            "wiki_id": 577301, 
+            "wiki_title": "Magnitude (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3110, 
+                    "end": 3115, 
+                    "score": 0.14525002241134644, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2433, 
+                    "end": 2439, 
+                    "score": 0.0013145838165655732, 
+                    "spot": "little"
+                }
+            ], 
+            "wiki_id": 6080741, 
+            "wiki_title": "Edgar Sydney Little"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2597, 
+                    "end": 2610, 
+                    "score": 0.018450183793902397, 
+                    "spot": "journal entry"
+                }
+            ], 
+            "wiki_id": 5128289, 
+            "wiki_title": "Journal entry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 802, 
+                    "end": 809, 
+                    "score": 0.19122494757175446, 
+                    "spot": "massive"
+                }
+            ], 
+            "wiki_id": 172987, 
+            "wiki_title": "Solar mass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2275, 
+                    "end": 2280, 
+                    "score": 0.04854867234826088, 
+                    "spot": "swing"
+                }
+            ], 
+            "wiki_id": 1138550, 
+            "wiki_title": "Swing (politics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 310, 
+                    "end": 315, 
+                    "score": 0.11149004101753235, 
+                    "spot": "Elias"
+                }
+            ], 
+            "wiki_id": 365941, 
+            "wiki_title": "Sian Elias"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1812, 
+                    "end": 1817, 
+                    "score": 0.1237732470035553, 
+                    "spot": "1930s"
+                }
+            ], 
+            "wiki_id": 34613, 
+            "wiki_title": "1930s"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2904, 
+                    "end": 2910, 
+                    "score": 0.0007498660706914961, 
+                    "spot": "May 21"
+                }
+            ], 
+            "wiki_id": 1769523, 
+            "wiki_title": "May 21 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 255, 
+                    "end": 260, 
+                    "score": 0.10650364309549332, 
+                    "spot": "world"
+                }
+            ], 
+            "wiki_id": 38714, 
+            "wiki_title": "World"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 108, 
+                    "score": 0.18639883399009705, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 196, 
+                    "end": 206, 
+                    "score": 0.2568402588367462, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 464, 
+                    "end": 474, 
+                    "score": 0.1656295657157898, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 664, 
+                    "end": 674, 
+                    "score": 0.4113348424434662, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 1095, 
+                    "end": 1105, 
+                    "score": 0.3778251111507416, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 1525, 
+                    "end": 1536, 
+                    "score": 0.17367425560951233, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 1656, 
+                    "end": 1666, 
+                    "score": 0.2637726962566376, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 1753, 
+                    "end": 1763, 
+                    "score": 0.3235328197479248, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 1954, 
+                    "end": 1965, 
+                    "score": 0.14999698102474213, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 2042, 
+                    "end": 2053, 
+                    "score": 0.14306585490703583, 
+                    "spot": "earthquakes"
+                }, 
+                {
+                    "begin": 2698, 
+                    "end": 2708, 
+                    "score": 0.08324703574180603, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 2921, 
+                    "end": 2931, 
+                    "score": 0.1530032902956009, 
+                    "spot": "earthquake"
+                }
+            ], 
+            "wiki_id": 10106, 
+            "wiki_title": "Earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1508, 
+                    "end": 1517, 
+                    "score": 0.11745075136423111, 
+                    "spot": "buildings"
+                }, 
+                {
+                    "begin": 1670, 
+                    "end": 1679, 
+                    "score": 0.11524983495473862, 
+                    "spot": "buildings"
+                }, 
+                {
+                    "begin": 2341, 
+                    "end": 2350, 
+                    "score": 0.18835902214050293, 
+                    "spot": "buildings"
+                }
+            ], 
+            "wiki_id": 45995, 
+            "wiki_title": "Building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 687, 
+                    "score": 0.3963446021080017, 
+                    "spot": "magnitude"
+                }
+            ], 
+            "wiki_id": 631494, 
+            "wiki_title": "Moment magnitude scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 871, 
+                    "end": 877, 
+                    "score": 0.3766706585884094, 
+                    "spot": "Alaska"
+                }
+            ], 
+            "wiki_id": 624, 
+            "wiki_title": "Alaska"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1343, 
+                    "end": 1347, 
+                    "score": 0.17781318724155426, 
+                    "spot": "long"
+                }
+            ], 
+            "wiki_id": 17617, 
+            "wiki_title": "Longitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1348, 
+                    "end": 1364, 
+                    "score": 0.17219917476177216, 
+                    "spot": "history of earth"
+                }
+            ], 
+            "wiki_id": 2068726, 
+            "wiki_title": "History of Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3408, 
+                    "end": 3415, 
+                    "score": 0.4301915168762207, 
+                    "spot": "tsunami"
+                }, 
+                {
+                    "begin": 3419, 
+                    "end": 3429, 
+                    "score": 0.574999988079071, 
+                    "spot": "tidal wave"
+                }
+            ], 
+            "wiki_id": 31161, 
+            "wiki_title": "Tsunami"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1145, 
+                    "end": 1165, 
+                    "score": 0.5, 
+                    "spot": "South American plate"
+                }
+            ], 
+            "wiki_id": 494322, 
+            "wiki_title": "South American Plate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 211, 
+                    "end": 216, 
+                    "score": 0.22556309401988983, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 586, 
+                    "end": 591, 
+                    "score": 0.05513105168938637, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 845, 
+                    "end": 850, 
+                    "score": 0.0800681859254837, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1037, 
+                    "end": 1042, 
+                    "score": 0.09274305403232574, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1332, 
+                    "end": 1337, 
+                    "score": 0.0816202163696289, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1541, 
+                    "end": 1546, 
+                    "score": 0.07524874806404114, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1684, 
+                    "end": 1689, 
+                    "score": 0.05895586684346199, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1740, 
+                    "end": 1745, 
+                    "score": 0.16382268071174622, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1930, 
+                    "end": 1935, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2027, 
+                    "end": 2032, 
+                    "score": 0.07194167375564575, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2162, 
+                    "end": 2167, 
+                    "score": 0.10358835756778717, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2406, 
+                    "end": 2411, 
+                    "score": 0.1297924816608429, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2493, 
+                    "end": 2498, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2579, 
+                    "end": 2584, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3294, 
+                    "end": 3299, 
+                    "score": 0.10135060548782349, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1388, 
+                    "end": 1391, 
+                    "score": 0.11564356833696365, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2637, 
+                    "end": 2643, 
+                    "score": 0.21208809316158295, 
+                    "spot": "Beagle"
+                }
+            ], 
+            "wiki_id": 13942, 
+            "wiki_title": "HMS Beagle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2670, 
+                    "end": 2684, 
+                    "score": 0.7137210965156555, 
+                    "spot": "Charles Darwin"
+                }
+            ], 
+            "wiki_id": 8145410, 
+            "wiki_title": "Charles Darwin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 650, 
+                    "end": 657, 
+                    "score": 0.4317064583301544, 
+                    "spot": "big one"
+                }
+            ], 
+            "wiki_id": 64460, 
+            "wiki_title": "San Andreas Fault"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2516, 
+                    "end": 2527, 
+                    "score": 0.15005174279212952, 
+                    "spot": "earthquakes"
+                }
+            ], 
+            "wiki_id": 241873, 
+            "wiki_title": "San Jose Earthquakes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1066, 
+                    "end": 1071, 
+                    "score": 0.1026807501912117, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 122, 
+                    "score": 0.10437721759080887, 
+                    "spot": "measured"
+                }, 
+                {
+                    "begin": 218, 
+                    "end": 226, 
+                    "score": 0.1461992859840393, 
+                    "spot": "Measured"
+                }, 
+                {
+                    "begin": 428, 
+                    "end": 437, 
+                    "score": 0.04766758903861046, 
+                    "spot": "measuring"
+                }, 
+                {
+                    "begin": 2807, 
+                    "end": 2816, 
+                    "score": 0.001163418754003942, 
+                    "spot": "measuring"
+                }, 
+                {
+                    "begin": 2932, 
+                    "end": 2941, 
+                    "score": 0.04766758903861046, 
+                    "spot": "measuring"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1236, 
+                    "end": 1245, 
+                    "score": 0.14722034335136414, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 967, 
+                    "end": 975, 
+                    "score": 0.10729795694351196, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1764, 
+                    "end": 1778, 
+                    "score": 0.27071613073349, 
+                    "spot": "building codes"
+                }
+            ], 
+            "wiki_id": 537481, 
+            "wiki_title": "Building code"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2186, 
+                    "end": 2195, 
+                    "score": 0.09098464995622635, 
+                    "spot": "engineers"
+                }
+            ], 
+            "wiki_id": 21189305, 
+            "wiki_title": "Audio engineer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1829, 
+                    "end": 1839, 
+                    "score": 0.20484234392642975, 
+                    "spot": "engineered"
+                }
+            ], 
+            "wiki_id": 12383, 
+            "wiki_title": "Genetic engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1378, 
+                    "end": 1383, 
+                    "score": 0.3987159729003906, 
+                    "spot": "Chile"
+                }
+            ], 
+            "wiki_id": 697710, 
+            "wiki_title": "Chile national football team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3496, 
+                    "end": 3502, 
+                    "score": 0.05150575563311577, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 8587640, 
+            "wiki_title": "Health (gaming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 128, 
+                    "end": 135, 
+                    "score": 0.0028099920600652695, 
+                    "spot": "waiting"
+                }
+            ], 
+            "wiki_id": 2377503, 
+            "wiki_title": "Waiting... (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 149, 
+                    "end": 157, 
+                    "score": 0.001956706866621971, 
+                    "spot": "interest"
+                }
+            ], 
+            "wiki_id": 146738, 
+            "wiki_title": "Interest"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3165, 
+                    "end": 3173, 
+                    "score": 0.18149301409721375, 
+                    "spot": "Santiago"
+                }
+            ], 
+            "wiki_id": 235003, 
+            "wiki_title": "Santiago de Cuba"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3093, 
+                    "end": 3098, 
+                    "score": 0.07136224210262299, 
+                    "spot": "coast"
+                }
+            ], 
+            "wiki_id": 174579, 
+            "wiki_title": "West Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 54, 
+                    "end": 65, 
+                    "score": 0.03959660977125168, 
+                    "spot": "distinction"
+                }
+            ], 
+            "wiki_id": 8128, 
+            "wiki_title": "Dialect"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3175, 
+                    "end": 3182, 
+                    "score": 0.05003652721643448, 
+                    "spot": "dropped"
+                }
+            ], 
+            "wiki_id": 11778948, 
+            "wiki_title": "Atomic bombings of Hiroshima and Nagasaki"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1696, 
+                    "end": 1705, 
+                    "score": 0.18821200728416443, 
+                    "spot": "buildings"
+                }, 
+                {
+                    "begin": 1840, 
+                    "end": 1849, 
+                    "score": 0.20565947890281677, 
+                    "spot": "buildings"
+                }, 
+                {
+                    "begin": 2418, 
+                    "end": 2427, 
+                    "score": 0.12408122420310974, 
+                    "spot": "buildings"
+                }
+            ], 
+            "wiki_id": 1344439, 
+            "wiki_title": "Green building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1259, 
+                    "end": 1262, 
+                    "score": 0.11656408756971359, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1013, 
+                    "end": 1032, 
+                    "score": 0.47878947854042053, 
+                    "spot": "University of Chile"
+                }
+            ], 
+            "wiki_id": 545250, 
+            "wiki_title": "University of Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1426, 
+                    "end": 1429, 
+                    "score": 0.09352659434080124, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1997, 
+                    "end": 2009, 
+                    "score": 0.05048219487071037, 
+                    "spot": "construction"
+                }, 
+                {
+                    "begin": 2319, 
+                    "end": 2331, 
+                    "score": 0.1167430579662323, 
+                    "spot": "construction"
+                }
+            ], 
+            "wiki_id": 239038, 
+            "wiki_title": "Construction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 388, 
+                    "end": 392, 
+                    "score": 0.053481098264455795, 
+                    "spot": "Assn"
+                }
+            ], 
+            "wiki_id": 28831284, 
+            "wiki_title": "Voluntary association"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1938, 
+                    "end": 1940, 
+                    "score": 0.011565027758479118, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1292, 
+                    "end": 1303, 
+                    "score": 0.041313860565423965, 
+                    "spot": "traditional"
+                }
+            ], 
+            "wiki_id": 30067, 
+            "wiki_title": "Tradition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1855, 
+                    "end": 1864, 
+                    "score": 0.19713188707828522, 
+                    "spot": "collapsed"
+                }
+            ], 
+            "wiki_id": 36337411, 
+            "wiki_title": "Structural integrity and failure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 953, 
+                    "end": 958, 
+                    "score": 0.06665026396512985, 
+                    "spot": "Edgar"
+                }
+            ], 
+            "wiki_id": 18399326, 
+            "wiki_title": "George Edgar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3012, 
+                    "end": 3018, 
+                    "score": 0.07567230612039566, 
+                    "spot": "energy"
+                }
+            ], 
+            "wiki_id": 9058630, 
+            "wiki_title": "World energy consumption"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1171, 
+                    "end": 1180, 
+                    "score": 0.0762927383184433, 
+                    "spot": "frequency"
+                }
+            ], 
+            "wiki_id": 42852, 
+            "wiki_title": "Radio frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 947, 
+                    "end": 951, 
+                    "score": 0.15442736446857452, 
+                    "spot": "Prof"
+                }
+            ], 
+            "wiki_id": 20646803, 
+            "wiki_title": "Professor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2467, 
+                    "end": 2476, 
+                    "score": 0.034761060029268265, 
+                    "spot": "Americans"
+                }
+            ], 
+            "wiki_id": 3434750, 
+            "wiki_title": "United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1478, 
+                    "end": 1486, 
+                    "score": 0.1663227379322052, 
+                    "spot": "behavior"
+                }
+            ], 
+            "wiki_id": 4805, 
+            "wiki_title": "Behavior"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2971, 
+                    "end": 2982, 
+                    "score": 0.0037485582288354635, 
+                    "spot": "miles \nlong"
+                }
+            ], 
+            "wiki_id": 26088970, 
+            "wiki_title": "Miles Long"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3188, 
+                    "end": 3192, 
+                    "score": 0.12989690899848938, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2231, 
+                    "end": 2254, 
+                    "score": 0.23198245465755463, 
+                    "spot": "steel framed \nbuildings"
+                }
+            ], 
+            "wiki_id": 2276409, 
+            "wiki_title": "Steel frame"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1263, 
+                    "end": 1279, 
+                    "score": 0.16428442299365997, 
+                    "spot": "major earthquake"
+                }
+            ], 
+            "wiki_id": 19467352, 
+            "wiki_title": "Richter magnitude scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3313, 
+                    "end": 3319, 
+                    "score": 0.11964228749275208, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2821, 
+                    "end": 2827, 
+                    "score": 0.08444254100322723, 
+                    "spot": "struck"
+                }, 
+                {
+                    "begin": 2946, 
+                    "end": 2952, 
+                    "score": 0.050267577171325684, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 5016402, 
+            "wiki_title": "Landfall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3397, 
+                    "end": 3407, 
+                    "score": 0.000985221704468131, 
+                    "spot": "dropped. A"
+                }
+            ], 
+            "wiki_id": 12556575, 
+            "wiki_title": "Dropped A tuning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 789, 
+                    "end": 798, 
+                    "score": 0.2318679839372635, 
+                    "spot": "collision"
+                }
+            ], 
+            "wiki_id": 2076436, 
+            "wiki_title": "Continental collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 15, 
+                    "score": 0.1437063366174698, 
+                    "spot": "Scientists"
+                }, 
+                {
+                    "begin": 2660, 
+                    "end": 2669, 
+                    "score": 0.1596490889787674, 
+                    "spot": "scientist"
+                }
+            ], 
+            "wiki_id": 26997, 
+            "wiki_title": "Scientist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2221, 
+                    "end": 2227, 
+                    "score": 0.12723322212696075, 
+                    "spot": "design"
+                }
+            ], 
+            "wiki_id": 8560, 
+            "wiki_title": "Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 543, 
+                    "end": 549, 
+                    "score": 0.07916267216205597, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3183, 
+                    "end": 3187, 
+                    "score": 0.0561031773686409, 
+                    "spot": "nine"
+                }
+            ], 
+            "wiki_id": 173457, 
+            "wiki_title": "9 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1313, 
+                    "end": 1317, 
+                    "score": 0.039013005793094635, 
+                    "spot": "term"
+                }
+            ], 
+            "wiki_id": 1771587, 
+            "wiki_title": "Pregnancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1435, 
+                    "end": 1443, 
+                    "score": 0.1846044361591339, 
+                    "spot": "Japanese"
+                }
+            ], 
+            "wiki_id": 15573, 
+            "wiki_title": "Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2840, 
+                    "end": 2853, 
+                    "score": 0.3019103407859802, 
+                    "spot": "Chilean coast"
+                }
+            ], 
+            "wiki_id": 67318, 
+            "wiki_title": "Geography of Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 538, 
+                    "score": 0.11088724434375763, 
+                    "spot": "killing"
+                }, 
+                {
+                    "begin": 3325, 
+                    "end": 3331, 
+                    "score": 0.1029864028096199, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 3458, 
+                    "end": 3464, 
+                    "score": 0.06020834669470787, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2866, 
+                    "end": 2874, 
+                    "score": 0.3125, 
+                    "spot": "the city"
+                }, 
+                {
+                    "begin": 3121, 
+                    "end": 3129, 
+                    "score": 0.3538009524345398, 
+                    "spot": "the city"
+                }
+            ], 
+            "wiki_id": 149109, 
+            "wiki_title": "Carole King"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 481, 
+                    "end": 487, 
+                    "score": 0.056568022817373276, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 155134, 
+            "wiki_title": "Strike action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 77, 
+                    "end": 81, 
+                    "score": 0.06368851661682129, 
+                    "spot": "host"
+                }
+            ], 
+            "wiki_id": 4534553, 
+            "wiki_title": "Host (network)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1279, 
+                    "score": 0.19102981686592102, 
+                    "spot": "earthquake"
+                }, 
+                {
+                    "begin": 3445, 
+                    "end": 3455, 
+                    "score": 0.27007168531417847, 
+                    "spot": "earthquake"
+                }
+            ], 
+            "wiki_id": 25804468, 
+            "wiki_title": "2010 Haiti earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2685, 
+                    "end": 2694, 
+                    "score": 0.04147723317146301, 
+                    "spot": "described"
+                }
+            ], 
+            "wiki_id": 24405429, 
+            "wiki_title": "Species description"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2333, 
+                    "end": 2340, 
+                    "score": 0.07370401918888092, 
+                    "spot": "Chilean"
+                }
+            ], 
+            "wiki_id": 333496, 
+            "wiki_title": "Music of Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2956, 
+                    "end": 2960, 
+                    "score": 0.06300520896911621, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 3358, 
+                    "end": 3362, 
+                    "score": 0.13375554978847504, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 1209, 
+            "wiki_title": "Area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1201, 
+                    "end": 1208, 
+                    "score": 0.0013866877416148782, 
+                    "spot": "prompts"
+                }
+            ], 
+            "wiki_id": 28338635, 
+            "wiki_title": "Command-line interface"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1079, 
+                    "end": 1084, 
+                    "score": 0.19986358284950256, 
+                    "spot": "coast"
+                }, 
+                {
+                    "begin": 3387, 
+                    "end": 3396, 
+                    "score": 0.06367971748113632, 
+                    "spot": "coastline"
+                }
+            ], 
+            "wiki_id": 5236, 
+            "wiki_title": "Coast"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 602, 
+                    "end": 612, 
+                    "score": 0.2225487232208252, 
+                    "spot": "California"
+                }, 
+                {
+                    "begin": 2175, 
+                    "end": 2185, 
+                    "score": 0.21797840297222137, 
+                    "spot": "California"
+                }
+            ], 
+            "wiki_id": 5407, 
+            "wiki_title": "California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 347, 
+                    "end": 357, 
+                    "score": 0.4414058029651642, 
+                    "spot": "Seismology"
+                }, 
+                {
+                    "begin": 919, 
+                    "end": 926, 
+                    "score": 0.13284188508987427, 
+                    "spot": "seismic"
+                }, 
+                {
+                    "begin": 3253, 
+                    "end": 3260, 
+                    "score": 0.17031316459178925, 
+                    "spot": "seismic"
+                }
+            ], 
+            "wiki_id": 28935, 
+            "wiki_title": "Seismology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 33, 
+                    "end": 38, 
+                    "score": 0.407850980758667, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 242, 
+                    "end": 247, 
+                    "score": 0.4422089755535126, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 339, 
+                    "end": 346, 
+                    "score": 0.13628768920898438, 
+                    "spot": "Chilean"
+                }, 
+                {
+                    "begin": 509, 
+                    "end": 514, 
+                    "score": 0.4420655369758606, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 614, 
+                    "end": 619, 
+                    "score": 0.4119495153427124, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 853, 
+                    "end": 858, 
+                    "score": 0.4874650239944458, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 1027, 
+                    "end": 1032, 
+                    "score": 0.5540447235107422, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 1044, 
+                    "end": 1049, 
+                    "score": 0.45788055658340454, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 1621, 
+                    "end": 1626, 
+                    "score": 0.3880154490470886, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 1799, 
+                    "end": 1804, 
+                    "score": 0.4392852783203125, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 1969, 
+                    "end": 1974, 
+                    "score": 0.4581844210624695, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 2034, 
+                    "end": 2041, 
+                    "score": 0.13654112815856934, 
+                    "spot": "Chilean"
+                }, 
+                {
+                    "begin": 2531, 
+                    "end": 2536, 
+                    "score": 0.47060254216194153, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 2652, 
+                    "end": 2657, 
+                    "score": 0.46428245306015015, 
+                    "spot": "Chile"
+                }, 
+                {
+                    "begin": 2995, 
+                    "end": 3000, 
+                    "score": 0.46937114000320435, 
+                    "spot": "Chile"
+                }
+            ], 
+            "wiki_id": 5489, 
+            "wiki_title": "Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1190, 
+                    "end": 1199, 
+                    "score": 0.04617832601070404, 
+                    "spot": "movements"
+                }
+            ], 
+            "wiki_id": 234984, 
+            "wiki_title": "Social movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 422, 
+                    "end": 427, 
+                    "score": 0.2202024757862091, 
+                    "spot": "quake"
+                }
+            ], 
+            "wiki_id": 7900613, 
+            "wiki_title": "Quake (natural phenomenon)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2231, 
+                    "end": 2236, 
+                    "score": 0.23871538043022156, 
+                    "spot": "steel"
+                }
+            ], 
+            "wiki_id": 27058, 
+            "wiki_title": "Steel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2967, 
+                    "end": 2976, 
+                    "score": 0.023166023194789886, 
+                    "spot": "600 miles"
+                }
+            ], 
+            "wiki_id": 45087862, 
+            "wiki_title": "600 Miles"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3032, 
+                    "end": 3037, 
+                    "score": 0.027028575539588928, 
+                    "spot": "times"
+                }
+            ], 
+            "wiki_id": 39127, 
+            "wiki_title": "The Times"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1594, 
+                    "end": 1609, 
+                    "score": 0.0264388807117939, 
+                    "spot": "foreign experts"
+                }
+            ], 
+            "wiki_id": 705256, 
+            "wiki_title": "Foreign government advisors in Meiji Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3099, 
+                    "end": 3109, 
+                    "score": 0.00498575484380126, 
+                    "spot": "stretching"
+                }
+            ], 
+            "wiki_id": 19194778, 
+            "wiki_title": "Deformation (mechanics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2879, 
+                    "end": 2889, 
+                    "score": 0.42917877435684204, 
+                    "spot": "Valparaiso"
+                }
+            ], 
+            "wiki_id": 70566, 
+            "wiki_title": "Valpara\u00edso"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2358, 
+                    "end": 2377, 
+                    "score": 0.4089409112930298, 
+                    "spot": "reinforced concrete"
+                }
+            ], 
+            "wiki_id": 54232, 
+            "wiki_title": "Reinforced concrete"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2142, 
+                    "end": 2157, 
+                    "score": 0.041932541877031326, 
+                    "spot": "building design"
+                }
+            ], 
+            "wiki_id": 11944078, 
+            "wiki_title": "Efficient energy use"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2104, 
+                    "end": 2114, 
+                    "score": 0.1444135159254074, 
+                    "spot": "California"
+                }
+            ], 
+            "wiki_id": 7590031, 
+            "wiki_title": "California Golden Bears football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2537, 
+                    "end": 2541, 
+                    "score": 0.01983858272433281, 
+                    "spot": "date"
+                }
+            ], 
+            "wiki_id": 87598, 
+            "wiki_title": "Date palm"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3339, 
+                    "end": 3357, 
+                    "score": 0.09876008331775665, 
+                    "spot": "sparsely populated"
+                }
+            ], 
+            "wiki_id": 128608, 
+            "wiki_title": "Population density"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1990, 
+                    "end": 1992, 
+                    "score": 0.09899245202541351, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 190490, 
+            "wiki_title": "University of the Philippines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3156, 
+                    "end": 3161, 
+                    "score": 0.044806111603975296, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 26769, 
+            "wiki_title": "South America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 994, 
+                    "end": 1004, 
+                    "score": 0.19391247630119324, 
+                    "spot": "Department"
+                }
+            ], 
+            "wiki_id": 408044, 
+            "wiki_title": "Academic department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1125, 
+                    "end": 1136, 
+                    "score": 0.987615704536438, 
+                    "spot": "Nazca plate"
+                }
+            ], 
+            "wiki_id": 516352, 
+            "wiki_title": "Nazca Plate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1459, 
+                    "end": 1468, 
+                    "score": 0.16712801158428192, 
+                    "spot": "engineers"
+                }
+            ], 
+            "wiki_id": 100034, 
+            "wiki_title": "Military engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2396, 
+                    "end": 2401, 
+                    "score": 0.10870678722858429, 
+                    "spot": "walls"
+                }
+            ], 
+            "wiki_id": 425850, 
+            "wiki_title": "Thermodynamic system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 767, 
+                    "end": 773, 
+                    "score": 0.14105191826820374, 
+                    "spot": "faults"
+                }, 
+                {
+                    "begin": 1095, 
+                    "end": 1111, 
+                    "score": 0.43413248658180237, 
+                    "spot": "earthquake fault"
+                }
+            ], 
+            "wiki_id": 182787, 
+            "wiki_title": "Fault (geology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2388, 
+                    "end": 2394, 
+                    "score": 0.0015083524631336331, 
+                    "spot": "inside"
+                }
+            ], 
+            "wiki_id": 13293786, 
+            "wiki_title": "Inside forward"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1321, 
+                    "end": 1327, 
+                    "score": 0.043576259166002274, 
+                    "spot": "office"
+                }
+            ], 
+            "wiki_id": 382507, 
+            "wiki_title": "Office"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1209, 
+                    "end": 1217, 
+                    "score": 0.05749896168708801, 
+                    "spot": "Chileans"
+                }
+            ], 
+            "wiki_id": 67363, 
+            "wiki_title": "Demographics of Chile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 376, 
+                    "end": 387, 
+                    "score": 0.17655964195728302, 
+                    "spot": "Engineering"
+                }
+            ], 
+            "wiki_id": 9251, 
+            "wiki_title": "Engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 518, 
+                    "end": 523, 
+                    "score": 0.08489672839641571, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 6787314, 
+            "wiki_title": "Demonstration (protest)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 816, 
+                    "score": 0.2401362955570221, 
+                    "spot": "plates"
+                }, 
+                {
+                    "begin": 1160, 
+                    "end": 1165, 
+                    "score": 0.14828889071941376, 
+                    "spot": "plate"
+                }
+            ], 
+            "wiki_id": 24944, 
+            "wiki_title": "Plate tectonics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 276, 
+                    "end": 283, 
+                    "score": 0.07348482310771942, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3465, 
+                    "end": 3471, 
+                    "score": 0.0628853589296341, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 4297324, 
+            "wiki_title": "Religion in Pakistan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2619, 
+                    "end": 2623, 
+                    "score": 0.1051817238330841, 
+                    "spot": "stop"
+                }
+            ], 
+            "wiki_id": 240496, 
+            "wiki_title": "Bus stop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 20, 
+                    "end": 29, 
+                    "score": 0.12520191073417664, 
+                    "spot": "engineers"
+                }
+            ], 
+            "wiki_id": 38223, 
+            "wiki_title": "Engineer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1409, 
+                    "end": 1420, 
+                    "score": 0.06193888187408447, 
+                    "spot": "information"
+                }
+            ], 
+            "wiki_id": 18985062, 
+            "wiki_title": "Information"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2542, 
+                    "end": 2546, 
+                    "score": 0.046239692717790604, 
+                    "spot": "back"
+                }
+            ], 
+            "wiki_id": 649702, 
+            "wiki_title": "Defender (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1585, 
+                    "end": 1590, 
+                    "score": 0.0005876632640138268, 
+                    "spot": "teams"
+                }
+            ], 
+            "wiki_id": 320247, 
+            "wiki_title": "Special Forces (United States Army)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1221, 
+                    "end": 1224, 
+                    "score": 0.10500642657279968, 
+                    "spot": "say"
+                }
+            ], 
+            "wiki_id": 46789, 
+            "wiki_title": "Jean-Baptiste Say"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 733, 
+                    "end": 755, 
+                    "score": 0.5, 
+                    "spot": "Pacific \n\"ring of fire"
+                }
+            ], 
+            "wiki_id": 195468, 
+            "wiki_title": "Ring of Fire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3506, 
+                    "end": 3511, 
+                    "score": 0.34088125824928284, 
+                    "spot": "Japan"
+                }
+            ], 
+            "wiki_id": 183897, 
+            "wiki_title": "Empire of Japan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2077, 
+                    "end": 2081, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 11493337, 
+            "wiki_title": "The Last (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2428, 
+                    "end": 2432, 
+                    "score": 0.0027790775056928396, 
+                    "spot": "move"
+                }
+            ], 
+            "wiki_id": 201943, 
+            "wiki_title": "Bird migration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 268, 
+                    "end": 275, 
+                    "score": 0.17014257609844208, 
+                    "spot": "seismic"
+                }, 
+                {
+                    "begin": 363, 
+                    "end": 375, 
+                    "score": 0.35722172260284424, 
+                    "spot": "Anti-Seismic"
+                }
+            ], 
+            "wiki_id": 2111048, 
+            "wiki_title": "Earthquake engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2293, 
+                    "end": 2301, 
+                    "score": 0.033795494586229324, 
+                    "spot": "Chileans"
+                }, 
+                {
+                    "begin": 2840, 
+                    "end": 2847, 
+                    "score": 0.21143920719623566, 
+                    "spot": "Chilean"
+                }
+            ], 
+            "wiki_id": 9542325, 
+            "wiki_title": "Chileans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 182, 
+                    "end": 206, 
+                    "score": 0.3461577892303467, 
+                    "spot": "San Francisco earthquake"
+                }, 
+                {
+                    "begin": 2764, 
+                    "end": 2779, 
+                    "score": 0.35722166299819946, 
+                    "spot": "1906 earthquake"
+                }
+            ], 
+            "wiki_id": 20110714, 
+            "wiki_title": "1906 San Francisco earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3134, 
+                    "end": 3144, 
+                    "score": 0.11385224014520645, 
+                    "spot": "Concepcion"
+                }
+            ], 
+            "wiki_id": 2155059, 
+            "wiki_title": "Concepcion, Iloilo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 743, 
+                    "end": 755, 
+                    "score": 0.26811593770980835, 
+                    "spot": "ring of fire"
+                }
+            ], 
+            "wiki_id": 3375827, 
+            "wiki_title": "Ring of Fire (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 322, 
+                    "end": 331, 
+                    "score": 0.12051969766616821, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 24899, 
+            "wiki_title": "President of France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 983, 
+                    "end": 993, 
+                    "score": 0.3235120475292206, 
+                    "spot": "Geophysics"
+                }
+            ], 
+            "wiki_id": 54962, 
+            "wiki_title": "Geophysics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3242, 
+                    "end": 3249, 
+                    "score": 0.03552021458745003, 
+                    "spot": "history"
+                }
+            ], 
+            "wiki_id": 748853, 
+            "wiki_title": "History (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3224, 
+                    "end": 3234, 
+                    "score": 0.0056220898404717445, 
+                    "spot": "registered"
+                }
+            ], 
+            "wiki_id": 155555, 
+            "wiki_title": "Image registration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2286, 
+                    "end": 2291, 
+                    "score": 0.11729490011930466, 
+                    "spot": "quake"
+                }, 
+                {
+                    "begin": 2800, 
+                    "end": 2805, 
+                    "score": 0.15933704376220703, 
+                    "spot": "quake"
+                }, 
+                {
+                    "begin": 3073, 
+                    "end": 3078, 
+                    "score": 0.22719404101371765, 
+                    "spot": "quake"
+                }
+            ], 
+            "wiki_id": 25266, 
+            "wiki_title": "Quake (video game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3516, 
+                    "end": 3522, 
+                    "score": 0.3454148471355438, 
+                    "spot": "Hawaii"
+                }
+            ], 
+            "wiki_id": 13270, 
+            "wiki_title": "Hawaii"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 762, 
+                    "end": 766, 
+                    "score": 0.0005544412415474653, 
+                    "spot": "huge"
+                }
+            ], 
+            "wiki_id": 26009763, 
+            "wiki_title": "Huge (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 488, 
+                    "end": 496, 
+                    "score": 0.11159638315439224, 
+                    "spot": "Santiago"
+                }
+            ], 
+            "wiki_id": 30872329, 
+            "wiki_title": "Santiago (commune)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 316, 
+                    "end": 320, 
+                    "score": 0.17484115064144135, 
+                    "spot": "Arze"
+                }, 
+                {
+                    "begin": 1548, 
+                    "end": 1552, 
+                    "score": 0.1428571492433548, 
+                    "spot": "Arze"
+                }, 
+                {
+                    "begin": 2012, 
+                    "end": 2016, 
+                    "score": 0.1428571492433548, 
+                    "spot": "Arze"
+                }, 
+                {
+                    "begin": 2484, 
+                    "end": 2488, 
+                    "score": 0.16005298495292664, 
+                    "spot": "Arze"
+                }
+            ], 
+            "wiki_id": 18875807, 
+            "wiki_title": "Vicente Arze"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3201, 
+                    "end": 3207, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"It"
+                }
+            ], 
+            "wiki_id": 16256886, 
+            "wiki_title": "P:IT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2212, 
+                    "end": 2220, 
+                    "score": 0.0775233656167984, 
+                    "spot": "flexible"
+                }, 
+                {
+                    "begin": 2310, 
+                    "end": 2317, 
+                    "score": 0.06611793488264084, 
+                    "spot": "stiffer"
+                }
+            ], 
+            "wiki_id": 475008, 
+            "wiki_title": "Stiffness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2832, 
+                    "end": 2839, 
+                    "score": 0.14527684450149536, 
+                    "spot": "central"
+                }
+            ], 
+            "wiki_id": 6121, 
+            "wiki_title": "Central America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1568, 
+                    "end": 1583, 
+                    "score": 0.22448979318141937, 
+                    "spot": "1985 earthquake"
+                }
+            ], 
+            "wiki_id": 2427468, 
+            "wiki_title": "1985 Mexico City earthquake"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2550, 
+                    "end": 2557, 
+                    "score": 0.16340385377407074, 
+                    "spot": "Spanish"
+                }
+            ], 
+            "wiki_id": 26825, 
+            "wiki_title": "Spanish language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1721, 
+                    "end": 1725, 
+                    "score": 0.16106277704238892, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 15105978, 
+            "wiki_title": "Water well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 397, 
+                    "end": 402, 
+                    "score": 0.06587843596935272, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2728, 
+                    "end": 2733, 
+                    "score": 0.05789882317185402, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2894, 
+                    "end": 2899, 
+                    "score": 0.11812971532344818, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3197, 
+                    "end": 3202, 
+                    "score": 0.057039592415094376, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 825, 
+                    "end": 830, 
+                    "score": 0.44469812512397766, 
+                    "spot": "earth"
+                }, 
+                {
+                    "begin": 825, 
+                    "end": 832, 
+                    "score": 0.5102893710136414, 
+                    "spot": "earth's"
+                }, 
+                {
+                    "begin": 1184, 
+                    "end": 1189, 
+                    "score": 0.1354704350233078, 
+                    "spot": "earth"
+                }, 
+                {
+                    "begin": 1495, 
+                    "end": 1500, 
+                    "score": 0.20342513918876648, 
+                    "spot": "earth"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2628, 
+                    "end": 2632, 
+                    "score": 0.12585176527500153, 
+                    "spot": "ship"
+                }
+            ], 
+            "wiki_id": 27008, 
+            "wiki_title": "Ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3150, 
+                    "end": 3155, 
+                    "score": 0.0032696907874196768, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 16624930, 
+            "wiki_title": "Miles, North Carolina"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 174, 
+                    "end": 181, 
+                    "score": 0.014705882407724857, 
+                    "spot": "Oct. 17"
+                }
+            ], 
+            "wiki_id": 22366, 
+            "wiki_title": null
+        }
+    ]
+}

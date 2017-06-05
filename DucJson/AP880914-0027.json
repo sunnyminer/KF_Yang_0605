@@ -1,0 +1,2176 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 995, 
+                    "end": 1000, 
+                    "score": 0.05031849071383476, 
+                    "spot": "Jesse"
+                }
+            ], 
+            "wiki_id": 18372999, 
+            "wiki_title": "Jessie Godderz"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2571, 
+                    "end": 2579, 
+                    "score": 0.5, 
+                    "spot": "then\nyou"
+                }
+            ], 
+            "wiki_id": 3867731, 
+            "wiki_title": "The Beatles' Christmas records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 55, 
+                    "end": 69, 
+                    "score": 0.16816547513008118, 
+                    "spot": "miles per hour"
+                }, 
+                {
+                    "begin": 667, 
+                    "end": 670, 
+                    "score": 0.061924323439598083, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 1056, 
+                    "end": 1059, 
+                    "score": 0.14894962310791016, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 1413, 
+                    "end": 1416, 
+                    "score": 0.0845375582575798, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 1713, 
+                    "end": 1716, 
+                    "score": 0.2727341651916504, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 2680, 
+                    "end": 2683, 
+                    "score": 0.17999404668807983, 
+                    "spot": "mph"
+                }, 
+                {
+                    "begin": 2817, 
+                    "end": 2820, 
+                    "score": 0.103206567466259, 
+                    "spot": "mph"
+                }
+            ], 
+            "wiki_id": 182283, 
+            "wiki_title": "Miles per hour"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1593, 
+                    "end": 1598, 
+                    "score": 0.11667603254318237, 
+                    "spot": "storm"
+                }
+            ], 
+            "wiki_id": 182000, 
+            "wiki_title": "Gulf War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 264, 
+                    "end": 284, 
+                    "score": 0.0469798669219017, 
+                    "spot": "reconnaissance plane"
+                }
+            ], 
+            "wiki_id": 233076, 
+            "wiki_title": "Reconnaissance aircraft"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 718, 
+                    "end": 729, 
+                    "score": 0.512948215007782, 
+                    "spot": "storm force"
+                }, 
+                {
+                    "begin": 718, 
+                    "end": 735, 
+                    "score": 0.5067934989929199, 
+                    "spot": "storm force winds"
+                }
+            ], 
+            "wiki_id": 155110, 
+            "wiki_title": "Beaufort scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1957, 
+                    "end": 1960, 
+                    "score": 0.02858741581439972, 
+                    "spot": "out"
+                }
+            ], 
+            "wiki_id": 18912922, 
+            "wiki_title": "Closeted"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1289, 
+                    "end": 1296, 
+                    "score": 0.0011812426382675767, 
+                    "spot": "records"
+                }
+            ], 
+            "wiki_id": 161228, 
+            "wiki_title": "Document"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1545, 
+                    "end": 1561, 
+                    "score": 0.1815515011548996, 
+                    "spot": "natural disaster"
+                }
+            ], 
+            "wiki_id": 58921, 
+            "wiki_title": "Natural disaster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2303, 
+                    "end": 2312, 
+                    "score": 0.11810681223869324, 
+                    "spot": "destroyed"
+                }
+            ], 
+            "wiki_id": 8103, 
+            "wiki_title": "Deforestation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 776, 
+                    "end": 781, 
+                    "score": 0.15537193417549133, 
+                    "spot": "south"
+                }
+            ], 
+            "wiki_id": 179553, 
+            "wiki_title": "Southern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 293, 
+                    "score": 0.30676349997520447, 
+                    "spot": "measured"
+                }, 
+                {
+                    "begin": 477, 
+                    "end": 485, 
+                    "score": 0.15373487770557404, 
+                    "spot": "measured"
+                }
+            ], 
+            "wiki_id": 19951, 
+            "wiki_title": "Pressure measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 657, 
+                    "end": 662, 
+                    "score": 0.029559221118688583, 
+                    "spot": "above"
+                }
+            ], 
+            "wiki_id": 17011, 
+            "wiki_title": "Killer whale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2290, 
+                    "end": 2302, 
+                    "score": 0.040685225278139114, 
+                    "spot": "mobile homes"
+                }
+            ], 
+            "wiki_id": 625015, 
+            "wiki_title": "Mobile home"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2709, 
+                    "end": 2717, 
+                    "score": 0.13127654790878296, 
+                    "spot": "pressure"
+                }, 
+                {
+                    "begin": 2841, 
+                    "end": 2849, 
+                    "score": 0.20834888517856598, 
+                    "spot": "pressure"
+                }
+            ], 
+            "wiki_id": 23619, 
+            "wiki_title": "Pressure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1770, 
+                    "end": 1781, 
+                    "score": 0.8190903663635254, 
+                    "spot": "storm surge"
+                }, 
+                {
+                    "begin": 1810, 
+                    "end": 1821, 
+                    "score": 0.5937658548355103, 
+                    "spot": "storm surge"
+                }, 
+                {
+                    "begin": 2002, 
+                    "end": 2013, 
+                    "score": 0.590936541557312, 
+                    "spot": "storm surge"
+                }, 
+                {
+                    "begin": 2075, 
+                    "end": 2080, 
+                    "score": 0.17101144790649414, 
+                    "spot": "surge"
+                }, 
+                {
+                    "begin": 2685, 
+                    "end": 2690, 
+                    "score": 0.28838226199150085, 
+                    "spot": "surge"
+                }
+            ], 
+            "wiki_id": 449744, 
+            "wiki_title": "Storm surge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1073, 
+                    "end": 1091, 
+                    "score": 0.2345522940158844, 
+                    "spot": "hurricane strength"
+                }, 
+                {
+                    "begin": 1206, 
+                    "end": 1216, 
+                    "score": 0.5866666436195374, 
+                    "spot": "Category 5"
+                }, 
+                {
+                    "begin": 1206, 
+                    "end": 1223, 
+                    "score": 0.34551846981048584, 
+                    "spot": "Category 5 storms"
+                }, 
+                {
+                    "begin": 1667, 
+                    "end": 1677, 
+                    "score": 0.33666667342185974, 
+                    "spot": "Category 5"
+                }, 
+                {
+                    "begin": 1667, 
+                    "end": 1684, 
+                    "score": 0.5769230723381042, 
+                    "spot": "Category 5 storms"
+                }, 
+                {
+                    "begin": 2598, 
+                    "end": 2622, 
+                    "score": 0.5050638914108276, 
+                    "spot": "hurricane.''\n   Category"
+                }, 
+                {
+                    "begin": 2614, 
+                    "end": 2624, 
+                    "score": 0.524287223815918, 
+                    "spot": "Category 4"
+                }, 
+                {
+                    "begin": 2761, 
+                    "end": 2771, 
+                    "score": 0.33919820189476013, 
+                    "spot": "Category 1"
+                }
+            ], 
+            "wiki_id": 255313, 
+            "wiki_title": "Saffir\u2013Simpson hurricane wind scale"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1475, 
+                    "end": 1481, 
+                    "score": 0.08109913766384125, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 854294, 
+            "wiki_title": "DNA repair"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 76, 
+                    "end": 83, 
+                    "score": 0.10337627679109573, 
+                    "spot": "weather"
+                }, 
+                {
+                    "begin": 2061, 
+                    "end": 2072, 
+                    "score": 0.232080340385437, 
+                    "spot": "forecasting"
+                }
+            ], 
+            "wiki_id": 73231, 
+            "wiki_title": "Weather forecasting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1115, 
+                    "end": 1119, 
+                    "score": 0.0180820282548666, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 927001, 
+            "wiki_title": "Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1891, 
+                    "end": 1901, 
+                    "score": 0.005613772664219141, 
+                    "spot": "coastlines"
+                }
+            ], 
+            "wiki_id": 1330084, 
+            "wiki_title": "Coastlines"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 756, 
+                    "end": 761, 
+                    "score": 0.25194934010505676, 
+                    "spot": "north"
+                }
+            ], 
+            "wiki_id": 509638, 
+            "wiki_title": "Northern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 730, 
+                    "end": 735, 
+                    "score": 0.08396853506565094, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 1417, 
+                    "end": 1422, 
+                    "score": 0.14888757467269897, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 15440316, 
+            "wiki_title": "Wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 597, 
+                    "end": 606, 
+                    "score": 0.4178582429885864, 
+                    "spot": "Labor Day"
+                }, 
+                {
+                    "begin": 1323, 
+                    "end": 1332, 
+                    "score": 0.4178582429885864, 
+                    "spot": "Labor Day"
+                }
+            ], 
+            "wiki_id": 19156272, 
+            "wiki_title": "Labor Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1372, 
+                    "end": 1381, 
+                    "score": 0.10931841284036636, 
+                    "spot": "bulldozed"
+                }, 
+                {
+                    "begin": 1903, 
+                    "end": 1913, 
+                    "score": 0.01822916604578495, 
+                    "spot": "bulldozing"
+                }
+            ], 
+            "wiki_id": 313830, 
+            "wiki_title": "Bulldozer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1782, 
+                    "end": 1788, 
+                    "score": 0.06289561092853546, 
+                    "spot": "higher"
+                }
+            ], 
+            "wiki_id": 14423, 
+            "wiki_title": "Higher education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1565, 
+                    "end": 1577, 
+                    "score": 0.028637059032917023, 
+                    "spot": "U.S. history"
+                }
+            ], 
+            "wiki_id": 63876, 
+            "wiki_title": "History of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2132, 
+                    "end": 2138, 
+                    "score": 0.0024916050024330616, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 15526387, 
+            "wiki_title": "Effect of Hurricane Katrina on the Louisiana Superdome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2638, 
+                    "end": 2645, 
+                    "score": 0.06876400858163834, 
+                    "spot": "extreme"
+                }
+            ], 
+            "wiki_id": 428002, 
+            "wiki_title": "Extremism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1826, 
+                    "end": 1836, 
+                    "score": 0.044871795922517776, 
+                    "spot": "great dome"
+                }
+            ], 
+            "wiki_id": 45413954, 
+            "wiki_title": "Great Dome"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2779, 
+                    "end": 2786, 
+                    "score": 0.07278984040021896, 
+                    "spot": "minimal"
+                }
+            ], 
+            "wiki_id": 18933136, 
+            "wiki_title": "Minarchism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 331, 
+                    "end": 337, 
+                    "score": 0.007024150807410479, 
+                    "spot": "center"
+                }
+            ], 
+            "wiki_id": 652569, 
+            "wiki_title": "Center (basketball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 750, 
+                    "end": 755, 
+                    "score": 0.14716117084026337, 
+                    "spot": "miles"
+                }, 
+                {
+                    "begin": 770, 
+                    "end": 775, 
+                    "score": 0.1558740884065628, 
+                    "spot": "miles"
+                }
+            ], 
+            "wiki_id": 19159, 
+            "wiki_title": "Mile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 157, 
+                    "end": 175, 
+                    "score": 0.19973742961883545, 
+                    "spot": "Western Hemisphere"
+                }, 
+                {
+                    "begin": 493, 
+                    "end": 511, 
+                    "score": 0.19973742961883545, 
+                    "spot": "Western\nHemisphere"
+                }
+            ], 
+            "wiki_id": 73162, 
+            "wiki_title": "Western Hemisphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1156, 
+                    "end": 1160, 
+                    "score": 0.08997443318367004, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 19022, 
+            "wiki_title": "Measurement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 141, 
+                    "end": 149, 
+                    "score": 0.0017980152042582631, 
+                    "spot": "recorded"
+                }
+            ], 
+            "wiki_id": 21189305, 
+            "wiki_title": "Audio engineer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 809, 
+                    "end": 816, 
+                    "score": 0.024569157510995865, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 106648, 
+            "wiki_title": "Gilbert, Arizona"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2207, 
+                    "end": 2217, 
+                    "score": 0.005479452200233936, 
+                    "spot": "blown down"
+                }
+            ], 
+            "wiki_id": 2368330, 
+            "wiki_title": "Blowing down"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 633, 
+                    "end": 645, 
+                    "score": 0.45225223898887634, 
+                    "spot": "Florida Keys"
+                }
+            ], 
+            "wiki_id": 290145, 
+            "wiki_title": "Florida Keys"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2389, 
+                    "end": 2395, 
+                    "score": 0.13373635709285736, 
+                    "spot": "engine"
+                }
+            ], 
+            "wiki_id": 9640, 
+            "wiki_title": "Engine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2439, 
+                    "end": 2442, 
+                    "score": 0.00488158967345953, 
+                    "spot": "air"
+                }
+            ], 
+            "wiki_id": 202392, 
+            "wiki_title": "Air (French band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 584, 
+                    "score": 0.002038082107901573, 
+                    "spot": "set"
+                }
+            ], 
+            "wiki_id": 26691, 
+            "wiki_title": "Set (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1539, 
+                    "end": 1544, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "worst"
+                }
+            ], 
+            "wiki_id": 43031240, 
+            "wiki_title": "The Worst (Jhen\u00e9 Aiko song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1162, 
+                    "end": 1167, 
+                    "score": 0.045759208500385284, 
+                    "spot": "Moore"
+                }
+            ], 
+            "wiki_id": 18932702, 
+            "wiki_title": "Alan Moore"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1840, 
+                    "end": 1845, 
+                    "score": 0.010417181998491287, 
+                    "spot": "water"
+                }
+            ], 
+            "wiki_id": 33306, 
+            "wiki_title": "Water"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 374, 
+                    "end": 381, 
+                    "score": 0.047715187072753906, 
+                    "spot": "Tuesday"
+                }
+            ], 
+            "wiki_id": 1050340, 
+            "wiki_title": "Election Day (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2332, 
+                    "end": 2336, 
+                    "score": 0.2163197249174118, 
+                    "spot": "heat"
+                }
+            ], 
+            "wiki_id": 19593167, 
+            "wiki_title": "Heat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2458, 
+                    "end": 2460, 
+                    "score": 0.0010810111416503787, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 83139, 
+            "wiki_title": "Intermediate frequency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 18, 
+                    "score": 0.3821380138397217, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 1690, 
+                    "end": 1695, 
+                    "score": 0.37943407893180847, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 2658, 
+                    "end": 2663, 
+                    "score": 0.09570958465337753, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 14633336, 
+            "wiki_title": "Maximum sustained wind"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2545, 
+                    "end": 2551, 
+                    "score": 0.08168626576662064, 
+                    "spot": "levels"
+                }
+            ], 
+            "wiki_id": 1910313, 
+            "wiki_title": "Level (video gaming)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2559, 
+                    "end": 2569, 
+                    "score": 0.008620689623057842, 
+                    "spot": "miles high"
+                }
+            ], 
+            "wiki_id": 49182079, 
+            "wiki_title": "Miles High (John Miles album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 862, 
+                    "end": 875, 
+                    "score": 0.17588119208812714, 
+                    "spot": "circumference"
+                }
+            ], 
+            "wiki_id": 5916, 
+            "wiki_title": "Circumference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1398, 
+                    "end": 1403, 
+                    "score": 0.1815922111272812, 
+                    "spot": "Coast"
+                }
+            ], 
+            "wiki_id": 174579, 
+            "wiki_title": "West Coast of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 185, 
+                    "end": 191, 
+                    "score": 0.1066097691655159, 
+                    "spot": "Zimmer"
+                }
+            ], 
+            "wiki_id": 2618513, 
+            "wiki_title": "Carl Zimmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1060, 
+                    "end": 1069, 
+                    "score": 0.04340433329343796, 
+                    "spot": "threshold"
+                }
+            ], 
+            "wiki_id": 165094, 
+            "wiki_title": "Runway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 421, 
+                    "end": 438, 
+                    "score": 0.8370503187179565, 
+                    "spot": "Yucatan Peninsula"
+                }
+            ], 
+            "wiki_id": 1248351, 
+            "wiki_title": "Yucat\u00e1n Peninsula"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2201, 
+                    "end": 2206, 
+                    "score": 0.04366472736001015, 
+                    "spot": "trees"
+                }
+            ], 
+            "wiki_id": 18955875, 
+            "wiki_title": "Tree"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1464, 
+                    "end": 1471, 
+                    "score": 0.11396536976099014, 
+                    "spot": "billion"
+                }
+            ], 
+            "wiki_id": 1136363, 
+            "wiki_title": "1,000,000,000"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 254, 
+                    "end": 263, 
+                    "score": 0.24517981708049774, 
+                    "spot": "Air Force"
+                }
+            ], 
+            "wiki_id": 32090, 
+            "wiki_title": "United States Air Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1801, 
+                    "score": 0.12986212968826294, 
+                    "spot": "feet"
+                }, 
+                {
+                    "begin": 2021, 
+                    "end": 2025, 
+                    "score": 0.17840813100337982, 
+                    "spot": "feet"
+                }, 
+                {
+                    "begin": 2094, 
+                    "end": 2098, 
+                    "score": 0.12769858539104462, 
+                    "spot": "feet"
+                }, 
+                {
+                    "begin": 2700, 
+                    "end": 2704, 
+                    "score": 0.2339893877506256, 
+                    "spot": "feet"
+                }, 
+                {
+                    "begin": 2826, 
+                    "end": 2830, 
+                    "score": 0.09838052093982697, 
+                    "spot": "foot"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1656, 
+                    "end": 1662, 
+                    "score": 0.06386018544435501, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 622, 
+                    "end": 628, 
+                    "score": 0.3718772530555725, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 5016402, 
+            "wiki_title": "Landfall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2787, 
+                    "end": 2793, 
+                    "score": 0.0024916050024330616, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 304588, 
+            "wiki_title": "Brain damage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 22, 
+                    "end": 39, 
+                    "score": 0.5, 
+                    "spot": "Hurricane Gilbert"
+                }, 
+                {
+                    "begin": 101, 
+                    "end": 108, 
+                    "score": 0.1369141936302185, 
+                    "spot": "Gilbert"
+                }, 
+                {
+                    "begin": 383, 
+                    "end": 390, 
+                    "score": 0.10006123781204224, 
+                    "spot": "Gilbert"
+                }, 
+                {
+                    "begin": 1177, 
+                    "end": 1184, 
+                    "score": 0.20562396943569183, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 598523, 
+            "wiki_title": "Hurricane Gilbert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1120, 
+                    "end": 1125, 
+                    "score": 0.13582463562488556, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 684, 
+                    "end": 690, 
+                    "score": 0.07467322796583176, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2632, 
+                    "end": 2637, 
+                    "score": 0.1774701476097107, 
+                    "spot": "cause"
+                }, 
+                {
+                    "begin": 2773, 
+                    "end": 2778, 
+                    "score": 0.17734889686107635, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 2345894, 
+            "wiki_title": "Social issue"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 71, 
+                    "end": 74, 
+                    "score": 0.13735118508338928, 
+                    "spot": "U.S"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1011, 
+                    "end": 1026, 
+                    "score": 0.5, 
+                    "spot": "Hurricane Debby"
+                }
+            ], 
+            "wiki_id": 9433614, 
+            "wiki_title": "Hurricane Debby (1982)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 234, 
+                    "end": 240, 
+                    "score": 0.12948305904865265, 
+                    "spot": "Center"
+                }, 
+                {
+                    "begin": 801, 
+                    "end": 807, 
+                    "score": 0.04127694293856621, 
+                    "spot": "center"
+                }, 
+                {
+                    "begin": 2050, 
+                    "end": 2056, 
+                    "score": 0.058403339236974716, 
+                    "spot": "center"
+                }
+            ], 
+            "wiki_id": 136589, 
+            "wiki_title": "Center, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 362, 
+                    "end": 365, 
+                    "score": 0.10044896602630615, 
+                    "spot": "p.m"
+                }
+            ], 
+            "wiki_id": 38964, 
+            "wiki_title": "Picometre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2223, 
+                    "end": 2235, 
+                    "score": 0.0705009251832962, 
+                    "spot": "street signs"
+                }
+            ], 
+            "wiki_id": 2344028, 
+            "wiki_title": "Street Signs (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1490, 
+                    "end": 1494, 
+                    "score": 0.10877000540494919, 
+                    "spot": "dead"
+                }, 
+                {
+                    "begin": 1977, 
+                    "end": 1987, 
+                    "score": 0.033008821308612823, 
+                    "spot": "fatalities"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2427, 
+                    "end": 2431, 
+                    "score": 0.19777682423591614, 
+                    "spot": "warm"
+                }, 
+                {
+                    "begin": 2510, 
+                    "end": 2514, 
+                    "score": 0.1807297319173813, 
+                    "spot": "warm"
+                }
+            ], 
+            "wiki_id": 20647050, 
+            "wiki_title": "Temperature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1099, 
+                    "end": 1107, 
+                    "score": 0.030291521921753883, 
+                    "spot": "striking"
+                }
+            ], 
+            "wiki_id": 28460665, 
+            "wiki_title": "Shooting (association football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2252, 
+                    "end": 2259, 
+                    "score": 0.10845610499382019, 
+                    "spot": "windows"
+                }
+            ], 
+            "wiki_id": 18890, 
+            "wiki_title": "Microsoft Windows"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 548, 
+                    "end": 560, 
+                    "score": 0.46119722723960876, 
+                    "spot": "low pressure"
+                }
+            ], 
+            "wiki_id": 475199, 
+            "wiki_title": "Low-pressure area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 541, 
+                    "end": 547, 
+                    "score": 0.04032827541232109, 
+                    "spot": "record"
+                }
+            ], 
+            "wiki_id": 10958, 
+            "wiki_title": "Fossil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 347, 
+                    "end": 353, 
+                    "score": 0.17201028764247894, 
+                    "spot": "inches"
+                }
+            ], 
+            "wiki_id": 14775, 
+            "wiki_title": "Inch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 616, 
+                    "score": 0.5, 
+                    "spot": "1935 Labor Day hurricane"
+                }, 
+                {
+                    "begin": 597, 
+                    "end": 616, 
+                    "score": 0.27847135066986084, 
+                    "spot": "Labor Day hurricane"
+                }, 
+                {
+                    "begin": 1318, 
+                    "end": 1342, 
+                    "score": 0.5, 
+                    "spot": "1935 Labor Day hurricane"
+                }, 
+                {
+                    "begin": 1323, 
+                    "end": 1342, 
+                    "score": 0.27847135066986084, 
+                    "spot": "Labor Day hurricane"
+                }
+            ], 
+            "wiki_id": 450012, 
+            "wiki_title": "1935 Labor Day hurricane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2646, 
+                    "end": 2652, 
+                    "score": 0.0024916050024330616, 
+                    "spot": "damage"
+                }
+            ], 
+            "wiki_id": 4509806, 
+            "wiki_title": "Damage (British band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2103, 
+                    "end": 2110, 
+                    "score": 0.12523780763149261, 
+                    "spot": "Gilbert"
+                }
+            ], 
+            "wiki_id": 5134794, 
+            "wiki_title": "Ray Gilbert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1603, 
+                    "end": 1619, 
+                    "score": 0.5738195180892944, 
+                    "spot": "Galveston, Texas"
+                }
+            ], 
+            "wiki_id": 53840, 
+            "wiki_title": "Galveston, Texas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 338, 
+                    "end": 343, 
+                    "score": 0.07991361618041992, 
+                    "spot": "at 26"
+                }
+            ], 
+            "wiki_id": 184400, 
+            "wiki_title": "Aermacchi MB-326"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 321, 
+                    "end": 328, 
+                    "score": 0.27456915378570557, 
+                    "spot": "Gilbert"
+                }, 
+                {
+                    "begin": 321, 
+                    "end": 330, 
+                    "score": 0.1719595491886139, 
+                    "spot": "Gilbert's"
+                }
+            ], 
+            "wiki_id": 7993134, 
+            "wiki_title": "W. S. Gilbert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1992, 
+                    "end": 2001, 
+                    "score": 0.008474576286971569, 
+                    "spot": "Camille's"
+                }
+            ], 
+            "wiki_id": 7994843, 
+            "wiki_title": "Camille's Sidewalk Cafe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 956, 
+                    "end": 963, 
+                    "score": 0.0023219611030071974, 
+                    "spot": "overall"
+                }
+            ], 
+            "wiki_id": 554255, 
+            "wiki_title": "Overall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1932, 
+                    "end": 1936, 
+                    "score": 0.0580952949821949, 
+                    "spot": "path"
+                }
+            ], 
+            "wiki_id": 66728, 
+            "wiki_title": "Trail"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2190, 
+                    "end": 2196, 
+                    "score": 0.0015762061811983585, 
+                    "spot": "shrubs"
+                }
+            ], 
+            "wiki_id": 6129301, 
+            "wiki_title": "The Shrubs"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1599, 
+                    "end": 1602, 
+                    "score": 0.07514318823814392, 
+                    "spot": "hit"
+                }
+            ], 
+            "wiki_id": 2402033, 
+            "wiki_title": "Hit record"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1001, 
+                    "end": 1006, 
+                    "score": 0.045759208500385284, 
+                    "spot": "Moore"
+                }
+            ], 
+            "wiki_id": 130116, 
+            "wiki_title": "Moore, Oklahoma"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 84, 
+                    "end": 93, 
+                    "score": 0.05037456750869751, 
+                    "spot": "officials"
+                }, 
+                {
+                    "begin": 1256, 
+                    "end": 1265, 
+                    "score": 0.02118186093866825, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 919, 
+                    "end": 925, 
+                    "score": 0.13936296105384827, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 12287675, 
+            "wiki_title": "Course (architecture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 126, 
+                    "end": 135, 
+                    "score": 0.24853602051734924, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 607, 
+                    "end": 616, 
+                    "score": 0.422191858291626, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 709, 
+                    "end": 723, 
+                    "score": 0.43129047751426697, 
+                    "spot": "tropical storm"
+                }, 
+                {
+                    "begin": 789, 
+                    "end": 798, 
+                    "score": 0.2108895182609558, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 881, 
+                    "end": 890, 
+                    "score": 0.10928689688444138, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 1073, 
+                    "end": 1082, 
+                    "score": 0.295443594455719, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2040, 
+                    "end": 2049, 
+                    "score": 0.31559789180755615, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2161, 
+                    "end": 2171, 
+                    "score": 0.20517680048942566, 
+                    "spot": "hurricanes"
+                }, 
+                {
+                    "begin": 2357, 
+                    "end": 2366, 
+                    "score": 0.12549012899398804, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2598, 
+                    "end": 2607, 
+                    "score": 0.5054832100868225, 
+                    "spot": "hurricane"
+                }, 
+                {
+                    "begin": 2625, 
+                    "end": 2631, 
+                    "score": 0.32041993737220764, 
+                    "spot": "storms"
+                }, 
+                {
+                    "begin": 2749, 
+                    "end": 2759, 
+                    "score": 0.2752112150192261, 
+                    "spot": "hurricanes"
+                }
+            ], 
+            "wiki_id": 8282374, 
+            "wiki_title": "Tropical cyclone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1967, 
+                    "end": 1976, 
+                    "score": 0.06678401678800583, 
+                    "spot": "hurricane"
+                }
+            ], 
+            "wiki_id": 171568, 
+            "wiki_title": "The Hurricane (1999 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 195, 
+                    "end": 207, 
+                    "score": 0.7460618615150452, 
+                    "spot": "meterologist"
+                }, 
+                {
+                    "begin": 982, 
+                    "end": 994, 
+                    "score": 0.6592484712600708, 
+                    "spot": "meterologist"
+                }, 
+                {
+                    "begin": 1248, 
+                    "end": 1255, 
+                    "score": 0.10603330284357071, 
+                    "spot": "weather"
+                }
+            ], 
+            "wiki_id": 19904, 
+            "wiki_title": "Meteorology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2370, 
+                    "end": 2376, 
+                    "score": 0.10018961131572723, 
+                    "spot": "Zimmer"
+                }
+            ], 
+            "wiki_id": 9802154, 
+            "wiki_title": "Zimmer (automobile)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 898, 
+                    "score": 0.09233304113149643, 
+                    "spot": "changes"
+                }
+            ], 
+            "wiki_id": 159280, 
+            "wiki_title": "Change ringing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1939, 
+                    "end": 1947, 
+                    "score": 0.0007177226943895221, 
+                    "spot": "accounts"
+                }
+            ], 
+            "wiki_id": 16301990, 
+            "wiki_title": "User (computing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2346, 
+                    "end": 2352, 
+                    "score": 0.058049168437719345, 
+                    "spot": "drives"
+                }
+            ], 
+            "wiki_id": 8472, 
+            "wiki_title": "Disk storage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 367, 
+                    "end": 370, 
+                    "score": 0.48105502128601074, 
+                    "spot": "EDT"
+                }
+            ], 
+            "wiki_id": 496028, 
+            "wiki_title": "Eastern Time Zone"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1621, 
+                    "end": 1625, 
+                    "score": 0.010895456187427044, 
+                    "spot": "Sept"
+                }
+            ], 
+            "wiki_id": 336650, 
+            "wiki_title": "Sept"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2465, 
+                    "end": 2476, 
+                    "score": 0.12248174101114273, 
+                    "spot": "atmospheric"
+                }
+            ], 
+            "wiki_id": 202899, 
+            "wiki_title": "Atmosphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1501, 
+                    "end": 1515, 
+                    "score": 0.1944444477558136, 
+                    "spot": "1900 hurricane"
+                }
+            ], 
+            "wiki_id": 322245, 
+            "wiki_title": "1900 Galveston hurricane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2411, 
+                    "end": 2415, 
+                    "score": 0.10728529095649719, 
+                    "spot": "tall"
+                }
+            ], 
+            "wiki_id": 239972, 
+            "wiki_title": "Height"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2112, 
+                    "end": 2118, 
+                    "score": 0.13343864679336548, 
+                    "spot": "Zimmer"
+                }
+            ], 
+            "wiki_id": 159381, 
+            "wiki_title": "Hans Zimmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2416, 
+                    "end": 2423, 
+                    "score": 0.19389738142490387, 
+                    "spot": "chimney"
+                }, 
+                {
+                    "begin": 2515, 
+                    "end": 2522, 
+                    "score": 0.12450152635574341, 
+                    "spot": "chimney"
+                }
+            ], 
+            "wiki_id": 238377, 
+            "wiki_title": "Chimney"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1302, 
+                    "end": 1308, 
+                    "score": 0.0007796851568855345, 
+                    "spot": "others"
+                }
+            ], 
+            "wiki_id": 1431468, 
+            "wiki_title": "The Others (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2450, 
+                    "end": 2456, 
+                    "score": 0.007024150807410479, 
+                    "spot": "center"
+                }
+            ], 
+            "wiki_id": 39619035, 
+            "wiki_title": "Centrism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 927, 
+                    "end": 937, 
+                    "score": 0.004288777709007263, 
+                    "spot": "no records"
+                }
+            ], 
+            "wiki_id": 2420954, 
+            "wiki_title": "No Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 651, 
+                    "end": 656, 
+                    "score": 0.005687579978257418, 
+                    "spot": "winds"
+                }, 
+                {
+                    "begin": 2799, 
+                    "end": 2804, 
+                    "score": 0.005687579978257418, 
+                    "spot": "winds"
+                }
+            ], 
+            "wiki_id": 23442958, 
+            "wiki_title": "Wind instrument"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 570, 
+                    "end": 576, 
+                    "score": 0.165323406457901, 
+                    "spot": "inches"
+                }, 
+                {
+                    "begin": 1757, 
+                    "end": 1763, 
+                    "score": 0.4281822741031647, 
+                    "spot": "inches"
+                }
+            ], 
+            "wiki_id": 2319766, 
+            "wiki_title": "Inch of mercury"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1188, 
+                    "end": 1191, 
+                    "score": 0.0007970848819240928, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 12666525, 
+            "wiki_title": "The One (Elton John song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1041, 
+                    "end": 1048, 
+                    "score": 0.0016293064691126347, 
+                    "spot": "crossed"
+                }
+            ], 
+            "wiki_id": 44148692, 
+            "wiki_title": "Crossed (The Walking Dead)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 298, 
+                    "end": 317, 
+                    "score": 0.3843648135662079, 
+                    "spot": "barometric\npressure"
+                }, 
+                {
+                    "begin": 463, 
+                    "end": 471, 
+                    "score": 0.2533477544784546, 
+                    "spot": "pressure"
+                }, 
+                {
+                    "begin": 1718, 
+                    "end": 1737, 
+                    "score": 0.6410747766494751, 
+                    "spot": "barometric\npressure"
+                }
+            ], 
+            "wiki_id": 47484, 
+            "wiki_title": "Atmospheric pressure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2433, 
+                    "end": 2438, 
+                    "score": 0.09641846269369125, 
+                    "spot": "moist"
+                }
+            ], 
+            "wiki_id": 591470, 
+            "wiki_title": "Moisture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 278, 
+                    "score": 0.24981620907783508, 
+                    "spot": "Force reconnaissance"
+                }
+            ], 
+            "wiki_id": 627695, 
+            "wiki_title": "United States Marine Corps Force Reconnaissance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 826, 
+                    "end": 829, 
+                    "score": 0.1145445853471756, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 22770, 
+            "wiki_title": "1 (number)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 672, 
+                    "end": 679, 
+                    "score": 0.10425218194723129, 
+                    "spot": "killing"
+                }, 
+                {
+                    "begin": 1633, 
+                    "end": 1639, 
+                    "score": 0.03680388256907463, 
+                    "spot": "killed"
+                }
+            ], 
+            "wiki_id": 20171, 
+            "wiki_title": "Murder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2540, 
+                    "end": 2544, 
+                    "score": 0.004264812916517258, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 554992, 
+            "wiki_title": "Secondary school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 515, 
+                    "end": 521, 
+                    "score": 0.03276999294757843, 
+                    "spot": "Zimmer"
+                }
+            ], 
+            "wiki_id": 1555215, 
+            "wiki_title": "Don Zimmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2741, 
+                    "end": 2748, 
+                    "score": 0.0005866822903044522, 
+                    "spot": "weakest"
+                }
+            ], 
+            "wiki_id": 424433, 
+            "wiki_title": "Weakness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2150, 
+                    "end": 2160, 
+                    "score": 0.0068717277608811855, 
+                    "spot": "worst-case"
+                }
+            ], 
+            "wiki_id": 37956, 
+            "wiki_title": "Best, worst and average case"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2831, 
+                    "end": 2836, 
+                    "score": 0.09361912310123444, 
+                    "spot": "surge"
+                }
+            ], 
+            "wiki_id": 1612558, 
+            "wiki_title": "Compressor stall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1437, 
+                    "end": 1441, 
+                    "score": 0.22694002091884613, 
+                    "spot": "wave"
+                }
+            ], 
+            "wiki_id": 33516, 
+            "wiki_title": "Wave"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 964, 
+                    "end": 968, 
+                    "score": 0.0005400482332333922, 
+                    "spot": "size"
+                }
+            ], 
+            "wiki_id": 32498, 
+            "wiki_title": "Volume"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1952, 
+                    "end": 1956, 
+                    "score": 0.029990896582603455, 
+                    "spot": "nine"
+                }
+            ], 
+            "wiki_id": 1066024, 
+            "wiki_title": "Ninth grade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2236, 
+                    "end": 2240, 
+                    "score": 0.002693375339731574, 
+                    "spot": "gone"
+                }
+            ], 
+            "wiki_id": 1942160, 
+            "wiki_title": "Gone (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1386, 
+                    "end": 1397, 
+                    "score": 0.3137591481208801, 
+                    "spot": "Mississippi"
+                }
+            ], 
+            "wiki_id": 19579, 
+            "wiki_title": "Mississippi River"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1914, 
+                    "end": 1924, 
+                    "score": 0.0025429686065763235, 
+                    "spot": "everything"
+                }
+            ], 
+            "wiki_id": 17181902, 
+            "wiki_title": "Everything"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2498, 
+                    "score": 0.03312224894762039, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 981, 
+                    "score": 0.3333333432674408, 
+                    "spot": "said center"
+                }
+            ], 
+            "wiki_id": 7328768, 
+            "wiki_title": "Omar Sa'if Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 215, 
+                    "end": 240, 
+                    "score": 0.5, 
+                    "spot": "National Hurricane Center"
+                }
+            ], 
+            "wiki_id": 255317, 
+            "wiki_title": "National Hurricane Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2242, 
+                    "end": 2247, 
+                    "score": 0.012570805847644806, 
+                    "spot": "roofs"
+                }
+            ], 
+            "wiki_id": 26118, 
+            "wiki_title": "Roof"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2319, 
+                    "end": 2327, 
+                    "score": 0.24613241851329803, 
+                    "spot": "Moisture"
+                }
+            ], 
+            "wiki_id": 52812, 
+            "wiki_title": "Humidity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1347, 
+                    "end": 1364, 
+                    "score": 0.5, 
+                    "spot": "Hurricane Camille"
+                }, 
+                {
+                    "begin": 1992, 
+                    "end": 1999, 
+                    "score": 0.03128960728645325, 
+                    "spot": "Camille"
+                }
+            ], 
+            "wiki_id": 325980, 
+            "wiki_title": "Hurricane Camille"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2275, 
+                    "end": 2284, 
+                    "score": 0.013179684989154339, 
+                    "spot": "shattered"
+                }
+            ], 
+            "wiki_id": 3229741, 
+            "wiki_title": "Shattered (1991 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2026, 
+                    "end": 2030, 
+                    "score": 0.2503349781036377, 
+                    "spot": "high"
+                }
+            ], 
+            "wiki_id": 474404, 
+            "wiki_title": "High-pressure area"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1883, 
+                    "score": 0.0776699036359787, 
+                    "spot": "eye of\nthe hurricane"
+                }
+            ], 
+            "wiki_id": 23430881, 
+            "wiki_title": "Eye of the Hurricane (The Alarm album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2260, 
+                    "end": 2270, 
+                    "score": 0.2407030463218689, 
+                    "spot": "blown away"
+                }
+            ], 
+            "wiki_id": 2078382, 
+            "wiki_title": "Undercover Brothers"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2175, 
+                    "end": 2187, 
+                    "score": 0.0860186442732811, 
+                    "spot": "catastrophic"
+                }
+            ], 
+            "wiki_id": 8137, 
+            "wiki_title": "Disaster"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 412, 
+                    "end": 418, 
+                    "score": 0.3916623294353485, 
+                    "spot": "Mexico"
+                }, 
+                {
+                    "begin": 1108, 
+                    "end": 1114, 
+                    "score": 0.24314594268798828, 
+                    "spot": "Mexico"
+                }
+            ], 
+            "wiki_id": 3966054, 
+            "wiki_title": "Mexico"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 40, 
+                    "end": 47, 
+                    "score": 0.003203074913471937, 
+                    "spot": "clocked"
+                }
+            ], 
+            "wiki_id": 228385, 
+            "wiki_title": "Clock rate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2850, 
+                    "end": 2855, 
+                    "score": 0.09374310821294785, 
+                    "spot": "at 28"
+                }
+            ], 
+            "wiki_id": 938411, 
+            "wiki_title": "North American T-28 Trojan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 180, 
+                    "end": 184, 
+                    "score": 0.005252321250736713, 
+                    "spot": "Mark"
+                }
+            ], 
+            "wiki_id": 39201, 
+            "wiki_title": "Mark the Evangelist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2465, 
+                    "end": 2487, 
+                    "score": 0.14138279855251312, 
+                    "spot": "atmospheric conditions"
+                }
+            ], 
+            "wiki_id": 33978, 
+            "wiki_title": "Weather"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1231, 
+                    "end": 1241, 
+                    "score": 0.18463343381881714, 
+                    "spot": "hemisphere"
+                }
+            ], 
+            "wiki_id": 9228, 
+            "wiki_title": "Earth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1621, 
+                    "end": 1628, 
+                    "score": 0.0061349691823124886, 
+                    "spot": "Sept. 8"
+                }
+            ], 
+            "wiki_id": 28488, 
+            "wiki_title": null
+        }
+    ]
+}

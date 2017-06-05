@@ -1,0 +1,802 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 164, 
+                    "end": 168, 
+                    "score": 0.06225438416004181, 
+                    "spot": "Miss"
+                }, 
+                {
+                    "begin": 759, 
+                    "end": 763, 
+                    "score": 0.014515168964862823, 
+                    "spot": "Miss"
+                }
+            ], 
+            "wiki_id": 16949861, 
+            "wiki_title": "Mississippi"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 893, 
+                    "end": 906, 
+                    "score": 0.5, 
+                    "spot": "Butterfield 8"
+                }
+            ], 
+            "wiki_id": 193867, 
+            "wiki_title": "BUtterfield 8"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 40, 
+                    "end": 48, 
+                    "score": 0.056659989058971405, 
+                    "spot": "hospital"
+                }, 
+                {
+                    "begin": 506, 
+                    "end": 514, 
+                    "score": 0.24925348162651062, 
+                    "spot": "Hospital"
+                }, 
+                {
+                    "begin": 939, 
+                    "end": 947, 
+                    "score": 0.01440734788775444, 
+                    "spot": "Hospital"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 951, 
+                    "end": 958, 
+                    "score": 0.0005812110612168908, 
+                    "spot": "April 9"
+                }
+            ], 
+            "wiki_id": 1644856, 
+            "wiki_title": "April 9 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 624, 
+                    "end": 631, 
+                    "score": 0.16708287596702576, 
+                    "spot": "actress"
+                }
+            ], 
+            "wiki_id": 21504235, 
+            "wiki_title": "Actor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 424, 
+                    "end": 427, 
+                    "score": 0.1124342679977417, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 153895, 
+            "wiki_title": "Gender-specific and gender-neutral pronouns"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 853, 
+                    "end": 883, 
+                    "score": 0.5, 
+                    "spot": "Who's Afraid of Virginia Woolf"
+                }
+            ], 
+            "wiki_id": 44885, 
+            "wiki_title": "Who's Afraid of Virginia Woolf?"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 869, 
+                    "end": 883, 
+                    "score": 0.44951140880584717, 
+                    "spot": "Virginia Woolf"
+                }
+            ], 
+            "wiki_id": 32742, 
+            "wiki_title": "Virginia Woolf"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 790, 
+                    "end": 793, 
+                    "score": 0.032800815999507904, 
+                    "spot": "she"
+                }
+            ], 
+            "wiki_id": 354398, 
+            "wiki_title": "She: A History of Adventure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 519, 
+                    "end": 525, 
+                    "score": 0.24456650018692017, 
+                    "spot": "Health"
+                }
+            ], 
+            "wiki_id": 80381, 
+            "wiki_title": "Health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 419, 
+                    "score": 0.06669581681489944, 
+                    "spot": "stable"
+                }
+            ], 
+            "wiki_id": 501478, 
+            "wiki_title": "Stable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 115, 
+                    "score": 0.17190778255462646, 
+                    "spot": "treatment"
+                }
+            ], 
+            "wiki_id": 7172, 
+            "wiki_title": "Chemotherapy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 152, 
+                    "end": 160, 
+                    "score": 0.07700740545988083, 
+                    "spot": "recovery"
+                }
+            ], 
+            "wiki_id": 427922, 
+            "wiki_title": "Drug rehabilitation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 752, 
+                    "end": 757, 
+                    "score": 0.0008726121159270406, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 20354, 
+            "wiki_title": "Month"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 177, 
+                    "end": 187, 
+                    "score": 0.004499735310673714, 
+                    "spot": "near death"
+                }
+            ], 
+            "wiki_id": 33461264, 
+            "wiki_title": "Near Death (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 917, 
+                    "end": 947, 
+                    "score": 0.5, 
+                    "spot": "Daniel Freeman Marina Hospital"
+                }
+            ], 
+            "wiki_id": 10609255, 
+            "wiki_title": "Marina Del Rey Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 169, 
+                    "end": 175, 
+                    "score": 0.09749144315719604, 
+                    "spot": "Taylor"
+                }
+            ], 
+            "wiki_id": 119280, 
+            "wiki_title": "Taylor, Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 798, 
+                    "end": 808, 
+                    "score": 0.07988332211971283, 
+                    "spot": "near death"
+                }
+            ], 
+            "wiki_id": 19008500, 
+            "wiki_title": "Near-death experience"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 747, 
+                    "end": 751, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 273, 
+                    "end": 288, 
+                    "score": 0.4774034917354584, 
+                    "spot": "yeast\ninfection"
+                }
+            ], 
+            "wiki_id": 7038, 
+            "wiki_title": "Candidiasis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 731, 
+                    "end": 746, 
+                    "score": 0.23361310362815857, 
+                    "spot": "news conference"
+                }
+            ], 
+            "wiki_id": 28730792, 
+            "wiki_title": "News conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 495, 
+                    "end": 532, 
+                    "score": 0.30000001192092896, 
+                    "spot": "St. John's\nHospital and Health Center"
+                }
+            ], 
+            "wiki_id": 10072475, 
+            "wiki_title": "Saint John's Health Center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4, 
+                    "end": 20, 
+                    "score": 0.5878762006759644, 
+                    "spot": "Elizabeth Taylor"
+                }
+            ], 
+            "wiki_id": 42357, 
+            "wiki_title": "Elizabeth Taylor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 207, 
+                    "end": 222, 
+                    "score": 0.26744186878204346, 
+                    "spot": "viral\npneumonia"
+                }, 
+                {
+                    "begin": 369, 
+                    "end": 384, 
+                    "score": 0.4318172037601471, 
+                    "spot": "viral\npneumonia"
+                }, 
+                {
+                    "begin": 1063, 
+                    "end": 1078, 
+                    "score": 0.5597842931747437, 
+                    "spot": "viral pneumonia"
+                }
+            ], 
+            "wiki_id": 2459830, 
+            "wiki_title": "Viral pneumonia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1050, 
+                    "end": 1059, 
+                    "score": 0.26053592562675476, 
+                    "spot": "treatment"
+                }
+            ], 
+            "wiki_id": 13311819, 
+            "wiki_title": "Therapy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 699, 
+                    "end": 709, 
+                    "score": 0.16899746656417847, 
+                    "spot": "recuperate"
+                }
+            ], 
+            "wiki_id": 239217, 
+            "wiki_title": "Healing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 555, 
+                    "end": 559, 
+                    "score": 0.0020556426607072353, 
+                    "spot": "Miss"
+                }
+            ], 
+            "wiki_id": 4055974, 
+            "wiki_title": "Miss A"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 325, 
+                    "end": 334, 
+                    "score": 0.14781002700328827, 
+                    "spot": "secondary"
+                }
+            ], 
+            "wiki_id": 553628, 
+            "wiki_title": "Immunofluorescence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 138, 
+                    "score": 0.17433209717273712, 
+                    "spot": "doctors"
+                }, 
+                {
+                    "begin": 294, 
+                    "end": 301, 
+                    "score": 0.13762517273426056, 
+                    "spot": "doctors"
+                }, 
+                {
+                    "begin": 773, 
+                    "end": 780, 
+                    "score": 0.14491528272628784, 
+                    "spot": "doctors"
+                }
+            ], 
+            "wiki_id": 23315, 
+            "wiki_title": "Physician"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 71, 
+                    "end": 84, 
+                    "score": 0.006849759723991156, 
+                    "spot": "complications"
+                }
+            ], 
+            "wiki_id": 1696678, 
+            "wiki_title": "Complication (horology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 307, 
+                    "end": 313, 
+                    "score": 0.019435519352555275, 
+                    "spot": "Friday"
+                }
+            ], 
+            "wiki_id": 58009, 
+            "wiki_title": "Good Friday"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 21, 
+                    "end": 25, 
+                    "score": 0.06519841402769089, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 403, 
+                    "end": 409, 
+                    "score": 0.09898795932531357, 
+                    "spot": "listed"
+                }
+            ], 
+            "wiki_id": 202009, 
+            "wiki_title": "Listed building"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 991, 
+                    "end": 1000, 
+                    "score": 0.13432931900024414, 
+                    "spot": "condition"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 390, 
+                    "end": 399, 
+                    "score": 0.14319156110286713, 
+                    "spot": "condition"
+                }
+            ], 
+            "wiki_id": 2187058, 
+            "wiki_title": "Covenant (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 120, 
+                    "end": 129, 
+                    "score": 0.4449002742767334, 
+                    "spot": "pneumonia"
+                }, 
+                {
+                    "begin": 375, 
+                    "end": 384, 
+                    "score": 0.40633970499038696, 
+                    "spot": "pneumonia"
+                }, 
+                {
+                    "begin": 1069, 
+                    "end": 1078, 
+                    "score": 0.5407441258430481, 
+                    "spot": "pneumonia"
+                }
+            ], 
+            "wiki_id": 52135, 
+            "wiki_title": "Pneumonia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 473, 
+                    "end": 482, 
+                    "score": 0.16927112638950348, 
+                    "spot": "statement"
+                }
+            ], 
+            "wiki_id": 870352, 
+            "wiki_title": "Sentence (linguistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 188, 
+                    "end": 197, 
+                    "score": 0.0012649353593587875, 
+                    "spot": "two weeks"
+                }
+            ], 
+            "wiki_id": 21115040, 
+            "wiki_title": "Two Weeks (All That Remains song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 247, 
+                    "end": 266, 
+                    "score": 0.6216416358947754, 
+                    "spot": "bacterial pneumonia"
+                }, 
+                {
+                    "begin": 335, 
+                    "end": 354, 
+                    "score": 0.8005566596984863, 
+                    "spot": "bacterial pneumonia"
+                }
+            ], 
+            "wiki_id": 966915, 
+            "wiki_title": "Bacterial pneumonia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 781, 
+                    "end": 789, 
+                    "score": 0.031239725649356842, 
+                    "spot": "revealed"
+                }
+            ], 
+            "wiki_id": 26400, 
+            "wiki_title": "Retroactive continuity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 566, 
+                    "score": 0.10963651537895203, 
+                    "spot": "Taylor"
+                }
+            ], 
+            "wiki_id": 19729624, 
+            "wiki_title": "Zachary Taylor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 63, 
+                    "score": 0.0007660030387341976, 
+                    "spot": "weeks"
+                }
+            ], 
+            "wiki_id": 508624, 
+            "wiki_title": "John W. Weeks"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 843, 
+                    "end": 847, 
+                    "score": 0.09083342552185059, 
+                    "spot": "star"
+                }
+            ], 
+            "wiki_id": 7767613, 
+            "wiki_title": "Star! (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 677, 
+                    "end": 685, 
+                    "score": 0.04758712649345398, 
+                    "spot": "hospital"
+                }
+            ], 
+            "wiki_id": 74381, 
+            "wiki_title": "The Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 764, 
+                    "end": 770, 
+                    "score": 0.16626930236816406, 
+                    "spot": "Taylor"
+                }
+            ], 
+            "wiki_id": 499509, 
+            "wiki_title": "Joseph Hooton Taylor, Jr."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1014, 
+                    "end": 1025, 
+                    "score": 0.0007201558910310268, 
+                    "spot": "and\nshe was"
+                }
+            ], 
+            "wiki_id": 4267960, 
+            "wiki_title": "And She Was"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 829, 
+                    "end": 842, 
+                    "score": 0.17680244147777557, 
+                    "spot": "Oscar-winning"
+                }
+            ], 
+            "wiki_id": 324, 
+            "wiki_title": "Academy Awards"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 587, 
+                    "score": 0.17805325984954834, 
+                    "spot": "publicist"
+                }
+            ], 
+            "wiki_id": 24389, 
+            "wiki_title": "Public relations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1035, 
+                    "end": 1045, 
+                    "score": 0.07011017948389053, 
+                    "spot": "St. John's"
+                }
+            ], 
+            "wiki_id": 70581, 
+            "wiki_title": "St. John's, Newfoundland and Labrador"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 812, 
+                    "end": 820, 
+                    "score": 0.055795442312955856, 
+                    "spot": "April 22"
+                }
+            ], 
+            "wiki_id": 158548, 
+            "wiki_title": "Earth Day"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 569, 
+                    "end": 577, 
+                    "score": 0.23033252358436584, 
+                    "spot": "New York"
+                }
+            ], 
+            "wiki_id": 8210131, 
+            "wiki_title": "New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 519, 
+                    "end": 532, 
+                    "score": 0.17467311024665833, 
+                    "spot": "Health Center"
+                }
+            ], 
+            "wiki_id": 30048845, 
+            "wiki_title": "Community health center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 710, 
+                    "end": 717, 
+                    "score": 0.13334113359451294, 
+                    "spot": "at home"
+                }
+            ], 
+            "wiki_id": 435128, 
+            "wiki_title": "Home birth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 594, 
+                    "end": 597, 
+                    "score": 0.06010107696056366, 
+                    "spot": "Sam"
+                }
+            ], 
+            "wiki_id": 18702230, 
+            "wiki_title": "Sam (1973 TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 102, 
+                    "score": 0.14587706327438354, 
+                    "spot": "week"
+                }
+            ], 
+            "wiki_id": 2627062, 
+            "wiki_title": "The Week"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 966, 
+                    "end": 981, 
+                    "score": 0.16153846681118011, 
+                    "spot": "sinus infection"
+                }
+            ], 
+            "wiki_id": 28598, 
+            "wiki_title": "Sinusitis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 243, 
+                    "score": 0.006191950291395187, 
+                    "spot": "setback"
+                }
+            ], 
+            "wiki_id": 2667192, 
+            "wiki_title": "Setback (architecture)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 713, 
+                    "end": 717, 
+                    "score": 0.06858440488576889, 
+                    "spot": "home"
+                }
+            ], 
+            "wiki_id": 249429, 
+            "wiki_title": "Home"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 97, 
+                    "score": 0.14830312132835388, 
+                    "spot": "fifth"
+                }
+            ], 
+            "wiki_id": 33125693, 
+            "wiki_title": "Breaking Bad (season 5)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 545, 
+                    "end": 554, 
+                    "score": 0.0638333335518837, 
+                    "spot": "this week"
+                }, 
+                {
+                    "begin": 686, 
+                    "end": 695, 
+                    "score": 0.07157178968191147, 
+                    "spot": "this week"
+                }
+            ], 
+            "wiki_id": 1139893, 
+            "wiki_title": "BBC News"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 589, 
+                    "end": 593, 
+                    "score": 0.10395914316177368, 
+                    "spot": "Chen"
+                }
+            ], 
+            "wiki_id": 852502, 
+            "wiki_title": "Julie Chen"
+        }
+    ]
+}

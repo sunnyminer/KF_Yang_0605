@@ -1,0 +1,826 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 493, 
+                    "end": 497, 
+                    "score": 0.02993530035018921, 
+                    "spot": "city"
+                }
+            ], 
+            "wiki_id": 5391, 
+            "wiki_title": "City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 194, 
+                    "end": 216, 
+                    "score": 0.0028142589144408703, 
+                    "spot": "prevention and control"
+                }
+            ], 
+            "wiki_id": 44905, 
+            "wiki_title": "Asthma"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 863, 
+                    "end": 871, 
+                    "score": 0.023951206356287003, 
+                    "spot": "capacity"
+                }
+            ], 
+            "wiki_id": 11014498, 
+            "wiki_title": "DVD"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 323, 
+                    "end": 348, 
+                    "score": 0.18355166912078857, 
+                    "spot": "substance-abuse\ntreatment"
+                }
+            ], 
+            "wiki_id": 427922, 
+            "wiki_title": "Drug rehabilitation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1163, 
+                    "end": 1173, 
+                    "score": 0.0028344672173261642, 
+                    "spot": "two to one"
+                }
+            ], 
+            "wiki_id": 11674440, 
+            "wiki_title": "Two to One"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1040, 
+                    "end": 1048, 
+                    "score": 0.0014256031718105078, 
+                    "spot": "greatest"
+                }
+            ], 
+            "wiki_id": 2550675, 
+            "wiki_title": "The Greatest (1977 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 120, 
+                    "score": 0.0546875, 
+                    "spot": "Human Resources\nAdministration"
+                }
+            ], 
+            "wiki_id": 29625604, 
+            "wiki_title": "New York City Human Resources Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 60, 
+                    "end": 67, 
+                    "score": 0.1322207897901535, 
+                    "spot": "testing"
+                }
+            ], 
+            "wiki_id": 59861, 
+            "wiki_title": "Experiment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 451, 
+                    "end": 460, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 399, 
+                    "end": 407, 
+                    "score": 0.0008893184131011367, 
+                    "spot": "programs"
+                }
+            ], 
+            "wiki_id": 47293, 
+            "wiki_title": "Master of Business Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 641, 
+                    "end": 648, 
+                    "score": 0.22393260896205902, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 723, 
+                    "end": 734, 
+                    "score": 0.15031783282756805, 
+                    "spot": "susceptible"
+                }
+            ], 
+            "wiki_id": 931668, 
+            "wiki_title": "Susceptible individual"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1136, 
+                    "end": 1141, 
+                    "score": 0.03921616077423096, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1025, 
+                    "end": 1034, 
+                    "score": 0.222879096865654, 
+                    "spot": "nutrition"
+                }
+            ], 
+            "wiki_id": 21525, 
+            "wiki_title": "Nutrition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 658, 
+                    "end": 661, 
+                    "score": 0.06498681753873825, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 695, 
+                    "end": 698, 
+                    "score": 0.09116627275943756, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 198153, 
+            "wiki_title": "Canning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 301, 
+                    "score": 0.21818143129348755, 
+                    "spot": "patients"
+                }
+            ], 
+            "wiki_id": 437724, 
+            "wiki_title": "Patient"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 817, 
+                    "end": 826, 
+                    "score": 0.16213969886302948, 
+                    "spot": "high risk"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 941, 
+                    "end": 944, 
+                    "score": 0.5292665958404541, 
+                    "spot": "HIV"
+                }
+            ], 
+            "wiki_id": 14170, 
+            "wiki_title": "HIV"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 413, 
+                    "end": 428, 
+                    "score": 0.02429543249309063, 
+                    "spot": "Board of Health"
+                }
+            ], 
+            "wiki_id": 3667850, 
+            "wiki_title": "Local board of health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 572, 
+                    "end": 583, 
+                    "score": 0.11638963222503662, 
+                    "spot": "New\nYorkers"
+                }
+            ], 
+            "wiki_id": 645042, 
+            "wiki_title": "New York City"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 627, 
+                    "end": 635, 
+                    "score": 0.18517780303955078, 
+                    "spot": "fraction"
+                }
+            ], 
+            "wiki_id": 1704824, 
+            "wiki_title": "Fraction (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 591, 
+                    "end": 599, 
+                    "score": 0.15788140892982483, 
+                    "spot": "infected"
+                }, 
+                {
+                    "begin": 710, 
+                    "end": 719, 
+                    "score": 0.2551337480545044, 
+                    "spot": "infection"
+                }, 
+                {
+                    "begin": 795, 
+                    "end": 803, 
+                    "score": 0.17365914583206177, 
+                    "spot": "infected"
+                }, 
+                {
+                    "begin": 886, 
+                    "end": 895, 
+                    "score": 0.2542514204978943, 
+                    "spot": "infection"
+                }, 
+                {
+                    "begin": 924, 
+                    "end": 932, 
+                    "score": 0.3221909999847412, 
+                    "spot": "diseases"
+                }, 
+                {
+                    "begin": 945, 
+                    "end": 954, 
+                    "score": 0.38571467995643616, 
+                    "spot": "infection"
+                }
+            ], 
+            "wiki_id": 37220, 
+            "wiki_title": "Infection"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 831, 
+                    "end": 842, 
+                    "score": 0.06427472829818726, 
+                    "spot": "contracting"
+                }
+            ], 
+            "wiki_id": 1110611, 
+            "wiki_title": "Muscle contraction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1103, 
+                    "end": 1108, 
+                    "score": 0.1179940328001976, 
+                    "spot": "group"
+                }
+            ], 
+            "wiki_id": 5043287, 
+            "wiki_title": "Corporate group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 81, 
+                    "score": 0.12415246665477753, 
+                    "spot": "treatment"
+                }
+            ], 
+            "wiki_id": 13311819, 
+            "wiki_title": "Therapy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 967, 
+                    "end": 980, 
+                    "score": 0.29190385341644287, 
+                    "spot": "alcohol abuse"
+                }
+            ], 
+            "wiki_id": 231994, 
+            "wiki_title": "Alcohol abuse"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 47, 
+                    "end": 59, 
+                    "score": 0.5049769282341003, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 181, 
+                    "end": 193, 
+                    "score": 0.5687482953071594, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 280, 
+                    "end": 292, 
+                    "score": 0.4883018136024475, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 368, 
+                    "end": 380, 
+                    "score": 0.5242471098899841, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 607, 
+                    "end": 609, 
+                    "score": 0.21675091981887817, 
+                    "spot": "TB"
+                }, 
+                {
+                    "begin": 674, 
+                    "end": 686, 
+                    "score": 0.5915629863739014, 
+                    "spot": "tuberculosis"
+                }, 
+                {
+                    "begin": 843, 
+                    "end": 845, 
+                    "score": 0.14009079337120056, 
+                    "spot": "TB"
+                }, 
+                {
+                    "begin": 1066, 
+                    "end": 1078, 
+                    "score": 0.3780597448348999, 
+                    "spot": "tuberculosis"
+                }
+            ], 
+            "wiki_id": 30653, 
+            "wiki_title": "Tuberculosis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 232, 
+                    "score": 0.1188196912407875, 
+                    "spot": "department"
+                }
+            ], 
+            "wiki_id": 489674, 
+            "wiki_title": "Government agency"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 963, 
+                    "score": 0.26319369673728943, 
+                    "spot": "drug"
+                }
+            ], 
+            "wiki_id": 180121, 
+            "wiki_title": "Pharmaceutical drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 8, 
+                    "end": 25, 
+                    "score": 0.1586962789297104, 
+                    "spot": "health department"
+                }, 
+                {
+                    "begin": 527, 
+                    "end": 544, 
+                    "score": 0.0210602767765522, 
+                    "spot": "Health Department"
+                }
+            ], 
+            "wiki_id": 1553186, 
+            "wiki_title": "Health department"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 560, 
+                    "end": 571, 
+                    "score": 0.10531550645828247, 
+                    "spot": "one million"
+                }
+            ], 
+            "wiki_id": 1127850, 
+            "wiki_title": "One in a Million (Aaliyah album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 584, 
+                    "end": 587, 
+                    "score": 0.05952027067542076, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 7040085, 
+            "wiki_title": "Samuel Joseph May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 170, 
+                    "end": 177, 
+                    "score": 0.07665688544511795, 
+                    "spot": "members"
+                }
+            ], 
+            "wiki_id": 82242, 
+            "wiki_title": "Unrepresented Nations and Peoples Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 498, 
+                    "end": 505, 
+                    "score": 0.0962078869342804, 
+                    "spot": "schools"
+                }
+            ], 
+            "wiki_id": 28022, 
+            "wiki_title": "School"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 512, 
+                    "end": 518, 
+                    "score": 0.1631097048521042, 
+                    "spot": "tested"
+                }
+            ], 
+            "wiki_id": 30284, 
+            "wiki_title": "Statistical hypothesis testing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1157, 
+                    "end": 1162, 
+                    "score": 0.11952280253171921, 
+                    "spot": "women"
+                }
+            ], 
+            "wiki_id": 31620173, 
+            "wiki_title": "2011 IAAF Diamond League"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 153, 
+                    "end": 157, 
+                    "score": 0.06958120316267014, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 475, 
+                    "end": 483, 
+                    "score": 0.09996474534273148, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 687, 
+                    "end": 694, 
+                    "score": 0.21633535623550415, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 990, 
+                    "end": 997, 
+                    "score": 0.253313273191452, 
+                    "spot": "illness"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 850, 
+                    "end": 856, 
+                    "score": 0.025005469098687172, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 219599, 
+            "wiki_title": "Person"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1020, 
+                    "end": 1034, 
+                    "score": 0.30069220066070557, 
+                    "spot": "poor nutrition"
+                }
+            ], 
+            "wiki_id": 258979, 
+            "wiki_title": "Malnutrition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 139, 
+                    "end": 147, 
+                    "score": 0.1436941921710968, 
+                    "spot": "homeless"
+                }, 
+                {
+                    "begin": 271, 
+                    "end": 279, 
+                    "score": 0.22193828225135803, 
+                    "spot": "homeless"
+                }
+            ], 
+            "wiki_id": 19394651, 
+            "wiki_title": "Homelessness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1099, 
+                    "end": 1108, 
+                    "score": 0.0036619161255657673, 
+                    "spot": "age group"
+                }
+            ], 
+            "wiki_id": 187101, 
+            "wiki_title": "Demographic profile"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 760, 
+                    "end": 768, 
+                    "score": 0.08314214646816254, 
+                    "spot": "inactive"
+                }
+            ], 
+            "wiki_id": 32571, 
+            "wiki_title": "Volcano"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 545, 
+                    "end": 554, 
+                    "score": 0.0009507855284027755, 
+                    "spot": "estimates"
+                }
+            ], 
+            "wiki_id": 36687154, 
+            "wiki_title": "Estimation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 204, 
+                    "score": 0.33580708503723145, 
+                    "spot": "tuberculosis prevention"
+                }, 
+                {
+                    "begin": 368, 
+                    "end": 391, 
+                    "score": 0.22356241941452026, 
+                    "spot": "tuberculosis prevention"
+                }
+            ], 
+            "wiki_id": 1330683, 
+            "wiki_title": "Tuberculosis management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 123, 
+                    "end": 130, 
+                    "score": 0.15272492170333862, 
+                    "spot": "program"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 610, 
+                    "end": 614, 
+                    "score": 0.24758248031139374, 
+                    "spot": "germ"
+                }, 
+                {
+                    "begin": 752, 
+                    "end": 756, 
+                    "score": 0.2678130865097046, 
+                    "spot": "germ"
+                }
+            ], 
+            "wiki_id": 20377, 
+            "wiki_title": "Microorganism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1006, 
+                    "end": 1012, 
+                    "score": 0.32306286692619324, 
+                    "spot": "cancer"
+                }
+            ], 
+            "wiki_id": 105219, 
+            "wiki_title": "Cancer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 257, 
+                    "end": 266, 
+                    "score": 0.1470692902803421, 
+                    "spot": "residence"
+                }
+            ], 
+            "wiki_id": 13590, 
+            "wiki_title": "House"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 105, 
+                    "score": 0.06630852818489075, 
+                    "spot": "Human Resources"
+                }
+            ], 
+            "wiki_id": 46053, 
+            "wiki_title": "Human resources"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 699, 
+                    "end": 705, 
+                    "score": 0.17060169577598572, 
+                    "spot": "spread"
+                }
+            ], 
+            "wiki_id": 152509, 
+            "wiki_title": "Metastasis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 876, 
+                    "end": 885, 
+                    "score": 0.12692101299762726, 
+                    "spot": "resisting"
+                }
+            ], 
+            "wiki_id": 83933, 
+            "wiki_title": "Resistance movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 440, 
+                    "end": 450, 
+                    "score": 0.015093173831701279, 
+                    "spot": "resolution"
+                }
+            ], 
+            "wiki_id": 601402, 
+            "wiki_title": "Resolution (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 120, 
+                    "score": 0.15339745581150055, 
+                    "spot": "Administration"
+                }
+            ], 
+            "wiki_id": 154985, 
+            "wiki_title": "System administrator"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1110, 
+                    "end": 1120, 
+                    "score": 0.14309170842170715, 
+                    "spot": "accounting"
+                }
+            ], 
+            "wiki_id": 2593, 
+            "wiki_title": "Accounting"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1049, 
+                    "end": 1062, 
+                    "score": 0.12077857553958893, 
+                    "spot": "concentration"
+                }
+            ], 
+            "wiki_id": 7512, 
+            "wiki_title": "Concentration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 158, 
+                    "end": 169, 
+                    "score": 0.026470588520169258, 
+                    "spot": "train\nstaff"
+                }
+            ], 
+            "wiki_id": 702958, 
+            "wiki_title": "Token (railway signalling)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 349, 
+                    "end": 357, 
+                    "score": 0.04651070758700371, 
+                    "spot": "services"
+                }
+            ], 
+            "wiki_id": 1291782, 
+            "wiki_title": "Public service"
+        }
+    ]
+}

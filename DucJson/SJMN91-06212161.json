@@ -1,0 +1,1264 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 876, 
+                    "end": 882, 
+                    "score": 0.04229724779725075, 
+                    "spot": "how to"
+                }
+            ], 
+            "wiki_id": 175502, 
+            "wiki_title": "How-to"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1462, 
+                    "end": 1466, 
+                    "score": 0.12224853783845901, 
+                    "spot": "noon"
+                }
+            ], 
+            "wiki_id": 209005, 
+            "wiki_title": "Noon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 883, 
+                    "end": 892, 
+                    "score": 0.009125344455242157, 
+                    "spot": "take care"
+                }
+            ], 
+            "wiki_id": 24705663, 
+            "wiki_title": "Love?"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 122, 
+                    "end": 130, 
+                    "score": 0.005917397793382406, 
+                    "spot": "ancestry"
+                }
+            ], 
+            "wiki_id": 524568, 
+            "wiki_title": "Ancestor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 616, 
+                    "end": 625, 
+                    "score": 0.14937327802181244, 
+                    "spot": "healthier"
+                }
+            ], 
+            "wiki_id": 2019285, 
+            "wiki_title": "White meat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 90, 
+                    "end": 93, 
+                    "score": 0.036826979368925095, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 382, 
+                    "end": 385, 
+                    "score": 0.20814061164855957, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 603, 
+                    "end": 608, 
+                    "score": 0.026387937366962433, 
+                    "spot": "tasty"
+                }
+            ], 
+            "wiki_id": 628193, 
+            "wiki_title": "Tasty (Kelis album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1094, 
+                    "end": 1099, 
+                    "score": 0.12155916541814804, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 460615, 
+            "wiki_title": "British undergraduate degree classification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 528, 
+                    "end": 538, 
+                    "score": 0.1784297525882721, 
+                    "spot": "medication"
+                }
+            ], 
+            "wiki_id": 180121, 
+            "wiki_title": "Pharmaceutical drug"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 515, 
+                    "end": 523, 
+                    "score": 0.1801963895559311, 
+                    "spot": "exercise"
+                }, 
+                {
+                    "begin": 671, 
+                    "end": 679, 
+                    "score": 0.15318599343299866, 
+                    "spot": "exercise"
+                }
+            ], 
+            "wiki_id": 189037, 
+            "wiki_title": "Physical exercise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 285, 
+                    "end": 292, 
+                    "score": 0.38415178656578064, 
+                    "spot": "obesity"
+                }, 
+                {
+                    "begin": 416, 
+                    "end": 426, 
+                    "score": 0.2212306708097458, 
+                    "spot": "overweight"
+                }
+            ], 
+            "wiki_id": 56435, 
+            "wiki_title": "Obesity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1524, 
+                    "end": 1537, 
+                    "score": 0.2954545319080353, 
+                    "spot": "Cochrane Road"
+                }
+            ], 
+            "wiki_id": 10746395, 
+            "wiki_title": "Cochrane Road (Hamilton, Ontario)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1047, 
+                    "end": 1056, 
+                    "score": 0.1925167590379715, 
+                    "spot": "bilingual"
+                }
+            ], 
+            "wiki_id": 1570983, 
+            "wiki_title": "Multilingualism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1378, 
+                    "end": 1380, 
+                    "score": 0.026281176134943962, 
+                    "spot": "RE"
+                }
+            ], 
+            "wiki_id": 25603, 
+            "wiki_title": "Rhenium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1481, 
+                    "end": 1494, 
+                    "score": 0.25451621413230896, 
+                    "spot": "Health Center"
+                }
+            ], 
+            "wiki_id": 30048845, 
+            "wiki_title": "Community health center"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 446, 
+                    "end": 452, 
+                    "score": 0.0689840316772461, 
+                    "spot": "clinic"
+                }
+            ], 
+            "wiki_id": 832314, 
+            "wiki_title": "Clinic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 558, 
+                    "end": 563, 
+                    "score": 0.15357659757137299, 
+                    "spot": "learn"
+                }
+            ], 
+            "wiki_id": 183403, 
+            "wiki_title": "Learning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1203, 
+                    "end": 1214, 
+                    "score": 0.0549919456243515, 
+                    "spot": "instruction"
+                }, 
+                {
+                    "begin": 1417, 
+                    "end": 1424, 
+                    "score": 0.11431010812520981, 
+                    "spot": "program"
+                }
+            ], 
+            "wiki_id": 9252, 
+            "wiki_title": "Education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 981, 
+                    "end": 993, 
+                    "score": 0.0769072100520134, 
+                    "spot": "neighborhood"
+                }
+            ], 
+            "wiki_id": 177193, 
+            "wiki_title": "Neighbourhood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 462, 
+                    "end": 466, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 932, 
+                    "end": 940, 
+                    "score": 0.19431601464748383, 
+                    "spot": "hospital"
+                }
+            ], 
+            "wiki_id": 18994221, 
+            "wiki_title": "Hospital"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1582, 
+                    "end": 1585, 
+                    "score": 0.1566968411207199, 
+                    "spot": "a.m"
+                }
+            ], 
+            "wiki_id": 1140, 
+            "wiki_title": "Amplitude modulation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 13, 
+                    "end": 20, 
+                    "score": 0.04757760837674141, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 178, 
+                    "end": 185, 
+                    "score": 0.025159168988466263, 
+                    "spot": "percent"
+                }, 
+                {
+                    "begin": 353, 
+                    "end": 360, 
+                    "score": 0.04283065348863602, 
+                    "spot": "percent"
+                }
+            ], 
+            "wiki_id": 64493, 
+            "wiki_title": "Percentage"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1513, 
+                    "end": 1518, 
+                    "score": 0.15619972348213196, 
+                    "spot": "Drive"
+                }
+            ], 
+            "wiki_id": 1470088, 
+            "wiki_title": "The Drive"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 744, 
+                    "end": 755, 
+                    "score": 0.06061427295207977, 
+                    "spot": "contracting"
+                }
+            ], 
+            "wiki_id": 1110611, 
+            "wiki_title": "Muscle contraction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 327, 
+                    "end": 335, 
+                    "score": 0.1473018079996109, 
+                    "spot": "McNamara"
+                }
+            ], 
+            "wiki_id": 882626, 
+            "wiki_title": "Patrick V. McNamara"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 644, 
+                    "end": 660, 
+                    "score": 0.35954222083091736, 
+                    "spot": "unsaturated fats"
+                }
+            ], 
+            "wiki_id": 264748, 
+            "wiki_title": "Unsaturated fat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 854, 
+                    "end": 856, 
+                    "score": 0.01756913773715496, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 1278, 
+                    "end": 1280, 
+                    "score": 0.09322283416986465, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 569, 
+                    "end": 580, 
+                    "score": 0.18514157831668854, 
+                    "spot": "traditional"
+                }
+            ], 
+            "wiki_id": 30067, 
+            "wiki_title": "Tradition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1649, 
+                    "end": 1667, 
+                    "score": 0.254593163728714, 
+                    "spot": "Santa Clara\nValley"
+                }
+            ], 
+            "wiki_id": 267619, 
+            "wiki_title": "Santa Clara Valley"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 121, 
+                    "score": 0.22904163599014282, 
+                    "spot": "American Indian"
+                }, 
+                {
+                    "begin": 193, 
+                    "end": 200, 
+                    "score": 0.11614717543125153, 
+                    "spot": "Indians"
+                }
+            ], 
+            "wiki_id": 21217, 
+            "wiki_title": "Native Americans in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 857, 
+                    "end": 859, 
+                    "score": 0.06633591651916504, 
+                    "spot": "re"
+                }
+            ], 
+            "wiki_id": 195533, 
+            "wiki_title": "Religious education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 909, 
+                    "end": 917, 
+                    "score": 0.1201874241232872, 
+                    "spot": "McNamara"
+                }
+            ], 
+            "wiki_id": 25051732, 
+            "wiki_title": "Martin Dewey McNamara"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 490, 
+                    "end": 496, 
+                    "score": 0.029399937018752098, 
+                    "spot": "manage"
+                }, 
+                {
+                    "begin": 824, 
+                    "end": 830, 
+                    "score": 0.000661489088088274, 
+                    "spot": "manage"
+                }
+            ], 
+            "wiki_id": 501672, 
+            "wiki_title": "Manager (baseball)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 588, 
+                    "end": 591, 
+                    "score": 0.17273648083209991, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 198153, 
+            "wiki_title": "Canning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1193, 
+                    "end": 1202, 
+                    "score": 0.01900445483624935, 
+                    "spot": "receiving"
+                }
+            ], 
+            "wiki_id": 491851, 
+            "wiki_title": "Radio receiver"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1454, 
+                    "end": 1457, 
+                    "score": 0.14101748168468475, 
+                    "spot": "a.m"
+                }
+            ], 
+            "wiki_id": 241267, 
+            "wiki_title": "12-hour clock"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 201, 
+                    "end": 208, 
+                    "score": 0.12052378058433533, 
+                    "spot": "develop"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 587, 
+                    "score": 0.152910515666008, 
+                    "spot": "dishes"
+                }
+            ], 
+            "wiki_id": 1151989, 
+            "wiki_title": "Tableware"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 797, 
+                    "end": 801, 
+                    "score": 0.17000511288642883, 
+                    "spot": "cure"
+                }
+            ], 
+            "wiki_id": 16767087, 
+            "wiki_title": "Cure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1128, 
+                    "end": 1134, 
+                    "score": 0.1234317421913147, 
+                    "spot": "people"
+                }, 
+                {
+                    "begin": 1161, 
+                    "end": 1167, 
+                    "score": 0.14363306760787964, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 51, 
+                    "end": 59, 
+                    "score": 0.290374755859375, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 152, 
+                    "end": 160, 
+                    "score": 0.2756342887878418, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 209, 
+                    "end": 217, 
+                    "score": 0.33248379826545715, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 317, 
+                    "end": 325, 
+                    "score": 0.2408212423324585, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 403, 
+                    "end": 411, 
+                    "score": 0.2932000160217285, 
+                    "spot": "diabetic"
+                }, 
+                {
+                    "begin": 497, 
+                    "end": 505, 
+                    "score": 0.39307814836502075, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 756, 
+                    "end": 764, 
+                    "score": 0.25150012969970703, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 802, 
+                    "end": 810, 
+                    "score": 0.3440113961696625, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 949, 
+                    "end": 957, 
+                    "score": 0.31657615303993225, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 994, 
+                    "end": 1002, 
+                    "score": 0.2488204836845398, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1397, 
+                    "end": 1405, 
+                    "score": 0.3321099877357483, 
+                    "spot": "diabetes"
+                }, 
+                {
+                    "begin": 1629, 
+                    "end": 1637, 
+                    "score": 0.2520449459552765, 
+                    "spot": "Diabetes"
+                }
+            ], 
+            "wiki_id": 40017873, 
+            "wiki_title": "Diabetes mellitus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 970, 
+                    "end": 980, 
+                    "score": 0.06339959055185318, 
+                    "spot": "sponsoring"
+                }
+            ], 
+            "wiki_id": 545607, 
+            "wiki_title": "Sponsor (commercial)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 138, 
+                    "end": 148, 
+                    "score": 0.0802658274769783, 
+                    "spot": "vulnerable"
+                }
+            ], 
+            "wiki_id": 9383123, 
+            "wiki_title": "Social vulnerability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 99, 
+                    "end": 105, 
+                    "score": 0.001856324844993651, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 20481528, 
+            "wiki_title": "Martin C. Strong"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1481, 
+                    "end": 1487, 
+                    "score": 0.13952739536762238, 
+                    "spot": "Health"
+                }
+            ], 
+            "wiki_id": 80381, 
+            "wiki_title": "Health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1321, 
+                    "end": 1332, 
+                    "score": 0.06712564826011658, 
+                    "spot": "monolingual"
+                }
+            ], 
+            "wiki_id": 1068783, 
+            "wiki_title": "Monolingualism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1238, 
+                    "end": 1240, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 4794417, 
+            "wiki_title": "Guere language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 783, 
+                    "end": 788, 
+                    "score": 0.02966935560107231, 
+                    "spot": "magic"
+                }
+            ], 
+            "wiki_id": 41520179, 
+            "wiki_title": "Magic!"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 831, 
+                    "end": 839, 
+                    "score": 0.02480158768594265, 
+                    "spot": "your own"
+                }
+            ], 
+            "wiki_id": 5101572, 
+            "wiki_title": "On Your Own (Blur song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1371, 
+                    "end": 1373, 
+                    "score": 0.16087830066680908, 
+                    "spot": "IF"
+                }
+            ], 
+            "wiki_id": 1685851, 
+            "wiki_title": "If (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1439, 
+                    "end": 1443, 
+                    "score": 0.07583349943161011, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 719, 
+                    "end": 724, 
+                    "score": 0.08538652956485748, 
+                    "spot": "lower"
+                }
+            ], 
+            "wiki_id": 39903086, 
+            "wiki_title": "Working class"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 131, 
+                    "end": 134, 
+                    "score": 0.049536895006895065, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 252200, 
+            "wiki_title": "Rollo May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1470, 
+                    "end": 1480, 
+                    "score": 0.01923076994717121, 
+                    "spot": "St. Louise"
+                }, 
+                {
+                    "begin": 1502, 
+                    "end": 1512, 
+                    "score": 0.01923076994717121, 
+                    "spot": "St. Louise"
+                }
+            ], 
+            "wiki_id": 27687, 
+            "wiki_title": "St. Louis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 780, 
+                    "end": 788, 
+                    "score": 0.008152173832058907, 
+                    "spot": "no magic"
+                }
+            ], 
+            "wiki_id": 27150542, 
+            "wiki_title": "No Magic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 253, 
+                    "end": 257, 
+                    "score": 0.185902938246727, 
+                    "spot": "diet"
+                }
+            ], 
+            "wiki_id": 639924, 
+            "wiki_title": "Diet (nutrition)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 80, 
+                    "end": 89, 
+                    "score": 0.10598954558372498, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 266, 
+                    "end": 275, 
+                    "score": 0.12777802348136902, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 364, 
+                    "end": 373, 
+                    "score": 0.11671078950166702, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 1016, 
+                    "end": 1025, 
+                    "score": 0.19233931601047516, 
+                    "spot": "Hispanics"
+                }, 
+                {
+                    "begin": 1429, 
+                    "end": 1438, 
+                    "score": 0.22878526151180267, 
+                    "spot": "Hispanics"
+                }
+            ], 
+            "wiki_id": 56120, 
+            "wiki_title": "Hispanic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 692, 
+                    "end": 698, 
+                    "score": 0.13259795308113098, 
+                    "spot": "weight"
+                }
+            ], 
+            "wiki_id": 19048, 
+            "wiki_title": "Mass"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 428, 
+                    "end": 436, 
+                    "score": 0.00160633132327348, 
+                    "spot": "she said"
+                }
+            ], 
+            "wiki_id": 26449392, 
+            "wiki_title": "She Said"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1256, 
+                    "end": 1263, 
+                    "score": 0.08967675268650055, 
+                    "spot": "regular"
+                }
+            ], 
+            "wiki_id": 25723, 
+            "wiki_title": "Regular language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 840, 
+                    "end": 848, 
+                    "score": 0.21183998882770538, 
+                    "spot": "diabetes"
+                }
+            ], 
+            "wiki_id": 154502, 
+            "wiki_title": "Diabetes mellitus type 2"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 869, 
+                    "end": 875, 
+                    "score": 0.03531293943524361, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 3488351, 
+            "wiki_title": "People"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 685, 
+                    "end": 691, 
+                    "score": 0.18778647482395172, 
+                    "spot": "reduce"
+                }
+            ], 
+            "wiki_id": 49198, 
+            "wiki_title": "Reductionism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 958, 
+                    "end": 965, 
+                    "score": 0.13682593405246735, 
+                    "spot": "society"
+                }, 
+                {
+                    "begin": 1638, 
+                    "end": 1645, 
+                    "score": 0.14021337032318115, 
+                    "spot": "Society"
+                }
+            ], 
+            "wiki_id": 37235, 
+            "wiki_title": "Society"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1595, 
+                    "end": 1606, 
+                    "score": 0.16019999980926514, 
+                    "spot": "information"
+                }
+            ], 
+            "wiki_id": 18985062, 
+            "wiki_title": "Information"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1003, 
+                    "end": 1011, 
+                    "score": 0.06044469028711319, 
+                    "spot": "programs"
+                }, 
+                {
+                    "begin": 1078, 
+                    "end": 1086, 
+                    "score": 0.13292497396469116, 
+                    "spot": "programs"
+                }
+            ], 
+            "wiki_id": 47293, 
+            "wiki_title": "Master of Business Administration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1351, 
+                    "end": 1359, 
+                    "score": 0.11839509010314941, 
+                    "spot": "McNamara"
+                }
+            ], 
+            "wiki_id": 11388444, 
+            "wiki_title": "William McNamara"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 46, 
+                    "score": 0.09405484050512314, 
+                    "spot": "general population"
+                }
+            ], 
+            "wiki_id": 19008450, 
+            "wiki_title": "Prison"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 789, 
+                    "end": 793, 
+                    "score": 0.09856031090021133, 
+                    "spot": "pill"
+                }
+            ], 
+            "wiki_id": 22623, 
+            "wiki_title": "Combined oral contraceptive pill"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 553, 
+                    "end": 557, 
+                    "score": 0.21215026080608368, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 680, 
+                    "end": 684, 
+                    "score": 0.22794891893863678, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 309, 
+                    "end": 316, 
+                    "score": 0.01900296099483967, 
+                    "spot": "trigger"
+                }
+            ], 
+            "wiki_id": 4633039, 
+            "wiki_title": "Trigger (firearms)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1231, 
+                    "score": 0.0777493417263031, 
+                    "spot": "language"
+                }
+            ], 
+            "wiki_id": 23015, 
+            "wiki_title": "Programming language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 467, 
+                    "end": 472, 
+                    "score": 0.04110158979892731, 
+                    "spot": "focus"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1139, 
+                    "end": 1144, 
+                    "score": 0.13526242971420288, 
+                    "spot": "speak"
+                }
+            ], 
+            "wiki_id": 1099563, 
+            "wiki_title": "Speak (Lindsay Lohan album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1397, 
+                    "end": 1416, 
+                    "score": 0.3059607744216919, 
+                    "spot": "diabetes management"
+                }
+            ], 
+            "wiki_id": 2966520, 
+            "wiki_title": "Diabetes management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 860, 
+                    "end": 868, 
+                    "score": 0.1152210384607315, 
+                    "spot": "teaching"
+                }, 
+                {
+                    "begin": 1057, 
+                    "end": 1068, 
+                    "score": 0.1271161437034607, 
+                    "spot": "instructors"
+                }
+            ], 
+            "wiki_id": 205075, 
+            "wiki_title": "Teacher"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 28, 
+                    "end": 35, 
+                    "score": 0.09143295139074326, 
+                    "spot": "general"
+                }
+            ], 
+            "wiki_id": 148537, 
+            "wiki_title": "General officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 709, 
+                    "end": 713, 
+                    "score": 0.06681549549102783, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 855329, 
+            "wiki_title": "Turn (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 453, 
+                    "end": 461, 
+                    "score": 0.053482700139284134, 
+                    "spot": "Saturday"
+                }
+            ], 
+            "wiki_id": 28809, 
+            "wiki_title": "Shabbat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 714, 
+                    "end": 718, 
+                    "score": 0.048367105424404144, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1264, 
+                    "end": 1272, 
+                    "score": 0.0008893184131011367, 
+                    "spot": "programs"
+                }
+            ], 
+            "wiki_id": 19508643, 
+            "wiki_title": "Television program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1374, 
+                    "end": 1377, 
+                    "score": 0.1615845113992691, 
+                    "spot": "YOU"
+                }
+            ], 
+            "wiki_id": 4427143, 
+            "wiki_title": "You (Janet Jackson song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 497, 
+                    "end": 513, 
+                    "score": 0.424060195684433, 
+                    "spot": "diabetes -- diet"
+                }
+            ], 
+            "wiki_id": 6552991, 
+            "wiki_title": "Diabetic diet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1135, 
+                    "end": 1138, 
+                    "score": 0.15113744139671326, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 1168, 
+                    "end": 1171, 
+                    "score": 0.056768547743558884, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1541, 
+                    "end": 1552, 
+                    "score": 0.255952388048172, 
+                    "spot": "Morgan Hill"
+                }
+            ], 
+            "wiki_id": 108160, 
+            "wiki_title": "Morgan Hill, California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1150, 
+                    "end": 1157, 
+                    "score": 0.13645124435424805, 
+                    "spot": "Spanish"
+                }
+            ], 
+            "wiki_id": 26825, 
+            "wiki_title": "Spanish language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1554, 
+                    "end": 1566, 
+                    "score": 0.009451672434806824, 
+                    "spot": "Registration"
+                }
+            ], 
+            "wiki_id": 420977, 
+            "wiki_title": "Licensure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 61, 
+                    "end": 69, 
+                    "score": 0.14849260449409485, 
+                    "spot": "McNamara"
+                }, 
+                {
+                    "begin": 219, 
+                    "end": 227, 
+                    "score": 0.10535064339637756, 
+                    "spot": "McNamara"
+                }
+            ], 
+            "wiki_id": 80222, 
+            "wiki_title": "Robert McNamara"
+        }
+    ]
+}

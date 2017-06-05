@@ -1,0 +1,1222 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 854, 
+                    "end": 858, 
+                    "score": 0.07512006908655167, 
+                    "spot": "deny"
+                }
+            ], 
+            "wiki_id": 1631852, 
+            "wiki_title": "Denial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 304, 
+                    "end": 313, 
+                    "score": 0.0009755152859725058, 
+                    "spot": "programme"
+                }
+            ], 
+            "wiki_id": 282626, 
+            "wiki_title": "Program management"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 457, 
+                    "end": 469, 
+                    "score": 0.01871657744050026, 
+                    "spot": "pilot scheme"
+                }
+            ], 
+            "wiki_id": 3541802, 
+            "wiki_title": "Pilot experiment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 828, 
+                    "end": 834, 
+                    "score": 0.12974706292152405, 
+                    "spot": "refuse"
+                }
+            ], 
+            "wiki_id": 20646971, 
+            "wiki_title": "Waste"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 431, 
+                    "score": 0.38911622762680054, 
+                    "spot": "food stamps"
+                }
+            ], 
+            "wiki_id": 659087, 
+            "wiki_title": "Supplemental Nutrition Assistance Program"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 928, 
+                    "end": 936, 
+                    "score": 0.030332613736391068, 
+                    "spot": "children"
+                }
+            ], 
+            "wiki_id": 5792809, 
+            "wiki_title": "Angelina Jolie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 824, 
+                    "end": 827, 
+                    "score": 0.19027315080165863, 
+                    "spot": "who"
+                }, 
+                {
+                    "begin": 914, 
+                    "end": 917, 
+                    "score": 0.11306657642126083, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 254, 
+                    "end": 257, 
+                    "score": 0.06375924497842789, 
+                    "spot": "cut"
+                }
+            ], 
+            "wiki_id": 17253537, 
+            "wiki_title": "Censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 286, 
+                    "end": 295, 
+                    "score": 0.2470516860485077, 
+                    "spot": "principal"
+                }
+            ], 
+            "wiki_id": 152835, 
+            "wiki_title": "Debt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 567, 
+                    "end": 574, 
+                    "score": 0.08308088779449463, 
+                    "spot": "pioneer"
+                }
+            ], 
+            "wiki_id": 2327987, 
+            "wiki_title": "Pioneer (train)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 531, 
+                    "end": 545, 
+                    "score": 0.7290613651275635, 
+                    "spot": "Tommy Thompson"
+                }
+            ], 
+            "wiki_id": 217709, 
+            "wiki_title": "Tommy Thompson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1022, 
+                    "end": 1028, 
+                    "score": 0.1047847792506218, 
+                    "spot": "normal"
+                }
+            ], 
+            "wiki_id": 111690, 
+            "wiki_title": "Normal, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1441, 
+                    "end": 1448, 
+                    "score": 0.1297750174999237, 
+                    "spot": "held up"
+                }
+            ], 
+            "wiki_id": 54849, 
+            "wiki_title": "Robbery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 923, 
+                    "end": 936, 
+                    "score": 0.0007221954874694347, 
+                    "spot": "more\nchildren"
+                }
+            ], 
+            "wiki_id": 33171429, 
+            "wiki_title": "Richard More (Mayflower passenger)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 578, 
+                    "end": 592, 
+                    "score": 0.1516634076833725, 
+                    "spot": "welfare\nreform"
+                }, 
+                {
+                    "begin": 1243, 
+                    "end": 1257, 
+                    "score": 0.1516634076833725, 
+                    "spot": "welfare reform"
+                }, 
+                {
+                    "begin": 1386, 
+                    "end": 1400, 
+                    "score": 0.1516634076833725, 
+                    "spot": "welfare reform"
+                }
+            ], 
+            "wiki_id": 401875, 
+            "wiki_title": "Welfare reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1067, 
+                    "end": 1076, 
+                    "score": 0.07286519557237625, 
+                    "spot": "proposals"
+                }
+            ], 
+            "wiki_id": 48276, 
+            "wiki_title": "History of the State of Palestine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 254, 
+                    "end": 261, 
+                    "score": 0.002882386092096567, 
+                    "spot": "cut off"
+                }
+            ], 
+            "wiki_id": 115639, 
+            "wiki_title": "Cut Off, Louisiana"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 178, 
+                    "end": 192, 
+                    "score": 0.17657236754894257, 
+                    "spot": "welfare system"
+                }
+            ], 
+            "wiki_id": 222839, 
+            "wiki_title": "Welfare state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1143, 
+                    "end": 1154, 
+                    "score": 0.2459700107574463, 
+                    "spot": "White House"
+                }
+            ], 
+            "wiki_id": 44029, 
+            "wiki_title": "Executive Office of the President"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1276, 
+                    "score": 0.015017698518931866, 
+                    "spot": "promise"
+                }
+            ], 
+            "wiki_id": 19275414, 
+            "wiki_title": "The Promise (Girls Aloud song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1106, 
+                    "end": 1110, 
+                    "score": 0.12211963534355164, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 31600, 
+            "wiki_title": "Time (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 981, 
+                    "end": 988, 
+                    "score": 0.06127530336380005, 
+                    "spot": "waivers"
+                }
+            ], 
+            "wiki_id": 3280233, 
+            "wiki_title": "NBA salary cap"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 637, 
+                    "end": 641, 
+                    "score": 0.2730422019958496, 
+                    "spot": "cuts"
+                }
+            ], 
+            "wiki_id": 455990, 
+            "wiki_title": "Tax cut"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 682, 
+                    "end": 684, 
+                    "score": 0.03486794978380203, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 30808, 
+            "wiki_title": "Tao"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 205, 
+                    "end": 214, 
+                    "score": 0.36939263343811035, 
+                    "spot": "President"
+                }
+            ], 
+            "wiki_id": 24113, 
+            "wiki_title": "President of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1347, 
+                    "end": 1364, 
+                    "score": 0.2833286225795746, 
+                    "spot": "election campaign"
+                }
+            ], 
+            "wiki_id": 519775, 
+            "wiki_title": "Political campaign"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 805, 
+                    "end": 816, 
+                    "score": 0.2664901614189148, 
+                    "spot": "able-bodied"
+                }
+            ], 
+            "wiki_id": 56285, 
+            "wiki_title": "Disability"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 296, 
+                    "end": 303, 
+                    "score": 0.25247666239738464, 
+                    "spot": "welfare"
+                }, 
+                {
+                    "begin": 324, 
+                    "end": 363, 
+                    "score": 0.48051947355270386, 
+                    "spot": "Aid to Families with Dependent Children"
+                }
+            ], 
+            "wiki_id": 1282402, 
+            "wiki_title": "Aid to Families with Dependent Children"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 101, 
+                    "score": 0.3358888030052185, 
+                    "spot": "Wisconsin"
+                }, 
+                {
+                    "begin": 555, 
+                    "end": 564, 
+                    "score": 0.3202055096626282, 
+                    "spot": "Wisconsin"
+                }
+            ], 
+            "wiki_id": 33127, 
+            "wiki_title": "Wisconsin"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1029, 
+                    "end": 1031, 
+                    "score": 0.06704847514629364, 
+                    "spot": "US"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 975, 
+                    "end": 980, 
+                    "score": 0.014773349277675152, 
+                    "spot": "grant"
+                }
+            ], 
+            "wiki_id": 1980975, 
+            "wiki_title": "Grant (money)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1191, 
+                    "end": 1196, 
+                    "score": 0.11127974838018417, 
+                    "spot": "limit"
+                }
+            ], 
+            "wiki_id": 505825, 
+            "wiki_title": "Term limit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 695, 
+                    "end": 701, 
+                    "score": 0.03027426078915596, 
+                    "spot": "school"
+                }
+            ], 
+            "wiki_id": 28022, 
+            "wiki_title": "School"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1425, 
+                    "end": 1431, 
+                    "score": 0.0747203454375267, 
+                    "spot": "reform"
+                }
+            ], 
+            "wiki_id": 200964, 
+            "wiki_title": "Reform movement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1082, 
+                    "end": 1089, 
+                    "score": 0.2512449622154236, 
+                    "spot": "Florida"
+                }
+            ], 
+            "wiki_id": 18933066, 
+            "wiki_title": "Florida"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1325, 
+                    "end": 1330, 
+                    "score": 0.14030221104621887, 
+                    "spot": "theme"
+                }
+            ], 
+            "wiki_id": 699908, 
+            "wiki_title": "Theme (narrative)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 734, 
+                    "end": 738, 
+                    "score": 0.16844385862350464, 
+                    "spot": "plan"
+                }, 
+                {
+                    "begin": 734, 
+                    "end": 740, 
+                    "score": 0.2516297399997711, 
+                    "spot": "plan a"
+                }
+            ], 
+            "wiki_id": 32588286, 
+            "wiki_title": "Plan A"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 134, 
+                    "end": 145, 
+                    "score": 0.0878327265381813, 
+                    "spot": "experiments"
+                }, 
+                {
+                    "begin": 599, 
+                    "end": 610, 
+                    "score": 0.3438313603401184, 
+                    "spot": "experiments"
+                }
+            ], 
+            "wiki_id": 548102, 
+            "wiki_title": "Experimental economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 845, 
+                    "end": 849, 
+                    "score": 0.09742358326911926, 
+                    "spot": "work"
+                }
+            ], 
+            "wiki_id": 149861, 
+            "wiki_title": "Work (physics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 88, 
+                    "score": 0.036486487835645676, 
+                    "spot": "welfare benefits"
+                }, 
+                {
+                    "begin": 642, 
+                    "end": 649, 
+                    "score": 0.4028869867324829, 
+                    "spot": "welfare"
+                }, 
+                {
+                    "begin": 642, 
+                    "end": 658, 
+                    "score": 0.3799458146095276, 
+                    "spot": "welfare payments"
+                }, 
+                {
+                    "begin": 755, 
+                    "end": 763, 
+                    "score": 0.4079497754573822, 
+                    "spot": "benefits"
+                }, 
+                {
+                    "begin": 785, 
+                    "end": 792, 
+                    "score": 0.42234063148498535, 
+                    "spot": "welfare"
+                }, 
+                {
+                    "begin": 785, 
+                    "end": 801, 
+                    "score": 0.37299108505249023, 
+                    "spot": "welfare payments"
+                }, 
+                {
+                    "begin": 906, 
+                    "end": 913, 
+                    "score": 0.23509596288204193, 
+                    "spot": "welfare"
+                }, 
+                {
+                    "begin": 1032, 
+                    "end": 1039, 
+                    "score": 0.1384073793888092, 
+                    "spot": "welfare"
+                }, 
+                {
+                    "begin": 1121, 
+                    "end": 1137, 
+                    "score": 0.036486487835645676, 
+                    "spot": "welfare benefits"
+                }
+            ], 
+            "wiki_id": 247817, 
+            "wiki_title": "Welfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 741, 
+                    "end": 751, 
+                    "score": 0.021572522819042206, 
+                    "spot": "time limit"
+                }, 
+                {
+                    "begin": 1106, 
+                    "end": 1117, 
+                    "score": 0.05884798988699913, 
+                    "spot": "time limits"
+                }
+            ], 
+            "wiki_id": 13948658, 
+            "wiki_title": "Time limit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 106, 
+                    "end": 113, 
+                    "score": 0.31108149886131287, 
+                    "spot": "Georgia"
+                }, 
+                {
+                    "begin": 706, 
+                    "end": 713, 
+                    "score": 0.29176807403564453, 
+                    "spot": "Georgia"
+                }
+            ], 
+            "wiki_id": 48830, 
+            "wiki_title": "Georgia (U.S. state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 992, 
+                    "end": 998, 
+                    "score": 0.03338155150413513, 
+                    "spot": "states"
+                }
+            ], 
+            "wiki_id": 18618239, 
+            "wiki_title": "U.S. state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1462, 
+                    "end": 1469, 
+                    "score": 0.0027912298683077097, 
+                    "spot": "passing"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 65, 
+                    "end": 71, 
+                    "score": 0.12560832500457764, 
+                    "spot": "reform"
+                }, 
+                {
+                    "begin": 1535, 
+                    "end": 1541, 
+                    "score": 0.08843977004289627, 
+                    "spot": "reform"
+                }
+            ], 
+            "wiki_id": 350685, 
+            "wiki_title": "Reform"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1040, 
+                    "end": 1045, 
+                    "score": 0.11908534914255142, 
+                    "spot": "rules"
+                }
+            ], 
+            "wiki_id": 25166191, 
+            "wiki_title": "Rule of law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 511, 
+                    "end": 521, 
+                    "score": 0.47914642095565796, 
+                    "spot": "Republican"
+                }
+            ], 
+            "wiki_id": 32070, 
+            "wiki_title": "Republican Party (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 22, 
+                    "score": 0.030395137146115303, 
+                    "spot": "US administration"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 55, 
+                    "score": 0.06246466189622879, 
+                    "spot": "pilot"
+                }
+            ], 
+            "wiki_id": 396572, 
+            "wiki_title": "Television pilot"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1285, 
+                    "end": 1292, 
+                    "score": 0.1040554791688919, 
+                    "spot": "welfare"
+                }
+            ], 
+            "wiki_id": 47789, 
+            "wiki_title": "Quality of life"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 453, 
+                    "end": 462, 
+                    "score": 0.5, 
+                    "spot": "The pilot"
+                }
+            ], 
+            "wiki_id": 5073006, 
+            "wiki_title": "The Pilot (Seinfeld)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1474, 
+                    "end": 1480, 
+                    "score": 0.0846981555223465, 
+                    "spot": "budget"
+                }
+            ], 
+            "wiki_id": 3874731, 
+            "wiki_title": "United States federal budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 470, 
+                    "end": 474, 
+                    "score": 0.19654008746147156, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 82176, 
+            "wiki_title": "Will County, Illinois"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 817, 
+                    "end": 823, 
+                    "score": 0.18212993443012238, 
+                    "spot": "adults"
+                }
+            ], 
+            "wiki_id": 167334, 
+            "wiki_title": "Adult"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 355, 
+                    "end": 363, 
+                    "score": 0.19654466211795807, 
+                    "spot": "Children"
+                }
+            ], 
+            "wiki_id": 128987, 
+            "wiki_title": "Child"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1155, 
+                    "end": 1164, 
+                    "score": 0.2557761073112488, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 234989, 
+            "wiki_title": "Northwest Territory"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 37, 
+                    "end": 45, 
+                    "score": 0.00229641399346292, 
+                    "spot": "go-ahead"
+                }
+            ], 
+            "wiki_id": 946657, 
+            "wiki_title": "Go-Ahead Group"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 215, 
+                    "end": 227, 
+                    "score": 0.5, 
+                    "spot": "Bill\nClinton"
+                }
+            ], 
+            "wiki_id": 3356, 
+            "wiki_title": "Bill Clinton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1293, 
+                    "end": 1306, 
+                    "score": 0.003636363660916686, 
+                    "spot": "as we know it"
+                }
+            ], 
+            "wiki_id": 17459856, 
+            "wiki_title": "As We Know It"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 884, 
+                    "end": 892, 
+                    "score": 0.21803437173366547, 
+                    "spot": "families"
+                }
+            ], 
+            "wiki_id": 10401954, 
+            "wiki_title": "Family"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1337, 
+                    "end": 1344, 
+                    "score": 0.16777224838733673, 
+                    "spot": "Clinton"
+                }
+            ], 
+            "wiki_id": 5043192, 
+            "wiki_title": "Hillary Clinton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1549, 
+                    "end": 1559, 
+                    "score": 0.18334059417247772, 
+                    "spot": "healthcare"
+                }
+            ], 
+            "wiki_id": 261925, 
+            "wiki_title": "Health care"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 162, 
+                    "end": 170, 
+                    "score": 0.0019228458404541016, 
+                    "spot": "overhaul"
+                }
+            ], 
+            "wiki_id": 91191, 
+            "wiki_title": "Maintenance, repair, and operations"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 942, 
+                    "end": 960, 
+                    "score": 0.042369160801172256, 
+                    "spot": "federal government"
+                }
+            ], 
+            "wiki_id": 33367309, 
+            "wiki_title": "Federal government of Brazil"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1197, 
+                    "end": 1201, 
+                    "score": 0.06355918198823929, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 275574, 
+            "wiki_title": "Will Durant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1578, 
+                    "end": 1586, 
+                    "score": 0.1281718760728836, 
+                    "spot": "Congress"
+                }
+            ], 
+            "wiki_id": 31756, 
+            "wiki_title": "United States Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1452, 
+                    "end": 1458, 
+                    "score": 0.003774854354560375, 
+                    "spot": "delays"
+                }
+            ], 
+            "wiki_id": 1486779, 
+            "wiki_title": "Delays"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1229, 
+                    "end": 1236, 
+                    "score": 0.04508347436785698, 
+                    "spot": "Clinton"
+                }
+            ], 
+            "wiki_id": 53368, 
+            "wiki_title": "Clinton County, New York"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1214, 
+                    "score": 0.14419320225715637, 
+                    "spot": "central"
+                }
+            ], 
+            "wiki_id": 5188, 
+            "wiki_title": "Central Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 999, 
+                    "end": 1006, 
+                    "score": 0.001954055856913328, 
+                    "spot": "wishing"
+                }
+            ], 
+            "wiki_id": 5367275, 
+            "wiki_title": "Wishing (If I Had a Photograph of You)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1281, 
+                    "end": 1284, 
+                    "score": 0.13407523930072784, 
+                    "spot": "end"
+                }
+            ], 
+            "wiki_id": 3464610, 
+            "wiki_title": "Intrinsic value (ethics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1215, 
+                    "end": 1222, 
+                    "score": 0.07826311886310577, 
+                    "spot": "feature"
+                }
+            ], 
+            "wiki_id": 596161, 
+            "wiki_title": "Feature (archaeology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 778, 
+                    "end": 784, 
+                    "score": 0.22052697837352753, 
+                    "spot": "reduce"
+                }
+            ], 
+            "wiki_id": 3325618, 
+            "wiki_title": "Tax shelter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1549, 
+                    "end": 1566, 
+                    "score": 0.24150831997394562, 
+                    "spot": "healthcare\nsystem"
+                }
+            ], 
+            "wiki_id": 60976, 
+            "wiki_title": "Health system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1507, 
+                    "end": 1514, 
+                    "score": 0.0006830177153460681, 
+                    "spot": "delayed"
+                }
+            ], 
+            "wiki_id": 5215871, 
+            "wiki_title": "Delay (audio effect)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 522, 
+                    "end": 530, 
+                    "score": 0.3051990866661072, 
+                    "spot": "Governor"
+                }
+            ], 
+            "wiki_id": 62517, 
+            "wiki_title": "Governor of California"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 267, 
+                    "end": 275, 
+                    "score": 0.21342910826206207, 
+                    "spot": "payments"
+                }, 
+                {
+                    "begin": 872, 
+                    "end": 880, 
+                    "score": 0.12525345385074615, 
+                    "spot": "payments"
+                }
+            ], 
+            "wiki_id": 3648961, 
+            "wiki_title": "Payment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1094, 
+                    "end": 1101, 
+                    "score": 0.29743143916130066, 
+                    "spot": "Vermont"
+                }
+            ], 
+            "wiki_id": 32578, 
+            "wiki_title": "Vermont"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 662, 
+                    "end": 677, 
+                    "score": 0.0211267601698637, 
+                    "spot": "teenage mothers"
+                }
+            ], 
+            "wiki_id": 228824, 
+            "wiki_title": "Teenage pregnancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1226, 
+                    "end": 1228, 
+                    "score": 0.024947136640548706, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 1334, 
+                    "end": 1336, 
+                    "score": 0.07827301323413849, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 464522, 
+            "wiki_title": "Master of Laws"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 262, 
+                    "end": 266, 
+                    "score": 0.20163771510124207, 
+                    "spot": "cash"
+                }
+            ], 
+            "wiki_id": 55336, 
+            "wiki_title": "Cash"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1488, 
+                    "end": 1491, 
+                    "score": 0.11710820347070694, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 678, 
+                    "end": 681, 
+                    "score": 0.13312767446041107, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 247, 
+                    "score": 0.5, 
+                    "spot": "Wisconsin plan"
+                }
+            ], 
+            "wiki_id": 20638761, 
+            "wiki_title": "Wisconsin Plan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 719, 
+                    "end": 724, 
+                    "score": 0.12568038702011108, 
+                    "spot": "state"
+                }
+            ], 
+            "wiki_id": 303, 
+            "wiki_title": "Alabama"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 493, 
+                    "end": 501, 
+                    "score": 0.28892049193382263, 
+                    "spot": "counties"
+                }
+            ], 
+            "wiki_id": 88366, 
+            "wiki_title": "County (United States)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 689, 
+                    "end": 691, 
+                    "score": 0.054990530014038086, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 5166287, 
+            "wiki_title": "Go (Pearl Jam song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1401, 
+                    "end": 1411, 
+                    "score": 0.019807174801826477, 
+                    "spot": "task force"
+                }
+            ], 
+            "wiki_id": 205394, 
+            "wiki_title": "Task force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 345, 
+                    "end": 354, 
+                    "score": 0.1188398227095604, 
+                    "spot": "Dependent"
+                }
+            ], 
+            "wiki_id": 16784920, 
+            "wiki_title": "Dependant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 436, 
+                    "end": 442, 
+                    "score": 0.5077110528945923, 
+                    "spot": "health"
+                }, 
+                {
+                    "begin": 436, 
+                    "end": 451, 
+                    "score": 0.25482314825057983, 
+                    "spot": "health\ncoverage"
+                }
+            ], 
+            "wiki_id": 490201, 
+            "wiki_title": "Health insurance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1347, 
+                    "end": 1355, 
+                    "score": 0.2880324125289917, 
+                    "spot": "election"
+                }
+            ], 
+            "wiki_id": 9457, 
+            "wiki_title": "Election"
+        }
+    ]
+}

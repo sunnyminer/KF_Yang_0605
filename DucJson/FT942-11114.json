@@ -1,0 +1,3406 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 3509, 
+                    "end": 3513, 
+                    "score": 0.14799153804779053, 
+                    "spot": "Ludo"
+                }
+            ], 
+            "wiki_id": 18666, 
+            "wiki_title": "Ludo (board game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3671, 
+                    "end": 3676, 
+                    "score": 0.04477810487151146, 
+                    "spot": "focus"
+                }
+            ], 
+            "wiki_id": 68753, 
+            "wiki_title": "Attention"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2548, 
+                    "end": 2553, 
+                    "score": 0.20000000298023224, 
+                    "spot": "Panne"
+                }
+            ], 
+            "wiki_id": 140886, 
+            "wiki_title": "Velvet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 302, 
+                    "score": 0.004598646424710751, 
+                    "spot": "Authority"
+                }, 
+                {
+                    "begin": 3058, 
+                    "end": 3067, 
+                    "score": 0.14275546371936798, 
+                    "spot": "Authority"
+                }
+            ], 
+            "wiki_id": 9892, 
+            "wiki_title": "Expert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4400, 
+                    "end": 4405, 
+                    "score": 0.2850429117679596, 
+                    "spot": "Lille"
+                }
+            ], 
+            "wiki_id": 50116, 
+            "wiki_title": "Lille"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3999, 
+                    "end": 4008, 
+                    "score": 0.01305121649056673, 
+                    "spot": "promoters"
+                }
+            ], 
+            "wiki_id": 11972619, 
+            "wiki_title": "Promoter (entertainment)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4329, 
+                    "end": 4337, 
+                    "score": 0.20041541755199432, 
+                    "spot": "activity"
+                }
+            ], 
+            "wiki_id": 10947172, 
+            "wiki_title": "Activity centre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 816, 
+                    "end": 822, 
+                    "score": 0.1666666716337204, 
+                    "spot": "Libeer"
+                }
+            ], 
+            "wiki_id": 15093495, 
+            "wiki_title": "Ren\u00e9 Libeer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 476, 
+                    "end": 483, 
+                    "score": 0.4926806092262268, 
+                    "spot": "Hainaut"
+                }
+            ], 
+            "wiki_id": 152609, 
+            "wiki_title": "Hainaut (province)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 500, 
+                    "end": 504, 
+                    "score": 0.24648243188858032, 
+                    "spot": "Kent"
+                }
+            ], 
+            "wiki_id": 16766, 
+            "wiki_title": "Kent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1753, 
+                    "end": 1757, 
+                    "score": 0.0009427641052752733, 
+                    "spot": "main"
+                }
+            ], 
+            "wiki_id": 19781051, 
+            "wiki_title": "Main Street (Los Angeles)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1246, 
+                    "end": 1261, 
+                    "score": 0.25101780891418457, 
+                    "spot": "Belgian economy"
+                }
+            ], 
+            "wiki_id": 67304, 
+            "wiki_title": "Economy of Belgium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 13, 
+                    "score": 0.033402010798454285, 
+                    "spot": "official"
+                }
+            ], 
+            "wiki_id": 193178, 
+            "wiki_title": "Official language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2849, 
+                    "end": 2854, 
+                    "score": 0.12622319161891937, 
+                    "spot": "ports"
+                }
+            ], 
+            "wiki_id": 153990, 
+            "wiki_title": "Port wine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 617, 
+                    "end": 620, 
+                    "score": 0.06942392140626907, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4590, 
+                    "end": 4604, 
+                    "score": 0.15938115119934082, 
+                    "spot": "infrastructure"
+                }
+            ], 
+            "wiki_id": 174521, 
+            "wiki_title": "Infrastructure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1020, 
+                    "end": 1026, 
+                    "score": 0.021340178325772285, 
+                    "spot": "corner"
+                }
+            ], 
+            "wiki_id": 775003, 
+            "wiki_title": "Cornering the market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3178, 
+                    "end": 3188, 
+                    "score": 0.13470585644245148, 
+                    "spot": "businesses"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4302, 
+                    "end": 4316, 
+                    "score": 0.06310386210680008, 
+                    "spot": "leisure centre"
+                }
+            ], 
+            "wiki_id": 2433663, 
+            "wiki_title": "Leisure centre"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1305, 
+                    "end": 1310, 
+                    "score": 0.001023777644149959, 
+                    "spot": "1980s"
+                }
+            ], 
+            "wiki_id": 137895, 
+            "wiki_title": "1980s in film"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2563, 
+                    "end": 2568, 
+                    "score": 0.0044432696886360645, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2921, 
+                    "end": 2945, 
+                    "score": 0.10339832305908203, 
+                    "spot": "transport communications"
+                }
+            ], 
+            "wiki_id": 5643, 
+            "wiki_title": "Channel Islands"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1993, 
+                    "end": 1996, 
+                    "score": 0.5, 
+                    "spot": "E40"
+                }
+            ], 
+            "wiki_id": 295586, 
+            "wiki_title": "European route E40"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 177, 
+                    "end": 181, 
+                    "score": 0.14345474541187286, 
+                    "spot": "loss"
+                }
+            ], 
+            "wiki_id": 234798, 
+            "wiki_title": "Grief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1684, 
+                    "end": 1692, 
+                    "score": 0.09650459885597229, 
+                    "spot": "chambers"
+                }
+            ], 
+            "wiki_id": 204299, 
+            "wiki_title": "Bicameralism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 185, 
+                    "end": 192, 
+                    "score": 0.07884860783815384, 
+                    "spot": "traffic"
+                }, 
+                {
+                    "begin": 2660, 
+                    "end": 2667, 
+                    "score": 0.12396307289600372, 
+                    "spot": "traffic"
+                }
+            ], 
+            "wiki_id": 43081, 
+            "wiki_title": "Traffic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 198, 
+                    "end": 218, 
+                    "score": 0.08572950214147568, 
+                    "spot": "chambers of commerce"
+                }, 
+                {
+                    "begin": 858, 
+                    "end": 877, 
+                    "score": 0.06896551698446274, 
+                    "spot": "chamber of commerce"
+                }, 
+                {
+                    "begin": 2226, 
+                    "end": 2245, 
+                    "score": 0.568965494632721, 
+                    "spot": "chamber of commerce"
+                }, 
+                {
+                    "begin": 2226, 
+                    "end": 2258, 
+                    "score": 0.5169903039932251, 
+                    "spot": "chamber of commerce and industry"
+                }, 
+                {
+                    "begin": 3540, 
+                    "end": 3559, 
+                    "score": 0.06896551698446274, 
+                    "spot": "chamber of commerce"
+                }, 
+                {
+                    "begin": 4482, 
+                    "end": 4501, 
+                    "score": 0.06896551698446274, 
+                    "spot": "chamber of\ncommerce"
+                }
+            ], 
+            "wiki_id": 305503, 
+            "wiki_title": "Chamber of commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4417, 
+                    "end": 4426, 
+                    "score": 0.3235294222831726, 
+                    "spot": "Euralille"
+                }
+            ], 
+            "wiki_id": 39232277, 
+            "wiki_title": "Euralille"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3350, 
+                    "end": 3366, 
+                    "score": 0.10959799587726593, 
+                    "spot": "make the most of"
+                }
+            ], 
+            "wiki_id": 52033, 
+            "wiki_title": "Mathematical optimization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1563, 
+                    "end": 1571, 
+                    "score": 0.6854403018951416, 
+                    "spot": "Brussels"
+                }, 
+                {
+                    "begin": 1563, 
+                    "end": 1578, 
+                    "score": 0.3790434002876282, 
+                    "spot": "Brussels region"
+                }
+            ], 
+            "wiki_id": 3708, 
+            "wiki_title": "Brussels"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1837, 
+                    "end": 1850, 
+                    "score": 0.0977279394865036, 
+                    "spot": "holidaymakers"
+                }, 
+                {
+                    "begin": 1928, 
+                    "end": 1935, 
+                    "score": 0.12512007355690002, 
+                    "spot": "tourism"
+                }, 
+                {
+                    "begin": 3696, 
+                    "end": 3703, 
+                    "score": 0.128982812166214, 
+                    "spot": "tourism"
+                }, 
+                {
+                    "begin": 4217, 
+                    "end": 4224, 
+                    "score": 0.11757475882768631, 
+                    "spot": "tourist"
+                }, 
+                {
+                    "begin": 4509, 
+                    "end": 4516, 
+                    "score": 0.1822143942117691, 
+                    "spot": "Tourism"
+                }, 
+                {
+                    "begin": 4582, 
+                    "end": 4589, 
+                    "score": 0.24346567690372467, 
+                    "spot": "tourist"
+                }
+            ], 
+            "wiki_id": 29789, 
+            "wiki_title": "Tourism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 60, 
+                    "end": 68, 
+                    "score": 0.004471771884709597, 
+                    "spot": "promises"
+                }
+            ], 
+            "wiki_id": 47386148, 
+            "wiki_title": "Promises (Eric Clapton song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3967, 
+                    "end": 3980, 
+                    "score": 0.15830904245376587, 
+                    "spot": "World War One"
+                }
+            ], 
+            "wiki_id": 4764461, 
+            "wiki_title": "World War I"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 14, 
+                    "end": 21, 
+                    "score": 0.053419068455696106, 
+                    "spot": "opening"
+                }
+            ], 
+            "wiki_id": 533365, 
+            "wiki_title": "Rift"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1141, 
+                    "end": 1145, 
+                    "score": 0.037533991038799286, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 927001, 
+            "wiki_title": "Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2574, 
+                    "end": 2580, 
+                    "score": 0.001408450654707849, 
+                    "spot": "remote"
+                }
+            ], 
+            "wiki_id": 4686368, 
+            "wiki_title": "Remoteness in English law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1700, 
+                    "end": 1707, 
+                    "score": 0.04903123155236244, 
+                    "spot": "regions"
+                }, 
+                {
+                    "begin": 3444, 
+                    "end": 3450, 
+                    "score": 0.07289866358041763, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 228, 
+                    "score": 0.8949576616287231, 
+                    "spot": "Veurne"
+                }, 
+                {
+                    "begin": 2023, 
+                    "end": 2029, 
+                    "score": 0.5752697587013245, 
+                    "spot": "Veurne"
+                }, 
+                {
+                    "begin": 2219, 
+                    "end": 2225, 
+                    "score": 0.5, 
+                    "spot": "Veurne"
+                }, 
+                {
+                    "begin": 3533, 
+                    "end": 3539, 
+                    "score": 0.5, 
+                    "spot": "Veurne"
+                }, 
+                {
+                    "begin": 4475, 
+                    "end": 4481, 
+                    "score": 0.5, 
+                    "spot": "Veurne"
+                }
+            ], 
+            "wiki_id": 154412, 
+            "wiki_title": "Veurne"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1005, 
+                    "end": 1009, 
+                    "score": 0.02449828013777733, 
+                    "spot": "sort"
+                }
+            ], 
+            "wiki_id": 684389, 
+            "wiki_title": "Strategic Offensive Reductions Treaty"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2545, 
+                    "end": 2553, 
+                    "score": 0.23807112872600555, 
+                    "spot": "De Panne"
+                }
+            ], 
+            "wiki_id": 154409, 
+            "wiki_title": "De Panne"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4651, 
+                    "end": 4655, 
+                    "score": 0.027852725237607956, 
+                    "spot": "come"
+                }
+            ], 
+            "wiki_id": 1786600, 
+            "wiki_title": "Come (Prince album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3010, 
+                    "end": 3017, 
+                    "score": 0.09824346005916595, 
+                    "spot": "Sanders"
+                }
+            ], 
+            "wiki_id": 327157, 
+            "wiki_title": "Pharoah Sanders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2129, 
+                    "end": 2135, 
+                    "score": 0.41023245453834534, 
+                    "spot": "Russia"
+                }
+            ], 
+            "wiki_id": 25127146, 
+            "wiki_title": "Russia national football team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 572, 
+                    "end": 574, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 2595, 
+                    "end": 2597, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3001, 
+                    "end": 3003, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 4454, 
+                    "end": 4456, 
+                    "score": 0.0013314478565007448, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2077, 
+                    "end": 2081, 
+                    "score": 0.0009033234091475606, 
+                    "spot": "Once"
+                }
+            ], 
+            "wiki_id": 9175716, 
+            "wiki_title": "Once (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 92, 
+                    "end": 102, 
+                    "score": 0.06595085561275482, 
+                    "spot": "north-west"
+                }
+            ], 
+            "wiki_id": 1919472, 
+            "wiki_title": "Northwestern United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4016, 
+                    "end": 4022, 
+                    "score": 0.0035513092298060656, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 30804687, 
+            "wiki_title": "Region (mathematics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2698, 
+                    "end": 2708, 
+                    "score": 0.12505893409252167, 
+                    "spot": "passengers"
+                }
+            ], 
+            "wiki_id": 4582654, 
+            "wiki_title": "Passenger"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2139, 
+                    "end": 2146, 
+                    "score": 0.2041238397359848, 
+                    "spot": "England"
+                }
+            ], 
+            "wiki_id": 9316, 
+            "wiki_title": "England"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3473, 
+                    "end": 3489, 
+                    "score": 0.18945614993572235, 
+                    "spot": "industrial zones"
+                }
+            ], 
+            "wiki_id": 512940, 
+            "wiki_title": "Industrial park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3422, 
+                    "end": 3434, 
+                    "score": 0.20043127238750458, 
+                    "spot": "new industry"
+                }
+            ], 
+            "wiki_id": 359626, 
+            "wiki_title": "Second Industrial Revolution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1525, 
+                    "end": 1537, 
+                    "score": 0.13892772793769836, 
+                    "spot": "unemployment"
+                }, 
+                {
+                    "begin": 1584, 
+                    "end": 1596, 
+                    "score": 0.5411748290061951, 
+                    "spot": "unemployment"
+                }, 
+                {
+                    "begin": 1584, 
+                    "end": 1601, 
+                    "score": 0.5217125415802002, 
+                    "spot": "unemployment rate"
+                }
+            ], 
+            "wiki_id": 31741, 
+            "wiki_title": "Unemployment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1208, 
+                    "end": 1236, 
+                    "score": 0.017123287543654442, 
+                    "spot": "Co-operation and Development"
+                }
+            ], 
+            "wiki_id": 8496742, 
+            "wiki_title": "Cooperation and Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2907, 
+                    "end": 2909, 
+                    "score": 0.06580188870429993, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 612840, 
+            "wiki_title": "If...."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 813, 
+                    "end": 815, 
+                    "score": 0.023085178807377815, 
+                    "spot": "Jo"
+                }
+            ], 
+            "wiki_id": 7543521, 
+            "wiki_title": "Cho (Korean surname)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3573, 
+                    "end": 3584, 
+                    "score": 0.0008030502940528095, 
+                    "spot": "authorities"
+                }
+            ], 
+            "wiki_id": 170653, 
+            "wiki_title": "Authority"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1456, 
+                    "end": 1463, 
+                    "score": 0.0024457070976495743, 
+                    "spot": "arrival"
+                }
+            ], 
+            "wiki_id": 39353443, 
+            "wiki_title": "Treasure voyages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 641, 
+                    "end": 650, 
+                    "score": 0.07918167114257812, 
+                    "spot": "influence"
+                }, 
+                {
+                    "begin": 918, 
+                    "end": 924, 
+                    "score": 0.12358402460813522, 
+                    "spot": "impact"
+                }
+            ], 
+            "wiki_id": 509500, 
+            "wiki_title": "Social influence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2480, 
+                    "end": 2486, 
+                    "score": 0.3162120580673218, 
+                    "spot": "tracks"
+                }
+            ], 
+            "wiki_id": 321365, 
+            "wiki_title": "Track (rail transport)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 722, 
+                    "end": 731, 
+                    "score": 0.03727580979466438, 
+                    "spot": "Overnight"
+                }
+            ], 
+            "wiki_id": 19715896, 
+            "wiki_title": "Interbank lending market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3760, 
+                    "end": 3775, 
+                    "score": 0.07676882296800613, 
+                    "spot": "other countries"
+                }
+            ], 
+            "wiki_id": 30655949, 
+            "wiki_title": "Arab Spring"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1978, 
+                    "end": 1985, 
+                    "score": 0.003348075784742832, 
+                    "spot": "stretch"
+                }
+            ], 
+            "wiki_id": 5925708, 
+            "wiki_title": "Stretch (rapper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3666, 
+                    "end": 3670, 
+                    "score": 0.0009427641052752733, 
+                    "spot": "main"
+                }
+            ], 
+            "wiki_id": 19745, 
+            "wiki_title": "Main (river)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2931, 
+                    "end": 2945, 
+                    "score": 0.11528263986110687, 
+                    "spot": "communications"
+                }
+            ], 
+            "wiki_id": 18580879, 
+            "wiki_title": "Transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 603, 
+                    "end": 616, 
+                    "score": 0.25420933961868286, 
+                    "spot": "urban planner"
+                }
+            ], 
+            "wiki_id": 21502793, 
+            "wiki_title": "Urban planner"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3787, 
+                    "end": 3792, 
+                    "score": 0.003372489009052515, 
+                    "spot": "worth"
+                }
+            ], 
+            "wiki_id": 1120800, 
+            "wiki_title": "Worth, West Sussex"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2862, 
+                    "end": 2878, 
+                    "score": 0.23753800988197327, 
+                    "spot": "north of England"
+                }
+            ], 
+            "wiki_id": 714694, 
+            "wiki_title": "Northern England"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1038, 
+                    "end": 1042, 
+                    "score": 0.007577731739729643, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2098, 
+                    "end": 2102, 
+                    "score": 0.0018194559961557388, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2558, 
+                    "end": 2562, 
+                    "score": 0.005723460577428341, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2640, 
+                    "end": 2645, 
+                    "score": 0.07351062446832657, 
+                    "spot": "ports"
+                }, 
+                {
+                    "begin": 2787, 
+                    "end": 2792, 
+                    "score": 0.1904280185699463, 
+                    "spot": "ports"
+                }
+            ], 
+            "wiki_id": 23613585, 
+            "wiki_title": "Channel Ports"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3268, 
+                    "end": 3281, 
+                    "score": 0.12582269310951233, 
+                    "spot": "southern part"
+                }
+            ], 
+            "wiki_id": 266230, 
+            "wiki_title": "Cape Juby"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 437, 
+                    "end": 443, 
+                    "score": 0.3615990877151489, 
+                    "spot": "Calais"
+                }, 
+                {
+                    "begin": 2730, 
+                    "end": 2736, 
+                    "score": 0.18385416269302368, 
+                    "spot": "Calais"
+                }, 
+                {
+                    "begin": 4277, 
+                    "end": 4283, 
+                    "score": 0.3507617712020874, 
+                    "spot": "Calais"
+                }
+            ], 
+            "wiki_id": 85468, 
+            "wiki_title": "Calais"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2803, 
+                    "end": 2807, 
+                    "score": 0.002660994417965412, 
+                    "spot": "hold"
+                }
+            ], 
+            "wiki_id": 2949417, 
+            "wiki_title": "Hold (ship)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4783, 
+                    "end": 4792, 
+                    "score": 0.11725489795207977, 
+                    "spot": "frontiers"
+                }
+            ], 
+            "wiki_id": 8691237, 
+            "wiki_title": "Frontiers Records"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4816, 
+                    "end": 4825, 
+                    "score": 0.0005541189457289875, 
+                    "spot": "effective"
+                }
+            ], 
+            "wiki_id": 1982403, 
+            "wiki_title": "Effectiveness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4046, 
+                    "end": 4050, 
+                    "score": 0.01026215124875307, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 57330, 
+            "wiki_title": "Circulatory system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1146, 
+                    "end": 1161, 
+                    "score": 0.017241379246115685, 
+                    "spot": "economic survey"
+                }
+            ], 
+            "wiki_id": 33372982, 
+            "wiki_title": "Economic Survey of India 2011"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1907, 
+                    "end": 1913, 
+                    "score": 0.22238264977931976, 
+                    "spot": "Calais"
+                }
+            ], 
+            "wiki_id": 85471, 
+            "wiki_title": "Calais, Maine"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4381, 
+                    "end": 4390, 
+                    "score": 0.0022953327279537916, 
+                    "spot": "springing"
+                }
+            ], 
+            "wiki_id": 1039051, 
+            "wiki_title": "Springing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 77, 
+                    "end": 87, 
+                    "score": 0.008858268149197102, 
+                    "spot": "revitalise"
+                }
+            ], 
+            "wiki_id": 46471272, 
+            "wiki_title": "Revitalise"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2738, 
+                    "end": 2743, 
+                    "score": 0.0009185632225126028, 
+                    "spot": "Worst"
+                }
+            ], 
+            "wiki_id": 43031240, 
+            "wiki_title": "The Worst (Jhen\u00e9 Aiko song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4338, 
+                    "end": 4343, 
+                    "score": 0.18247318267822266, 
+                    "spot": "parks"
+                }
+            ], 
+            "wiki_id": 166459, 
+            "wiki_title": "Park"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1825, 
+                    "end": 1833, 
+                    "score": 0.30000028014183044, 
+                    "spot": "Flanders"
+                }
+            ], 
+            "wiki_id": 43008790, 
+            "wiki_title": "County of Flanders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4749, 
+                    "end": 4761, 
+                    "score": 0.09823725372552872, 
+                    "spot": "counterparts"
+                }
+            ], 
+            "wiki_id": 570536, 
+            "wiki_title": "Counterparts (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1629, 
+                    "end": 1633, 
+                    "score": 0.019651757553219795, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 1666, 
+                    "end": 1670, 
+                    "score": 0.1409110724925995, 
+                    "spot": "cent"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2118, 
+                    "end": 2123, 
+                    "score": 0.07300245016813278, 
+                    "spot": "drive"
+                }
+            ], 
+            "wiki_id": 673526, 
+            "wiki_title": "Batting (cricket)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2363, 
+                    "end": 2378, 
+                    "score": 0.032738097012043, 
+                    "spot": "On the downside"
+                }
+            ], 
+            "wiki_id": 4971931, 
+            "wiki_title": "On the Downside"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2713, 
+                    "end": 2721, 
+                    "score": 0.0325218066573143, 
+                    "spot": "directed"
+                }
+            ], 
+            "wiki_id": 103078, 
+            "wiki_title": "Theatre director"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4287, 
+                    "end": 4297, 
+                    "score": 0.05983661487698555, 
+                    "spot": "commercial"
+                }
+            ], 
+            "wiki_id": 152772, 
+            "wiki_title": "Intensive farming"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 378, 
+                    "end": 386, 
+                    "score": 0.2120058834552765, 
+                    "spot": "European"
+                }
+            ], 
+            "wiki_id": 13279542, 
+            "wiki_title": "Ethnic groups in Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4541, 
+                    "end": 4543, 
+                    "score": 0.059644561260938644, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 65758, 
+            "wiki_title": "Western (genre)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 258, 
+                    "end": 271, 
+                    "score": 0.47665056586265564, 
+                    "spot": "West\nFlanders"
+                }, 
+                {
+                    "begin": 2953, 
+                    "end": 2966, 
+                    "score": 0.5788908004760742, 
+                    "spot": "West Flanders"
+                }, 
+                {
+                    "begin": 3071, 
+                    "end": 3084, 
+                    "score": 0.47665056586265564, 
+                    "spot": "West Flanders"
+                }, 
+                {
+                    "begin": 3285, 
+                    "end": 3298, 
+                    "score": 0.47665056586265564, 
+                    "spot": "West Flanders"
+                }, 
+                {
+                    "begin": 3919, 
+                    "end": 3932, 
+                    "score": 0.47665056586265564, 
+                    "spot": "West Flanders"
+                }
+            ], 
+            "wiki_id": 152382, 
+            "wiki_title": "West Flanders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3242, 
+                    "end": 3249, 
+                    "score": 0.058207303285598755, 
+                    "spot": "opening"
+                }
+            ], 
+            "wiki_id": 277663, 
+            "wiki_title": "Open-source software"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1182, 
+                    "end": 1236, 
+                    "score": 0.5, 
+                    "spot": "Organisation for Economic Co-operation and Development"
+                }
+            ], 
+            "wiki_id": 33853117, 
+            "wiki_title": "Organisation for Economic Co-operation and Development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3866, 
+                    "end": 3871, 
+                    "score": 0.15039244294166565, 
+                    "spot": "North"
+                }
+            ], 
+            "wiki_id": 21139, 
+            "wiki_title": "North America"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3808, 
+                    "end": 3812, 
+                    "score": 0.002251984318718314, 
+                    "spot": "stop"
+                }
+            ], 
+            "wiki_id": 26161590, 
+            "wiki_title": "Train station"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 272, 
+                    "end": 292, 
+                    "score": 0.2906227111816406, 
+                    "spot": "Regional Development"
+                }, 
+                {
+                    "begin": 3037, 
+                    "end": 3057, 
+                    "score": 0.17328861355781555, 
+                    "spot": "Regional Development"
+                }
+            ], 
+            "wiki_id": 7778187, 
+            "wiki_title": "Regional development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4768, 
+                    "end": 4774, 
+                    "score": 0.3079178035259247, 
+                    "spot": "Europe"
+                }
+            ], 
+            "wiki_id": 358518, 
+            "wiki_title": "Europe (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2192, 
+                    "end": 2201, 
+                    "score": 0.2857142984867096, 
+                    "spot": "Claerhout"
+                }, 
+                {
+                    "begin": 3711, 
+                    "end": 3720, 
+                    "score": 0.2857142984867096, 
+                    "spot": "Claerhout"
+                }
+            ], 
+            "wiki_id": 41920281, 
+            "wiki_title": "Frans Claerhout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 944, 
+                    "end": 950, 
+                    "score": 0.10219655185937881, 
+                    "spot": "tunnel"
+                }, 
+                {
+                    "begin": 4250, 
+                    "end": 4256, 
+                    "score": 0.10035812109708786, 
+                    "spot": "Tunnel"
+                }
+            ], 
+            "wiki_id": 2305678, 
+            "wiki_title": "Fr\u00e9jus Rail Tunnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2821, 
+                    "end": 2834, 
+                    "score": 0.0005764519446529448, 
+                    "spot": "concentrating"
+                }
+            ], 
+            "wiki_id": 7512, 
+            "wiki_title": "Concentration"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2871, 
+                    "end": 2878, 
+                    "score": 0.25730031728744507, 
+                    "spot": "England"
+                }
+            ], 
+            "wiki_id": 9904, 
+            "wiki_title": "England national football team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3604, 
+                    "end": 3608, 
+                    "score": 0.03242337703704834, 
+                    "spot": "feet"
+                }
+            ], 
+            "wiki_id": 202482, 
+            "wiki_title": "Foot (unit)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2384, 
+                    "end": 2392, 
+                    "score": 0.7109375, 
+                    "spot": "Westhoek"
+                }, 
+                {
+                    "begin": 2384, 
+                    "end": 2399, 
+                    "score": 0.44999998807907104, 
+                    "spot": "Westhoek region"
+                }, 
+                {
+                    "begin": 3816, 
+                    "end": 3824, 
+                    "score": 0.2109375, 
+                    "spot": "Westhoek"
+                }
+            ], 
+            "wiki_id": 12437396, 
+            "wiki_title": "Westhoek (region)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1801, 
+                    "end": 1808, 
+                    "score": 0.010575179941952229, 
+                    "spot": "traffic"
+                }
+            ], 
+            "wiki_id": 7014702, 
+            "wiki_title": "Traffic (Stereophonics song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3407, 
+                    "end": 3410, 
+                    "score": 0.18658055365085602, 
+                    "spot": "try"
+                }
+            ], 
+            "wiki_id": 3276812, 
+            "wiki_title": "Trial"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3144, 
+                    "end": 3158, 
+                    "score": 0.160910964012146, 
+                    "spot": "communications"
+                }
+            ], 
+            "wiki_id": 5177, 
+            "wiki_title": "Communication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 43, 
+                    "score": 0.07836027443408966, 
+                    "spot": "Channel Tunnel"
+                }, 
+                {
+                    "begin": 658, 
+                    "end": 672, 
+                    "score": 0.10005557537078857, 
+                    "spot": "Channel\nTunnel"
+                }, 
+                {
+                    "begin": 4242, 
+                    "end": 4256, 
+                    "score": 0.07836027443408966, 
+                    "spot": "Channel Tunnel"
+                }, 
+                {
+                    "begin": 4857, 
+                    "end": 4871, 
+                    "score": 0.07836027443408966, 
+                    "spot": "Channel Tunnel"
+                }
+            ], 
+            "wiki_id": 355334, 
+            "wiki_title": "Eurotunnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3681, 
+                    "end": 3692, 
+                    "score": 0.1103459894657135, 
+                    "spot": "development"
+                }, 
+                {
+                    "begin": 4205, 
+                    "end": 4212, 
+                    "score": 0.10207876563072205, 
+                    "spot": "develop"
+                }
+            ], 
+            "wiki_id": 148131, 
+            "wiki_title": "Economic development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 810, 
+                    "end": 812, 
+                    "score": 0.027211666107177734, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 816369, 
+            "wiki_title": "Rear mid-engine, rear-wheel-drive layout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3108, 
+                    "end": 3116, 
+                    "score": 0.04142138361930847, 
+                    "spot": "evidence"
+                }
+            ], 
+            "wiki_id": 20550772, 
+            "wiki_title": "Evidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2677, 
+                    "end": 2681, 
+                    "score": 0.15439392626285553, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 3049, 
+            "wiki_title": "Autumn"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2432, 
+                    "end": 2446, 
+                    "score": 0.33754846453666687, 
+                    "spot": "rail\ntransport"
+                }
+            ], 
+            "wiki_id": 25715, 
+            "wiki_title": "Rail transport"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1057, 
+                    "end": 1063, 
+                    "score": 0.0031219469383358955, 
+                    "spot": "middle"
+                }
+            ], 
+            "wiki_id": 9717384, 
+            "wiki_title": "Middle America (Americas)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3748, 
+                    "end": 3754, 
+                    "score": 0.09686869382858276, 
+                    "spot": "people"
+                }
+            ], 
+            "wiki_id": 507970, 
+            "wiki_title": "People (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4667, 
+                    "end": 4679, 
+                    "score": 0.14445440471172333, 
+                    "spot": "co-operation"
+                }
+            ], 
+            "wiki_id": 89313, 
+            "wiki_title": "Cooperative"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2419, 
+                    "end": 2426, 
+                    "score": 0.12411251664161682, 
+                    "spot": "benefit"
+                }
+            ], 
+            "wiki_id": 247817, 
+            "wiki_title": "Welfare"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2650, 
+                    "end": 2659, 
+                    "score": 0.04070376232266426, 
+                    "spot": "expecting"
+                }
+            ], 
+            "wiki_id": 1771587, 
+            "wiki_title": "Pregnancy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 328, 
+                    "score": 0.08337854593992233, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4168, 
+                    "end": 4172, 
+                    "score": 0.050741299986839294, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 8888732, 
+            "wiki_title": "Will (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3230, 
+                    "end": 3237, 
+                    "score": 0.144051656126976, 
+                    "spot": "company"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4391, 
+                    "end": 4393, 
+                    "score": 0.047986846417188644, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 22804895, 
+            "wiki_title": "Up (video game)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4318, 
+                    "end": 4324, 
+                    "score": 0.20590387284755707, 
+                    "spot": "hotels"
+                }, 
+                {
+                    "begin": 4571, 
+                    "end": 4577, 
+                    "score": 0.20889447629451752, 
+                    "spot": "hotels"
+                }
+            ], 
+            "wiki_id": 14276, 
+            "wiki_title": "Hotel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4225, 
+                    "end": 4234, 
+                    "score": 0.020121730864048004, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 23703, 
+            "wiki_title": "Potential energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1546, 
+                    "end": 1554, 
+                    "score": 0.5269232392311096, 
+                    "spot": "Wallonia"
+                }
+            ], 
+            "wiki_id": 99721, 
+            "wiki_title": "Wallonia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3459, 
+                    "end": 3464, 
+                    "score": 0.12509450316429138, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 276495, 
+            "wiki_title": "Small business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3382, 
+                    "end": 3395, 
+                    "score": 0.07233046740293503, 
+                    "spot": "opportunities"
+                }
+            ], 
+            "wiki_id": 355849, 
+            "wiki_title": "Equal opportunity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1863, 
+                    "end": 1871, 
+                    "score": 0.10690369457006454, 
+                    "spot": "carriers"
+                }
+            ], 
+            "wiki_id": 786056, 
+            "wiki_title": "Cargo ship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1872, 
+                    "end": 1876, 
+                    "score": 0.03721662238240242, 
+                    "spot": "head"
+                }
+            ], 
+            "wiki_id": 1803364, 
+            "wiki_title": "Head-on collision"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3256, 
+                    "end": 3260, 
+                    "score": 0.06995129585266113, 
+                    "spot": "base"
+                }
+            ], 
+            "wiki_id": 843566, 
+            "wiki_title": "Military base"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 628, 
+                    "end": 633, 
+                    "score": 0.09940477460622787, 
+                    "spot": "study"
+                }
+            ], 
+            "wiki_id": 59861, 
+            "wiki_title": "Experiment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4705, 
+                    "end": 4712, 
+                    "score": 0.21953840553760529, 
+                    "spot": "federal"
+                }, 
+                {
+                    "begin": 4705, 
+                    "end": 4724, 
+                    "score": 0.2813204526901245, 
+                    "spot": "federal authorities"
+                }
+            ], 
+            "wiki_id": 195149, 
+            "wiki_title": "Federal government of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 680, 
+                    "end": 684, 
+                    "score": 0.12348940968513489, 
+                    "spot": "west"
+                }
+            ], 
+            "wiki_id": 33166, 
+            "wiki_title": "West Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2337, 
+                    "end": 2341, 
+                    "score": 0.0013265135930851102, 
+                    "spot": "open"
+                }
+            ], 
+            "wiki_id": 27352785, 
+            "wiki_title": "OPEN (magazine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 801, 
+                    "end": 807, 
+                    "score": 0.14770542085170746, 
+                    "spot": "Europe"
+                }, 
+                {
+                    "begin": 1030, 
+                    "end": 1036, 
+                    "score": 0.15042530000209808, 
+                    "spot": "Europe"
+                }, 
+                {
+                    "begin": 3875, 
+                    "end": 3881, 
+                    "score": 0.2721402645111084, 
+                    "spot": "Europe"
+                }, 
+                {
+                    "begin": 4368, 
+                    "end": 4374, 
+                    "score": 0.10061808675527573, 
+                    "spot": "Europe"
+                }
+            ], 
+            "wiki_id": 9239, 
+            "wiki_title": "Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1768, 
+                    "end": 1779, 
+                    "score": 0.038832616060972214, 
+                    "spot": "development"
+                }, 
+                {
+                    "begin": 4084, 
+                    "end": 4093, 
+                    "score": 0.08993745595216751, 
+                    "spot": "developed"
+                }, 
+                {
+                    "begin": 4438, 
+                    "end": 4449, 
+                    "score": 0.002760580973699689, 
+                    "spot": "development"
+                }, 
+                {
+                    "begin": 4559, 
+                    "end": 4566, 
+                    "score": 0.15713392198085785, 
+                    "spot": "develop"
+                }
+            ], 
+            "wiki_id": 23572959, 
+            "wiki_title": "Real estate development"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3023, 
+                    "end": 3028, 
+                    "score": 0.09350547939538956, 
+                    "spot": "works"
+                }
+            ], 
+            "wiki_id": 18963870, 
+            "wiki_title": "Literature"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 575, 
+                    "end": 582, 
+                    "score": 0.006754416506737471, 
+                    "spot": "Anthony"
+                }
+            ], 
+            "wiki_id": 3246, 
+            "wiki_title": "Anthony the Great"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1731, 
+                    "end": 1738, 
+                    "score": 0.004414186347275972, 
+                    "spot": "believe"
+                }
+            ], 
+            "wiki_id": 102883, 
+            "wiki_title": "Belief"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3936, 
+                    "end": 3940, 
+                    "score": 0.0942634642124176, 
+                    "spot": "home"
+                }
+            ], 
+            "wiki_id": 514717, 
+            "wiki_title": "Home Fleet"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3614, 
+                    "end": 3623, 
+                    "score": 0.03181973844766617, 
+                    "spot": "decisions"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3590, 
+                    "end": 3597, 
+                    "score": 0.0005002501420676708, 
+                    "spot": "dragged"
+                }
+            ], 
+            "wiki_id": 428633, 
+            "wiki_title": "Drag and drop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 168, 
+                    "end": 174, 
+                    "score": 0.267821729183197, 
+                    "spot": "suffer"
+                }
+            ], 
+            "wiki_id": 206583, 
+            "wiki_title": "Suffering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1246, 
+                    "end": 1253, 
+                    "score": 0.5325761437416077, 
+                    "spot": "Belgian"
+                }, 
+                {
+                    "begin": 3565, 
+                    "end": 3572, 
+                    "score": 0.20838096737861633, 
+                    "spot": "Belgian"
+                }
+            ], 
+            "wiki_id": 1263929, 
+            "wiki_title": "Belgians"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 824, 
+                    "end": 841, 
+                    "score": 0.03475518897175789, 
+                    "spot": "managing director"
+                }
+            ], 
+            "wiki_id": 52234, 
+            "wiki_title": "Chief executive officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3004, 
+                    "end": 3009, 
+                    "score": 0.004419191740453243, 
+                    "spot": "Geert"
+                }
+            ], 
+            "wiki_id": 1594658, 
+            "wiki_title": "Geert"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 114, 
+                    "end": 121, 
+                    "score": 0.38136187195777893, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 487, 
+                    "end": 494, 
+                    "score": 0.4365312159061432, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 688, 
+                    "end": 695, 
+                    "score": 0.487612247467041, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 737, 
+                    "end": 744, 
+                    "score": 0.19795890152454376, 
+                    "spot": "Belgian"
+                }, 
+                {
+                    "begin": 1125, 
+                    "end": 1132, 
+                    "score": 0.29005974531173706, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 1676, 
+                    "end": 1683, 
+                    "score": 0.22665050625801086, 
+                    "spot": "Belgian"
+                }, 
+                {
+                    "begin": 2622, 
+                    "end": 2629, 
+                    "score": 0.312191367149353, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 3333, 
+                    "end": 3340, 
+                    "score": 0.29407957196235657, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 4160, 
+                    "end": 4167, 
+                    "score": 0.3219605088233948, 
+                    "spot": "Belgium"
+                }, 
+                {
+                    "begin": 4638, 
+                    "end": 4645, 
+                    "score": 0.281038761138916, 
+                    "spot": "Belgium"
+                }
+            ], 
+            "wiki_id": 3343, 
+            "wiki_title": "Belgium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3371, 
+                    "end": 3381, 
+                    "score": 0.21179021894931793, 
+                    "spot": "commercial"
+                }
+            ], 
+            "wiki_id": 77444, 
+            "wiki_title": "Commercial law"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1940, 
+                    "end": 1947, 
+                    "score": 0.040189214050769806, 
+                    "spot": "benefit"
+                }
+            ], 
+            "wiki_id": 1633074, 
+            "wiki_title": "Employee benefit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1439, 
+                    "end": 1446, 
+                    "score": 0.0013186895521357656, 
+                    "spot": "benefit"
+                }
+            ], 
+            "wiki_id": 9607623, 
+            "wiki_title": "Benefit (sports)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2555, 
+                    "end": 2557, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }, 
+                {
+                    "begin": 3399, 
+                    "end": 3401, 
+                    "score": 0.0011683235643431544, 
+                    "spot": "we"
+                }
+            ], 
+            "wiki_id": 165128, 
+            "wiki_title": "Royal we"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3636, 
+                    "end": 3645, 
+                    "score": 0.004816955886781216, 
+                    "spot": "new areas"
+                }
+            ], 
+            "wiki_id": 36951945, 
+            "wiki_title": "New areas"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 72, 
+                    "end": 76, 
+                    "score": 0.002006788970902562, 
+                    "spot": "help"
+                }
+            ], 
+            "wiki_id": 29454281, 
+            "wiki_title": "The Help (film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3981, 
+                    "end": 3993, 
+                    "score": 0.008217131718993187, 
+                    "spot": "battlefields"
+                }
+            ], 
+            "wiki_id": 22149488, 
+            "wiki_title": "Battlefields (comics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 666, 
+                    "end": 672, 
+                    "score": 0.04279947280883789, 
+                    "spot": "Tunnel"
+                }
+            ], 
+            "wiki_id": 34711133, 
+            "wiki_title": "Schuman-Josaphat tunnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2761, 
+                    "end": 2767, 
+                    "score": 0.545704185962677, 
+                    "spot": "Ostend"
+                }
+            ], 
+            "wiki_id": 154372, 
+            "wiki_title": "Ostend"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2464, 
+                    "end": 2472, 
+                    "score": 0.3191691040992737, 
+                    "spot": "doubling"
+                }
+            ], 
+            "wiki_id": 1708959, 
+            "wiki_title": "Double-track railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3627, 
+                    "end": 3635, 
+                    "score": 0.02989502251148224, 
+                    "spot": "dedicate"
+                }
+            ], 
+            "wiki_id": 1638186, 
+            "wiki_title": "Dedication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 463, 
+                    "end": 471, 
+                    "score": 0.4167881906032562, 
+                    "spot": "Flanders"
+                }, 
+                {
+                    "begin": 1637, 
+                    "end": 1645, 
+                    "score": 0.24478696286678314, 
+                    "spot": "Flanders"
+                }
+            ], 
+            "wiki_id": 10878, 
+            "wiki_title": "Flanders"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4355, 
+                    "end": 4362, 
+                    "score": 0.07476450502872467, 
+                    "spot": "La Cite"
+                }
+            ], 
+            "wiki_id": 435318, 
+            "wiki_title": "La\u00efcit\u00e9"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1354, 
+                    "end": 1359, 
+                    "score": 0.0006350566982291639, 
+                    "spot": "taken"
+                }
+            ], 
+            "wiki_id": 33428103, 
+            "wiki_title": "Up All Night (One Direction album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2347, 
+                    "end": 2351, 
+                    "score": 0.00507361302152276, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 30012, 
+            "wiki_title": "Time"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4692, 
+                    "end": 4700, 
+                    "score": 0.08436984568834305, 
+                    "spot": "national"
+                }
+            ], 
+            "wiki_id": 21748, 
+            "wiki_title": "Nationalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 447, 
+                    "end": 453, 
+                    "score": 0.3623853027820587, 
+                    "spot": "France"
+                }, 
+                {
+                    "begin": 713, 
+                    "end": 719, 
+                    "score": 0.3807142674922943, 
+                    "spot": "France"
+                }, 
+                {
+                    "begin": 4262, 
+                    "end": 4268, 
+                    "score": 0.3567922115325928, 
+                    "spot": "France"
+                }, 
+                {
+                    "begin": 4735, 
+                    "end": 4741, 
+                    "score": 0.19180652499198914, 
+                    "spot": "French"
+                }
+            ], 
+            "wiki_id": 5843419, 
+            "wiki_title": "France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4409, 
+                    "end": 4413, 
+                    "score": 0.002462400123476982, 
+                    "spot": "home"
+                }
+            ], 
+            "wiki_id": 36202436, 
+            "wiki_title": "Home (2015 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4358, 
+                    "end": 4367, 
+                    "score": 0.5, 
+                    "spot": "Cite de L"
+                }
+            ], 
+            "wiki_id": 2625624, 
+            "wiki_title": "Cit\u00e9 de l'Or"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3832, 
+                    "end": 3836, 
+                    "score": 0.09356821328401566, 
+                    "spot": "time"
+                }
+            ], 
+            "wiki_id": 1788143, 
+            "wiki_title": "The Original 7ven"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 103, 
+                    "end": 110, 
+                    "score": 0.1912006288766861, 
+                    "spot": "regions"
+                }, 
+                {
+                    "begin": 539, 
+                    "end": 545, 
+                    "score": 0.031355973333120346, 
+                    "spot": "region"
+                }, 
+                {
+                    "begin": 3126, 
+                    "end": 3132, 
+                    "score": 0.07447312027215958, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 17207794, 
+            "wiki_title": "Djibouti"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1043, 
+                    "end": 1046, 
+                    "score": 0.0009024579776450992, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 873021, 
+            "wiki_title": "Present"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 791, 
+                    "end": 797, 
+                    "score": 0.02912772446870804, 
+                    "spot": "centre"
+                }
+            ], 
+            "wiki_id": 39619035, 
+            "wiki_title": "Centrism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 139, 
+                    "end": 146, 
+                    "score": 0.15829288959503174, 
+                    "spot": "country"
+                }, 
+                {
+                    "begin": 1169, 
+                    "end": 1176, 
+                    "score": 0.24556894600391388, 
+                    "spot": "country"
+                }
+            ], 
+            "wiki_id": 21627, 
+            "wiki_title": "Nation state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 775, 
+                    "end": 779, 
+                    "score": 0.03360442817211151, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 275574, 
+            "wiki_title": "Will Durant"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 768, 
+                    "end": 774, 
+                    "score": 0.2270311713218689, 
+                    "spot": "France"
+                }
+            ], 
+            "wiki_id": 955656, 
+            "wiki_title": "France national rugby union team"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3885, 
+                    "end": 3892, 
+                    "score": 0.20931336283683777, 
+                    "spot": "England"
+                }
+            ], 
+            "wiki_id": 407950, 
+            "wiki_title": "Kingdom of England"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1855, 
+                    "end": 1862, 
+                    "score": 0.23655925691127777, 
+                    "spot": "freight"
+                }, 
+                {
+                    "begin": 2668, 
+                    "end": 2673, 
+                    "score": 0.12149125337600708, 
+                    "spot": "loads"
+                }, 
+                {
+                    "begin": 2686, 
+                    "end": 2693, 
+                    "score": 0.3465796113014221, 
+                    "spot": "freight"
+                }
+            ], 
+            "wiki_id": 396550, 
+            "wiki_title": "Cargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 306, 
+                    "end": 312, 
+                    "score": 0.4243934154510498, 
+                    "spot": "Bruges"
+                }
+            ], 
+            "wiki_id": 9541497, 
+            "wiki_title": "In Bruges"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2308, 
+                    "end": 2319, 
+                    "score": 0.0013574660988524556, 
+                    "spot": "been agreed"
+                }
+            ], 
+            "wiki_id": 92972, 
+            "wiki_title": "Yalta Conference"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2581, 
+                    "end": 2587, 
+                    "score": 0.048298414796590805, 
+                    "spot": "corner"
+                }
+            ], 
+            "wiki_id": 1196, 
+            "wiki_title": "Angle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2598, 
+                    "end": 2607, 
+                    "score": 0.32868143916130066, 
+                    "spot": "Claerhout"
+                }
+            ], 
+            "wiki_id": 8745139, 
+            "wiki_title": "May Claerhout"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4826, 
+                    "end": 4829, 
+                    "score": 0.02352898009121418, 
+                    "spot": "way"
+                }
+            ], 
+            "wiki_id": 736919, 
+            "wiki_title": "Camino de Santiago"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1115, 
+                    "end": 1120, 
+                    "score": 0.02917889878153801, 
+                    "spot": "thing"
+                }
+            ], 
+            "wiki_id": 198970, 
+            "wiki_title": "Thing (assembly)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 163, 
+                    "end": 167, 
+                    "score": 0.19834093749523163, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3341, 
+                    "end": 3345, 
+                    "score": 0.05212920159101486, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 3402, 
+                    "end": 3406, 
+                    "score": 0.143646702170372, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4646, 
+                    "end": 4650, 
+                    "score": 0.06837650388479233, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 47921, 
+            "wiki_title": "Free will"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2282, 
+                    "end": 2290, 
+                    "score": 0.0012423330917954445, 
+                    "spot": "complete"
+                }
+            ], 
+            "wiki_id": 300752, 
+            "wiki_title": "Complete game"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4051, 
+                    "end": 4056, 
+                    "score": 0.10358920693397522, 
+                    "spot": "green"
+                }
+            ], 
+            "wiki_id": 1866009, 
+            "wiki_title": "Environmentalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 520, 
+                    "end": 529, 
+                    "score": 0.026420779526233673, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 49607453, 
+            "wiki_title": "Economic potential"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2921, 
+                    "end": 2930, 
+                    "score": 0.06961233913898468, 
+                    "spot": "transport"
+                }
+            ], 
+            "wiki_id": 241953, 
+            "wiki_title": "Penal transportation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2989, 
+                    "end": 2999, 
+                    "score": 0.006740196142345667, 
+                    "spot": "paying off"
+                }
+            ], 
+            "wiki_id": 60925, 
+            "wiki_title": "Ship commissioning"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 37, 
+                    "end": 43, 
+                    "score": 0.033557452261447906, 
+                    "spot": "Tunnel"
+                }, 
+                {
+                    "begin": 1471, 
+                    "end": 1477, 
+                    "score": 0.007588373497128487, 
+                    "spot": "tunnel"
+                }, 
+                {
+                    "begin": 4865, 
+                    "end": 4871, 
+                    "score": 0.042213812470436096, 
+                    "spot": "Tunnel"
+                }
+            ], 
+            "wiki_id": 160766, 
+            "wiki_title": "Lincoln Tunnel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3214, 
+                    "end": 3229, 
+                    "score": 0.1764705926179886, 
+                    "spot": "Dutch chocolate"
+                }
+            ], 
+            "wiki_id": 595121, 
+            "wiki_title": "Dutch process chocolate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2183, 
+                    "end": 2191, 
+                    "score": 0.13618996739387512, 
+                    "spot": "Philippe"
+                }
+            ], 
+            "wiki_id": 168868, 
+            "wiki_title": "Philippe of Belgium"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2491, 
+                    "end": 2506, 
+                    "score": 0.27451905608177185, 
+                    "spot": "electrification"
+                }
+            ], 
+            "wiki_id": 551731, 
+            "wiki_title": "Electrification"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2910, 
+                    "end": 2919, 
+                    "score": 0.024338172748684883, 
+                    "spot": "imperfect"
+                }
+            ], 
+            "wiki_id": 321438, 
+            "wiki_title": "Perfect information"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2006, 
+                    "end": 2014, 
+                    "score": 0.09027661383152008, 
+                    "spot": "motorway"
+                }
+            ], 
+            "wiki_id": 23429262, 
+            "wiki_title": "Motorway (typeface)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 962, 
+                    "end": 965, 
+                    "score": 0.6401577591896057, 
+                    "spot": "TGV"
+                }
+            ], 
+            "wiki_id": 57212, 
+            "wiki_title": "TGV"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 987, 
+                    "end": 993, 
+                    "score": 0.10114769637584686, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 1226912, 
+            "wiki_title": "Overseas region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1326, 
+                    "end": 1330, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2038, 
+                    "end": 2044, 
+                    "score": 0.2540815472602844, 
+                    "spot": "French"
+                }
+            ], 
+            "wiki_id": 10597, 
+            "wiki_title": "French language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3514, 
+                    "end": 3524, 
+                    "score": 0.23529411852359772, 
+                    "spot": "Verstraete"
+                }, 
+                {
+                    "begin": 4457, 
+                    "end": 4467, 
+                    "score": 0.23529411852359772, 
+                    "spot": "Verstraete"
+                }
+            ], 
+            "wiki_id": 36749727, 
+            "wiki_title": "Birger Verstraete"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1997, 
+                    "end": 2005, 
+                    "score": 0.005184953100979328, 
+                    "spot": "European"
+                }
+            ], 
+            "wiki_id": 605581, 
+            "wiki_title": "European Americans"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3766, 
+                    "end": 3775, 
+                    "score": 0.06707240641117096, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2514, 
+                    "end": 2526, 
+                    "score": 0.16739583015441895, 
+                    "spot": "railway\nline"
+                }
+            ], 
+            "wiki_id": 578491, 
+            "wiki_title": "Glossary of rail transport terms"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 932, 
+                    "end": 936, 
+                    "score": 0.030915789306163788, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 1084, 
+                    "end": 1088, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }, 
+                {
+                    "begin": 1419, 
+                    "end": 1423, 
+                    "score": 0.003307982115074992, 
+                    "spot": "area"
+                }
+            ], 
+            "wiki_id": 296341, 
+            "wiki_title": "Suffragan bishop"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4794, 
+                    "end": 4806, 
+                    "score": 0.004004418849945068, 
+                    "spot": "this will be"
+                }
+            ], 
+            "wiki_id": 30855301, 
+            "wiki_title": "This Will Be (An Everlasting Love)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2535, 
+                    "end": 2540, 
+                    "score": 0.4371793568134308, 
+                    "spot": "Ghent"
+                }
+            ], 
+            "wiki_id": 12341, 
+            "wiki_title": "Ghent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2250, 
+                    "end": 2258, 
+                    "score": 0.004450158681720495, 
+                    "spot": "industry"
+                }, 
+                {
+                    "begin": 3426, 
+                    "end": 3434, 
+                    "score": 0.19473212957382202, 
+                    "spot": "industry"
+                }
+            ], 
+            "wiki_id": 14543, 
+            "wiki_title": "Industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1371, 
+                    "end": 1375, 
+                    "score": 0.001419507316313684, 
+                    "spot": "turn"
+                }
+            ], 
+            "wiki_id": 855329, 
+            "wiki_title": "Turn (geometry)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1405, 
+                    "end": 1413, 
+                    "score": 0.17953631281852722, 
+                    "spot": "Flanders"
+                }
+            ], 
+            "wiki_id": 578283, 
+            "wiki_title": "Flemish Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3506, 
+                    "end": 3508, 
+                    "score": 0.07887384295463562, 
+                    "spot": "Mr"
+                }, 
+                {
+                    "begin": 3708, 
+                    "end": 3710, 
+                    "score": 0.014997947961091995, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 188429, 
+            "wiki_title": "Midland Railway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 29, 
+                    "end": 36, 
+                    "score": 0.17088443040847778, 
+                    "spot": "Channel"
+                }, 
+                {
+                    "begin": 658, 
+                    "end": 665, 
+                    "score": 0.08389025926589966, 
+                    "spot": "Channel"
+                }, 
+                {
+                    "begin": 4242, 
+                    "end": 4249, 
+                    "score": 0.14697566628456116, 
+                    "spot": "Channel"
+                }, 
+                {
+                    "begin": 4857, 
+                    "end": 4864, 
+                    "score": 0.10668060183525085, 
+                    "spot": "Channel"
+                }
+            ], 
+            "wiki_id": 9230, 
+            "wiki_title": "English Channel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2753, 
+                    "end": 2757, 
+                    "score": 0.07131974399089813, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 4064, 
+                    "end": 4068, 
+                    "score": 0.1551934778690338, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4173, 
+                    "end": 4181, 
+                    "score": 0.2857142984867096, 
+                    "spot": "miss out"
+                }
+            ], 
+            "wiki_id": 6457021, 
+            "wiki_title": "Elimination races"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 890, 
+                    "end": 900, 
+                    "score": 0.18693500757217407, 
+                    "spot": "optimistic"
+                }
+            ], 
+            "wiki_id": 47487167, 
+            "wiki_title": "Optimism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1111, 
+                    "end": 1114, 
+                    "score": 0.03534066677093506, 
+                    "spot": "bad"
+                }
+            ], 
+            "wiki_id": 3698466, 
+            "wiki_title": "Bad (U2 song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3268, 
+                    "end": 3276, 
+                    "score": 0.06217784434556961, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 459850, 
+            "wiki_title": "Southern Africa"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3846, 
+                    "end": 3853, 
+                    "score": 0.11263536661863327, 
+                    "spot": "journey"
+                }
+            ], 
+            "wiki_id": 161356, 
+            "wiki_title": "Journey (band)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3019, 
+                    "end": 3022, 
+                    "score": 0.07743896543979645, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 36517, 
+            "wiki_title": "The Who"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2165, 
+                    "end": 2173, 
+                    "score": 0.06681305170059204, 
+                    "spot": "motorway"
+                }
+            ], 
+            "wiki_id": 2411002, 
+            "wiki_title": "Controlled-access highway"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2967, 
+                    "end": 2973, 
+                    "score": 0.13757851719856262, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 55635, 
+            "wiki_title": "Region (Europe)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2352, 
+                    "end": 2361, 
+                    "score": 0.00408979831263423, 
+                    "spot": "next year"
+                }
+            ], 
+            "wiki_id": 2292582, 
+            "wiki_title": "Next Year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4111, 
+                    "end": 4119, 
+                    "score": 0.09397906064987183, 
+                    "spot": "visitors"
+                }
+            ], 
+            "wiki_id": 42748103, 
+            "wiki_title": "The Whispers (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 318, 
+                    "end": 325, 
+                    "score": 0.012812299653887749, 
+                    "spot": "gearing"
+                }
+            ], 
+            "wiki_id": 82916, 
+            "wiki_title": "Gear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 387, 
+                    "end": 404, 
+                    "score": 0.055925481021404266, 
+                    "spot": "Metropolitan Area"
+                }
+            ], 
+            "wiki_id": 707926, 
+            "wiki_title": "Urban area (France)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3728, 
+                    "end": 3730, 
+                    "score": 0.07572651654481888, 
+                    "spot": "We"
+                }
+            ], 
+            "wiki_id": 27947883, 
+            "wiki_title": "W.E."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1506, 
+                    "end": 1511, 
+                    "score": 0.04566681385040283, 
+                    "spot": "rapid"
+                }
+            ], 
+            "wiki_id": 25919, 
+            "wiki_title": "Rapids"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2203, 
+                    "end": 2211, 
+                    "score": 0.0691722109913826, 
+                    "spot": "chairman"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3321, 
+                    "end": 3327, 
+                    "score": 0.041385699063539505, 
+                    "spot": "danger"
+                }, 
+                {
+                    "begin": 4148, 
+                    "end": 4154, 
+                    "score": 0.041385699063539505, 
+                    "spot": "danger"
+                }
+            ], 
+            "wiki_id": 32441414, 
+            "wiki_title": "Danger (Erykah Badu song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4051, 
+                    "end": 4063, 
+                    "score": 0.12577973306179047, 
+                    "spot": "green spaces"
+                }
+            ], 
+            "wiki_id": 232435, 
+            "wiki_title": "Green belt"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1650, 
+                    "end": 1655, 
+                    "score": 0.06912483274936676, 
+                    "spot": "risen"
+                }
+            ], 
+            "wiki_id": 26414, 
+            "wiki_title": "Resurrection of Jesus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 512, 
+                    "end": 514, 
+                    "score": 0.1860870122909546, 
+                    "spot": "UK"
+                }, 
+                {
+                    "begin": 4746, 
+                    "end": 4748, 
+                    "score": 0.19602108001708984, 
+                    "spot": "UK"
+                }
+            ], 
+            "wiki_id": 31717, 
+            "wiki_title": "United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2180, 
+                    "end": 2182, 
+                    "score": 0.12204501777887344, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 229971, 
+            "wiki_title": "Mouvement R\u00e9formateur"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 233, 
+                    "end": 241, 
+                    "score": 0.6181068420410156, 
+                    "spot": "Courtrai"
+                }, 
+                {
+                    "begin": 849, 
+                    "end": 857, 
+                    "score": 0.2184210568666458, 
+                    "spot": "Courtrai"
+                }
+            ], 
+            "wiki_id": 23772334, 
+            "wiki_title": "Kortrijk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3194, 
+                    "end": 3201, 
+                    "score": 0.04897024482488632, 
+                    "spot": "example"
+                }
+            ], 
+            "wiki_id": 1239768, 
+            "wiki_title": ".example"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2772, 
+                    "end": 2781, 
+                    "score": 0.569472074508667, 
+                    "spot": "Zeebrugge"
+                }
+            ], 
+            "wiki_id": 450301, 
+            "wiki_title": "Zeebrugge"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3135, 
+                    "end": 3143, 
+                    "score": 0.09171417355537415, 
+                    "spot": "enhanced"
+                }
+            ], 
+            "wiki_id": 3877892, 
+            "wiki_title": "Human enhancement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2295, 
+                    "end": 2302, 
+                    "score": 0.003348075784742832, 
+                    "spot": "stretch"
+                }
+            ], 
+            "wiki_id": 149708, 
+            "wiki_title": "IBM 7030 Stretch"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 455, 
+                    "end": 462, 
+                    "score": 0.17724625766277313, 
+                    "spot": "Western"
+                }, 
+                {
+                    "begin": 1817, 
+                    "end": 1824, 
+                    "score": 0.12529462575912476, 
+                    "spot": "western"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3899, 
+                    "end": 3908, 
+                    "score": 0.01535993441939354, 
+                    "spot": "potential"
+                }
+            ], 
+            "wiki_id": 22743196, 
+            "wiki_title": "Potential National Hockey League expansion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 157, 
+                    "end": 162, 
+                    "score": 0.04294387996196747, 
+                    "spot": "ports"
+                }
+            ], 
+            "wiki_id": 97169, 
+            "wiki_title": "Port"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4125, 
+                    "end": 4135, 
+                    "score": 0.1393583118915558, 
+                    "spot": "once again"
+                }
+            ], 
+            "wiki_id": 685411, 
+            "wiki_title": "Once and Again"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4661, 
+                    "end": 4666, 
+                    "score": 0.06894120573997498, 
+                    "spot": "close"
+                }
+            ], 
+            "wiki_id": 1543554, 
+            "wiki_title": "Closing (real estate)"
+        }
+    ]
+}

@@ -1,0 +1,3016 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 710, 
+                    "end": 715, 
+                    "score": 0.2691009044647217, 
+                    "spot": "sheep"
+                }, 
+                {
+                    "begin": 1091, 
+                    "end": 1096, 
+                    "score": 0.31822800636291504, 
+                    "spot": "sheep"
+                }, 
+                {
+                    "begin": 1240, 
+                    "end": 1245, 
+                    "score": 0.2326115369796753, 
+                    "spot": "Sheep"
+                }, 
+                {
+                    "begin": 4438, 
+                    "end": 4443, 
+                    "score": 0.2995182275772095, 
+                    "spot": "sheep"
+                }
+            ], 
+            "wiki_id": 17158563, 
+            "wiki_title": "Sheep"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1370, 
+                    "end": 1383, 
+                    "score": 0.03133208304643631, 
+                    "spot": "market \nvalue"
+                }
+            ], 
+            "wiki_id": 48190, 
+            "wiki_title": "Commodity market"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2015, 
+                    "end": 2024, 
+                    "score": 0.2073763906955719, 
+                    "spot": "Fisheries"
+                }
+            ], 
+            "wiki_id": 307491, 
+            "wiki_title": "Fishery"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2622, 
+                    "end": 2632, 
+                    "score": 0.1401549130678177, 
+                    "spot": "Washington"
+                }
+            ], 
+            "wiki_id": 13015878, 
+            "wiki_title": "Washington (state)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3082, 
+                    "end": 3092, 
+                    "score": 0.07345777004957199, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 1222540, 
+            "wiki_title": "Government of Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 554, 
+                    "end": 556, 
+                    "score": 0.06779836863279343, 
+                    "spot": "do"
+                }
+            ], 
+            "wiki_id": 2018545, 
+            "wiki_title": "Do (singer)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1144, 
+                    "end": 1150, 
+                    "score": 0.07537394016981125, 
+                    "spot": "banned"
+                }
+            ], 
+            "wiki_id": 386818, 
+            "wiki_title": "Smoking ban"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3632, 
+                    "end": 3643, 
+                    "score": 0.08483711630105972, 
+                    "spot": "assessments"
+                }
+            ], 
+            "wiki_id": 465183, 
+            "wiki_title": "Educational assessment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1665, 
+                    "end": 1675, 
+                    "score": 0.14211171865463257, 
+                    "spot": "food chain"
+                }
+            ], 
+            "wiki_id": 32077676, 
+            "wiki_title": "Food chain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2300, 
+                    "end": 2309, 
+                    "score": 0.13912595808506012, 
+                    "spot": "confirmed"
+                }
+            ], 
+            "wiki_id": 31737, 
+            "wiki_title": "Supreme Court of the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2719, 
+                    "end": 2732, 
+                    "score": 0.5983865261077881, 
+                    "spot": "West \nGermany"
+                }
+            ], 
+            "wiki_id": 33166, 
+            "wiki_title": "West Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3168, 
+                    "end": 3178, 
+                    "score": 0.0891626700758934, 
+                    "spot": "commission"
+                }
+            ], 
+            "wiki_id": 9974, 
+            "wiki_title": "European Commission"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 273, 
+                    "end": 277, 
+                    "score": 0.0833333358168602, 
+                    "spot": "aren"
+                }
+            ], 
+            "wiki_id": 13169695, 
+            "wiki_title": "Ar\u00e9n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3394, 
+                    "end": 3400, 
+                    "score": 0.08750986307859421, 
+                    "spot": "detect"
+                }
+            ], 
+            "wiki_id": 235757, 
+            "wiki_title": "Sensor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1558, 
+                    "end": 1564, 
+                    "score": 0.1619180142879486, 
+                    "spot": "public"
+                }
+            ], 
+            "wiki_id": 307834, 
+            "wiki_title": "Public"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3945, 
+                    "end": 3954, 
+                    "score": 0.2147529274225235, 
+                    "spot": "cannibals"
+                }
+            ], 
+            "wiki_id": 5658, 
+            "wiki_title": "Cannibalism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2234, 
+                    "end": 2268, 
+                    "score": 0.4268292784690857, 
+                    "spot": "Department of Agriculture and Food"
+                }
+            ], 
+            "wiki_id": 4271994, 
+            "wiki_title": "Department of Agriculture and Food (Western Australia)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3424, 
+                    "end": 3431, 
+                    "score": 0.009862115606665611, 
+                    "spot": "animals"
+                }
+            ], 
+            "wiki_id": 11039790, 
+            "wiki_title": "Animal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3765, 
+                    "end": 3790, 
+                    "score": 0.2758718729019165, 
+                    "spot": "spongiform encephalopathy"
+                }
+            ], 
+            "wiki_id": 235248, 
+            "wiki_title": "Transmissible spongiform encephalopathy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 523, 
+                    "end": 529, 
+                    "score": 0.08904863893985748, 
+                    "spot": "eating"
+                }
+            ], 
+            "wiki_id": 56825, 
+            "wiki_title": "Eating disorder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3488, 
+                    "end": 3498, 
+                    "score": 0.19270658493041992, 
+                    "spot": "antibodies"
+                }
+            ], 
+            "wiki_id": 2362, 
+            "wiki_title": "Antibody"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 267, 
+                    "end": 272, 
+                    "score": 0.09260252118110657, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 23604, 
+            "wiki_title": "Photography"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 915, 
+                    "end": 924, 
+                    "score": 0.008855911903083324, 
+                    "spot": "suspicion"
+                }
+            ], 
+            "wiki_id": 74984, 
+            "wiki_title": "Suspicion (1941 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1519, 
+                    "end": 1527, 
+                    "score": 0.11959288269281387, 
+                    "spot": "pressure"
+                }
+            ], 
+            "wiki_id": 23619, 
+            "wiki_title": "Pressure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3059, 
+                    "end": 3065, 
+                    "score": 0.08120354264974594, 
+                    "spot": "remote"
+                }
+            ], 
+            "wiki_id": 105803, 
+            "wiki_title": "Remote control"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4182, 
+                    "end": 4193, 
+                    "score": 0.003989361692219973, 
+                    "spot": "reassurance"
+                }
+            ], 
+            "wiki_id": 31533865, 
+            "wiki_title": "Reassurance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2516, 
+                    "end": 2522, 
+                    "score": 0.1901901811361313, 
+                    "spot": "banned"
+                }
+            ], 
+            "wiki_id": 17253537, 
+            "wiki_title": "Censorship"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2703, 
+                    "end": 2709, 
+                    "score": 0.5459609627723694, 
+                    "spot": "Israel"
+                }
+            ], 
+            "wiki_id": 9282173, 
+            "wiki_title": "Israel"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 823, 
+                    "end": 830, 
+                    "score": 0.06273262947797775, 
+                    "spot": "victims"
+                }
+            ], 
+            "wiki_id": 39120733, 
+            "wiki_title": "Boston Marathon bombing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1395, 
+                    "end": 1407, 
+                    "score": 0.04091726616024971, 
+                    "spot": "market price"
+                }
+            ], 
+            "wiki_id": 72902, 
+            "wiki_title": "Market price"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2500, 
+                    "end": 2507, 
+                    "score": 0.10410743206739426, 
+                    "spot": "Service"
+                }
+            ], 
+            "wiki_id": 181586, 
+            "wiki_title": "Service (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4392, 
+                    "end": 4398, 
+                    "score": 0.0007853403221815825, 
+                    "spot": "shrewd"
+                }
+            ], 
+            "wiki_id": 23963758, 
+            "wiki_title": "Shrewd cardinal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1011, 
+                    "end": 1022, 
+                    "score": 0.27563562989234924, 
+                    "spot": "by-products"
+                }
+            ], 
+            "wiki_id": 726885, 
+            "wiki_title": "By-product"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2652, 
+                    "end": 2661, 
+                    "score": 0.05622374638915062, 
+                    "spot": "embargoes"
+                }
+            ], 
+            "wiki_id": 61660, 
+            "wiki_title": "Embargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1176, 
+                    "end": 1182, 
+                    "score": 0.5662992000579834, 
+                    "spot": "spleen"
+                }
+            ], 
+            "wiki_id": 42567, 
+            "wiki_title": "Spleen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1715, 
+                    "end": 1718, 
+                    "score": 0.06075885891914368, 
+                    "spot": "Sir"
+                }
+            ], 
+            "wiki_id": 212182, 
+            "wiki_title": "Order of the British Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2149, 
+                    "end": 2156, 
+                    "score": 0.16673357784748077, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 2196, 
+                    "end": 2203, 
+                    "score": 0.11348596960306168, 
+                    "spot": "million"
+                }, 
+                {
+                    "begin": 3111, 
+                    "end": 3118, 
+                    "score": 0.0008983399020507932, 
+                    "spot": "million"
+                }
+            ], 
+            "wiki_id": 1045999, 
+            "wiki_title": "Million"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 83, 
+                    "end": 90, 
+                    "score": 0.15303362905979156, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 13525, 
+            "wiki_title": "Roman Britain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4399, 
+                    "end": 4404, 
+                    "score": 0.020853307098150253, 
+                    "spot": "guess"
+                }
+            ], 
+            "wiki_id": 1632036, 
+            "wiki_title": "Guess (clothing)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3995, 
+                    "end": 4001, 
+                    "score": 0.1157636046409607, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 14727282, 
+            "wiki_title": "Beveridge Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 162, 
+                    "end": 167, 
+                    "score": 0.04168268293142319, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 342, 
+                    "end": 347, 
+                    "score": 0.14733025431632996, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 569, 
+                    "end": 574, 
+                    "score": 0.0269663967192173, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 904, 
+                    "end": 909, 
+                    "score": 0.07033342123031616, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1051, 
+                    "end": 1056, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1294, 
+                    "end": 1299, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1468, 
+                    "end": 1473, 
+                    "score": 0.05911073461174965, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 1965, 
+                    "end": 1970, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2113, 
+                    "end": 2118, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2396, 
+                    "end": 2401, 
+                    "score": 0.059511978179216385, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2637, 
+                    "end": 2642, 
+                    "score": 0.022429896518588066, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3071, 
+                    "end": 3076, 
+                    "score": 0.0662330687046051, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3159, 
+                    "end": 3164, 
+                    "score": 0.04168268293142319, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3342, 
+                    "end": 3347, 
+                    "score": 0.044833872467279434, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3503, 
+                    "end": 3508, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3730, 
+                    "end": 3735, 
+                    "score": 0.04084787145256996, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3891, 
+                    "end": 3896, 
+                    "score": 0.08568304777145386, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 4147, 
+                    "end": 4152, 
+                    "score": 0.0060240961611270905, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 37649, 
+            "wiki_title": "Amplitude"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2914, 
+                    "end": 2920, 
+                    "score": 0.053327225148677826, 
+                    "spot": "junior"
+                }
+            ], 
+            "wiki_id": 234954, 
+            "wiki_title": "Middle school"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2737, 
+                    "end": 2748, 
+                    "score": 0.443989634513855, 
+                    "spot": "New Zealand"
+                }
+            ], 
+            "wiki_id": 4913064, 
+            "wiki_title": "New Zealand"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1571, 
+                    "end": 1575, 
+                    "score": 0.09666367620229721, 
+                    "spot": "feel"
+                }
+            ], 
+            "wiki_id": 163390, 
+            "wiki_title": "Feeling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2798, 
+                    "end": 2816, 
+                    "score": 0.20304878056049347, 
+                    "spot": "European Community"
+                }
+            ], 
+            "wiki_id": 9317, 
+            "wiki_title": "European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2542, 
+                    "end": 2549, 
+                    "score": 0.08434036374092102, 
+                    "spot": "embryos"
+                }
+            ], 
+            "wiki_id": 36624, 
+            "wiki_title": "Embryo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 969, 
+                    "end": 980, 
+                    "score": 0.1279662847518921, 
+                    "spot": "cattle feed"
+                }, 
+                {
+                    "begin": 1106, 
+                    "end": 1117, 
+                    "score": 0.1279662847518921, 
+                    "spot": "cattle feed"
+                }, 
+                {
+                    "begin": 4453, 
+                    "end": 4464, 
+                    "score": 0.25905001163482666, 
+                    "spot": "cattle feed"
+                }
+            ], 
+            "wiki_id": 1059768, 
+            "wiki_title": "Cattle feeding"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 494, 
+                    "end": 498, 
+                    "score": 0.012744616717100143, 
+                    "spot": "zero"
+                }
+            ], 
+            "wiki_id": 32797556, 
+            "wiki_title": "Zero (art)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3463, 
+                    "end": 3476, 
+                    "score": 0.22007499635219574, 
+                    "spot": "immune system"
+                }
+            ], 
+            "wiki_id": 14958, 
+            "wiki_title": "Immune system"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 835, 
+                    "end": 846, 
+                    "score": 0.21366049349308014, 
+                    "spot": "late stages"
+                }
+            ], 
+            "wiki_id": 19375577, 
+            "wiki_title": "Amyotrophic lateral sclerosis"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1760, 
+                    "end": 1773, 
+                    "score": 0.024539876729249954, 
+                    "spot": "Farmers Union"
+                }
+            ], 
+            "wiki_id": 4379191, 
+            "wiki_title": "Farmers Union (brand)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1269, 
+                    "end": 1272, 
+                    "score": 0.24200987815856934, 
+                    "spot": "pig"
+                }
+            ], 
+            "wiki_id": 25142, 
+            "wiki_title": "Pig"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 861, 
+                    "end": 864, 
+                    "score": 0.0005396732012741268, 
+                    "spot": "may"
+                }
+            ], 
+            "wiki_id": 523571, 
+            "wiki_title": "Erskine May"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2594, 
+                    "end": 2598, 
+                    "score": 0.0869779884815216, 
+                    "spot": "Webb"
+                }
+            ], 
+            "wiki_id": 525237, 
+            "wiki_title": "James E. Webb"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 136, 
+                    "end": 142, 
+                    "score": 0.18159399926662445, 
+                    "spot": "safety"
+                }
+            ], 
+            "wiki_id": 252712, 
+            "wiki_title": "Safety"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 120, 
+                    "end": 125, 
+                    "score": 0.22603414952754974, 
+                    "spot": "fears"
+                }
+            ], 
+            "wiki_id": 10828, 
+            "wiki_title": "Fear"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1533, 
+                    "end": 1540, 
+                    "score": 0.13483966886997223, 
+                    "spot": "farmers"
+                }, 
+                {
+                    "begin": 2767, 
+                    "end": 2778, 
+                    "score": 0.11860035359859467, 
+                    "spot": "Agriculture"
+                }, 
+                {
+                    "begin": 2921, 
+                    "end": 2932, 
+                    "score": 0.1713458001613617, 
+                    "spot": "agriculture"
+                }, 
+                {
+                    "begin": 4299, 
+                    "end": 4310, 
+                    "score": 0.12795844674110413, 
+                    "spot": "Agriculture"
+                }
+            ], 
+            "wiki_id": 627, 
+            "wiki_title": "Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3653, 
+                    "end": 3664, 
+                    "score": 0.021978022530674934, 
+                    "spot": "likelihoods"
+                }
+            ], 
+            "wiki_id": 44968, 
+            "wiki_title": "Likelihood function"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3179, 
+                    "end": 3186, 
+                    "score": 0.05179465189576149, 
+                    "spot": "chaired"
+                }
+            ], 
+            "wiki_id": 3452243, 
+            "wiki_title": "Chairman"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4009, 
+                    "end": 4032, 
+                    "score": 0.5685160160064697, 
+                    "spot": "British Medical Journal"
+                }
+            ], 
+            "wiki_id": 541927, 
+            "wiki_title": "The BMJ"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2767, 
+                    "end": 2787, 
+                    "score": 0.10281132161617279, 
+                    "spot": "Agriculture Ministry"
+                }, 
+                {
+                    "begin": 4299, 
+                    "end": 4320, 
+                    "score": 0.065294548869133, 
+                    "spot": "Agriculture \nMinistry"
+                }
+            ], 
+            "wiki_id": 6187262, 
+            "wiki_title": "Ministry of Agriculture and Rural Development (Romania)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2224, 
+                    "end": 2231, 
+                    "score": 0.22642405331134796, 
+                    "spot": "Ireland"
+                }
+            ], 
+            "wiki_id": 147575, 
+            "wiki_title": "Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 153, 
+                    "end": 157, 
+                    "score": 0.18286201357841492, 
+                    "spot": "beef"
+                }
+            ], 
+            "wiki_id": 36968, 
+            "wiki_title": "Beef"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3228, 
+                    "end": 3246, 
+                    "score": 0.3496971130371094, 
+                    "spot": "Oxford \nUniversity"
+                }
+            ], 
+            "wiki_id": 31797, 
+            "wiki_title": "University of Oxford"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3190, 
+                    "end": 3211, 
+                    "score": 0.75, 
+                    "spot": "Sir Richard Southwood"
+                }, 
+                {
+                    "begin": 3194, 
+                    "end": 3211, 
+                    "score": 1.0, 
+                    "spot": "Richard Southwood"
+                }
+            ], 
+            "wiki_id": 591946, 
+            "wiki_title": "Richard Southwood"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 49, 
+                    "end": 59, 
+                    "score": 0.03889837861061096, 
+                    "spot": "restricted"
+                }
+            ], 
+            "wiki_id": 78809, 
+            "wiki_title": "Speed limit"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 809, 
+                    "end": 815, 
+                    "score": 0.14217880368232727, 
+                    "spot": "brains"
+                }
+            ], 
+            "wiki_id": 490620, 
+            "wiki_title": "Human brain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 346, 
+                    "end": 351, 
+                    "score": 0.009513742290437222, 
+                    "spot": "P>\n\"I"
+                }, 
+                {
+                    "begin": 1472, 
+                    "end": 1477, 
+                    "score": 0.009513742290437222, 
+                    "spot": "P>\n\"I"
+                }
+            ], 
+            "wiki_id": 432612, 
+            "wiki_title": "Seattle Post-Intelligencer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1354, 
+                    "end": 1361, 
+                    "score": 0.1636120229959488, 
+                    "spot": "farmers"
+                }
+            ], 
+            "wiki_id": 58688, 
+            "wiki_title": "Farmer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2585, 
+                    "end": 2593, 
+                    "score": 0.12210091203451157, 
+                    "spot": "Margaret"
+                }
+            ], 
+            "wiki_id": 19831, 
+            "wiki_title": "Margaret Thatcher"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 229, 
+                    "end": 233, 
+                    "score": 0.14111751317977905, 
+                    "spot": "risk"
+                }, 
+                {
+                    "begin": 383, 
+                    "end": 388, 
+                    "score": 0.0018984938506036997, 
+                    "spot": "risks"
+                }, 
+                {
+                    "begin": 3016, 
+                    "end": 3020, 
+                    "score": 0.1263866424560547, 
+                    "spot": "risk"
+                }
+            ], 
+            "wiki_id": 24462958, 
+            "wiki_title": "Risk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 173, 
+                    "end": 183, 
+                    "score": 0.06329029053449631, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 1062, 
+                    "end": 1072, 
+                    "score": 0.09727659076452255, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 1315, 
+                    "end": 1325, 
+                    "score": 0.17922936379909515, 
+                    "spot": "government"
+                }, 
+                {
+                    "begin": 2124, 
+                    "end": 2134, 
+                    "score": 0.12142625451087952, 
+                    "spot": "government"
+                }
+            ], 
+            "wiki_id": 12229, 
+            "wiki_title": "Government"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1460, 
+                    "end": 1463, 
+                    "score": 0.22002381086349487, 
+                    "spot": "BSE"
+                }
+            ], 
+            "wiki_id": 188874, 
+            "wiki_title": "Bachelor's degree"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 222, 
+                    "end": 228, 
+                    "score": 0.03636247292160988, 
+                    "spot": "remote"
+                }
+            ], 
+            "wiki_id": 164266, 
+            "wiki_title": "Kinmen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3329, 
+                    "end": 3336, 
+                    "score": 0.3132994771003723, 
+                    "spot": "viruses"
+                }
+            ], 
+            "wiki_id": 19167679, 
+            "wiki_title": "Virus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1694, 
+                    "end": 1706, 
+                    "score": 0.008279221132397652, 
+                    "spot": "compensation"
+                }
+            ], 
+            "wiki_id": 33725, 
+            "wiki_title": "Weregild"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1857, 
+                    "end": 1866, 
+                    "score": 0.004085155203938484, 
+                    "spot": "24 \nhours"
+                }
+            ], 
+            "wiki_id": 1708928, 
+            "wiki_title": "24 Hours (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4338, 
+                    "end": 4344, 
+                    "score": 0.10293859243392944, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 4692150, 
+            "wiki_title": "Report"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 795, 
+                    "end": 800, 
+                    "score": 0.08733846992254257, 
+                    "spot": "holes"
+                }
+            ], 
+            "wiki_id": 74803, 
+            "wiki_title": "Doughnut"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 854, 
+                    "end": 860, 
+                    "score": 0.021119486540555954, 
+                    "spot": "animal"
+                }
+            ], 
+            "wiki_id": 4349987, 
+            "wiki_title": "Animal (Def Leppard song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4260, 
+                    "end": 4272, 
+                    "score": 0.20838114619255066, 
+                    "spot": "consultative"
+                }
+            ], 
+            "wiki_id": 10812093, 
+            "wiki_title": "Public consultation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1719, 
+                    "end": 1724, 
+                    "score": 0.1069037914276123, 
+                    "spot": "Simon"
+                }
+            ], 
+            "wiki_id": 309481, 
+            "wiki_title": "John Simon, 1st Viscount Simon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 209, 
+                    "end": 214, 
+                    "score": 0.003289473708719015, 
+                    "spot": "poses"
+                }, 
+                {
+                    "begin": 3575, 
+                    "end": 3580, 
+                    "score": 0.003289473708719015, 
+                    "spot": "poses"
+                }
+            ], 
+            "wiki_id": 1031012, 
+            "wiki_title": "Poses (album)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2607, 
+                    "end": 2618, 
+                    "score": 0.012175280600786209, 
+                    "spot": "spokeswoman"
+                }
+            ], 
+            "wiki_id": 338047, 
+            "wiki_title": "Spokesperson"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 761, 
+                    "end": 766, 
+                    "score": 0.09558162838220596, 
+                    "spot": "1700s"
+                }
+            ], 
+            "wiki_id": 3293215, 
+            "wiki_title": "History of Ireland (1691\u20131801)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3215, 
+                    "end": 3224, 
+                    "score": 0.21026362478733063, 
+                    "spot": "professor"
+                }
+            ], 
+            "wiki_id": 20646803, 
+            "wiki_title": "Professor"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2694, 
+                    "end": 2701, 
+                    "score": 0.4836587905883789, 
+                    "spot": "Finland"
+                }
+            ], 
+            "wiki_id": 10577, 
+            "wiki_title": "Finland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1184, 
+                    "end": 1190, 
+                    "score": 0.6491284370422363, 
+                    "spot": "thymus"
+                }
+            ], 
+            "wiki_id": 56265, 
+            "wiki_title": "Thymus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2181, 
+                    "end": 2190, 
+                    "score": 0.19769737124443054, 
+                    "spot": "budgeting"
+                }
+            ], 
+            "wiki_id": 377116, 
+            "wiki_title": "Budget"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1948, 
+                    "end": 1959, 
+                    "score": 0.004464285913854837, 
+                    "spot": "disoriented"
+                }
+            ], 
+            "wiki_id": 1587681, 
+            "wiki_title": "Orientation (mental)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3257, 
+                    "end": 3266, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }, 
+                {
+                    "begin": 3876, 
+                    "end": 3886, 
+                    "score": 0.07856984436511993, 
+                    "spot": "last \nyear"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 881, 
+                    "end": 888, 
+                    "score": 0.13369274139404297, 
+                    "spot": "stagger"
+                }
+            ], 
+            "wiki_id": 49201, 
+            "wiki_title": "Biplane"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 869, 
+                    "end": 877, 
+                    "score": 0.020661156624555588, 
+                    "spot": "skittish"
+                }
+            ], 
+            "wiki_id": 1132373, 
+            "wiki_title": "Skittish"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4243, 
+                    "end": 4255, 
+                    "score": 0.2341005653142929, 
+                    "spot": "human health"
+                }
+            ], 
+            "wiki_id": 24872, 
+            "wiki_title": "Pollution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1492, 
+                    "end": 1503, 
+                    "score": 0.22744576632976532, 
+                    "spot": "recognition"
+                }
+            ], 
+            "wiki_id": 29468, 
+            "wiki_title": "Speech recognition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2338, 
+                    "end": 2344, 
+                    "score": 0.1322474181652069, 
+                    "spot": "border"
+                }
+            ], 
+            "wiki_id": 2347513, 
+            "wiki_title": "Republic of Ireland\u2013United Kingdom border"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2464, 
+                    "end": 2507, 
+                    "score": 0.44495412707328796, 
+                    "spot": "Animal and Plant \nHealth Inspection Service"
+                }
+            ], 
+            "wiki_id": 416918, 
+            "wiki_title": "Animal and Plant Health Inspection Service"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1437, 
+                    "end": 1443, 
+                    "score": 0.0857527107000351, 
+                    "spot": "animal"
+                }, 
+                {
+                    "begin": 1872, 
+                    "end": 1878, 
+                    "score": 0.021119486540555954, 
+                    "spot": "animal"
+                }
+            ], 
+            "wiki_id": 983398, 
+            "wiki_title": "Road Warrior Animal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1304, 
+                    "end": 1309, 
+                    "score": 0.10998892039060593, 
+                    "spot": "March"
+                }
+            ], 
+            "wiki_id": 317549, 
+            "wiki_title": "March (territorial entity)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3839, 
+                    "end": 3844, 
+                    "score": 0.0011975424131378531, 
+                    "spot": "dozen"
+                }
+            ], 
+            "wiki_id": 208154, 
+            "wiki_title": "Dozen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2711, 
+                    "end": 2717, 
+                    "score": 0.5596318244934082, 
+                    "spot": "Sweden"
+                }
+            ], 
+            "wiki_id": 5058739, 
+            "wiki_title": "Sweden"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2105, 
+                    "end": 2108, 
+                    "score": 0.19174350798130035, 
+                    "spot": "BSE"
+                }
+            ], 
+            "wiki_id": 491715, 
+            "wiki_title": "Bombay Stock Exchange"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 772, 
+                    "end": 789, 
+                    "score": 0.14442738890647888, 
+                    "spot": "incurable disease"
+                }
+            ], 
+            "wiki_id": 16767087, 
+            "wiki_title": "Cure"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1232, 
+                    "end": 1238, 
+                    "score": 0.19228039681911469, 
+                    "spot": "humans"
+                }, 
+                {
+                    "begin": 3047, 
+                    "end": 3053, 
+                    "score": 0.21659603714942932, 
+                    "spot": "humans"
+                }, 
+                {
+                    "begin": 3594, 
+                    "end": 3600, 
+                    "score": 0.11274009943008423, 
+                    "spot": "humans"
+                }, 
+                {
+                    "begin": 3748, 
+                    "end": 3753, 
+                    "score": 0.17504286766052246, 
+                    "spot": "human"
+                }
+            ], 
+            "wiki_id": 682482, 
+            "wiki_title": "Human"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1255, 
+                    "end": 1260, 
+                    "score": 0.03650134801864624, 
+                    "spot": "still"
+                }
+            ], 
+            "wiki_id": 430398, 
+            "wiki_title": "Still"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1725, 
+                    "end": 1732, 
+                    "score": 0.13450291752815247, 
+                    "spot": "Gourlay"
+                }, 
+                {
+                    "begin": 1825, 
+                    "end": 1832, 
+                    "score": 0.13450291752815247, 
+                    "spot": "Gourlay"
+                }
+            ], 
+            "wiki_id": 45511336, 
+            "wiki_title": "John Lowry Gourlay"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 27, 
+                    "end": 33, 
+                    "score": 0.21312475204467773, 
+                    "spot": "killed"
+                }, 
+                {
+                    "begin": 3036, 
+                    "end": 3043, 
+                    "score": 0.2713398337364197, 
+                    "spot": "passing"
+                }
+            ], 
+            "wiki_id": 8221, 
+            "wiki_title": "Death"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 71, 
+                    "end": 77, 
+                    "score": 0.21659323573112488, 
+                    "spot": "market"
+                }
+            ], 
+            "wiki_id": 9801859, 
+            "wiki_title": "Market (place)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2431, 
+                    "end": 2461, 
+                    "score": 0.45154324173927307, 
+                    "spot": "U.S. Department of Agriculture"
+                }, 
+                {
+                    "begin": 2450, 
+                    "end": 2461, 
+                    "score": 0.34957605600357056, 
+                    "spot": "Agriculture"
+                }, 
+                {
+                    "begin": 2602, 
+                    "end": 2606, 
+                    "score": 0.23077332973480225, 
+                    "spot": "USDA"
+                }
+            ], 
+            "wiki_id": 70896, 
+            "wiki_title": "United States Department of Agriculture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4038, 
+                    "end": 4047, 
+                    "score": 0.31773585081100464, 
+                    "spot": "incidence"
+                }
+            ], 
+            "wiki_id": 167008, 
+            "wiki_title": "Incidence (epidemiology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3583, 
+                    "end": 3589, 
+                    "score": 0.11447703838348389, 
+                    "spot": "threat"
+                }
+            ], 
+            "wiki_id": 13341876, 
+            "wiki_title": "Threat"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1581, 
+                    "end": 1590, 
+                    "score": 0.07200207561254501, 
+                    "spot": "confident"
+                }
+            ], 
+            "wiki_id": 2973525, 
+            "wiki_title": "Confidence"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3845, 
+                    "end": 3850, 
+                    "score": 0.0010344827314838767, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 304471, 
+            "wiki_title": "Case study"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 743, 
+                    "end": 750, 
+                    "score": 0.11808617413043976, 
+                    "spot": "Britain"
+                }, 
+                {
+                    "begin": 2354, 
+                    "end": 2361, 
+                    "score": 0.1890014410018921, 
+                    "spot": "British"
+                }, 
+                {
+                    "begin": 3868, 
+                    "end": 3875, 
+                    "score": 0.0871300995349884, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 13530298, 
+            "wiki_title": "Great Britain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 237, 
+                    "end": 250, 
+                    "score": 0.28028398752212524, 
+                    "spot": "human \nhealth"
+                }, 
+                {
+                    "begin": 3415, 
+                    "end": 3422, 
+                    "score": 0.05197387933731079, 
+                    "spot": "healthy"
+                }
+            ], 
+            "wiki_id": 80381, 
+            "wiki_title": "Health"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3754, 
+                    "end": 3761, 
+                    "score": 0.2187209278345108, 
+                    "spot": "variant"
+                }
+            ], 
+            "wiki_id": 19702, 
+            "wiki_title": "Mutation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1978, 
+                    "end": 1984, 
+                    "score": 0.009803921915590763, 
+                    "spot": "Feb. 9"
+                }
+            ], 
+            "wiki_id": 3982695, 
+            "wiki_title": "February 9 (Eastern Orthodox liturgics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3921, 
+                    "end": 3925, 
+                    "score": 0.37652769684791565, 
+                    "spot": "kuru"
+                }
+            ], 
+            "wiki_id": 12665704, 
+            "wiki_title": "Kuru (disease)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3097, 
+                    "end": 3106, 
+                    "score": 0.04045160487294197, 
+                    "spot": "committed"
+                }
+            ], 
+            "wiki_id": 15416, 
+            "wiki_title": "Involuntary commitment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1676, 
+                    "end": 1678, 
+                    "score": 0.05446625500917435, 
+                    "spot": "if"
+                }
+            ], 
+            "wiki_id": 335553, 
+            "wiki_title": "If\u2014"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2683, 
+                    "end": 2692, 
+                    "score": 0.3356759548187256, 
+                    "spot": "Australia"
+                }
+            ], 
+            "wiki_id": 4689264, 
+            "wiki_title": "Australia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 146, 
+                    "end": 152, 
+                    "score": 0.16546282172203064, 
+                    "spot": "eating"
+                }, 
+                {
+                    "begin": 790, 
+                    "end": 794, 
+                    "score": 0.22156524658203125, 
+                    "spot": "eats"
+                }
+            ], 
+            "wiki_id": 212818, 
+            "wiki_title": "Eating"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3452, 
+                    "end": 3458, 
+                    "score": 0.0042143939062952995, 
+                    "spot": "prompt"
+                }
+            ], 
+            "wiki_id": 28338635, 
+            "wiki_title": "Command-line interface"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2283, 
+                    "end": 2288, 
+                    "score": 0.27466168999671936, 
+                    "spot": "cases"
+                }
+            ], 
+            "wiki_id": 23004, 
+            "wiki_title": "Precedent"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1097, 
+                    "end": 1102, 
+                    "score": 0.5662425756454468, 
+                    "spot": "offal"
+                }, 
+                {
+                    "begin": 1246, 
+                    "end": 1251, 
+                    "score": 0.4780861735343933, 
+                    "spot": "offal"
+                }, 
+                {
+                    "begin": 4444, 
+                    "end": 4449, 
+                    "score": 0.49898451566696167, 
+                    "spot": "offal"
+                }
+            ], 
+            "wiki_id": 342509, 
+            "wiki_title": "Offal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4084, 
+                    "end": 4090, 
+                    "score": 0.0009481778834015131, 
+                    "spot": "higher"
+                }
+            ], 
+            "wiki_id": 497117, 
+            "wiki_title": "Higher (Scottish)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3353, 
+                    "end": 3359, 
+                    "score": 0.10757733136415482, 
+                    "spot": "report"
+                }, 
+                {
+                    "begin": 3610, 
+                    "end": 3616, 
+                    "score": 0.047206223011016846, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 18993857, 
+            "wiki_title": "Explosion"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 438, 
+                    "end": 464, 
+                    "score": 0.4890401363372803, 
+                    "spot": "University College, London"
+                }
+            ], 
+            "wiki_id": 52029, 
+            "wiki_title": "University College London"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 326, 
+                    "end": 337, 
+                    "score": 0.11567563563585281, 
+                    "spot": "transmitted"
+                }
+            ], 
+            "wiki_id": 61164, 
+            "wiki_title": "Transmitter"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1005, 
+                    "end": 1010, 
+                    "score": 0.35340774059295654, 
+                    "spot": "sheep"
+                }
+            ], 
+            "wiki_id": 13228741, 
+            "wiki_title": "Sheep milk"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1277, 
+                    "end": 1289, 
+                    "score": 0.2090417742729187, 
+                    "spot": "poultry feed"
+                }
+            ], 
+            "wiki_id": 37572712, 
+            "wiki_title": "Poultry feed"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 93, 
+                    "end": 108, 
+                    "score": 0.16792996227741241, 
+                    "spot": "cattle industry"
+                }
+            ], 
+            "wiki_id": 1356031, 
+            "wiki_title": "Agribusiness"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 6, 
+                    "end": 21, 
+                    "score": 0.2622641623020172, 
+                    "spot": "Mad cow disease"
+                }, 
+                {
+                    "begin": 576, 
+                    "end": 591, 
+                    "score": 0.2622641623020172, 
+                    "spot": "Mad cow disease"
+                }, 
+                {
+                    "begin": 596, 
+                    "end": 628, 
+                    "score": 0.5, 
+                    "spot": "bovine spongiform encephalopathy"
+                }, 
+                {
+                    "begin": 633, 
+                    "end": 636, 
+                    "score": 0.4208218455314636, 
+                    "spot": "BSE"
+                }, 
+                {
+                    "begin": 2962, 
+                    "end": 2965, 
+                    "score": 0.28468436002731323, 
+                    "spot": "BSE"
+                }, 
+                {
+                    "begin": 3285, 
+                    "end": 3288, 
+                    "score": 0.28774306178092957, 
+                    "spot": "BSE"
+                }, 
+                {
+                    "begin": 4236, 
+                    "end": 4239, 
+                    "score": 0.28017449378967285, 
+                    "spot": "BSE"
+                }, 
+                {
+                    "begin": 4411, 
+                    "end": 4414, 
+                    "score": 0.24212610721588135, 
+                    "spot": "BSE"
+                }
+            ], 
+            "wiki_id": 19344418, 
+            "wiki_title": "Bovine spongiform encephalopathy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 256, 
+                    "end": 266, 
+                    "score": 0.10327251255512238, 
+                    "spot": "scientists"
+                }
+            ], 
+            "wiki_id": 26700, 
+            "wiki_title": "Science"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2921, 
+                    "end": 2941, 
+                    "score": 0.07734356820583344, 
+                    "spot": "agriculture minister"
+                }
+            ], 
+            "wiki_id": 387638, 
+            "wiki_title": "Minister of Agriculture (Canada)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1647, 
+                    "end": 1655, 
+                    "score": 0.0015432098880410194, 
+                    "spot": "anywhere"
+                }
+            ], 
+            "wiki_id": 191429, 
+            "wiki_title": "Muslim world"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3134, 
+                    "end": 3139, 
+                    "score": 0.18363580107688904, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 10055, 
+            "wiki_title": "Etiology"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3380, 
+                    "end": 3390, 
+                    "score": 0.003039971925318241, 
+                    "spot": "impossible"
+                }
+            ], 
+            "wiki_id": 30127126, 
+            "wiki_title": "The Impossible (2012 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2523, 
+                    "end": 2530, 
+                    "score": 0.21333196759223938, 
+                    "spot": "imports"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2984, 
+                    "end": 2989, 
+                    "score": 0.159688338637352, 
+                    "spot": "media"
+                }
+            ], 
+            "wiki_id": 19641, 
+            "wiki_title": "Mass media"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1644, 
+                    "end": 1646, 
+                    "score": 0.11852017790079117, 
+                    "spot": "go"
+                }
+            ], 
+            "wiki_id": 585172, 
+            "wiki_title": "Go (1999 film)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2832, 
+                    "end": 2835, 
+                    "score": 0.07381033152341843, 
+                    "spot": "ban"
+                }
+            ], 
+            "wiki_id": 843486, 
+            "wiki_title": "Ban (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1612, 
+                    "end": 1618, 
+                    "score": 0.1346815675497055, 
+                    "spot": "animal"
+                }
+            ], 
+            "wiki_id": 2056466, 
+            "wiki_title": "The Animal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3802, 
+                    "end": 3827, 
+                    "score": 0.8490517139434814, 
+                    "spot": "Creutzfeldt-Jakob disease"
+                }, 
+                {
+                    "begin": 4052, 
+                    "end": 4077, 
+                    "score": 0.794063150882721, 
+                    "spot": "Creutzfeldt-Jakob disease"
+                }
+            ], 
+            "wiki_id": 5617, 
+            "wiki_title": "Creutzfeldt\u2013Jakob disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2554, 
+                    "end": 2565, 
+                    "score": 0.15000000596046448, 
+                    "spot": "bull \nsemen"
+                }
+            ], 
+            "wiki_id": 7223499, 
+            "wiki_title": "Frozen bovine semen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4126, 
+                    "end": 4130, 
+                    "score": 0.01209287904202938, 
+                    "spot": "free"
+                }
+            ], 
+            "wiki_id": 724650, 
+            "wiki_title": "Free education"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 557, 
+                    "end": 563, 
+                    "score": 0.08688800781965256, 
+                    "spot": "wonder"
+                }
+            ], 
+            "wiki_id": 147687, 
+            "wiki_title": "Stevie Wonder"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2571, 
+                    "end": 2578, 
+                    "score": 0.1476384848356247, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 158019, 
+            "wiki_title": "Kingdom of Great Britain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1847, 
+                    "end": 1853, 
+                    "score": 0.003227435052394867, 
+                    "spot": "course"
+                }
+            ], 
+            "wiki_id": 995636, 
+            "wiki_title": "Course (navigation)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1028, 
+                    "end": 1035, 
+                    "score": 0.49801480770111084, 
+                    "spot": "protein"
+                }
+            ], 
+            "wiki_id": 6531493, 
+            "wiki_title": "Protein (nutrient)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 699, 
+                    "end": 706, 
+                    "score": 0.6699528694152832, 
+                    "spot": "scrapie"
+                }, 
+                {
+                    "begin": 4135, 
+                    "end": 4142, 
+                    "score": 0.5, 
+                    "spot": "scrapie"
+                }
+            ], 
+            "wiki_id": 221689, 
+            "wiki_title": "Scrapie"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1192, 
+                    "end": 1202, 
+                    "score": 0.35556861758232117, 
+                    "spot": "intestines"
+                }
+            ], 
+            "wiki_id": 26666895, 
+            "wiki_title": "Gastrointestinal tract"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 671, 
+                    "end": 679, 
+                    "score": 0.11910371482372284, 
+                    "spot": "symptoms"
+                }
+            ], 
+            "wiki_id": 20107078, 
+            "wiki_title": "Symptom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3524, 
+                    "end": 3530, 
+                    "score": 0.06926597654819489, 
+                    "spot": "report"
+                }
+            ], 
+            "wiki_id": 7105112, 
+            "wiki_title": "Case report form"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2966, 
+                    "end": 2974, 
+                    "score": 0.21585232019424438, 
+                    "spot": "hysteria"
+                }
+            ], 
+            "wiki_id": 247836, 
+            "wiki_title": "Mass hysteria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2160, 
+                    "end": 2172, 
+                    "score": 0.16779273748397827, 
+                    "spot": "compensation"
+                }
+            ], 
+            "wiki_id": 8134, 
+            "wiki_title": "Damages"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1797, 
+                    "end": 1803, 
+                    "score": 0.1427784562110901, 
+                    "spot": "struck"
+                }
+            ], 
+            "wiki_id": 155134, 
+            "wiki_title": "Strike action"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 840, 
+                    "end": 846, 
+                    "score": 0.16277584433555603, 
+                    "spot": "stages"
+                }
+            ], 
+            "wiki_id": 714452, 
+            "wiki_title": "Chronic kidney disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3276, 
+                    "end": 3281, 
+                    "score": 0.12189850956201553, 
+                    "spot": "cause"
+                }
+            ], 
+            "wiki_id": 34588743, 
+            "wiki_title": "Etiology (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 530, 
+                    "end": 536, 
+                    "score": 0.0922732800245285, 
+                    "spot": "habits"
+                }
+            ], 
+            "wiki_id": 599837, 
+            "wiki_title": "Habituation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1734, 
+                    "end": 1743, 
+                    "score": 0.08114869892597198, 
+                    "spot": "president"
+                }
+            ], 
+            "wiki_id": 2681197, 
+            "wiki_title": "Chancellor (education)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 393, 
+                    "end": 396, 
+                    "score": 0.002597453771159053, 
+                    "spot": "low"
+                }
+            ], 
+            "wiki_id": 48704155, 
+            "wiki_title": "Minor League Baseball"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3514, 
+                    "end": 3523, 
+                    "score": 0.06446991115808487, 
+                    "spot": "Southwood"
+                }
+            ], 
+            "wiki_id": 11397393, 
+            "wiki_title": "Southwood, Edmonton"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4094, 
+                    "end": 4101, 
+                    "score": 0.12934888899326324, 
+                    "spot": "Britain"
+                }
+            ], 
+            "wiki_id": 448467, 
+            "wiki_title": "Prehistoric Britain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4161, 
+                    "end": 4167, 
+                    "score": 0.0027843089774250984, 
+                    "spot": "urgent"
+                }
+            ], 
+            "wiki_id": 6896783, 
+            "wiki_title": "Urgent (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 949, 
+                    "end": 960, 
+                    "score": 0.14804771542549133, 
+                    "spot": "transmitted"
+                }, 
+                {
+                    "begin": 4418, 
+                    "end": 4429, 
+                    "score": 0.15991641581058502, 
+                    "spot": "transmitted"
+                }
+            ], 
+            "wiki_id": 729317, 
+            "wiki_title": "Transmission (medicine)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1113, 
+                    "end": 1120, 
+                    "score": 0.044360026717185974, 
+                    "spot": "feed in"
+                }
+            ], 
+            "wiki_id": 12638406, 
+            "wiki_title": "Feed-in tariff"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1223, 
+                    "end": 1227, 
+                    "score": 0.2193489372730255, 
+                    "spot": "food"
+                }, 
+                {
+                    "begin": 2029, 
+                    "end": 2033, 
+                    "score": 0.26394444704055786, 
+                    "spot": "Food"
+                }
+            ], 
+            "wiki_id": 10646, 
+            "wiki_title": "Food"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1927, 
+                    "end": 1934, 
+                    "score": 0.005914277862757444, 
+                    "spot": "vicious"
+                }
+            ], 
+            "wiki_id": 38937671, 
+            "wiki_title": "Vicious (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4116, 
+                    "end": 4125, 
+                    "score": 0.09944989532232285, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 18508684, 
+            "wiki_title": "Countries of the United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 358, 
+                    "end": 366, 
+                    "score": 0.0006434359238483012, 
+                    "spot": "everyone"
+                }
+            ], 
+            "wiki_id": 28022085, 
+            "wiki_title": "Everyone (Olympics song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2068, 
+                    "end": 2077, 
+                    "score": 0.11183428019285202, 
+                    "spot": "destroyed"
+                }
+            ], 
+            "wiki_id": 8103, 
+            "wiki_title": "Deforestation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3480, 
+                    "end": 3487, 
+                    "score": 0.0014537181705236435, 
+                    "spot": "produce"
+                }
+            ], 
+            "wiki_id": 733668, 
+            "wiki_title": "Produce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4194, 
+                    "end": 4197, 
+                    "score": 0.06490544974803925, 
+                    "spot": "can"
+                }
+            ], 
+            "wiki_id": 101846, 
+            "wiki_title": "Canadian dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2850, 
+                    "end": 2857, 
+                    "score": 0.17641812562942505, 
+                    "spot": "British"
+                }
+            ], 
+            "wiki_id": 4721, 
+            "wiki_title": "British Empire"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1277, 
+                    "end": 1284, 
+                    "score": 0.4071957468986511, 
+                    "spot": "poultry"
+                }
+            ], 
+            "wiki_id": 23197, 
+            "wiki_title": "Poultry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3906, 
+                    "end": 3910, 
+                    "score": 0.05393372103571892, 
+                    "spot": "form"
+                }
+            ], 
+            "wiki_id": 20646, 
+            "wiki_title": "Morphology (linguistics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4273, 
+                    "end": 4282, 
+                    "score": 0.12110862880945206, 
+                    "spot": "committee"
+                }, 
+                {
+                    "begin": 4326, 
+                    "end": 4335, 
+                    "score": 0.11655597388744354, 
+                    "spot": "committee"
+                }
+            ], 
+            "wiki_id": 158196, 
+            "wiki_title": "Committee"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 315, 
+                    "end": 325, 
+                    "score": 0.0032696176785975695, 
+                    "spot": "how it \nis"
+                }
+            ], 
+            "wiki_id": 2145882, 
+            "wiki_title": "How It Is"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2375, 
+                    "end": 2391, 
+                    "score": 0.3712286055088043, 
+                    "spot": "Northern Ireland"
+                }
+            ], 
+            "wiki_id": 21265, 
+            "wiki_title": "Northern Ireland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1387, 
+                    "end": 1394, 
+                    "score": 0.010647493414580822, 
+                    "spot": "average"
+                }
+            ], 
+            "wiki_id": 60167, 
+            "wiki_title": "Average"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 41, 
+                    "end": 47, 
+                    "score": 0.21151146292686462, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 93, 
+                    "end": 99, 
+                    "score": 0.2673202455043793, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 969, 
+                    "end": 975, 
+                    "score": 0.23829203844070435, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 1106, 
+                    "end": 1112, 
+                    "score": 0.24941682815551758, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 1162, 
+                    "end": 1168, 
+                    "score": 0.1980031132698059, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 1819, 
+                    "end": 1823, 
+                    "score": 0.06994698941707611, 
+                    "spot": "cows"
+                }, 
+                {
+                    "begin": 2051, 
+                    "end": 2057, 
+                    "score": 0.23122310638427734, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 2534, 
+                    "end": 2540, 
+                    "score": 0.1620180606842041, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 2858, 
+                    "end": 2864, 
+                    "score": 0.15143103897571564, 
+                    "spot": "cattle"
+                }, 
+                {
+                    "begin": 4453, 
+                    "end": 4459, 
+                    "score": 0.3608364164829254, 
+                    "spot": "cattle"
+                }
+            ], 
+            "wiki_id": 26051975, 
+            "wiki_title": "Cattle"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 14, 
+                    "end": 21, 
+                    "score": 0.26543718576431274, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 201, 
+                    "end": 208, 
+                    "score": 0.0684669017791748, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 304, 
+                    "end": 311, 
+                    "score": 0.13015979528427124, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 584, 
+                    "end": 591, 
+                    "score": 0.242146298289299, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 716, 
+                    "end": 723, 
+                    "score": 0.09721684455871582, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 782, 
+                    "end": 789, 
+                    "score": 0.21505101025104523, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 849, 
+                    "end": 853, 
+                    "score": 0.09048698842525482, 
+                    "spot": "sick"
+                }, 
+                {
+                    "begin": 937, 
+                    "end": 944, 
+                    "score": 0.13231272995471954, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 1789, 
+                    "end": 1796, 
+                    "score": 0.03970591351389885, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 2418, 
+                    "end": 2425, 
+                    "score": 0.13203950226306915, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 3028, 
+                    "end": 3035, 
+                    "score": 0.20960398018360138, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 3147, 
+                    "end": 3154, 
+                    "score": 0.14503970742225647, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 3369, 
+                    "end": 3376, 
+                    "score": 0.10134513676166534, 
+                    "spot": "disease"
+                }, 
+                {
+                    "begin": 3567, 
+                    "end": 3574, 
+                    "score": 0.0823507159948349, 
+                    "spot": "disease"
+                }
+            ], 
+            "wiki_id": 8072, 
+            "wiki_title": "Disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1073, 
+                    "end": 1079, 
+                    "score": 0.16944575309753418, 
+                    "spot": "banned"
+                }
+            ], 
+            "wiki_id": 25395709, 
+            "wiki_title": "Prohibition in Iceland"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 420, 
+                    "end": 434, 
+                    "score": 0.4720362424850464, 
+                    "spot": "neurobiologist"
+                }
+            ], 
+            "wiki_id": 665536, 
+            "wiki_title": "Neuroscientist"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 352, 
+                    "end": 357, 
+                    "score": 0.07989045977592468, 
+                    "spot": "think"
+                }, 
+                {
+                    "begin": 1478, 
+                    "end": 1483, 
+                    "score": 0.12075820565223694, 
+                    "spot": "think"
+                }
+            ], 
+            "wiki_id": 37080, 
+            "wiki_title": "Thought"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3958, 
+                    "end": 3968, 
+                    "score": 0.39986884593963623, 
+                    "spot": "New Guinea"
+                }
+            ], 
+            "wiki_id": 20611456, 
+            "wiki_title": "New Guinea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 4151, 
+                    "end": 4157, 
+                    "score": 0.5, 
+                    "spot": "P>\n\"It"
+                }
+            ], 
+            "wiki_id": 16256886, 
+            "wiki_title": "P:IT"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 458, 
+                    "end": 464, 
+                    "score": 0.13264217972755432, 
+                    "spot": "London"
+                }
+            ], 
+            "wiki_id": 40353, 
+            "wiki_title": "London, Ontario"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2897, 
+                    "end": 2910, 
+                    "score": 0.43023255467414856, 
+                    "spot": "David Maclean"
+                }
+            ], 
+            "wiki_id": 414504, 
+            "wiki_title": "David Maclean"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3625, 
+                    "end": 3627, 
+                    "score": 0.08440776914358139, 
+                    "spot": "If"
+                }
+            ], 
+            "wiki_id": 8882040, 
+            "wiki_title": "International Forum Design"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1751, 
+                    "end": 1773, 
+                    "score": 0.37354084849357605, 
+                    "spot": "National Farmers Union"
+                }
+            ], 
+            "wiki_id": 549609, 
+            "wiki_title": "National Farmers' Union of England and Wales"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1804, 
+                    "end": 1807, 
+                    "score": 0.09734353423118591, 
+                    "spot": "one"
+                }
+            ], 
+            "wiki_id": 102459, 
+            "wiki_title": "One-party state"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 865, 
+                    "end": 868, 
+                    "score": 0.028133230283856392, 
+                    "spot": "act"
+                }
+            ], 
+            "wiki_id": 74746, 
+            "wiki_title": "Act of Congress"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1169, 
+                    "end": 1174, 
+                    "score": 0.30624085664749146, 
+                    "spot": "brain"
+                }
+            ], 
+            "wiki_id": 3717, 
+            "wiki_title": "Brain"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1778, 
+                    "end": 1783, 
+                    "score": 0.07924580574035645, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2217, 
+                    "end": 2222, 
+                    "score": 0.026728395372629166, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 2890, 
+                    "end": 2895, 
+                    "score": 0.03931641951203346, 
+                    "spot": "P>\n<P"
+                }, 
+                {
+                    "begin": 3973, 
+                    "end": 3978, 
+                    "score": 0.09913916885852814, 
+                    "spot": "P>\n<P"
+                }
+            ], 
+            "wiki_id": 5090365, 
+            "wiki_title": "Length between perpendiculars"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1990, 
+                    "end": 2033, 
+                    "score": 0.3083333373069763, 
+                    "spot": "Ministry of Agriculture, Fisheries and Food"
+                }
+            ], 
+            "wiki_id": 356598, 
+            "wiki_title": "Ministry of Agriculture, Fisheries and Food (United Kingdom)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 64, 
+                    "end": 70, 
+                    "score": 0.07844998687505722, 
+                    "spot": "export"
+                }, 
+                {
+                    "begin": 2839, 
+                    "end": 2846, 
+                    "score": 0.08366851508617401, 
+                    "spot": "exports"
+                }
+            ], 
+            "wiki_id": 307592, 
+            "wiki_title": "Export"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1207, 
+                    "end": 1219, 
+                    "score": 0.37108802795410156, 
+                    "spot": "spinal \ncord"
+                }
+            ], 
+            "wiki_id": 21294842, 
+            "wiki_title": "Spinal cord"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 614, 
+                    "end": 628, 
+                    "score": 0.41136014461517334, 
+                    "spot": "encephalopathy"
+                }, 
+                {
+                    "begin": 3776, 
+                    "end": 3790, 
+                    "score": 0.4313197731971741, 
+                    "spot": "encephalopathy"
+                }
+            ], 
+            "wiki_id": 392001, 
+            "wiki_title": "Encephalopathy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1912, 
+                    "end": 1918, 
+                    "score": 0.004796805325895548, 
+                    "spot": "normal"
+                }
+            ], 
+            "wiki_id": 43851, 
+            "wiki_title": "Norm (social)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2482, 
+                    "end": 2499, 
+                    "score": 0.0117647061124444, 
+                    "spot": "Health Inspection"
+                }
+            ], 
+            "wiki_id": 8774042, 
+            "wiki_title": "Environmental health officer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 293, 
+                    "end": 299, 
+                    "score": 0.1482393592596054, 
+                    "spot": "causes"
+                }
+            ], 
+            "wiki_id": 22228064, 
+            "wiki_title": "Parkinson's disease"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 3311, 
+                    "end": 3319, 
+                    "score": 0.452505886554718, 
+                    "spot": "bacteria"
+                }
+            ], 
+            "wiki_id": 9028799, 
+            "wiki_title": "Bacteria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 404, 
+                    "end": 415, 
+                    "score": 0.2666666805744171, 
+                    "spot": "Martin Raff"
+                }
+            ], 
+            "wiki_id": 41008630, 
+            "wiki_title": "Martin Raff"
+        }
+    ]
+}

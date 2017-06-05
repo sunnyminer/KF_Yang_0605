@@ -1,0 +1,2026 @@
+{
+    "tagme": [
+        {
+            "annotations": [
+                {
+                    "begin": 2553, 
+                    "end": 2569, 
+                    "score": 0.1716780960559845, 
+                    "spot": "foreign minister"
+                }
+            ], 
+            "wiki_id": 250002, 
+            "wiki_title": "Ministry of Foreign Affairs and International Development (France)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 482, 
+                    "end": 489, 
+                    "score": 0.6506607532501221, 
+                    "spot": "Comecon"
+                }
+            ], 
+            "wiki_id": 384307, 
+            "wiki_title": "Comecon"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1934, 
+                    "end": 1941, 
+                    "score": 0.02777777798473835, 
+                    "spot": "We want"
+                }
+            ], 
+            "wiki_id": 17916850, 
+            "wiki_title": "We Want In: The Street LP"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1622, 
+                    "end": 1627, 
+                    "score": 0.1907670646905899, 
+                    "spot": "goods"
+                }, 
+                {
+                    "begin": 2301, 
+                    "end": 2306, 
+                    "score": 0.17694313824176788, 
+                    "spot": "goods"
+                }
+            ], 
+            "wiki_id": 580039, 
+            "wiki_title": "Good (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1518, 
+                    "end": 1534, 
+                    "score": 0.05924920737743378, 
+                    "spot": "car manufacturer"
+                }
+            ], 
+            "wiki_id": 163778, 
+            "wiki_title": "Automotive industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2571, 
+                    "end": 2574, 
+                    "score": 0.1566724181175232, 
+                    "spot": "who"
+                }
+            ], 
+            "wiki_id": 33583, 
+            "wiki_title": "World Health Organization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1168, 
+                    "end": 1175, 
+                    "score": 0.002143710386008024, 
+                    "spot": "running"
+                }
+            ], 
+            "wiki_id": 387892, 
+            "wiki_title": "Rush (gridiron football)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2027, 
+                    "end": 2038, 
+                    "score": 0.05728641152381897, 
+                    "spot": "enterprises"
+                }, 
+                {
+                    "begin": 2363, 
+                    "end": 2374, 
+                    "score": 0.12152373045682907, 
+                    "spot": "enterprises"
+                }, 
+                {
+                    "begin": 2635, 
+                    "end": 2646, 
+                    "score": 0.08786353468894958, 
+                    "spot": "enterprises"
+                }
+            ], 
+            "wiki_id": 39206, 
+            "wiki_title": "Business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1058, 
+                    "end": 1067, 
+                    "score": 0.2435060441493988, 
+                    "spot": "inflation"
+                }
+            ], 
+            "wiki_id": 5382, 
+            "wiki_title": "Inflation (cosmology)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 921, 
+                    "end": 925, 
+                    "score": 0.006652389653027058, 
+                    "spot": "fall"
+                }
+            ], 
+            "wiki_id": 747934, 
+            "wiki_title": "Fall of man"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 66, 
+                    "end": 77, 
+                    "score": 0.15271133184432983, 
+                    "spot": "enterprises"
+                }
+            ], 
+            "wiki_id": 4918223, 
+            "wiki_title": "Company"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 770, 
+                    "end": 774, 
+                    "score": 0.14849798381328583, 
+                    "spot": "loss"
+                }
+            ], 
+            "wiki_id": 672766, 
+            "wiki_title": "Bangladesh Liberation War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 287, 
+                    "end": 295, 
+                    "score": 0.5207512974739075, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 385, 
+                    "end": 393, 
+                    "score": 0.5761290788650513, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 602, 
+                    "end": 609, 
+                    "score": 0.44154560565948486, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 678, 
+                    "end": 685, 
+                    "score": 0.4436585307121277, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 1129, 
+                    "end": 1137, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1280, 
+                    "end": 1288, 
+                    "score": 0.46400177478790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1317, 
+                    "end": 1325, 
+                    "score": 0.5819156169891357, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1560, 
+                    "end": 1568, 
+                    "score": 0.49818146228790283, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1673, 
+                    "end": 1681, 
+                    "score": 0.6251624822616577, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 1742, 
+                    "end": 1750, 
+                    "score": 0.4785088896751404, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 2483, 
+                    "end": 2491, 
+                    "score": 0.6618421077728271, 
+                    "spot": "Slovenia"
+                }, 
+                {
+                    "begin": 2535, 
+                    "end": 2543, 
+                    "score": 0.4995756149291992, 
+                    "spot": "Slovenia"
+                }
+            ], 
+            "wiki_id": 27338, 
+            "wiki_title": "Slovenia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1291, 
+                    "end": 1310, 
+                    "score": 0.06896551698446274, 
+                    "spot": "Chamber of Commerce"
+                }
+            ], 
+            "wiki_id": 305503, 
+            "wiki_title": "Chamber of commerce"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2066, 
+                    "end": 2075, 
+                    "score": 0.1534900665283203, 
+                    "spot": "furniture"
+                }
+            ], 
+            "wiki_id": 48597, 
+            "wiki_title": "Furniture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 581, 
+                    "end": 588, 
+                    "score": 0.19100421667099, 
+                    "spot": "embargo"
+                }
+            ], 
+            "wiki_id": 61660, 
+            "wiki_title": "Embargo"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 959, 
+                    "end": 971, 
+                    "score": 0.1913585364818573, 
+                    "spot": "Unemployment"
+                }
+            ], 
+            "wiki_id": 28688759, 
+            "wiki_title": "Unemployment in the United States"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1870, 
+                    "end": 1886, 
+                    "score": 0.30617889761924744, 
+                    "spot": "trade agreements"
+                }
+            ], 
+            "wiki_id": 217089, 
+            "wiki_title": "Trade agreement"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1333, 
+                    "end": 1358, 
+                    "score": 0.28969502449035645, 
+                    "spot": "declared its independence"
+                }
+            ], 
+            "wiki_id": 34198336, 
+            "wiki_title": "Independence of Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 852, 
+                    "end": 873, 
+                    "score": 0.01448400691151619, 
+                    "spot": "industrial production"
+                }
+            ], 
+            "wiki_id": 14543, 
+            "wiki_title": "Industry"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 181, 
+                    "end": 185, 
+                    "score": 0.02579854428768158, 
+                    "spot": "lost"
+                }
+            ], 
+            "wiki_id": 16454230, 
+            "wiki_title": "Lost (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2517, 
+                    "end": 2520, 
+                    "score": 0.0009326880681328475, 
+                    "spot": "Mrs"
+                }
+            ], 
+            "wiki_id": 558140, 
+            "wiki_title": "Mrs."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 507, 
+                    "end": 516, 
+                    "score": 0.19838286936283112, 
+                    "spot": "socialist"
+                }
+            ], 
+            "wiki_id": 26847, 
+            "wiki_title": "Socialism"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 829, 
+                    "end": 832, 
+                    "score": 0.06985769420862198, 
+                    "spot": "led"
+                }
+            ], 
+            "wiki_id": 18290, 
+            "wiki_title": "Light-emitting diode"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2416, 
+                    "end": 2418, 
+                    "score": 0.05478188395500183, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 19446, 
+            "wiki_title": "Magnetic resonance imaging"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 121, 
+                    "end": 139, 
+                    "score": 0.31322747468948364, 
+                    "spot": "European Community"
+                }
+            ], 
+            "wiki_id": 9317, 
+            "wiki_title": "European Union"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2101, 
+                    "end": 2112, 
+                    "score": 0.43455439805984497, 
+                    "spot": "white goods"
+                }
+            ], 
+            "wiki_id": 185982, 
+            "wiki_title": "Home appliance"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 23, 
+                    "end": 32, 
+                    "score": 0.1432851254940033, 
+                    "spot": "republics"
+                }, 
+                {
+                    "begin": 425, 
+                    "end": 435, 
+                    "score": 0.4551331400871277, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 708, 
+                    "end": 718, 
+                    "score": 0.45002496242523193, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 800, 
+                    "end": 810, 
+                    "score": 0.40116238594055176, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 297809, 
+            "wiki_title": "Socialist Federal Republic of Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1756, 
+                    "end": 1760, 
+                    "score": 0.12017703801393509, 
+                    "spot": "base"
+                }
+            ], 
+            "wiki_id": 418809, 
+            "wiki_title": "Base metal"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 844, 
+                    "end": 848, 
+                    "score": 0.17038927972316742, 
+                    "spot": "drop"
+                }, 
+                {
+                    "begin": 844, 
+                    "end": 851, 
+                    "score": 0.2513220012187958, 
+                    "spot": "drop in"
+                }
+            ], 
+            "wiki_id": 4576642, 
+            "wiki_title": "Drop-In"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1494, 
+                    "end": 1500, 
+                    "score": 0.07625729590654373, 
+                    "spot": "growth"
+                }
+            ], 
+            "wiki_id": 69415, 
+            "wiki_title": "Economic growth"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2224, 
+                    "end": 2230, 
+                    "score": 0.2185710221529007, 
+                    "spot": "Pounds"
+                }
+            ], 
+            "wiki_id": 270673, 
+            "wiki_title": "Pound sterling"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1465, 
+                    "end": 1483, 
+                    "score": 0.2125558853149414, 
+                    "spot": "foreign\ninvestment"
+                }
+            ], 
+            "wiki_id": 541795, 
+            "wiki_title": "Foreign direct investment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 881, 
+                    "end": 890, 
+                    "score": 0.004724409431219101, 
+                    "spot": "last year"
+                }
+            ], 
+            "wiki_id": 7353934, 
+            "wiki_title": "Last Year (song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1179, 
+                    "end": 1185, 
+                    "score": 0.0010649627074599266, 
+                    "spot": "25\nper"
+                }
+            ], 
+            "wiki_id": 2101908, 
+            "wiki_title": "Rho Persei"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1079, 
+                    "end": 1085, 
+                    "score": 0.0005309905391186476, 
+                    "spot": "thanks"
+                }
+            ], 
+            "wiki_id": 3142908, 
+            "wiki_title": "Thanks (TV series)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 891, 
+                    "end": 895, 
+                    "score": 0.0031610135920345783, 
+                    "spot": "fell"
+                }
+            ], 
+            "wiki_id": 102674, 
+            "wiki_title": "Fall of Constantinople"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2479, 
+                    "end": 2482, 
+                    "score": 0.04667824134230614, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 6888482, 
+            "wiki_title": "Now (TV channel)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 916, 
+                    "end": 920, 
+                    "score": 0.045178331434726715, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 154698, 
+            "wiki_title": "Will Smith"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2138, 
+                    "end": 2156, 
+                    "score": 0.46727365255355835, 
+                    "spot": "European\nCommunity"
+                }
+            ], 
+            "wiki_id": 9578, 
+            "wiki_title": "European Economic Community"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1511, 
+                    "end": 1517, 
+                    "score": 0.18216460943222046, 
+                    "spot": "French"
+                }, 
+                {
+                    "begin": 2456, 
+                    "end": 2462, 
+                    "score": 0.5207837820053101, 
+                    "spot": "France"
+                }
+            ], 
+            "wiki_id": 5843419, 
+            "wiki_title": "France"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 86, 
+                    "end": 97, 
+                    "score": 0.17409296333789825, 
+                    "spot": "alternative"
+                }
+            ], 
+            "wiki_id": 193939, 
+            "wiki_title": "Alternative energy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 341, 
+                    "end": 351, 
+                    "score": 0.13194739818572998, 
+                    "spot": "neighbours"
+                }
+            ], 
+            "wiki_id": 4732861, 
+            "wiki_title": "Neighbours"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2334, 
+                    "end": 2341, 
+                    "score": 0.2740004062652588, 
+                    "spot": "imports"
+                }
+            ], 
+            "wiki_id": 7515651, 
+            "wiki_title": "Import"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 246, 
+                    "end": 261, 
+                    "score": 0.05844155699014664, 
+                    "spot": "capital inflows"
+                }
+            ], 
+            "wiki_id": 1489628, 
+            "wiki_title": "Capital account"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 553, 
+                    "end": 562, 
+                    "score": 0.15782862901687622, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 2554950, 
+            "wiki_title": "Constituent country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1263, 
+                    "end": 1270, 
+                    "score": 0.16443313658237457, 
+                    "spot": "Horvath"
+                }
+            ], 
+            "wiki_id": 26424543, 
+            "wiki_title": "L\u00e1szl\u00f3 Horv\u00e1th (footballer, born 1988)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2379, 
+                    "end": 2388, 
+                    "score": 0.012065957300364971, 
+                    "spot": "beginning"
+                }
+            ], 
+            "wiki_id": 1245667, 
+            "wiki_title": "Notre Dame Fighting Irish football"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1255, 
+                    "end": 1257, 
+                    "score": 0.017330368980765343, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 280679, 
+            "wiki_title": "McCune\u2013Reischauer"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 377, 
+                    "end": 381, 
+                    "score": 0.1194244772195816, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 456, 
+                    "end": 460, 
+                    "score": 0.15824148058891296, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 741, 
+                    "end": 745, 
+                    "score": 0.12719900906085968, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 906, 
+                    "end": 910, 
+                    "score": 0.06301063299179077, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 1023, 
+                    "end": 1027, 
+                    "score": 0.13604746758937836, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 1186, 
+                    "end": 1190, 
+                    "score": 0.019651757553219795, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 1249, 
+                    "end": 1253, 
+                    "score": 0.04365013539791107, 
+                    "spot": "cent"
+                }, 
+                {
+                    "begin": 2210, 
+                    "end": 2217, 
+                    "score": 0.19052262604236603, 
+                    "spot": "Dollars"
+                }
+            ], 
+            "wiki_id": 18717338, 
+            "wiki_title": "United States dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2521, 
+                    "end": 2526, 
+                    "score": 0.24137930572032928, 
+                    "spot": "Vojka"
+                }
+            ], 
+            "wiki_id": 12564132, 
+            "wiki_title": "Vojka (Stara Pazova)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1370, 
+                    "end": 1374, 
+                    "score": 0.0005572407389990985, 
+                    "spot": "must"
+                }
+            ], 
+            "wiki_id": 466664, 
+            "wiki_title": "Must"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1808, 
+                    "end": 1812, 
+                    "score": 0.10230503231287003, 
+                    "spot": "well"
+                }
+            ], 
+            "wiki_id": 198570, 
+            "wiki_title": "Oil well"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 236, 
+                    "end": 240, 
+                    "score": 0.002079372527077794, 
+                    "spot": "warn"
+                }
+            ], 
+            "wiki_id": 10530696, 
+            "wiki_title": "American Family Radio"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 218, 
+                    "end": 225, 
+                    "score": 0.340956449508667, 
+                    "spot": "Slovene"
+                }
+            ], 
+            "wiki_id": 28135, 
+            "wiki_title": "Slovene language"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1091, 
+                    "end": 1097, 
+                    "score": 0.001856324844993651, 
+                    "spot": "strong"
+                }
+            ], 
+            "wiki_id": 27984, 
+            "wiki_title": "Strong interaction"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1098, 
+                    "end": 1113, 
+                    "score": 0.2704846262931824, 
+                    "spot": "monetary\npolicy"
+                }
+            ], 
+            "wiki_id": 297032, 
+            "wiki_title": "Monetary policy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2184, 
+                    "end": 2189, 
+                    "score": 0.07578912377357483, 
+                    "spot": "first"
+                }
+            ], 
+            "wiki_id": 31653, 
+            "wiki_title": "First Amendment to the United States Constitution"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 499, 
+                    "end": 506, 
+                    "score": 0.06573601067066193, 
+                    "spot": "defunct"
+                }
+            ], 
+            "wiki_id": 206246, 
+            "wiki_title": "Monarchy abolishment"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2546, 
+                    "end": 2552, 
+                    "score": 0.15412066876888275, 
+                    "spot": "deputy"
+                }
+            ], 
+            "wiki_id": 360865, 
+            "wiki_title": "Deputy prime minister"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1924, 
+                    "end": 1931, 
+                    "score": 0.1699966937303543, 
+                    "spot": "Horvath"
+                }
+            ], 
+            "wiki_id": 22797756, 
+            "wiki_title": "Levente Horv\u00e1th"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1955, 
+                    "end": 1964, 
+                    "score": 0.10939434170722961, 
+                    "spot": "relations"
+                }
+            ], 
+            "wiki_id": 28165911, 
+            "wiki_title": "Diplomacy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2677, 
+                    "end": 2688, 
+                    "score": 0.265278697013855, 
+                    "spot": "competitive"
+                }
+            ], 
+            "wiki_id": 4715992, 
+            "wiki_title": "Competition (economics)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 517, 
+                    "end": 524, 
+                    "score": 0.1928030550479889, 
+                    "spot": "trading"
+                }
+            ], 
+            "wiki_id": 29678, 
+            "wiki_title": "Trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1193, 
+                    "end": 1198, 
+                    "score": 0.0008726121159270406, 
+                    "spot": "month"
+                }
+            ], 
+            "wiki_id": 349504, 
+            "wiki_title": "Environment variable"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2467, 
+                    "end": 2474, 
+                    "score": 0.518477737903595, 
+                    "spot": "Austria"
+                }
+            ], 
+            "wiki_id": 26964606, 
+            "wiki_title": "Austria"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2090, 
+                    "end": 2095, 
+                    "score": 0.2572907507419586, 
+                    "spot": "paper"
+                }
+            ], 
+            "wiki_id": 16861908, 
+            "wiki_title": "Paper"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1666, 
+                    "end": 1671, 
+                    "score": 0.20041507482528687, 
+                    "spot": "Iskra"
+                }
+            ], 
+            "wiki_id": 2002108, 
+            "wiki_title": "NK Iskra Bugojno"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 994, 
+                    "end": 996, 
+                    "score": 0.07479903846979141, 
+                    "spot": "up"
+                }
+            ], 
+            "wiki_id": 32117, 
+            "wiki_title": "Upper Peninsula of Michigan"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2184, 
+                    "end": 2197, 
+                    "score": 0.14656323194503784, 
+                    "spot": "first quarter"
+                }
+            ], 
+            "wiki_id": 5662, 
+            "wiki_title": "Calendar year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1596, 
+                    "end": 1606, 
+                    "score": 0.16106420755386353, 
+                    "spot": "mechanical"
+                }
+            ], 
+            "wiki_id": 19528, 
+            "wiki_title": "Mechanical engineering"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1611, 
+                    "end": 1621, 
+                    "score": 0.16427575051784515, 
+                    "spot": "electrical"
+                }
+            ], 
+            "wiki_id": 9550, 
+            "wiki_title": "Electricity"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2608, 
+                    "end": 2618, 
+                    "score": 0.13244570791721344, 
+                    "spot": "delegation"
+                }
+            ], 
+            "wiki_id": 258909, 
+            "wiki_title": "Member of the European Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1008, 
+                    "end": 1012, 
+                    "score": 0.019651757553219795, 
+                    "spot": "cent"
+                }
+            ], 
+            "wiki_id": 269035, 
+            "wiki_title": "Cent (currency)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 778, 
+                    "end": 785, 
+                    "score": 0.17900347709655762, 
+                    "spot": "markets"
+                }, 
+                {
+                    "begin": 1384, 
+                    "end": 1391, 
+                    "score": 0.06647737324237823, 
+                    "spot": "markets"
+                }, 
+                {
+                    "begin": 2401, 
+                    "end": 2408, 
+                    "score": 0.12957337498664856, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 48852, 
+            "wiki_title": "Market economy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2755, 
+                    "end": 2759, 
+                    "score": 0.1533431112766266, 
+                    "spot": "bill"
+                }
+            ], 
+            "wiki_id": 377411, 
+            "wiki_title": "Bill (law)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 667, 
+                    "end": 676, 
+                    "score": 0.08024090528488159, 
+                    "spot": "last year"
+                }, 
+                {
+                    "begin": 2273, 
+                    "end": 2282, 
+                    "score": 0.07744666934013367, 
+                    "spot": "Last year"
+                }
+            ], 
+            "wiki_id": 657196, 
+            "wiki_title": "Eurovision Song Contest 2005"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1404, 
+                    "end": 1412, 
+                    "score": 0.12922368943691254, 
+                    "spot": "republic"
+                }
+            ], 
+            "wiki_id": 25816, 
+            "wiki_title": "Roman Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 5, 
+                    "end": 8, 
+                    "score": 0.13464130461215973, 
+                    "spot": "war"
+                }
+            ], 
+            "wiki_id": 33158, 
+            "wiki_title": "War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2284, 
+                    "end": 2289, 
+                    "score": 0.17290669679641724, 
+                    "spot": "total"
+                }
+            ], 
+            "wiki_id": 804161, 
+            "wiki_title": "Total S.A."
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 544, 
+                    "end": 562, 
+                    "score": 0.12276477366685867, 
+                    "spot": "European countries"
+                }
+            ], 
+            "wiki_id": 9239, 
+            "wiki_title": "Europe"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1574, 
+                    "end": 1581, 
+                    "score": 0.34200000762939453, 
+                    "spot": "Siemens"
+                }
+            ], 
+            "wiki_id": 168632, 
+            "wiki_title": "Siemens"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1154, 
+                    "end": 1163, 
+                    "score": 0.10091453790664673, 
+                    "spot": "Inflation"
+                }
+            ], 
+            "wiki_id": 38286, 
+            "wiki_title": "Inflation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 724, 
+                    "end": 730, 
+                    "score": 0.07168235629796982, 
+                    "spot": "fallen"
+                }
+            ], 
+            "wiki_id": 6147723, 
+            "wiki_title": "Fallen (miniseries)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 58, 
+                    "end": 65, 
+                    "score": 0.27495908737182617, 
+                    "spot": "Slovene"
+                }, 
+                {
+                    "begin": 2019, 
+                    "end": 2026, 
+                    "score": 0.28100481629371643, 
+                    "spot": "Slovene"
+                }
+            ], 
+            "wiki_id": 246311, 
+            "wiki_title": "Slovenes"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2494, 
+                    "end": 2498, 
+                    "score": 0.024615822359919548, 
+                    "spot": "main"
+                }
+            ], 
+            "wiki_id": 667797, 
+            "wiki_title": "Main course"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1258, 
+                    "end": 1262, 
+                    "score": 0.06589147448539734, 
+                    "spot": "Feri"
+                }
+            ], 
+            "wiki_id": 367427, 
+            "wiki_title": "Feri Tradition"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1035, 
+                    "end": 1041, 
+                    "score": 0.3834753632545471, 
+                    "spot": "labour"
+                }, 
+                {
+                    "begin": 1035, 
+                    "end": 1047, 
+                    "score": 0.2803347408771515, 
+                    "spot": "labour force"
+                }
+            ], 
+            "wiki_id": 18178, 
+            "wiki_title": "Labour economics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 659, 
+                    "end": 666, 
+                    "score": 0.6049095392227173, 
+                    "spot": "Croatia"
+                }, 
+                {
+                    "begin": 1892, 
+                    "end": 1899, 
+                    "score": 0.6637997031211853, 
+                    "spot": "Croatia"
+                }
+            ], 
+            "wiki_id": 5573, 
+            "wiki_title": "Croatia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 98, 
+                    "end": 114, 
+                    "score": 0.224187433719635, 
+                    "spot": "trading partners"
+                }, 
+                {
+                    "begin": 311, 
+                    "end": 316, 
+                    "score": 0.07297845184803009, 
+                    "spot": "trade"
+                }, 
+                {
+                    "begin": 396, 
+                    "end": 403, 
+                    "score": 0.10787656158208847, 
+                    "spot": "exports"
+                }, 
+                {
+                    "begin": 610, 
+                    "end": 617, 
+                    "score": 0.0678696557879448, 
+                    "spot": "imports"
+                }, 
+                {
+                    "begin": 686, 
+                    "end": 693, 
+                    "score": 0.10787656158208847, 
+                    "spot": "exports"
+                }, 
+                {
+                    "begin": 1765, 
+                    "end": 1774, 
+                    "score": 0.1441991627216339, 
+                    "spot": "exporting"
+                }, 
+                {
+                    "begin": 2125, 
+                    "end": 2134, 
+                    "score": 0.2641202509403229, 
+                    "spot": "exporting"
+                }, 
+                {
+                    "begin": 2242, 
+                    "end": 2249, 
+                    "score": 0.1855238825082779, 
+                    "spot": "imports"
+                }, 
+                {
+                    "begin": 2499, 
+                    "end": 2515, 
+                    "score": 0.0035360679030418396, 
+                    "spot": "trading\npartners"
+                }, 
+                {
+                    "begin": 2602, 
+                    "end": 2607, 
+                    "score": 0.12760499119758606, 
+                    "spot": "trade"
+                }
+            ], 
+            "wiki_id": 14567, 
+            "wiki_title": "International trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1140, 
+                    "end": 1152, 
+                    "score": 0.5177803039550781, 
+                    "spot": "central bank"
+                }
+            ], 
+            "wiki_id": 5666, 
+            "wiki_title": "Central bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2113, 
+                    "end": 2119, 
+                    "score": 0.1312791258096695, 
+                    "spot": "sector"
+                }
+            ], 
+            "wiki_id": 12255159, 
+            "wiki_title": "Economic sector"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 50, 
+                    "end": 57, 
+                    "score": 0.026562383398413658, 
+                    "spot": "forcing"
+                }
+            ], 
+            "wiki_id": 10902, 
+            "wiki_title": "Force"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2259, 
+                    "end": 2266, 
+                    "score": 0.1498340219259262, 
+                    "spot": "Dollars"
+                }, 
+                {
+                    "begin": 2315, 
+                    "end": 2322, 
+                    "score": 0.2031032294034958, 
+                    "spot": "Dollars"
+                }
+            ], 
+            "wiki_id": 8100, 
+            "wiki_title": "Dollar"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1272, 
+                    "end": 1276, 
+                    "score": 0.0031978676561266184, 
+                    "spot": "head"
+                }
+            ], 
+            "wiki_id": 533149, 
+            "wiki_title": "Head coach"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2695, 
+                    "end": 2708, 
+                    "score": 0.3183659315109253, 
+                    "spot": "privatisation"
+                }, 
+                {
+                    "begin": 2741, 
+                    "end": 2754, 
+                    "score": 0.2273019254207611, 
+                    "spot": "privatisation"
+                }
+            ], 
+            "wiki_id": 24661, 
+            "wiki_title": "Privatization"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2190, 
+                    "end": 2197, 
+                    "score": 0.2316744178533554, 
+                    "spot": "quarter"
+                }
+            ], 
+            "wiki_id": 5752099, 
+            "wiki_title": "Fiscal year"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 525, 
+                    "end": 530, 
+                    "score": 0.13287194073200226, 
+                    "spot": "block"
+                }
+            ], 
+            "wiki_id": 948686, 
+            "wiki_title": "City block"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1138, 
+                    "end": 1147, 
+                    "score": 0.010309278033673763, 
+                    "spot": "s central"
+                }
+            ], 
+            "wiki_id": 2970688, 
+            "wiki_title": "T-Centralen"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2583, 
+                    "end": 2592, 
+                    "score": 0.24880388379096985, 
+                    "spot": "this week"
+                }
+            ], 
+            "wiki_id": 1139893, 
+            "wiki_title": "BBC News"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2449, 
+                    "end": 2454, 
+                    "score": 0.45969390869140625, 
+                    "spot": "Italy"
+                }
+            ], 
+            "wiki_id": 14532, 
+            "wiki_title": "Italy"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2724, 
+                    "end": 2727, 
+                    "score": 0.028676478192210197, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 1058750, 
+            "wiki_title": "Now (newspaper)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 186, 
+                    "end": 193, 
+                    "score": 0.16322863101959229, 
+                    "spot": "markets"
+                }
+            ], 
+            "wiki_id": 145965, 
+            "wiki_title": "Market town"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 332, 
+                    "end": 340, 
+                    "score": 0.10185854882001877, 
+                    "spot": "southern"
+                }
+            ], 
+            "wiki_id": 261273, 
+            "wiki_title": "Southern Hemisphere"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1860, 
+                    "end": 1875, 
+                    "score": 0.33708006143569946, 
+                    "spot": "bilateral trade"
+                }
+            ], 
+            "wiki_id": 9071038, 
+            "wiki_title": "Bilateral trade"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2009, 
+                    "end": 2017, 
+                    "score": 0.004868388641625643, 
+                    "spot": "meantime"
+                }
+            ], 
+            "wiki_id": 24980677, 
+            "wiki_title": "In the Meantime (Spacehog song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1684, 
+                    "end": 1694, 
+                    "score": 0.16862425208091736, 
+                    "spot": "electronic"
+                }, 
+                {
+                    "begin": 2077, 
+                    "end": 2088, 
+                    "score": 0.26400071382522583, 
+                    "spot": "electronics"
+                }
+            ], 
+            "wiki_id": 9663, 
+            "wiki_title": "Electronics"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1071, 
+                    "end": 1078, 
+                    "score": 0.1886684000492096, 
+                    "spot": "falling"
+                }
+            ], 
+            "wiki_id": 80825, 
+            "wiki_title": "Free fall"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 631, 
+                    "end": 642, 
+                    "score": 0.05127917230129242, 
+                    "spot": "ensuing war"
+                }
+            ], 
+            "wiki_id": 36197, 
+            "wiki_title": "1948 Arab\u2013Israeli War"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1980, 
+                    "end": 1989, 
+                    "score": 0.11297369748353958, 
+                    "spot": "republics"
+                }
+            ], 
+            "wiki_id": 25536, 
+            "wiki_title": "Republic"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2710, 
+                    "end": 2720, 
+                    "score": 0.1571967601776123, 
+                    "spot": "Parliament"
+                }
+            ], 
+            "wiki_id": 24406, 
+            "wiki_title": "Parliament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1699, 
+                    "end": 1717, 
+                    "score": 0.24122753739356995, 
+                    "spot": "telecommunications"
+                }
+            ], 
+            "wiki_id": 33094374, 
+            "wiki_title": "Telecommunication"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2419, 
+                    "end": 2426, 
+                    "score": 0.14902502298355103, 
+                    "spot": "Horvath"
+                }
+            ], 
+            "wiki_id": 16294202, 
+            "wiki_title": "Johann Horvath"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1199, 
+                    "end": 1203, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }, 
+                {
+                    "begin": 1359, 
+                    "end": 1363, 
+                    "score": 0.0010033606085926294, 
+                    "spot": "last"
+                }
+            ], 
+            "wiki_id": 39078347, 
+            "wiki_title": "Peter R. Last"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 226, 
+                    "end": 235, 
+                    "score": 0.035750389099121094, 
+                    "spot": "officials"
+                }
+            ], 
+            "wiki_id": 9167402, 
+            "wiki_title": "Roman magistrate"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 838, 
+                    "end": 843, 
+                    "score": 0.09225830435752869, 
+                    "spot": "sharp"
+                }
+            ], 
+            "wiki_id": 23772312, 
+            "wiki_title": "Sharp Corporation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1487, 
+                    "end": 1493, 
+                    "score": 0.18064211308956146, 
+                    "spot": "foster"
+                }
+            ], 
+            "wiki_id": 21641, 
+            "wiki_title": "Norman Foster, Baron Foster of Thames Bank"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2157, 
+                    "end": 2166, 
+                    "score": 0.20194686949253082, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 21754, 
+            "wiki_title": "Nation"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 466, 
+                    "end": 473, 
+                    "score": 0.1980545073747635, 
+                    "spot": "divided"
+                }
+            ], 
+            "wiki_id": 325746, 
+            "wiki_title": "Division of Korea"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1583, 
+                    "end": 1595, 
+                    "score": 0.13561592996120453, 
+                    "spot": "German-based"
+                }, 
+                {
+                    "begin": 2440, 
+                    "end": 2447, 
+                    "score": 0.3473362922668457, 
+                    "spot": "Germany"
+                }
+            ], 
+            "wiki_id": 11867, 
+            "wiki_title": "Germany"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1552, 
+                    "end": 1556, 
+                    "score": 0.1990663707256317, 
+                    "spot": "cars"
+                }
+            ], 
+            "wiki_id": 13673345, 
+            "wiki_title": "Car"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2168, 
+                    "end": 2175, 
+                    "score": 0.1834070086479187, 
+                    "spot": "Exports"
+                }, 
+                {
+                    "begin": 2290, 
+                    "end": 2297, 
+                    "score": 0.17911317944526672, 
+                    "spot": "exports"
+                }
+            ], 
+            "wiki_id": 307592, 
+            "wiki_title": "Export"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1628, 
+                    "end": 1633, 
+                    "score": 0.22363242506980896, 
+                    "spot": "maker"
+                }, 
+                {
+                    "begin": 1718, 
+                    "end": 1730, 
+                    "score": 0.1811853051185608, 
+                    "spot": "manufacturer"
+                }
+            ], 
+            "wiki_id": 39388, 
+            "wiki_title": "Manufacturing"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 201, 
+                    "end": 207, 
+                    "score": 0.1373850405216217, 
+                    "spot": "region"
+                }
+            ], 
+            "wiki_id": 55633, 
+            "wiki_title": "Region"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1502, 
+                    "end": 1509, 
+                    "score": 0.34430259466171265, 
+                    "spot": "Renault"
+                }
+            ], 
+            "wiki_id": 162292, 
+            "wiki_title": "Renault"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 262, 
+                    "end": 266, 
+                    "score": 0.07305923849344254, 
+                    "spot": "will"
+                }, 
+                {
+                    "begin": 2647, 
+                    "end": 2651, 
+                    "score": 0.14184428751468658, 
+                    "spot": "will"
+                }
+            ], 
+            "wiki_id": 77697, 
+            "wiki_title": "Will and testament"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 140, 
+                    "end": 149, 
+                    "score": 0.12099289894104004, 
+                    "spot": "countries"
+                }
+            ], 
+            "wiki_id": 5165, 
+            "wiki_title": "Country"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 495, 
+                    "end": 498, 
+                    "score": 0.05395115911960602, 
+                    "spot": "now"
+                }
+            ], 
+            "wiki_id": 8536948, 
+            "wiki_title": "National Organization for Women"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2002, 
+                    "end": 2017, 
+                    "score": 0.0017455053748562932, 
+                    "spot": "In the meantime"
+                }
+            ], 
+            "wiki_id": 24543814, 
+            "wiki_title": "In the Meantime (Helmet song)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1420, 
+                    "end": 1425, 
+                    "score": 0.14459426701068878, 
+                    "spot": "small"
+                }
+            ], 
+            "wiki_id": 276495, 
+            "wiki_title": "Small business"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 943, 
+                    "end": 947, 
+                    "score": 0.12790122628211975, 
+                    "spot": "cent"
+                }
+            ], 
+            "wiki_id": 164092, 
+            "wiki_title": "Penny (United States coin)"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 820, 
+                    "end": 823, 
+                    "score": 0.06392908096313477, 
+                    "spot": "war"
+                }
+            ], 
+            "wiki_id": 32927, 
+            "wiki_title": "World War II"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1233, 
+                    "end": 1239, 
+                    "score": 0.011097187176346779, 
+                    "spot": "fallen"
+                }
+            ], 
+            "wiki_id": 2150129, 
+            "wiki_title": "Carl Fredrik Fall\u00e9n"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1904, 
+                    "end": 1913, 
+                    "score": 0.5299965143203735, 
+                    "spot": "Macedonia"
+                }
+            ], 
+            "wiki_id": 23564616, 
+            "wiki_title": "Republic of Macedonia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 592, 
+                    "end": 598, 
+                    "score": 0.6500487327575684, 
+                    "spot": "Serbia"
+                }
+            ], 
+            "wiki_id": 29265, 
+            "wiki_title": "Serbia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 976, 
+                    "end": 981, 
+                    "score": 0.003874181304126978, 
+                    "spot": "risen"
+                }
+            ], 
+            "wiki_id": 26414, 
+            "wiki_title": "Resurrection of Jesus"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 2626, 
+                    "end": 2628, 
+                    "score": 0.1442955583333969, 
+                    "spot": "UK"
+                }
+            ], 
+            "wiki_id": 31717, 
+            "wiki_title": "United Kingdom"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1921, 
+                    "end": 1923, 
+                    "score": 0.10547905415296555, 
+                    "spot": "Mr"
+                }
+            ], 
+            "wiki_id": 229971, 
+            "wiki_title": "Mouvement R\u00e9formateur"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 36, 
+                    "end": 46, 
+                    "score": 0.4558412432670593, 
+                    "spot": "Yugoslavia"
+                }, 
+                {
+                    "begin": 418, 
+                    "end": 435, 
+                    "score": 0.29887285828590393, 
+                    "spot": "former\nYugoslavia"
+                }, 
+                {
+                    "begin": 701, 
+                    "end": 718, 
+                    "score": 0.22742623090744019, 
+                    "spot": "former Yugoslavia"
+                }, 
+                {
+                    "begin": 793, 
+                    "end": 810, 
+                    "score": 0.29636329412460327, 
+                    "spot": "former Yugoslavia"
+                }, 
+                {
+                    "begin": 1793, 
+                    "end": 1803, 
+                    "score": 0.30560147762298584, 
+                    "spot": "Yugoslavia"
+                }
+            ], 
+            "wiki_id": 34244, 
+            "wiki_title": "Yugoslavia"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 1647, 
+                    "end": 1660, 
+                    "score": 0.267998069524765, 
+                    "spot": "joint venture"
+                }
+            ], 
+            "wiki_id": 538782, 
+            "wiki_title": "Joint venture"
+        }, 
+        {
+            "annotations": [
+                {
+                    "begin": 536, 
+                    "end": 552, 
+                    "score": 0.5118973255157471, 
+                    "spot": "western European"
+                }, 
+                {
+                    "begin": 536, 
+                    "end": 562, 
+                    "score": 0.5031982660293579, 
+                    "spot": "western European countries"
+                }, 
+                {
+                    "begin": 1819, 
+                    "end": 1833, 
+                    "score": 0.28280216455459595, 
+                    "spot": "western Europe"
+                }
+            ], 
+            "wiki_id": 33800, 
+            "wiki_title": "Western Europe"
+        }
+    ]
+}
