@@ -118,7 +118,7 @@ def readTxtFiles(version,file, paperID):
         # token=filter(None,token)
         if len(matches)>0:
             for i in range(0, len(matches)):
-                index=matches[i][0].rfind('/')
+                index=matches[i][0].rfind('_')
                 word = matches[i][0][:index].strip().lower()
                 pos = matches[i][0][index+1:]
                 posLength += (len(pos)+1)
@@ -934,6 +934,7 @@ def main(arg):
     print "Reading params..."
     #reading params
     global  fileList, goldKeyList,fileDir,goldKeyDir,outputDir,keyCount,windowSize,matched,matchedDouble,matchedTriple,matchedTotal,predicated,predicatedTotal,totalKey,ldaModel,JsonDir,JsonRelDir
+
     fileList, goldKeyList, fileDir, goldKeyDir, outputDir, keyCount, windowSize,JsonDir,JsonRelDir=readParams(arg)
 
     global  files
@@ -941,8 +942,7 @@ def main(arg):
     readFiles(1,fileList)
     # ldaModel = computLda(files)
     #read gold key file list
-    if goldKeyList!="":
-        readFiles(2,goldKeyList)
+
 
     for i in range(0,docCount):
     # for i in range(0, 1):
@@ -954,9 +954,10 @@ def main(arg):
         readTxtFiles(1,txt.rstrip(),files[i])
         #readTxtFiles(1,(fileDir+files[0]).rstrip(),files[0])
         key=""
-        if goldKeyDir!="" and i<len(keyList):
-            key=goldKeyDir+keyList[i]
-            readGoldKey(key.rstrip(),i)
+        if goldKeyDir!="" :
+            # key=goldKeyDir+keyList[i]
+            path = goldKeyDir.rstrip() + files[i].replace(".pos", ".key")
+            readGoldKey(path.rstrip(),i)
 
         if JsonDir!="":
             path=JsonDir.rstrip()+files[i].replace(".pos",".json")
@@ -1080,4 +1081,6 @@ def extractConcept(fileIn):
 
 
 if __name__ == '__main__':
-    main('conf.txt')
+    # main('Duc/confDuc.txt')
+    main('Duc/confDuc.txt')
+
