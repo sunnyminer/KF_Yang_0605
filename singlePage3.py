@@ -10,9 +10,16 @@ import lda
 import os
 import operator
 import sys
+import datetime
 import math
+from SPARQLWrapper import SPARQLWrapper, JSON, XML, N3, RDF
+import networkx as nx
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+from networkx.drawing.nx_agraph import graphviz_layout, to_agraph
 reload(sys)
 sys.setdefaultencoding('utf8')
+
 
 
 fileList=""
@@ -84,6 +91,10 @@ def readFiles(version, file):
     obj=open(file,'r')
     lines=obj.readlines()
     global files, keyList, docCount
+    del files[:]
+    del keyList[:]
+    docCount = 0
+
     for x in lines:
         if(version==1):
             files.append(x)
@@ -156,7 +167,8 @@ def readParams(file):
     return paras
 
 def clean():
-    global document, posTags, goldKeyMap, goldKey, srGraph, srScore, position,docLen,nodeCount,tagmeTags
+    global document, posTags, goldKeyMap, goldKey, srGraph, srScore, position,docLen,nodeCount,tagmeTags,tagmeTagList,idEntityMap,conceptTf,conceptTfIdf,docIndices,jsonMap,jsonRelMap
+
     del document[:]
     del posTags[:]
     # del tagmeTags[:]
@@ -174,6 +186,23 @@ def clean():
     position.clear()
     docLen = 0
     nodeCount = 0
+
+
+def cleanCorpus():
+    global matched,matchedDouble,matchedTriple,matchedTotal,predicated,predicatedTotal,totalKey
+    matched = 0
+    matchedDouble = 0
+    matchedTriple = 0
+    matchedTotal = 0
+    predicated = 0
+    predicatedTotal = 0
+    totalKey = 0
+
+
+
+
+
+
 
 def registerGoldKey(gkey, paperID):
     global goldKeyMap,goldKey,totalKey
@@ -209,7 +238,7 @@ def buildGraph():
     global document, position, windowSize, srGraph, nodeCount
     for i in range(0,len(document)):
         word=document[i]
-        if(word in position):
+        if (word in position):
             index =i-1
             count=int(windowSize)
 
@@ -262,13 +291,13 @@ def singleRank():
         srScoreTemp = dict()
         for key,value in srScore.items():
             # for topic, val in value.items():
-            word=key
-            score=0.0
+            word = key
+            score = 0.0
             for k,v in srGraph[word].items():
                 neighbor=k
                 if neighbor!="":
                     score+=srGraph[neighbor][word] * srScore[neighbor]
-            score *=0.85
+            score *= 0.85
             score += (0.15 / (1.0 * nodeCount))
             srScoreTemp[word] = score
         srScore.clear()
@@ -606,8 +635,8 @@ def groupTagMe(candClause,clauseCount,conceptMap_sorted,file,fileIndex):
 def score(file,fileIndex):
 
     global  predicated,matched,keyCount,matchedDouble,matchedTriple,matchedTotal,predicatedTotal
-    # conceptMap_sorted = extractConcept(file)
-    extractConcept(file)
+    conceptMap_sorted = extractConcept(file)
+    # extractConcept(file)
     obj = open((outputDir+file).rstrip().replace(".pos",".phrases"), 'w')
 
     # <string, int>
@@ -621,8 +650,6 @@ def score(file,fileIndex):
     # extractPatternsTagMe(candClause)
     count = tagCandidate(candClause)
 
-    # for key,val in candClause.items():
-    #     print(key,val)
 
     conceptMap_sorted_tfidf = computeCptTfIdf()
 
@@ -630,24 +657,38 @@ def score(file,fileIndex):
 
 
 
-    # for key, val in candClause.items():
-    #     if val>0:
-    #         s=key
-    #         score=getTotalScore(s,fileIndex)
-    #         # if( len(topKey)< int(keyCount)):
-    #         topKey.append(s)
-    #         topKeyVal.append(score)
-    #         # else:
-    #         #     topKey, topKeyVal=replaceLowest(topKey,topKeyVal,s,score)
 
-    for key, val in candClause.items():
+    for key, val in clauseCount.items():
         s=key
         score = getTotalScore(s, fileIndex)
         if s not in topKey:
             topKey.append(s)
             topKeyVal.append(score)
-        # else:
-        #     topKeyVal[topKey.index(s)] += score *10
+
+    # for clause,patternList in candClause.items():
+    #     srScore_sorted = sorted(srScore, key=srScore.get, reverse=True)
+    #     tokens = clause.split(" ")
+    #     flagSr = True
+    #     for token in tokens:
+    #         if token in srScore_sorted:
+    #             index = srScore_sorted.index(token)
+    #             if index >20:
+    #                 flagSr = False
+    #
+    #     if flagSr:
+    #         for patterns in patternList:
+    #             countPattern = 0
+    #             for wikiId in patterns:
+    #                 if (wikiId in conceptMap_sorted) and conceptMap_sorted.index(wikiId) < 5:
+    #                     countPattern += 1
+    #             if countPattern>=2 and clause not in topKey:
+    #                 if isGoldKey(clause):
+    #                     print("----"+clause)
+    #                 else:
+    #                     print(clause)
+    #                 topKey.append(clause)
+    #                 topKeyVal.append(getTotalScore(clause, fileIndex))
+
 
 
 
@@ -657,15 +698,14 @@ def score(file,fileIndex):
     clauseCountGroup = dict()
 
 
-    # for iCpt in range(0,min(cptThreshold,len(conceptMap_sorted))):
-    for iCpt in range(0, min(cptThreshold, len(conceptMap_filtered))):
-    # for iCpt in range(0, min(cptThreshold, len(conceptMap_sorted_tfidf))):
-        concept = conceptMap_filtered[iCpt]
+    for iCpt in range(0,min(cptThreshold,len(conceptMap_sorted))):
+        concept = conceptMap_sorted[iCpt]
         if concept in group_sorted:
             clauseList = group_sorted[concept]
             for iClause in range(0, min(clauseThreshold,len(clauseList))):
                 sCpt = clauseList[iClause]
-                topKeyVal[topKey.index(sCpt)] *= (1 + 1/(iCpt+1))*(1 + 1/(iClause+1))
+                topKeyVal[topKey.index(sCpt)] *= (1 + 1/(iCpt+1))
+                                                 # *(1 + 1/(iClause+1))
                 if sCpt in clauseCountGroup:
                     clauseCountGroup[sCpt] +=1
                 else:
@@ -676,13 +716,13 @@ def score(file,fileIndex):
 
 
 
+    topKey_sorted = [x for (y,x) in sorted(zip(topKeyVal,topKey),reverse=True)]
+
+    plotWords(conceptMap_sorted,group_sorted,topKey_sorted,file)
 
 
-
-    topKey = [x for (y,x) in sorted(zip(topKeyVal,topKey),reverse=True)]
-
-    predicated+= min(len(topKey),int(keyCount))
-    predicatedTotal+=len(topKey)
+    predicated+= min(len(topKey_sorted),int(keyCount))
+    predicatedTotal+=len(topKey_sorted)
 
     for j in range(0, len(goldKey)):
         obj.write(goldKey[j]+"\n")
@@ -693,11 +733,11 @@ def score(file,fileIndex):
     thisMatchedTriple = 0
     thisMatchedTotal = 0
 
-    for i in range(0,len(topKey)):
+    for i in range(0,len(topKey_sorted)):
         if i==int(keyCount):
             obj.write("\n\n\n")
 
-        pkey=topKey[i]
+        pkey=topKey_sorted[i]
         # obj.write(pkey + "\n")
         if(isGoldKey(pkey) or isGoldKey(pkey+"s") or (pkey[len(pkey)-1]=='s' and isGoldKey(pkey[:len(pkey)-1]))):
             thisMatchedTotal+=1
@@ -851,40 +891,22 @@ def readJsonMap(file):
 
             for l in range(0,len(docIndices)):
                 if docIndices[l][0] in range(begin-20,begin+20):
-                    # countIndexmatch += 1
-                    # print(spot,begin)
-                    # tokenSpot = spot.split(" ")
                     matches = [(m.group(0), (m.start(), m.end())) for m in re.finditer(r'\S+', spot)]
                     tokenSpot = matches[0]
-                    # print(matches)
                     flag = False
                     for deviation in range(0,min(20,len(document) - l)):
                         if document[l + deviation].lower() == tokenSpot[0].lower() and flag == False:
-                            # print(deviation)
                             docIndices[l + deviation] = (docIndices[l][0],docIndices[l][1])
                             tagmeTagList[l + deviation] = wikiId
-                            # if len(matches)>1 and document[l + deviation+1].lower() != matches[1][0].lower():
-                                # nomatch += 1
                             flag = True
                     for deviation in range(0, max(-20,-l),-1):
                         if document[l + deviation].lower() == tokenSpot[0].lower() and flag == False:
-                            # print(deviation)
                             docIndices[l + deviation] = (docIndices[l][0], docIndices[l][1] + deviation)
                             tagmeTagList[l + deviation] = wikiId
-                            # if len(matches)>1 and document[l + deviation+1].lower() != matches[1][0].lower():
-                                # nomatch += 1
                             flag = True
-                    # if flag==False:
-                        # nomatch += 1
 
-    # print(nomatch)
-    # print("countIndexMatch",countIndexmatch)
-    #
-    # print(len(tagmeTagList),len(docIndices),len(jsonMap))
-                    # print(document[l-4],document[l-3],document[l-2],document[l-1],document[l],document[l+1],document[l+2],document[l+3],document[l+4])
-            # for k in range(begin,end+1):
-            #     tagmeTags[k]=wikiId
-            #     print(begin,end,spot)
+
+
 
 
 def readRelMap(file):
@@ -922,102 +944,6 @@ def keyTagRate():
                 flag = True
         if flag:
             matched += 1
-
-
-
-
-def main(arg):
-    '''
-    :param arg:
-    :return:
-    '''
-    print "Reading params..."
-    #reading params
-    global  fileList, goldKeyList,fileDir,goldKeyDir,outputDir,keyCount,windowSize,matched,matchedDouble,matchedTriple,matchedTotal,predicated,predicatedTotal,totalKey,ldaModel,JsonDir,JsonRelDir
-
-    fileList, goldKeyList, fileDir, goldKeyDir, outputDir, keyCount, windowSize,JsonDir,JsonRelDir=readParams(arg)
-
-    global  files
-    #read document
-    readFiles(1,fileList)
-    # ldaModel = computLda(files)
-    #read gold key file list
-
-
-    for i in range(0,docCount):
-    # for i in range(0, 1):
-        clean()
-        txt=""
-        txt=fileDir+files[i]
-
-        print "Processing ",i, files[i], " ..."
-        readTxtFiles(1,txt.rstrip(),files[i])
-        #readTxtFiles(1,(fileDir+files[0]).rstrip(),files[0])
-        key=""
-        if goldKeyDir!="" :
-            # key=goldKeyDir+keyList[i]
-            path = goldKeyDir.rstrip() + files[i].replace(".pos", ".key")
-            readGoldKey(path.rstrip(),i)
-
-        if JsonDir!="":
-            path=JsonDir.rstrip()+files[i].replace(".pos",".json")
-            readJsonMap(path.rstrip())
-
-        if JsonRelDir != "":
-            path = JsonRelDir.rstrip() + files[i].replace(".pos",".json")
-            readRelMap(path.rstrip())
-
-        extractConcept(files[i])
-        buildGraph()
-        singleRank()
-
-        #score each candidate phrase and output top-scoring phrases
-        score(files[i],i)
-
-        # for key,val in tagmeTagList.items():
-        #     print(document[key],idEntityMap[val])
-
-    objresult = open((outputDir+"0_result").rstrip(), 'w')
-
-
-    print "---"*30
-
-    p=(100.0*matched)/(1.0*predicated)
-    r=(100.0*matched) / (1.0*totalKey)
-    f= (2.0*p*r)/(p+r)
-    pt=(100.0*matchedTotal)/(1.0*predicatedTotal)
-
-    print "matched= ",matched
-    print "predicated= ",predicated
-    print "totalKey= ",totalKey
-    print "\n"
-
-    print "Recall= ", r
-    print "Precision= ", p
-    print "F-Score= ", f
-    print "\n"
-
-
-    print "matchedDouble= ", matchedDouble
-    print "matchedTriple= ", matchedTriple
-    print "matchedTotal= ", matchedTotal
-    print "predicatedTotal= ", predicatedTotal
-    print "PrecisionTotal= ",pt
-
-    print "done"
-
-    objresult.write("matched= "+str(matched)+"\n")
-    objresult.write("predicated= "+str(predicated)+"\n")
-    objresult.write("totalKey= "+str(totalKey)+"\n\n")
-    objresult.write("Recall= "+str(r)+"\n")
-    objresult.write("Precision= "+str(p)+"\n")
-    objresult.write("F-Score= "+str(f)+"\n\n")
-    objresult.write("matchedDouble= " + str(matchedDouble) + "\n")
-    objresult.write("matchedTriple= " + str(matchedTriple) + "\n")
-    objresult.write("matchedTotal= " + str(matchedTotal) + "\n")
-    objresult.write("predicatedTotal= " + str(predicatedTotal) + "\n")
-    objresult.write("PrecisionTotal= "+str(pt)+"\n")
-
 
 
 def extractConcept(fileIn):
@@ -1069,7 +995,7 @@ def extractConcept(fileIn):
 
 
 
-    file = (outputDir + fileIn).rstrip().replace(".pos",".cpt")
+    # file = (outputDir + fileIn).rstrip().replace(".pos",".cpt")
     # obj = open(file, 'w')
     # for key in conceptMap_sorted:
     #     obj.write(key+"\t\t"+str(conceptMap[key])+"\n")
@@ -1078,9 +1004,405 @@ def extractConcept(fileIn):
 
 
 
+def extractRelation(cptMap,fileIn):
+    file = (outputDir.replace("Out","DBRel") + fileIn).rstrip().replace(".pos",".dbrel")
+    obj = open(file, 'w')
+
+
+    for i in range(0,min(10000,len(cptMap))):
+        for j in range(0, min(10000, len(cptMap))):
+            entitySrc = idEntityMap[cptMap[i]]
+            entityDst = idEntityMap[cptMap[j]]
+            strSrc = "<http://dbpedia.org/resource/"+entitySrc.replace(" ", "_")+">"
+            strDst = "<http://dbpedia.org/resource/"+entityDst.replace(" ", "_")+">"
+            strSql = " SELECT ?relationship WHERE {" + strSrc+" ?relationship "+strDst+ "} "
+            # print(strSql)
+            sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+            sparql.setQuery(strSql)
+            # print '\n\n*** JSON Example'
+            sparql.setReturnFormat(JSON)
+            results = sparql.query().convert()
+            # print results
+
+
+            for result in results["results"]["bindings"]:
+                print i,entitySrc,j,entityDst
+                print result["relationship"]["value"]
+                obj.write(str(i)+" "+str(entitySrc)+" "+str(j)+" "+str(entityDst)+"\n"+str(result["relationship"]["value"])+"\n\n")
+
+    obj.close()
+    return
+
+def printSrScore(file):
+    global srScore
+    obj = open((outputDir.replace("Out", "Words") + file).rstrip().replace(".pos", ".word"),'w')
+    srScore_sorted = sorted(srScore, key=srScore.get, reverse=True)
+
+    for iKey in range(0,len(goldKey)):
+        key = goldKey[iKey]
+        obj.write(key+"\n\t\t")
+        tokens = key.split(" ")
+        for token in tokens:
+            if token in srScore_sorted:
+                index = srScore_sorted.index(token)
+                obj.write(token+" "+str(index)+" ")
+        obj.write("\n")
+
+    obj.write("\n\n\n")
+    for i in range(0,len(srScore_sorted)):
+        obj.write(srScore_sorted[i]+"\n")
+    obj.close()
+
+
+
+def plotWords(conceptMap_sorted,group_sorted,topkey,file):
+
+    G = nx.Graph()
+    entity_group = dict()
+    color_map = []
+
+    maxCon = 15
+
+    for iCpt in range(0,min(maxCon,len(conceptMap_sorted))):
+        concept = conceptMap_sorted[iCpt]
+        if concept in group_sorted:
+            strConcept = (str(iCpt)+" "+idEntityMap[concept])
+            G.add_node(strConcept,color='blue')
+
+            phraseList = group_sorted[concept]
+            for j in range(0,min(10,len(phraseList))):
+                phrase = phraseList[j]
+
+                strphrase = phrase + " " + str(topkey.index(phrase))
+
+                if isGoldKey(phrase):
+                    if phrase in topkey and topkey.index(phrase) < 10:
+                        G.add_node(strphrase, color='purple',style="filled")
+                    else:
+                        G.add_node(strphrase, color='red',shape = 'rectangle',style ="filled")
+                else :
+                    if phrase in topkey and topkey.index(phrase) < 10:
+                        G.add_node(strphrase, color='orange',shape = 'rectangle',style = "filled")
+                    else :
+                        if phrase in topkey and topkey.index(phrase) < 20:
+                            G.add_node(strphrase, color='pink')
+                        else:
+                            G.add_node(strphrase, color='pink')
+                G.add_edge(strConcept,strphrase)
+
+    for i in range(0, min(maxCon, len(conceptMap_sorted))):
+        for j in range(i+1, min(maxCon, len(conceptMap_sorted))):
+            entitySrc = idEntityMap[conceptMap_sorted[i]]
+            entityDst = idEntityMap[conceptMap_sorted[j]]
+
+            if conceptMap_sorted[i] in group_sorted and conceptMap_sorted[j] in group_sorted:
+                strSrc = "<http://dbpedia.org/resource/" + entitySrc.replace(" ", "_") + ">"
+                strDst = "<http://dbpedia.org/resource/" + entityDst.replace(" ", "_") + ">"
+                strSql = " SELECT ?relationship WHERE {" + strSrc + " ?relationship " + strDst + "} "
+                sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+                sparql.setQuery(strSql)
+                sparql.setReturnFormat(JSON)
+                results = sparql.query().convert()
+
+                relationsD1 = list()
+                for result in results["results"]["bindings"]:
+                    strResult = result["relationship"]["value"]
+                    tokens = strResult.split("/")
+                    token = tokens[len(tokens)-1]
+                    if token not in relationsD1:
+                        relationsD1.append(token)
+
+                strRelation = "("
+                for iRel in range(0,len(relationsD1)):
+                    if iRel != 0:
+                        strRelation += ","
+                    strRelation += relationsD1[iRel]
+                strRelation += ")"
+
+
+                if len(relationsD1) > 0:
+                    print(strRelation)
+                    G.add_edge(str(i) + " " + entitySrc, str(j) + " " + entityDst, weight=10, color='green', label=strRelation)
+
+
+
+                entity_group = DBRelation(entitySrc,entityDst,entity_group)
+
+
+    edge_group = dict()
+    for entity1, entity2list in entity_group.items():
+        # if len(entity_group[entity1].items()) == 2 and len(entity_group[entity1][entitySrc]) == 1 and "wikiPageWikiLink" in entity_group[entity1][entitySrc][0] and len(entity_group[entity1][entityDst]) == 1 and "wikiPageWikiLink" in entity_group[entity1][entityDst][0]:
+        if len(entity_group[entity1].items()) == 2:
+            entitySrcTmp = ""
+            entityDstTmp = ""
+            countTmp = 0
+            for entityTmp,relationTmp in entity2list.items():
+                countTmp += 1
+                if countTmp == 1:
+                    entitySrcTmp = entityTmp
+                else:
+                    if countTmp == 2:
+                        entityDstTmp = entityTmp
+            # print(entitySrcTmp, entityDstTmp)
+
+            if entitySrcTmp not in edge_group and entityDstTmp not in edge_group:
+                edge_group[entitySrcTmp] = dict()
+                edge_group[entitySrcTmp][entityDstTmp] = list()
+                edge_group[entitySrcTmp][entityDstTmp].append(entity1)
+            else:
+                if entityDstTmp not in edge_group:
+                    edge_group[entitySrcTmp][entityDstTmp] = list()
+                    edge_group[entitySrcTmp][entityDstTmp].append(entity1)
+                else:
+                    if entitySrcTmp not in edge_group:
+                        edge_group[entityDstTmp][entitySrcTmp] = list()
+                        edge_group[entityDstTmp][entitySrcTmp].append(entity1)
+                    else:
+                        if entityDstTmp not in edge_group[entityDstTmp]:
+                            edge_group[entitySrcTmp][entityDstTmp] = list()
+                            edge_group[entitySrcTmp][entityDstTmp].append(entity1)
+                        else:
+                            edge_group[entitySrcTmp][entityDstTmp].append(entity1)
+            del entity_group[entity1]
+
+    for entitySrcEdge,entityDstList in edge_group.items():
+        for entityDstEdge,interEntityList in entityDstList.items():
+            strInter = ""
+            for iInter in range(0, len(interEntityList)):
+                if iInter != 0:
+                    strInter += ","
+                strInter += interEntityList[iInter]
+            strInter += ""
+            if len(interEntityList)>1:
+                print(strInter)
+            G.add_node(strInter, color = "gray")
+            for entity2 in [entitySrcEdge,entityDstEdge]:
+                entityID = list(idEntityMap.keys())[list(idEntityMap.values()).index(entity2)]
+                if G.has_node(str(conceptMap_sorted.index(entityID)) + " " + entity2):
+                    G.add_edge(strInter, str(conceptMap_sorted.index(entityID)) + " " + entity2, weight=10, color='gray')
+                    # strJunk = ""
+                else:
+                    print("does't have node" + str(conceptMap_sorted.index(entityID)) + " " + entity2)
+
+
+
+
+
+
+    for entity1, entity2list in entity_group.items():
+        for entity2, relations in entity2list.items():
+            if not G.has_node(entity1):
+                G.add_node(entity1, color='gray')
+            strRelation =  "("
+            for iRel in range(0,len(relations)):
+                if iRel !=0:
+                    strRelation += ","
+                strRelation += relations[iRel]
+            strRelation += ")"
+            if len(relations) > 0:
+                # print(strRelation)
+                entityID = list(idEntityMap.keys())[list(idEntityMap.values()).index(entity2)]
+                if G.has_node(str(conceptMap_sorted.index(entityID)) + " " + entity2):
+                    G.add_edge(entity1,str(conceptMap_sorted.index(entityID)) + " " + entity2, weight=10, color='gray') #, label=strRelation)
+                else:
+                    print("does't have node"+str(conceptMap_sorted.index(entityID)) + " " + entity2)
+
+
+    # nx.draw_random(G,node_color = color_map,with_labels = True)
+    # plt.show()
+
+    A = to_agraph(G)
+    # print(A)
+    # A.layout('twopi')
+    A.layout('fdp')
+    # A.draw('abcdfdp.png')
+    A.draw((outputDir.replace("Out","Graph") + file).rstrip().replace(".pos", ".png"
+                                                                              ""))
+    # obj = open((outputDir.replace("Out","Graph") + file).rstrip().replace(".pos", ".png"), 'w')
+
+3
+
+def DBRelation(entitySrc,entityDst,entity_group):
+    strSrc = "<http://dbpedia.org/resource/" + entitySrc.replace(" ", "_") + ">"
+    strDst = "<http://dbpedia.org/resource/" + entityDst.replace(" ", "_") + ">"
+    strSql = " SELECT ?relationship1 ?relationship2 ?entity WHERE {" + strSrc + " ?relationship1 " + "?entity" + " . " + "?entity " + "?relationship2 " + strDst + "} "
+    sparql = SPARQLWrapper("http://dbpedia.org/sparql")
+    sparql.setQuery(strSql)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+
+    # print(strSql)
+
+    # entity_group = dict()
+    for result in results["results"]["bindings"]:
+        strResultEntity = result["entity"]["value"]
+        tokensEntity = strResultEntity.split("/")
+        tokenEntity = tokensEntity[len(tokensEntity) - 1]
+
+        strResult1 = result["relationship1"]["value"]
+        tokens1 = strResult1.split("/")
+        token1 = tokens1[len(tokens1) - 1]
+
+        strResult2 = result["relationship2"]["value"]
+        tokens2 = strResult2.split("/")
+        token2 = tokens2[len(tokens2) - 1]
+
+        # print(strResult1,strResult2,strResultEntity)
+
+        if tokenEntity not in entity_group:
+            entity_group[tokenEntity] = dict()
+            relList = list()
+            relList.append(token1)
+            entity_group[tokenEntity][entitySrc] = relList
+        else:
+            if entitySrc not in entity_group[tokenEntity]:
+                relList = list()
+                relList.append(token1)
+                entity_group[tokenEntity][entitySrc] = relList
+            else:
+                if token1 not in entity_group[tokenEntity][entitySrc]:
+                    entity_group[tokenEntity][entitySrc].append(token1)
+
+        if tokenEntity not in entity_group:
+            entity_group[tokenEntity] = dict()
+            relList = list()
+            relList.append(token2)
+            entity_group[tokenEntity][entityDst] = relList
+        else:
+            if entityDst not in entity_group[tokenEntity]:
+                relList = list()
+                relList.append(token2)
+                entity_group[tokenEntity][entityDst] = relList
+            else:
+                if token2 not in entity_group[tokenEntity][entitySrc]:
+                    entity_group[tokenEntity][entitySrc].append(token2)
+
+
+
+    # for entity1,entity2list in entity_group.items():
+    #     for entity2,relations in entity2list.items():
+    #         for relation in relations:
+    #             print(entity2,entity1,relation)
+
+    return entity_group
+
+
+
+
+def main(arg):
+    '''
+    :param arg:
+    :return:
+    '''
+    print "Reading params..."
+    #reading params
+    global  fileList, goldKeyList,fileDir,goldKeyDir,outputDir,keyCount,windowSize,matched,matchedDouble,matchedTriple,matchedTotal,predicated,predicatedTotal,totalKey,ldaModel,JsonDir,JsonRelDir
+
+    fileList, goldKeyList, fileDir, goldKeyDir, outputDir, keyCount, windowSize,JsonDir,JsonRelDir=readParams(arg)
+
+    global  files
+    #read document
+    readFiles(1,fileList)
+    # ldaModel = computLda(files)
+    #read gold key file list
+
+    cleanCorpus()
+
+
+    for i in range(0,docCount):
+    # for i in range(0, 1):
+        clean()
+        txt=""
+
+        txt=fileDir+files[i]
+
+        print "Processing ",i, files[i], " ..."
+        readTxtFiles(1,txt.rstrip(),files[i])
+        #readTxtFiles(1,(fileDir+files[0]).rstrip(),files[0])
+        key=""
+        if goldKeyDir!="" :
+            # key=goldKeyDir+keyList[i]
+            path = goldKeyDir.rstrip() + files[i].replace(".pos", ".key")
+            readGoldKey(path.rstrip(),i)
+
+        if JsonDir!="":
+            path=JsonDir.rstrip()+files[i].replace(".pos",".json")
+            readJsonMap(path.rstrip())
+
+        if JsonRelDir != "":
+            path = JsonRelDir.rstrip() + files[i].replace(".pos",".json")
+            readRelMap(path.rstrip())
+
+        # cptMap = extractConcept(files[i])
+        # extractRelation(cptMap,files[i])
+
+        extractConcept(files[i])
+        buildGraph()
+        singleRank()
+        # printSrScore(files[i])
+
+        #score each candidate phrase and output top-scoring phrases
+        score(files[i],i)
+
+        # for key,val in tagmeTagList.items():
+        #     print(document[key],idEntityMap[val])
+
+    objresult = open(("Results/"+outputDir.split("/")[0]+"Result"+datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")).rstrip(), 'w')
+
+
+    print "---"*30
+
+    p=(100.0*matched)/(1.0*predicated)
+    r=(100.0*matched) / (1.0*totalKey)
+    f= (2.0*p*r)/(p+r)
+    pt=(100.0*matchedTotal)/(1.0*predicatedTotal)
+
+    print "matched= ",matched
+    print "predicated= ",predicated
+    print "totalKey= ",totalKey
+    print "\n"
+
+    print "Recall= ", r
+    print "Precision= ", p
+    print "F-Score= ", f
+    print "\n"
+
+
+    print "matchedDouble= ", matchedDouble
+    print "matchedTriple= ", matchedTriple
+    print "matchedTotal= ", matchedTotal
+    print "predicatedTotal= ", predicatedTotal
+    print "PrecisionTotal= ",pt
+
+    print "done"
+
+    objresult.write("matched= "+str(matched)+"\n")
+    objresult.write("predicated= "+str(predicated)+"\n")
+    objresult.write("totalKey= "+str(totalKey)+"\n\n")
+    objresult.write("Recall= "+str(r)+"\n")
+    objresult.write("Precision= "+str(p)+"\n")
+    objresult.write("F-Score= "+str(f)+"\n\n")
+    objresult.write("matchedDouble= " + str(matchedDouble) + "\n")
+    objresult.write("matchedTriple= " + str(matchedTriple) + "\n")
+    objresult.write("matchedTotal= " + str(matchedTotal) + "\n")
+    objresult.write("predicatedTotal= " + str(predicatedTotal) + "\n")
+    objresult.write("PrecisionTotal= "+str(pt)+"\n")
+
+
+
 
 
 if __name__ == '__main__':
-    # main('Duc/confDuc.txt')
+
+    # main('InspecTrain/confTrain.txt')
+    # main('InspecVal/confVal.txt')
+    # main('InspecTest/confTest.txt')
+    # main('Nus/confNus.txt')
+    # main('SemTrain/confSemTrain.txt')
+    # main('SemTrial/confSemTrial.txt')
+    # main('SemTest/confSemTest.txt')
     main('Duc/confDuc.txt')
+    # main('Asr/confAsr.txt')
+    # main('Human/confHuman.txt')
+
 

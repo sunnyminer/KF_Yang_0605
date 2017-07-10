@@ -1,5 +1,5 @@
-# -*- coding: utf-8  -*-
-from __future__ import unicode_literals
+# -*- coding: utf-8 -*-
+from __future__ import absolute_import, unicode_literals
 
 # This is an automatically generated file. You can find more configuration
 # parameters in 'config.py' file.
@@ -41,7 +41,6 @@ mylang = 'en'
 # have a bot account. If you have a unique username for all languages of a
 # family , you can use '*'
 usernames['wikipedia']['en'] = u'sunnyminer'
-usernames['wikipedia']['en'] = u'sunnyminer'
 
 
 # ############# LOGFILE SETTINGS ##############
@@ -78,6 +77,22 @@ log_pywiki_repo_version = False
 # if True, include a lot of debugging info in logfile
 # (overrides log setting above)
 debug_log = []
+
+# ############# EXTERNAL SCRIPT PATH SETTING ##############
+# set your own script path to lookup for your script files.
+# your private script path must be located inside the
+# framework folder, subfolders must be delimited by '.'.
+# every folder must contain an (empty) __init__.py file.
+#
+# The search order is
+# 1. user_script_paths in the given order
+# 2. scripts
+# 3. scripts/maintenance
+# 4. scripts/archive
+#
+# sample:
+# user_script_paths = ['scripts.myscripts']
+user_script_paths = []
 
 # ############# INTERWIKI SETTINGS ##############
 
@@ -138,6 +153,7 @@ interwiki_contents_on_disk = False
 # disambiguation_comment['wikipedia']['en'] = \
 #    "Robot-assisted disambiguation ([[WP:DPL|you can help!]]): %s"
 
+# Sorting order for alternatives. Set to True to ignore case for sorting order.
 sort_ignore_case = False
 
 # ############# IMAGE RELATED SETTINGS ##############
@@ -152,7 +168,7 @@ upload_to_commons = False
 # but never more than 'maxthrottle' seconds. However - if you are running
 # more than one bot in parallel the times are lengthened.
 # By default, the get_throttle is turned off, and 'maxlag' is used to
-# control the rate of server access.  Set minthrottle to non-zero to use a
+# control the rate of server access. Set minthrottle to non-zero to use a
 # throttle on read access.
 minthrottle = 0
 maxthrottle = 60
@@ -165,7 +181,7 @@ put_throttle = 10
 # than 'noisysleep' seconds, it is logged on the screen.
 noisysleep = 3.0
 
-# Defer bot edits during periods of database server lag.  For details, see
+# Defer bot edits during periods of database server lag. For details, see
 # https://www.mediawiki.org/wiki/Maxlag_parameter
 # You can set this variable to a number of seconds, or to None (or 0) to
 # disable this behavior. Higher values are more aggressive in seeking
@@ -180,8 +196,12 @@ maxlag = 5
 # running solve_disambiguation.py with the -primary argument.
 special_page_limit = 500
 
+# Maximum of pages which can be retrieved at one time from wiki server.
+# -1 indicates limit by api restriction
+step = -1
+
 # Maximum number of times to retry an API request before quitting.
-max_retries = 25
+max_retries = 15
 # Minimum time to wait before resubmitting a failed API request.
 retry_wait = 5
 
@@ -193,9 +213,6 @@ splitLongParagraphs = False
 # sometimes HTML-tables are indented for better reading.
 # That can do very ugly results.
 deIndentTables = True
-# table2wiki.py works quite stable, so you might switch to True
-table2wikiAskOnlyWarnings = True
-table2wikiSkipWarnings = False
 
 # ############# WEBLINK CHECKER SETTINGS ##############
 
@@ -205,6 +222,9 @@ table2wikiSkipWarnings = False
 max_external_links = 50
 
 report_dead_links_on_talk = False
+
+# Don't alert on links days_dead old or younger
+weblink_dead_days = 7
 
 # ############# DATABASE SETTINGS ##############
 # Setting to connect the database or replica of the database of the wiki.
@@ -218,6 +238,9 @@ db_username = ''
 db_password = ''
 db_name_format = '{0}'
 db_connect_file = user_home_path('.my.cnf')
+# local port for mysql server
+# ssh -L 4711:enwiki.labsdb:3306 user@tools-login.wmflabs.org
+db_port = 3306
 
 # ############# SEARCH ENGINE SETTINGS ##############
 
@@ -238,6 +261,13 @@ flickr = {
     'review': False,  # Do we use automatically make our uploads reviewed?
     'reviewer': u'',  # If so, under what reviewer name?
 }
+
+# Using the Panoramio api
+panoramio = {
+    'review': False,  # Do we use automatically make our uploads reviewed?
+    'reviewer': u'',  # If so, under what reviewer name?
+}
+
 
 # ############# COPYRIGHT SETTINGS ##############
 
@@ -300,8 +330,11 @@ copyright_economize_query = True
 # DISABLED FUNCTION. Setting this variable will not have any effect.
 persistent_http = False
 
-# Default socket timeout. Set to None to disable timeouts.
-socket_timeout = 120  # set a pretty long timeout just in case...
+# Default socket timeout in seconds.
+# DO NOT set to None to disable timeouts. Otherwise this may freeze your script.
+# You may assign either a tuple of two int or float values for connection and
+# read timeout, or a single value for both in a tuple (since requests 2.4.0).
+socket_timeout = (6.05, 45)
 
 
 # ############# COSMETIC CHANGES SETTINGS ##############
@@ -360,11 +393,7 @@ replicate_replace = {}
 
 # Proxy configuration
 
-# For proxy support, install socksipy or httplib2 0.7+
-# then add these three lines to your user-config.py:
-# from httplib2 import ProxyInfo, socks
-# proxy = ProxyInfo(socks.PROXY_TYPE_HTTP, 'localhost', 8000)
-# del ProxyInfo, socks
+# TODO: proxy support
 proxy = None
 
 # Simulate settings
